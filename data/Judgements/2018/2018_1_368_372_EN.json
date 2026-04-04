@@ -1,0 +1,93 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment dated 13.05.2014 passed by the High Court of Chhattisgarh dismissing the criminal appeal Nos.598-99/2009 thereby confirming the conviction and sentence passed by the trial court.",
+    "high_court_proceedings": "The High Court of Chhattisgarh dismissed Criminal Appeal Nos. 598 and 599 of 2009, thereby confirming the conviction and sentence passed by the trial court against the appellants/accused under Section 302 IPC read with Section 149 IPC and other offences.",
+    "supreme_court_posture": "The Supreme Court dismissed the appeals (Criminal Appeal Nos. 197-198 of 2018), finding no ground to interfere with the verdict of conviction and the sentence of imprisonment imposed upon the appellants/accused."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellants under Section 302 read with Section 149 IPC and the sentence imposed upon them by the High Court are liable to be interfered with.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were convicted by a trial court for the murder of three people and causing injuries to two others as part of an unlawful assembly, under Section 302 read with Section 149 of the Indian Penal Code.",
+          "The trial court's conviction and sentence of life imprisonment were confirmed by the High Court.",
+          "The appellants had also sustained injuries during the incident, which they argued the prosecution failed to explain."
+        ],
+        "law": [
+          "The evidence of an injured eyewitness is considered to be on a 'higher footing' and is highly credible.",
+          "It is not an invariable rule that the prosecution must explain injuries sustained by an accused in the same occurrence.",
+          "For the prosecution's failure to explain such injuries to be fatal to its case, the court must be satisfied that: (i) the injuries on the accused were of a serious nature, and (ii) they were caused during the incident in question."
+        ],
+        "application": [
+          "The Supreme Court found that the lower courts had correctly relied on the testimony of PW-19, an injured eyewitness.",
+          "The court rejected the appellants' argument that they acted in self-defense, stating that the circumstances did not suggest the complainant party were the aggressors.",
+          "Applying the legal test for explaining injuries on the accused, the court noted that the injuries sustained by the appellants were 'simple in nature.'",
+          "Because the injuries were not serious, the court held that it was not incumbent upon the prosecution to explain them.",
+          "The court also pointed to medical evidence suggesting that the injuries found on the accused could have been self-inflicted."
+        ],
+        "conclusion": "The Supreme Court concluded that the trial court and High Court had rightly convicted the appellants based on a proper appreciation of the evidence and well-considered reasoning. Finding no ground to interfere with the conviction or the sentence, the court dismissed the appeals."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellants under Section 302 read with Section 149 IPC and the sentence imposed upon them by the High Court are liable to be interfered with.",
+      "appellant_arguments": [
+        "The prosecution's failure to explain the injuries sustained by the appellants during the occurrence is fatal to its case."
+      ],
+      "respondent_arguments": [
+        "The prosecution is not obligated to explain the injuries on the accused, as they were simple in nature and could have been self-inflicted."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "149",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The prosecution's failure to explain injuries sustained by an accused during the same occurrence is not invariably fatal to the prosecution's case. Before such a failure can negatively affect the prosecution's case, the court must be satisfied of two conditions: (1) the injury on the accused was of a serious nature, and (2) the injury was caused at the time of the occurrence in question.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the prosecution's failure to explain the injuries sustained by the appellants is not fatal to its case. It established that there is no absolute rule obligating the prosecution to explain such injuries, particularly when two conditions are not met: that the injuries were serious and that they were definitively caused during the incident. In this case, the injuries were simple in nature and could have been self-inflicted, thus the non-explanation did not discredit the prosecution's case.",
+    "legal_tests_applied": [
+      "Before holding that non-explanation of the injuries on the persons of the accused persons by the prosecution witnesses may affect the prosecution case, the court has to be satisfied of the existence of two conditions: (i) that the injury on the person of the accused was of a serious nature; and (ii) that such injuries must have been caused at the time of the occurrence in question."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the prosecution's failure to explain their injuries was fatal to the case was rejected because the court held it is not an invariable rule of law that the prosecution is obliged to explain every injury on an accused.",
+      "The injuries sustained by the appellants were found to be simple in nature, failing the first condition of the legal test which requires the injuries to be serious for their non-explanation to be considered significant.",
+      "The court noted the answers elicited from doctors suggested that the injuries found on the accused could have been self-inflicted, which weakened the appellant's claim that the prosecution's narrative was incomplete or false."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the court affirmed the legal principle that the prosecution is not automatically required to explain injuries on the accused in every instance.",
+      "The evidence supported the respondent's case, as the injuries on the appellants were characterized as simple, not serious.",
+      "Medical testimony suggesting the possibility of self-inflicted injuries provided a plausible alternative that negated the need for the prosecution to account for them as part of the main criminal occurrence."
+    ],
+    "policy_considerations": [
+      "The court's reasoning prevents the establishment of a rigid, technical rule that could allow an accused to undermine a valid prosecution by sustaining or fabricating minor injuries and then claiming the prosecution's failure to explain them is a fatal flaw. This ensures the focus remains on the substantive evidence of the crime itself, unless the unexplained injuries are so severe as to genuinely cast doubt on the prosecution's version of events."
+    ]
+  },
+  "evidence_map": {}
+}

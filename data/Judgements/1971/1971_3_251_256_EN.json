@@ -1,0 +1,122 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court",
+    "impugned_order": "Judgment and order dated May 1, 1968 of the Madhya Pradesh High Court, Gwalior Bench in Criminal Appeal No. 143 of 1966, which allowed the appeal of the State and convicted the appellant under s. 435, Indian Penal Code.",
+    "high_court_proceedings": "The State appealed to the High Court. The High Court allowed the appeal, convicting the appellant under s. 435, Indian Penal Code, and sentencing him to one year imprisonment. The High Court reversed the Magistrate Court's decision.",
+    "supreme_court_posture": "The appellant (Ratanlal) appealed to the Supreme Court by special leave, challenging the High Court's judgment."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "acquitted",
+    "sentence_status": "",
+    "directions": [
+      "His bail bond shall stand cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the appellant was a person of unsound mind within the meaning of Section 84 of the Indian Penal Code at the time of the incident?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant set fire to some grass and was arrested the next day.",
+          "He was held in police custody for about 10 days before being referred for a medical examination.",
+          "An Assistant Surgeon, a Civil Surgeon, and a Psychiatrist all reported that he was depressed, silent, and a lunatic under the Indian Lunacy Act.",
+          "Two of the appellant's relatives testified that he had been mentally unsound for 2-3 years, exhibiting behavior such as setting fire to his own clothes and house.",
+          "They also described his strange behavior on the day of the incident, where he locked himself in his house and would not speak to anyone.",
+          "The trial Magistrate acquitted the appellant, but the High Court reversed this decision and convicted him."
+        ],
+        "law": [
+          "The central legal principle is Section 84 of the Indian Penal Code, which provides a defense for a person who, at the time of committing an act, was of unsound mind and incapable of knowing the nature of the act or that it was wrong or contrary to law.",
+          "The crucial point in time for establishing this unsoundness of mind is the time the crime was committed.",
+          "The burden of proving this defense lies on the accused.",
+          "The standard of proof for the accused is not as high as for the prosecution; it is the standard required in a civil proceeding (a preponderance of probabilities).",
+          "This can be established from circumstances that preceded, attended, and followed the crime."
+        ],
+        "application": [
+          "The Supreme Court found that the appellant had successfully met his burden of proof.",
+          "It gave weight to the testimony of the appellant's relatives, stating that while they were relations, they were also the people most likely to be in intimate contact with him and knowledgeable about his condition.",
+          "The Court considered the medical evidence, which diagnosed him as a lunatic, as a key indicator of his mental state, and criticized the High Court for dismissing it.",
+          "The Court drew a negative inference from the police's conduct. It noted that the police held the appellant in custody for a significant period without providing any evidence of his condition during that time. The Court stated this made it impossible for the appellant to prove his mental state at the time of the incident and that the prosecution should have led evidence on this point.",
+          "The Court combined the evidence of the appellant's prior mental instability, his behavior on the day of the incident, the subsequent medical reports, and the failure of the police to produce evidence to the contrary to conclude he was insane at the time of the act."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellant had discharged the burden of proving he was a person of unsound mind within the meaning of Section 84 of the Indian Penal Code at the time of the incident. Therefore, the Court allowed the appeal and acquitted him of the offence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the appellant was a person of unsound mind within the meaning of Section 84 of the Indian Penal Code at the time of the incident?",
+      "appellant_arguments": [
+        "The circumstances which preceded, attended, and followed the crime indicated that the appellant was entitled to the benefit of Section 84 of the Indian Penal Code.",
+        "The testimony of the defence witnesses, who were relatives in intimate contact with the appellant, should be believed.",
+        "The medical evidence and reports indicated that the appellant was insane.",
+        "The High Court's observation of the appellant's normal demeanor in court was an irrelevant consideration due to the time that had elapsed since the offence.",
+        "It is unreasonable to expect a poor villager to produce an expert in mental diseases to substantiate his plea, especially given the existing medical certificates."
+      ],
+      "respondent_arguments": [
+        "The appellant appeared to be of normal understanding in court and gave intelligent answers to questions, indicating he was not of unsound mind.",
+        "It was unsafe to rely on the testimony of the defence witnesses because they were relatives and such evidence could always be procured.",
+        "The appellant failed to produce any independent witness to support the plea of insanity.",
+        "The appellant had not examined any expert in mental diseases to substantiate his plea of legal insanity.",
+        "The medical reports were of no evidentiary value because they spoke of the appellant's mental state at the time of the examination, not at the time of the incident."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "84",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "435",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Madya Pradesh v. Ahmadulla",
+        "citation": "[1961] 3 S.C.R. 583",
+        "principle": "The crucial point of time for ascertaining the state of mind of the accused is the time when the offence was committed, and the state of mind has to be established from the circumstances which preceded, attended, and followed the crime.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "D. C. Thakker v. State of Gujarat",
+        "citation": "[1964] 7 S.C.R. 361",
+        "principle": "The crucial point of time for ascertaining the state of mind of the accused is the time when the offence was committed, and the state of mind has to be established from the circumstances which preceded, attended, and followed the crime.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The crucial point of time at which unsoundness of mind should be established is the time when the crime was committed. The burden of proving this lies on the accused, though the burden is no higher than that which rests upon a party to civil proceedings.",
+    "obiter": [
+      "Evidence of conduct not confirming to the accepted pattern of human behaviour is inadequate to establish such an impairment of cognitive faculties of the accused as to render him legally insane.",
+      "It is the relations who are likely to remain in intimate contact."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found that the appellant had successfully discharged the burden of proving he was of unsound mind at the time of the incident. The Court held that there was no reason to disbelieve the defence witnesses and explicitly rejected the High Court's reasoning that the appellant needed to show homicidal tendencies to prove legal insanity, stating, \"it is not necessary that every insane person should have homicidal tendencies. In this case he is not charged for an offence involving homicide but arson.\"",
+    "legal_tests_applied": [
+      "It is now well-settled that the crucial point of time at which unsoundness of mind should be established is the time when the crime was committed.",
+      "The burden of proving this lies on the accused though the burden is no higher than that which rests upon a party to civD pre-ceedings."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[1]": [
+      "p6_bb49540c"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p1_ac91f57c"
+    ]
+  }
+}

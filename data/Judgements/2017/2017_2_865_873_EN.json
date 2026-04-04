@@ -1,0 +1,117 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a lower criminal court where criminal proceedings were initiated.",
+    "impugned_order": "Judgment and Order dated 18.06.2014 of the High Court of Judicature of Bombay, Nagpur Bench at Nagpur in Criminal Application (APL) No. 354 of 2012.",
+    "high_court_proceedings": "The appellant (a doctor) filed a petition under Section 482 CrPC in the High Court of Judicature of Bombay, Nagpur Bench (Criminal Application (APL) No. 354 of 2012) seeking to quash criminal proceedings initiated against her under Section 304-A IPC. The High Court dismissed this petition.",
+    "supreme_court_posture": "The doctor appealed to the Supreme Court challenging the High Court's order. The Supreme Court granted leave to appeal and ultimately allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "quashed",
+    "sentence_status": "",
+    "directions": [
+      "Set aside the judgment dated 18.06.2014, passed by the learned Single Judge of the High Court of Bombay, Nagpur Bench in Criminal Application (APL) No.354 of 2012.",
+      "Quash the criminal proceedings initiated against the appellant vide order dated 28.02.2001, passed by the Judicial Magistrate, First Class, Court No.6, Amravati in Regular Criminal Case No. 310 of 1999 in FIR Crime No.317 of 1997.",
+      "Pending application(s), if any, stand(s) disposed of."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the appellant doctor's act of leaving a patient, who later died, amounted to a rash and negligent act punishable under Section 304-A of the IPC, thereby constituting criminal negligence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, a 'Surgeon on Call', was called to the hospital to attend to a patient suffering from abdominal pain.",
+          "She examined the patient and, based on her professional judgment, found no evidence of bleeding or injury that required surgical intervention.",
+          "She made a note for a physician to be called to attend to the patient.",
+          "The appellant then left the hospital at around 11:00 p.m. without waiting for the physician to arrive.",
+          "The nursing staff on duty did not call the appellant again, even as the patient's condition worsened overnight.",
+          "The patient unfortunately died the next morning."
+        ],
+        "law": [
+          "To establish criminal negligence against a medical professional under Section 304-A IPC, the act must be 'grossly' rash or negligent.",
+          "It must be proven that the professional did something (or failed to do something) that no medical professional in their ordinary senses and prudence would have done.",
+          "A distinction exists between a mere 'error of judgment' and a criminally 'rash and negligent act'. An error of judgment is not sufficient to constitute criminal negligence."
+        ],
+        "application": [
+          "The Court determined that the only significant allegation against the doctor was that she left the patient.",
+          "The Court reasoned that the doctor had fulfilled her duty as a surgeon on call by coming to the hospital, examining the patient, and making a professional assessment that a physician was required.",
+          "Her decision to leave without waiting for the physician was characterized as a possible 'error of judgment', not a criminally rash and negligent act. The Court noted she likely assumed the physician would arrive soon.",
+          "The Court also placed significance on the fact that the nursing staff never called the doctor back, suggesting that they did not perceive an immediate, worsening crisis that required her specific attention.",
+          "The Court compared her situation to that of the Emergency Medical Officer, who had already been discharged from the case, implying similar treatment was warranted."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellant doctor's actions did not constitute a 'rash and negligent act' punishable under Section 304-A of the IPC. Her conduct was, at worst, an error of judgment and did not meet the high threshold for criminal negligence. Therefore, the Court quashed the criminal proceedings against her."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the appellant doctor's act of leaving a patient, who later died, amounted to a rash and negligent act punishable under Section 304-A of the IPC, thereby constituting criminal negligence.",
+      "appellant_arguments": [
+        "Relying on the precedent set in Jacob Mathew v. State of Punjab & Anr., the appellant argued that courts should be circumspect before initiating criminal proceedings against a medical professional.",
+        "The appellant contended that a doctor's duty is to provide reasonable care with professional competence and skill, not to guarantee a positive outcome.",
+        "The appellant's actions did not meet the high threshold required for criminal negligence, which involves a breach of a legal duty to exercise due care resulting in damage."
+      ],
+      "respondent_arguments": [
+        "The respondent's position, as reflected in the High Court's judgment, was that the question of whether the appellant's inaction—leaving the patient at 11:00 p.m. and not waiting for the physician to arrive—amounted to a rash and negligent act should be decided during a trial."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "304-A",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Jacob Mathew v. State of Punjab & Anr.",
+        "citation": "(2005) 6 SCC 1",
+        "principle": "The expression 'rash or negligent act' as occurring in Section 304-A IPC has to be read as qualified by the word 'grossly', and the principle of res ipsa loquitur has limited application in trials on a charge of criminal negligence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A professional is liable for negligence on one of two findings: either they did not possess the requisite skill they professed to have, or they did not exercise the skill they did possess with reasonable competence. The standard for judging negligence is that of an ordinary competent person exercising ordinary skill in that profession, not the standard of a highly skilled expert.",
+    "obiter": [
+      "The evidentiary rule of res ipsa loquitur operates primarily in civil law and has limited application in trials for criminal negligence; it cannot be used to determine liability per se in the criminal domain."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In the facts and circumstance of this case, it cannot be said that the appellant is guilty of criminal negligence. At best it is an error of judgment. In view of the above discussion, we are of the view that no case of committing a rash and negligent act contemplated under Section 304-A of the IPC is made out against the appellant.",
+    "legal_tests_applied": [
+      "To prosecute a medical professional for negligence under criminal law it must be shown that the accused did something or failed to do something which in the given facts and circumstances no medical professional in his ordinary senses and prudence would have done or failed to do. The hazard taken by the accused doctor should be of such a nature that the injury which resulted was most likely imminent.",
+      "Res ipsa loquitur is only a rule of evidence and operates in the domain of civil law, specially in cases of torts and helps in determining the onus of proof in actiqns relating to negligence. It cannot be pressed in service for determining per se the liability for negligence within the domain of criminal law."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The appellant's actions did not meet the high threshold for criminal negligence; at most, they constituted an error of judgment, which is insufficient for a conviction under Section 304-A of the IPC."
+    ],
+    "policy_considerations": [
+      "If the hands be trembling with the dangling fear of facing a criminal prosecution in the event of failure for whatever reason - whether attributable to himself or not, neither can a surgeon successfully wield his life-saving scalpel to perform an essential surgery, nor can a physician successfully administer the life-saving dose of medicine.",
+      "Discretion being the better part of valour, a medical professional woulfl feel better advised to leave a terminal patient to his own fate in the case of emergency where the chance of success may be 10% (or so), rather than taking the risk of making a last ditch effort towards saving the subject and facing a criminal prosecution if his effort fails. Such timidity forced upon a doctor would be a disservice to society.",
+      "No sensible professional would intentionally commit an act or omission which would result in loss or injury to the patient as the professional reputation of the person is at.stake.",
+      "A medical practitioner faced with an emergency ordinarily tries his best to redeem the patient out of his suffering. He does not gain anything by acting with negligence or by omitting to do an act, Obviously, therefore, it will be forthe complainant to clearly make out a. case of negligence before a medical practitioner is charged with or proceeded against criminally."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p9_37309a2d"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p8_9f126d62"
+    ],
+    "judicial_reasoning.policy_considerations[0]": [
+      "p5_5026e814"
+    ],
+    "judicial_reasoning.policy_considerations[2]": [
+      "p4_cb92775f"
+    ]
+  }
+}

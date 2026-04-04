@@ -1,0 +1,94 @@
+{
+  "procedural_history": {
+    "originating_court": "Bombay High Court",
+    "impugned_order": "Order dated the 11th day of September, 1952 of the said High Court in its Ordinary Original Jurisdiction in Misc. Application No. 216 of 1952.",
+    "high_court_proceedings": "The respondent filed a writ application under Article 226 of the Constitution in the Bombay High Court and the application was heard by Tendolkar, J. who set aside the impugned order. Against his decision the appellant appealed and a Division Bench of the said Court affirmed the decision of Tendolkar, J.",
+    "supreme_court_posture": "The present appeal is by special leave against the decision of the High Court."
+  },
+  "decision": {
+    "appeal_result": "The judgment of the High Court is set aside.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Costs in the appeal in this Court shall be paid by the appellant to the respondent as directed by the order granting Special Leave.",
+      "Each party, however, will bear his own costs in the High Court."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the requisition of the property was for a public purpose.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Government of Bombay requisitioned premises, stating the reason was \"for housing an Officer of the State Road Transport Corporation which is a public utility service.\"",
+          "The High Court had set aside this order, ruling that it was not for a public purpose.",
+          "The argument against the requisition was that it was for the convenience of a single employee of the Corporation, not for the Corporation itself, and therefore did not serve a public purpose."
+        ],
+        "law": [
+          "The Court referenced the definition of 'public purpose' from a previous case (*Hamabai's case*), which states it must be a purpose where \"the general interest of the community, as opposed to the particular interest of individuals, is directly and vitally concerned.\"",
+          "The Court noted that precedent established that providing housing for government servants was a public purpose because it was in the community's interest to have efficient government servants.",
+          "The Road Transport Corporation Act empowers the Corporation to provide living accommodation for its employees to ensure the efficient performance of its functions."
+        ],
+        "application": [
+          "The Court first determined that requisitioning property for the Corporation itself would undoubtedly be for a public purpose, as it is a public utility.",
+          "The Court then reasoned that providing housing for an employee of the Corporation is directly linked to the Corporation's ability to function efficiently.",
+          "Drawing a parallel to the precedent involving government servants, the Court found that the general interest of the community was directly and vitally concerned with the efficiency of the State Road Transport Corporation.",
+          "Therefore, providing living accommodation to one of its officers, which is a statutory power of the Corporation, contributes to that efficiency and thus serves a public purpose."
+        ],
+        "conclusion": "The Supreme Court concluded that the requisition was for a public purpose. It reasoned that because the State Road Transport Corporation is a public utility, ensuring its efficient operation is in the general interest of the community. Providing housing for its officers is a means to achieve that efficiency, making it a valid public purpose."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the requisition of the property was for a public purpose.",
+      "appellant_arguments": [
+        "The requisition was for a public purpose and the impugned order had been wrongly set aside by the High Court."
+      ],
+      "respondent_arguments": [
+        "The respondent filed a writ application to set aside the requisition order, implicitly arguing it was not for a public purpose, an argument which was accepted by the High Court."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Road Transport Corporations Act, 1950",
+        "section": "Not specified, but read as a whole",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Requisition Act",
+        "section": "Not specified, but the Act in general",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Providing living accommodation for an employee of a public corporation is a valid public purpose for requisitioning property when it is essential for ensuring the efficient operation of the public service provided by that corporation.",
+    "obiter": [
+      "A 'public purpose' includes a purpose in which the general interest of the community, as opposed to the particular interest of individuals, is directly and vitally concerned.",
+      "A public purpose can exist in taking land even if that land is not subsequently made available to the public at large."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The requisition of property to provide living accommodation for an employee of the State Road Transport Corporation constitutes a 'public purpose'. The Corporation is a public utility concern, and the general interest of the community is directly and vitally concerned with its activities. Providing housing for its employees is a statutory activity of the Corporation, essential for ensuring the efficient operation of the road transport system upon which the public relies. Therefore, just as housing was deemed a public purpose to ensure the efficiency of government servants in prior cases, it is also a public purpose here because the public is directly and vitally concerned with the efficiency of the Corporation's employees.",
+    "legal_tests_applied": [
+      "A 'public purpose' is an object or aim in which the general interest of the community, as opposed to the particular interest of individuals, is directly and vitally concerned.",
+      "Whether a public purpose has been established requires a close examination of all the facts and circumstances in each individual case.",
+      "While the government is prima facie the best judge of whether a public purpose is served, the courts have the jurisdiction and duty to determine the matter when a question is raised."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The efficiency of employees at a public utility concern, like the Road Transport Corporation, is of direct and vital interest to the community, as a breakdown in its organization would be a public calamity.",
+      "The principle that providing housing for government servants is a public purpose because it promotes their efficiency can be extended to employees of a public utility corporation whose successful functioning is essential for the public.",
+      "While the power of requisition must have limits, each case must be decided on its own facts and circumstances to determine if a valid public purpose exists."
+    ]
+  },
+  "evidence_map": {}
+}

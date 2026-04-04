@@ -1,0 +1,94 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Sessions Judge, Mahila Court, Salem",
+    "impugned_order": "Judgment and order dated 18th February, 2019, passed by the Court of Sessions Judge, Mahila Court, Salem (trial Court) in Special Sessions Case No. 79 of 2016, convicting and sentencing the appellant.",
+    "high_court_proceedings": "The accused appellant, being aggrieved by his conviction and the sentences awarded by the trial Court, preferred an appeal being CRLA No. 451 of 2019 before the High Court of Judicature at Madras, which was rejected vide judgment dated 15th April, 2021.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave after the High Court of Judicature at Madras dismissed his criminal appeal. The Supreme Court allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Quashed and set aside",
+    "sentence_status": "Quashed and set aside",
+    "directions": [
+      "The appellant who is presently lodged in jail shall be released forthwith, if not required in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the trial is vitiated on the account of non-adherence to the mandatory requirements of the JJ Act.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was a Child in Conflict with Law (CICL) on the date of the incident.",
+          "The appellant was tried, convicted, and sentenced by a Sessions Court.",
+          "After the trial was concluded, the trial court attempted to apply the provisions of the JJ Act for the purpose of sentencing."
+        ],
+        "law": [
+          "The Juvenile Justice (JJ) Act sets out mandatory procedures for cases involving a CICL.",
+          "Under Section 15 of the JJ Act, the Juvenile Justice Board must conduct a preliminary assessment to determine if a CICL should be tried as an adult.",
+          "Following this assessment, the Board must pass an order under Section 18(3) to transfer the case to a Children's Court for trial.",
+          "The Children's Court must then apply its own mind under Section 19(1)(i) to decide if an adult trial is necessary.",
+          "Investigation into an offence by a CICL should be conducted by a Special Juvenile Police Unit (SJPU) as per Section 107(2)."
+        ],
+        "application": [
+          "The Supreme Court found \"flagrant violation\" of the mandatory requirements of the JJ Act in this case.",
+          "Specifically, the charge sheet was not filed before the Juvenile Justice Board, and no preliminary assessment was conducted under Section 15 to determine if the appellant should be tried as an adult.",
+          "Consequently, the case was never properly transferred from the Board to a Children's Court.",
+          "The Sessions Judge who conducted the trial was not designated as a Children's Court.",
+          "The Court noted that the trial court's attempt to apply the JJ Act during sentencing was an invalid \"ex post facto\" action to legitimize proceedings that were \"illegal to the core\" from the very beginning."
+        ],
+        "conclusion": "The Supreme Court held that the entire proceedings against the appellant, from the investigation through the completion of the trial, were vitiated due to being in \"gross violation of the mandatory requirements of the JJ Act.\" Because the very foundation of the prosecution was illegal, the Court quashed and set aside the conviction and sentence without needing to examine the merits of the case."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the trial is vitiated on the account of non-adherence to the mandatory requirements of the JJ Act.",
+      "appellant_arguments": [
+        "The principle of presumption of innocence under Section 3(1) of the JJ Act was completely ignored during the prosecution, which vitiates the entire trial.",
+        "The confession recorded in the presence of a police officer was improperly admitted into evidence.",
+        "The circumstantial evidence, including the 'last seen' testimony and the recovery of the body, was not established by reliable evidence."
+      ],
+      "respondent_arguments": [
+        "The entire investigation and trial should not be considered vitiated simply due to procedural irregularities, especially considering the gruesome nature of the crime.",
+        "The trial was conducted by a Sessions Court that had been designated as a Children’s Court.",
+        "The trial court and High Court gave due consideration to the appellant's juvenile status, and the sentence awarded is commensurate with the provisions of the JJ Act.",
+        "The trial court followed the JJ Act's framework by conducting a mental and psychological assessment and creating an individual care plan before sentencing."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "JJ Act (Juvenile Justice Act)",
+        "section": "3",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A confession recorded from a Child in Conflict with Law (CICL) is inadmissible as evidence for basing a conviction, as its use is contrary to the general principles laid out under Section 3 of the Juvenile Justice Act.",
+    "obiter": [
+      "The fundamental principles guiding the implementation of the Juvenile Justice Act include the principle of dignity and worth, the principles of natural justice, and the principle of institutionalisation as a measure of last resort."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The proceedings undertaken by the Sessions Court in conducting the trial of the Child in Conflict with Law (CICL), convicting, and sentencing him are in gross and total violation of the mandate of the Juvenile Justice Act, and thus, the entire proceedings stand vitiated. The recording of a confession of a CICL and placing implicit reliance upon it to base a conviction is contrary to the general principles laid out under Section 3 of the JJ Act, rendering such evidence inadmissible.",
+    "legal_tests_applied": [
+      "Adherence to the mandatory procedure prescribed under the JJ Act.",
+      "Application of the fundamental principles for the administration of the JJ Act under Section 3, including the principle of best interest, institutionalisation as a measure of last resort, and principles of natural justice."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "All decisions regarding a child shall be based on the primary consideration that they are in the best interest of the child and help the child to develop full potential.",
+      "A child shall be placed in institutional care as a step of last resort after making a reasonable inquiry.",
+      "Basic procedural standards of fairness shall be adhered to, including the right to a fair hearing, rule against bias and the right to review, by all persons or bodies, acting in a judicial capacity under this Act."
+    ]
+  },
+  "evidence_map": {}
+}

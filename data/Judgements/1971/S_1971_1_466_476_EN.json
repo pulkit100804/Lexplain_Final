@@ -1,0 +1,113 @@
+{
+  "procedural_history": {
+    "originating_court": "Unknown (The appellants pleaded not guilty to the charge, implying a trial court proceeding)",
+    "impugned_order": "Judgment and order dated November 7, 1967 of the Delhi High Court in Criminal Revision No. 371-D of 1965.",
+    "high_court_proceedings": "The Delhi High Court issued a judgment and order in Criminal Revision No. 371-D of 1965. The specific outcome of the High Court's decision is not explicitly stated, but it is implied that the High Court upheld a conviction or order against the appellants, as they appealed to the Supreme Court.",
+    "supreme_court_posture": "The accused appealed to the Supreme Court by special leave, challenging the Delhi High Court's judgment. The Supreme Court allowed the appeal, set aside the High Court's judgment and order, and ordered that any fine collected be refunded. The appellants argued that Rule 32(b) and (e) of the Prevention of Food Adulteration Rules was beyond the rule-making power conferred under Section 23 (1) (d) of the Act."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "acquitted",
+    "sentence_status": "set aside",
+    "directions": [
+      "The fine. if collected, will be refunded."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "whether sub-rr. 32(b) and (e) were within the rule making power under s. 23(1) els. (c), (d), (f), and (g).",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were convicted for violating sub-rules 32(b) and (e), which required certain information to be printed on a food label.",
+          "The appellants challenged the validity of these sub-rules, arguing they were beyond the government's rule-making authority granted by Section 23(1) of the Act, specifically clauses (c), (d), (f), and (g)."
+        ],
+        "law": [
+          "Section 23(1) of the Act grants the Central Government the power to make rules.",
+          "Clause (d) of Section 23(1) allows for rules to be made with a view to preventing the public or the purchaser from being deceived or misled as to the character, quality, or quantity of an article.",
+          "Clause (g) of Section 23(1) allows for rules to be made in the interest of public health."
+        ],
+        "application": [
+          "The Court first determined that clauses (c), (f), and (g) of Section 23(1) did not authorize the creation of these rules. Specifically, it reasoned that clause (g) (public health) could not be the source of power because a proviso to Rule 32 exempts small packages (under 60 grams), which would not be the case if the rule were a universal public health measure.",
+          "The Court then analyzed each sub-rule under the power granted by Section 23(1)(d) to prevent consumer deception.",
+          "Regarding sub-rule 32(e), which requires a batch or code number, the Court found it did not prevent deception. It reasoned that a batch number is meaningless to a consumer without additional context, such as a manufacturing or expiry date, which the rules did not require. Therefore, a simple code number would not help a purchaser assess the quality or freshness of the product.",
+          "Regarding sub-rule 32(b), which requires the manufacturer's name and business address, the Court found it did prevent deception. The Court stated that it is \"well known\" that a manufacturer's name and address can become associated with the character and quality of an article, thus providing useful information to the consumer."
+        ],
+        "conclusion": "The Supreme Court held that sub-rule 32(e) (requiring a batch number) was invalid because it was beyond the government's rule-making power under Section 23(1)(d). However, the Court held that sub-rule 32(b) (requiring name and address) was valid as it fell within the scope of Section 23(1)(d)."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "whether sub-rr. 32(b) and (e) were within the rule making power under s. 23(1) els. (c), (d), (f), and (g).",
+      "appellant_arguments": [
+        "Rule 32 (b) and (e) is beyond the rule making power conferred under Section 23 (1) (d) of the Act.",
+        "The reasons given by the High Court for upholding the rule are not warranted by the provisions of either the Act or the Rules."
+      ],
+      "respondent_arguments": [
+        "The impugned rule could be sustained under clauses (c), (d), (f), and (g) of Section 23(1).",
+        "The impugned rule is within the ambit of the rule making power under Section 23(1)(d), supporting the reasons given by the High Court."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "23(1)(c)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "23(1)(d)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "23(1)(f)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "23(1)(g)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Food Adulteration Rules, 1955",
+        "section": "32(b)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Food Adulteration Rules, 1955",
+        "section": "32(e)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A rule requiring a food label to include the full name and address of the manufacturer is a valid exercise of rule-making power, as such information is associated with the character and quality of the article. However, a rule is invalid and beyond the scope of the enabling statute if it imposes requirements not contemplated by the parent Act. Furthermore, rule-making power under a statutory clause that requires a prior government notification cannot be exercised if no such notification has been issued.",
+    "obiter": [
+      "A conviction should not be sustained for a mere technical breach of a valid rule, particularly when the conviction was substantially based on a charge under a separate rule that has been found to be invalid."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that sub-rules 32(b) and (e) were beyond the rule-making power conferred by the relevant clauses of Section 23(1) of the Act. Clause (f) was inapplicable because the food item, ghee, is not a substance injurious to health. Clause (g) was inapplicable because a rule made in the interest of public health must be universal, but the proviso to Rule 32 exempts packages under 60 grams, indicating it was not framed for public health. The court also concluded that Rule 32(e) was beyond the power of Section 23(1)(d), and that rules 32(b) and (e) could not be framed under clauses (c), (f), and (g). As Rule 32(e) was invalid, the appellants could not be convicted for its violation.",
+    "legal_tests_applied": [
+      "For a rule to be valid under s. 23(1)(d), its object must be 'with a view to preventing the public or the purchaser being deceived or misled as to the character, quality or quantity of the article.'",
+      "For a rule to be valid under s. 23(1)(f), it must relate to 'prohibiting the sale or defining the conditions of sale of any substance injurious to health when used as food.'",
+      "For a rule to be valid under s. 23(1)(g), it must be 'related to the interest of public health' and be of 'universal application,' meaning its requirements cannot 'depend upon the quantity of food packed in any container.'"
+    ],
+    "why_appellant_lost": [
+      "The Court found that the appellants had committed a 'technical breach of r. 32(b)' because while there was substantial compliance, they had failed to provide 'the number of the premises and the locality or the area where the premises was situate.'"
+    ],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Any rule made in the interest of public health under s. 23(1)(g) must be of universal application, because the very fact that a rule's operation is excluded for smaller quantities (e.g., food packages not weighing more than 60 grams) is an indication that the rule was not framed in the interest of public health."
+    ]
+  },
+  "evidence_map": {}
+}

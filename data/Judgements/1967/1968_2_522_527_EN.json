@@ -1,0 +1,124 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Session",
+    "impugned_order": "Judgment and order dated October 20, 1964, of the Madhya Pradesh High Court in Criminal Appeal No. 67 of 1964.",
+    "high_court_proceedings": "The State Government filed an appeal against the respondent's acquittal under s. 302 of the Indian Penal Code and also an application for revision for the enhancement of the sentence passed on him. The High Court convicted him under s. 304 Part II and sentenced him to 4 years' rigorous imprisonment; concurrently the application for revision was dismissed as infructuous.",
+    "supreme_court_posture": "The State Government filed an appeal by special leave contending that the conviction of the respondent should have been under s. 302 of the Indian Penal Code and that there has been failure of justice in the case requiring interference from this Court."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "Conviction under Section 304 Part II of the Indian Penal Code substituted with conviction under Section 302 of the Indian Penal Code.",
+    "sentence_status": "Sentenced to imprisonment for life.",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the act of pouring kerosene on a person and setting them on fire, resulting in death, constitutes murder under Section 300 (fourthly) of the Indian Penal Code, or a lesser offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused poured kerosene on his mistress and set her clothes on fire.",
+          "The victim suffered extensive burns and died as a result.",
+          "The accused had no excuse for committing this act."
+        ],
+        "law": [
+          "The Court analyzed the issue under Section 300 (fourthly) of the Indian Penal Code.",
+          "This clause defines an act as murder if the person committing it knows it is so imminently dangerous that it must, in all probability, cause death or a death-likely injury, and commits the act without any excuse for incurring that risk."
+        ],
+        "application": [
+          "The Court determined that setting fire to a person's kerosene-soaked clothes is an obviously and imminently dangerous act.",
+          "It reasoned that \"No special knowledge is needed to know that one may cause death by burning\" in this manner, as fire spreads rapidly and causes extensive damage.",
+          "Based on this, the Court concluded that the accused must have known he was running the risk of causing the victim's death or a fatal injury.",
+          "The Court found that even if the accused did not specifically intend to cause death, his \"callousness towards the result\" and the extreme risk he took were sufficient to meet the knowledge requirement of the law.",
+          "The Court also explicitly noted that the accused had \"no excuse for incurring that risk.\""
+        ],
+        "conclusion": "The Supreme Court decided that the act of pouring kerosene on a person and setting them on fire, resulting in death, constitutes murder under Section 300 (fourthly) of the Indian Penal Code. The act was so imminently dangerous that the accused must have known it would likely cause death, and he had no excuse for taking such a risk."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether an accused, in an appeal by the State to the Supreme Court against his acquittal of a major offence, has the right to argue that he is not guilty of any offence, including the lesser one for which he was convicted.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The State filed an appeal to the Supreme Court against the accused's acquittal for a major offence (murder under s. 302).",
+          "The accused had been convicted by the High Court for a lesser offence (culpable homicide under s. 304 Part II).",
+          "The accused did not arrange for his own legal representation, so the Court appointed an amicus curiae to assist him."
+        ],
+        "law": [
+          "The Court acknowledged that there was no specific provision in the Supreme Court's rules granting the accused the right to argue against his conviction for the lesser offence in such an appeal.",
+          "However, the Court decided to draw an analogy from the procedure in the Code of Criminal Procedure (s. 439(6)), which applies when a High Court considers enhancing a sentence.",
+          "The Court reasoned that it is \"safer, fair and just\" to give the accused a chance to prove his complete innocence."
+        ],
+        "application": [
+          "The Supreme Court explicitly allowed the amicus curiae representing the accused to argue not only about the nature of the offence but also on the merits of the case.",
+          "This meant the accused's counsel was permitted to present arguments to prove that the conviction for the lesser offence was itself wrong and that the accused had not committed any crime."
+        ],
+        "conclusion": "The Supreme Court decided that even though its rules did not explicitly provide for it, an accused in a State's appeal against acquittal for a major offence has the right to argue that he is not guilty of any offence, including the lesser one for which he was convicted. The Court adopted this procedure because it considered it to be fair, just, and safe for the accused."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the act of pouring kerosene on a person and setting them on fire, resulting in death, constitutes murder under Section 300 (fourthly) of the Indian Penal Code, or a lesser offence.",
+      "appellant_arguments": [
+        "The appellant (State of Madhya Pradesh) contended that the respondent's conviction should have been for murder under Section 302 of the Indian Penal Code, not the lesser offence of culpable homicide under Section 304 Part II for which the High Court had convicted him."
+      ],
+      "respondent_arguments": [
+        "The respondent argued against the factual basis of the prosecution's case, contending that there was no proof from the medical reports that kerosene oil was used, as the wounds did not smell of it. This argument aimed to show the conviction itself was wrong, thereby opposing the enhancement to a murder charge."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether an accused, in an appeal by the State to the Supreme Court against his acquittal of a major offence, has the right to argue that he is not guilty of any offence, including the lesser one for which he was convicted.",
+      "appellant_arguments": [
+        "The text does not state any argument from the appellant on this procedural issue."
+      ],
+      "respondent_arguments": [
+        "The respondent, through his counsel, sought permission to argue not only against the enhancement of the charge but also on the merits of the case to prove that the conviction for even the lesser offence was wrong and that he should be fully acquitted."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code (45 of 1860)",
+        "section": "s. 300 (Fourthly)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "s. 439(6)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An act committed with the knowledge that it is so imminently dangerous that it must in all probability cause death or a fatal injury, and is done without any excuse for incurring such a risk, constitutes murder under Section 300 (fourthly) of the Indian Penal Code. This applies even if there was no specific intention to cause death, particularly where there is such callousness towards the result and the risk taken that the person must have known the likely consequences.",
+    "obiter": [
+      "In an appeal by the State against an acquittal for a major offence, it is safer, fair, and just to give the accused an opportunity to prove they were not guilty of even the lesser offence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The act of pouring kerosene on a person's clothes and setting them on fire is an act so imminently dangerous that it must in all probability cause death or a fatal injury. No special knowledge is needed to understand this risk. Therefore, the person committing the act must have known they were running the risk of causing death. As there was no excuse for incurring that risk, the offence falls within clause fourthly of Section 300 of the Indian Penal Code, constituting murder, even if there was no specific intent to cause death.",
+    "legal_tests_applied": [
+      "Section 300 (fourthly) of the Indian Penal Code: Culpable homicide is murder if the person committing the act knows that it is so imminently dangerous that it must in all probability, cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk or causing death or such injury as aforesaid.",
+      "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    ],
+    "why_appellant_lost": [
+      "The appellant (State) did not lose; their appeal was allowed and the respondent's conviction was enhanced from culpable homicide to murder."
+    ],
+    "why_respondent_won": [
+      "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    ],
+    "policy_considerations": [
+      "In an appeal by the State against acquittal for a major offence, even though there is no specific rule, it is safer, fair, and just to the accused to give him a chance to prove that he was not guilty of even the lesser offence for which he was convicted, on the analogy of Section 439(6) of the Criminal Procedure Code."
+    ]
+  },
+  "evidence_map": {}
+}

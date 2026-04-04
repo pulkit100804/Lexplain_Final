@@ -1,0 +1,300 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (Gujarat)",
+    "impugned_order": "Judgment and Order dated 16.03.2009 of the High Court of Gujarat at Ahmedabad in CRLA No. 1702 and 2097 of 2004",
+    "high_court_proceedings": "Accused No. 01 and Accused No. 04 moved appeals before the High Court of Gujarat against their conviction.",
+    "supreme_court_posture": "The Supreme Court allowed the appeals, setting aside the judgment of the High Court and the Trial Court, and acquitted the appellants by giving them the benefit of the doubt."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The impugned judgment of the High Court is set aside.",
+      "The judgment of the Trial Court is set aside.",
+      "The appellants are acquitted of the charges framed against them by giving benefit of doubt."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether non-compliance with the procedural safeguards under Section 42 of the NDPS Act, such as obtaining a search warrant or recording grounds for not doing so, vitiates the trial.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a search of a building conducted by law enforcement.",
+          "During this search, no search warrant or authorization was obtained beforehand.",
+          "Furthermore, the officers did not record the grounds for their belief that obtaining a warrant would allow the evidence to be destroyed or escape."
+        ],
+        "law": [
+          "The proviso to Section 42 of the NDPS Act requires an officer, before searching a building without a warrant, to record the grounds for their belief that obtaining a warrant would lead to the evidence escaping.",
+          "The Supreme Court cited precedents like *Chhunna alias Mehtab v. State of Madhya Pradesh* and *Dharamveer Parsad v. State of Bihar*, where it was held that explicit non-compliance with the statutory requirements of the NDPS Act, including Section 42, vitiated the trial and led to the setting aside of convictions.",
+          "The Court also referenced the judgment in *Karnail Singh v. State of Haryana*, which established that while a total non-compliance with Section 42 is impermissible, a delayed or substantial compliance might be acceptable if a satisfactory explanation is provided for the delay."
+        ],
+        "application": [
+          "The Court analyzed the actions of the law enforcement officers against the strict procedural requirements laid out in Section 42 of the NDPS Act.",
+          "It found that the failure to either obtain a warrant or to record the reasons for not doing so constituted a clear \"non-compliance with the provisions of the proviso to Section 42.\"",
+          "By referencing past judgments, the Court affirmed the legal principle that such procedural safeguards are mandatory and not merely optional.",
+          "The Court treated the failure to follow these procedures as a fatal flaw in the prosecution's case, rejecting arguments of substantial compliance when there was a total absence of recorded justification for the warrantless search."
+        ],
+        "conclusion": "The Supreme Court decided that a total non-compliance with the procedural safeguards under the proviso to Section 42 of the NDPS Act, specifically the failure to obtain a search warrant or to record the grounds for not doing so, is impermissible and vitiates the entire trial."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the statutory powers of search and seizure under the NDPS Act violate the fundamental rights of the accused, particularly under Article 20(3) of the Constitution.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "law_name": "NDPS Act, 1985, Section 41(2)",
+            "description": "This section confers power upon the state's executive or administrative arms to conduct searches and seizures."
+          },
+          {
+            "law_name": "Constitution of India, Article 20(3)",
+            "description": "This article provides the fundamental right against self-incrimination."
+          },
+          {
+            "law_name": "MP Sharma v. Satish Chandra Sharma, District Magistrate, Delhi 1954 SCR 1077",
+            "description": "A precedent case establishing that search and seizure provisions do not violate Article 20(3)."
+          }
+        ],
+        "application": [
+          {
+            "step": 1,
+            "description": "The Court acknowledged that the power of search and seizure, while necessary for social security, is inherently limited by the fundamental rights guaranteed by the Constitution."
+          },
+          {
+            "step": 2,
+            "description": "However, the Court rejected the assumption that these powers would affect the right against self-incrimination under Article 20(3)."
+          },
+          {
+            "step": 3,
+            "description": "It reasoned that statutory provisions for search and seizure constitute only a \"mere temporary interference\" with the rights of the accused."
+          },
+          {
+            "step": 4,
+            "description": "The Court further explained that this interference is permissible because it is \"well regulated by reasonable restrictions\" that are built into the statutory provisions of the NDPS Act itself."
+          },
+          {
+            "step": 5,
+            "description": "Citing the precedent set in MP Sharma v. Satish Chandra Sharma, the Court affirmed that such regulated powers cannot be considered a violation of any fundamental rights."
+          }
+        ],
+        "conclusion": "The Supreme Court rejected the challenge, holding that the statutory powers of search and seizure under the NDPS Act do not violate the fundamental right against self-incrimination under Article 20(3). The Court reasoned that these powers are a mere temporary and regulated interference, subject to reasonable restrictions within the Act itself, and therefore do not infringe upon the constitutional rights of the accused."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court should refrain from interfering with the concurrent findings of fact by the Trial Court and the High Court in this case.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The investigating agency conducted a search of the appellants' house without obtaining a search warrant or authorization.",
+          "The prosecution's case was based in part on statements recorded under Section 67 of the NDPS Act.",
+          "The Supreme Court identified inconsistencies in the testimonies of the prosecution witnesses."
+        ],
+        "law": [
+          "The provisions of Section 42 of the NDPS Act, which govern the search of a building, are mandatory. Non-compliance with these provisions can vitiate the trial.",
+          "Statements recorded under Section 67 of the NDPS Act are not admissible as a basis for conviction.",
+          "Concurrent findings of fact by lower courts should not ordinarily be interfered with, unless there is a clear perversity or absurdity in the findings.",
+          "The prosecution must prove its case beyond a reasonable doubt."
+        ],
+        "application": [
+          "The Supreme Court found that the investigating agency failed to comply with the mandatory search procedures under Section 42 of the NDPS Act, which vitiated the entire trial.",
+          "The Court noted that the lower courts had relied on statements under Section 67 of the NDPS Act, which it held were inadmissible for convicting an accused.",
+          "The Court also found that the inconsistencies in witness testimonies, combined with the lack of due process by the investigating agency, meant the prosecution had failed to prove its case beyond a reasonable doubt."
+        ],
+        "conclusion": "The Supreme Court rejected the argument to refrain from interfering because it found fundamental legal and procedural errors in the lower courts' decisions. The non-compliance with mandatory search procedures under the NDPS Act, the reliance on inadmissible evidence, and the inconsistencies in testimonies constituted a perversity that undermined the entire prosecution case. These severe flaws justified setting aside the concurrent findings and acquitting the appellants."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the acquittal of a co-accused has no bearing on the prosecution's case against the remaining accused persons.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court acquitted one co-accused (Accused No. 02), finding no evidence to implicate him.",
+          "In the same judgment, the High Court held that this acquittal had no bearing on the prosecution's case against the other accused (including Accused No. 01 and 04), whose conviction it upheld."
+        ],
+        "law": [
+          "The prosecution's case must be established beyond a reasonable doubt for each accused person.",
+          "Significant inconsistencies in witness testimonies and failures to follow the due process of law can severely impact and weaken the entire case for the prosecution."
+        ],
+        "application": [
+          "The Supreme Court disagreed with the High Court's approach of separating the fates of the accused when the evidence against them was intertwined.",
+          "The Court found that the prosecution's case was severely impacted by \"inconsistencies in the testimonies\" and a \"lack of observation of due process of law.\"",
+          "These flaws were not minor and affected the entire foundation of the prosecution's story.",
+          "The Court reasoned that if the evidence was weak or flawed enough to acquit one accused, those same weaknesses and flaws created reasonable doubt in the case against the other accused who were implicated by the same set of evidence and witnesses."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's view. It concluded that the acquittal of a co-accused, when based on fundamental flaws in the prosecution's evidence (like inconsistent testimonies and procedural failures), does have a significant bearing on the case against the remaining accused. Since these flaws created reasonable doubt, the Court acquitted the remaining accused as well."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a search or arrest by a Gazetted Officer under Section 41(2) of the NDPS Act requires the officer to have 'reason to believe' based on personal knowledge or information, and for such information to be reduced to writing.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "law_name": "Section 41(2) of the NDPS Act, 1985",
+            "description": "Empowers a Gazetted Officer to arrest or conduct a search if they have 'reason to believe' an offence has been committed. This reason to believe must arise from the officer's personal knowledge or from information given by any person, which is to be 'taken in writing'."
+          },
+          {
+            "law_name": "Section 42(1) of the NDPS Act, 1985",
+            "description": "Obligates an empowered officer to take down in writing any prior information received from a person. It also allows an officer to act on personal knowledge without necessarily recording the reasons of belief for a search conducted between sunrise and sunset, but requires recording the grounds of belief for a search conducted between sunset and sunrise."
+          }
+        ],
+        "application": [
+          {
+            "point": "The Court directly interpreted the text of Section 41(2) of the NDPS Act.",
+            "explanation": "The Court found that the provision requires a Gazetted Officer to have a 'reason to believe' that an offence has been committed, which can be based on either the officer's personal knowledge or information received from another person."
+          },
+          {
+            "point": "The Court held that the requirement to reduce the basis of belief to writing is mandatory, regardless of its source.",
+            "explanation": "The Court emphasized that the phrase 'and taken in writing' in Section 41(2) applies to both personal knowledge and information received. It explicitly rejected the argument that 'personal knowledge' and the writing requirement should be read disjunctively (i.e., that personal knowledge does not need to be written down)."
+          },
+          {
+            "point": "The Court's decision establishes that the writing requirement is a crucial safeguard.",
+            "explanation": "By mandating that the officer's 'reason to believe' be recorded, the Court affirmed that this is a necessary procedural step for any search or arrest conducted by a Gazetted Officer under the authority of Section 41(2)."
+          }
+        ],
+        "conclusion": "The Supreme Court decided that a search or arrest by a Gazetted Officer under Section 41(2) of the NDPS Act requires the officer to have a 'reason to believe' an offence has been committed. The Court held that this reason to believe, whether based on the officer's personal knowledge or on information from another person, must be reduced to writing."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether non-compliance with the procedural safeguards under Section 42 of the NDPS Act, such as obtaining a search warrant or recording grounds for not doing so, vitiates the trial.",
+      "appellant_arguments": [
+        "The provided text does not contain the appellant's arguments on this specific issue."
+      ],
+      "respondent_arguments": [
+        "Once the recovery of contraband has been made from the possession of an individual, a rebuttable presumption arises under Section 54 of the NDPS Act that the individual has committed an offence."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the statutory powers of search and seizure under the NDPS Act violate the fundamental rights of the accused, particularly under Article 20(3) of the Constitution.",
+      "appellant_arguments": [
+        "The statement of the accused recorded under Section 67 of the NDPS Act was not admissible and should not have been the basis for conviction."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments on this specific issue."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the Supreme Court should refrain from interfering with the concurrent findings of fact by the Trial Court and the High Court in this case.",
+      "appellant_arguments": [
+        "The provided text does not contain the appellant's arguments on this specific issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments on this specific issue."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the acquittal of a co-accused has no bearing on the prosecution's case against the remaining accused persons.",
+      "appellant_arguments": [
+        "The provided text does not contain the appellant's arguments on this specific issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments on this specific issue."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether a search or arrest by a Gazetted Officer under Section 41(2) of the NDPS Act requires the officer to have 'reason to believe' based on personal knowledge or information, and for such information to be reduced to writing.",
+      "appellant_arguments": [
+        "The provided text does not contain the appellant's arguments on this specific issue."
+      ],
+      "respondent_arguments": [
+        "Once the recovery of contraband has been made from the possession of an individual, a rebuttable presumption arises under Section 54 of the NDPS Act that the individual has committed an offence."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Indian Evidence Act, 1872",
+        "section": "Section 6",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "section": "Section 41(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "section": "Section 42",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Constitution of India",
+        "section": "Article 20(3)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Karnail Singh v. State of Haryana",
+        "citation": "(2009) 8 SCC 539",
+        "principle": "While total non-compliance with the requirements of Section 42 of the NDPS Act 1985 is impermissible, a delayed compliance with a satisfactory explanation for the delay could be an acceptable (substantial) compliance.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Tofan Singh v. State of Tamil Nadu",
+        "citation": "(2021) 4 SCC 1",
+        "principle": "Cited for its majority view that certain evidence (referring to confessional statements made to NDPS officers) cannot be considered to convict an accused person under the NDPS Act 1985.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Abdul Rashid Ibrahim Mansuri v. State of Gujarat",
+        "citation": "(2000) 2 SCC 513",
+        "principle": "Cited for the principle that the case did not require literal compliance with the requirements of Sections 42(1) and 42(2) of the NDPS Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sajan Abraham v. State of Kerala",
+        "citation": "(2001) 6 SCC 692",
+        "principle": "Cited for the principle that the case did not hold that the requirements of Sections 42(1) and 42(2) of the NDPS Act need not be fulfilled at all.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Statutory procedural provisions are mandatory, and a contravention of the same would affect the prosecution case and vitiate the trial.",
+    "obiter": [
+      "The principle that a witness's entire evidence must be eschewed for deposing a falsehood does not have strict application; the principle of sifting the chaff from the grain is to be applied as a rule of caution.",
+      "The balance between the safety of the people and the safety of the State is crucial, wherein the welfare of an individual must yield to that of the community, subject to the State being right, just, and fair."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The prosecution's case was not proven beyond a reasonable doubt because inconsistencies in testimonies and a lack of observation of the due process of law by the investigating agency severely impacted its case. The conviction was based on a search and seizure that was bereft of the mandatory statutory compliance required under Sections 41(2) and 42 of the NDPS Act, which vitiates the trial.",
+    "legal_tests_applied": [
+      "The requirements under Section 41(2) of the NDPS Act for a Gazetted Officer to act on 'personal knowledge' and to take information 'in writing' are not disjunctive; the position for recording the reasons for conducting a search and seizure is well-established and mandatory.",
+      "Absolute non-compliance with the statutory requirements under Section 42(1) and (2) of the NDPS Act, regarding writing down information and sending it to a superior officer, is impermissible. Contravention of these mandatory provisions affects the prosecution case and vitiates the trial.",
+      "A statement recorded under Section 67 of the NDPS Act cannot be considered to convict an accused person, as held by the majority in Tofan Singh v. State of Tamil Nadu."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court must strike a balance between the maxims 'salus populi suprema lex' (the safety of the people is the supreme law) and 'salus republicae suprema lex' (safety of the State is the supreme law). This balance lies at the core of the doctrine that the welfare of an individual must yield to that of the community, but this is subject to the State being right, just, and fair in its actions."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[2].case_name": [
+      "p5_221117c0"
+    ]
+  }
+}

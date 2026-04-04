@@ -1,0 +1,106 @@
+{
+  "procedural_history": {
+    "originating_court": "Disciplinary Authority of the Appellant-Bank",
+    "impugned_order": "Judgment of the High Court setting aside the order of the Appellant-Bank dated 03.03.1993 (dismissal of Respondent No. 1) and the order dated 23.07.1993 (dismissal of appeal by the Appellate Authority).",
+    "high_court_proceedings": "1. Respondent No. 1 initially filed a Writ Petition challenging the suspension order, which was disposed of on 10.01.1992 with directions regarding the inquiry but without interfering with the suspension.\n2. After dismissal from service, Respondent No. 1 filed another Writ Petition challenging the dismissal order and the dismissal of his appeal. This Writ Petition was allowed by the High Court, setting aside the Bank's orders.",
+    "supreme_court_posture": "The Appellant-Bank appealed to the Supreme Court against the High Court's judgment setting aside the dismissal order. The Supreme Court ultimately dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in setting aside the order passed by the appellant-Bank imposing punishment of dismissal upon the respondent no.1-Bank manager.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent bank manager was due to retire on July 31, 1991, having reached the age of superannuation on July 2, 1991.",
+          "Prior to his retirement, on June 17, 1991, he was served a memo regarding irregularities, and on July 15, 1991, he was placed under suspension.",
+          "A formal chargesheet, which initiates disciplinary proceedings, was served upon the manager on December 7, 1991.",
+          "Following an inquiry, the bank dismissed the manager from service on March 3, 1993.",
+          "The High Court set aside this dismissal order, and the bank appealed to the Supreme Court."
+        ],
+        "law": [
+          "The Supreme Court analyzed the bank's regulations (the 1976 Regulations) concerning the initiation of disciplinary proceedings.",
+          "It determined that disciplinary proceedings are considered to be initiated or pending only from the date a chargesheet is issued, not from the date of a preliminary memo or suspension."
+        ],
+        "application": [
+          "The Court applied this legal principle to the facts of the case.",
+          "It noted that the manager's date of superannuation was July 31, 1991.",
+          "The chargesheet, which formally initiated the disciplinary proceedings, was not issued until December 7, 1991.",
+          "Therefore, on the date the manager was due to retire, no disciplinary proceedings were legally pending against him."
+        ],
+        "conclusion": "The Supreme Court concluded that since no disciplinary proceedings were pending against the manager on his date of superannuation, the bank had no authority to subsequently dismiss him. Consequently, the Court found that the High Court was justified in setting aside the dismissal order and dismissed the bank's appeal as meritless."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in setting aside the order passed by the appellant-Bank imposing punishment of dismissal upon the respondent no.1-Bank manager.",
+      "appellant_arguments": [
+        "The High Court's judgment went beyond the views expressed by the Supreme Court in a previous case, Rajender Lal Capoor-I (supra).",
+        "Argued that there was a conflict of opinion between two judgments from Three-Judge Benches (Canara Bank and Mahanadi Coalfields Ltd.) and requested the matter be referred to a larger Bench."
+      ],
+      "respondent_arguments": [
+        "The precedent case of Rajender Lal Capoor-I was factually different because in that case, the chargesheet was issued while the employee was still in service.",
+        "Given that the respondent no.1 had passed away and no retirement dues were paid, the court should direct the appellant-Bank to pay the dues with interest."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The 1970 Act",
+        "section": "Section 19(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The 1979 Regulations",
+        "section": "Regulation 20",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The 1976 Regulations",
+        "section": "Not specified",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "United Bank of India Officers Association v. United Bank of India",
+        "citation": "1987 (1) LLJ 104",
+        "principle": "Cited for the precedent that an identical regulation (Regulation 20 of the United Bank of India Regulations 1979) was held to be unconstitutional and void.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A disciplinary proceeding against a bank employee is considered initiated only upon the issuance of a chargesheet. If a chargesheet is issued prior to the employee's retirement, the proceeding continues even after retirement by virtue of a deeming provision that considers the employee to remain in service until the completion of the proceedings.",
+    "obiter": [
+      "A matter will not be referred to a larger bench when a prior larger bench has already considered and reiterated the same legal position.",
+      "The intention of a regulation-making authority can be inferred from the placement and wording of specific clauses within the regulations."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found that the appellant-Bank's appeal was meritless because its legal arguments were based on a misinterpretation and misapplication of precedent. The cases relied upon by the Bank were either factually distinguishable from the present case, specifically regarding the timing of the chargesheet, or were based on observations that did not reflect the definitive law as settled by a larger bench in a subsequent, related judgment.",
+    "legal_tests_applied": [
+      "Distinguishing precedent based on material factual differences, such as whether a chargesheet was issued before or after an employee's retirement.",
+      "Clarifying the authoritative legal precedent among a series of related judgments, particularly when a later decision by a larger bench has reiterated the correct legal position."
+    ],
+    "why_appellant_lost": [
+      "The judgment in Punjab National Bank’s case, relied upon by the appellant, was distinguishable on facts because in that case the chargesheet was issued to the employee before his retirement.",
+      "The appellant's reliance on an observation in Mahanadi Coalfields Limited was misplaced, as that observation referred to the judgment in Rajender Lal Capoor-I, not Rajender Lal Capoor-II, and the law laid down in Rajender Lal Capoor-II had been reiterated by a larger bench in the Canara Bank case."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the court dismantled the appellant's legal arguments, finding the precedents cited by the appellant to be inapplicable or misinterpreted, thereby leaving the appellant's case without merit."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

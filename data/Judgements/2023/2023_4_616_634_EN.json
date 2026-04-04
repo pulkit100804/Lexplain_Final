@@ -1,0 +1,96 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the High Court appeal)",
+    "impugned_order": "Judgment and Order dated 21.11.2015 of the High Court of Gauhati at Agarthala in CRLA No.113 of 2014.",
+    "high_court_proceedings": "The High Court of Gauhati at Agarthala heard Criminal Appeal No. 113 of 2014 and issued a Judgment and Order on 21.11.2015. The outcome of the High Court appeal is not explicitly stated, but since the Supreme Court allowed the appeal and set aside the conviction and sentence, it can be inferred that the High Court upheld the conviction.",
+    "supreme_court_posture": "The accused, having been convicted (presumably by the Trial Court and the conviction upheld by the High Court), appealed to the Supreme Court. The Supreme Court allowed the appeal, set aside the conviction and sentence, and ordered the release of the appellants from judicial custody."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside",
+    "sentence_status": "set aside",
+    "directions": [
+      "The appellants are set at liberty forthwith.",
+      "They may be released forthwith, if not wanted in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether, in the facts and circumstances of the case, the accused constituted an unlawful assembly with a common object, making them liable under Sections 147, 148, and 149 of the Indian Penal Code (IPC).",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          {
+            "fact": "Eyewitnesses (PW-2 and PW-3) testified that the accused had come along with police personnel with the stated object of arresting the deceased and the injured."
+          },
+          {
+            "fact": "A criminal case had previously been lodged against the deceased and injured by one of the accused persons."
+          },
+          {
+            "fact": "None of the eyewitnesses named all 13 accused persons; they only identified the 3-4 individuals who actively assaulted the victims."
+          },
+          {
+            "fact": "There was no evidence of any utterances, exhortations, or statements by any of the accused indicating a shared plan or common object to commit murder."
+          },
+          {
+            "fact": "At least five police personnel were present with the accused throughout the incident but did not intervene."
+          }
+        ],
+        "law": [
+          {
+            "law_text": "Under Section 149 of the Indian Penal Code (IPC), for a person to be held guilty as a member of an unlawful assembly, it must be proven that every member knew the common object of the assembly and the specific offence that was likely to be committed in pursuit of that object."
+          }
+        ],
+        "application": [
+          {
+            "reasoning": "The Court found a complete lack of evidence to show that all the accused shared a common object to commit murder. No witness testified that the group had this intent, and there was no proof of any communication among the accused to suggest such a plan."
+          },
+          {
+            "reasoning": "The testimony from the prosecution's own witnesses suggested a different, plausible common object: assisting the police in apprehending the deceased. The Court reasoned that if the known object was merely to make an arrest, it could not be concluded that the common object was to commit murder."
+          },
+          {
+            "reasoning": "The Court noted that since only a few of the accused were identified as assailants, it was impossible to attribute the murderous intent of those few to the entire group without further evidence of a shared objective."
+          }
+        ],
+        "conclusion": "The Supreme Court concluded that the prosecution failed to establish that the accused formed an unlawful assembly with the common object of committing murder. The evidence suggested an alternative object (assisting in an arrest) and did not prove that every member shared a murderous intent. Consequently, the Court held that the convictions under Sections 147, 148, and 149 of the IPC were untenable and could not be upheld."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether, in the facts and circumstances of the case, the accused constituted an unlawful assembly with a common object, making them liable under Sections 147, 148, and 149 of the Indian Penal Code (IPC).",
+      "appellant_arguments": [
+        "The accused appellants denied their involvement in the incident and argued they were entitled to the benefit of the doubt."
+      ],
+      "respondent_arguments": [
+        "The Trial Court and the High Court had already considered the material evidence and recorded concurrent findings on conviction, which should not be interfered with by the Supreme Court."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Where the prosecution fails to establish its case against the accused beyond a reasonable doubt, the accused is entitled to the benefit of the doubt.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the prosecution failed to establish its case beyond a reasonable doubt against the accused appellants. Although the victim's death was homicidal, the evidence was not convincing, and therefore the appellants were entitled to the benefit of the doubt, leading to the setting aside of their conviction and sentence.",
+    "legal_tests_applied": [
+      "To establish an offence under Section 149 of the IPC, it must be shown that every member of the unlawful assembly knew the common object of their assembly and also knew the offence likely to be committed in prosecution of that common object.",
+      "The prosecution must establish the case against the accused beyond a reasonable doubt."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p19_11d6f28c"
+    ]
+  }
+}

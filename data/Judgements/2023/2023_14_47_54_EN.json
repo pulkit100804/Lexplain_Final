@@ -1,0 +1,123 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment and Order dated 21.09.2010 of the High Court of Karnataka at Bangalore in CRLA No.1807 of 2004.",
+    "high_court_proceedings": "The Trial Court acquitted all the accused. However, by the impugned judgment, the High Court has interfered and convicted the appellants.",
+    "supreme_court_posture": "The Appellants appealed to the Supreme Court. The Supreme Court allowed the appeal, set aside the High Court's judgment, and directed the appellants to be set at liberty unless required for other cases."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "The impugned Judgment dated 21st September 2010 is set aside.",
+    "sentence_status": "Set aside.",
+    "directions": [
+      "Unless the appellants are required to be detained in custody in connection with some other case, they shall be forthwith set at liberty."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in setting aside the order of acquittal passed by the trial court.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court had acquitted all the accused in a case involving an assault over a property dispute.",
+          "On appeal by the prosecution, the High Court set aside the acquittal and convicted the appellants under Sections 304 Part I and 324/149 of the IPC."
+        ],
+        "law": [
+          "The Supreme Court outlined the principles for an appellate court hearing an appeal against acquittal under Section 378 of the Cr.P.C.",
+          "An appellate court is entitled to re-appreciate all evidence.",
+          "It must consider whether the trial court's view was a 'possible view' based on the evidence on record.",
+          "The appellate court can only interfere with an acquittal if it finds that the only possible conclusion from the evidence is that the accused's guilt was proven beyond a reasonable doubt."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court had failed to perform its duty as an appellate court.",
+          "The High Court's judgment did not contain any discussion or re-appreciation of the evidence, particularly the testimony of eyewitnesses.",
+          "The High Court failed to record any findings as to whether the trial court's decision to acquit was a 'possible view'.",
+          "It convicted the accused without providing reasons, without detailing the individual or collective roles of the accused, and without explaining how the charge of unlawful assembly (s.149 IPC) was established."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was not justified in setting aside the trial court's acquittal. It had failed to follow the established legal principles for deciding an appeal against acquittal by not re-appreciating the evidence or providing reasoned findings to overturn the trial court's 'possible view' of the case."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in setting aside the order of acquittal passed by the trial court.",
+      "appellant_arguments": [
+        "The High Court failed in its duty as an appellate court by not properly re-appreciating the evidence or discussing the testimony of the eyewitnesses.",
+        "The High Court convicted the accused without recording any reasons or specific findings regarding the role played by each accused, individually or collectively.",
+        "The High Court did not consider the crucial question of whether the view taken by the Trial Court was a possible one based on the evidence.",
+        "The Trial Court, after an in-depth scrutiny of the evidence and having the advantage of observing the witnesses' demeanor, correctly found the eyewitness testimony unreliable, and its conclusion to acquit was a possible and valid view."
+      ],
+      "respondent_arguments": [
+        "The High Court, as an appellate court, is entitled to re-appreciate the oral and documentary evidence to set aside an erroneous order of acquittal."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "378",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "304 Part I",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "324",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "149",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An appellate court can interfere with an order of acquittal only if it concludes that the sole possible finding from the evidence on record is that the guilt of the accused was proven beyond a reasonable doubt. If the view taken by the trial court is a possible one, the appellate court cannot overturn the acquittal on the ground that another view was also possible, as an acquittal strengthens the presumption of innocence.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court, as an appellate court hearing an appeal against acquittal, failed in its duty. It did not re-appreciate the evidence, discuss the testimony of eyewitnesses, or consider whether the view taken by the trial court was a possible one. Instead, it jumped to the conclusion of guilt without recording any reasons or specific findings regarding the role played by the appellants, individually or collectively, thereby justifying the setting aside of its judgment.",
+    "legal_tests_applied": [
+      "The acquittal of the accused further strengthens the presumption of innocence.",
+      "The Appellate Court, while deciding an appeal against acquittal, after re-appreciating the evidence, is required to consider whether the view taken by the Trial Court is a possible view which could have been taken on the basis of the evidence on record.",
+      "If the view taken is a possible view, the Appellate Court cannot overturn the order of acquittal on the ground that another view was also possible.",
+      "The Appellate Court can interfere with the order of acquittal only if it comes to a finding that the only conclusion which can be recorded on the basis of the evidence on record was that the guilt of the accused was proved beyond a reasonable doubt and no other conclusion was possible."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The High Court failed to discuss the testimony of eyewitnesses to decide if their testimony could be believed and recorded no findings after re-appreciating the evidence.",
+      "The High Court did not consider the critical question of whether the view taken by the Trial Court was a possible view.",
+      "The High Court convicted the accused without recording any reasons or findings regarding the individual and collective roles of the appellants, who authored the injuries, or how Section 149 of IPC was attracted.",
+      "The Supreme Court found that the Trial Court's conclusions to acquit, reached after an in-depth scrutiny of eyewitness testimony, were possible conclusions that could have been recorded based on the evidence."
+    ],
+    "policy_considerations": [
+      "The matter cannot be remanded back to the High Court for a fresh decision since the offence took place about two decades ago."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p4_f509b1d4"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p5_3ac8ce8b"
+    ],
+    "judicial_reasoning.legal_tests_applied[1]": [
+      "p5_54ab4127"
+    ],
+    "judicial_reasoning.legal_tests_applied[2]": [
+      "p5_8566dd9a"
+    ],
+    "judicial_reasoning.legal_tests_applied[3]": [
+      "p5_a544059f"
+    ]
+  }
+}

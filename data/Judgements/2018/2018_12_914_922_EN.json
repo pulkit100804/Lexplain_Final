@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge, Delhi in C.C. No.53 of 1995",
+    "impugned_order": "Judgment and Order dated 20.07.2009 passed by the High Court of Delhi at New Delhi in Criminal Appeal No.447 of 2001.",
+    "high_court_proceedings": "The appellant (A-1) filed a criminal appeal (Crl. Appeal No. 447 of 2001) in the High Court at Delhi challenging his conviction and sentence under the PC Act. The High Court dismissed the appeal and affirmed the judgment of the Trial Court.",
+    "supreme_court_posture": "The appellant (A-1), feeling aggrieved by his conviction and sentence, approached the Supreme Court by way of special leave (Criminal Appeal No. 1276 of 2010). The Supreme Court allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The appellant is set free from the said charges."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a case for interference in the impugned judgment convicting the appellant is made out.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant and a co-accused (Rajinder Kumar) were prosecuted for offences under the Prevention of Corruption (PC) Act and for criminal conspiracy under Section 120-B IPC.",
+          "The Trial Court acquitted both the appellant and the co-accused of the conspiracy charge.",
+          "The co-accused, Rajinder Kumar, was acquitted of all charges against him.",
+          "The State did not appeal these acquittals, and they therefore became final.",
+          "Despite the acquittal on the conspiracy charge, the Trial Court convicted the appellant under Sections 7, 13(2) read with Section 13(1)(d) of the PC Act.",
+          "The High Court dismissed the appellant's appeal and upheld the conviction."
+        ],
+        "law": [
+          "Section 120-B of the Indian Penal Code (IPC) concerning the offence of criminal conspiracy.",
+          "Sections 7, 13(1)(d), and 13(2) of the Prevention of Corruption (PC) Act, which pertain to a public servant taking illegal gratification."
+        ],
+        "application": [
+          "The Supreme Court found force in the appellant's argument that his conviction was unsustainable.",
+          "The Court noted that the foundation of the prosecution's case was the alleged conspiracy between the appellant and the co-accused.",
+          "The Trial Court had already held that the prosecution failed to prove this conspiracy, leading to the acquittal of both individuals on that charge. This finding had attained finality.",
+          "Furthermore, the co-accused, Rajinder Kumar, was given a 'clean acquittal' from all charges under the PC Act.",
+          "The Court reasoned that with the conspiracy charge having failed and the co-accused being fully exonerated, the prosecution's case against the appellant on the substantive PC Act charges was fatally weakened.",
+          "The Court concluded that the prosecution failed to prove the charges under Sections 7 and 13 of the PC Act against the appellant, especially since it was not proven that he accepted a bribe or that the co-accused accepted it on his behalf."
+        ],
+        "conclusion": "The Supreme Court concluded that a case for interference was made out. Given that the prosecution failed to prove the foundational charge of conspiracy and the co-accused was fully acquitted, the conviction of the appellant under the PC Act could not be sustained. The Court, therefore, allowed the appeal, set aside the judgments of the lower courts, and acquitted the appellant of all charges."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a case for interference in the impugned judgment convicting the appellant is made out.",
+      "appellant_arguments": [
+        "The appellant’s conviction under any of the provisions of the PC Act much less under Sections 7, 13(2) read with Section 13(1)(d) was not legally sustainable and hence it deserves to be set aside, since the acceptance of bribe money was not proved qua the appellant and nor it was proved that Rajinder Kumar accepted it for and on behalf of the appellant."
+      ],
+      "respondent_arguments": [
+        "The respondent (CBI) supported the reasoning and the conclusion arrived at by the two Courts below and contended that no case for any interference in the impugned judgment is made out and hence the appeal be dismissed."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "120-B",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Bhagat Ram v. State of Rajasthan",
+        "citation": "(1972) 2 SCC 466",
+        "principle": "The provided text states this case was relied on, but does not specify the legal principle for which it was cited.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "M. K. Harshan v. State of Kerala",
+        "citation": "(1996) 11 SCC 720",
+        "principle": "The provided text states this case was relied on, but does not specify the legal principle for which it was cited.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A statement made by one accused against a co-accused is inadmissible as evidence against that co-accused when the charge of conspiracy has not been established.",
+    "obiter": [
+      "There are certain statements only."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found that the appellant's conviction under the Prevention of Corruption Act was unsustainable for two primary reasons. First, since the charge of conspiracy against both the appellant and the co-accused (Rajinder Kumar) was not proven, and this resulted in the clean acquittal of Rajinder Kumar from all charges under the PC Act, the charges against the appellant must also necessarily fail. Second, even setting aside the impact of the co-accused's acquittal, the prosecution independently failed to prove the charge against the appellant under Sections 7, 13(2) read with Section 13(1)(d) of the PC Act.",
+    "legal_tests_applied": [
+      "When an accused's conviction is predicated on a conspiracy charge and the actions of a co-accused, and both the conspiracy charge fails and the co-accused is acquitted of all related substantive charges, the conviction of the first accused must also fall on the ground."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p4_3d47950c"
+    ],
+    "decision.directions[0]": [
+      "p9_860e1d02"
+    ]
+  }
+}

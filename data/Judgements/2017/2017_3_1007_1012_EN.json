@@ -1,0 +1,99 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court, where charges were framed under Sections 307, 326, 324, 323, 427, 148, 149, 120-B and 341 of the Indian Penal Code (IPC).",
+    "impugned_order": "Judgment and Order dated 28.08.2015 of the High Court of Punjab and Haryana at Chandigarh in Cr!. Rev. Petition No. 922 of 2015.",
+    "high_court_proceedings": "Respondent No. 2 challenged the Sessions Judge's order framing charges (including Section 307 IPC) by filing a revision petition in the High Court. The High Court partly allowed the revision petition and deleted the charge framed under Section 307 IPC, while maintaining the charges for other offenses.",
+    "supreme_court_posture": "The appellant (the complainant at whose instance the FIR was registered) was dissatisfied with the High Court's decision to delete the charge under Section 307 IPC. The appellant challenged the High Court's order in the Supreme Court, arguing that the Sessions Judge had rightly framed the charge under Section 307 IPC. The Supreme Court allowed the appeal, quashed the High Court's order, and directed that the accused persons be tried for the offense under Section 307 IPC."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The order of the High Court is hereby quashed and set aside.",
+      "The accused persons shall also be tried for the offence under Section 307 IPC."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in deleting the charge framed under Section 307 of the Indian Penal Code on the ground that the intention to kill was conspicuously missing.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant filed an FIR after being attacked by 10-12 people armed with swords, baseball bats, and other weapons.",
+          "The victims suffered grievous and simple injuries from sharp-edged weapons.",
+          "The Sessions Judge framed charges against the accused, including for attempt to murder under Section 307 of the Indian Penal Code (IPC).",
+          "The accused challenged this in the High Court, which deleted the Section 307 charge. The High Court reasoned that the medical evidence did not support the charge and that the 'intention to kill was conspicuously missing'."
+        ],
+        "law": [
+          "The question of whether there was an intention to kill or knowledge that death would be caused is a question of fact to be determined by the Trial Court based on evidence.",
+          "To attract the provisions of Section 307 IPC, the injury does not need to be on a fatal part of the body.",
+          "When several people attack an unarmed person with deadly weapons, it is reasonable to presume they had the knowledge or intention that such an attack could result in death."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court's approach was 'clearly unsustainable' because it made a premature conclusion on the accused's intention at the charge-framing stage.",
+          "The Court pointed to the evidence on record, including witness statements and medical reports, which showed a sudden attack by a large group of people using deadly weapons like swords, resulting in grievous injuries.",
+          "Applying the legal principles, the Court reasoned that these facts were sufficient to establish a prima facie case for framing a charge under Section 307 IPC. The High Court should not have concluded that intent was 'conspicuously missing' without a full trial."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's reasoning, finding it could not determine a lack of intent at the preliminary charge-framing stage. The Court quashed the High Court's order and reinstated the charge under Section 307 IPC, directing that the accused be tried for that offence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in deleting the charge framed under Section 307 of the Indian Penal Code on the ground that the intention to kill was conspicuously missing.",
+      "appellant_arguments": [
+        "The accused were armed with sharp and deadly weapons and brutally attacked the appellant with the intention to kill him.",
+        "During the attack, the accused made explicit statements indicating their intent to kill, such as exhorting that they would kill the appellant and announcing that the appellant would not be alive to practice in the High Court.",
+        "The nature of the attack, including blows with a 'farsa' (axe) aimed at the head and a 'talwar' (sword) at the throat, demonstrates a clear intent to kill.",
+        "The question of whether there was an intention to kill is a question of fact that should be determined by the Trial Court after evaluating evidence, not decided prematurely at the stage of framing charges."
+      ],
+      "respondent_arguments": [
+        "The intention to kill, which is a critical requirement (sine qua non) for a charge under Section 307 IPC, was conspicuously missing from the facts of the case.",
+        "The medical evidence on record does not support the framing of a charge for attempted murder under Section 307 IPC.",
+        "Based on the evidence, the charge should, at most, be under Section 326 IPC (voluntarily causing grievous hurt by dangerous weapons), not Section 307 IPC."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "307",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "173",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Whether there was an intention to kill or knowledge that death will be caused is a question of fact to be determined by the trial court based on evidence. A court cannot, at the stage of framing charges, conclude that the requisite guilty intention or knowledge is absent if there is prima facie material on record to support the charge.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court's approach was unsustainable because it prematurely decided on the factual question of intent at the charge-framing stage. The determination of whether there was an intention to kill is a question of fact that must be decided by the Trial Court after evaluating evidence. The evidence on record, including explicit threats made during the attack (e.g., that the appellant would not be alive to practice in the High Court) and the use of sharp-edged weapons, was sufficient to establish a prima facie case for the ingredients of Section 307 IPC.",
+    "legal_tests_applied": [
+      "Whether there was an intention to kill or knowledge that death will be caused is a question of fact that must be attributed on evidence by the Trial Court, not decided at the stage of framing charges."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A court cannot conduct a detailed evaluation of evidence and conclude on a question of fact, such as the absence of guilty intention, at the preliminary stage of framing a charge, as this usurps the function of the Trial Court."
+    ]
+  },
+  "evidence_map": {
+    "ratio_decidendi.ratio": [
+      "p6_9cb6a359"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p6_9cb6a359"
+    ]
+  }
+}

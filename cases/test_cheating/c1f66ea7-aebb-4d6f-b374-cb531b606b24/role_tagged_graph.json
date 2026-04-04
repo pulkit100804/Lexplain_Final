@@ -1,0 +1,120 @@
+{
+  "case_id": "c1f66ea7-aebb-4d6f-b374-cb531b606b24",
+  "tenant_id": "test_cheating",
+  "agent": "agent_3_role_tagger",
+  "input_refs": [
+    "document_graph.json"
+  ],
+  "created_at": "2026-03-19T16:38:16.359455+00:00",
+  "nodes": [
+    {
+      "node_id": "n_001",
+      "text": "The accused (Arjun) approached the victim (Meera) offering to sell a car.",
+      "span": {
+        "start": 0,
+        "end": 73
+      },
+      "role": "fact"
+    },
+    {
+      "node_id": "n_002",
+      "text": "He claimed that the car was in good condition and showed photos.",
+      "span": {
+        "start": 74,
+        "end": 138
+      },
+      "role": "background"
+    },
+    {
+      "node_id": "n_003",
+      "text": "Based on this, Meera transferred ₹5 lakhs to Arjun via bank transfer.",
+      "span": {
+        "start": 139,
+        "end": 208
+      },
+      "role": "background"
+    },
+    {
+      "node_id": "n_004",
+      "text": "Arjun promised delivery within 7 days.",
+      "span": {
+        "start": 209,
+        "end": 247
+      },
+      "role": "background"
+    },
+    {
+      "node_id": "n_005",
+      "text": "After receiving the money, Arjun stopped responding.",
+      "span": {
+        "start": 248,
+        "end": 300
+      },
+      "role": "background"
+    },
+    {
+      "node_id": "n_006",
+      "text": "The car was never delivered.",
+      "span": {
+        "start": 301,
+        "end": 329
+      },
+      "role": "background"
+    },
+    {
+      "node_id": "n_007",
+      "text": "Later investigation revealed that Arjun did not own the car at the time of the transaction.",
+      "span": {
+        "start": 330,
+        "end": 421
+      },
+      "role": "background"
+    },
+    {
+      "node_id": "n_008",
+      "text": "Arjun claims that he intended to deliver the car but the deal failed due to issues with the actual owner.",
+      "span": {
+        "start": 422,
+        "end": 527
+      },
+      "role": "background"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_001",
+      "target": "n_002",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_002",
+      "target": "n_003",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_003",
+      "target": "n_004",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_004",
+      "target": "n_005",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_005",
+      "target": "n_006",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_006",
+      "target": "n_007",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_007",
+      "target": "n_008",
+      "relation": "sequential"
+    }
+  ]
+}

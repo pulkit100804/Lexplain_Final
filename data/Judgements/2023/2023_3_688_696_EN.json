@@ -1,0 +1,91 @@
+{
+  "procedural_history": {
+    "originating_court": "State Commission",
+    "impugned_order": "Judgment and Order dated 01.02.2007 of the High Court of Madras in FA No. 29 of 2005.",
+    "high_court_proceedings": "The State Commission allowed the complaint, directing the appellants to pay the respondent a sum of Rs. Eight lakhs along with compensation. The appellants preferred First Appeal 29/2005, which was dismissed by the High Court of Madras.",
+    "supreme_court_posture": "The appellants approached the Supreme Court because they were aggrieved by the High Court's dismissal of their appeal against the State Commission's order."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "whether the Commission/Forum under the Act could have entertained the complaint involving highly disputed questions of facts or involving allegations of tortious acts, the proceedings before the Commission/Forum being summary in nature?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a complaint filed with the State Consumer Disputes Redressal Commission, which was later appealed to the National Commission and then the Supreme Court.",
+          "The complaint contained allegations against a bank's employees related to a dispute among the directors of a company.",
+          "The allegations involved potential fraud or cheating committed by one of the company's directors, which the complainant tried to attribute as a fault of the bank."
+        ],
+        "law": [
+          "The proceedings before a Consumer Commission/Forum under the Consumer Protection Act, 1986, are summary in nature.",
+          "Because of this summary nature, the Commission/Forum cannot decide complaints that involve highly disputed questions of fact.",
+          "Cases involving tortious acts or criminality, such as fraud or cheating, are also outside the jurisdiction of the Commission/Forum.",
+          "A \"deficiency in service\" under Section 2(1)(g) of the Act must be distinguished from tortious or criminal acts. It requires proving a wilful fault, imperfection, shortcoming, or inadequacy in the quality or manner of performance.",
+          "The burden of proving a \"deficiency in service\" is always on the person who alleges it (the complainant)."
+        ],
+        "application": [
+          "The Court analyzed the allegations in the complaint and found that even if taken at face value, they did not constitute a \"deficiency in service\" by the bank's employees.",
+          "It reasoned that the core of the dispute was among the company's directors and involved alleged fraud by one director.",
+          "The Court determined that the bank's employees had acted in good faith (bona fide) and followed the proper procedures. Therefore, they could not be held liable for the alleged fraud.",
+          "Since the complainant failed to prove any wilful fault or shortcoming on the part of the bank, they did not meet the burden of proof required to establish a \"deficiency in service.\"",
+          "The Court concluded that the complaint involved disputed factual questions and allegations of tortious acts, which are not suitable for the summary proceedings of the Consumer Forum."
+        ],
+        "conclusion": "The Supreme Court decided that a Consumer Commission/Forum, due to the summary nature of its proceedings, could not entertain complaints involving highly disputed questions of fact or allegations of tortious/criminal acts. Such complex matters are distinct from a \"deficiency in service\" and must be adjudicated in a different legal forum, like a civil court."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "whether the Commission/Forum under the Act could have entertained the complaint involving highly disputed questions of facts or involving allegations of tortious acts, the proceedings before the Commission/Forum being summary in nature?",
+      "appellant_arguments": [
+        "The respondent failed to discharge the burden of proving that there was a deficiency in service on the part of the bank's employees.",
+        "The complainant did not establish any wilful fault, imperfection, shortcoming, or inadequacy in the quality, nature, and manner of the service provided by the bank."
+      ],
+      "respondent_arguments": [
+        "The bank was deficient in its service due to collusion and negligence.",
+        "The bank improperly credited two demand drafts into a separate account opened in the name of 'D-Cube Construction', which was the name on the drafts."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Ravneet Singh Bagga v. KLM Royal Dutch Airlines and Anr.",
+        "citation": "(2000) 1 SCC 66",
+        "principle": "A deficiency in service must be distinguished from tortious acts. If a service provider acts in good faith, taking all precautions, it cannot be said there is a deficiency in service. Inefficiency, lack of due care, absence of bona fides, rashness, or omission are factors to ascertain deficiency. In the absence of a deficiency in service, the aggrieved person's remedy may lie in a common law suit for damages, not under the Consumer Protection Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The burden of proving a deficiency in service is upon the person who alleges it. A deficiency in service cannot be established without attributing fault, imperfection, shortcoming, or inadequacy in the quality, nature, and manner of performance. Bank employees cannot be held liable if they have acted bona fide and followed due procedure.",
+    "obiter": [
+      "The complainant has, on facts, been found to have not established any wilful fault, imperfection."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The respondent-complainant failed to discharge his burden of proof to establish a deficiency in service by the bank's employees. The court determined that even if the allegations were taken at face value, there was no wilful fault, imperfection, shortcoming, or inadequacy in the bank's service. The underlying issue was a dispute among company directors involving alleged fraud, which constitutes a tortious act rather than a deficiency in service, making it unsuitable for resolution under the Consumer Protection Act.",
+    "legal_tests_applied": [
+      "The burden of proving the deficiency in service is upon the person who alleges it.",
+      "Deficiency in service requires attributing fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance.",
+      "A distinction must be made between a 'deficiency in service' under the Act and 'tortious acts', for which the remedy is a common law suit for damages.",
+      "If an action is taken in good faith, it cannot be said that there had been any deficiency in service.",
+      "In the absence of deficiency in service the aggrieved person may have a remedy under the common law to file a suit for damages but cannot insist for grant of relief under the Act."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The summary proceedings under the Consumer Protection Act are not the appropriate forum for complaints involving highly disputed questions of fact or allegations of tortious acts like fraud, which are better suited for a common law suit for damages in a civil court."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,316 @@
+{
+  "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_5d_feedback_memory",
+  "input_refs": [
+    "ingredient_report.json",
+    "final_argument.json"
+  ],
+  "created_at": "2026-03-20T08:24:11.057554+00:00",
+  "timestamp": "2026-03-20T08:24:11.030625+00:00",
+  "role": "neutral",
+  "patterns": [
+    {
+      "statute_id": "300",
+      "overall_status": "valid",
+      "overall_score": 0.875,
+      "failure_patterns": [
+        {
+          "category": "mens_rea",
+          "status": "partial",
+          "evidence_type": "event"
+        }
+      ]
+    },
+    {
+      "statute_id": "304",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "mens_rea",
+          "status": "partial",
+          "evidence_type": "event"
+        },
+        {
+          "category": "mens_rea",
+          "status": "partial",
+          "evidence_type": "event"
+        },
+        {
+          "category": "mens_rea",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        }
+      ]
+    },
+    {
+      "statute_id": "94",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        }
+      ]
+    },
+    {
+      "statute_id": "307",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        }
+      ]
+    },
+    {
+      "statute_id": "303",
+      "overall_status": "weak",
+      "overall_score": 0.5,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    },
+    {
+      "statute_id": "100",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        },
+        {
+          "category": "mens_rea",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        }
+      ]
+    },
+    {
+      "statute_id": "304B",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "actus_reus",
+          "status": "partial",
+          "evidence_type": "event"
+        },
+        {
+          "category": "actus_reus",
+          "status": "partial",
+          "evidence_type": "event"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    },
+    {
+      "statute_id": "101",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        }
+      ]
+    },
+    {
+      "statute_id": "301",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "mens_rea",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        },
+        {
+          "category": "mens_rea",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        }
+      ]
+    },
+    {
+      "statute_id": "87",
+      "overall_status": "weak",
+      "overall_score": 0.3,
+      "failure_patterns": [
+        {
+          "category": "actus_reus",
+          "status": "partial",
+          "evidence_type": "event"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    },
+    {
+      "statute_id": "70",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        }
+      ]
+    },
+    {
+      "statute_id": "115",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    },
+    {
+      "statute_id": "46",
+      "overall_status": "weak",
+      "overall_score": 0.5,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    }
+  ],
+  "loopholes_count": 34
+}

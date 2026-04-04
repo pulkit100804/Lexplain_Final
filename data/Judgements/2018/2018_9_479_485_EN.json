@@ -1,0 +1,150 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment and Order dated 20.12.2017 of the High Court of Kerala at Ernakulam in Crl. MC No.5129 of 2017.",
+    "high_court_proceedings": "High Court of Kerala at Ernakulam issued a Judgment and Order on 20.12.2017 in Crl. MC No. 5129 of 2017.",
+    "supreme_court_posture": "The Supreme Court heard the matter on 1st August, 2018, and allowed the appeals. The reasons for the decision were to follow later. The Supreme Court was informed that the trial was in progress before the trial court."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a charge can be framed against a person based on a mere likelihood of suspicion, without evidence indicating grave suspicion.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants, two medical practitioners and a hospital administrator, were charged under the POCSO Act.",
+          "The prosecution's case was that a victim gave birth at their hospital, and her age was recorded as 18.",
+          "The allegation was that the appellants should have deduced from this that the victim was a minor (under 18) at the time of conception and, therefore, should have reported a potential POCSO offense to the authorities.",
+          "The appellants were accused of failing to make this report as required by Section 19(1) of the POCSO Act."
+        ],
+        "law": [
+          "Section 19(1) of the POCSO Act obligates a person to report an offense if they have 'knowledge' that such an offense has been committed.",
+          "The Court established that to frame a charge against a person, the evidence must indicate a 'grave suspicion' of their involvement.",
+          "A 'mere likelihood of suspicion' is insufficient to frame a charge."
+        ],
+        "application": [
+          "The Court analyzed the meaning of 'knowledge' in the POCSO Act and concluded that it does not impose an obligation on a person to investigate or deduce from circumstances that a crime has been committed.",
+          "It found the prosecution's argument—that the appellants should have calculated the victim's age at conception and inferred a crime—to be 'too far-fetched' to establish criminal liability.",
+          "The Court noted a lack of evidence against each appellant: one doctor only saw the victim at delivery when she was 18, another had not even examined her, and the administrator could not be expected to know the details of every patient.",
+          "The Court determined that the case against the appellants was not based on evidence of knowledge, but on a mere suspicion that they should have figured out a crime had occurred."
+        ],
+        "conclusion": "The Supreme Court rejected the framing of charges, holding that a 'mere likelihood of suspicion' is not enough. It ruled that since there was no evidence to create a 'grave suspicion' that the appellants actually had knowledge of a crime, and the law does not require them to deduce it from circumstances, the proceedings against them must be quashed."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether there was sufficient evidence to implicate the appellants for having knowledge that an offence under the Protection of Children from Sexual Offences Act, 2012 had been committed.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were two medical practitioners and a hospital administrator.",
+          "A victim was brought to their hospital, recorded as being 18 years old, and immediately delivered a child.",
+          "The prosecution's case was that the appellants should have deduced from the victim's age at delivery (18) that she must have been a minor (under 18) at the time of conception.",
+          "Based on this deduction, the prosecution argued the appellants had a duty to report a potential offense under the Protection of Children from Sexual Offences (POCSO) Act, which they failed to do.",
+          "The victim and her mother never informed the appellants that she had been raped as a minor."
+        ],
+        "law": [
+          "The case centered on Section 19(1) of the POCSO Act, which obligates a person to report an offense if they have \"knowledge\" that one has been committed.",
+          "The Court interpreted \"knowledge\" to mean actual awareness of the crime based on information received, not a duty to investigate, gather information, or deduce facts from circumstances.",
+          "A person can only be supposed to know something when there is a direct appeal to their senses."
+        ],
+        "application": [
+          "The Court found the prosecution's argument that the appellants should have calculated the victim's age at conception to be \"too far-fetched\" to establish criminal liability.",
+          "The medical records, which were the only information available to the appellants, stated the victim was 18 years old at the time of delivery. There was no evidence they knew she was a minor when the sexual intercourse occurred.",
+          "The Court noted that the appellants were simply performing their professional duties: Appellant 1 conducted the emergency delivery, Appellant 2 (a pediatrician) attended to the baby, and Appellant 3 (the administrator) had no direct contact with the patient and could not be expected to know the details of every case.",
+          "The Court distinguished between potential carelessness (not investigating the cause of pregnancy) and the criminality required by the statute, which hinges on actual knowledge.",
+          "Since neither the victim nor her mother told the appellants about the rape, there was no direct information to give them the required \"knowledge\"."
+        ],
+        "conclusion": "The Supreme Court rejected the issue, concluding that there was no evidence to implicate the appellants. The legal requirement of \"knowledge\" under the POCSO Act was not met, as the appellants had no actual awareness that an offense had been committed and were under no obligation to investigate or deduce it from the circumstances. Finding that mere suspicion is not enough to press charges, the Court quashed the proceedings against them."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a charge can be framed against a person based on a mere likelihood of suspicion, without evidence indicating grave suspicion.",
+      "appellant_arguments": [
+        "The material collected by the prosecution is insufficient to frame a charge.",
+        "The evidence on record does not create a 'grave suspicion' required for framing a charge, but at best only a mere likelihood of suspicion."
+      ],
+      "respondent_arguments": [
+        "The material collected by the prosecution is sufficient to make out a case for framing charges against the appellants."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether there was sufficient evidence to implicate the appellants for having knowledge that an offence under the Protection of Children from Sexual Offences Act, 2012 had been committed.",
+      "appellant_arguments": [
+        "There is no case made out against the appellants based on the material collected by the prosecution.",
+        "The evidence is insufficient to establish that the appellants had knowledge that an offence under the POCSO Act had been committed and subsequently failed to report it."
+      ],
+      "respondent_arguments": [
+        "The appellants had knowledge that an offence under the POCSO Act had been committed.",
+        "The appellants failed in their duty to provide this information to the relevant authorities."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "201",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Protection of Children from Sexual Offences Act, 2012",
+        "section": "19(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Protection of Children from Sexual Offences Act, 2012",
+        "section": "21(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Juvenile Justice Act",
+        "section": "75",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The knowledge requirement for an offence cannot be satisfied by a person having merely deduced from circumstances that an offence has been committed.",
+    "obiter": [
+      "What is alleged against the appellants is that they had the knowledge that an offence under the Protection of Children from Sexual Offences Act, 2012 had been committed and, therefore, they were required to provide this information to the relevant authorities which they failed to do."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that there is no evidence to implicate the appellants because the material collected by the prosecution does not make out a case against them. The evidence on record does not rise to the level of grave suspicion required to frame a charge; a mere likelihood of suspicion is an insufficient basis for prosecution.",
+    "legal_tests_applied": [
+      "Evidence should be such which should at least indicate grave suspicion.",
+      "Mere likelihood of suspicion cannot be the reason to charge a person for an offence.",
+      "The knowledge requirement foisted on the appellants cannot be that they ought to have deduced from circumstances that an offence has been committed."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.statutes[2].act_name": [
+      "p1_da501903"
+    ],
+    "citations.statutes[3].act_name": [
+      "p1_da501903"
+    ]
+  }
+}

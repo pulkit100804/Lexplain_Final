@@ -1,0 +1,144 @@
+{
+  "procedural_history": {
+    "originating_court": "General Court Martial",
+    "impugned_order": "Order dated 21.05.2014 passed by the High Court of Punjab & Haryana in CWP No. 20380 of 2012.",
+    "high_court_proceedings": "The High Court of Punjab & Haryana, in CWP No. 20380 of 2012, set aside the order passed by the Armed Forces Tribunal, Chandigarh. The Armed Forces Tribunal had dismissed the appeal of the respondent and upheld the findings and sentence awarded by the General Court Martial. The High Court found that a convening order had been altered after dispatch.",
+    "supreme_court_posture": "The Appellants appealed to the Supreme Court. The Supreme Court dismissed the Civil Appeal, finding no substance in it and upholding the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Legality of the appointment of Judge Advocate who was admittedly junior to the respondent.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent, an army officer, was tried by a General Court Martial (GCM).",
+          "The Judge Advocate appointed for the GCM was an officer junior in rank to the respondent.",
+          "The High Court had set aside the GCM's decision solely on the grounds that this appointment was illegal.",
+          "Two different versions of the convening order (the document authorizing the GCM) were presented to the High Court.",
+          "The version provided by the appellant (Union of India) contained the required justification for appointing a junior officer, stating that a more senior officer was not available.",
+          "The version the respondent had officially received did not contain this justification.",
+          "The High Court found as a matter of fact that the appellant's version of the order had been altered after it was officially dispatched, and the justification was added later."
+        ],
+        "law": [
+          "The general rule, established in the case of *Charanjit Singh Gill*, is that a Judge Advocate should not be of a lower rank than the officer facing trial.",
+          "An exception to this rule exists: a junior officer can be appointed if an officer of equal or higher rank is unavailable, but this non-availability must be specifically recorded as an opinion in the convening order.",
+          "A combined reading of Army Rules (specifically 40 and 102) confirms that an officer disqualified from sitting on a Court Martial (like a junior officer, unless the exception applies) is also disqualified from acting as a Judge Advocate.",
+          "The non-recording of these specific reasons in the convening order invalidates the appointment of a junior officer as Judge Advocate."
+        ],
+        "application": [
+          "The Supreme Court's decision hinged on the factual finding made by the High Court regarding the two different convening orders.",
+          "The Court accepted the High Court's finding that the convening order was altered after it was officially issued and that the justification for appointing a junior officer was added subsequently.",
+          "This meant that the original, valid convening order did not contain the mandatory recorded opinion explaining why a senior or equivalent officer was unavailable.",
+          "Because the condition for invoking the exception (recording the reason in the convening order) was not met at the time the order was properly issued, the appointment of the junior Judge Advocate was illegal from the start.",
+          "The Court reasoned that an unauthorized, after-the-fact alteration to the document could not cure this fundamental legal defect."
+        ],
+        "conclusion": "The Supreme Court accepted the High Court's decision, ruling that the appointment of the junior Judge Advocate was illegal. The illegality arose because the original, official convening order failed to include the mandatory recorded opinion justifying the appointment due to the non-availability of a more senior officer. The Court affirmed the finding that the version of the order containing this justification had been improperly altered after it was issued."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the subsequent mentioning of a reason in the convening order, after it was signed by the issuing authority, was unauthorised and impermissible, rendering the order incurably defective.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Two different versions of the convening order were produced in court.",
+          "The version initially dispatched by the issuing authority and supplied to the respondent did not contain a reason for appointing a Judge Advocate who was junior in rank to the accused.",
+          "A second version, produced by the appellant, contained the required reason.",
+          "The High Court found as a matter of fact that this second version had been altered after it was signed and dispatched."
+        ],
+        "law": [
+          "Once a document is signed and dispatched by the issuing authority, its communication is complete.",
+          "Any subsequent alteration to such a document is unauthorized and impermissible, unless it is to correct a formally recorded mistake.",
+          "Based on the precedent in *Charanjit Singh Gill*, the failure to record reasons in the convening order for appointing an officer of junior rank as a Judge Advocate renders the order incurably defective and invalidates the Court Martial proceedings."
+        ],
+        "application": [
+          "The Court determined that the crucial reason for appointing a junior officer was not present in the convening order at the time it was officially issued and sent to the respondent.",
+          "The subsequent addition of this reason to another copy of the document, after it was signed and dispatched, was an unauthorized act.",
+          "This unauthorized alteration could not retroactively fix the original defect in the order."
+        ],
+        "conclusion": "The Supreme Court concluded that the subsequent addition of the reason to the convening order was unauthorized and impermissible. It upheld the High Court's finding that the order suffered from an incurable defect because the reason was not included when the document was signed and dispatched, thus rendering the Court Martial proceedings invalid."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Legality of the appointment of Judge Advocate who was admittedly junior to the respondent.",
+      "appellant_arguments": [
+        "The appointment of a junior Judge Advocate was legal because the convening order contained a valid reason for it, namely, 'in my opinion having due regard to the exigencies of public service an officer of equal or superior rank to the accused is not available to act as Judge Advocate'."
+      ],
+      "respondent_arguments": [
+        "The appointment was illegal because the convening order, as originally issued and received, did not contain any reason justifying the appointment of a junior officer."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the subsequent mentioning of a reason in the convening order, after it was signed by the issuing authority, was unauthorised and impermissible, rendering the order incurably defective.",
+      "appellant_arguments": [
+        "The convening order containing the reason was the valid document. (This is inferred from their action of producing the document with the added reason)."
+      ],
+      "respondent_arguments": [
+        "The reason for appointing a junior officer was added to the convening order after it had been signed and dispatched. This alteration was unauthorized and impermissible, as a document cannot be changed once it is in the course of transmission."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Union of India & Anr. v. Charanjit Singh Gill",
+        "citation": "[2000] 3 SCR 245 : (2000) 5 SCC 742",
+        "principle": "A Judge Advocate is an effective officer of the Court Martial whose advice is crucial and can sway the minds of its members, who are not legally trained persons. The quality of the advice tendered is very important to the proceedings.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An officer who is disqualified from being a member of a Court Martial due to being of a lower rank than the officer on trial is, by a combined reading of Rules 40(2) and 102, also disqualified from acting as a Judge Advocate at that Court Martial.",
+    "obiter": [
+      "The non-recording of reasons in the convening order for the appointment of an officer junior in rank as a Judge Advocate invalidates the Court Martial proceedings."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The convening order for the Court Martial was incurably defective because the mandatory reason for appointing a Judge Advocate junior to the accused was not included in the order when it was originally signed and dispatched. The subsequent, unauthorized addition of this reason to another copy of the document could not cure the initial defect, as a document cannot be altered after its communication is complete, thereby invalidating the entire Court Martial proceeding.",
+    "legal_tests_applied": [
+      "A combined reading of Army Rules 39, 40, and 102 suggests that an officer who is disqualified to be a member of a Court Martial (e.g., for being of a lower rank than the accused) is also disqualified from acting as a Judge Advocate, unless a specific opinion justifying the exception is recorded in the convening order.",
+      "The rule from Union of India & Anr. v. Charanjit Singh Gill, which states that the non-recording of reasons for the appointment of an officer junior in rank as a Judge Advocate in the convening order invalidates the Court Martial proceedings.",
+      "The principle of document finality: Once a document is dispatched by the officer signing it, the communication of that document is complete, and any subsequent alteration is unauthorised and impermissible."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the appellant's proposition that a junior officer could act as Judge Advocate by concluding that an officer disqualified from sitting on a Court Martial due to rank is also disqualified from acting as Judge Advocate, stating, 'Accepting a plea to the contrary would be invalidating the legal bar imposed upon the composition of the Court in sub-rule (2) of Rule 40.'",
+      "The court found that the reason justifying the appointment of a junior officer was not present in the convening order when it was dispatched and supplied to the respondent.",
+      "The court held that the subsequent addition of the reason to the document after it was signed by the issuing authority was 'unauthorised and impermissible,' rendering the convening order incurably defective."
+    ],
+    "why_respondent_won": [
+      "The court agreed with the respondent that the convening order as originally issued was defective because it lacked the required reason for appointing a junior Judge Advocate.",
+      "The court affirmed the High Court's finding that because the reason was added after the document was signed and dispatched, the convening order suffered from an 'incurable defect.'",
+      "The court's interpretation of the combined Army Rules supported the respondent's position that an officer of a lower rank is disqualified from acting as a Judge Advocate unless a specific, validly recorded reason is provided in the convening order from the outset."
+    ],
+    "policy_considerations": [
+      "The rule requiring a Judge Advocate to be of a rank not lower than the accused is intended to uphold the 'respect and dignity of the officer facing the trial till guilt is proved against him by not exposing him to the humiliation of being subjected to trial by officers of lower rank.'",
+      "The appointment of a senior Judge Advocate is necessary to inspire confidence and ensure the accused can effectively avail themselves of the Judge Advocate's opinion and services, as 'seeking advice from a person junior in rank may apparently be not possible ultimately resulting in failure of justice.'"
+    ]
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p1_f7d9c08c"
+    ],
+    "arguments[0].issue_text": [
+      "p1_f7d9c08c"
+    ],
+    "citations.cases[0].case_name": [
+      "p2_58716896"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Court",
+    "impugned_order": "Judgment and Order dated 02.04.2009 of the High Court of Delhi at New Delhi in CRLA No. 04 of 2007, which presumably affirmed the conviction and sentence by the Special Court.",
+    "high_court_proceedings": "The High Court of Delhi at New Delhi heard CRLA No. 04 of 2007 and issued a Judgment and Order dated 02.04.2009. The High Court's decision was challenged in the Supreme Court.",
+    "supreme_court_posture": "The Supreme Court allowed the appeal, setting aside the judgment of the High Court and the Special Court, and overturning the appellant's conviction and sentence. The Supreme Court bench initially consisted of two judges, who identified a conflict with prior decisions of the Court."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside",
+    "sentence_status": "set aside",
+    "directions": [
+      "The impugned judgment and the judgment of the Special Court are set aside.",
+      "The bail bonds of the appellant stand cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the decisions of the Supreme Court in B. Jayaraj v. State of Andhra Pradesh and P. Satyanarayana Murthy v. District Inspector of Police, State of Andhra Pradesh & Anr. were in conflict with the earlier three-Judge bench's decision in M. Narsinga Rao v. State of A.P.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "While hearing an appeal, a two-judge bench of the Supreme Court examined the decisions in three cases, all decided by three-judge benches: *B. Jayaraj v. State of Andhra Pradesh*, *P. Satyanarayana Murthy v. District Inspector of Police, State of Andhra Pradesh & Anr.*, and the earlier case of *M. Narsinga Rao v. State of A.P.*"
+        ],
+        "law": [],
+        "application": [
+          "The two-judge bench came to the conclusion that the decisions in *B. Jayaraj* and *P. Satyanarayana Murthy* were in conflict with the earlier decision in *M. Narsinga Rao*.",
+          "Because the court identified this conflict between benches of equal strength, it referred the matter to a larger bench to resolve the issue.",
+          "The specific question referred to the larger bench concerned whether it is permissible to infer the guilt of a public servant in a corruption case based on other evidence when there is no direct or primary evidence of a demand for a bribe."
+        ],
+        "conclusion": "The Supreme Court decided that a conflict existed between the cited cases. It did so by having a two-judge bench formally conclude that the later decisions were in conflict with the earlier one and, as a result, referred the underlying legal question to a larger bench for an authoritative ruling."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the decisions of the Supreme Court in B. Jayaraj v. State of Andhra Pradesh and P. Satyanarayana Murthy v. District Inspector of Police, State of Andhra Pradesh & Anr. were in conflict with the earlier three-Judge bench's decision in M. Narsinga Rao v. State of A.P.",
+      "appellant_arguments": [
+        "The appellant argued that proof of demand for illegal gratification by a public servant is a sine qua non (an essential condition) for offences under Sections 7 and 13(1)(d) of the Prevention of Corruption Act.",
+        "The appellant contended that in this specific case, there was no evidence of such a demand, and the findings of the lower courts were based on surmises and conjectures."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the demand and acceptance of the bribe were proven through both a witness (PW-5) and circumstantial evidence.",
+        "They submitted that once demand and acceptance are established, there is a legal presumption that the acceptance of the gratification was for a motive or reward.",
+        "The respondent's position implied that direct evidence is not essential and guilt can be inferred from other evidence."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Corruption Act",
+        "section": "13(1)(d)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act",
+        "section": "20",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Neeraj Dutta v State (Govt of NCT of Delhi)",
+        "citation": "2022 SCCOnline SC 1724",
+        "principle": "The presumption in law under Section 20 of the Prevention of Corruption Act is a mandatory presumption, which is distinct from a discretionary presumption of fact.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A court may raise a presumption of fact regarding the demand and acceptance of illegal gratification only when the foundational facts have been proven by relevant oral and documentary evidence. This presumption is discretionary and subject to rebuttal by the accused.",
+    "obiter": [
+      "The presumption in law under Section 20 of the Act is a mandatory presumption, which is distinct from the discretionary presumption of fact concerning the demand and acceptance of a bribe."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The allegation of demand of gratification and acceptance made by a public servant has to be established beyond a reasonable doubt. While it is permissible to draw an inferential deduction of guilt based on circumstantial evidence in the absence of direct evidence, the legal presumption of a corrupt motive under Section 20 of the Act can only be invoked after the foundational facts of demand and acceptance are proven. As proof of demand was lacking in the present case, the primary facts on the basis of which the legal presumption could be drawn were wholly absent, necessitating the acquittal of the appellant.",
+    "legal_tests_applied": [
+      "The demand for gratification and its acceptance must be proved beyond a reasonable doubt.",
+      "In the absence of direct or primary evidence of a demand for illegal gratification, it is permissible to draw an inferential deduction of culpability/guilt of a public servant under the Prevention of Corruption Act, 1988, based on other evidence adduced by the prosecution.",
+      "The mandatory legal presumption under Section 20 of the Act can only be drawn after the foundational facts of demand and acceptance of gratification are proven by the prosecution."
+    ],
+    "why_appellant_lost": [
+      "The appellant's broader legal contention that a conviction cannot be sustained in the absence of direct or primary evidence of demand was not accepted by the court. The court clarified that guilt can be established through inferential deduction from other circumstantial evidence."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully established the legal principle that the absence of direct evidence from a complainant is not fatal to a corruption case, and that the prosecution is permitted to prove its case by drawing an 'inferential deduction of culpability/guilt' from other evidence on record."
+    ],
+    "policy_considerations": [
+      "The court's decision reinforces that the elementary principle of criminal law, requiring proof beyond a reasonable doubt, is not diluted in corruption cases. This ensures that convictions are not based on surmises and conjectures, even while allowing for convictions based on strong circumstantial evidence."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p3_14320f15"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p13_f08ee802"
+    ]
+  }
+}

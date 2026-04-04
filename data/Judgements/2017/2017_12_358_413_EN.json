@@ -1,0 +1,119 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court",
+    "impugned_order": "Impugned judgment of the High Court (content not specified)",
+    "high_court_proceedings": "The High Court granted a certificate of fitness to appeal.",
+    "supreme_court_posture": "The Supreme Court heard the counsel and was of the opinion that the High Court's judgment was correct. The Supreme Court dismissed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether Section 45(1) of the Prevention of Money Laundering Act, 2002, which imposes two additional conditions for granting bail, is unconstitutional for being unreasonable, arbitrary, and violative of Article 14 of the Constitution.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case challenged the constitutional validity of Section 45(1) of the Prevention of Money Laundering Act (PMLA), 2002.",
+          "Section 45(1) imposes two stringent conditions for granting bail to a person accused of an offence punishable for more than 3 years under Part A of the Schedule to the Act.",
+          "The two conditions are: 1) The Public Prosecutor must be given an opportunity to oppose the bail application, and 2) The court must be satisfied that there are reasonable grounds to believe the accused is not guilty of \"such offence\" and is not likely to commit any offence while on bail."
+        ],
+        "law": [
+          "Section 45(1) of the Prevention of Money Laundering Act, 2002: Imposes twin conditions for the grant of bail.",
+          "Article 14 of the Constitution of India: Guarantees the right to equality and prohibits arbitrary state action.",
+          "Article 21 of the Constitution of India: Protects the right to life and personal liberty, which includes the right to a fair and just procedure."
+        ],
+        "application": [
+          "The Court found a fundamental flaw in the wording of Section 45(1). The condition that the accused must prove they are not guilty of \"such offence\" referred to the predicate offence listed in Part A of the Schedule, not the offence of money laundering itself.",
+          "This created a situation where, to get bail for a money laundering charge, the accused had to prove they were not guilty of a completely different crime (the predicate offence). The Court held that this condition had \"no nexus whatsoever\" with the bail application for the offence of money laundering.",
+          "The Court identified several instances of \"manifest arbitrariness\" and discrimination that violated Article 14:",
+          "1. A person prosecuted only for a predicate offence could get bail under normal criminal procedure, but if they were also charged with money laundering, they faced the harsh twin conditions of Section 45. The grant of bail depended on a circumstance unrelated to the predicate offence itself.",
+          "2. The Act does not bar anticipatory bail. A person could get anticipatory bail without satisfying the twin conditions. However, a person arrested first and applying for regular bail would have to meet these stringent conditions. This created an anomalous and unjust distinction.",
+          "The Court concluded that this arbitrary and discriminatory procedure was not fair or just, and therefore also violated the right to personal liberty under Article 21."
+        ],
+        "conclusion": "The Supreme Court declared Section 45(1) of the Prevention of Money Laundering Act, 2002, unconstitutional, specifically insofar as it imposes the two additional conditions for release on bail. The Court found these conditions to be manifestly arbitrary, discriminatory, and violative of Articles 14 and 21 of the Constitution."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether Section 45(1) of the Prevention of Money Laundering Act, 2002, which imposes two additional conditions for granting bail, is unconstitutional for being unreasonable, arbitrary, and violative of Article 14 of the Constitution.",
+      "appellant_arguments": [
+        "The appellant's argument, as reflected in the issue, is that Section 45(1) of the PMLA, 2002 is unconstitutional because its conditions for bail are unreasonable, arbitrary, and violate Article 14 of the Constitution."
+      ],
+      "respondent_arguments": [
+        "The Attorney General, representing the respondent, argued for the constitutional validity of Section 45 by relying on previous Supreme Court judgments in Gautam Kundu and Rohit Tandon. The argument was that these judgments had applied Section 45, proceeding on the assumption that the section was constitutionally valid."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 14",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 21",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 32",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Unnamed",
+        "citation": "(2017) 9 sec 1",
+        "principle": "The test of manifest arbitrariness applies to negate legislation under Article 14. Manifest arbitrariness is something done by the legislature capriciously, irrationally, without adequate determining principle, or is excessive and disproportionate.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Indian Express Newspapers (Bombay) (P) Ltd. v. Union of India",
+        "citation": "(1985) I SCC 641",
+        "principle": "Subordinate legislation can be challenged on any of the grounds available for challenge against plenary legislation, and there is no rational distinction between the two types of legislation when it comes to a challenge under Article 14.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Legislation can be negated under Article 14 on the ground of manifest arbitrariness, which occurs when the legislature acts capriciously, irrationally, without an adequate determining principle, or when the law is excessive and disproportionate.",
+    "obiter": [
+      "There is always a presumption in favour of the constitutionality of an enactment.",
+      "The principle of equality does not mean that every law must have universal application for all persons, as the varying needs of different classes often require separate treatment.",
+      "A statute that vests discretion in an administrative body to make selective application of the law to certain classes is not discriminatory if the legislative policy is clear and the classification has a rational relation to the statute's objective.",
+      "The term \"law\" under Article 21 implies due process, both procedurally and substantively."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court declared Section 45(1) of the Prevention of Money Laundering Act, 2002, to be unconstitutional because the two additional conditions it imposes for release on bail violate Articles 14 and 21 of the Constitution. The provision violates Article 21 as it is a drastic measure that makes inroads into the fundamental right of personal liberty and turns the presumption of innocence on its head without a compelling State interest. It also violates Article 14 because the classification of offences, based on the sentencing of the scheduled offence, has no rational relation to the object of the 2002 Act.",
+    "legal_tests_applied": [
+      "For a classification to be permissible under Article 14, it \"must be based upon some real and substantial distinction bearing a reasonable and just relation to the object sought to be attained, and the classification cannot be made arbitrarily and without any substantial basis.\"",
+      "For a provision that makes drastic inroads into the fundamental right of personal liberty under Article 21, the Court \"must be doubly sure that such provision furthers a compelling State interest for tackling serious crime.\""
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Section 45 is a drastic provision which turns on its head the presumption of innocence which is fundamental to a person accused of any offence.",
+      "Absent any such compelling State interest, the indiscriminate application of the provisions of Section 45 will certainly violate Article 21 of the Constitution.",
+      "Provisions akin to Section 45 have only been upheld on the ground that there is a compelling State interest in tackling crimes of an extremely heinous nature."
+    ]
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[1]": [
+      "p30_3dfa7335"
+    ],
+    "judicial_reasoning.policy_considerations[1]": [
+      "p51_e122e3ba"
+    ]
+  }
+}

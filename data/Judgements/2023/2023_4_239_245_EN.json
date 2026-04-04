@@ -1,0 +1,102 @@
+{
+  "procedural_history": {
+    "originating_court": "A Division Police Station",
+    "impugned_order": "Final Judgment and Order dated 07.09.2022 passed by the High Court of Gujarat at Ahmedabad in Criminal Miscellaneous Application No. 22475 of 2021.",
+    "high_court_proceedings": "The High Court of Gujarat at Ahmedabad dismissed Criminal Miscellaneous Application No. 22475 of 2021, which was a prayer for the release of the Appellant on bail.",
+    "supreme_court_posture": "The Appellant appealed to the Supreme Court after the High Court rejected his bail application. The Supreme Court was approached to seek bail during the pendency of the trial. The Supreme Court was not inclined to allow the prayer for enlarging the Appellant on bail and rejected the prayer for bail. The appeal was disposed of."
+  },
+  "decision": {
+    "appeal_result": "disposed of",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "with liberty afore granted",
+      "Pending application(s), if any, stand consigned to records"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "The legal aspect pertaining to the applicability of the GCTOC Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appeal before the court was filed for the sole purpose of seeking bail while the trial was pending."
+        ],
+        "law": [],
+        "application": [
+          "The Court determined that the scope of the current appeal was limited to the question of bail.",
+          "Given this limited scope, the Court reasoned that it was not necessary to conduct a detailed examination of the legal arguments concerning the applicability of the GCTOC Act at that stage."
+        ],
+        "conclusion": "The Supreme Court decided not to rule on the legal applicability of the GCTOC Act because the matter before it was an appeal for bail, not a final hearing on the merits of the case."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "The legal aspect pertaining to the applicability of the GCTOC Act.",
+      "appellant_arguments": [
+        "The sections under which the current First Information Report (FIR) was lodged do not indicate any involvement in organised crime.",
+        "The appellant has been made an accused in the present case without any basis.",
+        "While there are eight other FIRs against the appellant, seven are from before 2015 and one is from 2019, suggesting they do not form a pattern of continuing unlawful activity required to invoke the GCTOC Act."
+      ],
+      "respondent_arguments": [
+        "The appellant is involved in an organised crime syndicate, as evidenced by a payment of Rs. 19,00,000 made to its members.",
+        "The syndicate's activities continued even after the appellant's arrest, with his son allegedly facilitating an extortion call for Rs. 25,00,000.",
+        "Statements from protected witnesses will directly prove the appellant's involvement in the organised crime(s)."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Vilas Pandurang Pawar v State of Maharashtra",
+        "citation": "(2012) 8 SCC 795 : [2012] 8 SCR 270",
+        "principle": "…Moreover, while considering the",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "While considering an application for bail, the scope for appreciation of evidence and other material on record is limited, and the court is not expected to indulge in a critical analysis of the evidence on record.",
+    "obiter": [
+      "An appeal to a Judge’s discretion is an appeal to his judicial conscience. The discretion must be exercised, not in opposition to, but in accordance with, established principles of law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court declined to exercise its judicial discretion to grant bail at this stage, concluding that unlike a scenario with no other cases, the appellant's alleged role and the prima facie material indicating his regular participation in crime weighed against such a grant.",
+    "legal_tests_applied": [
+      "Judicial Discretion: Discretion must be \"sound discretion guided by law. It must be governed by rule, not by humour; it must not be arbitrary, vague and fanciful, but legal and regular.\"",
+      "Standard for Bail Applications: \"while considering the application for bail, scope for appreciation of evidence and other material on record is limited. The court is not expected to indulge in critical analysis of the evidence on record…”.",
+      "Parity in Bail: \"Parity while granting bail must focus upon the role of the accused... In deciding the aspect of parity, the role attached to the accused, their position in relation to the incident and to the victims is of utmost importance.\""
+    ],
+    "why_appellant_lost": [
+      "The court refused to consider the appellant's primary legal argument, stating it \"does not consider it necessary to go into the legal aspect pertaining to the applicability of the GCTOC Act in praesenti, as the current Appeal has been filed only for the purpose of seeking bail\".",
+      "The court found there was \"material, at least prima facie, to indicate his regular participation in any crime,\" which directly contradicted the appellant's claim that past FIRs did not show a pattern of continuing unlawful activity.",
+      "The status of the co-accused did not favor the appellant, as the court noted that out of twelve, \"six co-accused have not been granted bail, five have availed the benefit of default bail and only one is on regular bail\"."
+    ],
+    "why_respondent_won": [
+      "The court was convinced by the appellant's \"alleged role\" and the existence of prima facie evidence against him, noting it had \"perused carefully the statements of the witnesses shown to the Court.\"",
+      "The respondent successfully established a prima facie case of the appellant's regular participation in crime, which was the key factor in the court's decision not to exercise its discretion in the appellant's favor."
+    ],
+    "policy_considerations": [
+      "The court emphasized that judicial discretion is not arbitrary but must be exercised in accordance with established legal principles.",
+      "The court reiterated the established policy that bail orders should avoid a \"Detailed examination of the evidence and elaborate documentation of the merits\" so that no party feels their case has been prejudiced before trial."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[1]": [
+      "p7_ff513e75"
+    ],
+    "citations.cases[0].case_name": [
+      "p1_e48b9fdd",
+      "p6_6de8156c"
+    ],
+    "ratio_decidendi.obiter[0]": [
+      "p6_939a9f87"
+    ]
+  }
+}

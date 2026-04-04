@@ -1,0 +1,109 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a trial court in Tamil Nadu, given the High Court of Judicature at Madras heard appeals from it.",
+    "impugned_order": "Judgment and order dated 23.11.2009 of the High Court of Judicature at Madras in Criminal Appeal No. 688 of 2009.",
+    "high_court_proceedings": "The appellants-accused initially preferred Criminal Appeal Nos. 639 and 688 of 2009 before the High Court, being aggrieved by the judgment and order dated 18.09.2009. The Division Bench of the High Court dismissed the appeals preferred by the appellants via judgment and order dated 23.11.2009.",
+    "supreme_court_posture": "The appellants, being aggrieved by the High Court's judgment and order dated 23.11.2009, preferred appeals before the Supreme Court by way of special leave. These appeals are Criminal Appeal Nos. 1134 of 2013, 1135-1136 of 2013 and 1137 of 2013."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The appellants who are in custody shall be set at liberty forthwith, if they are not required in any other criminal case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "whether the High Court was right in dismissing the appeals preferred by the appellants-accused?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were convicted by the Sessions Court for murder, kidnapping, and theft (Sections 302, 364, and 379 of the IPC).",
+          "The prosecution's case was based entirely on circumstantial evidence, as there was no direct evidence of the incident.",
+          "The appellants appealed to the High Court, which dismissed their appeals and upheld the conviction.",
+          "The appellants then brought the case to the Supreme Court, challenging the High Court's decision."
+        ],
+        "law": [
+          "In cases based on circumstantial evidence, the prosecution must establish a complete chain of evidence that points exclusively to the guilt of the accused.",
+          "If there are discrepancies or gaps in the chain of evidence, the accused is entitled to the benefit of the doubt.",
+          "A conviction cannot be based solely on a retracted confession; it can only be used to support other evidence."
+        ],
+        "application": [
+          "The Supreme Court considered the arguments of the appellants' counsel, who contended that the lower courts had made several errors.",
+          "The appellants argued that the conviction was wrongly based on a retracted confession and that the cause of death was not even known.",
+          "Crucially, they argued that the High Court failed to appreciate that the chain of circumstantial evidence was incomplete and contained various discrepancies.",
+          "The State, in response, argued that the High Court's decision was correct and the evidence was sufficient to prove guilt.",
+          "After hearing both sides and reviewing the record, the Supreme Court sided with the appellants, accepting their contention that the circumstantial evidence was insufficient for a conviction."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was wrong to dismiss the appeals. It found merit in the appellants' arguments regarding the incomplete chain of circumstantial evidence and the inherent discrepancies in the prosecution's case. Consequently, the Supreme Court set aside the High Court's judgment, allowed the appeals, and ordered the appellants to be acquitted and released."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "whether the High Court was right in dismissing the appeals preferred by the appellants-accused?",
+      "appellant_arguments": [
+        "The conviction cannot be based upon a retracted confession and it can be used only in support of other evidence.",
+        "The courts below erred in convicting the appellants where the cause of death is not known.",
+        "The High Court ought to have appreciated the fact that there was no complete chain of circumstantial evidence in the prosecution case and there are various discrepancies inherent in it.",
+        "The benefit of doubt should be given in favour of the appellants."
+      ],
+      "respondent_arguments": [
+        "The judgment and order passed by the Division Bench of the High Court upholding the decision of the Sessions Court is as per the terms and dictates of law and should not be interfered with.",
+        "The evidence against the appellants-accused is sufficient enough to bring home the guilt."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "27",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 20(3)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Madhu vs. State of Kerala",
+        "citation": "(2012) 2 SCC 399",
+        "principle": "Cited to explain the mandate of Section 27 of the Evidence Act, which permits the derivative use of custodial statements. The case established that there is no automatic presumption of compulsion for custodial statements, but if compulsion is shown, relying on such testimony would offend Article 20(3) of the Constitution.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A conviction cannot be sustained solely on the basis of the evidence of the accused being last seen together with the deceased, as this evidence alone is insufficient to establish guilt beyond a reasonable doubt and requires corroboration.",
+    "obiter": [
+      "In cases based on circumstantial evidence, the prosecution must prove all necessary circumstances, which must constitute a complete chain without a snap, pointing to the hypothesis that except the accused, no one had committed the offence.",
+      "The law presumes that the person who was last seen with the deceased would have killed the deceased, and the burden to rebut this lies on the accused to prove that they had departed.",
+      "There is a long mental distance between 'may be true' and 'must be true', which divides conjectures from sure conclusions.",
+      "Confessions given to a police officer while in custody are inadmissible under Section 26 of the Indian Evidence Act, 1872, and only that part of the statement which leads to the discovery of a new fact is permissible."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In a case resting on circumstantial evidence, the prosecution must prove all necessary circumstances which constitute a complete chain without a snap, pointing to the hypothesis that only the accused could have committed the offence. The Court found that in the present case, the prosecution failed to meet this burden of proof.",
+    "legal_tests_applied": [
+      "In cases based on circumstantial evidence, the following conditions must be fulfilled: (1) The circumstances from which an inference of guilt is sought to be drawn, must be cogently and firmly established; (2) those circumstances should be of a definite tendency unerringly pointing towards guilt of the accused; (3) the circumstances, taken cumulatively, should form a chain so complete that there is no escape from the conclusion that within all human probability the crime was committed by the accused and none else."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "There is a long mental distance between “may be true” and “must be true” and the same divides conjectures from sure conclusions.",
+      "A court must be mindful of the short step that can exist between moral certainty and legal proof, and ensure that the latter standard is met."
+    ]
+  },
+  "evidence_map": {
+    "arguments[0].appellant_arguments[2]": [
+      "p6_44e36cdd"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment and order dated 06.06.2009 passed by the High Court of Karnataka in CRLA No. 1217 of 2002",
+    "high_court_proceedings": "The State of Karnataka appealed the Trial Court's order of acquittal. The High Court allowed the Criminal Appeal of the State, reversed the Trial Court's acquittal, and convicted the appellant of offences under Sections 302 and 450 read with Section 34 of the Indian Penal Code, sentencing him to life imprisonment under Section 302 of IPC.",
+    "supreme_court_posture": "The appellant (Vishwanatha) challenged the High Court's judgment and order in the Supreme Court. The Supreme Court allowed the appeal, effectively overturning the High Court's conviction and upholding the Trial Court's acquittal."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "Appellant acquitted.",
+    "sentence_status": "Sentence set aside.",
+    "directions": [
+      "The appellant, who is already on bail, need not surrender.",
+      "His bail bonds and sureties stand discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellant could be sustained based on identification in court, especially when no prior identification proceedings were conducted and there was doubt regarding the identity of the accused.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was a complete stranger to the two eyewitnesses (PW-1 and PW-2).",
+          "No Test Identification Parade (TIP) was conducted after the appellant's arrest.",
+          "The eyewitnesses identified the appellant for the first time in court.",
+          "The witnesses only learned the appellant's name, 'Vishwanatha', when a co-accused shouted it during the incident.",
+          "There were six people named 'Vishwanatha' living in the same locality.",
+          "No description of the appellant was provided in the First Information Report (FIR) or in the initial statements of the witnesses.",
+          "The court also had independent doubts about the presence and credibility of the two eyewitnesses who made the identification."
+        ],
+        "law": [
+          "The identification of an accused in court without a prior TIP can be acceptable, and the absence of a TIP is not always fatal to the prosecution's case.",
+          "However, the evidence of identifying an accused for the first time in court is inherently weak in nature.",
+          "The purpose of a prior TIP is to test and strengthen the trustworthiness of the in-court identification, especially when the accused is a stranger to the witnesses.",
+          "As a safe rule of prudence, courts should generally look for corroboration of in-court identification testimony when witnesses did not previously know the accused."
+        ],
+        "application": [
+          "The Court acknowledged the general principle that a TIP is not always mandatory.",
+          "However, it applied the rule of prudence, emphasizing that the in-court identification in this specific case was weak because the appellant was a stranger to the witnesses and there was no corroborating evidence.",
+          "The lack of any prior description of the appellant in the FIR or witness statements further weakened the prosecution's case.",
+          "The fact that there were multiple people with the same name in the area, combined with the court's doubts about the eyewitnesses themselves, created significant doubt regarding the appellant's identity.",
+          "The Court found that relying solely on the uncorroborated in-court identification by these witnesses was unsafe."
+        ],
+        "conclusion": "The Supreme Court concluded that the prosecution had failed to establish the appellant's identity beyond a reasonable doubt. Due to the inherently weak nature of the first-time in-court identification, the lack of a prior TIP or any corroborating evidence, and doubts about the witnesses, the Court found it unsafe to sustain the conviction. The conviction was therefore rejected, and the appellant was acquitted."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellant could be sustained based on identification in court, especially when no prior identification proceedings were conducted and there was doubt regarding the identity of the accused.",
+      "appellant_arguments": [
+        "The conviction is unsafe as it relies solely on the in-court identification by eyewitnesses (PW1 and PW2) to whom the appellant was previously unknown.",
+        "No prior identification proceedings were conducted, which weakens the value of the identification made for the first time in court.",
+        "There is doubt regarding the identity of the appellant, making it unsafe to convict based on the testimony of the eyewitnesses alone."
+      ],
+      "respondent_arguments": [
+        "The contradictions in the prosecution's case were minor and not material enough to warrant an acquittal.",
+        "The in-court identification by the eyewitnesses was sufficient to prove the guilt of the accused."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "450",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "34",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Mulla v. State of U.P.",
+        "citation": "(2010) 3 SCC 508",
+        "principle": "Cited in the context of the weakness of identification evidence, specifically the court finding it unsafe to acknowledge a person's identity based merely on identification in court when no prior identification proceedings were conducted.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Malkhansingh v. State of M.P.",
+        "citation": "(2003) 5 SCC 746",
+        "principle": "Cited for the principle that it is unsafe to acknowledge the identity of an accused merely on the basis of their identification in court, especially when no prior identification proceedings (like a Test Identification Parade) were conducted.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When an accused person is not previously known to the witnesses, it is unsafe to rely on an identification made for the first time in court without any prior formal identification proceedings having been conducted.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The conviction of the appellant cannot be sustained because it is unsafe to rely solely on the in-court identification by the eyewitnesses (PW1 and PW2). The court found significant doubt regarding the identity of the appellant due to material contradictions between the eyewitness testimony about the manner of strangulation and the objective medical evidence found in the post-mortem report, thereby entitling the appellant to the benefit of doubt.",
+    "legal_tests_applied": [
+      "The principle that a conviction is unsafe if it is based solely on in-court identification by witnesses to whom the accused was previously unknown, especially when no prior identification proceedings were conducted and there are doubts about the identity of the accused.",
+      "The standard of proof in a criminal case, where the accused is entitled to the benefit of doubt if the prosecution's case is not proven beyond a reasonable doubt."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It is a fundamental principle of criminal justice that a conviction cannot be upheld when there is a reasonable doubt as to the identity of the perpetrator, as it is unsafe to convict an individual based on evidence that is materially contradicted by scientific or medical findings."
+    ]
+  },
+  "evidence_map": {}
+}

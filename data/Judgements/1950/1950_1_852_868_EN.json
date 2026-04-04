@@ -1,0 +1,233 @@
+{
+  "procedural_history": {
+    "originating_court": "1st Class Subordinate Judge's Court at Poona",
+    "impugned_order": "The Bombay High Court's reversal of the Subordinate Judge's decision that the execution application was not barred by limitation.",
+    "high_court_proceedings": "The decree-holder appealed the Subordinate Judge's decision to the Bombay High Court (Appeal No. 281 of 1947), where Chagla C.J. and Dixit J. reversed the Subordinate Judge's decision, holding that the execution application was barred by limitation.",
+    "supreme_court_posture": "The decree-holder, who is the appellant, appealed the Bombay High Court's decision to the Supreme Court, arguing that the execution application was not barred by limitation based on several contentions related to the nature of the decree, insolvency proceedings, actions of a creditor, and alleged fraud by the judgment-debtor."
+  },
+  "decision": {
+    "appeal_result": "Judgment of the Bombay High Ooud affirmed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a pure question of law, such as the applicability of Section 18 of the Limitation Act, can be raised for the first time before the Supreme Court even if not raised in lower courts.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant sought to rely on Section 18 of the Limitation Act for the first time before the Supreme Court.",
+          "This argument had not been raised in the lower courts, nor was it mentioned in the grounds of appeal to the Supreme Court.",
+          "The argument was first introduced in the appellant's statement of the case."
+        ],
+        "law": [
+          "A pure question of law can be raised at any stage of a case, including in the final court of appeal.",
+          "The Court cited the precedent from *Connecticut Fire Insurance Co. v. Kavanagh*, where Lord Watson stated that when a question of law is raised for the first time in a court of last resort based on facts that are \"either admitted or proved beyond controversy, it is not only competent but expedient in the interests of justice to entertain the plea.\""
+        ],
+        "application": [
+          "The Court reasoned that if the facts already proven and established in the lower courts were sufficient to make a case under Section 18, then the question of the section's applicability would be a pure question of law.",
+          "Since the appellant was asking the Court to apply the law to an existing and undisputed set of facts, no new evidence was required.",
+          "Following the principle laid out by Lord Watson, the Court found it competent and expedient to allow the appellant to raise this new legal argument."
+        ],
+        "conclusion": "The Supreme Court held that the question of whether Section 18 of the Limitation Act applied to the proven facts was a pure question of law. Therefore, the appellant was entitled to raise this question for the first time before the Supreme Court, despite not having raised it in the lower courts."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether an execution application not being barred under Section 48 of the Civil Procedure Code obviates the necessity of considering if it is barred under Articles 181 and 182 of the Limitation Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A decree-holder filed an application to execute a decree more than 12 years after the decree was passed and more than 3 years after the final order on the last execution application.",
+          "The decree-holder argued that the application was not barred by the 12-year limit in Section 48 of the Civil Procedure Code (CPC) because the judgment-debtor had committed fraud by concealing assets.",
+          "The High Court agreed that fraud prevented the application from being barred under Section 48 of the CPC, but held that it was still barred under Article 182 of the Limitation Act because it was filed more than 3 years after the last application."
+        ],
+        "law": [
+          "Section 48 of the Civil Procedure Code (CPC) provides a maximum time limit (generally 12 years) for the execution of a decree.",
+          "Articles 181 and 182 of the Limitation Act provide a shorter time limit (3 years) for filing an execution application, which runs from the date of the decree or the date of the last application.",
+          "Section 18 of the Limitation Act allows for an extension of time if the applicant has been kept from the knowledge of their right to apply by means of fraud."
+        ],
+        "application": [
+          "The Supreme Court held that Section 48 of the CPC and the relevant articles of the Limitation Act must be read together but are different in their scope and object.",
+          "Section 48 CPC sets an absolute outer limit for execution, while the Limitation Act requires the decree-holder to take periodic steps (within 3 years) to keep the decree alive within that outer limit.",
+          "The Court reasoned that successfully overcoming the 12-year bar of Section 48 CPC due to the judgment-debtor's fraud does not automatically satisfy the requirements of the Limitation Act.",
+          "The fraud that extends the 12-year period under Section 48 CPC (fraud preventing execution against property) is different from the fraud required under Section 18 of the Limitation Act (fraud preventing knowledge of the right to apply).",
+          "In this case, the decree-holder always knew of his right to apply for execution; he was merely prevented from executing against specific, concealed property. Therefore, he could not get the benefit of Section 18 of the Limitation Act.",
+          "The Court concluded that the decree-holder was still obligated to file applications every three years to keep the decree alive, even if those applications might have been futile due to the debtor's fraud."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, deciding that an execution application must satisfy the time limits of both Section 48 of the Civil Procedure Code and the Limitation Act. The fact that an application is not barred by the outer 12-year limit of Section 48 does not eliminate the separate and concurrent requirement to file it within the 3-year period prescribed by Article 182 of the Limitation Act."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the limitation period for executing a conditional decree runs from the date the plaintiff pays the deficit court fees, rather than from the date of the decree.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A final decree was passed which required the plaintiff (decree-holder) to pay deficit court fees before the decree could be executed.",
+          "The decree-holder paid the deficit court fees on a date subsequent to the date the decree was passed.",
+          "When the decree-holder later applied for execution, it was more than 12 years after the date of the decree.",
+          "The decree-holder argued that the decree was conditional and that the limitation period for execution should only start from the date the condition (payment of court fees) was fulfilled."
+        ],
+        "law": [
+          "A decree is considered conditional for the purpose of starting the limitation period only if its execution depends on an 'extraneous event' that is not within the control of the decree-holder.",
+          "If a condition is entirely within the power of the decree-holder to fulfill, the decree is considered capable of execution from the date it is passed."
+        ],
+        "application": [
+          "The Supreme Court analyzed the nature of the condition, which was the payment of court fees.",
+          "It determined that this payment was not an 'extraneous event' but was an action 'entirely in the power of the decree-holder.'",
+          "The Court reasoned that there was nothing preventing the decree-holder from paying the fees immediately after the decree was passed."
+        ],
+        "conclusion": "The Supreme Court rejected the decree-holder's argument, holding that the decree was not a conditional one in the sense that would postpone the start of the limitation period. Because the condition (payment of fees) was entirely within the decree-holder's control, the decree was capable of execution from the very date it was passed. Therefore, the limitation period for execution ran from the date of the decree, not from the later date when the deficit court fees were paid."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the time spent by a decree-holder in prosecuting insolvency proceedings against the judgment-debtor can be excluded under Section 14(2) of the Limitation Act when computing the limitation period for an execution application.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The decree-holder initiated insolvency proceedings against the judgment-debtor.",
+          "Later, when filing an application to execute the decree, the decree-holder argued that the time spent on the insolvency proceedings should be excluded from the limitation period under Section 14(2) of the Limitation Act."
+        ],
+        "law": [
+          "Section 14(2) of the Limitation Act allows for the exclusion of time spent prosecuting another civil proceeding, provided that the other proceeding was for the purpose of obtaining the \"same relief\"."
+        ],
+        "application": [
+          "The Supreme Court determined that the relief sought in an insolvency proceeding is \"obviously different\" from the relief sought in an execution application.",
+          "In an insolvency proceeding, the relief sought is the adjudication of the debtor as insolvent, leading to the administration of their entire estate for the benefit of *all* creditors.",
+          "In an execution application, the relief sought is the realization of a specific monetary debt for the benefit of the *decree-holder alone*, through processes like property attachment and arrest.",
+          "The Court noted that while the decree-holder might ultimately recover their debt through insolvency, this is merely a \"consequence or result\" and not the primary relief sought.",
+          "Furthermore, the Court observed that the procedures for the two types of proceedings are \"widely divergent.\""
+        ],
+        "conclusion": "The Supreme Court decided that the time spent prosecuting insolvency proceedings could not be excluded because those proceedings were not for the purpose of obtaining the \"same relief\" as the execution application. Therefore, the conditions of Section 14(2) of the Limitation Act were not met."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a pure question of law, such as the applicability of Section 18 of the Limitation Act, can be raised for the first time before the Supreme Court even if not raised in lower courts.",
+      "appellant_arguments": [
+        "The appellant argued for the right to rely on Section 18 of the Limitation Act, treating it as a pure question of law that could be raised at the Supreme Court stage."
+      ],
+      "respondent_arguments": [
+        "The respondent likely argued against allowing a new plea, suggesting that such a course should be doubted when the plea cannot be disposed of without deciding on questions of fact, where the appellate court is at a disadvantage."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether an execution application not being barred under Section 48 of the Civil Procedure Code obviates the necessity of considering if it is barred under Articles 181 and 182 of the Limitation Act.",
+      "appellant_arguments": [
+        "The appellant argued that the application must satisfy the limitation periods under the Limitation Act (specifically Article 181), and that simply overcoming the 12-year bar of Section 48 CPC due to fraud is not sufficient on its own."
+      ],
+      "respondent_arguments": [
+        "The respondent's position, defending the lower court's judgment, was that once fraud was established to overcome the 12-year bar under Section 48, the decree was capable of being executed, implying this was the primary or sole consideration."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the limitation period for executing a conditional decree runs from the date the plaintiff pays the deficit court fees, rather than from the date of the decree.",
+      "appellant_arguments": [
+        "The appellant (decree-holder) would have argued that the limitation period should run from the date the condition was fulfilled (payment of deficit court fees), as the decree only became executable at that point."
+      ],
+      "respondent_arguments": [
+        "The respondent (judgment-debtor) would have argued that the limitation period runs from the date of the decree itself, regardless of when the condition was met."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the time spent by a decree-holder in prosecuting insolvency proceedings against the judgment-debtor can be excluded under Section 14(2) of the Limitation Act when computing the limitation period for an execution application.",
+      "appellant_arguments": [
+        "The appellant argued that the time he spent prosecuting insolvency proceedings against the judgment-debtor should be excluded from the limitation period for execution, as per Section 14(2) of the Limitation Act."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that time spent in insolvency proceedings cannot be excluded under Section 14(2) when calculating the limitation period for an execution application."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Limitation Act",
+        "section": "18",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Civil Procedure Code",
+        "section": "48",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Limitation Act",
+        "section": "Art. 182",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Limitation Act",
+        "section": "Art. 181",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Limitation Act",
+        "section": "14 (2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Connecticut Fire Insurance Co. v. Kavanagh",
+        "citation": "(')",
+        "principle": "When a question of law is raised for the first time in a court of last resort upon facts either admitted or proved beyond controversy, it is not only competent but expedient in the interests of justice to entertain the plea.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kalyanasundaram Pillai v. Vaithilinga Vanniar",
+        "citation": "(1)",
+        "principle": "Section 48(2) of the Civil Procedure Code extends the 12-year period of limitation, but the necessity of also complying with Article 182 of the Limitation Act is not thereby obviated.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A pure question of law may be raised for the first time in a court of last resort, provided it can be decided based on facts that are either admitted or proven beyond controversy, without the need to decide new questions of fact.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that Section 48 of the Civil Procedure Code and the articles of the Limitation Act are independent and parallel provisions. While the judgment-debtor's fraud may extend the absolute 12-year limit for execution under Section 48, it does not relieve the decree-holder of the separate obligation to file an execution application within the 3-year period prescribed by the Limitation Act to keep the decree alive. The fraud alleged by the decree-holder did not fall under Section 18 of the Limitation Act because it did not prevent him from executing against other properties he knew about; therefore, his failure to file a timely application was fatal to his case.",
+    "legal_tests_applied": [
+      "A pure question of law can be raised for the first time in a court of last resort if it is based on facts either admitted or proved beyond controversy, making it expedient in the interests of justice to entertain the plea.",
+      "Section 48 of the Civil Procedure Code and Articles 181/182 of the Limitation Act are independent and parallel provisions. Overcoming the 12-year bar of Section 48 due to fraud does not obviate the necessity of satisfying the 3-year limitation period under the Limitation Act.",
+      "For Section 18 of the Limitation Act to apply, the fraud must have kept the decree-holder from the knowledge of his right to make an application for execution. It is not sufficient that the fraud concealed one of several potential assets."
+    ],
+    "why_appellant_lost": [
+      "The fraud pleaded, namely the suppression of ownership of the 'Prabhat' newspaper, did not prevent the decree-holder from applying for execution against other properties he admittedly knew about, such as bank deposits and movable properties. Therefore, the fraud did not provide a fresh starting point for limitation under Section 18 of the Limitation Act.",
+      "The decree-holder failed to file an execution application within 3 years of the dismissal of his prior application in 1940, as required by the Limitation Act. The court reasoned that overcoming the 12-year bar in Section 48 CPC does not eliminate this separate 3-year requirement.",
+      "The court affirmed the High Court's finding that the decree was not a conditional one where the limitation period would start from the date of paying deficit court fees.",
+      "The court affirmed the High Court's finding that the time spent prosecuting insolvency proceedings could not be excluded under Section 14(2) of the Limitation Act."
+    ],
+    "why_respondent_won": [
+      "The decree-holder had an obligation to take steps to keep the decree alive by filing applications within the 3-year period prescribed by the Limitation Act, which he failed to do.",
+      "The decree-holder's admission that he knew of other properties against which he could have sought execution demonstrated that the respondent's fraud concerning one specific asset did not prevent the execution of the decree in its entirety.",
+      "The court accepted the High Court's reasoning that the limitation period ran from the date of the decree itself, not from the later fulfillment of a condition like paying court fees."
+    ],
+    "policy_considerations": [
+      "It is the decree-holder's business to gather knowledge about the judgment-debtor's properties to realize the fruits of his decree; there is no obligation on the judgment-debtor to post the decree-holder with all details of his properties.",
+      "When a pure question of law is raised for the first time in a court of last resort based on established facts, it is not only competent but expedient in the interests of justice for the court to entertain the plea."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p2_e6a7e4c3"
+    ],
+    "decision.appeal_result": [
+      "p2_4394b781"
+    ]
+  }
+}

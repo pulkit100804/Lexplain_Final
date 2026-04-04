@@ -1,0 +1,132 @@
+{
+  "procedural_history": {
+    "originating_court": "Labour Appellate Tribunal of India at Lucknow",
+    "impugned_order": "Judgment and order dated the 22nd August 1955 of the Labour Appellate Tribunal of India at Lucknow in Misc. Case No. lll-C-650of1954.",
+    "high_court_proceedings": "The Labour Appellate Tribunal awarded compensation to the workmen for the lay-off period at 50% of basic wages and dearness allowance, finding that the lay-off, though justified, constituted an alteration of service conditions in violation of Section 22(a) of the Act.",
+    "supreme_court_posture": "The management (employer) appealed to the Supreme Court by special leave, challenging the Labour Appellate Tribunal's decision to award compensation. The management argued that the Tribunal should have dismissed the petition once it found the lay-off justified, and that Section 25-C was incorrectly construed."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Tribunal has jurisdiction to grant relief under Section 23 of the Industrial Disputes (Appellate Tribunal) Act, 1950, after finding that the lay-off was justified.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "During the pendency of an appeal in a prior industrial dispute, the management laid off several workmen.",
+          "The workmen filed an application to the Labour Appellate Tribunal under Section 23 of the Industrial Disputes (Appellate Tribunal) Act, 1950.",
+          "The application alleged that the lay-off was a breach of Section 22(a) of the same Act, which prohibits altering service conditions to the prejudice of workmen during a pending appeal.",
+          "The Tribunal investigated the matter and found that the lay-off was, in fact, justified.",
+          "Despite this finding, the Tribunal proceeded to grant relief to the workmen by awarding them compensation for the entire lay-off period."
+        ],
+        "law": [
+          "Section 23 of the Industrial Disputes (Appellate Tribunal) Act, 1950, allows a workman to apply to the Tribunal for relief if an employer contravenes the provisions of Section 22.",
+          "Section 22(a) of the same Act prohibits an employer from altering, to the prejudice of the workmen, the conditions of service during the pendency of an appeal.",
+          "The jurisdiction of the Tribunal to grant relief under Section 23 is conditional upon a finding that there has been a contravention of Section 22."
+        ],
+        "application": [
+          "The Supreme Court reasoned that the entire basis for the workmen's application under Section 23 was the allegation that the employer had contravened Section 22(a).",
+          "However, the Tribunal itself concluded that the lay-off was justified.",
+          "The Court held that a justified lay-off cannot be considered a prejudicial alteration of service conditions in contravention of Section 22(a).",
+          "Since there was no contravention of Section 22(a), the condition precedent for invoking the Tribunal's jurisdiction under Section 23 was not met.",
+          "Therefore, once the Tribunal found the lay-off to be justified, it had no legal authority to proceed further and grant any relief."
+        ],
+        "conclusion": "The Supreme Court decided that on the Tribunal's own finding that the lay-off was justified, there was no contravention of Section 22(a). Consequently, the Tribunal had no jurisdiction to grant relief under Section 23, and the only proper order it could have passed was to dismiss the workmen's application."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether proviso (b) to Section 25-C of the Industrial Disputes Act, 1947, applies to a period subsequent to the first 45 days of one continuous lay-off, or only to a second and distinct lay-off.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The management laid off workmen for one continuous period that exceeded 45 days.",
+          "The management offered to pay compensation for the first 45 days as per proviso (a) to Section 25-C of the Industrial Disputes Act, but not for the period thereafter.",
+          "The workmen (respondents) argued that while proviso (a) applied to the first 45 days, proviso (b) applied to the remaining period of the same lay-off, entitling them to compensation for the entire duration."
+        ],
+        "law": [
+          "The case centered on the interpretation of proviso (b) to Section 25-C of the Industrial Disputes Act.",
+          "Proviso (b) states that it applies if workmen, after being paid compensation for 45 days, are \"again laid off\" for further periods."
+        ],
+        "application": [
+          "The Supreme Court focused on the plain meaning of the words \"again laid off\" in proviso (b).",
+          "The Court reasoned that this language clearly implies a second, distinct lay-off that is subsequent in time to the first one for which compensation was already paid.",
+          "It rejected the idea that a single, continuous lay-off could be notionally split into two parts to make the latter part fall under proviso (b).",
+          "The Court noted that in this case, there was only one notification for one continuous lay-off. Therefore, the condition of being \"again laid off\" was not met.",
+          "The Court acknowledged that this interpretation might lead to an \"anomalous position,\" but stated that it is the legislature's role to amend the law, not the Court's to construe it contrary to its plain meaning."
+        ],
+        "conclusion": "The Supreme Court decided that proviso (b) to Section 25-C of the Industrial Disputes Act applies only in the case of a second and distinct lay-off and does not apply to a period subsequent to the first 45 days of one continuous lay-off."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Tribunal has jurisdiction to grant relief under Section 23 of the Industrial Disputes (Appellate Tribunal) Act, 1950, after finding that the lay-off was justified.",
+      "appellant_arguments": [
+        "On the finding that the lay-off was justified, the only order the Tribunal could have passed was to dismiss the petition.",
+        "The award of compensation was without jurisdiction because there was no contravention of Section 22 of the Act."
+      ],
+      "respondent_arguments": [
+        "The lay-off was not bona fide and was in contravention of Section 22(a) of the Act, thus giving the Tribunal jurisdiction under Section 23.",
+        "The application under Section 23 was maintainable and the Tribunal could grant relief even if the lay-off was found to be justified."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether proviso (b) to Section 25-C of the Industrial Disputes Act, 1947, applies to a period subsequent to the first 45 days of one continuous lay-off, or only to a second and distinct lay-off.",
+      "appellant_arguments": [
+        "On a true construction of Section 25-C, the workmen were entitled to compensation only for a period of 45 days as provided in proviso (a)."
+      ],
+      "respondent_arguments": [
+        "The workmen were entitled to full wages for the entire period of the lay-off, implying that compensation was not limited to the first 45 days."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Industrial Disputes (Appellate Tribunal) Act, 1950",
+        "section": "22",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Industrial Disputes (Appellate Tribunal) Act, 1950",
+        "section": "23",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Industrial Disputes Act",
+        "section": "25-C",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Proviso (b) to section 25-C of the Industrial Disputes Act is only applicable in the case of a second and distinct lay-off and does not apply to a period subsequent to the first 45 days of one continuous lay-off. Consequently, a justified lay-off for which the employer offers compensation for the first 45 days as provided in proviso (a) to section 25-C does not constitute an alteration of the conditions of service under section 22 of the Act.",
+    "obiter": [
+      "The question of whether a lay-off, justifiable or otherwise, could generally be brought within section 22(a) of the Act as amounting to a breach of the conditions of service was not decided, as the court proceeded on a concession by counsel that conditions for a lay-off would be conditions of service."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The application under Section 23 of the Industrial Disputes (Appellate Tribunal) Act, 1950, was liable to be dismissed. The Tribunal's jurisdiction under Section 23 only arises if there is a contravention of Section 22. Since the Tribunal found the lay-off to be justified, there was no contravention. Furthermore, there was no alteration of service conditions under Section 22 because the employer correctly offered compensation for the first 45 days as per Section 25-C, proviso (a). Proviso (b) of that section, which would grant further compensation, applies only to a second and distinct lay-off, not to a period subsequent to the first 45 days of a single continuous lay-off.",
+    "legal_tests_applied": [
+      "The jurisdiction of the Tribunal to grant relief under Section 23 of the Act arises only if it is made out that there was contravention of Section 22 by the management.",
+      "Proviso (b) to Section 25-C of the Industrial Disputes Act, which uses the words 'again laid off', is only applicable in the case of a second and distinct lay-off and does not apply to a period subsequent to the first 45 days of one continuous lay-off."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "If the plain meaning of a statute leads to an anomalous position, it is for the legislature to amend the section, not for a court or tribunal to construe it contrary to its plain meaning."
+    ]
+  },
+  "evidence_map": {}
+}

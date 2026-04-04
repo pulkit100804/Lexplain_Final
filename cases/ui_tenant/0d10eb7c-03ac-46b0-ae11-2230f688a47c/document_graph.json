@@ -1,0 +1,47 @@
+{
+  "case_id": "0d10eb7c-03ac-46b0-ae11-2230f688a47c",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_2_segmentation",
+  "input_refs": [
+    "normalized_text.txt"
+  ],
+  "created_at": "2026-03-19T19:43:57.725449+00:00",
+  "nodes": [
+    {
+      "node_id": "n_001",
+      "text": "On the night of 12th June, the accused attacked the victim with a knife.",
+      "span": {
+        "start": 0,
+        "end": 72
+      }
+    },
+    {
+      "node_id": "n_002",
+      "text": "The victim later died.",
+      "span": {
+        "start": 73,
+        "end": 95
+      }
+    },
+    {
+      "node_id": "n_003",
+      "text": "A blood-stained knife was recovered",
+      "span": {
+        "start": 96,
+        "end": 131
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_001",
+      "target": "n_002",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_002",
+      "target": "n_003",
+      "relation": "sequential"
+    }
+  ]
+}

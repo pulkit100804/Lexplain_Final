@@ -1,0 +1,97 @@
+{
+  "procedural_history": {
+    "originating_court": "District Munsif, Coimbatore",
+    "impugned_order": "The Supreme Court appeal challenged two orders of the High Court of Judicature at Madras, Bench at Madurai: (1) the final judgment and order dated 29.03.2016 in Civil Revision Petition (NPD) No.586 of 2016, and (2) the order dated 02.12.2016 in Review Petition No.89 of 2016 in said Civil Revision Petition (NPD) No.586 of 2016.",
+    "high_court_proceedings": "1. The respondent lodged a complaint alleging forgery.\n2. The appellants filed O.S. No.135 of 2014 in the District Munsif Court seeking a permanent injunction against the respondent.\n3. The District Munsif granted an ad interim injunction to the appellants.\n4. The respondent challenged the District Munsif's order by filing a Civil Revision Petition before the High Court of Judicature at Madras.\n5. The High Court allowed the Civil Revision Petition on 29.03.2016.\n6. The appellants filed a review petition, which was rejected by the High Court on 02.12.2016.",
+    "supreme_court_posture": "The appellants approached the Supreme Court challenging the correctness of both the High Court's order in the Civil Revision Petition and the order dismissing the Review Petition. The Supreme Court granted leave to appeal and allowed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Restore the order dated 19.01.2016 passed by the appellate court in IA No.465 of 2015.",
+      "The appeal shall now be heard on merits and disposed of in accordance with law.",
+      "The appellants shall pay costs of Rs.50,000/- to the respondent which shall be over and above that already imposed by the appellant court and shall be made over within six weeks from this Judgment."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a decree for eviction passed solely on the basis of a compromise between the parties, without the court independently satisfying itself that a statutory ground for eviction exists, is a nullity.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The issue arises in the context of landlord-tenant disputes governed by Rent Control Acts, which provide specific statutory grounds for evicting a tenant.",
+          "In such cases, landlords and tenants sometimes enter into a compromise agreement, which is then presented to the court to pass an eviction decree.",
+          "The tenant later challenges the validity of this compromise decree, often during execution proceedings, arguing that it is a nullity.",
+          "The core of the challenge is that the court that passed the decree did so solely based on the parties' agreement, without independently determining if a legally required ground for eviction existed."
+        ],
+        "law": [
+          "Under various Rent Control Acts, a court can only order a tenant's eviction if it is satisfied that one of the specific statutory grounds for eviction has been established.",
+          "This requirement is a mandatory protection for the tenant and cannot be waived simply by an agreement between the parties.",
+          "A court's satisfaction about the existence of a statutory ground is a prerequisite for its jurisdiction to pass a valid eviction decree.",
+          "However, this satisfaction can be derived from material on record. This material can be evidence produced in the case or an express or implied admission of a statutory ground within the compromise agreement itself.",
+          "If there is some material on record from which the court could be prima facie satisfied, it will be presumed that the court was so satisfied, and the decree will be valid."
+        ],
+        "application": [
+          "The Supreme Court applied the principle that a court cannot simply rubber-stamp a compromise agreement for eviction in a rent-controlled tenancy.",
+          "The court must apply its mind to the facts. If the court's order or the case record shows that the decree was passed solely on the basis of the compromise, with no mention or material indicating the existence of a statutory ground, the court has acted without jurisdiction.",
+          "For example, the text notes a case where the record clearly showed the court \"had proceeded solely on the basis of the compromise arrived at between the parties.\" In such a situation, the court was not competent to pass the decree.",
+          "Conversely, if the compromise agreement itself contained an admission by the tenant of a fact that constitutes a ground for eviction (e.g., subletting), that would be sufficient material for the court to be satisfied and pass a valid decree.",
+          "The invalidity of a decree passed without such satisfaction is so fundamental that it can be challenged even at the stage of execution."
+        ],
+        "conclusion": "The Supreme Court decided that a decree for eviction passed solely on the basis of a compromise, without any material on record from which the court could be satisfied that a statutory ground for eviction exists, is a nullity. The court's satisfaction is essential, and while it can be based on admissions within the compromise itself, a decree that merely records the agreement without any reference to a statutory ground is invalid and unenforceable."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a decree for eviction passed solely on the basis of a compromise between the parties, without the court independently satisfying itself that a statutory ground for eviction exists, is a nullity.",
+      "appellant_arguments": [
+        "The compromise was made with free will by both parties and their counsel, and therefore the resulting decree of eviction is valid and enforceable."
+      ],
+      "respondent_arguments": [
+        "An eviction decree based on a compromise is a nullity if the court does not independently satisfy itself that a statutory ground for eviction exists. (This argument is inferred from the issue and the High Court's decision in the respondent's favour, which was appealed)."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Nagindas Ramdas v. Dalpatram Ichharam alias Brijram and Others",
+        "citation": "(1974) 1 SCC 242",
+        "principle": "A court is not competent to pass a decree based solely on a compromise between parties without applying its mind to the facts or satisfying itself that the grounds for the decree (e.g., subletting) exist. A decree passed in such a manner is a nullity.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A decree for eviction based on a compromise is valid if, at the time of passing the decree, the court had some material before it from which it could be prima facie satisfied that a statutory ground for eviction existed. Such material can include evidence produced or an express or implied admission within the compromise agreement itself. In such circumstances, it is presumed that the court was so satisfied.",
+    "obiter": [
+      "Admissions, if true and clear, are by far the best proof of the facts admitted.",
+      "If we may say so with respect, this is a correct approach to the problem."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The public policy permeating Rent Acts makes the existence of a statutory ground for eviction a sine qua non for the Rent Court's jurisdiction. A Rent Court is not competent to pass a decree for possession, even with the consent of the parties, on a ground which is de hors or ultra vires the Act, as parties cannot by their consent confer such jurisdiction.",
+    "legal_tests_applied": [
+      "Whether one of the statutory grounds for eviction mentioned in the relevant Rent Act exists is a sine qua non to the exercise of jurisdiction by the Rent Court."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "In cases where protection under a Rent Act is available, no eviction can be ordered unless a ground seeking eviction is made out, even if the parties had entered into a compromise.",
+      "The Rent Court is not competent to pass a decree for possession either in invitum or with the consent of the parties on a ground which is de hors the Act or ultra vires the Act.",
+      "Parties cannot by their consent confer jurisdiction on the Rent Court to do something which, according to the legislative mandate, it could not do.",
+      "The invalidity of a decree passed without a statutory ground being made out can be raised even in execution proceedings.",
+      "In the present case, the compromise order dated 28.03.2014 did not remotely note that any particular ground under the Rent Act was made out."
+    ],
+    "policy_considerations": [
+      "The public policy built into Rent Acts, which are welfare measures, implicitly prohibits parties from contracting out of the statutory grounds for eviction, even if the statute does not contain an express prohibition."
+    ]
+  },
+  "evidence_map": {}
+}

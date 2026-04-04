@@ -1,0 +1,90 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the text)",
+    "impugned_order": "Judgment and final order dated 16.08.2018 passed by the High Court of Gujarat at Ahmedabad in Criminal Application No. 602 of 2013, which reiterated the imposition of a Bank Guarantee.",
+    "high_court_proceedings": "The appellant company approached the High Court of Gujarat at Ahmedabad in Criminal Application No. 602 of 2013, challenging the imposition of a bank guarantee. The High Court, vide order dated 16.08.2018, upheld the imposition of the bank guarantee.",
+    "supreme_court_posture": "The appellant company, aggrieved by the High Court's order, filed a Criminal Appeal (No. 1434 of 2023) in the Supreme Court. The Supreme Court modified the High Court's order and allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The orders impugned herein stand modified to that extent and the appeal, accordingly, stands allowed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the freeze order and the subsequent condition to furnish a bank guarantee against the appellant company were sustainable, given that the criminal proceedings were against a third party ('D') who was not connected to the company, and no proceedings were pending against the company itself.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Freeze orders were imposed on the appellant company's assets under Section 102 of the Code of Criminal Procedure, 1973.",
+          "These orders were related to a criminal investigation against a third party, an individual named Dharmesh Doshi ('D').",
+          "The Court found that 'D' was never an employee, shareholder, director, or key managerial person and was in no way connected to the appellant company.",
+          "No criminal proceedings were pending against the appellant company itself; it was not mentioned in the FIR or the chargesheet.",
+          "The accused, 'D', had been discharged of the alleged offenses by the Trial Court.",
+          "The lower courts had required the company to furnish a bank guarantee to access its frozen funds."
+        ],
+        "law": [
+          "The purpose of a freeze order under Section 102 of the Code of Criminal Procedure, and any subsequent condition like a bank guarantee, is solely to aid in the investigation of an alleged crime."
+        ],
+        "application": [
+          "The Court reasoned that since the accused 'D' was a separate entity with no connection to the appellant company, the criminal proceedings against him were in his individual capacity and could not vicariously affect the company.",
+          "As the appellant company was not involved in the alleged crime or the investigation, freezing its assets was deemed \"redundant qua the investigation.\"",
+          "The Court stated that even if 'D' were to be convicted in the future, it would have no bearing on the properties of the appellant company, as the company itself was not alleged to be part of the crime.",
+          "Because the freeze order served no purpose for the investigation, the bank guarantee imposed as a condition to access the funds was also redundant and not legally tenable."
+        ],
+        "conclusion": "The Supreme Court concluded that the condition to furnish a bank guarantee was not sustainable. It set aside the lower courts' orders and permitted the appellant company to withdraw its funds along with 4% simple interest."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the freeze order and the subsequent condition to furnish a bank guarantee against the appellant company were sustainable, given that the criminal proceedings were against a third party ('D') who was not connected to the company, and no proceedings were pending against the company itself.",
+      "appellant_arguments": [
+        "The imposition of a bank guarantee as a condition for releasing the company's funds was improper and unsustainable.",
+        "The appellant company was aggrieved by the condition because the underlying criminal proceedings were against a third party, and no proceedings were pending against the company itself."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent. It only notes that their counsel was heard and that one respondent, ICICI Bank, did not appear."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "102",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A freeze order on assets, and any conditions such as a bank guarantee imposed in furtherance of it, are legally sustainable only to aid in the investigation of an alleged crime. Such measures are redundant and cannot be sustained when the owner of the assets is not connected to the alleged crime.",
+    "obiter": [
+      "Even if an accused individual, who is unconnected to a company, is subsequently convicted, that conviction would have no bearing on the properties of the company if it is not alleged to be a part of the crime.",
+      "The fact that a freeze order has been active for a prolonged period of 17 years, causing huge losses to a company, is a relevant consideration."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the condition to furnish a bank guarantee was unsustainable because the underlying freeze order was imposed solely due to criminal proceedings against a third party ('D') who had no connection to the appellant company. Since no criminal proceedings were pending against the company itself and it was not alleged to be part of the crime, the freeze order against its properties was redundant for the investigation. Consequently, the bank guarantee, being an extension of the freeze order, was also redundant.",
+    "legal_tests_applied": [
+      "The purpose of the freeze order, and the bank guarantee in extension of the freeze order, can only be in operation to aid in the investigation against the alleged crime. If the investigation against a party is redundant, any freeze on that party's assets also becomes redundant."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court took notice that the freeze order had been active for 17 years and had caused huge losses to the appellant company, which was not itself accused of any crime."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p5_c5fa0335"
+    ]
+  }
+}

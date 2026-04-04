@@ -1,0 +1,210 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate's Court",
+    "impugned_order": "Two orders of the Magistrate: 1) Order dated March 19, 1960, where the Magistrate decided not to charge the accused under Section 307 of the Indian Penal Code and decided to try them under Sections 326 and 338. 2) Order dated July 13, 1960, acquitting the accused of charges under Sections 326 and 338 of the Indian Penal Code.",
+    "high_court_proceedings": "The Additional Sessions Judge allowed a revision application, setting aside the Magistrate's orders and directing the Magistrate to commit the appellant to the Court of Sessions on charges under Sections 307 and 148, and 307 read with 149 of the Indian Penal Code. The appellant then filed a revision petition (No. 162 of 1961) before the Patna High Court, which, in its judgment dated May 8, 1964, affirmed the order of the Additional Sessions Judge.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave, questioning the jurisdiction of the Sessions Judge to set aside the acquittal and direct committal. The Supreme Court ultimately allowed the appeal, setting aside the orders of the Additional Sessions Judge and the Patna High Court, considering the lapse of time since the alleged offense."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Set aside the order of the Additional Sessions Judge, Arrah dated December 20, 1960 ordering the commitment of the appellant.",
+      "Set aside the judgment of the Patna High Court dated May 8, 1964 which affirms the order of the Additional Sessions Judge."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Additional Sessions Judge had jurisdiction under Section 437 of the Criminal Procedure Code to order the commitment of the appellant for an offence under Section 307 of the Indian Penal Code, when the Magistrate had framed charges for lesser offences, thereby creating an implied discharge for the major offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "point": "A Magistrate's decision to frame charges for lesser offences, after finding that a major, sessions-triable offence is not made out, is considered an \"implied order of discharge\" for the major offence.",
+            "text_reference": "B"
+          },
+          {
+            "point": "The jurisdiction of a Sessions Judge under Section 437 of the Criminal Procedure Code is not limited to cases where a Magistrate has issued an express order of discharge.",
+            "text_reference": "C, H"
+          },
+          {
+            "point": "The language of Section 437 is wide and empowers the Sessions Judge to act even in cases of an implied discharge.",
+            "text_reference": "H"
+          },
+          {
+            "point": "The purpose of Section 437 is to prevent inferior courts from wrongly exercising jurisdiction and to ensure that grave offences are tried by the appropriate, higher court.",
+            "text_reference": "G"
+          }
+        ],
+        "application": [
+          {
+            "point": "The Court rejected the appellant's argument that the Sessions Judge lacked jurisdiction because the Magistrate had not issued an express discharge order for the offence under Section 307 IPC.",
+            "text_reference": "A"
+          },
+          {
+            "point": "The Court found that the Magistrate's order, which gave reasons for not proceeding under Section 307 before framing lesser charges, was \"tantamount to an implied order of discharge.\"",
+            "text_reference": "B"
+          },
+          {
+            "point": "The Court reasoned that limiting the Sessions Judge's power under Section 437 to only express discharges would render the provision ineffective. It would allow a Magistrate to prevent a trial for a grave offence (like murder) by simply framing a lesser charge (like causing death by negligence) and proceeding with a trial they are competent to hold.",
+            "text_reference": "F, G"
+          },
+          {
+            "point": "The Court distinguished the situation from Section 209(1) Cr.P.C., noting that an express discharge is only contemplated under that section when a Magistrate finds that no offence has been committed at all, not when a lesser offence is made out.",
+            "text_reference": "D, E"
+          }
+        ],
+        "conclusion": "The Supreme Court concluded that the Magistrate's act of framing lesser charges constituted an implied discharge for the major offence under Section 307 IPC. Therefore, the Additional Sessions Judge had the jurisdiction under the wide powers of Section 437 Cr.P.C. to set aside this implied discharge and order the appellant's commitment to the Court of Session for the major offence."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Additional Sessions Judge had the authority to set aside the Magistrate's judgment acquitting the appellant of charges under Sections 326 and 338 of the Indian Penal Code.",
+        "court_answer": "partly"
+      },
+      "reasoning": {
+        "facts": [
+          "The Magistrate tried and acquitted the appellant of charges under Sections 326 and 338 of the Indian Penal Code.",
+          "The prosecution filed a revision application with the Additional Sessions Judge, who set aside the Magistrate's order of acquittal.",
+          "The High Court subsequently affirmed the order of the Additional Sessions Judge."
+        ],
+        "law": [
+          "Under Section 437 of the Criminal Procedure Code, an Additional Sessions Judge does not have the authority to set aside an order of acquittal.",
+          "Under Section 439 of the Criminal Procedure Code, the High Court has the jurisdiction to interfere with an order of acquittal in revision and order a retrial."
+        ],
+        "application": [
+          "The Supreme Court first acknowledged that the appellant's contention was correct: the Additional Sessions Judge, acting under Section 437 Cr.P.C., had no jurisdiction to set aside the Magistrate's acquittal.",
+          "However, the Court noted that the Additional Sessions Judge's order had been affirmed by the High Court.",
+          "The Court reasoned that since the High Court possessed the necessary power under Section 439 Cr.P.C. to set aside an acquittal, its act of affirming the Sessions Judge's order meant that the High Court was effectively exercising its own jurisdiction.",
+          "Therefore, the High Court was deemed to have set aside the Magistrate's order of acquittal itself, curing the initial lack of jurisdiction by the Additional Sessions Judge."
+        ],
+        "conclusion": "The Supreme Court held that while the Additional Sessions Judge did not have the authority to set aside the acquittal, the order was ultimately valid because it was affirmed by the High Court. The High Court, which did have the power under Section 439 Cr.P.C., was deemed to have set aside the acquittal itself, thereby validating the outcome."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a fresh charge and trial under Section 307 of the Indian Penal Code was barred by the principle of res judicata or double jeopardy (Section 403 Cr.P.C.) due to the appellant's acquittal on the minor charges.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was initially charged under Section 307 IPC (attempt to murder).",
+          "The Magistrate decided there was no case under Section 307, and instead tried the appellant for the minor offenses of Sections 326 and 338 IPC.",
+          "The Magistrate then acquitted the appellant of these minor charges.",
+          "Subsequently, the High Court set aside the acquittal and ordered the appellant to be committed for trial on the original, more serious charge of Section 307 IPC."
+        ],
+        "law": [
+          "Section 403(4) of the Criminal Procedure Code (Cr.P.C.) states that a person can be subsequently tried for a different offense arising from the same acts, notwithstanding a prior acquittal or conviction, if the court that conducted the first trial was not competent to try the subsequent offense.",
+          "The principle of res judicata does not apply if the original judgment (in this case, the acquittal) has been validly set aside by a higher court."
+        ],
+        "application": [
+          "The Court applied the exception in Section 403(4) Cr.P.C. It reasoned that the Magistrate who acquitted the appellant on the minor charges was not competent to try the more serious offense under Section 307 IPC.",
+          "Because the first court was not competent to try the major charge, the acquittal on the minor charges did not create a bar of double jeopardy against a new trial for the major charge.",
+          "The Court also dismissed the res judicata argument because the High Court had validly set aside the Magistrate's order of acquittal. Since the acquittal was no longer in force, it could not have a binding effect on future proceedings."
+        ],
+        "conclusion": "The Supreme Court concluded that a fresh charge and trial under Section 307 IPC were not barred. This was because the Magistrate who issued the initial acquittal was not competent to try the Section 307 offense, fitting the exception in Section 403(4) Cr.P.C., and the acquittal itself had been validly set aside by the High Court, nullifying any res judicata effect."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Additional Sessions Judge had jurisdiction under Section 437 of the Criminal Procedure Code to order the commitment of the appellant for an offence under Section 307 of the Indian Penal Code, when the Magistrate had framed charges for lesser offences, thereby creating an implied discharge for the major offence.",
+      "appellant_arguments": [
+        "When a Magistrate frames a charge for a minor offence (e.g., under Sections 326 or 338 IPC) instead of a major one (e.g., Section 307 IPC), this action is not equivalent to an order of discharge for the major offence, because the criminal case continues against the accused on the same set of facts.",
+        "Consequently, the Sessions Judge is not competent under Section 437 of the Criminal Procedure Code to order a commitment for the major offence."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not explicitly stated in the text, but their position, which the court upheld, was that the Additional Sessions Judge did have the jurisdiction to set aside the Magistrate's order and direct the commitment of the appellant on the major charge under Section 307 IPC."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the Additional Sessions Judge had the authority to set aside the Magistrate's judgment acquitting the appellant of charges under Sections 326 and 338 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The appellant questioned the jurisdiction of the Sessions Judge to set aside the acquittal and order the committal."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not explicitly stated in the text, but their position was that the Additional Sessions Judge did have the authority to set aside the acquittal and direct the commitment."
+      ],
+      "court_acceptance": "partly"
+    },
+    {
+      "issue_text": "Whether a fresh charge and trial under Section 307 of the Indian Penal Code was barred by the principle of res judicata or double jeopardy (Section 403 Cr.P.C.) due to the appellant's acquittal on the minor charges.",
+      "appellant_arguments": [
+        "The principle of res judicata applies to criminal trials, in addition to Section 403(1) of the Criminal Procedure Code.",
+        "The acquittal on the minor charges (Sections 326 and 338 IPC) was a binding and conclusive verdict, establishing that the prosecution had failed to prove the alleged facts.",
+        "Therefore, the same facts could not be re-litigated or used to prove a subsequent charge against the appellant under Section 307 IPC."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not explicitly stated, but their position, which the court accepted, was that the principle of res judicata did not apply because the order of acquittal itself was invalidly passed and had been set aside."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "209",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "417",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "437",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Krishna Reddi v. Subbamma",
+        "citation": "",
+        "principle": "An order by a Magistrate that is an acquittal for a minor offense can be considered, in substance, an order of discharge for a more serious, exclusively Sessions-triable offense. This allows the Sessions Judge to exercise jurisdiction to set aside the order and direct the committal of the accused for trial on the more serious charge.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "In re Nalla Baligadu and Others",
+        "citation": "",
+        "principle": "Cited to affirm the correct interpretation and effect of sections 209 and 437 of the Criminal Procedure Code, supporting the jurisdiction of a Sessions Judge to order committal even after a Magistrate's order that might appear to be an acquittal.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A Sessions Judge has the jurisdiction to set aside an order of a Magistrate and to direct the committal of an accused for trial.",
+    "obiter": [
+      "The principle of res judicata, where a matter is taken as adjudged for truth ('Res judicata pro veritate accipitur'), is applicable to criminal proceedings in the same manner as it is to civil proceedings."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court held that a Magistrate's decision to frame charges for lesser, triable offences while providing reasons for not framing a charge for a major offence exclusively triable by a Court of Session, is tantamount to an implied order of discharge. This implied discharge grants the Sessions Judge jurisdiction under Section 437 of the Criminal Procedure Code to set aside the Magistrate's order and direct a commitment for the major offence. Although the Sessions Judge lacks the authority to set aside a judgment of acquittal, the High Court's affirmation of such an order is deemed to be an exercise of its own superior revisional powers under Section 439, thereby validly setting aside the acquittal. Consequently, the principle of res judicata or double jeopardy does not bar a subsequent trial for the major offence, as the underlying acquittal has been lawfully nullified.",
+    "legal_tests_applied": [
+      "Interpretation of 'Discharge' under Section 437 Cr.P.C.: The court applied a broad, purposive interpretation to determine that the power of a Sessions Judge under Section 437 is not limited to cases of an express order of discharge but also extends to an implied discharge, which occurs when a Magistrate declines to frame a charge for a major offence and proceeds with a trial on lesser offences based on the same facts.",
+      "Deemed Exercise of Revisional Power under Section 439 Cr.P.C.: The court applied a legal fiction wherein an order by the High Court affirming a jurisdictionally flawed order of a lower court (the Sessions Judge setting aside an acquittal) is treated as the High Court itself making the order correctly under its own wider revisional powers.",
+      "Condition for Applying Res Judicata / Double Jeopardy (Section 403 Cr.P.C.): The court tested the applicability of this principle by first determining the validity of the prior acquittal. The principle only applies if the acquittal is final and subsisting; it does not apply if the order of acquittal itself has been validly set aside by a superior court."
+    ],
+    "why_appellant_lost": [
+      "The argument that Section 437 Cr.P.C. requires an express order of discharge was rejected. The court found that the Magistrate's order, giving reasons for not proceeding under Section 307 IPC, was an 'implied order of discharge' sufficient to grant the Sessions Judge jurisdiction.",
+      "The argument that the acquittal on minor charges barred a trial on the major charge under the principle of res judicata or Section 403 Cr.P.C. was rejected. The court reasoned that this principle is inapplicable because the order of acquittal itself was 'deemed to have been validly set aside by the High Court,' removing the foundation for the double jeopardy claim.",
+      "The challenge to the Sessions Judge's authority to set aside the acquittal was ultimately unsuccessful. While the court acknowledged the Sessions Judge lacked this specific power, it held that the High Court's subsequent affirmation of the order cured this defect, as the High Court must be 'deemed to have itself set aside the order of acquittal' under its own powers in Section 439 Cr.P.C."
+    ],
+    "why_respondent_won": [
+      "The respondent's position that the Sessions Judge had jurisdiction was upheld because the court interpreted the Magistrate's action as an 'implied order of discharge,' which falls within the scope of Section 437 Cr.P.C.",
+      "The respondent prevailed on the issue of the acquittal because the court ruled that the High Court's affirmation of the Sessions Judge's order effectively validated the setting aside of the acquittal, treating it as an act of the High Court itself.",
+      "The respondent successfully argued against the bar of double jeopardy because the court agreed that the principle cannot apply once the predicate order of acquittal has been lawfully set aside."
+    ],
+    "policy_considerations": [
+      "The provisions of Section 437 Cr.P.C. were enacted to prevent inferior courts from improperly exercising jurisdiction they do not possess. A narrow interpretation would allow a Magistrate to prevent the appropriate court (Court of Session) from trying an accused for a grave offence (e.g., under Section 302) by simply framing a charge for a lesser offence (e.g., under Section 304-A) on the same set of facts.",
+      "To interpret Section 437 as applying only to express orders of discharge would 'render those provisions ineffective and inapplicable to the very class of cases for which they were intended,' thus defeating the legislative purpose of ensuring grave offences are tried by the correct, higher court."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,122 @@
+{
+  "procedural_history": {
+    "originating_court": "District Court at Jodhpur in Rajasthan",
+    "impugned_order": "Judgment and Order dated the 11th September, 1951, of the High Court of Judicature for the State of Rajasthan at Jodhpur in D. B. Civil Appeal (Ijlas-i-Khas) No. 6 of 1950, which dismissed the appeal and affirmed the decision of the Courts below.",
+    "high_court_proceedings": "The suit came up for hearing before a single Judge of the Jodhpur High Court sitting on the Original Side. The plaintiffs appealed to the Appeal Bench of the Jodhpur High Court, which was heard by a Division Bench. The appeal was then transferred to the High Court of Rajasthan for disposal. Before the Rajasthan High Court, a preliminary point was raised as to whether the appeal should be transferred to the Supreme Court under article 374(4) of the Constitution. This was referred to a Full Bench, which decided that article 374(4) did not apply. The appeal was then placed before a Division Bench of the Rajasthan High Court, which dismissed the appeal and affirmed the decision of the Courts below.",
+    "supreme_court_posture": "The plaintiffs got leave to file an appeal to the Supreme Court under article 132(1) of the Constitution. The appellant also put in a petition praying for leave to urge other grounds on the merits of the case."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The judgments of the Courts below are set aside.",
+      "The case is sent back to the Original Court of Jodhpur in order that it may be tried on all the other issues raised in the suit after giving opportunity to the parties to adduce such evidence as they want to adduce.",
+      "The plaintiffs-appellants will have their costs up to this stage.",
+      "Further costs will abide the result."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the lower courts were correct in treating the issue of the legality of the contracts as a pure question of law without allowing the parties to adduce evidence on the facts.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The defendant raised the plea that the contracts were illegal but did not allege in his written statement that they were made or intended to be performed in Marwar.",
+          "The plaintiffs, in contrast, expressly stated that the contracts were made in Indore.",
+          "The trial court treated the issue of the contracts' legality (Issue No. 5) as a pure question of law and did not allow the parties to present evidence on the matter."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court explicitly agreed with the Rajasthan High Court's view on this point.",
+          "The Court stated that the lower courts were \"not right in treating issue No. 5 as raising a pure question of law where no investigation of facts was necessary.\"",
+          "The Court reasoned that since the location of the contracts' formation and performance was a disputed factual matter, it required an investigation of facts.",
+          "Therefore, the parties should have been given an opportunity to lead evidence to determine whether the contracts were to be performed, in whole or in part, in Marwar."
+        ],
+        "conclusion": "The Supreme Court decided that the lower courts were incorrect to treat the legality of the contracts as a pure question of law, as a factual investigation was necessary to determine where the contracts were made and intended to be performed."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether Article 374(4) of the Constitution was attracted to the case, requiring the appeal to be transferred to the Supreme Court for disposal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "When the appeal was before the Rajasthan High Court, a preliminary point was raised that under Article 374(4) of the Constitution, the appeal should be transferred to the Supreme Court.",
+          "A Full Bench of the Rajasthan High Court rejected this argument, holding that the article did not apply and the appeal should be heard by the High Court.",
+          "The case later came before the Supreme Court, and this constitutional point was raised again."
+        ],
+        "law": [
+          "The issue involved the interpretation and application of Article 374(4) of the Constitution."
+        ],
+        "application": [
+          "The Supreme Court noted that it had granted the appellants' request to argue other grounds related to the merits of the case.",
+          "Because the appellants were allowed to argue the full merits of their appeal before the Supreme Court, the question of whether the case should have been transferred earlier became purely academic.",
+          "As a result of this, the appellants did not press the constitutional point."
+        ],
+        "conclusion": "The Supreme Court did not decide the issue on its merits. It considered the constitutional point to be of only \"academic importance\" because the appellants had been granted leave to argue the case on its merits anyway and had chosen not to press the point. The Court therefore proceeded to consider the merits of the appeal without ruling on the applicability of Article 374(4)."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the lower courts were correct in treating the issue of the legality of the contracts as a pure question of law without allowing the parties to adduce evidence on the facts.",
+      "appellant_arguments": [
+        "The legality of the contracts depended on where they were entered into and where they were intended to be performed, which are questions of fact.",
+        "The plaintiffs (appellants) expressly stated that the contracts were made in Indore, outside of Marwar where they were allegedly illegal.",
+        "The lower courts erred by deciding the issue as a pure question of law without giving the parties an opportunity to lead evidence on these crucial facts."
+      ],
+      "respondent_arguments": [
+        "The contracts were illegal according to the law of Marwar (the lex fori), where the suit was brought, and the court should refuse to enforce them regardless of where they were made or intended to be performed.",
+        "The lower courts were correct to treat the matter as a question of law based on the pleadings."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether Article 374(4) of the Constitution was attracted to the case, requiring the appeal to be transferred to the Supreme Court for disposal.",
+      "appellant_arguments": [
+        "The appeal should have been transferred directly to the Supreme Court for disposal under Article 374(4) instead of being heard by the Rajasthan High Court. (Note: The text indicates this point was raised but ultimately not pressed by the appellants before the Supreme Court)."
+      ],
+      "respondent_arguments": [
+        "Article 374(4) of the Constitution had no application to the case, and therefore the Rajasthan High Court was the proper court to hear the appeal."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Contract Act",
+        "section": "222",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "When the legality of a contract depends on the place of its intended performance, this determination is a question of fact. Courts cannot treat this as a pure question of law or draw conclusions based on inference without providing the parties an opportunity to present evidence on that specific issue.",
+    "obiter": [
+      "A contract that is enforceable by the law of the place where it was made or is to be performed cannot be held unenforceable in the forum state on the grounds of being opposed to public policy, unless the contract is contrary to fundamental principles of morality or public policy.",
+      "The general principle of law is that it is the debtor who has to seek the creditor."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court's reasoning was fallacious in concluding that the agency contract itself was illegal. The contract between a principal and agent is entirely collateral to the primary contract of purchase and sale. The agent's right to indemnity, which is an incident of the contract of agency, is not prohibited by the notification, as it is a matter entirely collateral to the forward contract of purchase and sale of bullion which the notification aims at prohibiting. Therefore, the courts were not right in dismissing the plaintiffs' suit on the ground that the contracts were illegal.",
+    "legal_tests_applied": [
+      "The court distinguished between a primary contract (e.g., for the sale or purchase of bullion) and a collateral contract (e.g., a contract of agency).",
+      "The legality of a contract is determined by the law of the place where it was made or where it was to be performed; if a contract is not entered into in Marwar, nor agreed to be performed there, it falls outside the scope of the prohibitory notification.",
+      "An agent's statutory right to indemnity for lawful acts performed on behalf of a principal is a separate and enforceable right, even if the primary transaction might be prohibited in the forum jurisdiction, provided the agent's acts (like making payments) occurred in a jurisdiction where they were lawful."
+    ],
+    "why_appellant_lost": [
+      "On the constitutional issue, the point regarding the application of Article 374(4) was not pressed by the appellants before the Supreme Court, as it had nothing but an academic importance once leave was granted to argue the merits of the case."
+    ],
+    "why_respondent_won": [
+      "On the constitutional issue, the Full Bench of the Rajasthan High Court had already decided that Article 374(4) of the Constitution had no application to the case, and the appellants chose not to pursue this point further."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

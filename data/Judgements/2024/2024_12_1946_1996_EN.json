@@ -1,0 +1,128 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court",
+    "impugned_order": "Judgment and order of the High Court dated March 29, 2023, as well as the relied upon judgment and order dated March 8, 2023.",
+    "high_court_proceedings": "The accused, dissatisfied with the dismissal of his appeal by the Sessions Court, invoked the revisional jurisdiction of the High Court under Section 401 read with Section 397 of the Cr.P.C. The High Court acquitted the accused of the alleged offence. The Criminal appeal no 03/17 was dismissed on contest.",
+    "supreme_court_posture": "The complainant, dissatisfied with the High Court's judgment and order acquitting the accused, appealed to the Supreme Court. The Supreme Court ultimately dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "upheld",
+    "sentence_status": "upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court committed an error in acquitting the respondent-accused of an offence punishable under Section 138 of the Negotiable Instruments Act, 1881, on the ground that the complaint was not maintainable in the absence of the company being arraigned as an accused.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent-accused, in his capacity as a Director and Authorised Signatory, signed a cheque on behalf of the company, Shilabati Hospital Pvt. Ltd.",
+          "The cheque was drawn on the bank account maintained by the company.",
+          "The cheque was dishonoured.",
+          "The complainant filed a case under Section 138 of the Negotiable Instruments (NI) Act only against the director, and did not make the company an accused party.",
+          "The High Court acquitted the director, holding that the complaint was not maintainable without the company being arraigned as an accused."
+        ],
+        "law": [
+          "Under Section 138 of the NI Act, the offence of cheque dishonour is committed by the 'drawer' of the cheque.",
+          "When the drawer of the cheque is a company, the company is the principal offender.",
+          "Section 141 of the NI Act establishes vicarious liability, making directors or other responsible persons liable for an offence committed by the company.",
+          "For vicarious liability under Section 141 to apply, it is mandatory for the company (the principal offender) to be arraigned as an accused in the complaint.",
+          "The guilt of the directors is a 'deemed' liability that arises only as a consequence of the offence committed by the company."
+        ],
+        "application": [
+          "The Supreme Court identified that the drawer of the dishonoured cheque was the company, Shilabati Hospital Pvt. Ltd., as it was drawn on the company's account.",
+          "The respondent-accused signed the cheque in his official capacity as a director, not on his personal account.",
+          "Therefore, the principal offender under Section 138 was the company, not the director.",
+          "The director could only be held liable vicariously under Section 141 of the NI Act.",
+          "However, since the complainant failed to make the company an accused in the case, the fundamental requirement for invoking Section 141 was not met.",
+          "The Court reasoned that without the principal offender (the company) being prosecuted, the proceedings against the director for a vicarious liability could not be maintained."
+        ],
+        "conclusion": "The Supreme Court rejected the appeal and upheld the High Court's decision. It concluded that the High Court was correct in acquitting the respondent-accused because the complaint under Section 138 of the NI Act was not maintainable against a director alone when the company, which was the drawer of the cheque and the principal offender, was not arraigned as an accused."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court committed an error in acquitting the respondent-accused of an offence punishable under Section 138 of the Negotiable Instruments Act, 1881, on the ground that the complaint was not maintainable in the absence of the company being arraigned as an accused.",
+      "appellant_arguments": [
+        "The transaction in question was between the accused and the complainant personally, and the company was not involved.",
+        "The High Court's judgment and order should be set aside."
+      ],
+      "respondent_arguments": [
+        "The High Court committed no error in its order, as the company was an essential party to the trial.",
+        "The cheque was issued as security for a loan transaction and not in discharge of any legally enforceable debt."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "138",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "141",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Aneeta Hada v. Godfather Travels and Tours Private Limited",
+        "citation": "(2012) 5 SCC 661",
+        "principle": "The commission of an offence by the company is an express condition precedent to attract the vicarious liability of others. The words 'as well as the company' in Section 141 make it clear that only when the company can be prosecuted, can the other persons be held vicariously liable.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Aparna A. Shah v. Sheth Developers (P) Ltd.",
+        "citation": "(2013) 8 SCC 71",
+        "principle": "An action in respect of a criminal or a quasi-criminal provision has to be strictly construed. The proceedings in such matters are in personam and cannot be used to foist an offence on some other person, who under the statute was not liable for the commission of such offence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Anil Gupta v. Star India Private Limited and Another",
+        "citation": "(2014) 10 SCC 373",
+        "principle": "Guilt for an offence under Section 138 is deemed upon persons connected with a company as a consequence of Section 141. If the company is not a party to the proceedings, the proceedings against its Managing Director cannot be continued.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Under Section 138 of the NI Act, only the drawer of the cheque can be held liable, and an authorised signatory acting on behalf of a principal is not the drawer. Furthermore, the commission of an offence by a company is an express condition precedent to attract the vicarious liability of its directors or other officers; therefore, the company must be prosecuted for such individuals to be held liable.",
+    "obiter": [
+      "A finding recorded against a company creates a concavity in its reputation.",
+      "Statutory provisions creating penal liability cannot be stretched to embrace persons and situations patently excluded from their purview."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Applying the doctrine of strict construction to Section 141 of the Negotiable Instruments Act, the commission of an offence by the company is an express condition precedent to attract the vicarious liability of others. The words 'as well as the company' in the section make it unmistakably clear that only when the company can be prosecuted can the persons in other categories be held vicariously liable. Therefore, a complaint against a director is not maintainable if the company, on whose behalf the cheque was issued, is not also arraigned as an accused.",
+    "legal_tests_applied": [
+      "Doctrine of Strict Construction: The court applied the doctrine of strict construction, stating that statutory provisions creating penal liability cannot be stretched too far to embrace persons and situations patently excluded from its purview.",
+      "Condition Precedent for Vicarious Liability under Section 141 NI Act: The court held that the commission of an offence by the company is an express condition precedent to attract the vicarious liability of its directors or officers."
+    ],
+    "why_appellant_lost": [
+      "The complaint was not maintainable because the company was not made an accused, which is a mandatory requirement under Section 141 of the NI Act for establishing vicarious liability.",
+      "The rulings relied upon by the appellant did not support their contention because the company was an essential party to the trial.",
+      "The appellant's argument that the cheque was issued in discharge of a personal liability of the accused was insufficient to overcome the fact that the cheque was drawn on the company's account, making the company the principal offender."
+    ],
+    "why_respondent_won": [
+      "The company was an essential party to the trial, and its absence rendered the proceedings non-maintainable.",
+      "The words 'as well as the company' appearing in Section 141 of the NI Act make it absolutely unmistakably clear that when the company can be prosecuted, then only can its officers be held vicariously liable.",
+      "The company was not made an accused nor was any notice served upon it, even though the cheque was issued on its behalf, leading to a failure to comply with Section 141 of the NI Act."
+    ],
+    "policy_considerations": [
+      "A company is a juristic person with its own respectability, and a finding of guilt against it would create a concavity in its reputation. This underscores the importance of impleading the company so it can defend itself.",
+      "Statutory provisions creating penal liability cannot be stretched too far to embrace persons and situations patently excluded from its purview as discernible from clear and unequivocal language used in the provision."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[1].case_name": [
+      "p7_c6330381"
+    ]
+  }
+}

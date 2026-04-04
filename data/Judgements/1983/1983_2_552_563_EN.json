@@ -1,0 +1,121 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge, Kolar",
+    "impugned_order": "Judgment and order dated the 29th October, 1981 of the Karnataka High Court in Criminal Appeal No. 241 of 1981, which upheld the appellant's conviction under s. 302 of the Indian Penal Code and the sentence of death.",
+    "high_court_proceedings": "The Karnataka High Court dismissed Criminal Appeal No. 241 of 1981, subject to some modification in the sentence.",
+    "supreme_court_posture": "The appellant, Erabhadrappa @ Krishnappa, who was under a sentence of death, approached the Supreme Court by way of a Special Leave Petition challenging the High Court's judgment."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Modified",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the statement made by the appellant (Ex. P-35) leading to the discovery of incriminating articles is admissible in evidence under Section 27 of the Evidence Act.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "After being arrested a year after the incident, the appellant made a statement, Ex. P-35.",
+          "This statement led the police (P.W. 26) to several locations where stolen gold ornaments and silk sarees belonging to the deceased were recovered.",
+          "The appellant denied making the statement and argued that the police had prior knowledge of where the articles were hidden, meaning there was no 'fact discovered' as a result of his statement."
+        ],
+        "law": [
+          "Under Section 27 of the Evidence Act, information from an accused is admissible if it distinctly relates to and causes the discovery of a fact.",
+          "A 'fact discovered' means the police gaining knowledge of something they did not previously know. If the police already knew the location of the items from other sources, a statement confirming that location is not considered a discovery under Section 27."
+        ],
+        "application": [
+          "The Court examined the defense's suggestion that the police officer (P.W. 26) had prior knowledge of the location of the stolen items.",
+          "The Court found this suggestion to be without merit because the defense counsel never questioned or made this suggestion to the police officer during his cross-examination.",
+          "Since the defense failed to establish that the police had prior knowledge, the Court concluded that the recovery of the articles was a direct consequence of the information provided by the appellant in his statement, Ex. P-35.",
+          "Therefore, the statement fulfilled the requirements of Section 27 as it led to the discovery of a fact (the location of the hidden articles) that was previously unknown to the police."
+        ],
+        "conclusion": "The Supreme Court held that the appellant's statement (Ex. P-35) was admissible in evidence under Section 27 of the Evidence Act because it directly led to the discovery of the incriminating articles, and the defense failed to substantiate its claim that the police had prior knowledge of their location."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the statement made by the appellant (Ex. P-35) leading to the discovery of incriminating articles is admissible in evidence under Section 27 of the Evidence Act.",
+      "appellant_arguments": [
+        "The appellant denied ever making the statement Ex. P-35.",
+        "The appellant denied that the stolen articles were recovered as a direct consequence of such a statement."
+      ],
+      "respondent_arguments": [
+        "Upon being arrested, the appellant made the statement Ex. P-35, which led to the recovery of stolen gold ornaments and silk sarees belonging to the deceased."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "27",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "114",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "411",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pulukuri Kottaya v. Emperor",
+        "citation": "LR [1947] 74 IA 65",
+        "principle": "To explain the meaning of 'fact discovered' under Section 27 of the Evidence Act, which embraces the place from which the object is produced, the knowledge of the accused about this, and that the information given must relate distinctly to this fact.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Jajfer Hussein Dastgir v. State of Maharasetra",
+        "citation": "[1970] 2 SCR 332",
+        "principle": "As a precedent for determining the admissibility of a portion of a statement made by an accused leading to a discovery of fact.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The 'fact discovered' under Section 27 of the Evidence Act is not equivalent to the object produced; it encompasses the place from which the object is produced and the accused's knowledge of this. The information given by the accused must relate distinctly to this fact.",
+    "obiter": [
+      "A statement made by an accused is admissible in evidence when there is no suggestion made during cross-examination that the investigating officer had prior knowledge of the places where incriminating articles were kept."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "For a statement to be admissible under Section 27 of the Evidence Act, two prerequisite conditions must be met: the information must have caused the discovery of a fact, and the information must relate distinctly to the fact thereby discovered. The court found that the appellant's statement, Ex. P-35, which led to the recovery of stolen gold ornaments and silk sarees, satisfied these conditions, making it admissible evidence.",
+    "legal_tests_applied": [
+      "For the applicability of s. 27 therefore two condition~ are pre-requisite, namely (1) the information must be such as has caused dis-covery of the fact; and (2) the information must 'relate distinctly' to the fact thereby discovered.",
+      "The court's reasoning is guided by the principles explained in the case of Pulukuri Kottaya v. Emperor."
+    ],
+    "why_appellant_lost": [
+      "The appellant's denial of having made the statement (Ex. P-35) was not accepted by the court.",
+      "The appellant's claim that the stolen articles were not recovered as a direct consequence of his statement was rejected in favor of the prosecution's evidence showing a direct link between the information provided and the discovery."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully established that the appellant, upon being arrested, made the statement Ex. P-35.",
+      "The respondent proved that the information contained in the statement directly caused the discovery of the stolen gold ornaments and silk sarees, thereby satisfying the two-pronged test for admissibility under Section 27 of the Evidence Act."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[1].case_name": [
+      "p8_0e57b13c"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p8_f81a76ec"
+    ]
+  }
+}

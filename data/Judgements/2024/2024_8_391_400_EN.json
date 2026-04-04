@@ -1,0 +1,112 @@
+{
+  "procedural_history": {
+    "originating_court": "Tribunal",
+    "impugned_order": "Judgment of the High Court dismissing the review petition (Review Petition No 41 of 2014) against the judgment dated 7 January 2014 in MFA No 288 of 2010.",
+    "high_court_proceedings": "1. The decision of the Tribunal was challenged in first appeal before the Gauhati High Court.\n2. The High Court dismissed the first appeal by its judgment dated 7 January 2014 (MFA No 288 of 2010).\n3. A review petition (Review Petition No 41 of 2014) against this judgment was also dismissed by the High Court on 13 November 2014.",
+    "supreme_court_posture": "The appellant approached the Supreme Court after the High Court dismissed their review petition. The Supreme Court heard arguments and considered written submissions from both the appellant and the respondent and disposed of the appeal."
+  },
+  "decision": {
+    "appeal_result": "The appeal is disposed of in the above terms.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the victim was a bona fide passenger of the train in question on the date of incident, and was entitled to compensation.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The victim's sister (the appellant) filed a claim for compensation after her brother died.",
+          "The initial claim was dismissed by the Railway Claims Tribunal, which found the deceased was not a passenger.",
+          "The appellant filed an affidavit stating the facts and pointed to an investigation report by the respondent (Railways) which indicated the deceased was travelling on the train and died from a fall.",
+          "A post-mortem report estimated the time of death, which differed by about half a day from the time the Investigating Officer (IO) stated the deceased fell from the train.",
+          "The post-mortem report also confirmed the deceased had sustained antemortem injuries due to blunt force impact."
+        ],
+        "law": [
+          "In railway accident claims, the initial burden of proof is on the claimant.",
+          "This initial burden can be discharged by filing an affidavit with the relevant facts.",
+          "Once the claimant discharges their burden, the burden of proof shifts to the Railways to prove the person was not a bona fide passenger.",
+          "The mere absence of a ticket does not automatically negate a claim or prove the deceased was not a bona fide passenger.",
+          "Conclusions in post-mortem reports regarding the time of death are approximations and have a margin of error, which is acceptable in compensation cases if other evidence is corroborative."
+        ],
+        "application": [
+          "The Court found that the appellant had discharged her initial burden of proof by filing an affidavit and referencing the Railways' own investigation report, which supported her claim that the deceased fell from the train.",
+          "The burden then shifted to the Railways, which failed to provide evidence to rebut the presumption that the deceased was a bona fide passenger.",
+          "The Court addressed the discrepancy between the post-mortem's estimated time of death and the IO's report, ruling that a difference of about half a day was an acceptable margin of error.",
+          "The Court noted that other evidence, such as the IO's report and the post-mortem's finding of blunt force injuries, corroborated the fact that the deceased fell from the train."
+        ],
+        "conclusion": "The Supreme Court concluded that the deceased was a bona fide passenger. The appellant had met her initial burden of proof, and the Railways failed to rebut the resulting presumption. Therefore, the appellant was entitled to compensation for her brother's death."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the victim was a bona fide passenger of the train in question on the date of incident, and was entitled to compensation.",
+      "appellant_arguments": [
+        "Compensation ought to be awarded to the appellant.",
+        "The appellant should be awarded interest as admissible in law."
+      ],
+      "respondent_arguments": [
+        "The appellant was required to produce the best evidence but did not do so. The report of the IO was not sufficient to rebut the presumption under Section 191 of the Railways Act.",
+        "The appellant had not provided a reason for the delay in the discovery of the body of the deceased. It argued that other employees of the Railways were bound to have chanced upon the body in the days after the alleged"
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Union of India v. Rina Devi",
+        "citation": "[2018] 4 SCR 417 : (2019) 3 SCC 572",
+        "principle": "To clarify the test by which the amount of compensation under the Railways Act must be computed, including the entitlement of the claimant in case of an increase in the permissible amount.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Union of India v. Radha Yadav",
+        "citation": "[2019] 1 SCR 741 : (2019) 3 SCC 410",
+        "principle": "To clarify the test by which the amount of compensation under the Railways Act must be computed, including the entitlement of the claimant in case of an increase in the permissible amount.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kamukayi and others v. Union of India and Others",
+        "citation": "[2023] 6 SCR 399 : (2023) SCC Online SC 642",
+        "principle": "To clarify the test by which the amount of compensation under the Railways Act must be computed, including the entitlement of the claimant in case of an increase in the permissible amount.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The test for computing the amount of compensation under the Railways Act, including the entitlement of the claimant in case of an increase in the permissible amount, has been clarified by the Supreme Court in successive decisions.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The provided text does not contain the Supreme Court's core finding or its reasoning. The text consists of fragmented procedural history, issues framed by a lower tribunal, and a statement on the High Court's dismissal of a review petition, but lacks the Supreme Court's analysis and conclusion for the present appeal.",
+    "legal_tests_applied": [
+      "The text indicates that the court considered the law previously laid down in its own successive decisions regarding the computation of compensation under the Railways Act, but it does not specify or apply the actual test from those decisions."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.appeal_result": [
+      "p10_ed34459e"
+    ],
+    "arguments[0].appellant_arguments[1]": [
+      "p4_55ee19fb"
+    ],
+    "arguments[0].respondent_arguments[0]": [
+      "p5_67b4f06d"
+    ],
+    "citations.cases[2].case_name": [
+      "p2_3c3adb5e"
+    ],
+    "citations.cases[2].citation": [
+      "p2_3c3adb5e"
+    ]
+  }
+}

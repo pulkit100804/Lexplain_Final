@@ -1,0 +1,112 @@
+{
+  "procedural_history": {
+    "originating_court": "First Additional Civil Judge, Dehradun",
+    "impugned_order": "The dismissal of Civil Suit No. 122 of 1970, which sought a declaration that the appellants were entitled to 2/3rd share of the insurance policy amount.",
+    "high_court_proceedings": "The appellants filed a First Appeal before the District Judge, Dehradun, which was dismissed. They then filed a Second Appeal before the High Court of Judicature at Allahabad (Second Appeal No. 3082 of 1971), which was also dismissed on December 23, 1971.",
+    "supreme_court_posture": "The appellants approached the Supreme Court after obtaining special leave under Article 136 of the Constitution because the High Court dismissed their Second Appeal."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The judgments and decrees of the High Court, the first appellate court and the trial court are set aside.",
+      "It is hereby declared that each of the plaintiffs is entitled to 1/3rd share in the amount received under the insurance policies in question and the interest which may have been earned by its investment.",
+      "The suit stands decreed accordingly.",
+      "Parties shall bear their own costs throughout."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a nominee under an insurance policy acquires an absolute interest in the amount received under the policy to the exclusion of the heirs of the assured.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involves a life insurance policy where the assured person dies intestate (without a will).",
+          "The deceased had nominated one person (e.g., his widow) under Section 39 of the Insurance Act, 1938, but had other legal heirs (e.g., his mother and son)."
+        ],
+        "law": [
+          "Under Section 39 of the Insurance Act, 1938, a policyholder can nominate a person to whom the policy money shall be paid in the event of their death.",
+          "A mere nomination under Section 39 does not confer any beneficial interest in the policy amount to the nominee.",
+          "The policyholder continues to hold interest in the policy during their lifetime, and the nominee acquires no interest during this period.",
+          "A nominee is not equivalent to an heir or a legatee."
+        ],
+        "application": [
+          "The Court analyzed Section 39 and determined that its purpose is to provide the insurer with a legally valid person to pay the policy amount to, thereby discharging the insurer's liability.",
+          "The nomination only indicates the \"hand which is authorised to receive the amount.\" It does not deal with the ultimate title or ownership of the money.",
+          "Since the policyholder retains full interest in the policy until death, upon their death, the policy amount becomes a part of their estate.",
+          "As part of the estate, the money is governed by the personal law of succession (either testamentary or intestate) applicable to the deceased.",
+          "Therefore, the nominee receives the money from the insurer as a trustee or agent on behalf of the legal heirs, who are the rightful owners of the money according to succession law."
+        ],
+        "conclusion": "The Supreme Court rejected the proposition, holding that a nominee under an insurance policy does not acquire an absolute interest in the policy amount. The nominee is merely an agent authorized to receive the money, which then forms part of the deceased's estate and must be distributed among the legal heirs according to the law of succession."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a nominee under an insurance policy acquires an absolute interest in the amount received under the policy to the exclusion of the heirs of the assured.",
+      "appellant_arguments": [
+        "The appellants (mother and son of the deceased) argued that as legal heirs under the Hindu Succession Act, 1956, they were entitled to their 2/3rd share of the amount payable under the insurance policies.",
+        "They contended that the nomination of the respondent (the widow) does not override the law of succession, and the nominee only receives the money on behalf of the legal heirs."
+      ],
+      "respondent_arguments": [
+        "The respondent (the widow and nominee) argued that she had an absolute right to the insurance policy amounts to the exclusion of the other heirs (her son and mother-in-law).",
+        "Her claim was that the nomination under the insurance policy vested the entire amount in her absolutely upon the death of the assured."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Insurance Act, 1938",
+        "section": "39",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The law of succession",
+        "section": "Not specified",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "B.M. Mundkur v. Life Insurance Corporation of India & Ors.",
+        "citation": "Not provided in text",
+        "principle": "To demonstrate that Section 39 and Section 44(2) of the Insurance Act should be contrasted, not treated as analogous, thereby correcting an error in the Delhi High Court's reasoning.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A nomination made under Section 39 of the Insurance Act, 1938, does not deprive the legal heirs of their rights to the amount payable under a life insurance policy. The nominee is only entitled to receive the policy amount, which can then be claimed by the heirs of the assured in accordance with the applicable law of succession.",
+    "obiter": [
+      "The fact that Parliament has not amended Section 39 of the Act since 1938, despite numerous High Court rulings stating that a nomination does not override succession laws, suggests legislative approval of this interpretation.",
+      "Under Section 44(2) of the Act, when an insurance agent nominates a person, the commission is explicitly paid to that nominee, unlike the provisions for policyholders under Section 39.",
+      "The law in force in England on this question is summarised in Halsbury's Laws of England."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A mere nomination effected under section 39 of the Insurance Act, 1938, does not deprive the heirs of their rights in the amount payable under a life insurance policy. The court affirmed the long-held view that the policyholder continues to hold interest in the policy during their lifetime, and upon their death, the nominee acquires only the right to receive the money from the insurer on behalf of the estate, which is then to be distributed according to the law of succession governing the deceased.",
+    "legal_tests_applied": [
+      "Statutory Interpretation of Section 39 of the Insurance Act, 1938.",
+      "Doctrine of Judicial Precedent (Stare Decisis).",
+      "Principle of Legislative Acquiescence (inferring legislative intent from Parliament's failure to amend the statute despite a long-standing judicial interpretation)."
+    ],
+    "why_appellant_lost": [
+      "The Delhi High Court erred in drawing an analogy between section 39 and section 44(2) of the Act, misinterpreting a Madras High Court precedent which, in fact, contrasted the two sections rather than equating them.",
+      "The reasons given by the Delhi High Court in support of its view that a nominee acquires an absolute interest were found to be not tenable."
+    ],
+    "why_respondent_won": [
+      "The policyholder continues to hold interest in the policy during his lifetime, and therefore the policy amount forms part of his estate upon death, subject to the laws of succession.",
+      "The court's view accords with the long-standing and near-unanimous decisions of almost all other High Courts in India since the Act was passed in 1938."
+    ],
+    "policy_considerations": [
+      "The court was dissuaded from taking a contrary view due to the strong circumstance that for over four decades, almost all High Courts in India have consistently held that a nomination under section 39 does not override the rights of legal heirs.",
+      "Parliament has been aware of this long-standing judicial interpretation of section 39 and has not chosen to amend the law, which implies legislative acquiescence to this view. Overturning this settled position would be contrary to the implied legislative intent."
+    ]
+  },
+  "evidence_map": {}
+}

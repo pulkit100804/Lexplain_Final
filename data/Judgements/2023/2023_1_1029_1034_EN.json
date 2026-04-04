@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Bombay at Goa",
+    "impugned_order": "Judgment and order dated 03.08.2022 passed by the High Court of Bombay at Goa in Criminal Writ Petition Nos. 466 of 2021, 467 of 2021, 471 of 2021 and 472 of 2021.",
+    "high_court_proceedings": "The High Court dismissed the writ petitions, holding that the period of Parole is to be excluded from the period of sentence while considering the 14 years to actual imprisonment for the purpose of premature release.",
+    "supreme_court_posture": "The original writ petitioners, feeling aggrieved and dissatisfied with the High Court's judgment, preferred Special Leave Petitions (Crl.) Nos.12574-12577 of 2022 to the Supreme Court. The Supreme Court dismissed the Special Leave Petitions."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the period of parole is to be excluded from the period of sentence under the Rules, 2006 while considering 14 years of actual imprisonment for the purpose of premature release?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved prisoners seeking premature release under the Goa Prisons Rules, 2006.",
+          "A key requirement for premature release is completing 14 years of 'actual imprisonment'.",
+          "The dispute was over whether the time a prisoner spent on parole should be included or excluded when calculating this 14-year period."
+        ],
+        "law": [
+          "The court's decision was based on Rule 335 of the Goa Prisons Rules, 2006.",
+          "Rule 335 explicitly states that the period of release on Furlough and Parole “shall be counted as remission of sentence”."
+        ],
+        "application": [
+          "The Supreme Court adopted the reasoning of the High Court, which centered on the interpretation of Rule 335.",
+          "The court reasoned that since the rule defines the parole period as a \"remission of sentence,\" it cannot logically be considered part of the \"actual imprisonment.\"",
+          "Therefore, if parole is counted as remission, it must be excluded from the sentence period when calculating the 14 years of actual imprisonment.",
+          "The court also added a policy argument, stating that if parole were included in the calculation, an influential prisoner could repeatedly get parole and thereby defeat the very purpose of requiring a minimum period of actual imprisonment."
+        ],
+        "conclusion": "The Supreme Court concluded that the period a prisoner spends on parole must be excluded from the period of sentence when calculating the 14 years of actual imprisonment required for premature release, because the governing rules classify parole time as a remission of sentence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the period of parole is to be excluded from the period of sentence under the Rules, 2006 while considering 14 years of actual imprisonment for the purpose of premature release?",
+      "appellant_arguments": [
+        "The High Court erred in relying on Rule 335 of the Rules, 2006 to hold that since the period of release on parole is counted as remission, it cannot be counted as part of the sentence.",
+        "Even while on parole, a convict is considered to be in custody/judicial custody, and therefore, the parole period should be included when calculating the 14 years of actual imprisonment.",
+        "The High Court's view is contrary to the Supreme Court's decisions in the cases of Sunil Fulchand Shah vs. Union of India and Avtar Singh vs. State of Haryana.",
+        "As per Section 55 of the Prisons Act, 1894, a prisoner being taken to or from prison is deemed to be in prison and in custody. Therefore, the parole period must be included as part of the actual period of imprisonment."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Rules, 2006",
+        "section": "Rule 335",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The period of release on parole is to be counted as a remission of sentence and must be excluded from the period of the sentence when calculating the duration of actual imprisonment. Section 55 of the Prisons Act, 1894, which deems a prisoner to be in custody when taken out of prison, is not applicable to a release on parole.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "For the purpose of considering the 14 years of actual imprisonment required for premature release, the period a prisoner spends on parole must be excluded.",
+    "legal_tests_applied": [
+      "The court's analysis is based on the object and purpose of parole and the meaning of 'actual imprisonment'."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the appellant's submission that parole should be included in the sentence period because accepting it would defeat the very object and purpose of actual imprisonment.",
+      "The court explicitly stated its complete agreement with the High Court's view that the period of parole is to be excluded from the period of sentence while considering 14 years of actual imprisonment."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the court affirmed the High Court's decision, holding that for the purpose of considering 'actual imprisonment,' the parole period must be excluded."
+    ],
+    "policy_considerations": [
+      "If the period of parole were included when calculating 14 years of actual imprisonment, an influential prisoner could get parole numerous times, as there are no restrictions on the number of times it can be granted, which would defeat the very object and purpose of actual imprisonment."
+    ]
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p4_43527575",
+      "p5_6a6961c2"
+    ],
+    "arguments[0].issue_text": [
+      "p4_43527575",
+      "p5_6a6961c2"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "procedural_history": {
+    "originating_court": "Assistant Sessions Judge",
+    "impugned_order": "Judgment and order dated February 9, 12, 1968 of the Bombay High Court in Criminal Appeal No. 541 of 1966.",
+    "high_court_proceedings": "The appellant was convicted by the Assistant Sessions Judge under s. 411 I.P.C. On appeal the Sessions Judge held that the appellant had not been proved to be in possession of the 17 ornaments.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave challenging the Bombay High Court's judgment and order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The appellant directed to be set at liberty."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a statement by an accused leading to the recovery of stolen goods is admissible under Section 27 of the Evidence Act if the police already knew that another person was in possession of those goods.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was charged in a diamond theft case along with co-accused.",
+          "Before the appellant made any statement, the police had already visited a newspaper office and learned that a co-accused was in possession of the stolen diamonds.",
+          "Subsequently, the appellant made a statement to the police, claiming he would lead them to the person who had the diamonds.",
+          "Following this information, the police were led to the co-accused, and the diamonds were recovered from that person."
+        ],
+        "law": [
+          "Section 27 of the Indian Evidence Act is an exception to the general rule that confessions to police are inadmissible.",
+          "Under Section 27, a statement from an accused is admissible if it leads to the 'discovery of a fact' that was previously unknown to the police.",
+          "The essential ingredient is that the information given by the accused must be the direct cause of the discovery of a new fact connected to the crime."
+        ],
+        "application": [
+          "The Supreme Court reasoned that for a statement to be admissible under Section 27, it must lead to the discovery of a fact that the police did not already know.",
+          "In this case, the police already knew the crucial fact: that the co-accused was in possession of the diamonds. They had learned this independently from their investigation at the newspaper office.",
+          "Therefore, when the appellant stated that the co-accused had the diamonds, this was not the discovery of a new fact for the police.",
+          "The court held that the appellant's statement only led to the discovery of the 'whereabouts' of the co-accused, not the discovery of the fact that the co-accused possessed the stolen goods.",
+          "This was deemed insufficient to meet the requirements of Section 27, as the core incriminating information was already known."
+        ],
+        "conclusion": "The Supreme Court decided that the appellant's statement was inadmissible under Section 27 of the Evidence Act. The court reasoned that since the police already knew that the co-accused possessed the stolen diamonds, the appellant's statement did not lead to the 'discovery of a fact' as required by the statute. The information was not new, and therefore, the condition for admissibility was not met."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a statement by an accused leading to the recovery of stolen goods is admissible under Section 27 of the Evidence Act if the police already knew that another person was in possession of those goods.",
+      "appellant_arguments": [
+        "The statement is not admissible under Section 27 of the Evidence Act because it did not lead to the discovery of a new fact.",
+        "The police already knew that the other accused had possession of the stolen diamonds.",
+        "The appellant's statement only led to the discovery of the whereabouts of the other accused, not to the discovery of the fact that they possessed the diamonds, which was already known to the police.",
+        "Therefore, there was no discovery of a fact connecting the appellant to the crime within the meaning of Section 27."
+      ],
+      "respondent_arguments": [
+        "The statement was admissible as it led to the physical recovery of the stolen diamonds from another accused.",
+        "The appellant's statement, in which he offered to lead the police to the person who had the diamonds, and the subsequent recovery, is the 'fact discovered' under Section 27.",
+        "This evidence was necessary to fasten guilt on the appellant and prove his complicity in the crime."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "26",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "27",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pulukuri Kotayya v. King Emperor",
+        "citation": "",
+        "principle": "To determine what part of a statement made by an accused, which leads to a discovery, is admissible in evidence under Section 27 of the Evidence Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For a statement to be admissible under Section 27 of the Evidence Act, the information given by an accused must lead to the discovery of a fact that was previously unknown to the police. If the police already possess knowledge of the fact that is purportedly discovered, the information given by the accused is not admissible, as it does not constitute a 'discovery' within the meaning of the section. Information that merely leads to the discovery of the whereabouts of a person or object, when the police already know the incriminating connection of that person or object to the crime, is not a discovery of a fact.",
+    "obiter": [
+      "If an accused charged with theft states to the police, 'I will show you the articles at the place where I have kept them' and the articles are found there, the information given by him led to the discovery of the fact that the articles were kept by the accused at that place.",
+      "If the police did not know who had the stolen goods, and the accused made a statement that he knew where the goods were and would lead them to the person who had them, the discovery of the goods with that person would be a fact deposed to by the accused and admissible under Section 27."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appellant's statement was not admissible under Section 27 of the Evidence Act because it did not lead to the discovery of a new fact connecting him to the crime. The police already knew that the other accused had possession of the stolen diamonds. Therefore, the appellant's statement that the other accused had custody of the diamonds was not something unknown to the police so as to constitute 'a fact deposed to as discovered in consequence of information received'. The discovery resulting from the appellant's statement merely related to the whereabouts of the other accused, not to the fact of their possession of the diamonds.",
+    "legal_tests_applied": [
+      "For a statement to be admissible under Section 27 of the Evidence Act, the discovery must be of some fact which the police had not previously learnt from other sources, and the knowledge of the fact must be first derived from information given by the accused.",
+      "The information given by the accused must lead to the discovery of some fact deposed to by him and connected with the crime."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

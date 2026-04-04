@@ -1,0 +1,99 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Judicature at Madras (Madurai bench)",
+    "impugned_order": "Government Order dated 24.12.2012",
+    "high_court_proceedings": "Respondents filed Criminal Original Petition under Section 482 of the Code of Criminal Procedure, 1973 before the Madurai bench of the High Court of Madras in Crl.O.P. (MD) No. 6607 of 2013. The High Court allowed the Criminal Original Petition, setting aside the Government Order dated 24.12.2012 and directed the competent authority to initiate fresh proceedings in terms of Section 3 and 4 of the Act.",
+    "supreme_court_posture": "The Appellant (represented by Subramonium Prasad, AAG, et al.) challenged the High Court's order in the Supreme Court. The Supreme Court allowed the appeal, effectively overturning the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the government is required to first initiate proceedings and identify properties under Section 4 of the Act before passing an ad-interim attachment order under Section 3 of the Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The State Government, acting on complaints from depositors, issued an ad-interim order under Section 3 of the Act to attach the properties of partners in a financial establishment.",
+          "The partners (respondents) challenged this order in the High Court.",
+          "The High Court set aside the government's order, ruling that the government was first required to initiate proceedings and identify properties under Section 4 of the Act before issuing an attachment order under Section 3."
+        ],
+        "law": [
+          "Section 3 of the Act empowers the State Government to pass an ad-interim order to attach the properties of a financial establishment upon receiving complaints from depositors.",
+          "Section 4 of the Act outlines the subsequent procedure, which includes the government appointing a 'competent authority'.",
+          "Section 4(3) mandates that after an ad-interim order is passed under Section 3, the competent authority must apply to a Special Court to make that order absolute."
+        ],
+        "application": [
+          "The Supreme Court found the language of Sections 3 and 4 to be \"plain\" and \"unambiguous,\" not requiring the interpretation suggested by the respondents and the High Court.",
+          "The Court established that the correct statutory procedure begins with the State Government setting the process in motion by passing an ad-interim attachment order under Section 3.",
+          "Only after the Section 3 order is passed does the Act require the appointment of a competent authority under Section 4 to take further action, such as applying to the Special Court.",
+          "The Court reasoned that the High Court's interpretation was \"erroneous\" and that reversing the sequence would defeat the purpose of the law, which is to act quickly to safeguard the interests of investors."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, concluding that the government is not required to initiate proceedings under Section 4 before passing an ad-interim attachment order under Section 3. The correct procedure is for the government to first issue the ad-interim order under Section 3, and then for a competent authority to take the subsequent steps outlined in Section 4."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the government is required to first initiate proceedings and identify properties under Section 4 of the Act before passing an ad-interim attachment order under Section 3 of the Act.",
+      "appellant_arguments": [
+        "The procedure of first initiating proceedings under Section 4 before passing an ad-interim attachment order under Section 3 was never contemplated under the Act.",
+        "The High Court's interference with the ad-interim order defeats the very purpose of the provision, which is to safeguard the interests of investors.",
+        "The language of Sections 3 and 4 is plain and unambiguous, giving the government discretion to pass an ad-interim order under Section 3 without first taking steps under Section 4."
+      ],
+      "respondent_arguments": [
+        "Before passing an ad-interim attachment order under Section 3 of the Act, the government must first take steps under Section 4 of the Act by identifying the properties."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "the Act",
+        "section": "3",
+        "used_by_court": true
+      },
+      {
+        "act_name": "the Act",
+        "section": "4",
+        "used_by_court": true
+      },
+      {
+        "act_name": "the Act",
+        "section": "4(3)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "the Act",
+        "section": "4(4)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "It is not a legal requirement for the government to identify properties under Section 4 of the Act before passing an ad-interim order under Section 3 of the Act, as the language of these sections is plain and unambiguous.",
+    "obiter": [
+      "The legislature consciously provided discretion to the government for passing an ad-interim order, as evidenced by the use of the phrase 'Government may'.",
+      "Interfering with an ad-interim order before other provisions are complied with defeats the purpose of the provision, which is to safeguard the interests of investors."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the government is not required to first initiate proceedings under Section 4 of the Act before passing an ad-interim attachment order under Section 3. The language of Sections 3 and 4 is plain and unambiguous, and the legislature consciously gave the government discretion to pass an ad-interim order, as evidenced by the use of the phrase \"Government may\".",
+    "legal_tests_applied": [
+      "Plain Meaning Rule of Statutory Interpretation: The court determined that the language employed in Sections 3 and 4 of the Act is 'plain, unambiguous and it does not call for any interpretation' beyond its literal meaning."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The purpose of the ad-interim attachment provision is to safeguard the interests of investors, and requiring prior proceedings under Section 4 would defeat this very purpose."
+    ]
+  },
+  "evidence_map": {}
+}

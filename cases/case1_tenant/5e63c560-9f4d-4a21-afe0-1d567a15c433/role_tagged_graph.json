@@ -1,0 +1,50 @@
+{
+  "case_id": "5e63c560-9f4d-4a21-afe0-1d567a15c433",
+  "tenant_id": "case1_tenant",
+  "agent": "agent_3_role_tagger",
+  "input_refs": [
+    "document_graph.json"
+  ],
+  "created_at": "2026-03-19T12:00:02.779211+00:00",
+  "nodes": [
+    {
+      "node_id": "n_001",
+      "text": "On the evening of 5th July, the accused struck the victim multiple times with an iron rod during an altercation.",
+      "span": {
+        "start": 0,
+        "end": 112
+      },
+      "role": "fact"
+    },
+    {
+      "node_id": "n_002",
+      "text": "The victim sustained serious injuries and was taken to the hospital, where he later died.",
+      "span": {
+        "start": 113,
+        "end": 202
+      },
+      "role": "fact"
+    },
+    {
+      "node_id": "n_003",
+      "text": "The police recovered the iron rod from the accused's residence.",
+      "span": {
+        "start": 203,
+        "end": 266
+      },
+      "role": "evidence"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_001",
+      "target": "n_002",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_002",
+      "target": "n_003",
+      "relation": "sequential"
+    }
+  ]
+}

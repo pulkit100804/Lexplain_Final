@@ -1,0 +1,123 @@
+{
+  "procedural_history": {
+    "originating_court": "District Magistrate, 24 Parganas (for some petitioners), District Magistrate (for other petitioners)",
+    "impugned_order": "Detention orders issued by District Magistrates under s. 3(2) of an Act (unspecified in the provided text) on various dates in 1968.",
+    "high_court_proceedings": "Not mentioned in the text.",
+    "supreme_court_posture": "Original Jurisdiction: Writ Petition under Art. 32 of the Constitution of India for a writ in the nature of habeas corpus. This indicates the petitioners directly approached the Supreme Court seeking relief from their detention."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The detention of the petitioner is set aside."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a detention order can be upheld if some of the grounds provided are irrelevant.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A detention order was issued against a petitioner based on several grounds, purportedly to prevent acts prejudicial to the maintenance of public order.",
+          "The court found that some of the grounds provided were not relevant to the maintenance of public order.",
+          "For example, one ground cited was an attempt to commit theft from a railway wagon, which the court deemed irrelevant to public order."
+        ],
+        "law": [
+          "If a detention order is based on multiple grounds, and some of those grounds are found to be irrelevant, the entire order is invalid."
+        ],
+        "application": [
+          "The court explained that a detention order relies on the \"subjective satisfaction\" of the detaining authority.",
+          "If irrelevant grounds were considered, it is impossible for the court to determine whether the authority would have been satisfied and issued the order based only on the remaining, relevant grounds.",
+          "The court cannot separate the valid grounds from the invalid ones and uphold the detention on the basis of the valid grounds alone, as it cannot substitute its own judgment for the authority's subjective satisfaction."
+        ],
+        "conclusion": "The Supreme Court decided that the detention order cannot be upheld. Because some of the grounds were irrelevant, the entire basis for the authority's subjective satisfaction was tainted, and the order must be set aside."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether grounds relating to 'law and order' are relevant for a detention order concerning the 'maintenance of public order'.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioners were detained under orders that cited the need to maintain 'public order'.",
+          "The specific grounds provided for their detention included activities such as theft, robbery, and stealing overhead traction wires.",
+          "In several cases, the Court found that some or most of the grounds provided were not relevant to the maintenance of public order."
+        ],
+        "law": [
+          "There is a legal distinction between a 'law and order' issue and a 'public order' issue.",
+          "While any contravention of law affects order, an act only affects 'public order' if it impacts the public or the community at large.",
+          "A mere disturbance of 'law and order' is not sufficient to justify a detention order intended for the 'maintenance of public order'.",
+          "If a detention order is based on multiple grounds, and some of those grounds are found to be irrelevant, the entire order cannot be upheld."
+        ],
+        "application": [
+          "The Court examined the specific grounds for detention, such as theft and robbery, and determined that they were issues of 'law and order'.",
+          "It reasoned that these acts, while illegal, did not rise to the level of affecting the public or the community at large, and were therefore not relevant to 'public order'.",
+          "The Court noted that because the detaining authority's decision was based on a mix of grounds, it was impossible to know if the authority would have still ordered the detention if the irrelevant 'law and order' grounds were excluded.",
+          "Therefore, the presence of these irrelevant grounds invalidated the entire detention order."
+        ],
+        "conclusion": "The Supreme Court accepted the argument, concluding that grounds relating merely to 'law and order' (like individual acts of theft or robbery) are not relevant for a detention order concerning the 'maintenance of public order'. The Court distinguished that 'public order' requires a disturbance that affects the community at large. Since the detention orders were based on these irrelevant grounds, they were set aside."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a detention order can be upheld if some of the grounds provided are irrelevant.",
+      "appellant_arguments": [],
+      "respondent_arguments": [],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether grounds relating to 'law and order' are relevant for a detention order concerning the 'maintenance of public order'.",
+      "appellant_arguments": [],
+      "respondent_arguments": [],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Preventive Detention Act, 1950",
+        "section": "s. 3(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India, 1950",
+        "section": "Art. 32",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India, 1950",
+        "section": "Art. 22(5)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An order of detention cannot be upheld if some of the grounds provided are irrelevant, as the court cannot predicate what the subjective satisfaction of the detaining authority would have been based only on the valid grounds.",
+    "obiter": [
+      "Grounds relating to law and order, such as theft and robbery, are not relevant for a detention based on the maintenance of public order."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A detention order cannot be sustained if it is based on multiple grounds, some of which are found to be irrelevant to the stated purpose of the detention, such as the 'maintenance of public order'. The inclusion of irrelevant grounds vitiates the order entirely because the court cannot speculate on what the subjective satisfaction of the detaining authority would have been if the irrelevant grounds were excluded. In this case, many of the grounds provided, such as acts of theft and robbery, relate to 'law and order' but are not relevant to the 'maintenance of public order', rendering the detention invalid.",
+    "legal_tests_applied": [
+      "If some of the grounds which are given are irrelevant the order of detention cannot be upheld because the court cannot predicate what the subjective satisfaction of the authority would have been on the exclusion of those reasons.",
+      "A distinction must be made between grounds relating to 'law and order' and those relevant to the 'maintenance of public order'. Activities like theft and robbery are considered matters of law and order and are not relevant for a detention order aimed at maintaining public order."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "If such grounds can be considered to be relevant to public order it would be open to the authorities to detain citizens without a trial for such petty matters as have been mentioned in these grounds."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.policy_considerations[0]": [
+      "p10_14f27ac1"
+    ]
+  }
+}

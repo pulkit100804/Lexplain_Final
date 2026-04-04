@@ -1,0 +1,132 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court in Mysore, as the appellant was convicted under s. 302 I.P.C. (Indian Penal Code).",
+    "impugned_order": "Judgment and order dated July 17, 1969, of the Mysore High Court in Criminal Appeal No. 111 of 1968 and Criminal Referred Case No. 2 of 1968.",
+    "high_court_proceedings": "The High Court heard a Criminal Appeal (No. 111 of 1968) and a Criminal Referred Case (No. 2 of 1968). The nature of the High Court's decision is not explicitly stated, but since the Supreme Court appeal was filed by Thimma, it is implied that the High Court upheld the conviction.",
+    "supreme_court_posture": "Thimma, the appellant, appealed to the Supreme Court by special leave after being convicted of an offence under s. 302 I.P.C. The Supreme Court examined the evidence, found the appellant's guilt established beyond a reasonable doubt, and dismissed the appeal, upholding the conviction and sentence."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Information extracted from an accused cannot be considered a fresh discovery if the fact is already known from other sources, and courts must be cautious of police manipulation that undermines the protections of Sections 25 and 26 of the Indian Evidence Act.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution sought to use information given by the appellant, which led to the discovery of the deceased's body, as evidence against him under Section 27 of the Indian Evidence Act.",
+          "However, another witness (P.W. 4) was also suspected of being involved in the crime."
+        ],
+        "law": [
+          "The Court stated that if a fact is already known to the police from other sources, there can be no 'fresh discovery' based on information extracted from an accused.",
+          "Courts must be cautious of police manipulation designed to circumvent the protections against confessions made to police, as provided by Sections 25 and 26 of the Indian Evidence Act."
+        ],
+        "application": [
+          "The Court reasoned that the other suspect, P.W. 4, would \"in all probability have disclosed to the police the existence of the dead body\" at the place where it was eventually found.",
+          "This implies that the police likely already knew the location of the body from another source before the appellant provided the information.",
+          "Therefore, the information from the appellant did not lead to a genuine or fresh discovery."
+        ],
+        "conclusion": "The Court decided it was unsafe to rely on the appellant's statement leading to the discovery of the body as proof of his guilt and was disinclined to consider it as evidence."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Evidence of absconding is relevant as evidence of conduct under Section 8 of the Evidence Act, but it is not the only conclusion that can be drawn, as even innocent persons may be tempted to evade arrest.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant absconded from September 1, 1967, after the police became suspicious of his involvement in the crime.",
+          "He remained missing until he was arrested on September 5, 1967."
+        ],
+        "law": [
+          "Under Section 8 of the Indian Evidence Act, the conduct of an accused person, such as absconding, is relevant evidence."
+        ],
+        "application": [
+          "The Court acknowledged that the appellant's act of making himself scarce was relevant conduct under Section 8 and could be indicative of a guilty mind.",
+          "However, the Court reasoned that this is not the only conclusion that can be drawn from such conduct.",
+          "It explained that even innocent people, when suspected of serious crimes, might be tempted to evade arrest due to the natural instinct of self-preservation."
+        ],
+        "conclusion": "The Supreme Court concluded that while evidence of absconding is relevant, it is not conclusive proof of guilt. Given that even an innocent person might flee, the Court decided not to attach much significance to the appellant's absconding in this particular case."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Information extracted from an accused cannot be considered a fresh discovery if the fact is already known from other sources, and courts must be cautious of police manipulation that undermines the protections of Sections 25 and 26 of the Indian Evidence Act.",
+      "appellant_arguments": [
+        "The information provided by the appellant leading to the discovery of the body should not be relied upon, as it was not a fresh discovery. The police likely already knew the location from another witness (P.W. 4), and using the appellant's statement would be a manipulation to bypass the protections of Sections 25 and 26 of the Indian Evidence Act."
+      ],
+      "respondent_arguments": [
+        "The information given by the appellant led to the discovery of the dead body and other articles, and the statement conveying this information was admissible in evidence under Section 27 of the Indian Evidence Act to support the appellant's guilt."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Evidence of absconding is relevant as evidence of conduct under Section 8 of the Evidence Act, but it is not the only conclusion that can be drawn, as even innocent persons may be tempted to evade arrest.",
+      "appellant_arguments": [
+        "The act of absconding is not conclusive proof of guilt, as an innocent person might also flee out of fear of arrest. (Inferred from the issue text, as the text does not detail the specific argument made)."
+      ],
+      "respondent_arguments": [
+        "The appellant's conduct in absconding immediately after the police suspected his complicity in the crime was an item of evidence pointing to his guilt. (Inferred, as the text lists this as one of the three main items of evidence relied upon by the prosecution)."
+      ],
+      "court_acceptance": "partly"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "25",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "26",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "27",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "When a fact is discoverable from other sources, any subsequent information extracted from an accused leading to that same fact cannot be considered a fresh discovery. Courts must be watchful against investigative manipulation that would undermine the protections of Sections 25 and 26 of the Indian Evidence Act. Additionally, an extra-judicial confession is not automatically rendered involuntary or untrue merely because the witness to whom it was made was also a suspect during the investigation.",
+    "obiter": [
+      "As a matter of settled practice, the Supreme Court does not ordinarily undertake to examine the evidence itself."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Despite finding it unsafe to rely on the information leading to the discovery of the body and attaching little significance to the appellant's absconding, the Court upheld the conviction because it was satisfied that other evidence on record, specifically a voluntary extra-judicial confession made to a witness (P.W. 4), was sufficient to establish the appellant's guilt beyond a reasonable doubt.",
+    "legal_tests_applied": [
+      "Under Section 27 of the Indian Evidence Act, for information from an accused leading to a discovery to be admissible, it must be a 'fresh discovery'; if a fact is already discovered from other sources, information extracted from the accused cannot be considered a fresh discovery.",
+      "Under Section 8 of the Indian Evidence Act, the conduct of absconding is relevant and may be indicative of a guilty mind, but it is not a conclusive test, as even innocent persons may be tempted to evade arrest out of an instinct for self-preservation.",
+      "An extra-judicial confession is considered reliable if the person to whom it was made was not a person in authority and there was no question of any inducement, threat, or promise, making it free from any taint that would cast suspicion on its voluntary character."
+    ],
+    "why_appellant_lost": [
+      "The appellant lost because the Court found the extra-judicial confession made to his nephew (P.W. 4) to be credible and sufficient for conviction, stating, 'The High Court was thus quite right in relying on the extra-judicial confession made to P.W. 4.'",
+      "The Court determined the confession was voluntary and reliable, noting, 'The confession is free from any taint which would throw suspicion on its voluntary character' and that the person it was made to 'was not a person in authority and there was no question of any inducement, threat or promise.'"
+    ],
+    "why_respondent_won": [
+      "The prosecution succeeded because the Court accepted the extra-judicial confession as the primary evidence of guilt, which was strong enough to sustain the conviction even after other circumstantial evidence was discounted.",
+      "The Court found the confession to be natural behavior, stating, 'The appellant appears to have been impelled by some inner urge to take the assistance of his nephew to go to the place of occurrence and see what haryi;ned to the dead body, Such behaviours cannot be considered unnatural.'"
+    ],
+    "policy_considerations": [
+      "Courts must be watchful against the ingenuity of investigating officers to ensure that the protection afforded by the wholesome provisions of Sections 25 and 26 of the Indian Evidence Act is not whittled down by mere manipulation of the record of the case diary."
+    ]
+  },
+  "evidence_map": {}
+}

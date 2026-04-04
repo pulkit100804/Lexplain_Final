@@ -1,0 +1,138 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment of the High Court of Hyderabad dismissing two appeals filed by the plaintiffs.",
+    "high_court_proceedings": "The plaintiffs preferred two appeals to the High Court from the first appellate court's judgment. The High Court dismissed both appeals, holding that the plaintiffs should have filed two separate appeals within the period of limitation and that because one appeal was time-barred, the principle of res judicata applied to the first appeal, causing it to fail as well.",
+    "supreme_court_posture": "The plaintiffs preferred two appeals to the Judicial Committee of the State, which are now before the Supreme Court under article 374(4) of the Constitution, challenging the High Court's judgment."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Set aside the judgments of the two courts below.",
+      "Direct the executing court to proceed with the execution in accordance with the observations made herein.",
+      "No order as to costs of these proceedings."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an appeal is barred by the principle of res judicata when two decrees are drawn up from a single judgment disposing of appeals in the same suit, and the appeal against one of the decrees is filed beyond the period of limitation.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A plaintiff's suit against two sets of defendants was decreed by the trial court.",
+          "The two sets of defendants filed separate appeals, which were heard together by the first appellate court.",
+          "The appellate court disposed of both appeals with a single judgment, dismissing the plaintiff's suit.",
+          "However, two separate decrees were drawn up based on this single judgment.",
+          "The plaintiff then filed two appeals to the High Court: one against the first decree (filed on time) and another against the second decree (filed 29 days late).",
+          "The High Court dismissed the timely appeal, holding that it was barred by the principle of res judicata because the second appeal was time-barred and the decree associated with it had become final."
+        ],
+        "law": [
+          "The principle of res judicata applies when there are two separate suits, not multiple appeals arising from a single suit.",
+          "The determining factor for res judicata is the 'matter in controversy' decided by the judgment, not the procedural act of drawing up a decree. The estoppel is created by the judgment, not the decree.",
+          "Where there has been one trial, one finding, and one decision in a single suit, it is not necessary to file two separate appeals, even if two decrees are drawn up.",
+          "Under Section 5 of the Limitation Act, a court can extend the time for filing an appeal if there is 'sufficient cause' for the delay. A conflict of judicial rulings on a legal point can constitute sufficient cause."
+        ],
+        "application": [
+          "The Supreme Court determined that since there was only one original suit, the principle of res judicata did not arise at all.",
+          "The Court reasoned that both decrees were based on the same single judgment and concerned the entire suit. The two decrees were described as being 'in substance one'.",
+          "Because the case involved a single judgment, the Court found it was not necessary for the appellant to have filed two separate appeals. Therefore, the fact that one of the appeals was time-barred was irrelevant to the maintainability of the other, timely appeal.",
+          "The Court also held that, in any event, the High Court was wrong not to grant the appellant the benefit of Section 5 of the Limitation Act. The existing conflict among High Courts on this specific legal issue constituted 'sufficient cause' for the delay in filing the second appeal."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's reasoning and held that the appeal was not barred by res judicata. The principle does not apply when multiple decrees are drawn from a single judgment in a single suit. The failure to file a timely appeal against one of the decrees does not prevent the court from hearing the timely appeal filed against the other decree."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was correct in not giving the appellants the benefit of Section 5 of the Limitation Act for condonation of delay, given the conflict of judicial decisions on the issue.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The plaintiffs filed two appeals in the High Court from a single judgment of the first appellate court.",
+          "The second appeal was filed 29 days beyond the period of limitation.",
+          "The High Court refused to condone the delay and dismissed the appeal as time-barred, which also led to the dismissal of the first appeal on the grounds of res judicata."
+        ],
+        "law": [
+          "Section 5 of the Limitation Act allows a court to admit an appeal after the prescribed period if the appellant satisfies the court that they had \"sufficient cause\" for not preferring the appeal within such period."
+        ],
+        "application": [
+          "The Supreme Court observed that there was a significant \"conflict of decisions\" regarding the procedural question of whether one or two separate appeals were required in such a situation.",
+          "This conflict was not only present in the High Court of the State but also among different High Courts across India.",
+          "The Court reasoned that this legal uncertainty and conflicting judicial rulings constituted a sufficient cause for the appellants' delay in filing the second appeal."
+        ],
+        "conclusion": "The Supreme Court held that the High Court was wrong in not giving the appellants the benefit of Section 5 of the Limitation Act. The existing conflict of judicial decisions on the procedural issue was a valid reason to condone the delay."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an appeal is barred by the principle of res judicata when two decrees are drawn up from a single judgment disposing of appeals in the same suit, and the appeal against one of the decrees is filed beyond the period of limitation.",
+      "appellant_arguments": [
+        "The principle of res judicata does not apply because there was only one suit, and the question of res judicata arises only when there are two separate suits.",
+        "The determining factor for res judicata is the matter in controversy decided by the judgment, not the number of decrees drawn up. The two decrees in this case are based on the same judgment and are in substance one.",
+        "It is well-settled law that where there has been one trial and one decision, it is not necessary to file two separate appeals even if two decrees are drawn up.",
+        "The appellants cited several authorities, including Mst. Lachmi v. Mst. Bhuli, which held that in such circumstances, a single appeal is maintainable."
+      ],
+      "respondent_arguments": [
+        "The respondents were not represented in this appeal.",
+        "However, their argument at the High Court level, which the High Court accepted, was that the plaintiffs should have filed two separate appeals within the period of limitation.",
+        "As the second appeal was filed beyond the limitation period and was dismissed, the decision became final and operated as res judicata, thereby barring the first appeal."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the High Court was correct in not giving the appellants the benefit of Section 5 of the Limitation Act for condonation of delay, given the conflict of judicial decisions on the issue.",
+      "appellant_arguments": [
+        "The High Court should have granted the benefit of Section 5 of the Limitation Act to condone the delay in filing the second appeal.",
+        "The delay was due to a genuine confusion caused by a conflict of judicial decisions on whether one or two appeals were necessary in such a situation, which existed not only in the High Court of the State but also among different High Courts in India.",
+        "This conflict of rulings constituted sufficient cause for the delay."
+      ],
+      "respondent_arguments": [
+        "The respondents were not represented in this appeal.",
+        "The High Court's position, which the respondents would have supported, was to not condone the delay, implicitly arguing that the conflict of decisions was not a sufficient cause to overlook the limitation period."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Limitation Act, 1908",
+        "section": "s. 5",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Mst. Lachmi v. Mst. Bhuli",
+        "citation": "A.I.R. 1927 Lah. 289",
+        "principle": "The principle of res judicata does not arise when there is only one suit, as the determining factor for estoppel is the matter in controversy decided by the judgment, not the decree. A decision given simultaneously in appeals arising from the same suit cannot act as res judicata.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The principle of res judicata does not apply when there is only one suit and appeals arising from it are disposed of by a single judgment. The fact that two separate decrees are drawn up based on that single judgment does not necessitate two separate appeals; a single, timely appeal is maintainable, and the failure to appeal against the second decree does not bar the first appeal.",
+    "obiter": [
+      "A conflict of judicial decisions on a procedural question can constitute sufficient cause for a court to grant an extension of the limitation period under Section 5 of the Limitation Act."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When two decrees are drawn from a single judgment that disposes of appeals in the same suit, the principle of res judicata does not apply to bar an appeal against one decree simply because a separate appeal against the second decree was filed late. The determining factor for res judicata is the matter in controversy resolved by the judgment, not the number of decrees drawn up; where there is only one suit and one judgment, the decrees are in substance one, and the question of res judicata does not arise.",
+    "legal_tests_applied": [
+      "Res Judicata: The test for applying res judicata is whether there are two separate suits. The principle does not apply within a single suit, as the estoppel is created by the judgment and the matter in controversy, not by the decree itself. 'The question of res judicata arises only when there are two suits... When there is only one suit, the question of res judicata does not arise at all.'",
+      "Section 5 of the Limitation Act (Condonation of Delay): The test for condoning delay is whether the appellant has shown 'sufficient cause'. A conflict of judicial decisions on a procedural point, such as whether one or two appeals are required, can constitute sufficient cause for the delay."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A litigant should not be penalized for procedural confusion that arises from a conflict of judicial decisions among different courts. 'Besides, the High Court was wrong in not giving to the appellants the benefit of section 5 of the Limitation Act because there was conflict of decisions regarding this question not only in the High Court of the State but also among the different High Courts in India.'",
+      "The substance of a judicial decision should prevail over procedural formalities. The court emphasizes that the focus should be on the single judgment and the single controversy, rather than the technicality of two decrees being drawn up. 'The determining factor is not the decree but the matter in controversy... The two decrees in substance are one.'"
+    ]
+  },
+  "evidence_map": {}
+}

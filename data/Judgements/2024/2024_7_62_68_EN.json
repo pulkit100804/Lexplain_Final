@@ -1,0 +1,126 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Order dated 20.05.2017 of the Trial Court which had summoned respondent Pratap Singh Verka under Section 319 of Criminal Procedure Code (CrPC) to face the trial for the offences under sections 7/13(2) of the Prevention of Corruption Act, 1988 (P.C Act).",
+    "high_court_proceedings": "The accused Respondent challenged the Trial Court's order before the High Court of Punjab and Haryana in CRR No. 2317 of 2017. The High Court set aside the order of the Trial Court because sanction under Section 19 of the P.C Act had not been taken.",
+    "supreme_court_posture": "The State of Punjab appealed to the Supreme Court against the judgment and order dated 02.08.2018, passed by the High Court of Punjab and Haryana. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Appeal dismissed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the power to summon an additional accused under Section 319 of the Code of Criminal Procedure, 1973, has primacy over the requirement of obtaining prior sanction under Section 19 of the Prevention of Corruption Act, 1988.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A trial court, hearing a case under the Prevention of Corruption Act, 1988 (PC Act), used its power under Section 319 of the Code of Criminal Procedure (CrPC) to summon a public servant to face trial as an additional accused.",
+          "However, no prior sanction for the prosecution of this public servant had been obtained from the appropriate authority, as required by Section 19 of the PC Act.",
+          "The High Court set aside the trial court's order, ruling that the lack of sanction was a fatal flaw.",
+          "The Supreme Court was then asked to decide whether the trial court's power under Section 319 CrPC could override the sanction requirement of Section 19 of the PC Act."
+        ],
+        "law": [
+          "The Court examined Section 19(1) of the PC Act, which states that a court \"shall not\" take cognizance of certain offences against a public servant without previous sanction.",
+          "It held that this provision is mandatory and unambiguous, making the existence of a sanction a 'sine qua non' (an essential condition) for prosecution.",
+          "The Court affirmed that this specific requirement under the special law (the PC Act) has an overriding effect over the general procedural power granted to courts under Section 319 of the CrPC."
+        ],
+        "application": [
+          "The Supreme Court found that the trial court was incorrect in believing that Section 319 CrPC had primacy over Section 19 of the PC Act.",
+          "It clarified that the correct procedure should have been for the prosecution to first obtain the necessary sanction under Section 19 and only then file an application under Section 319 CrPC to summon the additional accused.",
+          "Because this mandatory prerequisite was not met, the entire procedure of summoning the public servant was flawed.",
+          "The Court fully agreed with the High Court's decision to quash the trial court's order."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the power to summon an additional accused under Section 319 CrPC has primacy over the requirement of prior sanction under Section 19 of the PC Act. It held that a court cannot take cognizance of an offence against a public servant, even under Section 319 CrPC, without a valid prior sanction from the appropriate authority."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the power to summon an additional accused under Section 319 of the Code of Criminal Procedure, 1973, has primacy over the requirement of obtaining prior sanction under Section 19 of the Prevention of Corruption Act, 1988.",
+      "appellant_arguments": [
+        "The State of Punjab argued that there was no need for a prior sanction under Section 19 of the Prevention of Corruption Act, as the court was taking cognizance and summoning the additional accused under its own powers provided by Section 319 of the CrPC."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that a prior sanction under Section 19 of the Prevention of Corruption Act was a mandatory prerequisite, and the Trial Court could not summon them as an additional accused under Section 319 of the CrPC without it."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Corruption Act",
+        "section": "19",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "319",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "197",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act",
+        "section": "7, 10, 11, 13 and 15",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Dilawar Singh v. Parvinder Singh",
+        "citation": "[(2005) 12 SCC 709]",
+        "principle": "The requirement of sanction under Section 19 of the Prevention of Corruption Act has primacy over the power to add an accused under Section 319 of the Code of Criminal Procedure.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Paul Varghese v. State of Kerala",
+        "citation": "[(2007) 14 SCC 783]",
+        "principle": "Section 19(1) of the P.C. Act is mandatory and creates a complete bar on the court's power to take cognizance of offences punishable under Sections 7, 10, 11, 13 and 15 alleged to have been committed by a public servant, except with the previous sanction of the competent authority.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Surinderjit Singh Mand v. State of Punjab",
+        "citation": "[(2016) 8 SCC 722]",
+        "principle": "The requirement of prior sanction is a mandatory prerequisite for a court to take cognizance, and this applies even when the court is taking cognizance against an additional accused under Section 319 of the Code.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The requirement for a court to obtain prior sanction under Section 19 of the Prevention of Corruption Act or Section 197 of the Code of Criminal Procedure is a mandatory prerequisite that takes precedence over the court's power to take cognizance of an offence against an additional accused under Section 319 of the Code.",
+    "obiter": [
+      "The procedure for obtaining sanction is governed by the provisions of the Code of Criminal Procedure and/or as mandated under the relevant special enactment."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The requirement of obtaining a prior sanction under Section 19 of the Prevention of Corruption Act, 1988, is a mandatory and absolute prerequisite for a court to take cognizance of specified offenses against a public servant. This statutory bar on the court's power cannot be circumvented by exercising the power to summon an additional accused under Section 319 of the Code of Criminal Procedure, 1973. The absence of a prior sanction renders the entire procedure of summoning the public servant flawed.",
+    "legal_tests_applied": [
+      "Statutory interpretation of Section 19 of the Prevention of Corruption Act, 1988, focusing on the mandatory nature of the phrase 'no court shall take cognizance of such offence except with previous sanction'."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the argument that the power to summon an additional accused under Section 319 of the CrPC has primacy over the sanction requirement, stating there is no merit in the contention that sanction is not a mandatory prerequisite when cognizance is taken under Section 319.",
+      "The prosecution failed to follow the correct procedure, which required it to obtain sanction under Section 19 from the appropriate Government before moving an application under Section 319 CrPC.",
+      "The court found that the trial court erred by not insisting on the prior sanction before summoning the additional accused."
+    ],
+    "why_respondent_won": [
+      "The court accepted the respondent's argument that prior sanction is a mandatory prerequisite, holding that Section 19 of the PC Act creates a 'complete bar' on the court's power to take cognizance without it.",
+      "The court found the language of Section 19, specifically the phrase 'shall not take cognizance without sanction,' to be a 'clear and unambiguous' mandate that needs no further elaboration.",
+      "The court affirmed the settled position of law that courts cannot take cognizance against a public servant for offenses under the PC Act, even on an application under Section 319 CrPC, without first following the requirements of Section 19."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[2].case_name": [
+      "p2_70c543bc"
+    ]
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "case_id": "4ebd281c-3d4b-4954-9687-5d34f9c8abc9",
+  "tenant_id": "test_run_7",
+  "agent": "agent_8_loophole_miner",
+  "input_refs": [
+    "ingredient_report.json",
+    "precedent_comparison.json"
+  ],
+  "created_at": "2026-03-20T05:48:12.807503+00:00",
+  "loopholes": [
+    {
+      "type": "weak_evidence",
+      "related_section": "300",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "300.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "300",
+      "reason": "Ingredient 'the act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "300.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "300",
+      "reason": "Ingredient 'the act is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "300.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "300",
+      "reason": "Ingredient 'the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "300.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "300",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing death' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "300.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "300",
+      "reason": "Ingredient 'the act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "300.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "300",
+      "reason": "Ingredient 'the act is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "300.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "300",
+      "reason": "Ingredient 'the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "300.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "304",
+      "reason": "Core ingredient 'actus_reus' (Whoever commits culpable homicide not amounting to murder) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "304.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "304",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "304.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "304",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing such bodily injury as is likely to cause death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "304.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done with the knowledge that it is likely to cause death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "304.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done without any intention to cause death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "304.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done without any intention to cause such bodily injury as is likely to cause death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "304.6",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'Whoever commits culpable homicide not amounting to murder' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "304.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing death' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "304.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing such bodily injury as is likely to cause death' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "304.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done with the knowledge that it is likely to cause death' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "304.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done without any intention to cause death' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "304.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done without any intention to cause such bodily injury as is likely to cause death' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "304.6",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (An act is done by a person who is compelled to do it by threats.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "94.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (The person doing the act did not of his own accord place himself in the situation by which he became subject to such constraint.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "94.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (The act is not murder.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "94.5",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception if compelled by associates to do an offence.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "94.7",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "94",
+      "reason": "Ingredient 'An act is done by a person who is compelled to do it by threats.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "94.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "94",
+      "reason": "Ingredient 'The person doing the act did not of his own accord place himself in the situation by which he became subject to such constraint.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "94.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "94",
+      "reason": "Ingredient 'The act is not murder.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "94.5",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "94",
+      "reason": "Ingredient 'A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception if compelled by associates to do an offence.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "94.7",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "307",
+      "reason": "Core ingredient 'actus_reus' (Whoever does any act) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "307.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "307",
+      "reason": "Core ingredient 'mens_rea' (with such intention or knowledge) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "307.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "307",
+      "reason": "Ingredient 'Whoever does any act' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "307.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "307",
+      "reason": "Ingredient 'with such intention or knowledge' (mens_rea) is not_satisfied. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "307.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "308",
+      "reason": "Core ingredient 'actus_reus' (Whoever does any act) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "308.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "308",
+      "reason": "Core ingredient 'mens_rea' (with such intention or knowledge) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "308.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "308",
+      "reason": "Ingredient 'Whoever does any act' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "308.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "308",
+      "reason": "Ingredient 'with such intention or knowledge' (mens_rea) is not_satisfied. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "308.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "303",
+      "reason": "Core ingredient 'actus_reus' (commits murder) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "303.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "303",
+      "reason": "Ingredient 'commits murder' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "303.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "100",
+      "reason": "Core ingredient 'mens_rea' (The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "100.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "100",
+      "reason": "Ingredient 'The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.' (mens_rea) is not_satisfied. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "100.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "304B",
+      "reason": "Core ingredient 'actus_reus' (dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "304B.8",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304B",
+      "reason": "Ingredient 'dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "304B.8",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "301",
+      "reason": "Ingredient 'A person does something which he intends or knows to be likely to cause death.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "301.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "301",
+      "reason": "Ingredient 'The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "301.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "301",
+      "reason": "Ingredient 'The culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "301.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "301",
+      "reason": "Ingredient 'A person does something which he intends or knows to be likely to cause death.' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "301.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "301",
+      "reason": "Ingredient 'The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "301.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "301",
+      "reason": "Ingredient 'The culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.' (mens_rea) is partial. Precedent supports this failure: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "301.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Missing mens_rea — precedent also found intention/knowledge issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "115",
+      "reason": "Core ingredient 'actus_reus' (Whoever abets the commission of an offence) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "115.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "115",
+      "reason": "Core ingredient 'actus_reus' (An act for which the abettor is liable in consequence of the abetment is done) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "115.5",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "115",
+      "reason": "Ingredient 'Whoever abets the commission of an offence' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "115.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "115",
+      "reason": "Ingredient 'An act for which the abettor is liable in consequence of the abetment is done' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'",
+      "ingredient_id": "115.5",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    }
+  ],
+  "total_loopholes": 52,
+  "by_type": {
+    "contradiction": 0,
+    "precedent_supported_failure": 26,
+    "missing_core_ingredient": 14,
+    "weak_evidence": 12
+  }
+}

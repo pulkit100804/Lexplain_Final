@@ -1,0 +1,99 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment and order passed by the High Court",
+    "high_court_proceedings": "Respondents (originally convicted by the trial court) appealed to the High Court against the trial court's judgment and order of conviction. The two appeals before the Supreme Court originate from Criminal Appeal (For Enhancement) No 906 of 2014 and Criminal Appeal No 1330 of 2014 decided by the High Court.",
+    "supreme_court_posture": "The appellant (original complainant) approached the Supreme Court with the present appeals because of the High Court's judgment and order. The Supreme Court heard the appeals analogously and disposed of them."
+  },
+  "decision": {
+    "appeal_result": "Disposed of",
+    "conviction_status": "Unaltered",
+    "sentence_status": "Unaltered",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the procedure adopted by the High Court, which allowed convicts under Section 325 IPC to avoid a four-year prison sentence by paying a sum of Rs. 2.50 lakh each, is in accordance with the law.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The Sessions Court convicted two respondents for an offence under Section 325 of the Indian Penal Code (IPC) and sentenced them to five years of rigorous imprisonment.",
+          "On appeal, the High Court first reduced the sentence from five years to four years.",
+          "The High Court then added a condition that if each respondent paid Rs. 2.50 lakh as compensation to the victim, they would not have to serve the four-year prison sentence at all."
+        ],
+        "law": [
+          "Section 357 of the Code of Criminal Procedure (Cr.P.C.) allows courts to order compensation for victims.",
+          "However, the Supreme Court established that compensation awarded to a victim is separate from and cannot be a substitute for a substantive prison sentence.",
+          "The Court reasoned that allowing payment of compensation to become a consideration for reducing a sentence would have a \"catastrophic effect\" on the justice system.",
+          "It would create a situation where wealthy criminals could \"buy their way out of justice,\" which defeats the very purpose of criminal proceedings."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court erred by first affirming the conviction and imposing a four-year sentence, and then offering to waive that sentence in exchange for a monetary payment.",
+          "The High Court improperly \"diluted\" the substantive sentence by making it conditional on the payment of compensation.",
+          "By doing this, the High Court incorrectly used the provision for victim compensation (Section 357 Cr.P.C.) as a tool to negate the prison sentence, which is not its intended purpose."
+        ],
+        "conclusion": "The Supreme Court concluded that the procedure adopted by the High Court was not in accordance with the law. It held that once the High Court had upheld the conviction and imposed a four-year prison sentence, it could not then allow the convicts to avoid that sentence by paying compensation."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the procedure adopted by the High Court, which allowed convicts under Section 325 IPC to avoid a four-year prison sentence by paying a sum of Rs. 2.50 lakh each, is in accordance with the law.",
+      "appellant_arguments": [
+        "The appellant's argument is not explicitly detailed in the provided text, but it is implicit in the filing of the appeal. The appellant challenged the High Court's judgment, contending that the procedure of allowing convicts to substitute a prison sentence with a monetary payment was not legally sound."
+      ],
+      "respondent_arguments": [
+        "The High Court committed no error, much less an error of law, in passing its order.",
+        "A significant amount of time, twelve years, has passed since the incident.",
+        "The respondents have complied with the High Court's order by depositing the required amount of Rs 5 lakh with the trial court.",
+        "The appeals lack merit and should be dismissed."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "357",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The provided text does not contain a binding legal rule. It only states the question for consideration, which is whether the procedure adopted by the High Court was in accordance with the law.",
+    "obiter": [
+      "An order under this section may also be made by an Appellate Court or by the High Court or Court of Session when exercising its powers of revision.",
+      "When the issues, parties, and challenged judgment are the same in multiple appeals, they may be heard analogously and disposed of by a common order."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court, having affirmed the conviction and enhanced the sentence to four years rigorous imprisonment, could not then dilute that sentence by allowing the accused to pay compensation in lieu of serving the prison term. The court held that once a sentence is awarded, it cannot be substituted with a monetary payment.",
+    "legal_tests_applied": [
+      "A court cannot, after affirming a conviction and awarding a specific term of imprisonment, subsequently offer the convict an alternative to serve that sentence by paying a monetary compensation."
+    ],
+    "why_appellant_lost": [
+      "While the appellant won on the question of law, the provided text does not contain the court's reasoning for the final decision to dispose of the appeal without altering the sentence, which was the practical relief the appellant sought."
+    ],
+    "why_respondent_won": [
+      "The provided text does not contain the court's reasoning for why it chose not to enforce the four-year prison sentence despite finding the High Court's order legally erroneous."
+    ],
+    "policy_considerations": [
+      "If payment of compensation becomes a consideration for reducing a sentence, it will have a catastrophic effect on the criminal justice administration.",
+      "Allowing sentences to be substituted with compensation would result in criminals with a purse full of money buying their way out of justice, defeating the very purpose of criminal proceedings.",
+      "The victim should not be forgotten in the criminal justice system."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.impugned_order": [
+      "p3_099d63d6",
+      "p4_a4864e67"
+    ],
+    "judicial_reasoning.policy_considerations[0]": [
+      "p10_2d491afb"
+    ]
+  }
+}

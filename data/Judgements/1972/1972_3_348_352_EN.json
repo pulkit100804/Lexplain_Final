@@ -1,0 +1,121 @@
+{
+  "procedural_history": {
+    "originating_court": "District Magistrate (inferred from the text referring to the District Magistrate)",
+    "impugned_order": "Detention order (based on grounds of detention)",
+    "high_court_proceedings": "Not explicitly mentioned in the provided text, but it can be inferred that the petitioner approached the High Court before appealing to the Supreme Court.",
+    "supreme_court_posture": "The petitioner appealed to the Supreme Court challenging the detention order. The Supreme Court allowed the petition and directed the release of the petitioner, finding ground No. 3 of the detention order to be vague."
+  },
+  "decision": {
+    "appeal_result": "The petition succeeds and is allowed.",
+    "conviction_status": "Detention found to be invalid.",
+    "sentence_status": "",
+    "directions": [
+      "The petitioner be released from jail and set at liberty."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a ground for detention is vague and uncertain if it omits to mention the specific locality of the alleged incident.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was detained based on three grounds. The first two grounds specified incidents occurring at the Naihati railway station.",
+          "The third ground alleged that the petitioner and his associates had a violent clash with \"another group\" which created panic in \"the station area\", but it did not specify which station.",
+          "Because the first two grounds mentioned Naihati, the petitioner was under the impression that the third incident also took place in the Naihati station area.",
+          "The state later revealed in an affidavit that the incident in the third ground actually took place at a different railway station."
+        ],
+        "law": [
+          "A person under preventive detention has a right to be provided with grounds that are clear and specific, not vague or uncertain.",
+          "The purpose of providing specific grounds is to enable the detained person to make an effective representation against their detention."
+        ],
+        "application": [
+          "The Court reasoned that the omission of the specific locality in the third ground made it vague.",
+          "This vagueness was compounded by the context of the other two grounds, which led the petitioner to form a \"wrong impression\" that the incident occurred at Naihati station.",
+          "Because the petitioner did not know the actual location of the alleged incident, he was prevented from making an effective representation.",
+          "For example, he could not have argued that he was never at the correct (but unstated) location on the day of the incident."
+        ],
+        "conclusion": "The Supreme Court concluded that the ground for detention was vague because its failure to mention the specific locality of the incident prevented the petitioner from effectively making a representation, thereby invalidating the detention."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a ground for detention is vague and indefinite if it fails to specify the identity of the other group with whom the detenu allegedly clashed, thereby disabling the detenu from making an effective representation.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A ground for the petitioner's detention stated that he and his associates, while armed, \"entered in a clash with another group\".",
+          "The grounds for detention did not specify the name, description, or identity of this \"another group\"."
+        ],
+        "law": [
+          "A ground for preventive detention must not be vague or indefinite.",
+          "The purpose of providing grounds is to enable the detenu to make an effective representation against the detention order."
+        ],
+        "application": [
+          "The Court found that the failure to specify the group with whom the petitioner allegedly clashed made the ground vague and indefinite.",
+          "The Court reasoned that this omission disabled the petitioner from making an effective representation.",
+          "For example, the petitioner was prevented from arguing that the group he supposedly clashed with was actually his own group or a friendly group, which would have made the allegation of a clash impossible or unlikely.",
+          "Without the particulars of the other group, the petitioner could not effectively rebut the allegation."
+        ],
+        "conclusion": "The Supreme Court decided that the failure to specify the identity of the other group with whom the petitioner allegedly clashed rendered the ground for detention vague and indefinite, as it prevented the petitioner from being able to make an effective representation against the detention."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a ground for detention is vague and uncertain if it omits to mention the specific locality of the alleged incident.",
+      "appellant_arguments": [
+        "The third ground of detention was vague and uncertain because it omitted the locality of the alleged incident.",
+        "The absence of a specified location made it impossible for the petitioner to make an effective representation.",
+        "Given that the first two grounds mentioned Naihati railway station, the petitioner was led to believe the third incident also occurred there, which was incorrect.",
+        "This confusion, caused by the omission, prevented the petitioner from effectively refuting the allegation."
+      ],
+      "respondent_arguments": [
+        "The respondent (the state) clarified in a reply affidavit that the incident in the third ground took place at a different railway station, not the Naihati Railway Station area mentioned in the other grounds."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether a ground for detention is vague and indefinite if it fails to specify the identity of the other group with whom the detenu allegedly clashed, thereby disabling the detenu from making an effective representation.",
+      "appellant_arguments": [
+        "The ground of detention was vague and indefinite because it failed to specify the group with whom the petitioner and his associates allegedly clashed.",
+        "This omission disabled the petitioner from making an effective representation.",
+        "For example, the petitioner could not argue that he was never at the location, or that the other group was actually his own or a friendly group, making a clash impossible."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain any arguments from the respondent on this specific issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 32",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A detention order is invalid if the grounds for detention are so vague or indefinite, due to the omission of essential particulars, that they prevent the detained person from making an effective representation.",
+    "obiter": [
+      "When one ground for detention is found to be invalid, it may not be necessary for the court to consider the other grounds."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found the detention order invalid because the third ground of detention was impermissibly vague, with the 'result of those Omissions being to prevent the petitioner from effectively · making representation'. The vagueness stemmed from two key defects. First, the failure to mention the specific locality of the alleged incident, which, in the context of the other two grounds, created a likelihood of the petitioner being under the wrong impression that the incident occurred at the Naihati Railway Station area. This meant the petitioner 'could not make a correct and proper representation'. Second, the court held that the 'omission to specify the group with whom the petitioner and his a5sociates came into clash also renders that ground vague and indefinite, resulting once again in disabling the petitioner from effectively making a representation.'",
+    "legal_tests_applied": [
+      "A ground for detention is legally invalid if it is so vague, uncertain, or couched in such indefinite language that it is impossible for the petitioner to effectively make a representation against it. If an omission in the grounds of detention prevents the detenu from making an effective representation, the detention order must be found to be invalid."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court's reasoning is rooted in the fundamental principle of procedural fairness that a person subjected to preventive detention must be provided with grounds that are clear and specific enough to allow for a meaningful and effective opportunity to make a representation against it. Vague or indefinite grounds undermine this crucial constitutional safeguard."
+    ]
+  },
+  "evidence_map": {}
+}

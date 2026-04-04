@@ -1,0 +1,81 @@
+{
+  "procedural_history": {
+    "originating_court": "This information cannot be determined from the provided text. The cases originated as Writ Petitions directly in the Supreme Court.",
+    "impugned_order": "This information cannot be determined from the provided text. The cases originated as Writ Petitions directly in the Supreme Court, so there was no lower court order being challenged.",
+    "high_court_proceedings": "This information cannot be determined from the provided text. The cases originated as Writ Petitions directly in the Supreme Court, so there were no High Court proceedings.",
+    "supreme_court_posture": "The Supreme Court was approached because the cases were filed as Writ Petitions directly in the Supreme Court. The Court disposed of the petitions concerning the issues they addressed in the judgment."
+  },
+  "decision": {
+    "appeal_result": "Disposed of",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "In view of the above, we dispose of these petitions as far as issues dealt with hereinabove are concerned."
+    ]
+  },
+  "issues": [],
+  "arguments": [],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 32",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 142",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "Section 327(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Punjab v. Gurmit Singh",
+        "citation": "(1996) 2 SCC 384",
+        "principle": "The printing or publication of the judgment of any High Court or the Supreme Court does not amount to an offence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Bhupinder Sharma v. State of Himachal Pradesh",
+        "citation": "(2003) 8 SCC 551",
+        "principle": "The printing or publication of the judgment of any High Court or the Supreme Court does not amount to an offence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "It is neither feasible nor advisable to lay down a clear and exhaustive definition of the phrase 'interest of the child'; its meaning must be determined by the court in each case based on its own factual scenario.",
+    "obiter": [
+      "Until an institution or organisation lays down clear rules or criteria, the directions issued by the court shall prevail."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court affirmed the legislative intent to strictly prohibit the disclosure of a child victim's identity, directly or indirectly, by interpreting statutory language like 'any other particulars' with the 'widest amplitude' to protect the child's privacy and reputation from social ostracism. Concurrently, the court declined to provide a rigid definition for the 'interest of the child,' holding that it is neither feasible nor advisable, and must be determined by the Special Court on a case-by-case basis according to the specific factual scenario.",
+    "legal_tests_applied": [
+      "Legislative Intent Analysis: The court determined that the intention of the legislature was that the privacy and reputation of the child should not be harmed and that the victim should not be identifiable.",
+      "Broad Statutory Interpretation: The court held that the phrase 'any other particulars' must be given the 'widest amplitude' and cannot be read narrowly or 'ejusdem generis' to ensure any information that could lead to identification is covered.",
+      "Case-by-Case Factual Adjudication: For determining the 'interest of the child,' the court mandated that 'Each case will have to be dealt within its own factual scenario,' rejecting a one-size-fits-all definition."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Preventing Social Ostracism and Discrimination: The court emphasized the 'social object of preventing ostracising of victims,' noting that victims of such offenses should not be identifiable so 'they do not face any hostile discrimination or harassment in the future.'",
+      "Protecting Child's Privacy and Reputation: The court identified that 'the intention of the legislature is that the privacy and reputation of the child is not harmed.'",
+      "Preserving Judicial Discretion: The court concluded it is 'neither feasible nor would it be advisable to clearly lay down what is the meaning of the phrase “interest of the child”' in order 'not to tie down the hands of the Special Court, who may have to deal with such cases.'",
+      "Media Responsibility: The court articulated that 'a duty has been cast upon the media to ensure that it does nothing and gives no information which could directly or indirectly lead to the identity of the child being disclosed.'"
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p33_725d5aae"
+    ],
+    "citations.cases[1].case_name": [
+      "p23_5914c4e9"
+    ]
+  }
+}

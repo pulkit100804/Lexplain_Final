@@ -1,0 +1,79 @@
+{
+  "procedural_history": {
+    "originating_court": "Unknown (but implied to be lower than a High Court, given the appeal to the Supreme Court)",
+    "impugned_order": "Unknown (but implied to be a judgment or order that the appellants disagreed with)",
+    "high_court_proceedings": "Unknown (but implied that the High Court issued a judgement or order that the Appellants disagreed with)",
+    "supreme_court_posture": "The Appellants approached the Supreme Court to challenge the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Disposed of",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "No costs."
+    ]
+  },
+  "issues": [],
+  "arguments": [
+    {
+      "issue_text": "Whether the complaint met the procedural requirements for a representative suit before the National Commission.",
+      "appellant_arguments": [
+        "The appellants were unwilling to proceed with the procedural requirements for a representative complaint under Section 13(6) of the Act and Order 1 Rule 8 CPC because the entire process was prohibitive in terms of cost."
+      ],
+      "respondent_arguments": [
+        "The National Commission correctly and rightly applied the precedent set in the Ambrish Kumar case.",
+        "The view taken by the Commission was the only possible one based on the text of the relevant legal provisions."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Act (unspecified in text)",
+        "section": "2(1)(b)(iv)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (unspecified in text)",
+        "section": "13(6)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Civil Procedure, 1908",
+        "section": "Order 1, Rule 8",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The ordinary rule of construction is that a provision of a statute must be construed in accordance with the language used therein unless there are compelling reasons, such as, where a literal construction would reduce the provision to absurdity or prevent the manifest intention of the legislature from being carried out.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "A complaint filed under Section 12(1)(c) of the Consumer Protection Act on behalf of multiple consumers with the same interest is a representative or class action that must comply with the procedural requirements of Section 13(6) of the Act and Order I Rule 8 of the CPC. The court rejected the argument that Section 12(1)(c) creates a separate category of group complaint that is exempt from these formal procedures, finding such an interpretation would go against the express mandate of the statute.",
+    "legal_tests_applied": [
+      "Statutory interpretation of Section 12(1)(c) and Section 13(6) of the Consumer Protection Act, read in conjunction with Order I Rule 8 of the Code of Civil Procedure, to determine legislative intent."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the appellant's submission that Section 12(1)(c) creates a different category of group action distinct from a representative suit under Section 13(6) and Order I Rule 8 CPC, stating, 'In our considered view that certainly is not the intent. If we accept the submission, we would be going against the express mandate of the statute.'",
+      "The appellants explicitly stated their unwillingness to comply with the procedural requirements for a representative suit under Order 1 Rule 8 CPC due to the prohibitive costs involved.",
+      "The court found that the appellant's interpretation would improperly allow consumers to aggregate claims solely to file an action in a forum with a higher pecuniary jurisdiction, which would otherwise not be permissible."
+    ],
+    "why_respondent_won": [
+      "The court affirmed the National Commission's application of the precedent in Ambrish Kumar Shukla, which held that a complaint under Section 12(1)(c) must be filed on behalf of or for the benefit of all persons having a common grievance.",
+      "The court agreed with the respondent's argument that the National Commission's interpretation was 'the only possible view, going by the text of the relevant provisions.'",
+      "The court's interpretation of the statutory language, specifically the phrases 'all consumers so interested' and 'on behalf of or for the benefit of all consumers so interested' in Section 12(1)(c), was found to leave 'no doubt that such a complaint must necessarily be filed on behalf of or for the benefit of all the persons having a common grievance.'"
+    ],
+    "policy_considerations": [
+      "The primary purpose of a class action under Section 12(1)(c) is to facilitate a decision for a large number of consumers without each filing an individual complaint. Allowing a complaint for only a subset of interested consumers would defeat this legislative intent, as the remaining aggrieved persons would be forced to file separate actions.",
+      "Accepting the appellant's argument would create a procedural loophole allowing consumers to maintain an action in a forum with higher pecuniary jurisdiction where, but for such a collective cause of action, the action would not lie."
+    ]
+  },
+  "evidence_map": {
+    "ratio_decidendi.ratio": [
+      "p12_d6100a6e"
+    ]
+  }
+}

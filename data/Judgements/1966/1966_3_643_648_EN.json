@@ -1,0 +1,150 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge of Patna",
+    "impugned_order": "Judgment and order dated September 18, 1963 of the Patna High Court in Criminal Appeal No. 368 of 1961.",
+    "high_court_proceedings": "The Additional Sessions Judge of Patna convicted the appellant (along with others) under various sections of the Indian Penal Code, including 302/149 (murder with common intention). The appellants (Lakhan and Indo) along with 8 others appealed to the Patna High Court. The High Court allowed the appeal of the 8 persons but dismissed the appeal of the appellants with modifications to the conviction.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave, challenging the Patna High Court's judgment."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Modified",
+    "sentence_status": "Modified",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an appellate court can alter a conviction from vicarious liability (under ss. 302/149 IPC) to a conviction for a substantive offence (under s. 326 IPC) for the same overt act, when the accused had been acquitted of the substantive charge by the trial court and the State had not appealed against that acquittal.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused (Lakhan) was charged with a substantive offence under s. 302 IPC (murder) and a vicarious liability offence under ss. 302/149 IPC (murder as a member of an unlawful assembly).",
+          "The trial court acquitted him of the substantive charge (s. 302) but convicted him of the vicarious liability charge (ss. 302/149).",
+          "The State did not file an appeal against the acquittal under s. 302.",
+          "The accused appealed to the High Court against his conviction under ss. 302/149.",
+          "In the accused's appeal, the High Court altered the conviction from the vicarious offence (ss. 302/149) to a substantive offence (s. 326 IPC, a lesser but related offence) for the same overt act."
+        ],
+        "law": [
+          "Under Section 423(1)(b) of the Code of Criminal Procedure, an appellate court hearing an appeal against a conviction has the power to alter the finding.",
+          "However, this power is confined to the conviction under appeal. It does not extend to reversing an order of acquittal for a different charge, especially when the State has not appealed that acquittal.",
+          "The precedent set in *State of Andhra Pradesh v. Thadi Narayana* establishes that an appellate court cannot use its power in an appeal against conviction to convert an order of acquittal into one of conviction.",
+          "There is a clear legal distinction between a charge for a substantive offence (like s. 302 or s. 326 IPC) and a charge for constructive/vicarious liability (under s. 149 IPC)."
+        ],
+        "application": [
+          "The Supreme Court determined that the only issue before the High Court was the accused's appeal against his conviction for vicarious liability (ss. 302/149). The trial court's acquittal on the substantive charge (s. 302) was final because the State had not appealed it.",
+          "By altering the conviction from a vicarious one (ss. 302/149) to a substantive one (s. 326), the High Court effectively reversed the trial court's acquittal on the substantive charge for the same act.",
+          "The Court reasoned that this action amounted to converting an acquittal into a conviction, which is not permissible under s. 423(1)(b) when hearing an appeal from the convicted person. Such a reversal can only happen if the State appeals the acquittal or through the High Court's revisional jurisdiction (s. 439 CrPC).",
+          "The Court rejected the High Court's view that s. 149 IPC is not a substantive offence, emphasizing the legal distinction between direct and vicarious liability. Therefore, changing the conviction from one to the other was not a simple alteration but an impermissible conversion of an acquittal."
+        ],
+        "conclusion": "The Supreme Court held that the High Court acted without jurisdiction. An appellate court, while hearing an appeal filed by the accused against a conviction for vicarious liability, cannot alter that conviction to a substantive offence for which the accused had been acquitted by the trial court, if the State has not appealed the acquittal."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution had failed to establish the other charges for which the appellants were convicted.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants' counsel contended that the prosecution had not successfully established the other charges for which the appellants had been convicted."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court heard the arguments presented by the learned counsel on this issue."
+        ],
+        "conclusion": "The Court was not persuaded by the appellants' argument, stating it was \"not satisfied that the convictions on the other charges are vitiated by any illegality.\" As a result, the Court saw \"no reason for interfering with the judgment of the High Court\" on those charges and rejected this part of the appeal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an appellate court can alter a conviction from vicarious liability (under ss. 302/149 IPC) to a conviction for a substantive offence (under s. 326 IPC) for the same overt act, when the accused had been acquitted of the substantive charge by the trial court and the State had not appealed against that acquittal.",
+      "appellant_arguments": [
+        "The High Court acted improperly by altering the conviction from a vicarious liability offence (s. 302/149 IPC) to a substantive offence (s. 326 IPC). This was not permissible because the appellant had already been acquitted of the direct, substantive charge (s. 302 IPC) by the trial court, and the State had not challenged that acquittal by filing an appeal."
+      ],
+      "respondent_arguments": [
+        "The High Court was competent to alter the conviction from a constructive offence (s. 302/149 IPC) to a substantive offence (s. 326 IPC) in an appeal filed by the accused, as part of its power to 'alter the finding'."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the prosecution had failed to establish the other charges for which the appellants were convicted.",
+      "appellant_arguments": [
+        "The prosecution had not been able to establish the other charges for which the appellants were convicted."
+      ],
+      "respondent_arguments": [
+        "The prosecution had successfully established the other charges, and the convictions were not vitiated by any illegality."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "423(1)(a)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Barendra Kumar Ghosh v. Emperor",
+        "citation": "I.L.R. 52 Cal. 197",
+        "principle": "Section 149 of the Indian Penal Code is not otiose and creates a specific and distinct offence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Queen v. Sabid Ali and Others",
+        "citation": "[1873] 20 W.R. (Cr.) 5",
+        "principle": "Cited in support of the argument that Section 149 of the Indian Penal Code creates a specific and distinct offence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Nanak Chand v. The State of Punjab",
+        "citation": "[1955] 1 S.C.R. 1201",
+        "principle": "To convict an accused under s. 302 of the Indian Penal Code when they were charged under s. 302 read with s. 149 is illegal, as it amounts to a conviction for an offence with which they had not been charged.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Suraj Pal v. The State of Uttar Pradesh",
+        "citation": "[1955] 1 S.C.R. 1332",
+        "principle": "To reiterate the legal distinction between a charge under s. 302, I.P.C. and a charge of constructive liability under ss. 302/149, I.P.C.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Section 149 of the Indian Penal Code creates a specific and distinct offence. A charge for a substantive offence (direct liability) is legally distinct from a charge of constructive liability under Section 149. An appellate court cannot alter a conviction from vicarious liability to one of direct liability if the accused was acquitted of the direct charge by the trial court, as this amounts to a conviction for an offence with which the accused was not charged.",
+    "obiter": [
+      "Section 149 is not otiose because it creates a specific and distinct offence, postulating an assembly of five or more persons with a common object and the commission of an offence by one member in prosecution of that object."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court held that an appellate court cannot alter a conviction from vicarious liability (under s. 302/149 IPC) to a substantive offence (under s. 326 IPC) for the same overt act when the accused had been acquitted of the direct, substantive charge by the trial court and the State had not appealed that acquittal. This is because a charge for a substantive offence is legally distinct from a charge for constructive liability, and Section 149 IPC creates a \"specific and distinct offence,\" not merely an enabling provision for imposing vicarious liability. The High Court's view to the contrary was incorrect.",
+    "legal_tests_applied": [
+      "The legal distinction between a charge for a substantive offence (e.g., s. 302 IPC) and a charge for constructive liability (e.g., ss. 302/149 IPC).",
+      "The principle, established in precedent like Barendra Kumar Ghosh v. Emperor and Nanak Chand v. The State of Punjab, that Section 149 of the Indian Penal Code creates a \"specific and distinct offence\" and is not merely an enabling section for vicarious liability."
+    ],
+    "why_appellant_lost": [
+      "Regarding the challenge to the other convictions, the court, after hearing counsel, was \"not satisfied that the convictions on the other charges are vitiated by any illegality\" and saw \"no reason for interfering with the judgment of the High Court.\""
+    ],
+    "why_respondent_won": [
+      "The State's position on the other charges was upheld because the court found no illegality vitiating those convictions, stating, \"we are not satisfied that the convictions on the other charges are vitiated by any illegality and we see no reason for interfering with the judgment of the High Court.\""
+    ],
+    "policy_considerations": [
+      "The ruling upholds the principle of finality for an unappealed acquittal. An accused cannot be convicted by an appellate court for a substantive offence for which they were acquitted at trial, unless the State specifically challenges that acquittal. This protects an accused from being convicted of an offence for which an acquittal stands, ensuring procedural fairness."
+    ]
+  },
+  "evidence_map": {}
+}

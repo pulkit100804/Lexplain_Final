@@ -1,0 +1,86 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Sessions",
+    "impugned_order": "Judgment and order dated 11.01.2011 of the High Court of Bombay, Bench at Aurangabad in Criminal Appeal No. 246 of 2009, which confirmed the order of conviction and sentence passed by the Court of Sessions.",
+    "high_court_proceedings": "The appellants, along with others, preferred Criminal Appeal Nos. 246 and 250 of 2009 before the High Court, challenging the judgment and order dated 09.04.2009. A Division Bench of the High Court, vide common judgment and order dated 11.01.2011, confirmed the order of conviction and sentence passed by the Court of Sessions against the appellants.",
+    "supreme_court_posture": "Being aggrieved by the order dated 11.01.2011, the appellants preferred appeals by way of special leave before the Supreme Court. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Conviction upheld",
+    "sentence_status": "Sentence upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Evidentiary value of the opinion of a medical witness.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were convicted of murder based on the testimony of eyewitnesses (PW-5 and PW-8).",
+          "The appellants challenged the conviction, arguing that the eyewitness testimony was unreliable.",
+          "Their specific challenge was based on a discrepancy with the medical evidence: an eyewitness (PW-8) stated he ate 'Bhel' with the deceased right before the incident, but the post-mortem report did not find any food particles in the deceased's stomach."
+        ],
+        "law": [
+          "The evidence of a medical person is considered an opinion that serves to lend corroboration to direct evidence.",
+          "Medical opinion is admissible but is not sacrosanct or absolute; the court has the discretion to determine the weight it should be given.",
+          "Where an eyewitness account is found to be credible and trustworthy, it will be given precedence over a medical opinion that points to alternative possibilities or minor inconsistencies.",
+          "The contents of a stomach are not always a determinative test for facts, as digestion times can vary based on many factors."
+        ],
+        "application": [
+          "The Court found the testimony of the eyewitnesses (PW-5 and PW-8) to be credible and trustworthy.",
+          "It determined that the core of the medical evidence actually corroborated the eyewitness accounts. The post-mortem, conducted by doctor PW-10, concluded that death was caused by a sharp-edged weapon, possibly a sword, which aligned with the witnesses' statements that the appellants used swords and iron pipes.",
+          "The Court dismissed the appellants' argument about the absence of 'Bhel' in the deceased's stomach, stating that digestion varies and the absence of food particles was not a significant enough contradiction to discredit the entire eyewitness testimony.",
+          "Applying the principle that credible direct evidence outweighs conflicting medical opinion on minor points, the Court prioritized the trustworthy eyewitness accounts over the alleged discrepancy."
+        ],
+        "conclusion": "The Supreme Court held that medical evidence is primarily corroborative. Since the eyewitness testimony was found to be credible and was supported by the medical evidence on the essential facts (such as the cause of death and type of weapon), it could not be disregarded due to a minor, inconclusive discrepancy like the absence of food in the deceased's stomach."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Evidentiary value of the opinion of a medical witness.",
+      "appellant_arguments": [
+        "The appellants argued that a discrepancy between an eyewitness's testimony and the medical evidence casts doubt on the entire incident as narrated by the witness. Specifically, a prosecution witness (PW-8) stated he ate 'Bhel' with the deceased immediately before the incident, but the post-mortem examination did not find any evidence of this. The appellants contended this showed the witness's testimony was an afterthought and unreliable."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the evidence of the eyewitnesses was trustworthy and fully corroborated by the medical evidence regarding the cause of death (injuries from swords and iron pipes). They maintained that the witnesses' testimony should not be dismissed merely because of minor contradictions."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The evidence of witnesses cannot be brushed aside merely because of some minor contradictions, if the evidence and testimonies of the witnesses are otherwise trustworthy. Where there is positive direct evidence about the time of an occurrence, it is not open to the court to speculate about the time.",
+    "obiter": [
+      "Medical opinion is admissible in evidence like all other types of evidence and there is no hard-and-fast rule with regard to it."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The evidence of a medical professional is merely an opinion that serves to corroborate direct evidence. Where an eyewitness's account is found to be credible and trustworthy, it will not be dismissed due to minor contradictions or alternative possibilities suggested by medical opinion. In this case, the medical evidence regarding the cause of death fully corroborated the version of events provided by the trustworthy eyewitnesses.",
+    "legal_tests_applied": [
+      "Where the eye witnesses' account is found credible and trustworthy, medical opinion pointing to alternative possibilities is not accepted as conclusive."
+    ],
+    "why_appellant_lost": [
+      "The court found the evidence of the eyewitnesses (PWs 5, 8 and 12) to be trustworthy and fully corroborated with each other regarding the involvement of the appellants.",
+      "The court held that the testimonies of credible witnesses cannot be brushed aside merely because of some minor contradictions.",
+      "The court explicitly stated that medical opinion is not conclusive and cannot override credible and trustworthy direct evidence from eyewitnesses."
+    ],
+    "why_respondent_won": [
+      "The court found that the medical evidence given by the doctor (PW-10) who conducted the post-mortem fully corroborated the eyewitnesses' (PW-5 and PW-8) version that the appellants caused the death using swords and iron pipes.",
+      "The post-mortem report confirmed that the death was caused by a sharp-edged weapon, consistent with the eyewitness testimony.",
+      "The court deemed the eyewitness testimonies to be trustworthy, making them the primary evidence which the medical opinion supported."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[0]": [
+      "p11_c83474e1"
+    ]
+  }
+}

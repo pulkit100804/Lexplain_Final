@@ -1,0 +1,128 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge, Dhulia in Sessions Case No. 102 of 1974",
+    "impugned_order": "Judgment of the High Court of Bombay in Criminal Appeal No. 467 of 1975, dated 21st December, 1979.",
+    "high_court_proceedings": "The High Court of Bombay reversed the judgment of acquittal passed by the Sessions Court and convicted Ramji Surjya Padvi and Bhikji Surjya Padvi (accused Nos. 2 and 4) under section 302/34 of the Indian Penal Code, sentencing them to rigorous imprisonment for life.",
+    "supreme_court_posture": "Ramji Surjya Padvi and Bhikji Surjya Padvi (accused Nos. 2 and 4) appealed to the Supreme Court under section 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 (Act No. 28 of 1970) against the High Court's judgment."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": [
+      "Accused No. 2 and accused No. 4, the appellants herein shall be released forthwith."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "The principle that an appellate court should be slow to interfere with a judgment of acquittal, especially when two views on the evidence are reasonably possible.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court acquitted the accused, citing several issues with the prosecution's case.",
+          "These issues included a delay of nearly 24 hours in reporting the crime to the police, discrepancies in the evidence of the sole eyewitness (who was also a relative of the deceased), and weak evidence for motive.",
+          "On appeal, the High Court reversed the trial court's decision, convicted the appellants, and sentenced them to life imprisonment.",
+          "The case then came before the Supreme Court."
+        ],
+        "law": [
+          "The Supreme Court articulated the legal principle that while an appellate court's jurisdiction is co-extensive with the trial court's, it must act with caution when hearing an appeal against an acquittal.",
+          "Specifically, if two views on the evidence are reasonably possible, the appellate court should be slow to interfere with the trial court's judgment of acquittal.",
+          "The reasons for reversing an acquittal must be cogent, and the appellate court cannot simply brush aside the trial court's appreciation of the evidence."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court had not given due care to this governing principle.",
+          "It criticized the High Court for over-simplifying and overlooking important aspects of the case that the trial court had considered, such as the inordinate and unconvincing 24-hour delay in reporting the incident to the police.",
+          "The Supreme Court noted that the trial court had identified important discrepancies and that the sole eyewitness's testimony required corroboration, which was lacking.",
+          "By failing to properly address these issues, the High Court interfered in a case where the trial court's view (acquittal) was a reasonably possible one based on the evidence."
+        ],
+        "conclusion": "The Supreme Court accepted the principle that an appellate court should be slow to interfere with a judgment of acquittal. It concluded that the High Court had erred by reversing the acquittal without providing cogent reasons, especially since the trial court's view was a reasonably possible one based on the evidence."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "The rule of prudence that corroboration should be sought for the testimony of a sole eyewitness, particularly when the witness is closely related to the deceased.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case relied on the testimony of a single eyewitness, P.W. 2 (Surjabai), who was closely related to the deceased.",
+          "The trial court had acquitted the accused, finding P.W. 2's testimony to be unbelievable and full of contradictions.",
+          "The High Court reversed the acquittal and convicted the accused.",
+          "The Supreme Court noted several issues with the prosecution's case, including an inordinate delay of nearly 24 hours in reporting the crime to the police, despite the outpost being only three miles away.",
+          "There were also different versions of how the information was first lodged with the police, and earlier written statements by P.W. 2 appeared to have been suppressed."
+        ],
+        "law": [
+          "The Court affirmed the general principle that a conviction can be based on the testimony of a sole eyewitness if that witness is found to be honest and truthful.",
+          "However, the Court also established a crucial 'rule of prudence': when the sole eyewitness is also closely related to the deceased, corroboration should be sought from other prosecution evidence to support their testimony."
+        ],
+        "application": [
+          "The Supreme Court applied this rule of prudence to the testimony of the sole eyewitness, P.W. 2.",
+          "It found that her evidence required corroboration due to several weaknesses.",
+          "The Court highlighted the \"inordinate delay\" in reporting the crime and found the prosecution's explanation for it to be \"hardly convincing.\"",
+          "Furthermore, the Court pointed to \"inherent inconsistencies\" in her evidence and the apparent suppression of her earlier statements.",
+          "Because of these significant issues, the Court determined that her testimony alone was not reliable enough to sustain a conviction."
+        ],
+        "conclusion": "The Supreme Court concluded that it would be unsafe to convict the appellants based on the uncorroborated evidence of the sole, related eyewitness, P.W. 2, given the significant inconsistencies and the unexplained delay in reporting the crime. Therefore, the Court accepted and applied the rule of prudence requiring corroboration in such circumstances."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "The principle that an appellate court should be slow to interfere with a judgment of acquittal, especially when two views on the evidence are reasonably possible.",
+      "appellant_arguments": [
+        "As it was possible to have two different opinions about the guilt of the accused based on the evidence, the High Court should not have reversed the judgment of acquittal passed by the Sessions Court."
+      ],
+      "respondent_arguments": [
+        "The High Court was justified in reversing the acquittal, implying that it believed the trial court's view was not a reasonably possible one and that its own view was the only correct one based on the evidence."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "The rule of prudence that corroboration should be sought for the testimony of a sole eyewitness, particularly when the witness is closely related to the deceased.",
+      "appellant_arguments": [
+        "The prosecution's case was concocted and relied on a sole eyewitness (the deceased's wife), whose testimony should be treated with caution and requires corroboration."
+      ],
+      "respondent_arguments": [
+        "A conviction can be based on the testimony of a single eyewitness if the court finds that witness to be honest and truthful, making corroboration unnecessary."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970",
+        "section": "2",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Indian Penal Code",
+        "section": "302/34",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "In an appeal against a judgment of acquittal, an appellate court cannot disregard the trial court's appreciation of the evidence, and if two views are reasonably possible, the acquittal should not be reversed. While a conviction can be based on the testimony of a sole eyewitness, prudence requires that corroboration be sought from other prosecution evidence, particularly when the witness is closely related to the deceased.",
+    "obiter": [
+      "The motive suggested by the prosecution does not appear to be strong enough for the accused joining together to commit the murder of the deceased."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court was in error in upsetting the verdict of acquittal recorded by the trial court. It failed to bestow due care on the principles governing its jurisdiction in an appeal against acquittal, particularly the rule that if two views are reasonably possible, it should be slow to interfere. The conviction could not be sustained as it was unsafe to act upon the evidence of the sole eyewitness (P.W. 2), whose testimony was undermined by an inordinate and unconvincingly explained delay in giving the first information to the police, the existence of several different versions of the event, and the apparent suppression of earlier written versions of her account.",
+    "legal_tests_applied": [
+      "In the case of an appeal against a judgment of acquittal, an appellate court cannot totally brush aside the appreciation of the evidence by the trial court. The reasons for reversing a judgment of acquittal should be cogent and if two views are reasonably possible, the appellate court should be slow in interfering with the judgment of the trial court, even if it is possible for it to take a different view after a process of laborious reasoning.",
+      "While a conviction can be based on a sole eyewitness if the court regards the witness as honest and truthful, prudence requires that some corroboration should be sought from other prosecution evidence in support of the testimony of a solitary witness, particularly where such witness also happens to be closely related to the deceased and the accused are those against whom some motive or ill will is suggested."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "To ensure the stability and respect for trial court judgments, appellate courts must exercise caution when reviewing acquittals, recognizing that the trial judge has the advantage of observing the witnesses.",
+      "To prevent wrongful convictions based on potentially unreliable or biased testimony, a high degree of scrutiny and a prudent search for corroboration are necessary when the entire prosecution case rests on a single, interested eyewitness."
+    ]
+  },
+  "evidence_map": {}
+}

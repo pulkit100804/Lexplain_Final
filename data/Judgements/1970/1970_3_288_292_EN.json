@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "District Magistrate of Maida",
+    "impugned_order": "Order of detention under s. 3(2) of the Preventive Detention Act, 1950, made on June 2, 1969, and executed on June 3, 1969.",
+    "high_court_proceedings": "The text does not mention any High Court proceedings. The petitioner directly filed a petition under Article 32 of the Constitution of India in the Supreme Court.",
+    "supreme_court_posture": "The petitioner, Arun Ghosh, filed a writ petition (Writ Petition No. 287 of 1969) in the Supreme Court under Article 32 of the Constitution of India, seeking a writ of habeas corpus. He challenged his detention, arguing that the grounds furnished to him did not relate to the maintenance of public order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Detention set aside",
+    "sentence_status": "Detention set aside",
+    "directions": [
+      "He is entitled to be released and we order accordingly.",
+      "He will be released forthwith unless required in some other connection."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the petitioner's actions, which led to his detention, constituted a threat to 'public order' or were merely a breach of 'law and order'.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was detained under the Preventive Detention Act for actions deemed 'prejudicial to the maintenance of public order'.",
+          "His specific actions included molesting two young ladies, threatening their father's life, and assaulting two other individuals.",
+          "The Court noted that all these acts were directed against specific individuals and the members of one particular family, not against the community or women in general."
+        ],
+        "law": [
+          "The Court distinguished between 'law and order' and 'public order'.",
+          "It established that the key difference is a 'question of degree and the extent of the reach of the act upon society'.",
+          "An act threatens 'public order' only if it disturbs the 'even tempo and current of life of the community'.",
+          "Acts that only affect specific individuals without disturbing the general tranquillity of society are considered breaches of 'law and order'."
+        ],
+        "application": [
+          "The Court applied its legal test to the petitioner's conduct.",
+          "It determined that his actions, while reprehensible, were targeted at individuals and did not have a wider impact on the community.",
+          "Because the acts were not directed at the public at large, they did not disturb the 'even tempo' of life in the locality.",
+          "The Court reasoned that these were separate acts affecting individuals, which did not add up to a disturbance of public order."
+        ],
+        "conclusion": "The Supreme Court concluded that the petitioner's actions were a breach of 'law and order' but did not constitute a threat to 'public order'. Therefore, his detention under the Preventive Detention Act on the grounds of maintaining public order was not justified, and he was entitled to be released."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the petitioner's actions, which led to his detention, constituted a threat to 'public order' or were merely a breach of 'law and order'.",
+      "appellant_arguments": [
+        "The grounds furnished for the detention, which include teasing a woman and assaulting her father, do not relate to the maintenance of 'public order' and therefore do not justify preventive detention."
+      ],
+      "respondent_arguments": [
+        "The petitioner's 'anti-social activities', which included rioting, assault, and harassment of young ladies in a public street, were prejudicial to the maintenance of 'public order', thus justifying the detention order."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Preventive Detention Act, 1950",
+        "section": "s. 3(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Dr. Ram Manohar Lohia v. State of Bihar",
+        "citation": "[1966] I S.C.R. 709",
+        "principle": "The distinction between a breach of 'law and order' and an act that disturbs 'public order'. The test is whether an act leads to a disturbance of the even tempo and current of life of the community (public order), or if it merely affects an individual without affecting the tranquillity of society (law and order).",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The distinction between a breach of 'law and order' and an act likely to cause a disturbance of 'public order' is a question of degree and the extent of the act's reach upon society. The test is whether the act leads to a disturbance of the even tempo and current of life of the community, thus amounting to a disturbance of public order, or if it merely affects an individual without affecting the tranquillity of society.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "In the present case, the petitioner's acts of molestation were specifically directed against the family of Phanindra C. Das and not against women in the locality in general. Similarly, the assaults were on individuals. The court found that while this conduct may be reprehensible, it does not rise to the level of a situation where the community at large was being disturbed. Therefore, the acts did not constitute a breach of public order or the likelihood of a breach of public order, but were rather individual acts affecting specific people.",
+    "legal_tests_applied": [
+      "The question whether a man has only committed a breach of law and order or has acted in a manner likely to cause a disturbance of the public order is a question of degree and the extent of the reach of the act upon the society.",
+      "The test is: Does it lead to a disturbance of the even tempo and current of life of the community so as to amount to a disturbance of the public order, or, does it affect merely an individual without affecting the tranquillity of society."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court distinguishes between 'law and order' and 'public order' to ensure that preventive detention is not used for ordinary crimes. 'Public order' is defined as the 'even tempo of the life of the community,' and a disturbance to it must affect the community at large, not just individuals. An act's gravity is determined not just by its quality but by its potentiality and its effect on public tranquillity. For example, harassing specific individuals is a 'law and order' issue, while randomly molesting women in lonely places, causing widespread fear and disrupting the community's normal life, would be a 'public order' issue."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p3_443657fd"
+    ]
+  }
+}

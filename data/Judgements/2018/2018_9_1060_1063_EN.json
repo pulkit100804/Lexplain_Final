@@ -1,0 +1,88 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the conviction under Section 8 of the Prevention of Corruption Act)",
+    "impugned_order": "Judgment and Order dated 09.09.2005 of the High Court of Judicature, Andhra Pradesh at Hyderabad in Criminal Appeal No.421 of 2000.",
+    "high_court_proceedings": "The High Court of Judicature, Andhra Pradesh at Hyderabad heard Criminal Appeal No. 421 of 2000. The outcome of the appeal is not explicitly stated, but since the Supreme Court appeal is against a conviction under Section 8 of the Prevention of Corruption Act, it can be inferred that the High Court upheld the conviction.",
+    "supreme_court_posture": "The appellant, being aggrieved by the conviction under Section 8 of the Prevention of Corruption Act (presumably upheld by the High Court), preferred this appeal (Criminal Appeal No. 2159 of 2006) to the Supreme Court. The Supreme Court allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "Conviction set aside",
+    "sentence_status": "Sentence set aside",
+    "directions": [
+      "The appellant is on bail. His bail bonds shall stand discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a conviction under Section 8 of the Prevention of Corruption Act, 1988, can be sustained when the prosecution's evidence is vague as to for whom the gratification was demanded and fails to establish that the amount was received to induce a public servant.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted under Section 8 of the Prevention of Corruption Act, 1988.",
+          "A complainant (PW-4) was advised to contact the appellant to get a confirmed airline ticket.",
+          "The appellant, who was not a public servant, demanded Rs. 2,100 for a ticket with an actual fare of Rs. 1,646, stating he could arrange a confirmed seat despite a long waiting list."
+        ],
+        "law": [
+          "To secure a conviction under Section 8 of the Prevention of Corruption Act, the prosecution must prove that the accused accepted gratification as a motive or reward for inducing, by corrupt or illegal means, a 'public servant' to perform an official act or show favor.",
+          "Even if the person receiving the money is not a public servant, the prosecution must establish that the amount was received for the specific purpose of inducing a public servant."
+        ],
+        "application": [
+          "The Court found the prosecution's evidence to be vague as to for whom the appellant had demanded the extra money.",
+          "The prosecution failed to prove whether the person for whom the money was intended was, in fact, a public servant.",
+          "The Court reasoned that without convincing evidence showing the money was received to induce a public servant to confirm the ticket, a key element of the offense was missing.",
+          "It was noted that the intermediary for confirming the ticket could have been a public servant, a travel agency, or someone else, and the prosecution did not clarify this."
+        ],
+        "conclusion": "The Supreme Court concluded that because the prosecution's evidence failed to establish that the money was received to induce a public servant, a necessary element of the offense under Section 8 was not proven. Therefore, the conviction could not be sustained, and the appellant was acquitted."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a conviction under Section 8 of the Prevention of Corruption Act, 1988, can be sustained when the prosecution's evidence is vague as to for whom the gratification was demanded and fails to establish that the amount was received to induce a public servant.",
+      "appellant_arguments": [
+        "The evidence presented by the prosecution is vague regarding the specific person for whom the appellant allegedly demanded the money.",
+        "The prosecution failed to establish with convincing evidence that the money was received for the purpose of inducing a public servant to perform an official act (in this case, confirming an airline ticket)."
+      ],
+      "respondent_arguments": [
+        "The conviction was justified based on the evidence provided by the prosecution witnesses, specifically PW-4 (the complainant) and PW-2 (who accompanied PW-4)."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Corruption Act",
+        "section": "8",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "To establish an offense under Section 8 of the Prevention of Corruption Act, 1988, the prosecution must prove with convincing evidence that gratification was accepted as a motive or reward for inducing a public servant to perform or forbear an official act. Even if the person receiving the money is not a public servant, the prosecution must still prove that the money was received for the specific purpose of inducing a public servant in their official capacity.",
+    "obiter": [
+      "So far as confirmation of the seat in the Indian Airlines, there may be persons in the middle who may be a public servant or a travel agency or others."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The conviction cannot be sustained because the prosecution's evidence was vague and failed to meet the requirements of Section 8 of the Prevention of Corruption Act, 1988. Specifically, the prosecution did not establish for whom the gratification was demanded, whether that person was a public servant, and crucially, failed to provide convincing evidence that the money was received for the purpose of inducing a public servant to perform an official act, such as confirming an airline ticket.",
+    "legal_tests_applied": [
+      "To establish an offence under Section 8 of the Prevention of Corruption Act, 1988, the prosecution must prove that: (i) the accused accepted or obtained gratification; (ii) for himself or some other person; (iii) as a motive or reward for inducing by corrupt or illegal means; (iv) a 'public servant' to do or forbear to do any official act or to show favour."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p4_a476543b"
+    ],
+    "ratio_decidendi.obiter[0]": [
+      "p2_d752f0d6"
+    ]
+  }
+}

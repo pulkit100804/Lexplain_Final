@@ -1,0 +1,106 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Patna",
+    "impugned_order": "Order of detention",
+    "high_court_proceedings": "The appellant filed a writ petition in the High Court challenging the detention order, but it was dismissed without any speaking order.",
+    "supreme_court_posture": "Aggrieved by the order of the High Court, the appellant filed the present criminal appeal by special leave as also a writ petition challenging the aforesaid order of detention."
+  },
+  "decision": {
+    "appeal_result": "Allowed in part",
+    "conviction_status": "Detention order set aside",
+    "sentence_status": "",
+    "directions": [
+      "This will not affect detenu's detention under the criminal cases.",
+      "If the detenu is released on bail in the aforesaid criminal cases, the matter of service of the detention order under the Act on the aforesaid materials may be reconsidered by the appropriate authority in accordance with the law.",
+      "There will be no orders for release of the detenu."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a preventive detention order is valid if served on a person who is already in custody for a criminal charge, without the detaining authority properly considering the likelihood of their release.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A preventive detention order was issued against the appellant.",
+          "Before the order was served, the appellant was already in jail in connection with a separate criminal charge.",
+          "The preventive detention order was then served on the appellant while they were in custody."
+        ],
+        "law": [
+          "The power of preventive detention is an exceptional measure and must be used with great circumspection.",
+          "If a person is already in custody, the power of preventive detention should not be exercised unless there is an imminent possibility of their release.",
+          "The detaining authority must be aware of the facts necessitating preventive custody, which includes properly and seriously considering whether the person in custody is likely to be released."
+        ],
+        "application": [
+          "The Court examined the record and found no indication that the detaining authority had properly or seriously considered the fact that the detenu was already in jail when the order was served.",
+          "There were no \"cogent materials\" to show that the authority had considered the possibility of the detenu's release from their existing custody.",
+          "The Court reasoned that while the initial passing of the detention order may have been valid, the *service* of that order was improper because it was done without considering the crucial factor of whether the detenu's release was imminent.",
+          "The Court stated that without considering these relevant factors, a person cannot be placed in preventive custody, regardless of their past conduct."
+        ],
+        "conclusion": "The Supreme Court concluded that the preventive detention order was invalid. The failure of the detaining authority to properly consider the likelihood of the detenu's release from their existing criminal custody before serving the order rendered the continued detention unjustified. Therefore, the Court set aside the detention order."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a preventive detention order is valid if served on a person who is already in custody for a criminal charge, without the detaining authority properly considering the likelihood of their release.",
+      "appellant_arguments": [
+        "A preventive detention order can only be justified against a person already in custody if the detaining authority is satisfied that their release is imminent and the order is necessary to put them back in jail.",
+        "The service of the detention order on the petitioner while he was already in jail for a criminal charge was futile and useless.",
+        "The detaining authority did not properly consider the fact that the petitioner was already in custody at the time the order was served, nor was there any consideration of a real danger of his release."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not mentioned in the provided text."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "National Security Act, 1980",
+        "section": "3(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "If a person is already in custody, the power of preventive detention should not be exercised unless the detaining authority, at the time of serving the detention order, has properly and seriously considered the imminent possibility of that person's release. The service of a detention order is invalid if there was no proper consideration of this factor.",
+    "obiter": [
+      "The power of directing preventive detention must be exercised in exceptional cases and with a great deal of circumspection.",
+      "There must be an awareness of the facts necessitating preventive custody for social defence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the grounds for passing the preventive detention order were initially valid, the service of that order upon the detenu while he was already in jail was improper, rendering his continued detention under the Act unjustified. The detaining authority failed to properly and seriously consider the crucial facts that the detenu was already in custody and that there was no imminent possibility or real danger of his release. The records do not indicate that this essential consideration took place before the order was served.",
+    "legal_tests_applied": [
+      "If a man is in custody and there is no imminent possibility of his being released, the power of preventive detention should not be exercised.",
+      "To justify a preventive detention order against a person already in custody, there must be cogent materials for thinking that the detenu might be released, and these materials should have been made apparent and considered by the detaining authority.",
+      "There must be awareness of the facts necessitating preventive custody of a person for social defence."
+    ],
+    "why_appellant_lost": [
+      "The court found that the initial passing of the detention order was not invalid, as there were grounds for forming the satisfaction for the need for detention and a rational nexus between the object of the order and the materials on record.",
+      "The appellant was not granted release from custody because the court's order only set aside the preventive detention order and did not affect his separate detention under pending criminal cases."
+    ],
+    "why_respondent_won": [
+      "The court agreed with the respondent that the grounds for passing the detention order were valid at the time it was made, stating \"the order of preventive detention when it was passed was not invalid and on relevant considerations.\""
+    ],
+    "policy_considerations": [
+      "In our Constitutional framework, the power of directing preventive detention given to the appropriate authorities must be exercised in exceptional cases as contemplated by the various provisions of the different statutes dealing with preventive detention and should be used with great deal of circumspection.",
+      "Eternal vigilance on the part of the authority charged with both law and order and public order is the price which the democracy in this country extracts from the public officials in order to protect the fundamental freedoms of our citizens."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.supreme_court_posture": [
+      "p1_5d910dba"
+    ],
+    "decision.directions[0]": [
+      "p1_45eda82a"
+    ],
+    "judicial_reasoning.policy_considerations[1]": [
+      "p8_509cad9c"
+    ]
+  }
+}

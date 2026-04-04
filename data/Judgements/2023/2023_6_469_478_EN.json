@@ -1,0 +1,122 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court, then committed to Sessions Court, Pune",
+    "impugned_order": "Order dated 17.07.2013 passed by the High Court of Judicature at Bombay in Revision Application No. 135 of 2012.",
+    "high_court_proceedings": "Respondents 1 and 2 filed a revision application for discharge after the Magistrate committed the case to the Sessions Court. The Sessions Court (Trial Court) dismissed the application for discharge on 21.02.2012. The High Court, in Revision Application No. 135 of 2012, set aside the order of the Trial Court and discharged Respondents 1 and 2.",
+    "supreme_court_posture": "The appellant challenged the High Court's order before the Supreme Court. The Supreme Court allowed the appeal and set aside the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The impugned order of the High Court is set aside."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "What is the scope of inquiry and the legal standard to be applied by a court at the stage of considering an application for discharge?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "point": "Presumption of Truth",
+            "explanation": "At the stage of considering a discharge application, the court must proceed on the assumption that all the material and evidence brought on record by the prosecution is true."
+          },
+          {
+            "point": "Prima Facie Case Standard",
+            "explanation": "The court's only task is to evaluate the material on its face value to determine if the facts disclose the existence of the necessary ingredients to constitute the offense. The court must satisfy itself that a 'prima facie' case is made out against the accused."
+          },
+          {
+            "point": "No 'Mini-Trial'",
+            "explanation": "The law does not permit a 'mini-trial' at the discharge stage. The court should not delve into the pros and cons of the matter, weigh the evidence, or assess the truthfulness, sufficiency, and acceptability of the material. These are functions of the court only after the trial begins."
+          },
+          {
+            "point": "Standard is 'Presumption of Offense,' Not 'Proof of Conviction'",
+            "explanation": "The court needs to consider whether there is a ground for 'presuming that the offence has been committed,' not whether there is sufficient ground for 'convicting the accused.' If the court thinks the accused *might* have committed the offense based on the record, it can frame the charge."
+          },
+          {
+            "point": "Sifting, Not Appreciating, Evidence",
+            "explanation": "The judge is merely required to 'sift' the evidence to find out whether there is a sufficient ground for proceeding against the accused. This is distinct from a deep appreciation or evaluation of the probative value of the materials."
+          }
+        ],
+        "application": [
+          {
+            "point": "Critique of the High Court's Approach",
+            "explanation": "The Supreme Court found that the High Court in the underlying case had erred by conducting a 'mini-trial.' It had selectively referred to some witness statements while ignoring other evidence produced with the chargesheet, such as psychological evaluations and polygraph tests."
+          },
+          {
+            "point": "Improper Exercise of Jurisdiction",
+            "explanation": "By appreciating the evidence in this manner, the High Court exercised a jurisdiction not vested in it at the discharge stage, which is meant to be a function of the trial court after evidence is formally recorded."
+          }
+        ],
+        "conclusion": "The Supreme Court held that the scope of inquiry at the discharge stage is limited to determining if a prima facie case exists. The legal standard requires the court to accept the prosecution's evidence as true and, without conducting a mini-trial or weighing the evidence, decide if there is a sufficient ground for presuming that the accused committed the offense, thus warranting a trial."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "What is the scope of inquiry and the legal standard to be applied by a court at the stage of considering an application for discharge?",
+      "appellant_arguments": [
+        "At the stage of considering an application for discharge, the court cannot appreciate the evidence in detail.",
+        "The court's role is limited to seeing if a prima facie case exists.",
+        "A detailed appreciation of evidence is only possible after it is recorded during the trial."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments made by the respondent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "State of Rajasthan v. Ashok Kumar Kashyap",
+        "citation": "(2021) 11 SCC 191",
+        "principle": "For the summary of the law on the point.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Karnataka v. M.R. Hiremath",
+        "citation": "(2019) 7 SCC 515",
+        "principle": "Cited within the Ashok Kumar Kashyap judgment for a specific observation by the Bench.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "At the stage of framing charges, the court must determine whether there is a ground for presuming that the offence has been committed, not whether a ground for conviction has been established. A charge can be framed if the court believes, based on the probative value of the materials on record, that the accused might have committed the offence. The law does not permit a mini-trial at this stage.",
+    "obiter": [
+      "The law on the issue of what is to be considered at the time of discharge of an accused is well settled.",
+      "It is a case in which the Trial Court had not yet framed the charges. Immediately after filing of chargesheet, application for discharge was filed."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court erred by exercising a jurisdiction not vested in it; instead of determining if a prima facie case existed, it selectively referred to statements and failed to consider the evidence collected by the Investigating Agency in its entirety, which amounted to a total non-application of mind and had the effect of scuttling the trial of a heinous crime.",
+    "legal_tests_applied": [
+      "At the stage of hearing on the charges, the entire evidence produced by the prosecution is to be believed.",
+      "An accused can be discharged only if no offence is made out from the evidence.",
+      "The truthfulness, sufficiency and acceptability of the material produced can be determined only at the stage of trial.",
+      "At the stage of charge, the Court has to satisfy itself that a prima facie case is made out against the accused persons."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Interference by a court at the discharge stage is only required if there are strong reasons to hold that allowing the trial to proceed would amount to an abuse of the process of the Court.",
+      "Courts should not exercise jurisdiction in a manner that scuttles the trial of a heinous crime."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p10_32414959"
+    ],
+    "citations.cases[0].case_name": [
+      "p2_658416dc",
+      "p5_4dfcef82"
+    ]
+  }
+}

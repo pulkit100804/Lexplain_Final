@@ -1,0 +1,116 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the text 'lodged in prison on conviction by the Trial Court')",
+    "impugned_order": "Judgment of the Bombay High Court dated 30th September, 1976 in S.R. 4292 of 1976",
+    "high_court_proceedings": "The Bombay High Court issued a judgment that was challenged in the Supreme Court appeal.",
+    "supreme_court_posture": "The Supreme Court initially stayed the High Court's judgment on 26.8.1977 in C.M.P No. 3394 of 1977. Ultimately, the Supreme Court dismissed the Civil Appeal and allowed the Writ Petition."
+  },
+  "decision": {
+    "appeal_result": "The Civil Appeal is dismissed and the Writ Petition is allowed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The parties will bear their respective costs in the Civil Appeal.",
+      "The respondent shall pay the petitioners's costs in the Writ Petition."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the non-payment of subsistence allowance, which prevented the employee from attending the enquiry, vitiates the disciplinary proceedings and the subsequent dismissal order for violating the principles of natural justice and Article 311(2) of the Constitution.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The employee had no source of income other than his pay.",
+          "The disciplinary enquiry against the employee proceeded and evidence was recorded on February 9, 10, and 11, 1965.",
+          "The employee did not receive his first subsistence allowance payment until March 20, 1965, after a portion of the evidence had already been recorded."
+        ],
+        "law": [
+          "Article 311(2) of the Constitution, which guarantees a civil servant a 'reasonable opportunity of defending himself' in disciplinary proceedings that could lead to dismissal.",
+          "The principles of natural justice, which require a fair hearing."
+        ],
+        "application": [
+          "The Court directly linked the non-payment of the subsistence allowance to the employee's inability to participate in the enquiry. It stated, 'As he did not receive subsistence allowance... he could not, in our opinion, attend the enquiry.'",
+          "The Court reasoned that a 'reasonable opportunity' to defend oneself is not merely a procedural formality but must be a real and effective opportunity.",
+          "By failing to pay the allowance, the employer effectively deprived the employee, who had no other income, of the financial means to attend the hearing and defend himself.",
+          "Because the employee was unable to attend while evidence was being recorded, the proceedings on those days were fundamentally unfair and therefore 'vitiated' (invalidated).",
+          "The Court held that this initial flaw tainted the entire process, including the Enquiry Officer's report which was based on that evidence, and the final dismissal order."
+        ],
+        "conclusion": "The Supreme Court concluded that the non-payment of subsistence allowance prevented the employee from receiving a reasonable opportunity to defend himself, which is a direct violation of Article 311(2) of the Constitution. Consequently, the Court held that the enquiry proceedings and the resulting dismissal order were vitiated and could not stand."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the non-payment of subsistence allowance, which prevented the employee from attending the enquiry, vitiates the disciplinary proceedings and the subsequent dismissal order for violating the principles of natural justice and Article 311(2) of the Constitution.",
+      "appellant_arguments": [
+        "The non-payment of subsistence allowance made it impossible for the appellant to attend the enquiry, as he had no other source of income besides his pay.",
+        "A significant part of the evidence was recorded before the first payment of subsistence allowance was made, meaning the appellant could not be present for those proceedings.",
+        "The inability to attend the enquiry due to financial hardship caused by the non-payment of the allowance amounted to a denial of a reasonable opportunity to defend himself.",
+        "Consequently, the enquiry proceedings, the Enquiry Officer's report based on evidence recorded in his absence, and the subsequent dismissal order are all vitiated for being in violation of the principles of natural justice and Article 311(2) of the Constitution."
+      ],
+      "respondent_arguments": [
+        "The appellant was not unable to appear before the Enquiry Officer on account of the non-payment of his subsistence allowance."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 14",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 16",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 21",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 309",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Bombay Civil Service Rules, 1959",
+        "section": "Rule 151",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "If any provision in any rule framed under Article 309 of the constitution is illusory or unreasonable, it is open to the civil servant concerned to seek the aid of the court for declaring that provision to be void.",
+    "obiter": [
+      "When a statute requires that a person who is convicted of an offence shall be sentenced to imprisonment for a specified minimum period, the natural meaning of the words 'shall be sentenced to imprisonment' is that he 'shall be punished for that offence by being sent to prison.",
+      "A person who is convicted and sentenced to imprisonment is deemed to have been awarded that punishment even in the case where the sentence is suspended for some reason or other."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The non-payment of subsistence allowance until after evidence had already been recorded in the disciplinary enquiry prevented the employee, who had no other source of income, from attending the proceedings. This failure vitiated the enquiry and the subsequent report. Consequently, the dismissal order based on this flawed process is invalid as it was passed in violation of Article 311(2) of the Constitution, which requires that the employee receive a reasonable opportunity to defend himself.",
+    "legal_tests_applied": [
+      "Whether the employee received a \"reasonable opportunity of defending himself in the enquiry proceedings\" as required by Article 311(2) of the Constitution."
+    ],
+    "why_appellant_lost": [
+      "The government's order dismissing the employee from service could not stand because it was based on a vitiated enquiry.",
+      "The enquiry proceedings were vitiated because evidence was recorded on February 9, 10, and 11, 1965, while the first payment of subsistence allowance was only made on March 20, 1965.",
+      "The dismissal was passed in violation of the provisions of Article 311(2) of the Constitution."
+    ],
+    "why_respondent_won": [
+      "The court concluded that since the employee did not receive subsistence allowance until March 20, 1965, he could not attend the enquiry proceedings where evidence was recorded prior to that date.",
+      "There was nothing on the record to show that the employee had any other source of income except his pay, making the subsistence allowance essential for his participation.",
+      "Because the employee could not attend the enquiry due to the non-payment of the allowance, he did not receive a reasonable opportunity to defend himself."
+    ],
+    "policy_considerations": [
+      "\"Every step that makes the right of. appeal fruitful is obliagtory and every action on inaction which stultifies it is unfair-and, ergo, unconstitutional\"."
+    ]
+  },
+  "evidence_map": {}
+}

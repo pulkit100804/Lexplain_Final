@@ -1,0 +1,139 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court",
+    "impugned_order": "Order of detention from August 9, 1970, and the Magistrate's order to take action under section 107/151 of the Criminal Procedure Code.",
+    "high_court_proceedings": "The text mentions a Special Bench ruling, implying a High Court decision related to the interpretation of Section 107 CrPC, which the Magistrate's court did not follow.",
+    "supreme_court_posture": "The petitioners filed a Writ Petition (No. 307 of 1970) under Article 32 of the Constitution of India, challenging their arrest and detention. The Supreme Court initially ordered their release, declaring their detention from August 9, 1970, as illegal. The court is now providing the reasons for that order."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "detention of the petitioners A from August 9, 1970 was illegal and they were entitled to be free."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a Magistrate can require an interim bond and remand a person to custody under Section 117(3) of the Code without first commencing an inquiry into the truth of the information.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Police arrested the petitioners and brought them before a Magistrate to be bound over under s. 107 of the Code of Criminal Procedure.",
+          "The Magistrate drew up an order under s. 112 and read it to the petitioners.",
+          "Immediately thereafter, under s. 117(3), the Magistrate demanded that the petitioners execute an interim bond.",
+          "The Magistrate took this action based only on the police report, without commencing an inquiry, taking any sworn statements, or examining any witnesses to verify the truth of the information.",
+          "When the petitioners refused to furnish the bond, they were remanded to custody."
+        ],
+        "law": [
+          "Section 117(1) of the Code requires the Magistrate to \"proceed to enquire into the truth of the information.\"",
+          "Section 117(3) grants the Magistrate the power to ask for an interim bond \"pending the completion of the enquiry\" if they consider immediate measures necessary.",
+          "The Court interpreted the phrase \"pending completion of the inquiry\" to presuppose that the inquiry has already commenced."
+        ],
+        "application": [
+          "The Court found that the Magistrate acted improperly by demanding an interim bond without first starting the inquiry as required by the Code.",
+          "An inquiry, as per the Court, means commencing a trial according to the summons procedure, which involves taking evidence.",
+          "The Court stated that the Magistrate could not simply postpone the case and hear no one, yet still demand an interim bond.",
+          "Before requiring a bond, the Magistrate should have \"entered upon the inquiry and satisfied himself, at least prima facie, about the truth of the information.\"",
+          "Since the Magistrate made no effort to inquire into the truth of the information, the stage at which an interim bond could be legally demanded had not been reached."
+        ],
+        "conclusion": "The Supreme Court held that a Magistrate cannot require an interim bond or remand a person to custody under Section 117(3) without first commencing an inquiry into the truth of the information. The power to demand an interim bond is only available after the inquiry has begun but before it is completed. Consequently, the Magistrate's actions were declared \"completely illegal.\""
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the detention of the petitioners in custody after August 9, 1970, was legal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioners were arrested by police and brought before a Magistrate to be bound over under section 107 of the Code of Criminal Procedure.",
+          "The Magistrate read an order to the petitioners under section 112 and then, under section 117(3), immediately asked them to execute an interim bond for good conduct.",
+          "The petitioners refused to execute the bond, and as a result, the Magistrate remanded them to custody.",
+          "The Magistrate did not conduct any inquiry or take any statements to verify the truth of the police information before demanding the interim bond."
+        ],
+        "law": [
+          "According to the Supreme Court, before a Magistrate can require a person to furnish an interim bond or be detained in custody under section 117, the Magistrate has a duty to first begin an inquiry into the truth of the information.",
+          "The Magistrate must satisfy himself, at least on a prima facie basis, that the allegations against the person are true."
+        ],
+        "application": [
+          "The Court found that the Magistrate in this case acted illegally by failing to follow the correct procedure.",
+          "The Magistrate was \"too much in a hurry\" and did not conduct any inquiry into the truth of the police report before demanding the interim bond.",
+          "This failure to inquire meant the Magistrate had no legal basis to either demand the bond or to remand the petitioners to custody when they refused."
+        ],
+        "conclusion": "The Supreme Court concluded that the Magistrate's actions were \"completely illegal.\" Because the legally required preliminary inquiry was never started, the order demanding an interim bond and the subsequent remand of the petitioners to custody were invalid. Therefore, the detention of the petitioners after August 9, 1970, was illegal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a Magistrate can require an interim bond and remand a person to custody under Section 117(3) of the Code without first commencing an inquiry into the truth of the information.",
+      "appellant_arguments": [
+        "The Magistrate ought to have entered upon an inquiry and satisfied himself, at least prima facie, about the truth of the information before requiring interim bonds.",
+        "Without making any such inquiry, the Magistrate could neither order the petitioners to be detained in custody nor require them to execute a bond."
+      ],
+      "respondent_arguments": [
+        "The matter could be justified under other sections of the Code of Criminal Procedure, such as Section 344, Section 91, or Section 167."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the detention of the petitioners in custody after August 9, 1970, was legal.",
+      "appellant_arguments": [
+        "The detention was illegal because the Magistrate did not follow the proper legal procedure of first commencing an inquiry before remanding the petitioners to custody."
+      ],
+      "respondent_arguments": [
+        "The detention was legal as it could be justified under alternative sections of the Code of Criminal Procedure, namely Section 344, Section 91, or Section 167."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "Chapter VIII",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "107",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "112",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Special Bench decision",
+        "citation": "(Not provided in text)",
+        "principle": "Cited for the holding that certain sections of the Code of Criminal Procedure (like sections 91 and 344) are inapplicable to proceedings under Chapter VIII, which contains its own specific and elaborate procedure.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A magistrate cannot order a person to be detained in custody or require them to execute a bond without first conducting an inquiry to be satisfied, at least prima facie, of the truth of the information alleged.",
+    "obiter": [
+      "It is quite clear that the Magistrate was too much in hurry. He did not read the law to inform himself about what he was to do."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When a Magistrate proceeds under Chapter VIII of the Code of Criminal Procedure, they cannot require an interim bond or remand a person to custody under Section 117(3) without first commencing an inquiry to satisfy themselves, at least prima facie, about the truth of the information presented. Having the petitioners before him and having read to them the order under section 112, it was the Magistrate's duty to either release them unconditionally or to ask them to give an interim bond for good conduct, but only after he has started inquiring into the truth of the information. Because the Magistrate failed to do so and instead immediately demanded a bond or jail, the subsequent detention was completely illegal.",
+    "legal_tests_applied": [
+      "Before requiring an interim bond or remanding a person to custody under Section 117(3), a Magistrate must first commence an inquiry into the truth of the information and satisfy himself, at least prima facie, about the truth of the alleged facts."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Since the liberty of the person is involved, not because of anything they have done but because of the likelihood of a future breach of the peace, the procedural provisions of the Code must be strictly followed.",
+      "Because action under this chapter is taken on the mere opinion of the Magistrate, the procedural safeguards are designed to ensure that no case of harassment arises."
+    ]
+  },
+  "evidence_map": {}
+}

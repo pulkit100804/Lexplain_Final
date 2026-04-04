@@ -1,0 +1,168 @@
+{
+  "procedural_history": {
+    "originating_court": "Bar Council Tribunal (dispute regarding appointment and jurisdiction)",
+    "impugned_order": "Order of the Bar Council Tribunal and the subsequent actions of the Bombay High Court referring the matter to the Tribunal.",
+    "high_court_proceedings": "The Bombay High Court, upon noticing a matter, decided to refer the case to the Bar Council under section 10(2) of the Bar Councils Act and accordingly appointed a Tribunal under section 11(1) by the Chief Justice.",
+    "supreme_court_posture": "The petitioner approached the Supreme Court under Article 32 of the Constitution, alleging a breach of fundamental rights. However, the Supreme Court found no question of breach of fundamental rights. The Supreme Court addressed the arguments regarding the jurisdiction of the Bar Council Tribunal and the Bombay High Court, specifically concerning the validity of the Tribunal's appointment and the High Court's jurisdiction to refer the matter."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "no order about costs"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the proceedings before the Bar Council Tribunal were ultra vires because the order appointing the Tribunal was oral and not a formal written order.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner ('Mr. G') argued that the proceedings before the Bar Council Tribunal were invalid because the order from the Chief Justice appointing the Tribunal was oral, not a formal written order.",
+          "The petitioner had been informed by the Prothonotary that the order was oral and did not challenge this statement of fact in the lower proceedings.",
+          "The Supreme Court examined the High Court's office files and found evidence of the order: official letters between court officers regarding the appointment, and a note with the names of the Tribunal members in the Chief Justice's handwriting with his initials."
+        ],
+        "law": [
+          "The Bar Councils Act does not specify any particular procedure for appointing a Tribunal, nor does it explicitly require the appointment order to be in writing.",
+          "Section 11(2) of the Act simply states that the Tribunal shall be \"appointed for the purpose of the inquiry by the Chief Justice.\""
+        ],
+        "application": [
+          "The Court determined that the order itself does not need to be a formal written document; an oral order given to a proper officer of the court is sufficient.",
+          "However, the Court stated that it is necessary for there to be some record of the order on the court's files.",
+          "In this case, the Court found that the office copies of the letters between the Prothonotary, the Registrar, and the Bar Council, along with the Chief Justice's handwritten note, constituted a \"sufficient record of the making of the order.\""
+        ],
+        "conclusion": "The Supreme Court rejected the petitioner's argument, holding that the Tribunal was validly appointed. It ruled that an oral order is permissible under the Bar Councils Act, provided there is a sufficient record of it on the court's files, which existed in this case."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court lacked jurisdiction to refer the matter to the Tribunal because there was no formal 'complaint'.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner, Mr. G, argued that the High Court did not have jurisdiction to refer his case to the Bar Council Tribunal because no formal 'complaint' had been filed against him."
+        ],
+        "law": [
+          "Section 10(2) of the Bar Councils Act states that the High Court \"may of its own motion so refer any case in which it has otherwise reason to believe that any such advocate has been so guilty.\""
+        ],
+        "application": [
+          "The Supreme Court found that the petitioner's argument completely ignored the High Court's power to act on its own initiative.",
+          "The Court pointed directly to the language of Section 10(2) of the Bar Councils Act, which explicitly allows the High Court to refer a case \"of its own motion.\"",
+          "This statutory power means that a formal, external complaint is not a necessary prerequisite for the High Court to initiate proceedings.",
+          "The record confirmed that the High Court had indeed decided to refer the case on its own motion after the matter came to its notice."
+        ],
+        "conclusion": "The Supreme Court rejected the petitioner's argument, holding that the High Court had the jurisdiction to refer the matter to the Tribunal on its own motion under Section 10(2) of the Bar Councils Act, and therefore, a formal 'complaint' was not required."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether there was a breach of a fundamental right.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner filed a petition under Article 32 of the Constitution, which is the provision for the enforcement of fundamental rights."
+        ],
+        "law": [
+          "A petition under Article 32 of the Constitution is specifically for the enforcement of fundamental rights."
+        ],
+        "application": [
+          "The Supreme Court, in its judgment, stated directly and without elaboration that \"no question arises about the breach of a fundamental right.\"",
+          "The Court noted that the merits of the case were the same as in a \"connected summons case\" in which it had already delivered a separate judgment.",
+          "Instead of discussing the fundamental rights issue, the Court proceeded to address other jurisdictional and procedural arguments raised by the petitioner."
+        ],
+        "conclusion": "The Supreme Court rejected the issue by summarily stating that no question of a breach of a fundamental right arose in the case, as the merits of that claim had already been dealt with in a separate, connected judgment."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the proceedings before the Bar Council Tribunal were ultra vires because the order appointing the Tribunal was oral and not a formal written order.",
+      "appellant_arguments": [
+        "The proceedings were ultra vires because there was no proper order of appointment for the Tribunal.",
+        "The oral order given was not 'judicial' and therefore not valid."
+      ],
+      "respondent_arguments": [
+        "The Bar Councils Act does not specify any particular procedure or require a written order.",
+        "An oral order given to a proper officer of the Court is sufficient.",
+        "There was a sufficient record of the order being made, evidenced by office letters and the Chief Justice's handwritten notes on the file."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the High Court lacked jurisdiction to refer the matter to the Tribunal because there was no formal 'complaint'.",
+      "appellant_arguments": [
+        "The High Court had no jurisdiction to refer the matter because there was no formal 'complaint' filed."
+      ],
+      "respondent_arguments": [
+        "The High Court has the power under Section 10(2) of the Bar Councils Act to refer a case 'of its own motion' without a formal complaint."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether there was a breach of a fundamental right.",
+      "appellant_arguments": [
+        "A fundamental right was breached (as implied by the filing of a petition under Article 32 of the Constitution for the enforcement of fundamental rights)."
+      ],
+      "respondent_arguments": [
+        "No fundamental right was breached; the issue pertained to the jurisdiction of the Bar Council Tribunal and the High Court, not constitutional rights."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Bar Councils Act, 1926",
+        "section": "10(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Bar Councils Act, 1926",
+        "section": "11(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 32",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An order under section 10(2) of the Indian Bar Councils Act, 1926, may be an oral order, provided a record of it is kept on the court's files. The High Court may refer a case under this section of its own motion, without a formal complaint.",
+    "obiter": [
+      "The Bar Councils Act does not lay down any procedure for making such an order.",
+      "We have dealt with the merits in the connected case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Bar Council Tribunal was validly appointed and the High Court had jurisdiction to refer the matter. The Bar Councils Act does not require a formal written order to appoint a Tribunal; an oral order is sufficient provided there is some record of it on the files, which existed here in the form of office letters and the Chief Justice's handwritten notes. Furthermore, the High Court's jurisdiction is not dependent on a formal complaint, as Section 10(2) of the Act explicitly grants it the power to refer a case \"of its own motion\".",
+    "legal_tests_applied": [
+      "Interpretation of Section 10(2) of the Bar Councils Act, which allows the High Court to refer a case 'of its own motion'.",
+      "Interpretation of Sections 10(2) and 11(2) of the Bar Councils Act, which do not specify any particular procedure or require a written order for the appointment of a Tribunal.",
+      "A test for the validity of an oral judicial order, which requires that there be 'some record of the order on the files' for it to be sufficient."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the Tribunal's appointment was invalid was rejected because the Bar Councils Act does not require a written order, and an oral order is sufficient so long as a record exists, which the court found in office letters and the Chief Justice's handwritten notes.",
+      "The appellant's challenge to the High Court's jurisdiction failed because it ignored the fact that Section 10(2) of the Bar Councils Act explicitly allows the High Court to refer a matter 'of its own motion' without a formal 'complaint'.",
+      "The petition under Article 32 was dismissed because the court found that 'no question arises about the breach of a fundamental right,' as the issues raised were purely jurisdictional."
+    ],
+    "why_respondent_won": [
+      "The Bar Councils Act does not lay down any procedure requiring a written order for the appointment of a Tribunal.",
+      "An oral order given to a proper officer of the Court is valid, and in this case, office letters and the Chief Justice's handwritten notes on the file constituted a sufficient record of the order being made.",
+      "The High Court has the statutory power under Section 10(2) of the Bar Councils Act to refer a case 'of its own motion', meaning a formal complaint is not a prerequisite for its jurisdiction."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[1]": [
+      "p3_465a7174"
+    ]
+  }
+}

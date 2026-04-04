@@ -1,0 +1,126 @@
+{
+  "procedural_history": {
+    "originating_court": "Court at Mathura (inferred from the text)",
+    "impugned_order": "Judgment and order, dated July 20, 1965 of the Allahabad High Court in Criminal Mis. Cases Nos. 562 and 563 of 1964.",
+    "high_court_proceedings": "Appellants filed a petition under s. 561A of the Criminal Procedure Code in the High Court in March 1964, seeking to quash proceedings pursuant to a complaint. They argued that the Antiphlogistic Plaster was not a drug as defined in the Act. The High Court declined to quash the proceedings, holding that whether the plasters fell within the exception to the definition of 'drug' was a disputed question of fact requiring expert evidence.",
+    "supreme_court_posture": "The case reached the Supreme Court on appeal by certificate. The Supreme Court dismissed the appeal, upholding the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Appeal dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the adverb 'exclusively' in the relevant clause governs only the word 'used' and not the words 'prepared for use'.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants contended that in the relevant clause, which provides an exception for 'medicines and substances exclusively used or prepared for use in accordance with the Ayurvedic or Unani Systems of medicine', the adverb 'exclusively' only modified the word 'used' and not the phrase 'prepared for use'."
+        ],
+        "law": [
+          "The legal issue centered on the grammatical and intentional scope of the adverb 'exclusively' within the statutory definition of a 'drug' in s. 3(b)(i) of the Drugs Act, 1940."
+        ],
+        "application": [
+          "The Supreme Court examined the interpretation previously made by the High Court.",
+          "The High Court had determined that the legislature's intention was to exclude medicines that were either 'used exclusively' or 'prepared for use exclusively' in accordance with the Ayurvedic or Unani systems.",
+          "The Supreme Court explicitly agreed with this interpretation, stating, 'we concur in the view of the High Court that it must be taken to govern the words 'used' as well as 'prepared for use'.'"
+        ],
+        "conclusion": "The Supreme Court rejected the appellants' argument and affirmed the High Court's view, holding that the adverb 'exclusively' governs both the words 'used' and 'prepared for use'. Therefore, for a medicine to be excluded from the definition of a drug under this clause, it must be either exclusively used or exclusively prepared for use in accordance with the specified traditional systems."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the determination of a medicine as being exclusively used or prepared for use in accordance with the Ayurvedic or Unani system should be based on each individual ingredient or the medicine as a whole.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved plasters (Bindra's Antiphlogistic Plaster) that contained some ingredients, such as Glycerine and Boric Acid, which are used in both the Unani and Allopathic systems of medicine.",
+          "The appellants argued that because the overall preparation was in accordance with the Unani system, it should be exempt from the definition of a 'drug' under the Act, even if some individual components were also used in other systems."
+        ],
+        "law": [
+          "The relevant law was the definition of a 'drug' in the Act, which at the time contained an exception for \"medicines and substances exclusively used or prepared for use in accordance with the Ayurvedic or Unani systems of medicine.\""
+        ],
+        "application": [
+          "The Supreme Court interpreted the exception by stating that \"medicines or substances have to be taken as a whole.\"",
+          "The Court explicitly rejected the idea that each individual ingredient should be the deciding factor, stating that \"each individual ingredient or component of the preparation in question will not be the decisive or determining factor.\"",
+          "The Court reasoned that the proper test is to evaluate the final product. The trial court must decide whether the medicine, as a complete preparation, is one that is \"exclusively used or prepared for use exclusively in the Ayurvedic or Unani system.\""
+        ],
+        "conclusion": "The Supreme Court decided that the determination must be based on the medicine as a whole, not on an analysis of each individual ingredient. The fact that some components might also be used in other medical systems does not automatically disqualify the entire preparation from being considered an Ayurvedic or Unani medicine."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the adverb 'exclusively' in the relevant clause governs only the word 'used' and not the words 'prepared for use'.",
+      "appellant_arguments": [
+        "In the expression 'other than medicines and substances exclusively used or prepared for use in accordance with the Ayurvedic or Unani Systems of medicine', the adverb 'exclusively' governed the word 'used' only and did not govern the words 'prepared for use'."
+      ],
+      "respondent_arguments": [
+        "The intention of the legislature was to exclude medicines and substances which were used exclusively in accordance with the Ayurvedic or Unani system or which were prepared for use exclusively in accordance with that system, meaning 'exclusively' governs both phrases."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the determination of a medicine as being exclusively used or prepared for use in accordance with the Ayurvedic or Unani system should be based on each individual ingredient or the medicine as a whole.",
+      "appellant_arguments": [
+        "The medicine should be considered as a whole to determine if it falls under the exception for Ayurvedic or Unani systems."
+      ],
+      "respondent_arguments": [
+        "The determination should be based on the individual ingredients. Since the preparation contained substances like Glycerine, Kaolin, and Boric Acid, which are listed in the British Pharmaceutical Codex and are clearly drugs, the appellants cannot escape the provisions of the Act simply by calling it a Unani or Ayurvedic preparation."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Drugs Act",
+        "section": "s. 3(b)(i)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Drugs Act",
+        "section": "s. 16",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Chimanlal Jagjivandas Sheth v. State of Maharashtra",
+        "citation": "(1963) Supp. I S.C.R. 344",
+        "principle": "For the principle that the expression 'substances' in the definition of 'drug' is to be taken to mean something other than 'medicine'.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In the statutory exception for what constitutes a drug, the adverb 'exclusively' governs both the phrases 'used' and 'prepared for use'. The determination of whether a medicine or substance falls within this exception is not based on whether each individual ingredient is exclusive to the Ayurvedic or Unani system, but rather whether the medicine or substance, considered as a whole, is exclusively used or prepared for use in accordance with those systems.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The adverb 'exclusively' governs both the words 'used' and 'prepared for use' in the statutory exception. However, the determination of whether a medicine falls under this exception must be made by considering the medicine as a whole, rather than by analyzing each individual ingredient. The trial court must decide, based on evidence, whether the plasters in question are medicines exclusively used or prepared for use in accordance with the Ayurvedic or Unani system.",
+    "legal_tests_applied": [
+      "To determine if a medicine is excluded from the definition of a 'drug' under the Act, the test is whether the medicine, taken as a whole, is 'exclusively used or prepared for use in accordance with the Ayurvedic or Unani system of medicine'. This determination is a question of fact to be decided by the trial court based on evidence and is not based on an analysis of each individual ingredient."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the appellant's argument that the adverb 'exclusively' only governed the word 'used' and not 'prepared for use'. The court explicitly stated: 'As regards the adverb 'exclusively' we concur in the view of the High Court that it must be taken to govern the words 'used' as well as 'prepared for use'.'",
+      "Because the court rejected the appellant's primary legal argument for quashing the proceedings, the appeal was dismissed, and the case was sent back to the trial magistrate for a determination of fact under the legal standard clarified by the court."
+    ],
+    "why_respondent_won": [
+      "The court accepted the respondent's argument regarding the scope of the word 'exclusively', adopting the High Court's view that 'the intention of the legislature appeared to be to exclude from the definition of drug such medicines and substances which were used exclusively in accordance with the Ayurvedic or Unani system of medicine or which were prepared for use exclusively in accordance with the aforesaid system.'"
+    ],
+    "policy_considerations": [
+      "The court's interpretation prevents manufacturers from circumventing the Drugs Act through a 'simple device of calling it a Unani or Ayurvedic preparation' when it contains substances that are clearly defined as drugs in official pharmacopoeias like the British Pharmaceutical Codex. This upholds the Act's purpose, which was 'enacted to regulate the import, manufacture, distribution and sale of drugs' through a definition of 'drug' that 'was made as wide as it could be'."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p1_55572455"
+    ]
+  }
+}

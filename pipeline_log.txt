@@ -1,0 +1,175 @@
+﻿python : 2026-03-19 
+22:17:49,413 [INFO] 
+\u25b6 Agent 0 ù 
+Ingestion
+At line:1 char:1
++ python cli.py run 
+--tenant test_cheating 
+--text "The accused 
+(Arjun)  ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (2026-03-19 22   
+ :1...t 0 ù Ingesti    
+on:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+2026-03-19 
+22:17:53,055 [INFO]   
+\u2714 case_id=2896441f
+-353c-48c2-86cf-d73bfa9
+a422c (3.64s)
+2026-03-19 
+22:17:53,056 [INFO] 
+\u25b6 Agent 1 ù 
+Normalization
+2026-03-19 
+22:17:53,133 [INFO]   
+\u2714 Done (0.08s)
+2026-03-19 
+22:17:53,133 [INFO] 
+\u25b6 Agent 2 ù 
+Segmentation
+2026-03-19 
+22:17:53,140 [INFO]   
+\u2714 Done (0.01s)
+2026-03-19 
+22:17:53,140 [INFO] 
+\u25b6 Agent 3 ù Role 
+Tagging
+2026-03-19 
+22:17:53,145 [INFO]   
+\u2714 Done (0.00s)
+2026-03-19 
+22:17:53,145 [INFO] 
+\u25b6 Agent 4A ù 
+Entity Extraction
+2026-03-19 
+22:17:53,161 [INFO]   
+\u2714 Done (0.02s)
+2026-03-19 
+22:17:53,161 [INFO] 
+\u25b6 Agent 4B ù 
+Event Builder
+2026-03-19 
+22:17:53,171 [INFO]   
+\u2714 Done (0.01s)
+2026-03-19 
+22:17:53,171 [INFO] 
+\u25b6 Agent 5A ù 
+Legal Fact Normalizer
+2026-03-19 
+22:17:53,176 [INFO]   
+\u2714 Done (0.01s)
+2026-03-19 
+22:17:53,176 [INFO] 
+\u25b6 Agent 5B ù 
+Legal Signal Extractor
+2026-03-19 
+22:17:53,180 [INFO]   
+\u2714 Done (0.00s)
+2026-03-19 
+22:17:53,181 [INFO] 
+\u25b6 Agent 5C ù 
+Statute Retriever
+2026-03-19 
+22:17:53,357 [INFO]   
+\u2714 Done (0.18s)
+2026-03-19 
+22:17:53,357 [INFO] 
+\u25b6 Agent 6 ù 
+Ingredient Evaluator
+2026-03-19 
+22:17:53,547 [INFO]   
+\u2714 Done (0.19s)
+2026-03-19 
+22:17:53,547 [INFO] 
+\u25b6 Agent 7 ù 
+Precedent Comparator
+2026-03-19 
+22:17:53,548 [INFO] 
+Agent 7 query: 
+property transfer 
+deception non response 
+failure to act 
+property transferred 
+deceptive conduct 
+observed absence of 
+response failure to 
+deliver property 
+obtained by deception 
+circumstance missing 
+mens_rea missing 
+actus_reus missing 
+death intention
+Traceback (most recent 
+call last):
+  File "G:\Lexplain)3\l
+explain\cli.py", line 
+122, in <module>
+    main()
+    ~~~~^^
+  File "G:\Lexplain)3\l
+explain\cli.py", line 
+79, in main
+    result = run_full_p
+ipeline(text=text, 
+tenant_id=args.tenant, 
+role=args.role)
+  File "G:\Lexplain)3\l
+explain\pipeline.py", 
+line 126, in 
+run_full_pipeline
+    result = agent_7_pr
+ecedent_comparator.run(
+tenant_id=tenant_id, 
+case_id=case_id)
+  File "G:\Lexplain)3\l
+explain\agents\agent_7_
+precedent_comparator.py
+", line 384, in run
+    case_domains = _det
+ect_case_domain(legal_f
+acts, signals)
+  File "G:\Lexplain)3\l
+explain\agents\agent_7_
+precedent_comparator.py
+", line 214, in 
+_detect_case_domain
+    all_text = " 
+".join(
+               
+~~~~~~~~^
+        f.get("type", 
+"") + " " + f.get("orig
+inal_action", "")
+        ^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
+        for f in 
+legal_facts
+        
+^^^^^^^^^^^^^^^^^^^^
+    ) + " " + " ".join(
+    ^
+  File "G:\Lexplain)3\l
+explain\agents\agent_7_
+precedent_comparator.py
+", line 215, in 
+<genexpr>
+    f.get("type", "") 
++ " " + f.get("original
+_action", "")
+    ~~~~~~~~~~~~~~~~~~~
+~~~~~^~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+TypeError: can only 
+concatenate str (not 
+"NoneType") to str

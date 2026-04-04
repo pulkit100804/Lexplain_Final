@@ -1,0 +1,99 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (implied, as the case involves criminal charges and an appeal process)",
+    "impugned_order": "Judgment and Order dated 09.10.2013 of the High Court of Tripura at Agartala in CRLA No.22 of 2011.",
+    "high_court_proceedings": "The appellant preferred an appeal before the High Court, which was dismissed. The High Court agreed with the Trial Court that the prosecution had proven the charges beyond a reasonable doubt.",
+    "supreme_court_posture": "The appellant approached the Supreme Court after the High Court dismissed his appeal. The Supreme Court allowed the appeal and ordered the appellant to be released."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted of all the charges",
+    "sentence_status": "Set aside",
+    "directions": [
+      "Appellant shall be released forthwith."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution had been successful in proving the charges beyond reasonable doubt.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case against the appellant was based entirely on circumstantial evidence, as there were no eyewitnesses to the crime.",
+          "The prosecution's case relied on an extra-judicial confession, which the appellant later retracted during the trial.",
+          "The Trial Court and the High Court had both previously convicted the appellant, finding that the prosecution had proven the charges beyond a reasonable doubt."
+        ],
+        "law": [
+          "The Court reiterated the legal standard for cases of circumstantial evidence, established in *Sharad Birdhichand Sarda vs. State of Maharashtra*.",
+          "This standard requires that the circumstances must form a complete chain that unerringly points towards the guilt of the accused and is incapable of any explanation other than the accused's guilt.",
+          "The Court also stated that an extra-judicial confession is a weak piece of evidence, especially when retracted, and requires strong corroborating evidence to be considered reliable."
+        ],
+        "application": [
+          "The Supreme Court analyzed the evidence to see if each link in the chain of circumstances was fully established.",
+          "It found that there was no corroborating evidence to support the appellant's extra-judicial confession.",
+          "In fact, the Court found that the other evidence presented by the prosecution was inconsistent with the confession.",
+          "Because the confession was uncorroborated and contradicted by other evidence, the Court determined that \"major links of the chain of circumstances\" had not been proven by the prosecution."
+        ],
+        "conclusion": "The Supreme Court concluded that the prosecution had failed to prove the charges beyond a reasonable doubt. Since major links in the chain of circumstantial evidence were missing, it would be unjust to uphold the conviction. The Court, therefore, gave the appellant the benefit of the doubt, allowed the appeal, and acquitted him of all charges."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the prosecution had been successful in proving the charges beyond reasonable doubt.",
+      "appellant_arguments": [
+        "The major links in the chain of circumstances were not proven by the prosecution's evidence.",
+        "There was no corroborating evidence to support the extra-judicial confession.",
+        "The evidence led by the prosecution was inconsistent with the extra-judicial confession.",
+        "Given the lack of proof, it would be unjust to uphold the conviction.",
+        "The appellant is entitled to the benefit of the doubt."
+      ],
+      "respondent_arguments": [
+        "The prosecution had successfully proven the charges beyond a reasonable doubt, as established by the testimony of 40 witnesses and documentary evidence.",
+        "The findings of both the Trial Court and the High Court, which concluded that the appellant's guilt was established, should be upheld."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Sailendra Rajdev Pasvan and Others vs. State of Gujarat Etc.",
+        "citation": "AIR 2020 SC 180 : [2019] 14 SCR 270",
+        "principle": "In a case of circumstantial evidence, the law postulates two-fold requirements: Firstly, that every link in the chain of circumstances necessary to establish the guilt of the accused must be established by the prosecution beyond reasonable doubt and secondly, all the circumstances must be consistent pointing out only towards the guilt of the accused.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In a case of circumstantial evidence, the prosecution must meet a two-fold requirement: firstly, every link in the chain of circumstances necessary to establish guilt must be proven beyond a reasonable doubt, and secondly, the circumstances taken cumulatively must form a complete chain that unerringly points only towards the guilt of the accused and is incapable of explanation on any hypothesis other than that of the accused's guilt.",
+    "obiter": [
+      "The principles for circumstantial evidence have been consistently followed and approved by this Court time and again."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The major links of the chain of circumstances have not been proved by the prosecution evidence.",
+    "legal_tests_applied": [
+      "In a case of circumstantial evidence, the circumstances should be of a definite tendency unerringly pointing towards the guilt of the accused; the circumstances taken cumulatively should form a chain so complete that there is no escape from the conclusion that within all human probability the crime was committed by the accused and they should be incapable of explanation on any hypothesis other than that of the guilt of the accused and inconsistent with his innocence.",
+      "In a case of circumstantial evidence, law postulates two-fold requirements. Firstly, that every link in the chain of circumstances necessary to establish the guilt of the accused must be established by the prosecution beyond reasonable doubt and secondly, all the circumstances must be consistent pointing out only towards the guilt of the accused.",
+      "In a case of circumstantial evidence, motive has an important role to play. It is an important link in the chain of circumstances."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Given the lack of proof, it would be unjust to uphold the conviction of the appellant.",
+      "The appellant would be entitled to benefit of doubt."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p5_182a683b"
+    ],
+    "judicial_reasoning.legal_tests_applied[2]": [
+      "p5_397b030d"
+    ]
+  }
+}

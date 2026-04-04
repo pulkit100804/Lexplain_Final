@@ -1,0 +1,131 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge (implied from the text)",
+    "impugned_order": "The High Court's order dismissing the appeal filed by the appellant.",
+    "high_court_proceedings": "The son of the deceased filed an appeal before the High Court challenging the judgment of the lower court. The High Court dismissed the appeal.",
+    "supreme_court_posture": "The appellant filed a special leave petition before the Supreme Court challenging the High Court's order. The Supreme Court allowed the appeal in part, set aside the High Court's order, and remanded the case to the High Court for a fresh hearing on the merits."
+  },
+  "decision": {
+    "appeal_result": "Allowed in part",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Impugned order is set aside.",
+      "The criminal appeal out of which this appeal arises is accordingly restored to its original file to enable the High Court to decide the appeal, as directed, expeditiously.",
+      "The High Court will, therefore, decide the appeal strictly in accordance with law uninfluenced by any of our observations made in this order."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court, while hearing an appeal against an acquittal, erred by not adhering to the established legal principles regarding the powers of an appellate court, particularly in not considering if the trial court's findings were perverse or unreasonable.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court heard an appeal against a Sessions Court order that had acquitted all the accused.",
+          "The High Court dismissed the appeal, thereby upholding the acquittal."
+        ],
+        "law": [
+          "An appellate court hearing an appeal against an acquittal must determine if the trial court's judgment was \"manifestly perverse and wholly unreasonable.\"",
+          "If the finding of the trial court is a \"plausible view\" and not unreasonable, the appellate court should not disturb that finding, even if a different conclusion could be reached from the evidence.",
+          "The appellate court is required to consider the established law regarding its powers in such appeals, such as the principles laid down in the *Lalit Kumar Sharma* case.",
+          "Procedurally, the appellate court should call for the record of the case from the trial court."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court had decided the appeal in a \"cursory\" manner with a \"cryptic order.\"",
+          "The High Court failed to properly exercise its appellate powers because it did not refer to, appreciate, or discuss the entire evidence from all 13 prosecution witnesses.",
+          "Instead of analyzing whether the trial court's findings were perverse or unreasonable, the High Court simply dismissed the appeal by observing that the trial court's view was \"plausible\" and did not require interference.",
+          "The Supreme Court noted that the High Court committed an error by not keeping the established legal principles in view and also appeared to have failed to call for the trial court records."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court had erred by not adhering to the established legal principles for hearing an appeal against an acquittal. Because the High Court's decision was cursory and failed to properly appraise the evidence or apply the correct legal standard, its judgment was set aside. The case was remanded to the High Court for a fresh hearing on its merits in accordance with the law."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court committed a procedural error by failing to call for the records of the case from the Trial Court as mandated by Section 385(2) of the Code of Criminal Procedure.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court was hearing an appeal filed against the acquittal of the accused by the Trial Court (Sessions Judge).",
+          "The High Court dismissed the appeal."
+        ],
+        "law": [
+          "Section 385(2) of the Code of Criminal Procedure provides that the appellate court should call for the record of the case from the Trial Court when hearing an appeal."
+        ],
+        "application": [
+          "The Supreme Court observed that the High Court \"should have called for the record of the case from the Trial Court as provided under Section 385 (2) of the Code which it seems was not called for.\"",
+          "The Court noted that the High Court's failure to call for the records was part of a larger issue where the appeal was disposed of in a \"cursory manner.\"",
+          "This was evidenced by the fact that the High Court did not refer to, appreciate, or discuss the entire evidence from all 13 prosecution witnesses, which it would have needed the full record to do properly."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court had committed an error by failing to call for the Trial Court records as mandated by Section 385(2) of the Code. This procedural lapse, combined with an inadequate review of the evidence, led the Supreme Court to set aside the High Court's order and remand the case for a fresh hearing."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court, while hearing an appeal against an acquittal, erred by not adhering to the established legal principles regarding the powers of an appellate court, particularly in not considering if the trial court's findings were perverse or unreasonable.",
+      "appellant_arguments": [
+        "The High Court dismissed the appeal in a cursory and cryptic manner.",
+        "The High Court failed to properly exercise its appellate powers as it did not appreciate or discuss the entire evidence from all 13 prosecution witnesses.",
+        "The High Court erred by simply concluding that the Sessions Court's view was a 'plausible view' without independently re-appreciating the evidence to determine if the findings were perverse or unreasonable."
+      ],
+      "respondent_arguments": [
+        "The High Court's decision was correct and should be upheld, as the view taken by the Sessions Court was plausible and did not warrant interference. (Inferred from the court's statement that it was not persuaded by the respondents' written submissions)."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the High Court committed a procedural error by failing to call for the records of the case from the Trial Court as mandated by Section 385(2) of the Code of Criminal Procedure.",
+      "appellant_arguments": [
+        "The provided text does not contain the appellant's arguments on this specific issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments on this specific issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Code",
+        "section": "385 (2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Lalit Kumar Sharma & Ors. v. Superintendent & Remembrancer of Legal Affairs, Govt. of West Bengal",
+        "citation": "1989 Supp (2) SCC 140",
+        "principle": "Regarding the powers of the Appellate Court while hearing an appeal arising out of an acquittal order.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "If a finding reached by the trial Judge cannot be said to be an unreasonable finding, then the appellate court should not disturb that finding even if it is possible to reach a different conclusion on the basis of the material on record.",
+    "obiter": [
+      "We have not recorded any finding on the merits of the case having formed an opinion to remand the case to the High Court for hearing the appeal afresh on merits on the grounds mentioned above."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found that the High Court committed a legal error by disposing of the appeal against acquittal in a cursory and cryptic manner. The High Court failed to properly exercise its appellate powers as it did not refer to, appreciate, or discuss the entire evidence from all 13 prosecution witnesses. Instead of determining whether the trial court's findings were perverse or unreasonable, the High Court improperly dismissed the appeal simply by observing that the trial court's conclusion was a \"plausible view,\" which is an insufficient standard of review. This failure to adhere to the established law for hearing an appeal against acquittal necessitated setting aside the order and remanding the case for a fresh hearing on the merits.",
+    "legal_tests_applied": [
+      "When hearing an appeal against an acquittal, an appellate court should not disturb a finding of the trial judge if it cannot be said to be an unreasonable finding, even if it is possible to reach a different conclusion on the basis of the material on record.",
+      "To overturn an acquittal, an appellate court must examine whether the judgment of the trial court was manifestly perverse and wholly unreasonable.",
+      "The proper exercise of appellate powers requires the appellate court to appreciate and discuss the entire evidence adduced by the prosecution, not just refer to some witnesses."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The manner in which an appellate court disposes of an appeal must command confidence, ensuring that cases are decided on their merits after a full appreciation of the evidence and law, rather than through cursory or cryptic orders."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[2]": [
+      "p7_74ede646"
+    ]
+  }
+}

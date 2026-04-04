@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge, Ganganagar",
+    "impugned_order": "The High Court acquitted Kartar Singh while maintaining the conviction and sentences of Gurjant Singh.",
+    "high_court_proceedings": "The Sessions Judge convicted both Kartar Singh and Gurjant Singh. The High Court acquitted Kartar Singh but upheld Gurjant Singh's conviction.",
+    "supreme_court_posture": "The State of Rajasthan appealed against the acquittal of Kartar Singh (Cr. A. No. 114 of 1969). Gurjant Singh appealed against his conviction and sentence (Cr. A. No. 115 of 1969). The Supreme Court granted special leave to appeal."
+  },
+  "decision": {
+    "appeal_result": "The appeal of the State of Rajasthan against Kartar Singh is allowed.",
+    "conviction_status": "Kartar Singh is convicted under s. 302/34, I.P.C.",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether it is necessary under Section 145 of the Indian Evidence Act to put every single contradictory passage to a witness who admits that their entire previous statement was correctly recorded but claims it was false due to external pressure.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "In a murder trial, key witnesses gave statements in the Committal Court implicating the accused.",
+          "During the later Sessions Court trial, these witnesses turned hostile and changed their testimony.",
+          "The Public Prosecutor read the entirety of their previous statements from the Committal Court to them.",
+          "The witnesses admitted that their previous statements were a true and correct record of what they had said.",
+          "However, they claimed that the entire content of those previous statements was false because they had been made under 'police pressure'."
+        ],
+        "law": [
+          "Section 145 of the Indian Evidence Act generally requires that before a witness's previous written statement can be used to contradict them, their attention must be drawn to the specific parts of the statement that are contradictory, giving them an opportunity to explain the discrepancy."
+        ],
+        "application": [
+          "The defense argued that the previous statements were inadmissible because the prosecutor did not follow Section 145 strictly, by failing to put every single contradictory passage to the witnesses individually.",
+          "The Supreme Court distinguished this case from a situation where there are only a few isolated contradictions. In such a case, putting each passage to the witness would be necessary.",
+          "However, in this instance, the witnesses disavowed the truth of their *entire* previous statement for a single, overarching reason: police pressure. They did not dispute that the statement was accurately recorded.",
+          "The Court reasoned that it would have been \"useless\" and \"pointless\" to present each contradiction to the witnesses one by one, as their explanation would have been the same for every point—that it was said under police pressure.",
+          "By reading the whole statement and allowing the witnesses to provide their blanket explanation, the fundamental requirement of Section 145—to give the witness a chance to explain—was met."
+        ],
+        "conclusion": "The Supreme Court rejected the argument and held that the requirements of Section 145 of the Indian Evidence Act were fully complied with. When a witness admits their entire previous statement was correctly recorded but claims the whole thing is false for a single, comprehensive reason (like coercion), it is not necessary to put every single contradictory passage to them. Reading the entire statement and asking for an explanation is sufficient."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether it is necessary under Section 145 of the Indian Evidence Act to put every single contradictory passage to a witness who admits that their entire previous statement was correctly recorded but claims it was false due to external pressure.",
+      "appellant_arguments": [
+        "When a witness admits that their entire previous statement was a true record of what they said, but then claims the whole statement was false due to a single reason like 'police pressure', it is sufficient to read the whole statement to them for contradiction. It would be pointless and unnecessary to draw the witness's attention to each individual contradictory sentence, as their explanation would be the same for every point. This procedure sufficiently complies with the requirements of Section 145 of the Indian Evidence Act, and the earlier statement should be admitted as evidence."
+      ],
+      "respondent_arguments": [
+        "For a previous statement to be admissible for the purpose of contradiction under Section 145 of the Indian Evidence Act, every single passage that differs from the witness's current testimony must be put to the witness. This is necessary to provide the witness with an opportunity to explain why they made each specific contrary statement. Failure to do so makes the previous statement inadmissible."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "145",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "164",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302/34",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "When a witness admits that their entire prior statement was truly recorded in the Committal Court, the requirements of Section 145 of the Indian Evidence Act are considered fulfilled, and that earlier statement can be read as substantive evidence in the Sessions Trial without the need to put every single contradictory passage to the witness for explanation.",
+    "obiter": [
+      "Statements made under Section 164 of the Code of Criminal Procedure are not substantive evidence but can be used to corroborate what was stated earlier in the Committal Court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When a witness admits that their entire previous statement was correctly recorded but then claims the whole statement is untrue for a single, overarching reason like 'police pressure', it is not necessary under Section 145 of the Evidence Act to put every single contradictory passage to them. The court distinguished this situation from one where there are only some isolated contradictory passages, in which case the normal procedure of confronting the witness with each passage would be necessary.",
+    "legal_tests_applied": [
+      "The court applied a test of utility and purpose to the procedure under Section 145 of the Indian Evidence Act. It assessed whether confronting the witness with each specific contradictory passage would serve any useful purpose. If the witness's explanation for the discrepancy is a single, blanket reason that applies to the entire previous statement, the mechanical procedure of pointing out each passage is deemed 'useless' and therefore unnecessary."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The appellant's argument was accepted because the witness had already admitted that her statement was a true record of what she said in the Committal Court. Her only reason for retracting it was a single, blanket claim of police pressure. This admission and singular explanation fulfilled the purpose of Section 145, which is to give the witness an opportunity to explain the contradiction, without needing to go through the futile exercise of pointing out each individual discrepancy.",
+      "The court explicitly stated that pointing out the discrepancies would have been 'useless' because the witness's 'explanation would have been the same for every single passage,' namely that she was made to depose that way by the police."
+    ],
+    "policy_considerations": [
+      "The court's reasoning is rooted in judicial pragmatism and the avoidance of pointless procedural formalities. It holds that legal procedures, such as the one in Section 145, are meant to ensure fairness and provide a meaningful opportunity for explanation, not to be a rigid, mechanical ritual that must be followed even when its purpose has been rendered futile by the witness's own testimony."
+    ]
+  },
+  "evidence_map": {}
+}

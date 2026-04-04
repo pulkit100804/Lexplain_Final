@@ -1,0 +1,113 @@
+{
+  "procedural_history": {
+    "originating_court": "IVth Additional Sessions Judge, Azamgarh",
+    "impugned_order": "Judgment and Order dated 10.02.2006 passed by the High Court of Judicature at Allahabad in Criminal Appeal No. 211 of 1982.",
+    "high_court_proceedings": "The accused persons filed Criminal Appeal No. 211 of 1982 in the High Court of Judicature at Allahabad challenging the order dated 22.01.1982 passed by the IVth Additional Sessions Judge, Azamgarh in Sessions Trial No. 132 of 1981. The High Court partly allowed the appeal, upholding the conviction of the five accused but interfering with the sentence and its quantum.",
+    "supreme_court_posture": "The State of Uttar Pradesh, feeling aggrieved by the High Court's judgment, filed a Criminal Appeal (No. 2437 of 2010) by way of special leave before the Supreme Court. The appeal survived only against Tribhuwan (respondent No. 1) for consideration on merits."
+  },
+  "decision": {
+    "appeal_result": "Allowed in part",
+    "conviction_status": "Modified",
+    "sentence_status": "Modified",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court erred in setting aside the jail sentence for an offence under Section 325 of the IPC and substituting it with only a fine, or is a jail sentence mandatory for such an offence?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused was convicted for an offence under Section 325 of the Indian Penal Code (IPC).",
+          "The Sessions Court sentenced him to four years in jail.",
+          "On appeal, the High Court upheld the conviction but set aside the entire jail sentence, substituting it with only a fine of Rs. 10,000.",
+          "The accused had already spent 40 days in detention as an under-trial and as a convict."
+        ],
+        "law": [
+          "Section 325 of the IPC mandates that the punishment for an offence under this section must include both a jail sentence and a fine.",
+          "While the duration of the jail sentence (up to 7 years) and the amount of the fine are at the court's discretion, imposing both is mandatory.",
+          "Section 428 of the Code of Criminal Procedure allows for the period of detention already undergone by an accused to be set off against the term of imprisonment imposed on them."
+        ],
+        "application": [
+          "The Supreme Court reasoned that since Section 325 IPC requires both a jail sentence and a fine, the High Court acted without jurisdiction by completely setting aside the jail sentence.",
+          "The Court stated that the High Court could have either upheld the four-year sentence or reduced it to a reasonable term, but it could not eliminate the jail component of the sentence entirely.",
+          "Therefore, the High Court's decision to impose only a fine was legally incorrect.",
+          "In deciding the final sentence, the Supreme Court considered mitigating factors: the 37-year duration of the litigation and the finding that the accused had not directly caused injury to the deceased or the main injured witness.",
+          "The Court determined that a sentence of 40 days imprisonment along with the Rs. 10,000 fine would satisfy the legal requirement and serve the interests of justice.",
+          "Applying Section 428, the Court set off the 40 days the accused had already served against this sentence, meaning he did not have to return to jail."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court erred because a jail sentence is mandatory for a conviction under Section 325 of the IPC. The High Court had no jurisdiction to substitute the mandatory jail sentence with only a fine. The Supreme Court upheld the conviction but modified the sentence to 40 days imprisonment (which was deemed already served) and a fine of Rs. 10,000."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court erred in setting aside the jail sentence for an offence under Section 325 of the IPC and substituting it with only a fine, or is a jail sentence mandatory for such an offence?",
+      "appellant_arguments": [
+        "The appellant (State) argued that the High Court, while correct in upholding the conviction under Section 325 IPC, committed an error by setting aside the four-year rigorous imprisonment awarded by the Sessions Court and substituting it with only a fine of Rs. 10,000."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not mentioned in the provided text."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "325",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "428",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "147",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "324/149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "325/149",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Maharashtra & Anr. vs. Najakat Alia Mubarak Ali",
+        "citation": "(2001) 6 SCC 311",
+        "principle": "For the interpretation of Section 428 of the Code.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When upholding a conviction under Section 325 of the Indian Penal Code, a court does not have the jurisdiction to fully set aside the jail sentence and substitute it by imposing only a fine; the court must either uphold the awarded jail sentence or reduce it to a reasonable term.",
+    "obiter": [
+      "The order of the Sessions Judge so far as the State was concerned, became final."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court concluded that the High Court had no jurisdiction to completely set aside a jail sentence for a conviction under Section 325 of the Indian Penal Code and substitute it with only a fine. The Court held that while the High Court could have reduced the term of imprisonment, the imposition of some term of imprisonment is mandatory for this offence.",
+    "legal_tests_applied": [
+      "Under Section 325 of the IPC, the imposition of both a jail sentence and a fine is mandatory once an accused is found guilty. The sentencing court has discretion to determine the length of the jail term (up to seven years) but cannot eliminate the jail sentence entirely in favor of only a fine."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The respondent succeeded in mitigating the sentence by highlighting two key circumstances which the court took into consideration: first, that the incident occurred in 1980 and 37 years had passed in prosecuting the litigation, and second, that both lower courts had concluded that the respondent had not caused any injury to the deceased person."
+    ],
+    "policy_considerations": [
+      "The Court considered the extensive delay of 37 years in the prosecution of the case as a significant factor in determining the final sentence, concluding that the interest of justice would be met by not imposing a lengthy jail term after such a long period."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,181 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge",
+    "impugned_order": "Order dated 17th March 2021 passed by the Sessions Judge for the want of jurisdiction.",
+    "high_court_proceedings": "Respondents filed Writ Petition No. 2592 of 2021 before the High Court of Judicature at Bombay, praying for the quashing and setting aside of the order dated 17th March 2021 passed by the Sessions Judge. The High Court vide judgement and order dated 14th February 2022 allowed the Writ Petition No. 2592 of 2021 filed by the Respondents, quashing the complaint.",
+    "supreme_court_posture": "The Appellant (presumably the original complainant) approached the Supreme Court, challenging the High Court's decision to quash the complaint. The Supreme Court allowed the appeal, quashed the High Court's judgment, and remitted the matter back to the High Court for reconsideration on merits."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The impugned judgment and order dated 14th February 2022, passed by the learned Single Judge of the High Court of Judicature at Bombay in Writ Petition No.2592 of 2021 is quashed and set aside.",
+      "It is held that the Special Court presided by a Sessions Judge or an Additional Sessions Judge will have jurisdiction to try the complaint under the Code.",
+      "The matter is remitted to the learned single judge of the High Court for considering the petition of the respondents afresh on merits."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a Special Court presided over by a Sessions Judge or an Additional Sessions Judge has the jurisdiction to try the complaint under the Code.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A complaint was filed under the Code in a Special Court presided over by a Sessions Judge.",
+          "The High Court quashed the complaint, ruling that due to amendments to the Companies Act, 2013, such a court no longer had jurisdiction.",
+          "The issue before the Supreme Court was whether a Special Court presided over by a Sessions Judge or an Additional Sessions Judge has the jurisdiction to try complaints under the Code."
+        ],
+        "law": [
+          "The Court identified the legal principle at play as 'legislation by incorporation', not 'legislation by reference'.",
+          "Under 'legislation by incorporation', when one statute incorporates a provision from another, that provision becomes a part of the new statute as it existed at the time of incorporation.",
+          "Subsequent amendments to the original statute (the source of the provision) do not affect the provision as it exists in the incorporating statute."
+        ],
+        "application": [
+          "The Court found that Section 236(1) of the Code had 'bodily lifted' and incorporated the provisions for Special Courts from Section 435 of the Companies Act, 2013.",
+          "At the time the Code was enacted and incorporated this provision, a Judge of a Special Court was required to be a Sessions Judge or an Additional Sessions Judge.",
+          "Therefore, any later amendments to Section 435 of the Companies Act (which created a distinction where some offences would be tried by a Magistrate) did not change the jurisdictional rules for offences under the Code.",
+          "The Court concluded that the High Court's reasoning was 'untenable' and 'erroneous' because it incorrectly applied the subsequent amendments of the Companies Act to a case under the Code."
+        ],
+        "conclusion": "The Supreme Court held that a Special Court presided over by a Sessions Judge or an Additional Sessions Judge does have the jurisdiction to try the complaint under the Code. This is because the Code incorporated the jurisdictional provision from the Companies Act as it existed at the time of enactment, and subsequent amendments to the Companies Act did not alter the jurisdiction for cases under the Code."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court erred in quashing the complaint on the ground of jurisdiction instead of returning it for presentation before the competent court.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court quashed a complaint filed against the respondents, finding that the Special Court presided over by a Sessions Judge lacked jurisdiction to hear the matter.",
+          "The appellant argued before the Supreme Court that even if the High Court believed there was a jurisdictional error, its decision to quash the complaint was incorrect."
+        ],
+        "law": [
+          "When a court determines it lacks jurisdiction over a complaint, the proper procedure is not to quash the complaint outright on that ground alone."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court had \"grossly erred\" in its approach.",
+          "The Court reasoned that, at most, if the High Court found a lack of jurisdiction, it should have directed the complaint to be withdrawn and then presented to the appropriate court that did have jurisdiction."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court erred by quashing the complaint on the ground of jurisdiction. The correct action would have been to return the complaint for it to be filed in the competent court."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the matter should be remitted to the High Court for a decision on the merits, as it had not been previously considered.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court had quashed the complaint based on a jurisdictional issue, without considering the actual merits of the case.",
+          "The counsel for the respondents (Nos. 1 and 2) argued that if the Supreme Court were to overturn the High Court's decision on jurisdiction, the case should be sent back (remitted) to the High Court.",
+          "The reason for this request was that the respondents believed they had a good case on the merits, which had not yet been heard or adjudicated by the High Court."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court, after deciding the primary jurisdictional issue, acknowledged the respondents' argument.",
+          "The Court noted that its own ruling was on the question of jurisdiction and that the High Court's single judge had indeed not considered the merits of the matter."
+        ],
+        "conclusion": "The Supreme Court accepted the respondents' submission and, in its final order, remitted the matter back to the single judge of the High Court. This was done specifically for the purpose of considering the respondents' petition afresh on its merits."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a Special Court presided over by a Sessions Judge or an Additional Sessions Judge has the jurisdiction to try the complaint under the Code.",
+      "appellant_arguments": [
+        "The appellant's arguments on this specific issue are not detailed in the provided text, but it is implied they believed the Special Court (Sessions Judge) had jurisdiction, as they relied on the judgment in S.V. Raju (supra) to support their case."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the judgment in S.V. Raju (supra), relied upon by the appellant, actually supports the respondent's position. They contended that applying the test from that case leads to the conclusion that this is a case of 'legislation by reference', meaning the Special Court (Sessions Judge) did not have jurisdiction."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the High Court erred in quashing the complaint on the ground of jurisdiction instead of returning it for presentation before the competent court.",
+      "appellant_arguments": [
+        "The appellant argued that even if the Special Court lacked jurisdiction, the High Court's remedy was incorrect. Instead of quashing the complaint, the High Court should have returned it for presentation before the competent court (i.e., a Special Court of a Metropolitan Magistrate or Judicial Magistrate First Class)."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain a counter-argument from the respondent on this procedural issue."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the matter should be remitted to the High Court for a decision on the merits, as it had not been previously considered.",
+      "appellant_arguments": [
+        "The provided text does not show the appellant arguing for the matter to be remitted to the High Court on merits. Their primary argument was for the complaint to be returned to the correct trial court."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that they have a strong case on the merits, which the High Court had not considered. They requested that in the event the Supreme Court found the quashing to be unjustified, the case should be sent back (remitted) to the High Court for a fresh decision on the merits."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "General Clauses Act",
+        "section": "8(1)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Not specified in text",
+        "citation": "Not specified in text",
+        "principle": "If there is a mere reference to a provision of one statute in another without incorporation, Section 8(1) of the General Clauses Act applies, and the reference is construed as a reference to the provision as it may be in force from time to time.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Not specified in text",
+        "citation": "Not specified in text",
+        "principle": "Where a provision of one statute is incorporated into another, any subsequent amendment or even the total repeal of the first statute does not affect the provision as incorporated in the second statute.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Not specified in text",
+        "citation": "Not specified in text",
+        "principle": "A distinction exists between 'legislation by reference' (where a general reference is made and subsequent amendments apply) and 'legislation by incorporation' (where specific provisions are incorporated and subsequent amendments do not apply).",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Not specified in text",
+        "citation": "Not specified in text",
+        "principle": "Once an Act is found to be a self-contained code, the application of the doctrines of 'legislation by reference' or 'legislation by incorporation' loses significance, particularly when the two Acts can coexist without conflict.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Not specified in text",
+        "citation": "Not specified in text",
+        "principle": "The ultimate test to ascertain whether legislation is by incorporation or by reference is to probe the legislative intention, as there are no clear-cut guidelines.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When a statute makes a general reference to a provision of an earlier statute without specific incorporation, it is considered 'legislation by reference', and subsequent amendments to the earlier statute will apply. However, if a provision from one statute is specifically incorporated into another, it is 'legislation by incorporation', and any subsequent amendment or repeal of the original statute will not affect the provision as incorporated into the later statute.",
+    "obiter": [
+      "Once a finding is recorded that an Act is a self-contained code, the application of the doctrines of 'legislation by reference' or 'legislation by incorporation' may lose their significance, particularly when the two Acts can coexist and operate without conflict."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court committed a gross error by quashing the complaint on the ground of jurisdiction. The Supreme Court held that the Special Court presided over by a Sessions Judge does, in fact, have jurisdiction to try the complaint. Furthermore, even if the Special Court had lacked jurisdiction, the proper remedy would have been to direct the return of the complaint for presentation before the competent court, not to quash the proceedings entirely.",
+    "legal_tests_applied": [
+      "The court distinguished between 'legislation by reference' and 'legislation by incorporation' to determine if subsequent amendments to a referenced Act apply. The applied principle is that where provisions from an existing Act are incorporated into a subsequent Act, later additions to the original Act do not apply to the subsequent Act unless expressly made applicable, especially if the subsequent Act can function effectively without the addition."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "Although the respondent lost the appeal on the primary issue of jurisdiction, their alternative request to have the matter remitted to the High Court was granted. The Supreme Court agreed that since the High Court had disposed of the case solely on the jurisdictional point without examining the merits, the case should be sent back for a fresh decision on the merits."
+    ],
+    "policy_considerations": [
+      "A complaint should not be quashed solely because it was filed before a court that is found to lack jurisdiction. The appropriate and less drastic judicial remedy is to return the complaint so it can be presented to the proper court. Quashing the complaint on such a technical ground is a gross error."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[2]": [
+      "p35_69e431ce"
+    ]
+  }
+}

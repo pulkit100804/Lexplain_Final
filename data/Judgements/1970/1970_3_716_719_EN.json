@@ -1,0 +1,112 @@
+{
+  "procedural_history": {
+    "originating_court": "Sub-Divisional Magistrate",
+    "impugned_order": "Order of the Sub-Divisional Magistrate dated 14 November, 1964 directing the police to submit a charge-sheet under sections 353/379 of the Indian Penal Code.",
+    "high_court_proceedings": "The appellant initially went to the Sessions Judge of Muzaffarpur in revision against the order of the Sub-Divisional Magistrate, seeking a reference to the High Court. This application was rejected. Thereafter, the appellant filed an application in revision before the High Court at Patna, challenging the Sub-Divisional Magistrate's order. The High Court rejected this application.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court against the judgment and order of the Patna High Court. The Supreme Court allowed the appeal, quashing the order of the Sub-Divisional Magistrate."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The order of the Sub-Divisional Magistrate dated 14 November, 1964 is quashed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a Magistrate has the power to direct the police to submit a charge-sheet after the police have submitted a final report stating that there is insufficient evidence to proceed.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "After investigating a complaint, the police submitted a final report stating there was insufficient evidence against the accused and that the case was false.",
+          "The complainant filed a \"protest petition\" against this police report.",
+          "The Sub-Divisional Magistrate, acting on the protest petition, ordered the police to submit a charge-sheet.",
+          "The High Court upheld the Magistrate's order, reasoning that it was equivalent to taking cognizance of the case and did not interfere with the police investigation."
+        ],
+        "law": [
+          "The Criminal Procedure Code does not empower a Magistrate to direct the police to submit a charge-sheet.",
+          "The final step in an investigation, which is forming an opinion and filing a report (either a charge-sheet or a final report), is a function of the police, not the judiciary. (Abhinandan Jha and Ors. v. Dinesh Mishra).",
+          "If a Magistrate disagrees with a police report, they have two main options:",
+          "1. Order a further investigation under Section 156(3) of the Criminal Procedure Code.",
+          "2. Take cognizance of the offence themselves under Section 190(1)(c) of the Criminal Procedure Code, notwithstanding the contrary opinion of the police."
+        ],
+        "application": [
+          "The Supreme Court held that a Magistrate cannot dictate the outcome of a police investigation. Forcing the police to submit a charge-sheet when they have concluded there is no case would amount to dictating their opinion, which is not permissible.",
+          "The Court distinguished between the Magistrate's available powers and the power they wrongly exercised. Directing a \"further investigation\" is a legitimate order that keeps the investigative function with the police.",
+          "In contrast, directing the submission of a \"charge-sheet\" is an impermissible command that usurps the police's statutory function.",
+          "The correct course of action for the Magistrate, if they disagreed with the police's conclusion, would have been to either order the police to investigate further or to take cognizance of the offence independently based on the protest petition and other materials."
+        ],
+        "conclusion": "The Supreme Court concluded that a Magistrate does not have the power to direct the police to submit a charge-sheet after the police have filed a final report stating there is insufficient evidence. Such an order is without jurisdiction as it improperly interferes with the statutory duty of the police to form their own opinion based on their investigation."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a Magistrate has the power to direct the police to submit a charge-sheet after the police have submitted a final report stating that there is insufficient evidence to proceed.",
+      "appellant_arguments": [
+        "The Sub-Divisional Magistrate acted without jurisdiction in asking the police to submit a charge-sheet after the police had already submitted a final report finding insufficient evidence."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not detailed in the provided text, but their action of filing a \"protest petition\" implies they believed the Magistrate had the power to overrule the police's final report and order the submission of a charge-sheet."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "156(3)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "190(1)(c)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "Chapter XIV",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Emperor v. Nazir Ahmed",
+        "citation": "71 I.A. 203",
+        "principle": "It is of the utmost importance that the judiciary should not interfere with the police in matters which are within their province and into which the law imposes on them the duty of enquiry.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "H. N. Rishbud v. State of Delhi",
+        "citation": "[1955] 1 S.C.R. 1150",
+        "principle": "Investigation is primarily an ascertainment of facts and circumstances of a case, and the proceedings in an investigation are conducted by the police officer.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A magistrate is not empowered by the Criminal Procedure Code to direct the police to submit a charge-sheet, as the formation of an opinion during an investigation is a matter within the province of the police.",
+    "obiter": [
+      "If a magistrate is of the opinion that a police report requires further investigation, the magistrate may order such an investigation under section 156(3) of the Criminal Procedure Code.",
+      "A magistrate is empowered under section 190(1)(c) of the Criminal Procedure Code to take cognizance of an offence notwithstanding a contrary opinion of the police.",
+      "It is of the utmost importance that the judiciary should not interfere with the police in matters which are within their province and into which the law imposes on them the duty of enquiry."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A Magistrate does not have the power to direct the police to submit a charge-sheet after the police have submitted a report that there is no case for sending the accused for trial. The court reasoned that such a direction would be tantamount to \"dictating to the police to fom1 opinion in accordance with that of the magistrate,\" which is an impermissible interference with the police's statutory duty. The final step in an investigation—forming an opinion—is to be taken only by the police and no other authority.",
+    "legal_tests_applied": [
+      "The court analyzed the scope of a Magistrate's powers under the Criminal Procedure Code, distinguishing between permissible and impermissible actions following a police report. While a Magistrate cannot order the police to submit a charge-sheet against their own findings, the Magistrate retains two key powers: 1) The Magistrate may order a further investigation under section 156(3) of the Criminal Procedure Code if they believe the police report is deficient. 2) The Magistrate is empowered by section 190(1)(c) of the Criminal Procedure Code to take cognizance of an offence directly, even in the face of a contrary opinion from the police."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court emphasized the principle of separation of powers between the judiciary and the police, stating that \"it is of the utmost importance that the judiciary should not interfere with the police in matters which are within their province and into which the. law imposes on. them the duty of enquiry.\"",
+      "The court deemed it undesirable for a magistrate to dictate the outcome of a police investigation, as the formation of an opinion based on the evidence gathered is the exclusive domain of the police."
+    ]
+  },
+  "evidence_map": {}
+}

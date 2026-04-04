@@ -1,0 +1,174 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a lower court since the High Court heard appeals.",
+    "impugned_order": "Judgment and order dated April 5 and 25, 1963, of the Patna High Court in Criminal Appeals Nos. 5 and 6 of 1961.",
+    "high_court_proceedings": "The Patna High Court heard Criminal Appeals Nos. 5 and 6 of 1961. The outcome of these appeals in the High Court is not explicitly stated, but the fact that the Supreme Court is hearing appeals from that decision suggests the appellants were not satisfied with the High Court's ruling.",
+    "supreme_court_posture": "The Supreme Court heard Criminal Appeals Nos. 76 and 130 of 1963 by special leave. Cr. App. 130 of 1963 was dismissed. Cr. App. 76 of 1963 was partly allowed. The appellant in Cr. App. 76 of 1963 was convicted by the High Court of offences under ss. 39 and 44 of the Electricity Act, 1910 and r. 138 of the Electricity Rules, 1956."
+  },
+  "decision": {
+    "appeal_result": "Criminal Appeal No. 76 of 1963 is partly allowed. Criminal Appeal No. 130 of 1963 is dismissed.",
+    "conviction_status": "In Criminal Appeal No. 76 of 1963, the conviction under s. 39 of the Indian Electricity Act read with s. 379 of the Indian Penal Code is set aside. The convictions under s. 44 of the Indian Electricity Act and r. 138(b) of the Indian Electricity Rules are affirmed. In Criminal Appeal No. 130 of 1963, the convictions are affirmed.",
+    "sentence_status": "In Criminal Appeal No. 76 of 1963, the sentence under s. 39 of the Indian Electricity Act read with s. 379 of the Indian Penal Code is set aside. The sentences under s. 44 of the Indian Electricity Act and r. 138(b) of the Indian Electricity Rules are affirmed. In Criminal Appeal No. 130 of 1963, the sentence is affirmed.",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the liability of a consumer under Rule 138 of the Indian Electricity Rules, 1956 is absolute for a broken seal, in the absence of proof that all reasonable means were used to ensure the seal was not broken.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was an industrial power consumer.",
+          "During an investigation, it was discovered that the appellant's electricity meter had been tampered with.",
+          "Specifically, a seal on the meter cover was found to be broken."
+        ],
+        "law": [
+          "Rule 56(2) of the Indian Electricity Rules, 1956 requires a consumer to use all reasonable means in their power to ensure that no seal on their meter is broken.",
+          "Rule 138 of the same rules makes a consumer punishable with a fine if a seal is broken.",
+          "A consumer can avoid punishment under Rule 138 only if they can prove that they used all reasonable means in their power to ensure the seal would not be broken."
+        ],
+        "application": [
+          "The Court established that the burden of proof lies with the consumer, not the prosecution, to demonstrate that they took all reasonable steps to protect the meter's seal.",
+          "The text notes that the appellant did not provide any such proof.",
+          "The Court reasoned that in the absence of the consumer proving they took all reasonable protective measures, the liability for the broken seal becomes absolute."
+        ],
+        "conclusion": "The Supreme Court decided that the appellant's liability under Rule 138 was absolute because they failed to meet their burden of proving that they had used all reasonable means to ensure the meter's seal was not broken. Consequently, the conviction was upheld."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the existence of an artificial means for preventing a meter from duly registering (like an exposed stud hole) gives rise to a presumption under Section 44 of the Indian Electricity Act, 1910 that the consumer wilfully and knowingly prevented the meter from registering correctly.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were industrial power consumers whose electricity meters were found to have been tampered with.",
+          "The tampering involved a broken seal and a loosened sealing nut, which exposed a stud hole on the meter cover.",
+          "This exposed stud hole made it possible to insert a foreign object to slow down the meter's internal disc.",
+          "The meters were in the custody and control of the appellants (the consumers)."
+        ],
+        "law": [
+          "Section 44 of the Indian Electricity Act, 1910, states that if it is proven that an 'artificial means' exists to prevent a meter from duly registering, and the meter is under the consumer's control, a legal presumption is created.",
+          "This presumption is that the consumer has 'knowingly and wilfully' caused the meter to be prevented from registering correctly.",
+          "This is a rebuttable presumption, meaning it stands 'until the contrary is proved' by the consumer."
+        ],
+        "application": [
+          "The Court first identified the exposed stud hole as an 'artificial means for preventing the meter from duly registering' because it allowed for interference with the meter's function.",
+          "Since this artificial means existed on a meter that was under the consumer's custody and control, the conditions set out in Section 44 were met.",
+          "Consequently, the Court applied the statutory presumption that the consumer had wilfully and knowingly prevented the meter from working correctly.",
+          "The Court clarified that to raise this presumption, the prosecution did not need to prove that the consumer was personally responsible for creating the artificial means or that the meter was actually prevented from registering correctly. The mere existence of the means was sufficient.",
+          "The burden then shifted to the appellants to rebut this presumption, which they failed to do."
+        ],
+        "conclusion": "The Supreme Court concluded that the existence of an artificial means for tampering, such as an exposed stud hole on a meter in the consumer's control, is sufficient to trigger the presumption under Section 44 of the Act. This presumes that the consumer wilfully and knowingly prevented the meter from registering correctly, and the consumer is then responsible for proving otherwise. Since the appellants did not rebut this presumption, their conviction under Section 44 was upheld."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the mere exposure of a stud hole on a meter cover, without more, constitutes an 'artificial means of abstraction' and is prima facie evidence of dishonest abstraction of energy under Section 39 of the Indian Electricity Act, 1910.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Inspectors found that the electricity meters of several industrial consumers had been tampered with.",
+          "The specific tampering involved a broken seal and a loosened sealing nut, which exposed a stud hole on the meter cover.",
+          "This exposed stud hole made it possible to insert a foreign object to retard the meter's rotation."
+        ],
+        "law": [
+          "Section 39 of the Indian Electricity Act, 1910, states that whoever dishonestly abstracts, consumes, or uses energy commits theft.",
+          "Under Section 39, the existence of \"artificial means for such abstraction\" serves as prima facie evidence of the dishonest abstraction.",
+          "The court distinguished Section 39 from Section 44. Under Section 44, an artificial means for *preventing a meter from registering* raises a presumption of guilt against the consumer for that specific offense.",
+          "The court clarified that the presumption under Section 44 cannot be imported into or used to prove an offense under Section 39."
+        ],
+        "application": [
+          "The Supreme Court reasoned that an exposed stud hole, by itself, is merely a means to *prevent* a meter from registering correctly (an offense under Section 44), but it is not, without more, an \"artificial means for abstraction\" of energy under Section 39.",
+          "The court described a meter with only an exposed stud hole as \"not a perfected instrument for unauthorised taking of energy.\"",
+          "To qualify as an artificial means for abstraction under Section 39, the tampering must go further, converting the meter into an instrument that is actually recording less energy than is being consumed.",
+          "The prosecution must prove that the consumer is responsible for the tampering and that energy was actually dishonestly abstracted. The mere potential for abstraction created by the hole is insufficient."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the mere exposure of a stud hole on a meter cover, without more evidence (such as proof that the meter was actually under-recording), is not an 'artificial means of abstraction' and does not constitute prima facie evidence of dishonest abstraction of energy under Section 39 of the Act."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the liability of a consumer under Rule 138 of the Indian Electricity Rules, 1956 is absolute for a broken seal, in the absence of proof that all reasonable means were used to ensure the seal was not broken.",
+      "appellant_arguments": [
+        "The appellant implicitly argued that their liability for a broken seal was not absolute and that the prosecution should be required to prove they were responsible for it."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that under Rule 138, the liability of the consumer is absolute for a broken seal unless the consumer can prove that they used all reasonable means to ensure the seal was not broken."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the existence of an artificial means for preventing a meter from duly registering (like an exposed stud hole) gives rise to a presumption under Section 44 of the Indian Electricity Act, 1910 that the consumer wilfully and knowingly prevented the meter from registering correctly.",
+      "appellant_arguments": [
+        "The appellant argued that the mere existence of an exposed stud hole was not enough to trigger the presumption under Section 44, and that the prosecution needed to prove more to show they had wilfully and knowingly prevented the meter from registering."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the exposed stud hole was an artificial means for preventing the meter from registering, which created a presumption under Section 44. The burden was then on the appellant, who had custody of the meter, to rebut this presumption, which they failed to do."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the mere exposure of a stud hole on a meter cover, without more, constitutes an 'artificial means of abstraction' and is prima facie evidence of dishonest abstraction of energy under Section 39 of the Indian Electricity Act, 1910.",
+      "appellant_arguments": [
+        "The appellant argued that the exposure of a stud hole, by itself, is not an 'artificial means of abstraction' and does not constitute prima facie evidence of dishonest abstraction under Section 39. The prosecution failed to provide any other evidence, such as finding foreign material in the meter or verifying that it was recording less energy than consumed."
+      ],
+      "respondent_arguments": [
+        "The respondent (and the High Court) argued that the exposure of the stud hole was, in itself, an artificial means of abstraction and was sufficient prima facie evidence to convict the appellant for dishonest abstraction of energy under Section 39."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Electricity Act, 1910",
+        "section": "s. 39",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Electricity Act, 1910",
+        "section": "s. 44",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Electricity Rules, 1956",
+        "section": "r. 56(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Electricity Rules, 1956",
+        "section": "r. 138",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Under s. 39 of the Indian Electricity Act, the existence of unauthorized means for abstraction is only prima facie evidence of dishonest abstraction by some person; to convict a specific accused, the prosecution must prove separately that the accused was the one who made the abstraction. Under s. 44, a person in custody or control of a tampered meter is presumed to have wilfully and knowingly prevented it from duly registering, and the burden is on them to rebut this presumption. Liability under r. 138 for a broken seal is absolute unless the accused proves they used all reasonable means to prevent it.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court distinguished between offenses related to the condition of the electricity meter and the actual act of dishonestly abstracting energy. For offenses concerning the meter's integrity, such as a broken seal (Rule 138) or the existence of a means to prevent registration (Section 44), the law imposes absolute liability or a rebuttable presumption on the consumer who has custody of the meter. However, for the more serious charge of theft (Section 39), the mere existence of a means to abstract energy is insufficient for conviction; the prosecution must provide additional evidence ('aliunde') to prove that the accused was the one who actually committed the dishonest abstraction.",
+    "legal_tests_applied": [
+      "Under Rule 138, a consumer's liability for a broken seal is absolute unless the consumer can prove they used all reasonable means to ensure the seal was not broken.",
+      "Under Section 44, the existence of an artificial means for preventing a meter from duly registering creates a rebuttable presumption that the person in custody of the meter wilfully and knowingly prevented it from registering.",
+      "Under Section 39, the existence of an artificial means for abstraction is only prima facie evidence of dishonest abstraction by 'some person,' not necessarily the accused. The prosecution must prove 'aliunde' (from another source) that the accused made the abstraction."
+    ],
+    "why_appellant_lost": [
+      "Regarding the conviction under Rule 138, the appellant's liability was deemed absolute because there was an absence of proof that he used all reasonable means to ensure that the seal should not be broken.",
+      "Regarding the conviction under Section 44, the appellant had custody of the meter which had an artificial means to prevent proper registration (an exposed stud hole), and he failed to rebut the statutory presumption that he wilfully and knowingly prevented the meter from duly registering."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully established that under Rule 138, the liability for a broken seal is absolute on the consumer in the absence of proof that reasonable means were taken to protect it.",
+      "The respondent successfully argued that the exposed stud hole constituted an 'artificial means' which triggered the presumption under Section 44, shifting the burden to the appellant to prove he did not wilfully prevent the meter from registering, a burden the appellant failed to meet."
+    ],
+    "policy_considerations": [
+      "The judgment implicitly balances the difficulty a utility company faces in proving tampering with equipment located on a consumer's premises against the high standard of proof required for a criminal conviction of theft. By creating strict liability or presumptive offenses for the condition of the meter (which is in the consumer's control), the law protects the utility, while still requiring the prosecution to prove the actual act of abstraction for the more serious offense of theft, thereby protecting the accused from conviction based on mere possibility."
+    ]
+  },
+  "evidence_map": {}
+}

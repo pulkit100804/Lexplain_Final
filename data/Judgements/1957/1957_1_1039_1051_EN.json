@@ -1,0 +1,134 @@
+{
+  "procedural_history": {
+    "originating_court": "Sub-Judge 1st Class in Ferozepore",
+    "impugned_order": "Judgment and order dated July 17, 1952, of the Punjab High Court in First Appeal from Order No. Y of 1949 against the judgment and decree of the Sub-Judge 1st Class.",
+    "high_court_proceedings": "The Sub-Judge initially dismissed the application, finding in favor of the Union of India on the issue of liability. The High Court reversed this finding and allowed the appeal, finding the Union of India liable.",
+    "supreme_court_posture": "The Union of India, as the appellant, approached the Supreme Court after being granted a certificate by the Punjab High Court at Simla. The appeal was made under Article 132 read with Article 147 and Article 133 (1)(c) of the Constitution of India."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether, on a true construction of the India Independence (Rights, Property and Liabilities) Order, 1947, the liability for the contract in question fell exclusively on the Dominion of Pakistan, thereby absolving the Union of India.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A contract was made before the 1947 partition on behalf of the Governor-General of India in Council.",
+          "The contract was for the supply of fodder to the Manager of Military Farms in Lahore Cantonment.",
+          "Following the partition on August 15, 1947, Lahore became part of the Dominion of Pakistan.",
+          "The supplier sought to hold the Union of India liable for payments under this contract.",
+          "The High Court had ruled in favor of the supplier, finding that because the fodder constituted 'military stores' under the control of a Joint Defence Council and could be moved anywhere, the contract was not for the exclusive purpose of Pakistan."
+        ],
+        "law": [
+          "The case turned on the interpretation of Article 8(1) of the India Independence (Rights, Property and Liabilities) Order, 1947.",
+          "This article determines which new Dominion inherits the rights and liabilities of pre-partition contracts.",
+          "Article 8(1)(a) states that if a contract was for purposes that, as of the partition date, became *exclusively* the purposes of the Dominion of Pakistan, then all liabilities under it would fall on Pakistan.",
+          "Article 8(1)(b) acts as a residual clause, stating that in any other case, the liability would fall on the Dominion of India."
+        ],
+        "application": [
+          "The Supreme Court established a clear test to determine if a contract's purpose was 'exclusively' for one Dominion: one must ask if the contract had been made on August 15, 1947, for whose purposes would it have been?",
+          "Applying this test, the Court found that the purpose of the contract was to supply fodder to a specific location: the Military Farms in Lahore.",
+          "Since Lahore was in Pakistan on the appointed day (August 15, 1947), the contract was unequivocally for a purpose that was exclusively for the Dominion of Pakistan.",
+          "The Court rejected the High Court's reasoning that the Joint Defence Council's control over the goods changed the contract's purpose.",
+          "It held that the purpose of a contract is determined by its terms (i.e., where the goods were to be supplied) and is not modified by the subsequent control or ultimate disposal of the goods after the contract is performed."
+        ],
+        "conclusion": "The Supreme Court concluded that the contract fell squarely under Article 8(1)(a) of the Independence Order, as its purpose was exclusively for the Dominion of Pakistan. Consequently, the liability for the contract rested solely with Pakistan, and the Union of India was absolved of any responsibility. The Court, therefore, overturned the High Court's decision."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Court at Ferozepore had jurisdiction to try the suit.",
+        "court_answer": "not_decided"
+      },
+      "reasoning": {
+        "facts": [
+          "The issue of whether the court at Ferozepore had jurisdiction was one of two main issues in the case.",
+          "The Subordinate Judge found that the court did have jurisdiction.",
+          "The High Court affirmed the Subordinate Judge's finding on jurisdiction."
+        ],
+        "law": [],
+        "application": [
+          "When the case reached the Supreme Court, the Court noted that the issue of jurisdiction was no longer a point of contention or relevance to the appeal.",
+          "The Court stated that \"nothing now turns upon this issue\"."
+        ],
+        "conclusion": "The Supreme Court explicitly declined to make a decision on the issue of jurisdiction, stating that it was \"not called upon to make any pronouncement thereon.\""
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether, on a true construction of the India Independence (Rights, Property and Liabilities) Order, 1947, the liability for the contract in question fell exclusively on the Dominion of Pakistan, thereby absolving the Union of India.",
+      "appellant_arguments": [
+        "Based on the India Independence (Rights, Property and Liabilities) Order, 1947, the Union of India had no liability for the contract.",
+        "The purposes of the contract, as of August 15, 1947, were exclusively for the Dominion of Pakistan, thus shifting all liability to Pakistan."
+      ],
+      "respondent_arguments": [
+        "The High Court's interpretation of the Independence Order, 1947, and the Defence Order, 1947, which found the Union of India liable, was correct."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the Court at Ferozepore had jurisdiction to try the suit.",
+      "appellant_arguments": [
+        "The Court at Ferozepore lacked jurisdiction because the cause of action did not arise within its territorial limits."
+      ],
+      "respondent_arguments": [
+        "The Court at Ferozepore had jurisdiction because the respondent was a 'displaced person' residing in Muktsar, which is within the court's jurisdiction."
+      ],
+      "court_acceptance": "not_decided"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Independence (Rights, Property and Liabilities) Order, 1947",
+        "section": "Article 8(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Joint Defence Council Order, 1947 (also referred to as the Defence Order, 1947)",
+        "section": "Article 8",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Krishna Ranjan v. Union of India",
+        "citation": "A.I.R. 1954 Cal. 623",
+        "principle": "For the correct test to determine the true scope and effect of Art. 8(1) of the Independence Order, 1947, which is an artificial test: 'if the contract had been entered into on August 15, 1947, whether it would have been a contract for the purposes of the Dominion of Pakistan, or if the Dominion of Pakistan had been in existence when the contract was entered into, whether it would have been a contract for the purposes of Pakistan.'",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Under Article 8(1) of the Independence Order, 1947, liability for a contract made by undivided India is determined by an artificial test: if the contract had been entered into on the date of partition, would it have been for purposes that were, as of that date, exclusively the purposes of a specific Dominion? If so, the contract is deemed to have been made on behalf of that Dominion. This article creates a legal fiction and applies to all rights and liabilities which have accrued or may accrue under the contract, regardless of whether the contract is executed or executory. The determination is based on the 'purpose of the contract' itself, not the 'ultimate disposal of the goods'.",
+    "obiter": [
+      "The Joint Defence Council Order, 1947, does not affect the rights and liabilities arising out of a contract that are governed by the provisions of the Independence Order, 1947.",
+      "Ordinarily, on an application under the Arbitration Act, the only point for decision is whether an arbitration agreement exists, and the question of liability is for the arbitrator, not the Court, to decide."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that there is a critical distinction between the 'purpose of the contract' and the 'ultimate disposal of the goods'. The liability for a contract under the India Independence (Rights, Property and Liabilities) Order, 1947, is determined by its purpose as of the appointed day (August 15, 1947). In this case, the purpose was to supply fodder to Lahore, a location that became part of Pakistan. Therefore, the liability fell exclusively on the Dominion of Pakistan, irrespective of any subsequent control or movement of the goods by the Joint Defence Council.",
+    "legal_tests_applied": [
+      "To determine liability under Article 8(1) of the Independence Order, 1947, the court must identify the purpose of the contract as of the appointed day. If the purpose was exclusively for a territory that became Pakistan, then the liability is Pakistan's under clause (a) of that Article."
+    ],
+    "why_appellant_lost": [
+      "The High Court's reasoning, which the respondent relied upon, was found to be flawed due to a 'lack of proper appreciation of the distinction between the \"purpose of the contract\" and the 'ultimate disposal of the goods' supplied under the contract.'",
+      "The High Court incorrectly used the provisions of the Joint Defence Council Order, 1947, to determine liability. The Supreme Court clarified that the Defence Order, which governs the allotment of goods, 'does not alter the rights or liabilities determined uooer the Independence Order, 1947.'",
+      "The High Court was 'in error in inferring that on the strength of certain provisions of the Defence Order, 1947, the contract in question came within cl. (b) of Art. 8(1 ), and not cl. (a).'"
+    ],
+    "why_respondent_won": [
+      "The purpose of the contract was to supply fodder to the Manager, Military Farms, Lahore Cantonment, which was in Pakistan on the appointed day. This made the contract one for a purpose 'exclusively for the Dominion of Pakistan.'",
+      "The court held that the 'purpose of the contract is not determined nor modified by the ultimate disposal of the goods supplied under the .contract, nor even by the powers of control exercised over the goods after the contract had been performed by the respondent.'",
+      "Applying the correct legal test, the contract fell under clause (a) of Article 8(1) of the Independence Order, 1947, which assigns all rights and liabilities of such a contract to the Dominion of Pakistan, thereby absolving the Union of India."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

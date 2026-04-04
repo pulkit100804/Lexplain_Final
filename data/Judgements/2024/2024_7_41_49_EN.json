@@ -1,0 +1,130 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (as inferred from the Supreme Court's direction to the Trial Court to hold an inquiry into the plea of juvenility)",
+    "impugned_order": "Judgment and Order dated 05.03.2013 of the High Court of Gujarat at Ahmedabad in CRLA No. 2436 of 2005",
+    "high_court_proceedings": "The High Court of Gujarat at Ahmedabad issued a Judgment and Order dated 05.03.2013 in CRLA No. 2436 of 2005.",
+    "supreme_court_posture": "The Supreme Court was approached because the appellant challenged the High Court's decision. The appellant raised a plea of juvenility, which led the Supreme Court to direct the Trial Court to hold an inquiry. After the Trial Court determined the appellant was not a juvenile, the Supreme Court granted leave and heard the appeal on its merits, ultimately allowing the appeal."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside and acquitted",
+    "sentence_status": "set aside",
+    "directions": [
+      "The appellant shall be set at liberty unless he is required to be detained in connection with any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction and sentence of the appellant for the offence punishable under Section 302 of the Indian Penal Code was justified.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted for murder under Section 302 of the Indian Penal Code by the Sessions Court, a decision later confirmed by the High Court.",
+          "The prosecution's case relied on evidence including an alleged extra-judicial confession, a dying declaration, and the testimony of several witnesses.",
+          "A plea of juvenility was raised by the appellant but was rejected by the Trial Court after an inquiry."
+        ],
+        "law": [
+          "Under criminal law, the prosecution bears the burden of proving the guilt of the accused beyond a reasonable doubt.",
+          "Evidence such as extra-judicial confessions, dying declarations, and witness testimonies must be credible and reliable to form the basis of a conviction.",
+          "The non-examination of a crucial witness by the prosecution can lead to an adverse inference being drawn against it."
+        ],
+        "application": [
+          "The Court found the evidence of an extra-judicial confession to be unbelievable. The Police Sub-Inspector (PSI) to whom the confession was allegedly made was never examined as a witness, and his statement was not recorded during the investigation, making the confession unprovable.",
+          "The Court noted that the PSI was a crucial witness as he had taken the appellant into custody. The prosecution's failure to produce him was viewed as withholding a vital witness, which made the circumstances of the arrest highly suspicious.",
+          "The Court was not convinced by the prosecution's evidence regarding a dying declaration, stating that it did not inspire confidence.",
+          "The testimony of key prosecution witnesses was found to be unreliable. One witness (PW-3) denied his police statement during cross-examination, and another (PW-4) was declared hostile. The Court found nothing in their evidence that could connect the appellant to the murder."
+        ],
+        "conclusion": "The Supreme Court concluded that due to the significant weaknesses in the prosecution's case, including an unproven extra-judicial confession, an unreliable dying declaration, hostile witnesses, and the withholding of a crucial witness, the conviction could not be sustained. Consequently, the Court rejected the lower courts' decisions, allowed the appeal, and acquitted the appellant of the murder charge."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the appellant was a juvenile in conflict with the law on the date of the commission of the offence.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant raised a plea claiming to be a juvenile at the time of the offence.",
+          "The Supreme Court, by an order dated 10th April 2023, directed the Trial Court to conduct an inquiry into this plea."
+        ],
+        "law": [],
+        "application": [
+          "The Trial Court conducted the directed inquiry.",
+          "Following the inquiry, the Trial Judge concluded in an order dated 8th April 2023 that the appellant was not a juvenile in conflict with the law on the date the offence was committed."
+        ],
+        "conclusion": "The Supreme Court accepted the finding of the Trial Court's inquiry and rejected the appellant's plea of juvenility, after which it proceeded to hear the main appeal on its merits."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction and sentence of the appellant for the offence punishable under Section 302 of the Indian Penal Code was justified.",
+      "appellant_arguments": [
+        "The testimony of the eyewitnesses, who were declared hostile, does not support the prosecution's case.",
+        "The prosecution could not rely on certain out-of-context statements made by the hostile eyewitnesses.",
+        "The prosecution's theory of a dying declaration is unreliable, as evidence from witnesses (PW-3 and PW-19) showed the deceased was unconscious and not in a position to speak when he was taken to the hospital.",
+        "Eyewitnesses, when confronted with their police statements recorded under Section 161 CrPC, denied having made them."
+      ],
+      "respondent_arguments": [
+        "The provided text implies the respondent's case relied on an alleged dying declaration made by the deceased.",
+        "The prosecution attempted to use the prior statements of witnesses recorded under Section 161 CrPC to challenge their hostile testimony in court."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the appellant was a juvenile in conflict with the law on the date of the commission of the offence.",
+      "appellant_arguments": [
+        "The provided text does not contain the arguments for this issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments for this issue."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "161",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The normal rule of human conduct is that a person would confess the commission of a serious crime only to a person in whom they have implicit faith; therefore, an extra-judicial confession made to a person who does not share such a relationship of trust with the accused is considered unnatural and lacks credibility.",
+    "obiter": [
+      "It is necessary for the prosecution to collect and present corroborating evidence regarding the circumstances of an alleged extra-judicial confession, especially when the confession itself appears unnatural."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the extra-judicial confession, which was central to the prosecution's case, was unreliable and insufficient to sustain a conviction. The court found it unnatural and contrary to the normal course of human conduct for the appellant to confess a murder over the phone to his employer of only five months, as such a confession would typically only be made to a person in whom the confessor has implicit faith. This conclusion was reinforced by the prosecution's failure to investigate and produce crucial corroborating evidence, such as the phone numbers used for the alleged confession call.",
+    "legal_tests_applied": [
+      "The court assessed the credibility of the extra-judicial confession against the 'Normal rule of human conduct,' which dictates that a person would confess the commission of a serious crime only to a person in whom he has implicit faith.",
+      "The court implicitly applied the standard that it is necessary for the prosecution to collect and place all relevant corroborating evidence before the Court to prove its case beyond a reasonable doubt, noting the failure to investigate the phone numbers involved in the alleged confession."
+    ],
+    "why_appellant_lost": [
+      "The provided text does not contain the court's reasoning for rejecting the appellant's claim of being a juvenile in conflict with the law."
+    ],
+    "why_respondent_won": [
+      "The provided text does not contain the court's reasoning for its success on the issue of the appellant's juvenility."
+    ],
+    "policy_considerations": [
+      "The judgment reinforces the principle that convictions for serious offences cannot be based on evidence that is inherently improbable or unnatural, thereby serving as a safeguard against wrongful convictions based on weak circumstantial evidence.",
+      "The court highlighted the systemic duty of the prosecution to conduct a thorough investigation into all aspects of the evidence it presents, as the failure to collect and present corroborating evidence (like phone records) can fatally weaken the credibility of its claims."
+    ]
+  },
+  "evidence_map": {
+    "ratio_decidendi.ratio": [
+      "p6_862a01a0"
+    ]
+  }
+}

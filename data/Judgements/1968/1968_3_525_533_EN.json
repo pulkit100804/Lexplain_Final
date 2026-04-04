@@ -1,0 +1,150 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment and order dated July 28, 1965 of the Patna High Court in Criminal Appeal Nos. 533 and 534 of 1963.",
+    "high_court_proceedings": "The Patna High Court upheld the decision of the Trial Court, refusing to examine the defence of the appellants.",
+    "supreme_court_posture": "Appeals by special leave from the judgment and order of the Patna High Court. The appellants contended that they did not have a fair trial, the High Court and Trial Court erroneously refused to consider their defence, ignored important circumstances in their favor, and reached conclusions unsupported by evidence. They also argued that inadmissible evidence was wrongly admitted."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "acquitted",
+    "sentence_status": null,
+    "directions": [
+      "Their bail bonds do stand cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the trial court and High Court were correct in refusing to examine the accused's defense on the ground that their version had already been rejected in another case filed on a complaint by the accused.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court and the High Court refused to examine the defense put forward by the accused (appellants).",
+          "The sole reason for this refusal was that the accused's version of events had already been considered and rejected by a Magistrate in a different case, which was initiated based on a complaint filed by the first accused."
+        ],
+        "law": [
+          "The legal doctrine of 'issue estoppel' prevents an issue that has been decided in a case from being re-litigated in a subsequent case between the same parties.",
+          "The standard of proof required for the prosecution to prove its case is 'beyond a reasonable doubt'.",
+          "The standard of proof for an accused to substantiate their defense is lower; they only need to show that their plea is 'reasonable and probable' to be entitled to the benefit of the doubt."
+        ],
+        "application": [
+          "The Supreme Court determined that the principle of issue estoppel did not apply here.",
+          "The reason was that the parties in the two cases were not the same. The plea put forward by the accused in the current case had never been litigated between them and their opponent in this case, which was the State.",
+          "The Court noted that the prosecutor in both cases was the State, which meant the State was taking inconsistent positions, but this did not prevent the accused from raising their defense.",
+          "Additionally, the Court expressed doubt that such a rule could be used against an accused person due to the different standards of proof. It is unfair to reject an accused's defense (which only needs to be probable) based on a finding in a prior case where they, as a complainant, failed to meet a different burden of proof."
+        ],
+        "conclusion": "The Supreme Court concluded that the trial court and High Court erred in summarily rejecting the defense of the accused. The decision in the prior case did not operate as an issue estoppel, and the accused were entitled to have their defense considered on its merits."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the principle of issue-estoppel could be raised against an accused in a criminal trial.",
+        "court_answer": "no_opinion"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court and High Court had refused to examine the appellants' defense, reasoning that their version of events had already been rejected in a prior case.",
+          "The Supreme Court found this refusal to be erroneous on other grounds, namely that the appellants were not parties to the prior litigation in a way that would trigger estoppel against them.",
+          "This made it unnecessary for the court to give a final ruling on the specific issue of whether issue-estoppel can ever be used against an accused."
+        ],
+        "law": [
+          "The court noted the argument against applying issue-estoppel to an accused: the prosecution must prove its case beyond a reasonable doubt.",
+          "In contrast, an accused's burden of proof for a defense is often lower, merely needing to be shown as reasonable and probable.",
+          "This difference in the standards of proof makes it doubtful whether the principle could be fairly applied against an accused."
+        ],
+        "application": [
+          "The court observed that the question of whether issue-estoppel could be raised against an accused had been \"mooted\" but was not directly before it.",
+          "It explicitly stated, \"We prefer to express no opinion on this question since it does not arise for examination.\"",
+          "Elsewhere, while discussing its doubts, the court reiterated that it was \"unnecessary to express any final opinion on this point.\""
+        ],
+        "conclusion": "The Supreme Court did not decide the issue. It explicitly declined to express an opinion on whether the principle of issue-estoppel could be raised against an accused, as it was not necessary to resolve the case before it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the trial court and High Court were correct in refusing to examine the accused's defense on the ground that their version had already been rejected in another case filed on a complaint by the accused.",
+      "appellant_arguments": [
+        "The appellants did not have a fair trial because the High Court and the trial court, on an erroneous view of the law, refused to take their defense into consideration.",
+        "The lower courts ignored important circumstances appearing in the appellants' favour.",
+        "The defense was highly probable because: (1) it was put forward immediately after the occurrence; (2) it satisfactorily explained the injuries on the appellants, which the prosecution failed to do; and (3) prosecution evidence suggested the weapon was planted on them."
+      ],
+      "respondent_arguments": [
+        "[The text does not explicitly state the respondent's arguments, but they would have supported the lower courts' reasoning that the appellants' version of events, having been rejected in a prior case, should not be reconsidered.]"
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the principle of issue-estoppel could be raised against an accused in a criminal trial.",
+      "appellant_arguments": [
+        "The decision in the former case could not operate as an issue-estoppel against the appellants because they were not parties in that case.",
+        "The plea taken by the appellants in this case was never before litigated between them and the State, which is the opposite party in the present case.",
+        "It is doubtful whether the rule of issue-estoppel can be used against an accused, because the standard of proof for an accused's plea (reasonable and probable) is different from the prosecution's burden (beyond a reasonable doubt)."
+      ],
+      "respondent_arguments": [
+        "[The text does not explicitly state the respondent's arguments, but they would have argued in favor of applying the principle to prevent the re-litigation of facts already decided.]"
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act",
+        "section": "157",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act",
+        "section": "145",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "154",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pritam Singh v. The State of Punjab",
+        "citation": "A.l.R. 1956 S.C. 415",
+        "principle": "For the rule of issue-estoppel, which prevents the relitigation of an issue that has been settled by a prior litigation between the same parties.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sambasivam v. Public Prosecutor, Federation of Malaya",
+        "citation": "[1950] A.C. 458",
+        "principle": "For the original statement of law on issue-estoppel, which was accepted as correct by the Supreme Court in Pritam Singh's case.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Manipur Administration v. Thokchoni, Bira Singh",
+        "citation": "[1964] 7 S.C.R. 123",
+        "principle": "For endorsing the rule of issue-estoppel and for the observation that the rule's application against an accused is doubtful due to the different standards of proof for the prosecution and the accused.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A decision in a prior case cannot operate as an issue-estoppel against a party in a subsequent case if that party was not a party in the prior case where the issue was litigated.",
+    "obiter": [
+      "It is doubtful whether the rule of issue-estoppel could be pressed against an accused, given that the nature of proof required of an accused to substantiate a plea is different from the proof required of the prosecution.",
+      "The question of whether the principle of issue-estoppel could be raised against an accused is a matter on which the court expresses no opinion as it does not arise for examination."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The trial court and High Court erred in summarily rejecting the defense of the appellants on the sole ground that their version had been rejected in a prior case. The decision in the former case could not operate as an issue-estoppel against the appellants because they were not parties in that case. The plea taken by the appellants in this case was never before litigated between them and the State, the opposite party in the present case. Therefore, it was wrong to hold that the appellants were estopped from putting forward their defense, and the failure to consider it resulted in a miscarriage of justice.",
+    "legal_tests_applied": [
+      "Issue-estoppel: For the doctrine to apply, an issue must have been settled by prior litigation between the same parties. The court found that 'the plea taken by the appellants in this case was never before litigated between them and the State, the -opposite party in the present case,' and therefore the doctrine was inapplicable."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court expressed doubt as to whether the rule of issue-estoppel could be pressed against an accused, 'the reason being that while a prosecution cannot succeed unless it proved its case beyond reasonable doubt, the nature of the proof required of an accused in substantiating the plea taken by him is different-it is sufficient if he proves that plea taken by him is reasonable and probable. In that event he is entitled to the benefit of doubt.'"
+    ]
+  },
+  "evidence_map": {}
+}

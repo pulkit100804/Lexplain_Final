@@ -1,0 +1,146 @@
+{
+  "procedural_history": {
+    "originating_court": "Labour Court, Allahabad",
+    "impugned_order": "Award dated September 16, 1965, in Adjudication Case No. 78 of 1965, directing the reinstatement of six workmen with 50% back wages.",
+    "high_court_proceedings": "No High Court proceedings are mentioned in the text. The case went directly to the Supreme Court from the Labour Court via special leave.",
+    "supreme_court_posture": "The appellant company appealed to the Supreme Court by special leave, challenging the Labour Court's award that directed reinstatement of the six workmen."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The result is that this appeal fails, and is dismissed.",
+      "There will be no order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the finding of the Labour Court, that the appellant agreed not to take disciplinary action against its workmen in respect of the first strike, is erroneous.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Following a 'first strike', a meeting was held on March 29, 1964, with representatives from the management (the appellant), the workers' union, and the District Industrial Relations Advisory Committee.",
+          "The union contended that at this meeting, the management agreed not to take any disciplinary action against the workers for the first strike, and on this basis, the strike was called off.",
+          "The management denied making such an agreement.",
+          "After a subsequent 'second strike', and after receiving an inquiry report about it, the management issued warnings to several workmen for their participation in the *first* strike.",
+          "These warnings were then explicitly taken into account by the management when it decided to dismiss six of the workmen for their role in the second strike."
+        ],
+        "law": [
+          "When evaluating a factual finding of a lower court, the Supreme Court examines the evidence on record.",
+          "The testimony of a witness that is not challenged or cross-examined by the opposing party carries significant weight."
+        ],
+        "application": [
+          "The Supreme Court highlighted a key piece of evidence: the President of the Union testified that the management had agreed not to take disciplinary action at the March 29 meeting.",
+          "Crucially, the Court noted that the appellant's counsel did not cross-examine the Union President on this point, nor did they even suggest that his testimony was incorrect. This lack of challenge weakened the appellant's position.",
+          "The Court also found the timing of the management's actions to be suspect. The warning for the first strike was only issued *after* the management had received the inquiry report for the second strike.",
+          "This timing led the Court to agree with the Labour Court's conclusion that the warning was not issued in good faith ('not bona fide') but was instead a tactic to \"create a ground for punishment and dismissal\" in relation to the second strike."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's contention and upheld the Labour Court's finding. It concluded that based on the unchallenged testimony and the suspicious timing of the management's actions, the Labour Court was correct to find that there was a settlement where the appellant agreed not to take disciplinary action for the first strike, and that its subsequent issuance of a warning violated this settlement and was not bona fide."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Labour Court erred in interfering with the management's decision to impose punishment for misconduct, given that the second strike was held to be illegal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "There were two strikes. The first strike ended with a settlement where the management agreed not to take disciplinary action against the workers.",
+          "Despite the settlement, the management later issued a warning to some workers for their participation in the first strike.",
+          "A second strike occurred, which the Labour Court found to be illegal and therefore a 'misconduct' under the company's Standing Orders.",
+          "The management dismissed six workmen who had participated in the second strike.",
+          "The dismissal order explicitly took into account the prior warning that had been issued in respect of the first strike."
+        ],
+        "law": [
+          "An illegal strike constitutes 'misconduct' under the company's Standing Orders.",
+          "Imposing punishment for misconduct after a fair inquiry is a managerial function.",
+          "Normally, a court would not interfere with a punishment imposed by management for misconduct."
+        ],
+        "application": [
+          "The Supreme Court acknowledged the general principle that courts should not interfere with a managerial decision to punish misconduct like an illegal strike.",
+          "However, the Court found an exception in this case. The management's decision to dismiss the workers was not based solely on the illegal second strike.",
+          "The management improperly considered the warning given for the first strike. This warning was invalid because it violated the settlement agreement in which the company had promised not to take disciplinary action for that strike.",
+          "The Labour Court found, and the Supreme Court agreed, that the management's reliance on this invalid warning made the punishment of dismissal not bona fide, but rather vindictive, unconscionable, and unjustified.",
+          "Because the punishment was based on an improper and bad-faith consideration, the Labour Court was justified in interfering with the management's decision."
+        ],
+        "conclusion": "The Supreme Court rejected the management's argument and upheld the Labour Court's decision. It held that while the second strike was illegal, the Labour Court was correct to interfere with the punishment of dismissal because the management had acted in bad faith by basing its decision on a prior warning that violated a settlement agreement."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the finding of the Labour Court, that the appellant agreed not to take disciplinary action against its workmen in respect of the first strike, is erroneous.",
+      "appellant_arguments": [
+        "The finding that the appellant agreed not to take disciplinary action for the first strike during the meeting on March 29, 1964, is erroneous.",
+        "The management made no commitment at the meeting that it would not proceed with disciplinary action against an employee who committed misconduct according to the Standing Orders."
+      ],
+      "respondent_arguments": [
+        "The management's action of issuing warnings for the first strike was not bona fide and was against the settlement arrived at on March 29, 1964."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the Labour Court erred in interfering with the management's decision to impose punishment for misconduct, given that the second strike was held to be illegal.",
+      "appellant_arguments": [
+        "The Labour Court acknowledged that the second strike was illegal.",
+        "As the strike was illegal, it constituted misconduct under the company's standing orders, and therefore the Labour Court should not have interfered with the management's decision to impose punishment."
+      ],
+      "respondent_arguments": [
+        "The punishment of dismissal was unjustified because it was based not only on the second strike but also took into account the prior warning for the first strike, which was administered in bad faith and in violation of a settlement."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "U.P. Industrial Disputes Act, 1947",
+        "section": "6-S (4)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "U.P. Industrial Disputes Act, 1947",
+        "section": "6-T",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Although punishment for misconduct after a fair inquiry is a managerial function that courts will not normally interfere with, interference is justified if the punishment is vindictive, unjustified, or not bona fide. A punishment may be deemed not bona fide if the management takes into account a prior warning that was issued in violation of a settlement agreement.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the second strike was illegal and constituted misconduct, the Labour Court was justified in interfering with the management's decision to dismiss the workmen because the punishment was not bona fide. The management's decision was tainted by its reliance on a prior warning related to a first strike, which was issued in bad faith and in violation of a settlement agreement where the management had agreed not to take disciplinary action.",
+    "legal_tests_applied": [
+      "Whether a punishment for misconduct, normally a managerial function, can be interfered with if it is found to be vindictive, unjustified, or not made in a bona fide manner.",
+      "Whether a prior act of misconduct can be considered when determining punishment for a subsequent act, if the disciplinary action for the prior act was itself taken in bad faith or in violation of a settlement."
+    ],
+    "why_appellant_lost": [
+      "The court upheld the Labour Court's finding that the management had entered into a settlement agreeing not to take disciplinary action against workers for the first strike.",
+      "The management's action of subsequently issuing warnings for that first strike was found to be not bona fide and in violation of the settlement.",
+      "The management was not entitled to take into account the warning given in respect of the first strike when deciding the punishment for the second strike, because that warning was issued in bad faith.",
+      "The court found that the management's issuance of the warning for the first strike was a deliberate attempt 'to create a ground for punishment and dismissal, in respect -of the second strike,' rendering the final dismissal order vindictive and unjustified."
+    ],
+    "why_respondent_won": [
+      "The court affirmed the Labour Court's finding that the punishment of dismissal was 'unconscionable and unjustified, and not recorded in a bona fide manner.'",
+      "The court agreed that the punishment was unjustified because it was based not only on the illegal second strike but also on the prior warning, which was administered in bad faith and against the terms of a settlement.",
+      "The court found that the management's action of issuing the initial warnings was a pretext to create grounds for a harsher punishment later, which supported the conclusion that the dismissal was vindictive."
+    ],
+    "policy_considerations": [
+      "While imposing punishment for misconduct is normally a managerial function, courts can interfere if the management's action is found to be vindictive, unjustified, or not bona fide.",
+      "Management cannot rely on a prior disciplinary action to justify a harsher punishment for a subsequent offense if the prior action was itself taken in bad faith or in violation of a settlement with the workers."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p7_238474f6"
+    ],
+    "judicial_reasoning.why_appellant_lost[2]": [
+      "p1_a9ce5713"
+    ]
+  }
+}

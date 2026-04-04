@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Likely a consumer commission, given the reference to 'Complainant' and 'Commission' and the nature of the dispute.",
+    "impugned_order": "Final order of the Commission against which no review was filed by the Complainants. Also, Revision Petition No. 1913/2004, from which no appeal was preferred by either party.",
+    "high_court_proceedings": "Not explicitly mentioned, but the case likely went through a state consumer disputes redressal commission and possibly a national commission before reaching the Supreme Court.",
+    "supreme_court_posture": "Appeals allowed in Civil Appeal Nos. 5273, 5294, 5627, 5278, and 6679 of 2008. The Supreme Court seems to have considered the fact that an application filed by the Complainant was done so after the reservation of the judgment and was never adjudicated upon by the Commission, and no review was filed against the final order."
+  },
+  "decision": {
+    "appeal_result": "Appeals allowed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Impugned Judgment interferes with the contract executed between the parties?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involves a dispute over an excessive rate of interest, which is a term within a contract signed by the parties."
+        ],
+        "law": [
+          "The Court acknowledged the general principle that courts do not interfere with the terms of a contract unless they are arbitrary, discriminatory, or mala fide.",
+          "However, the Court identified a key exception under Section 74 of the Indian Contract Act, which grants courts jurisdiction to adjudicate on contractual terms that constitute a 'penalty'."
+        ],
+        "application": [
+          "The Court reasoned that an 'excessive rate of interest' can be considered a 'penalty' under Section 74 of the Indian Contract Act.",
+          "Because the excessive interest rate could be classified as a penalty, the lower court (the National Commission) had the jurisdiction to adjudicate on this specific contractual term."
+        ],
+        "conclusion": "The Supreme Court decided that while the Impugned Judgment did interfere with the contract, this interference was legally permissible. The lower court was correctly exercising its jurisdiction to review a potential penalty clause (the excessive interest rate) as allowed by the Indian Contract Act."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Impugned Judgment interferes with the contract executed between the parties?",
+      "appellant_arguments": [
+        "The consumer complaint was improperly filed in a representative capacity without complying with the mandatory provisions of Section 13(6) of the Consumer Protection Act, 1986, and Order 1 Rule VIII of the Code of Civil Procedure, 1908.",
+        "The complainants failed to obtain the necessary permission from the National Commission to sustain a complaint in a representative capacity.",
+        "The application seeking permission was filed belatedly, only after arguments were concluded and the judgment was reserved."
+      ],
+      "respondent_arguments": [
+        "The complainant, as a voluntary consumer association, is a valid complainant under Section 12(1)(b) of the Consumer Protection Act, 1986, and the complaint meets the necessary requirements.",
+        "An application under Section 13(6) of the Act was filed to substantiate their bona fides, but it was never adjudicated upon."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Usurious Loans Act, 1918",
+        "section": "Not specified",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The 1934 Act (presumably RBI Act, 1934)",
+        "section": "Preamble",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The 1986 Act (presumably Consumer Protection Act, 1986)",
+        "section": "12(1) and 13(6)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Civil Procedure (implied)",
+        "section": "Order I Rule 8",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pratibha Pratisthan Vs Canara Bank",
+        "citation": "(2017) 3 SCC 712",
+        "principle": "The procedural requirement of Order I Rule 8 for representative actions, as prescribed in Section 13(6) of the Consumer Protection Act 1986, must be read into Section 12(1) of the Act, and the requirement to obtain prior permission for a consumer to act in a representative capacity cannot be dispensed with.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Directions and guidelines issued by a statutory authority under its enabling statute are an extension of the statute itself and have the force of law. A court cannot direct an executive or statutory authority, exercising delegated legislative power, to enact a specific law or regulation. The judicial review of such economic legislation or directions is confined to determining whether they are patently arbitrary or fail the test of reasonableness.",
+    "obiter": [
+      "The terms of a contract between two parties are not open to judicial scrutiny unless they are arbitrary, discriminatory, mala fide, or actuated by bias."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the National Commission had no jurisdiction to interfere with the interest rates charged by banks, as this is a policy decision falling within the exclusive regulatory domain of the Reserve Bank of India (RBI). The court identified a statutory bar that prevents courts from reopening a transaction between a bank and its debtor on the grounds that the interest rate is excessive. Since the complaint was based only on higher rates of interest, the National Commission could not have entertained it and its judgment improperly interfered with the contract between the parties.",
+    "legal_tests_applied": [
+      "Statutory Bar on Judicial Review of Interest Rates: The court relied on a statutory provision which \"takes away power of the court to reopen a transaction between a banking company and its debtor on the ground that the rate of interest charged is excessive.\"",
+      "Wednesbury Principle of Reasonableness: The court noted that the validity of economic legislation is tested on the \"touchstone of reasonableness,\" and observed that it was not the complainants' case that the RBI's decisions \"do not pass the test of Wednesbury principle of reasonableness, or are not free from arbitrariness nor affected by bias or actuated by mala fide.\"",
+      "Exclusive Jurisdiction of RBI: The court held that policy decisions on interest rates are a \"regulatory function within the specific statutory domain of the RBI\" and it is within the \"exclusive jurisdiction of the Reserve Bank of India to take corrective and/or penal steps... qua any such act in deference to its policy or circular.\""
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Deference to Economic Regulators: The court showed deference to the RBI as the \"statutory authority entrusted to manage the economy,\" indicating that judicial bodies should not interfere with its specialized regulatory functions concerning economic and banking policy.",
+      "Public Interest in Banking Policy: The court recognized that the RBI is empowered to issue directives in the \"public interest\" and that \"Public interest permeates all these areas\" of banking policy, monetary stability, and economic growth, reinforcing the RBI's authority to set standards.",
+      "Standard for Excessive Interest: The court noted that for transactions not squarely governed by specific circulars, \"the RBI directives may be treated as standards for the purpose of deciding whether the interest charged is excessive, usurious or opposed to public policy.\""
+    ]
+  },
+  "evidence_map": {}
+}

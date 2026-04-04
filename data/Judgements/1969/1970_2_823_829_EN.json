@@ -1,0 +1,112 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a trial court in Bihar, given the subsequent appeal to the Patna High Court.",
+    "impugned_order": "Judgment and order dated July 4, 1966, of the Patna High Court in Criminal Appeal No. 524 of 1964.",
+    "high_court_proceedings": "The Patna High Court heard Criminal Appeal No. 524 of 1964. The High Court judge discussed the evidence and concluded that the consignment found in the wagon on May 15, 1960, was the same one loaded by the appellants on May 13, 1960.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court by special leave, challenging the Patna High Court's judgment and order. The Supreme Court heard the appeal (Criminal Appeal No. 240 of 1966)."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The appellants are directed to be set at liberty.",
+      "The fine, if paid, must be refunded."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the false representation made by the appellants in obtaining a railway receipt, which described the goods as 'said to be' a certain quantity and type, cast any additional liability on the railway or was likely to cause it damage or harm, thereby constituting the offence of cheating.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants made a false representation, both orally and in a forwarding note, that they were consigning 251 bags of chillies.",
+          "Based on this false representation, they induced the Station Master to issue a railway receipt.",
+          "The Station Master did not check the goods but issued a receipt that described the consignment as \"said to be\" 251 bags of chillies and noted \"S.W.A.\" (senders' weight accepted).",
+          "The appellants then used this railway receipt, a valuable security, to obtain money from a third party."
+        ],
+        "law": [
+          "The offence of cheating under Section 415 of the Indian Penal Code requires that a person is deceived and induced to do an act that \"causes or is likely to cause damage or harm\" to that person.",
+          "According to the Goods Tariff General Rules, the mention of weight or description of goods on a railway receipt is for the purpose of estimating charges and does not amount to an admission of correctness by the railway.",
+          "Legal precedent establishes that an endorsement like \"said to contain\" on a receipt does not constitute an admission by the railway that the stated quantity of goods was actually loaded."
+        ],
+        "application": [
+          "The Court acknowledged that the appellants had deceived the Station Master into issuing the railway receipt.",
+          "However, the central question was whether this act was likely to cause damage or harm to the railway, a necessary element for the offence of cheating.",
+          "The Court reasoned that the specific wording on the receipt—\"said to be\" and \"senders' weight accepted\"—was crucial. This language explicitly qualified the railway's acceptance, meaning the railway did not accept the consignment *as* 251 bags of chillies.",
+          "Because of this qualification, the receipt did not cast any additional liability or risk on the railway. In case of a claim for loss, the burden would still be on the appellants to prove that they had actually loaded 251 bags of chillies.",
+          "The receipt, in the form it was issued, did not create a presumption against the railway or admit to the contents of the wagon. Therefore, the railway was not exposed to any damage or harm by its issuance."
+        ],
+        "conclusion": "The Supreme Court rejected the issue, holding that since the false representation did not create any additional liability for the railway and was not likely to cause it any damage or harm, a key element of the offence of cheating was not met. Consequently, the appellants were not guilty of cheating the railway or the Station Master."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the false representation made by the appellants in obtaining a railway receipt, which described the goods as 'said to be' a certain quantity and type, cast any additional liability on the railway or was likely to cause it damage or harm, thereby constituting the offence of cheating.",
+      "appellant_arguments": [
+        "The appellants were not guilty of cheating because the Station Master, by writing on the railway receipt that the consignment was 'said to be' 251 bags of dry chillies, showed that he was not actually deceived and did not act upon the appellants' declaration as being correct. The disclaimers on the receipt (like 'said to be' and 'S.W.A.' - senders' weight accepted) indicated that the railway was not taking responsibility for the contents, and therefore was not induced by a false representation to take on a liability or risk it would have otherwise avoided."
+      ],
+      "respondent_arguments": [
+        "The appellants made a false representation both orally and in the forwarding note, and on the strength of this false representation, they induced the Station Master to issue a railway receipt, which is a valuable security. The endorsements 'said to be' and 'S.W.A.' do not change the fact that the Station Master acted upon the appellants' declaration when he issued the receipt. The act of inducing the railway to issue the valuable security based on a false declaration is sufficient to constitute cheating."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Railways Act",
+        "section": "s. 58",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Goods Tariff Rules",
+        "section": "Rule 15 of Part I",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Goods Tariff Rules",
+        "section": "Rule 22(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Goods Tariff Rules",
+        "section": "Rule 24(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Dominion of India v. Firm Museram Kishunprasad",
+        "citation": "A.J.R. 1950 Nagpur 85",
+        "principle": "A railway receipt that qualifies the number of items with the remark 'said to contain' does not amount to an admission by the railway of the correctness of that number, especially in light of Rule 15 of the Goods Tariff Rules. The number is mentioned merely to calculate the freight.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Union of India v. S, p, Lekhu Reddiar",
+        "citation": "A.I.R. 1956 Madras 176",
+        "principle": "The case was explicitly 'approved' by the court, along with Dominion of India v. Firm Museram Kishunprasad, in the context of the legal effect of a 'said to contain' remark on a railway receipt.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The offence of cheating is not established if a false representation made to a party does not cast any additional liability upon that party and is not likely to cause them damage or harm.",
+    "obiter": [
+      "The rule that mentioning weight in a railway receipt does not amount to an admission of correctness applies with even more vigour where the receipt contains a 'said to contain' remark."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The false representation made by the appellants in obtaining the railway receipt did not constitute cheating because the form in which the receipt was issued, which included disclaimers, did not cast any additional liability on the railway. Consequently, the issuance of the receipt was not likely to cause any damage or harm to the railway, a necessary element of the offence.",
+    "legal_tests_applied": [
+      "For an act to constitute cheating, the person deceived must be induced to do or omit to do something which he would not otherwise do, and that act or omission must cause or be likely to cause damage or harm to that person in body, mind, reputation or property."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

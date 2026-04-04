@@ -1,0 +1,178 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court",
+    "impugned_order": "Judgment and order of conviction passed by the trial court (Sessions Court)",
+    "high_court_proceedings": "The appellant appealed the trial court's judgment to the High Court of Delhi at New Delhi (CRLA No. 320 of 1998). The High Court dismissed the appeal and affirmed the trial court's judgment and order of conviction in its Judgment and Order dated 23.05.2014.",
+    "supreme_court_posture": "The appellant, feeling dissatisfied with the High Court's judgment, appealed to the Supreme Court (Criminal Appeal No. 437 of 2015). The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Affirmed",
+    "sentence_status": "Affirmed",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court committed any error in passing the impugned judgment and order of conviction.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted by a trial court for the murder of his wife under Section 302 of the Indian Penal Code (IPC).",
+          "The murder occurred in the house where the appellant, the deceased, and their 5-year-old daughter lived.",
+          "The trial court sentenced the appellant to life imprisonment.",
+          "The appellant appealed to the High Court, which dismissed the appeal and affirmed the trial court's judgment and conviction.",
+          "The appellant then appealed to the Supreme Court, challenging the High Court's decision."
+        ],
+        "law": [
+          "The appellant was charged under Section 302 of the IPC for murder.",
+          "The prosecution's case relied on Section 106 of the Evidence Act, 1872, which places the burden of proof on a person who has special knowledge of a fact.",
+          "The appellant argued that the prosecution failed to prove its case beyond a reasonable doubt and improperly invoked Section 106 of the Evidence Act."
+        ],
+        "application": [
+          "The Supreme Court reviewed the materials on record and heard arguments from both the appellant and the State.",
+          "The State argued that the High Court had committed no error in affirming the conviction and that the appeal was without merit.",
+          "The Supreme Court considered the specific grounds urged by the appellant's counsel but found their submissions to be \"baseless and without any merit.\"",
+          "The Court analyzed the High Court's decision, which had upheld the trial court's finding of guilt."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court committed no error in affirming the judgment and order of conviction passed by the trial court. The Court found the appeal to be devoid of any merit and accordingly dismissed it, upholding the appellant's conviction for the murder of his wife."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether evidence that may not be admissible under Section 27 of the Evidence Act can still be considered relevant under Section 8 of the Act.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The issue revolves around situations where an accused person's actions lead to a discovery, such as pointing out the location of a dead body, a weapon, or a person involved in the crime.",
+          "Specifically, the court considered whether the physical act of the accused leading police and pointing something out can be treated as evidence separate from any accompanying statement they might make."
+        ],
+        "law": [
+          "Section 8 of the Indian Evidence Act, 1872, makes the 'conduct' of an accused person relevant if it is influenced by or influences a fact in issue.",
+          "Section 27 of the Indian Evidence Act, 1872, governs the admissibility of information received from an accused in custody that leads to the discovery of a fact.",
+          "The Supreme Court referred to its previous rulings in cases like 'Prakash Chand v. State (Delhi Admn.)' and 'State (NCT of Delhi) v. Navjot Sandhu alias Afsan Guru' to interpret the relationship between these two sections."
+        ],
+        "application": [
+          "The Court explained that the act of an accused pointing out a place or a person is a form of 'conduct' that is relevant under Section 8 of the Evidence Act.",
+          "It held that the evidence of this conduct (the 'circumstance, simpliciter' that the accused pointed something out) is admissible on its own, regardless of whether the statement made by the accused at that time is admissible under Section 27.",
+          "For example, the act of an accused leading police to a drain and the subsequent discovery of a knife is a relevant fact under Section 8. Similarly, an accused taking police to a person from whom a weapon was purchased is admissible as conduct.",
+          "The Court clarified that the admissibility of the physical act as 'conduct' under Section 8 is independent of the admissibility of the accompanying statement under Section 27."
+        ],
+        "conclusion": "The Supreme Court accepted the proposition, holding that evidence of an accused's conduct, such as pointing out a location or a person, is relevant and admissible under Section 8 of the Evidence Act, irrespective of whether any contemporaneous statement made by the accused is admissible under Section 27 of the Act."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court committed any error in passing the impugned judgment and order of conviction.",
+      "appellant_arguments": [
+        "The prosecution's case rests entirely on circumstantial evidence, and the established facts must be consistent only with the hypothesis of the accused's guilt and inconsistent with their innocence."
+      ],
+      "respondent_arguments": [
+        "The High Court committed no error in affirming the conviction passed by the trial court.",
+        "The lower courts rightly took incriminating circumstances into consideration to invoke Section 106 of the Evidence Act.",
+        "The appeal lacks merit and should be dismissed."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether evidence that may not be admissible under Section 27 of the Evidence Act can still be considered relevant under Section 8 of the Act.",
+      "appellant_arguments": [
+        "The appellant made a submission, which the court deemed 'baseless', implying they argued that evidence inadmissible under Section 27 cannot be considered relevant under Section 8."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's specific arguments on this issue."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "106",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "8",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "27",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "101",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Attygalle v. The King",
+        "citation": "1936 PC 169 (AIR V 23) (A)",
+        "principle": "Section 106 of the Evidence Act should not be construed to mean that the burden lies on an accused person to show that he did not commit the crime for which he is tried.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Seneviratne v. R.",
+        "citation": "1936-3 All ER 36 AT P. 49 (B)",
+        "principle": "Section 106 of the Evidence Act should not be construed to mean that the burden lies on an accused person to show that he did not commit the crime for which he is tried.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State (NCT of Delhi) v. Navjot Sandhu alias Afsan Guru",
+        "citation": "(2005) 11 SCC 600",
+        "principle": "For elucidating the principles of Section 8 and Section 27 of the Evidence Act, and for the principle that evidence may be relevant under Section 8 even if it is not relevant under Section 27.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Shambhu Nath Mehra v. The State of Ajmer",
+        "citation": "AIR 1956 SC 404 : 1956 Cri LJ 794",
+        "principle": "Section 106 of the Evidence Act is an exception to Section 101 and is designed to meet exceptional cases where it would be impossible for the prosecution to establish facts especially within the knowledge of the accused. It is not intended to relieve the prosecution of its duty to prove the case.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Section 106 of the Evidence Act, which places the burden of proving a fact especially within a person's knowledge upon that person, does not relieve the prosecution of its primary burden to prove guilt beyond a reasonable doubt. This section applies only after the prosecution has successfully proven foundational facts from which a reasonable inference can be drawn regarding the existence of other facts. If the accused then fails to offer an explanation for such facts that are especially within their knowledge, the court may draw an adverse inference.",
+    "obiter": [
+      "The rule that the burden of proof is on the prosecution should not be applied so pedantically that it admits no process of intelligent reasoning.",
+      "If the traditional rule relating to the burden of proof is allowed to be wrapped in pedantic coverage, offenders in serious offences would be the major beneficiaries and society would be the casualty.",
+      "Section 106 of the Evidence Act is designed to meet exceptional cases where it would be impossible or disproportionately difficult for the prosecution to establish facts particularly within the knowledge of the accused."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found no error in the High Court's judgment of conviction, concluding that the lower courts were justified in invoking the principles of Section 106 of the Evidence Act based on foundational facts that were duly proved. The court also explicitly rejected the appellant's specific legal submission regarding the Evidence Act as being baseless and without merit, ultimately leading to the dismissal of the appeal.",
+    "legal_tests_applied": [
+      "The principles enshrined under Section 106 of the Evidence Act are justified when certain foundational facts are duly proved.",
+      "The burden does not lie on an accused person to show that he did not commit the crime for which he is tried."
+    ],
+    "why_appellant_lost": [
+      "The appellant's submission on a specific ground of law was found to be \"baseless and without any merit.\""
+    ],
+    "why_respondent_won": [
+      "The foundational facts of the case were duly proved, which justified the lower courts in invoking the principles enshrined under Section 106 of the Evidence Act."
+    ],
+    "policy_considerations": [
+      "If the traditional rule relating to burden of proof of the prosecution is allowed to be wrapped in pedantic coverage, the offenders in serious offences would be the major beneficiaries and the society would be the casualty.",
+      "A criminal case is built upon the edifice of evidence (whether it is direct evidence or circumstantial evidence) that is admissible in law.",
+      "Free and fair trial is the very foundation of the criminal jurisprudence."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[2].case_name": [
+      "p38_108d02bd"
+    ],
+    "judicial_reasoning.policy_considerations[1]": [
+      "p42_29a29883"
+    ],
+    "judicial_reasoning.policy_considerations[2]": [
+      "p42_29a29883"
+    ]
+  }
+}

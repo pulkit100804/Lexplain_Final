@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "City Magistrate, Lucknow",
+    "impugned_order": "Remand order dated August 1970, remanding the petitioner to jail custody under warrant issued by the City Magistrate, Lucknow. Also, the order of remand of the prisoner in New Delhi passed by the magistrate sitting in Lucknow.",
+    "high_court_proceedings": "The petitioner filed a writ petition No. 315 of 1970 for Habeas Corpus challenging his detention.",
+    "supreme_court_posture": "The petitioner approached the Supreme Court by filing Writ Petition No. 330 of 1970 under Article 32 of the Constitution of India for a writ in the nature of habeas corpus, praying for immediate release on the ground that the remand order was illegal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": null,
+    "sentence_status": "Set at liberty",
+    "directions": [
+      "In the result we hold that the orders of remand dated 28th and 29th August, 1970 passed by the City Magistrate, Lucknow are illegal.",
+      "We further hold that the detention of the petitioner in the Central Jail, New Delhi, after the midnight of August 28, 1970 on the authority of the illegal orders of remand is also illegal.",
+      "In consequence the petitioner should be set at liberty forthwith."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a magistrate can pass a valid order of remand without the person in detention being physically produced before them.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case concerned the legality of remand orders passed by a magistrate under the Criminal Procedure Code (ss. 167 and 344) without the prisoners being physically produced in court.",
+          "One specific circumstance considered was when prisoners are already in the custody of a higher court (the Supreme Court) on a rule nisi, making it impossible for the magistrate to recall them for a physical appearance."
+        ],
+        "law": [
+          "The central legal question revolved around the interpretation of the Criminal Procedure Code, 1898, specifically sections 167 and 344, regarding the procedures for remanding an accused person to custody.",
+          "The issue was whether these provisions create an absolute and inflexible rule that an accused must be physically present for a remand order to be valid."
+        ],
+        "application": [
+          "The Supreme Court's majority opinion acknowledged that it is desirable for magistrates to have the prisoner produced before them when extending custody.",
+          "However, the Court reasoned that a magistrate must be able to act as the circumstances permit. It rejected the idea of an absolute, rigid rule requiring physical presence in all situations.",
+          "The Court provided specific examples where a remand order in the absence of the accused would be valid and necessary:",
+          "1. If an accused is so seriously ill that they cannot be brought to court, a trial may need to be adjourned and a remand order passed in their absence. Such an order would not be invalid.",
+          "2. In the specific circumstance where a prisoner is already in the custody of the Supreme Court, the magistrate cannot recall them. In such a case, intimating the extension of the remand to the relevant authorities is considered sufficient compliance with the law.",
+          "The Court distinguished its position from the dissenting opinion, which argued that physical presence is mandatory to prevent mechanical orders and to allow the accused to make representations against further remand."
+        ],
+        "conclusion": "The Supreme Court held that a magistrate can pass a valid order of remand without the person in detention being physically produced before them. The Court concluded that while physical production is desirable, it is not an absolute requirement, and an order made in the accused's absence will not be invalid if circumstances, such as serious illness or the accused being in the custody of a higher court, make their production impractical or impossible."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a magistrate can pass a valid order of remand without the person in detention being physically produced before them.",
+      "appellant_arguments": [
+        "The petitioner's detention was illegal because the remand orders were not passed according to law, as they were issued without the petitioner being physically produced before the magistrate."
+      ],
+      "respondent_arguments": [
+        "The proceedings against the petitioner were legal and valid.",
+        "The magistrate had to pass the remand order in Lucknow without the petitioner's presence because the petitioner had been brought to New Delhi under the orders of the Supreme Court."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "344",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "Various provisions",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Unnamed decision(s)",
+        "citation": "Not provided in text",
+        "principle": "Authorities seeking to curtail the liberty of a subject must strictly and scrupulously observe the forms and rules of the law.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Unnamed decision(s)",
+        "citation": "Not provided in text",
+        "principle": "An order of remand passed without the accused being produced is illegal.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An order of remand is illegal if it is passed without the accused being physically produced before the magistrate or court.",
+    "obiter": [
+      "Authorities seeking to curtail the liberty of a subject must strictly and scrupulously observe the forms and rules of the law.",
+      "In the special circumstances where a prisoner under trial is brought before the Supreme Court on a rule nisi and is in its custody, the magistrate is only required to intimate the jail authorities, the prisoner, and the Court that the original remand has been extended while adjourning the case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The various provisions of the Criminal Procedure Code, referred to by us, as also the decisions quoted above lead to the conclusion that the accused must be present before the magistrate or court when an order of remand is passed. In fact the decisions quoted by us clearly lay down that an order of remand passed without the accused being produced, is i!legal. We rue in agreement with those decisions.",
+    "legal_tests_applied": [
+      "This Court has often reiterated before that those who feel called upoa to deprive other persons of their personal liberty in the discharge of what they conceive to be their duty, must strictly and scrupulously observe the forms and rules of the law."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The magistrate was passing an order of remand in a mechanical manner without even considering the period for which his remand orders are to have effect. This certainly shows non·npplication of i'udicial mind even where the personal .liberty of a citizen is invo ved."
+    ]
+  },
+  "evidence_map": {}
+}

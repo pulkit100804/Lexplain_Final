@@ -1,0 +1,103 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Judicature at Madras",
+    "impugned_order": "Judgment and Order dated 12.07.2017 of the High Court of Judicature at Madras in CROP Nos. 1593 and 10570 of 2011",
+    "high_court_proceedings": "The High Court's order was for quashing the complaint against the second accused (a company). The High Court did not provide reasons for not quashing the complaint against the first accused. The High Court quashed the complaint against the third to seventh accused but allowed the complaint to proceed against the first and second accused.",
+    "supreme_court_posture": "The Supreme Court was approached via Criminal Appeals Nos. 3176-3177 of 2024. A two-judge bench of the Supreme Court made a reference to a larger bench for determination of certain questions. The Supreme Court partly allowed the appeals, modifying the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Appeals partly allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The impugned order is modified, and it is directed that complaint C.C. No. 4331 of 2010 filed in the Court of the Judicial Magistrate, Egmore at Chennai shall stand quashed as against the third to seventh accused shown therein. However, the complaint shall proceed according to the law against the first and second accused."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in quashing a complaint in its entirety against a company, its Managing Director, and other directors for an offence under the 1987 Act, on the grounds that the complaint lacked the necessary averments for vicarious liability as required under provisions similar to Section 141 of the Negotiable Instruments Act, 1881.",
+        "court_answer": "partly"
+      },
+      "reasoning": {
+        "facts": [
+          "A criminal complaint was filed against a company (accused 1), its Managing Director (MD, accused 2), and five other directors (accused 3-7) for an offence under the 1987 Act.",
+          "The High Court quashed the entire complaint, reasoning that it lacked the specific statements (averments) required to establish vicarious liability for the directors, similar to the requirements under Section 141 of the Negotiable Instruments Act."
+        ],
+        "law": [
+          "Under Section 50 of the 1987 Act, for a director to be held vicariously liable for an offence committed by a company, the complaint must specifically state that the director was 'in charge of, and responsible to the company for the conduct of its business' at the time the offence was committed.",
+          "An exception to this rule applies to certain positions, such as a Managing Director. By virtue of their office, an MD is presumed to be in charge of and responsible for the company's business, so a specific averment in the complaint is not necessary for them."
+        ],
+        "application": [
+          "The Supreme Court examined the complaint and agreed with the High Court that it lacked the necessary averments against the five directors (accused 3-7). Therefore, the vicarious liability of these directors was not established, and quashing the complaint against them was justified.",
+          "However, the Court found that the second accused was the Managing Director. Due to the nature of this position, he is presumed to be in charge of the company's affairs. Consequently, the High Court was not justified in quashing the complaint against him, even without a specific averment.",
+          "The Court also noted that the company itself (accused 1) is the primary accused, and the High Court gave no reason to quash the complaint against it."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was only partly justified. It upheld the quashing of the complaint against the five directors (accused 3-7) but overturned the decision regarding the company and its Managing Director. The Court ruled that the criminal proceedings against the company and the MD should continue because the MD's role implies responsibility, and no grounds were provided to absolve the company."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in quashing a complaint in its entirety against a company, its Managing Director, and other directors for an offence under the 1987 Act, on the grounds that the complaint lacked the necessary averments for vicarious liability as required under provisions similar to Section 141 of the Negotiable Instruments Act, 1881.",
+      "appellant_arguments": [
+        "The counsel for the complainant (appellant) placed reliance on Paragraph 9 of the complaint, arguing that it contained the relevant and necessary averments to establish liability against the accused."
+      ],
+      "respondent_arguments": [
+        "The counsel for the accused (respondents) supported the High Court's judgment, submitting that the complaint did not incorporate the necessary averments as required by sub-Section (1) of Section 50 of the 1987 Act to establish vicarious liability."
+      ],
+      "court_acceptance": "partly"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "141",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The 1987 Act",
+        "section": "50",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "S.M.S. Pharmaceuticals Ltd. v. Neeta Bhalla and Anr.",
+        "citation": "[2005] Suppl. 3 SCR 371 : (2005) 8 SCC 89",
+        "principle": "To determine the requirements for making out a case against a person under Section 141 of the Negotiable Instruments Act, 1881, specifically whether it is sufficient if the substance of the allegations in the complaint, read as a whole, fulfills the requirements, or if it is necessary to specifically state that the accused was in charge of, and responsible for, the conduct of the company's business.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When an offence is committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence. However, such a person shall not be liable to any punishment if they prove that the offence was committed without their knowledge or that they had exercised all due diligence to prevent the commission of such offence.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "For vicarious liability of directors under Section 50 of the 1987 Act, a complaint must contain specific assertions that the directors were in charge of, and responsible to, the company for the conduct of its business at the time of the offence. The absence of such averments is fatal to the complaint against ordinary directors. However, a Managing Director is presumed to be in charge of the company by virtue of their position, so the complaint can proceed against them and the company even without these specific averments.",
+    "legal_tests_applied": [
+      "To establish vicarious liability for directors of a company under sub-Section (1) of Section 50 of the 1987 Act, the complaint must contain assertions that the accused directors, at the time of the commission of the offence, were in charge of, and responsible to the company for the conduct of its business.",
+      "A Managing Director is considered to be admittedly in charge of the company and responsible to the company for the conduct of its business by virtue of their position, and therefore does not require the same specific averments as other directors to be proceeded against."
+    ],
+    "why_appellant_lost": [
+      "The complaint was quashed against the third to seventh accused (the directors) because it lacked the necessary factual assertions required by sub-Section (1) of Section 50 of the 1987 Act. Specifically, there were 'no assertions made that the... third to seventh accused, at the time of the commission of the offence, were in charge of, and responsible to the first accused company for the conduct of its business.'",
+      "In the absence of these specific averments, the trial court could not have taken cognizance of the offence against the third to seventh accused."
+    ],
+    "why_respondent_won": [
+      "The third to seventh accused (the directors) succeeded because the complaint did not incorporate the necessary averments to attract their vicarious liability. The court held that 'Unless assertions, as required by sub-Section (1) of Section 50, are made, vicarious liability of the Directors of the first accused company is not attracted.'",
+      "The second accused (the Managing Director) did not succeed because, being the Managing Director, they 'would be in charge of the company and responsible to the company for its business,' and thus there was 'no justification for quashing the complaint against the second accused' despite the lack of specific averments.",
+      "The first accused (the company) did not succeed because 'No reasons have been assigned to quash the complaint against the first accused.'"
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p7_f5954d95"
+    ],
+    "citations.cases[0].case_name": [
+      "p2_e79864b3"
+    ]
+  }
+}

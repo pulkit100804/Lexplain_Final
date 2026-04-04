@@ -1,0 +1,420 @@
+{
+  "case_id": "bfc7fddf-f34f-431e-b8c8-a2edfe88abc3",
+  "tenant_id": "test_run_3",
+  "agent": "agent_5c_statute_retriever",
+  "input_refs": [
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-03-20T05:38:16.523408+00:00",
+  "query_terms": [
+    "use of force",
+    "hit",
+    "accused against victim",
+    "accused hit",
+    "causing death",
+    "died",
+    "physical force used",
+    "death occurred",
+    "death following force"
+  ],
+  "total_sections_indexed": 541,
+  "candidates": [
+    {
+      "section": "300",
+      "heading": "Murder.",
+      "score": 72.8989,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "300.1",
+          "text": "the act by which the death is caused is done with the intention of causing death",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "300.2",
+          "text": "the act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "300.3",
+          "text": "the act is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "300.4",
+          "text": "the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "murder"
+      ]
+    },
+    {
+      "section": "304",
+      "heading": "Punishment for culpable homicide not amounting to murder.",
+      "score": 72.477,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "304.2",
+          "text": "the act by which the death is caused is done with the intention of causing death",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "304.3",
+          "text": "the act by which the death is caused is done with the intention of causing such bodily injury as is likely to cause death",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "304.4",
+          "text": "the act is done with the knowledge that it is likely to cause death",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "304.5",
+          "text": "the act is done without any intention to cause death",
+          "element_type": "mens_rea_exclusion"
+        },
+        {
+          "ingredient_id": "304.6",
+          "text": "the act is done without any intention to cause such bodily injury as is likely to cause death",
+          "element_type": "mens_rea_exclusion"
+        }
+      ],
+      "offence_category": [
+        "criminal_offence"
+      ]
+    },
+    {
+      "section": "94",
+      "heading": "Act to which a person is compelled by threats.",
+      "score": 71.1487,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "94.2",
+          "text": "The threats, at the time of doing the act, reasonably cause the apprehension that instant death to that person will otherwise be the consequence.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "94.3",
+          "text": "The person doing the act did not of his own accord place himself in the situation by which he became subject to such constraint.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "94.4",
+          "text": "The person doing the act did not from a reasonable apprehension of harm to himself short of instant death place himself in the situation by which he became subject to such constraint.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "94.6",
+          "text": "The act is not an offence against the State punishable with death.",
+          "element_type": "exclusion"
+        },
+        {
+          "ingredient_id": "94.7",
+          "text": "A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception if compelled by associates to do an offence.",
+          "element_type": "clarification"
+        },
+        {
+          "ingredient_id": "94.8",
+          "text": "A person seized by a gang of dacoits, and forced, by threat of instant death, to do a thing which is an offence by law, is entitled to the benefit of this exception.",
+          "element_type": "clarification"
+        }
+      ],
+      "offence_category": [
+        "defense"
+      ]
+    },
+    {
+      "section": "307",
+      "heading": "Attempt to murder.",
+      "score": 68.9053,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "307.3",
+          "text": "and under such circumstances that, if he by that act caused death, he would be guilty of murder",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "307.5",
+          "text": "When any person offending under this section is under sentence of imprisonment for life",
+          "element_type": "condition_for_enhanced_punishment"
+        }
+      ],
+      "offence_category": [
+        "attempt",
+        "homicide"
+      ]
+    },
+    {
+      "section": "308",
+      "heading": "Attempt to commit culpable homicide.",
+      "score": 68.4908,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "308.3",
+          "text": "and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "offences_affecting_life"
+      ]
+    },
+    {
+      "section": "303",
+      "heading": "Punishment for murder by life-convict.",
+      "score": 66.7424,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "303.1",
+          "text": "Whoever, being under sentence of imprisonment for life",
+          "element_type": "perpetrator_status"
+        }
+      ],
+      "offence_category": [
+        "homicide"
+      ]
+    },
+    {
+      "section": "302",
+      "heading": "Punishment for murder.",
+      "score": 64.3578,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "302",
+          "text": "This section prescribes the punishment for committing murder.",
+          "element_type": "punishment_text"
+        }
+      ],
+      "offence_category": [
+        "offence_against_person"
+      ]
+    },
+    {
+      "section": "100",
+      "heading": "When the right of private defence of the body extends to causing death.",
+      "score": 46.3534,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "100.1",
+          "text": "The right of private defence of the body extends to the voluntary causing of death or of any other harm to the assailant.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "100.3",
+          "text": "The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that death will otherwise be the consequence of such assault.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "100.4",
+          "text": "The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "100.5",
+          "text": "The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "100.6",
+          "text": "The offence which occasions the exercise of the right is an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "general_defence"
+      ]
+    },
+    {
+      "section": "304B",
+      "heading": "Dowry death.",
+      "score": 45.2716,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "304B.1",
+          "text": "the death of a woman is caused by any burns or bodily injury",
+          "element_type": "causal_circumstance"
+        },
+        {
+          "ingredient_id": "304B.2",
+          "text": "the death of a woman occurs otherwise than under normal circumstances",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "304B.3",
+          "text": "the death occurs within seven years of her marriage",
+          "element_type": "temporal_condition"
+        },
+        {
+          "ingredient_id": "304B.4",
+          "text": "soon before her death she was subjected to cruelty or harassment",
+          "element_type": "conduct"
+        },
+        {
+          "ingredient_id": "304B.6",
+          "text": "cruelty or harassment by any relative of her husband",
+          "element_type": "actor"
+        },
+        {
+          "ingredient_id": "304B.8",
+          "text": "dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)",
+          "element_type": "definition"
+        }
+      ],
+      "offence_category": [
+        "offence_against_women",
+        "homicide"
+      ]
+    },
+    {
+      "section": "101",
+      "heading": "When such right extends to causing any harm other than death.",
+      "score": 44.9337,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "101.1",
+          "text": "The offence is not of any of the descriptions enumerated in the last preceding section.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "101.2",
+          "text": "The right of private defence of the body does not extend to the voluntary causing of death to the assailant.",
+          "element_type": "limitation"
+        },
+        {
+          "ingredient_id": "101.3",
+          "text": "The right of private defence of the body extends to the voluntary causing to the assailant of any harm other than death.",
+          "element_type": "scope_of_right"
+        }
+      ],
+      "offence_category": [
+        "private_defence"
+      ]
+    },
+    {
+      "section": "301",
+      "heading": "Culpable homicide by causing death of person other than person whose death was intended.",
+      "score": 44.7407,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "301.1",
+          "text": "A person does something which he intends or knows to be likely to cause death.",
+          "element_type": "actus_reus_and_mens_rea"
+        },
+        {
+          "ingredient_id": "301.2",
+          "text": "The act commits culpable homicide by causing the death of any person.",
+          "element_type": "result"
+        },
+        {
+          "ingredient_id": "301.3",
+          "text": "The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "301.4",
+          "text": "The culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.",
+          "element_type": "legal_consequence"
+        }
+      ],
+      "offence_category": [
+        "culpable_homicide"
+      ]
+    },
+    {
+      "section": "87",
+      "heading": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent.",
+      "score": 44.7321,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "87.1",
+          "text": "The act is not intended to cause death.",
+          "element_type": "mental_state"
+        },
+        {
+          "ingredient_id": "87.3",
+          "text": "The person harmed is above eighteen years of age.",
+          "element_type": "victim_characteristic"
+        },
+        {
+          "ingredient_id": "87.5",
+          "text": "The person has consented to take the risk of that harm.",
+          "element_type": "consent"
+        }
+      ],
+      "offence_category": [
+        "general_exception"
+      ]
+    },
+    {
+      "section": "70",
+      "heading": "Fine leviable within six years, of during imprisonment. Death not to discharge property from liability.",
+      "score": 44.6977,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "70.1",
+          "text": "A fine, or any unpaid part thereof, may be levied within six years after the passing of the sentence.",
+          "element_type": "rule"
+        },
+        {
+          "ingredient_id": "70.3",
+          "text": "The death of an offender does not discharge from liability any property that would, after their death, be legally liable for their debts.",
+          "element_type": "rule"
+        }
+      ],
+      "offence_category": [
+        "procedure",
+        "enforcement"
+      ]
+    },
+    {
+      "section": "115",
+      "heading": "Abetment of offence punishable with death or imprisonment for life.—if offence not committed.",
+      "score": 44.5013,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "115.1",
+          "text": "Whoever abets the commission of an offence",
+          "element_type": "act"
+        },
+        {
+          "ingredient_id": "115.2",
+          "text": "The abetted offence is punishable with death or imprisonment for life",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "115.3",
+          "text": "The abetted offence is not committed in consequence of the abetment",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "115.4",
+          "text": "No express provision is made by this Code for the punishment of such abetment",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "115.5",
+          "text": "An act for which the abettor is liable in consequence of the abetment is done",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "abetment"
+      ]
+    },
+    {
+      "section": "46",
+      "heading": "“Death”.",
+      "score": 42.8286,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "46.1",
+          "text": "The word “death” denotes the death of a human being",
+          "element_type": "definition"
+        }
+      ],
+      "offence_category": []
+    }
+  ]
+}

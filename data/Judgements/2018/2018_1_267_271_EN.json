@@ -1,0 +1,91 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court since the respondents were acquitted.",
+    "impugned_order": "Final judgment and order dated 04.05.2007 passed by the High Court of Punjab & Haryana at Chandigarh in Criminal Revision No. 174 of 1999.",
+    "high_court_proceedings": "The State filed Criminal Appeal No.494-DB of 1999 against the acquittal. The complainant filed Criminal Revision No. 174 of 1999 against the acquittal. The High Court dismissed the criminal revision filed by the complainant.",
+    "supreme_court_posture": "The complainant, aggrieved by the High Court's dismissal of their criminal revision, filed a special leave appeal in the Supreme Court. The Supreme Court dismissed the appeal, finding no merit and agreeing with the High Court's judgment."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Acquittal upheld",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court having convicted the four accused persons under Section 325 read with Section 34 IPC was justified in its decision.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Trial Court had initially acquitted all five accused persons.",
+          "On appeal by the State, the High Court convicted four of the accused under Section 325 read with Section 34 of the Indian Penal Code (IPC).",
+          "The High Court determined that the case was one of \"grievous hurt\" under Section 325 IPC, and not an attempt to murder under Section 307 IPC."
+        ],
+        "law": [
+          "Section 325 of the Indian Penal Code (IPC) pertains to the punishment for voluntarily causing grievous hurt.",
+          "Section 34 of the IPC deals with acts done by several persons in furtherance of a common intention."
+        ],
+        "application": [
+          "The Supreme Court examined the High Court's decision to convict the accused under Section 325/34 IPC.",
+          "The Court noted that the High Court's finding was based on a \"proper appreciation of entire prosecution evidence.\"",
+          "Based on this assessment, the Supreme Court concluded that it found \"no reason to disturb\" the High Court's conviction of the respondents under Section 325 IPC."
+        ],
+        "conclusion": "The Supreme Court held that the High Court was justified in convicting the four accused persons under Section 325 read with Section 34 IPC. The decision was upheld because it was based on a proper evaluation of all the evidence presented by the prosecution, and the Supreme Court saw no reason to interfere with that finding."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court having convicted the four accused persons under Section 325 read with Section 34 IPC was justified in its decision.",
+      "appellant_arguments": [
+        "The appellant (the original complainant), being aggrieved by the High Court's judgment, argued that the conviction of the accused under Section 325 read with Section 34 IPC was not justified and that the judgment required interference."
+      ],
+      "respondent_arguments": [
+        "The respondents argued in defense of the High Court's judgment, contending that the conviction was correct and did not call for any interference."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "325",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "307",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A finding of fact by a High Court, which is based on a proper appreciation of the entire body of evidence, does not warrant interference from an appellate court.",
+    "obiter": [
+      "When a High Court convicts an accused under Section 325 of the Indian Penal Code (IPC) instead of Section 307 IPC, it signifies that, in the court's opinion, a case for 'grievous hurt' was made out, but not for the more serious offense."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found no reason to interfere with the High Court's judgment, concluding that the High Court's decision to convict the accused persons under Section 325 IPC instead of Section 307 IPC was based on a proper appreciation of the entire prosecution evidence.",
+    "legal_tests_applied": [
+      "The court's reasoning was based on a standard of appellate review, determining whether the lower court's finding was based on a 'proper appreciation of entire prosecution evidence'."
+    ],
+    "why_appellant_lost": [
+      "The Supreme Court determined that the High Court's finding was 'based on proper appreciation of entire prosecution evidence' and consequently, the Court did 'not find any reason to disturb it for convicting the respondents under Section 325 IPC instead of Section 307 IPC.'"
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the Supreme Court agreed with the High Court's assessment, stating, 'This finding of the High Court, in our opinion, is based on proper appreciation of entire prosecution evidence and we do not find any reason to disturb it'."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

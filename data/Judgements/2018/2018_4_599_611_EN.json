@@ -1,0 +1,99 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Karnataka, Dharwad Bench",
+    "impugned_order": "Judgment and Order dated 09.07.2015 of the High Court of Karnataka, Dharwad Bench in M. F. A. No. 4401 of 2008(MV)",
+    "high_court_proceedings": "The High Court's judgment and order dated 09.07.2015 in M.F.A. No. 4401 of 2008(MV) was challenged.",
+    "supreme_court_posture": "The Supreme Court allowed the appeal with costs."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "The appeal is allowed with costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the insurance company could be held liable to pay compensation for the death of the deceased who fell from the insured tractor-trailer, on the ground that he was travelling along with his goods.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A person died after falling from a tractor-trailer while returning after unloading food grains (Maize).",
+          "The Motor Accidents Claims Tribunal found that the deceased was travelling with his goods and held the insurance company, the vehicle owner, and the driver jointly liable to pay compensation.",
+          "The High Court reversed this decision, absolving the insurance company. It concluded, based on a 'selective reading' of witness testimony, that the deceased was not travelling with his goods at the time of the accident."
+        ],
+        "law": [
+          "The liability of an insurance company for a goods vehicle can extend to the owner of the goods (or their representative) who is travelling in the vehicle along with those goods."
+        ],
+        "application": [
+          "The Supreme Court found the High Court's reasoning to be flawed, stating it was based on a 'sweeping observation' and a 'selective reading' of evidence.",
+          "In contrast, the Court noted that the Tribunal had 'analysed the evidence in its entirety,' including the police charge-sheet, before reaching its conclusion.",
+          "The Supreme Court held that the Tribunal's finding—that the deceased had travelled in the tractor with his goods to unload them and was returning when the accident occurred—was a 'possible view' based on the available evidence.",
+          "The Court ruled that the High Court should not have disturbed this finding of fact in such a 'casual manner'."
+        ],
+        "conclusion": "The Supreme Court accepted the appeal, setting aside the High Court's judgment. It affirmed and restored the Tribunal's finding that the deceased was travelling with his goods. Consequently, the Court held that the insurance company was liable to pay the compensation awarded by the Tribunal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the insurance company could be held liable to pay compensation for the death of the deceased who fell from the insured tractor-trailer, on the ground that he was travelling along with his goods.",
+      "appellant_arguments": [
+        "The Tribunal's finding of fact that the deceased had travelled along with his goods at the time of the accident was correct and should be restored.",
+        "Because the deceased was travelling with his goods, the insurer is obliged to satisfy the compensation amount awarded to the claimants."
+      ],
+      "respondent_arguments": [
+        "The insurer is entitled to raise a defence in a claim petition under the Motor Vehicles Act, 1988.",
+        "The insurer should not be held liable, a plea which it sought to establish through the evidence of its administrative officer."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Motor Vehicles Act, 1988",
+        "section": "Chapter XI, Section 149(2)(a)(ii), Section 163A, Section 166",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "National Insurance Co. v. Swarn Singh and Ors.",
+        "citation": "(2004) 3 SCC 297",
+        "principle": "For the principles that: (i) Chapter XI of the Motor Vehicles Act, 1988, is a social welfare legislation whose provisions for compulsory insurance must be interpreted to effectuate the object of extending relief to accident victims; (ii) an insurer is entitled to raise a defence in a claim petition under Section 163A or 166, as provided in Section 149(2)(a)(ii) of the Act; and (xi) to avoid delaying compensation to victims, the insurer's right to recover the amount paid from the insured can be decided by the Tribunal or relegated to a regular court.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Where a tribunal's finding of fact that a deceased person was travelling along with their goods in an insured vehicle is a possible view based on the evidence, an appellate court cannot disturb that finding in a casual manner to absolve the insurer of its liability to pay compensation.",
+    "obiter": [
+      "Chapter XI of the Motor Vehicles Act, 1988, providing compulsory insurance of vehicles against third party risks, is a social welfare legislation intended to extend relief to victims of accidents, and its provisions should be interpreted to effectuate that object."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Consequent to the affirmation and restoration of the finding of fact recorded by the Tribunal that the deceased had travelled along with his goods at the time of the accident, the insurer is obliged to satisfy the compensation amount awarded to the claimants.",
+    "legal_tests_applied": [
+      "An appellate court should not disturb a factual conclusion reached by a lower court if it is a 'possible view' based on the evidence.",
+      "To avoid liability, insurance companies must not only establish an available defence but also establish a 'breach' on the part of the vehicle's owner, and the burden of proof is on them."
+    ],
+    "why_appellant_lost": [
+      "The High Court's reversal of the Tribunal's finding of fact was improper, as the conclusion reached by the Tribunal was a 'possible view' of the evidence that should not have been disturbed, especially not in a 'casual manner'."
+    ],
+    "why_respondent_won": [
+      "The Supreme Court restored the Tribunal's finding of fact that the deceased was travelling with his goods, which legally obligates the insurer to pay the compensation."
+    ],
+    "policy_considerations": [
+      "Chapter XI of the Motor Vehicles Act, 1988, which provides for compulsory insurance against third-party risks, is a social welfare legislation designed to provide relief to accident victims. The Act's provisions must be interpreted to effectuate this paramount object."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p3_dd4192db"
+    ]
+  }
+}

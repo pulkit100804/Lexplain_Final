@@ -1,0 +1,120 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge, Santal Parganas",
+    "impugned_order": "Judgment and order dated February 4, 1966 of the Patna High Court in Government Appeal No. 14 of 1963.",
+    "high_court_proceedings": "The Additional Sessions Judge acquitted the appellant of murder and robbery charges. In appeal, the Patna High Court found him guilty of murder and sentenced him to life imprisonment.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave challenging the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "failed",
+    "conviction_status": "upheld",
+    "sentence_status": "upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the statement made by the appellant was involuntary and therefore inadmissible in evidence.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was taken to a village Mukhiya where he made and signed a statement before being handed over to the police.",
+          "The appellant later contended that this statement was not made voluntarily and should be inadmissible.",
+          "In a separate statement, the appellant claimed he had been assaulted and threatened, and was made to sign a blank piece of paper, denying he made the written statement attributed to him."
+        ],
+        "law": [],
+        "application": [
+          "The Court noted that during the trial, no suggestion was made to any of the witnesses who took the appellant to the Mukhiya that they had assaulted, coerced, or threatened him into making the statement.",
+          "The Court found the appellant's own version of events to be self-defeating.",
+          "The appellant's claim that he was forced to sign a blank piece of paper \"cuts at the root of his case that he made a statement as a result of a threat or assault.\"",
+          "The Court reasoned that if the goal was simply to fabricate a confession through force, all that would have been necessary was to get his signature on a pre-written document, not a blank one. His story contradicted the idea that the content of the statement was coerced from him."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellant's statement was made voluntarily and was therefore admissible in evidence, rejecting his contention to the contrary."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a court can accept the inculpatory part of an accused's statement, which is believable, and reject the exculpatory part, which is found to be incredible.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused made a statement that contained both inculpatory (incriminating) and exculpatory (vindicating) parts.",
+          "The lower court accepted the inculpatory portion of the statement but rejected the exculpatory portion.",
+          "The appellant argued that a statement must be accepted or rejected as a whole and cannot be split."
+        ],
+        "law": [
+          "The general rule is that the whole of an accused's statement must be taken into evidence to understand its true meaning.",
+          "However, it does not follow that all parts of the statement must be regarded as equally credible.",
+          "A court or jury may believe the part of a statement that incriminates the accused and reject the part that is in their favor if there are sufficient grounds for doing so.",
+          "Sufficient grounds for rejecting the exculpatory part exist if it is contradicted by other evidence or is inherently improbable in itself."
+        ],
+        "application": [
+          "The Supreme Court rejected the appellant's argument that a statement can never be split, calling the proposition too broad.",
+          "The Court cited legal authorities (like Taylor's Law of Evidence) to establish that while a statement must be considered in its entirety, the court retains the discretion to determine the credibility of its different parts.",
+          "The Court found that in this specific case, the exculpatory part of the accused's statement was not only \"inherently improbable\" but was also \"contradicted by the other evidence.\"",
+          "Because there was sufficient evidence to reject the exculpatory part, the High Court was justified in doing so.",
+          "Consequently, the High Court acted correctly by accepting the believable inculpatory part and using it in conjunction with other evidence to reach its conclusion."
+        ],
+        "conclusion": "The Supreme Court held that a court can accept the inculpatory part of an accused's statement and reject the exculpatory part, provided the exculpatory portion is found to be incredible, either because it is inherently improbable or because it is contradicted by other evidence on record."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the statement made by the appellant was involuntary and therefore inadmissible in evidence.",
+      "appellant_arguments": [
+        "The statement was not made voluntarily and should be inadmissible as evidence.",
+        "The appellant claimed he was made to sign a blank piece of paper, implying coercion."
+      ],
+      "respondent_arguments": [
+        "There was no evidence of coercion; no suggestion was made during cross-examination that the persons who took the appellant to the Mukhiya had assaulted or threatened him.",
+        "The appellant's claim of signing a blank paper contradicts his argument of being forced to make a specific statement, as only a signature would have been needed in that case."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a court can accept the inculpatory part of an accused's statement, which is believable, and reject the exculpatory part, which is found to be incredible.",
+      "appellant_arguments": [
+        "If an accused's statement is to be considered, it must be taken as a whole; the court cannot accept one portion while rejecting another.",
+        "Citing precedent (Hanuman's case), the appellant argued that an admission cannot be split up and must be used either as a whole or not at all."
+      ],
+      "respondent_arguments": [
+        "The proposition that a statement cannot be split is too wide and cannot be accepted.",
+        "The precedent cited by the appellant (Hanuman's case) was not applicable as its ratio decidendi was different and based on the specific facts of that case where eliminating other evidence meant the statement as a whole demolished the prosecution's case."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A court is not bound to treat a statement containing an admission or confession as a whole; it can accept the inculpatory part that it finds believable while rejecting the exculpatory part that it finds to be inherently incredible.",
+    "obiter": [
+      "The rule that an admission must be used either as a whole or not at all is not an absolute proposition of law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A court is not bound by a rigid rule to accept or reject an accused's statement in its entirety. It is permissible for the court to accept the inculpatory part of a statement which it finds to be true and reject the exculpatory part which is found to be false, particularly when there is other evidence to support this assessment.",
+    "legal_tests_applied": [
+      "The principle that the court, like a jury, can assess the credibility of different parts of an accused's statement, accepting what is believable and rejecting what is not. As stated in precedent, 'the whole should be left to the jury, to say whether the facts asserted by the prisoner in his favour be true.'",
+      "The test of distinguishing precedent based on its specific ratio decidendi, rather than applying a general statement of law out of its original context. The court analyzed whether the facts of a cited case were comparable, specifically noting if the statement in question was the sole piece of evidence versus being one piece among others."
+    ],
+    "why_appellant_lost": [
+      "The contention that the statement was not voluntarily made was rejected, with the Supreme Court affirming the High Court's finding on this matter.",
+      "The appellant's reliance on the precedent in Hanumant's case was misplaced. The court determined that the statement from that case—'an admission must be used either as a whole or not at all'—was not its true ratio decidendi.",
+      "The court distinguished Hanumant's case on the facts, noting that in that case, 'the statement of the accused is used as a whole, it completely demolishes the prosecution case and, if it is not used at all, then there remains no material on the record.' This was not the situation in the present case, where other evidence existed."
+    ],
+    "why_respondent_won": [
+      "The court accepted the legal proposition that an inculpatory part of a confession which is believable can be accepted, while the exculpatory part which is inherently incredible can be rejected.",
+      "The High Court was found to have acted correctly because there was 'enough evidence to reject the exculpatory part of the statement of the appellant' and it had rightly accepted 'the inculpatory part and piecing the same with the other evidence to come to the conclusion that the appellant was the person responsible for the crime.'"
+    ],
+    "policy_considerations": [
+      "The court endorsed a flexible, truth-seeking approach to evidence evaluation, treating an accused's statement like any other piece of evidence where the fact-finder determines the credibility of its constituent parts. The principle is that 'as in the case of all other evidence, the whole should be left to the jury, to say whether the facts asserted by the prisoner in his favour be true.'"
+    ]
+  },
+  "evidence_map": {}
+}

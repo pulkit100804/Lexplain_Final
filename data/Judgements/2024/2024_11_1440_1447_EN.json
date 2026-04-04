@@ -1,0 +1,94 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the framing of charges)",
+    "impugned_order": "Judgment and Order dated 05.08.2020 of the High Court of Judicature at Bombay in CRLA No. 927 of 2015",
+    "high_court_proceedings": "The appellant, aggrieved by an unspecified order (likely a conviction or adverse ruling from the Trial Court), preferred an appeal before the High Court. The High Court dismissed the appellant's Criminal Appeal (CRLA No. 927 of 2015).",
+    "supreme_court_posture": "The appellant, still aggrieved by the High Court's dismissal of his appeal, filed a Criminal Appeal (No. 4664 of 2024) before the Supreme Court, calling into question the High Court's decision. The Supreme Court partly allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Appeal Partly allowed.",
+    "conviction_status": "The conviction of the appellant under Section 302 IPC is altered to the one under Part I of Section 304 IPC.",
+    "sentence_status": "The appellant is sentenced to the period already undergone.",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction under Section 302 of the Indian Penal Code (IPC) is sustainable, or if the appellant should be convicted for a lesser offence.",
+        "court_answer": "partly"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant got into an argument with a third party (PW-5) over a loan.",
+          "The victim intervened in this argument, which irked the appellant, who then abused the victim and left.",
+          "The victim followed the appellant, a quarrel was heard, and the appellant was then seen assaulting the victim with a bamboo stick, causing fatal injuries.",
+          "The Trial Court and High Court had previously convicted the appellant for murder under Section 302 of the IPC."
+        ],
+        "law": [
+          "The Court considered the legal distinction between murder, as defined under Section 302 of the Indian Penal Code (IPC), and the lesser offense of culpable homicide not amounting to murder, under Section 304 of the IPC.",
+          "Specifically, the Court evaluated whether the circumstances of the case, such as a sudden fight in the heat of passion, would warrant a conviction for the lesser offense."
+        ],
+        "application": [
+          "The Court found that there was no pre-existing motive for the appellant to kill the deceased, as the original dispute was with someone else.",
+          "It noted the absence of premeditation, observing that the appellant had not come armed with a weapon but used a bamboo stick that was commonly available in the village.",
+          "The Court determined that the possibility of the deceased following the appellant, leading to an altercation and a \"sudden fight in the heat of passion,\" could not be ruled out.",
+          "Furthermore, the Court found that the nature of the injuries did not show that the appellant had taken undue advantage or acted in a cruel or unusual manner."
+        ],
+        "conclusion": "Given the lack of motive and premeditation, and the strong possibility that the assault occurred during a sudden fight, the Supreme Court gave the appellant the benefit of the doubt. It concluded that a conviction for murder under Section 302 IPC was unsustainable and altered the conviction to the lesser offense of culpable homicide not amounting to murder under Part I of Section 304 IPC."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction under Section 302 of the Indian Penal Code (IPC) is sustainable, or if the appellant should be convicted for a lesser offence.",
+      "appellant_arguments": [
+        "The provided text does not specify the arguments made by the appellant's counsel before the Supreme Court. It only states that at the trial stage, the appellant pleaded not guilty and the defence was one of 'total denial'."
+      ],
+      "respondent_arguments": [
+        "The testimonies of the three eyewitnesses are consistent regarding the material aspects of the case.",
+        "In addition to eyewitness testimony, circumstantial evidence also points towards the guilt of the appellant.",
+        "Therefore, no interference is warranted with the concurrent judgments of the trial court and the High Court which convicted the appellant."
+      ],
+      "court_acceptance": "partly"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "304 Part-I",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The provided text does not contain a binding legal rule, as it only includes procedural history, facts, and the final order of the case.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the appellant was entitled to the benefit of doubt, which warranted altering the conviction from murder under Section 302 of the Indian Penal Code (IPC) to the lesser offense of culpable homicide not amounting to murder under Part I of Section 304 IPC.",
+    "legal_tests_applied": [
+      "Benefit of Doubt: The court applied this principle to conclude that the evidence on record was not sufficient to sustain a conviction for murder, but was adequate for a conviction under Part I of Section 304 IPC."
+    ],
+    "why_appellant_lost": [
+      "The provided text does not specify the court's reasoning for why the appellant was still found guilty of a lesser offense rather than being fully acquitted. It only implies that the court found enough evidence to convict for culpable homicide, but not enough to prove the higher charge of murder beyond a reasonable doubt."
+    ],
+    "why_respondent_won": [
+      "The respondent succeeded in upholding a conviction, albeit for a lesser offense, because the court found that the appellant was not entitled to a full acquittal. The court's decision to alter the conviction to Section 304 Part I IPC, rather than acquit, indicates a partial acceptance of the prosecution's case that the appellant was responsible for the death."
+    ],
+    "policy_considerations": [
+      "In sentencing, the court determined that the more than 9 years of actual imprisonment already served by the appellant (over 12 years with remission) was a sufficient punishment that would 'subserve the ends of justice' for the altered conviction."
+    ]
+  },
+  "evidence_map": {
+    "decision.conviction_status": [
+      "p8_0242e460"
+    ]
+  }
+}

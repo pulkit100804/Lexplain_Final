@@ -1,0 +1,163 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial court (prosecuted under s. 167 (81) of the Sea Customs Act (No. 8 of 1878) read with s. 9 of the Land Customs Act (No. 19 of 1924))",
+    "impugned_order": "Judgment and order dated November 20, 1963 of the Mysore High Court in Criminal Appeal No. 49 of 1963.",
+    "high_court_proceedings": "The Mysore High Court heard Criminal Appeal No. 49 of 1963 and issued a judgment and order on November 20, 1963.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court after the Mysore High Court granted a certificate allowing the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court's interpretation of s. 167(81) of the Sea Customs Act, which differed from the view of the Calcutta High Court, was correct.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was prosecuted under s. 167(81) of the Sea Customs Act.",
+          "The Sessions Judge, relying on the Calcutta High Court's decision in *Sitaram Agarwala's case*, acquitted the appellant.",
+          "On appeal, the High Court disagreed with the Calcutta High Court's interpretation, convicted the appellant, and the case was then brought to the Supreme Court."
+        ],
+        "law": [
+          "The issue was the correct interpretation of s. 167(81) of the Sea Customs Act.",
+          "The Calcutta High Court in *Sitaram Agarwala's case* had a specific interpretation of this section.",
+          "The High Court in the present case adopted a different, broader interpretation."
+        ],
+        "application": [
+          "The Supreme Court directly addressed the conflict between the High Court's view and the Calcutta High Court's view.",
+          "It analyzed which interpretation of s. 167(81) was correct."
+        ],
+        "conclusion": "The Supreme Court held that the High Court was right and that its interpretation was the correct one. The Court ruled that s. 167(81) of the Sea Customs Act also includes persons who may not be concerned with the actual import of the prohibited goods. Consequently, the Supreme Court disapproved of the view taken by the Calcutta High Court in *Sitaram Agarwala's case*."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the statement made by the appellant to the Deputy Superintendent of Customs & Excise was admissible in evidence in view of s. 25 of the Indian Evidence Act.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact_text": "Section 25 of the Indian Evidence Act states that a confession made to a police officer is inadmissible in evidence against an accused person.",
+            "application_text": ""
+          },
+          {
+            "fact_text": "The Court considered two conflicting interpretations of the term \"police officer\": a 'broad view' where it includes any officer with police-like powers of investigation, and a 'narrow view' where it means only a police officer properly so-called.",
+            "application_text": ""
+          },
+          {
+            "fact_text": "The Court analyzed the Central Excises and Salt Act, 1944, particularly Section 21, which grants a Central Excise Officer the powers of an officer-in-charge of a police station when conducting an inquiry.",
+            "application_text": ""
+          }
+        ],
+        "application": [
+          {
+            "fact_text": "The Court examined the primary purpose of the Central Excises and Salt Act, 1944.",
+            "application_text": "It concluded that the main purpose of the Act is to levy and collect excise duties. The powers of arrest and search given to Central Excise Officers are merely in support of this main function of revenue collection, not general policing."
+          },
+          {
+            "fact_text": "The Court compared the powers under the Central Excises and Salt Act with those under the Bihar and Orissa Excise Act, which was the subject of a previous case (Raja Ram Jaiswal) where an excise officer was held to be a police officer.",
+            "application_text": "The Court found a key distinction: unlike the Bihar Act, Section 21 of the Central Excises Act does not state that the officer \"shall be deemed to be an officer-in-charge of a police station.\" It only grants them certain powers to aid their inquiry."
+          },
+          {
+            "fact_text": "Based on this analysis, the Court determined whether a Central Excise Officer fits the definition of a \"police officer\" for the purposes of Section 25.",
+            "application_text": "The Court reasoned that even though the officer has some powers similar to a police officer when investigating, they do not become a police officer. The scheme of the Act is fundamentally different from that of a police statute."
+          }
+        ],
+        "conclusion": "The Supreme Court held that a Central Excise Officer is not a 'police officer' within the meaning of Section 25 of the Indian Evidence Act. Therefore, the statement made by the appellant to the Deputy Superintendent of Customs and Excise was not barred by the section and was admissible in evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court's interpretation of s. 167(81) of the Sea Customs Act, which differed from the view of the Calcutta High Court, was correct.",
+      "appellant_arguments": [
+        "The view taken by the Bombay High Court in Nanoo Sheikh Ahmed is the correct view.",
+        "The 'narrow view' of the Patna High Court in Radha Kishun Marwari is not correct."
+      ],
+      "respondent_arguments": [
+        "The 'narrow view' taken by the Patna High Court in Radha Kishun Marwari is the correct one."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the statement made by the appellant to the Deputy Superintendent of Customs & Excise was admissible in evidence in view of s. 25 of the Indian Evidence Act.",
+      "appellant_arguments": [
+        "The statement made to the Deputy Superintendent of Customs and Excise was not admissible as it was hit by s. 25 of the Evidence Act.",
+        "The confessional statement was obtained by threats and was therefore inadmissible under s. 24 of the Evidence Act."
+      ],
+      "respondent_arguments": [
+        "The statement was admissible because a Central Excise Officer is not a police officer within the meaning of s. 25 of the Evidence Act, relying on the precedent in State of Punjab v. Barkat Ram."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Sea Customs Act",
+        "section": "167(81)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "25",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "24",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Central Excises and Salt Act, 1944",
+        "section": "21",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Punjab v. Barkat Ram",
+        "citation": "(1962) 3 S.C.R. 338",
+        "principle": "A Customs Officer under the Sea Customs Act was not a police officer within the meaning of s. 25 of the Evidence Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sachidananda Banerjee, Assistant Collector of Customs v. Sitaram Agarwal",
+        "citation": "[1966] 2 S.C.R, I",
+        "principle": "Section 167(81) of the Sea Customs Act includes even those persons who may not be concerned with the actual import of the prohibited goods.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A Central Excise Officer under the Central Excises and Salt Act, 1944, is not a 'police officer' within the meaning of Section 25 of the Evidence Act, and therefore a confession made to such an officer is not inadmissible under that section. Section 167(81) of the Sea Customs Act applies to all persons concerned with the offense, not just those who actually import the prohibited goods.",
+    "obiter": [
+      "The discussion comparing the 'broad view' and the 'narrow view' on the definition of 'police officer' under Section 25 of the Evidence Act is obiter, as the court explicitly states it is unnecessary to express a final opinion on the two views."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A Central Excise Officer under the Central Excises and Salt Act, 1944, is not a police officer within the meaning of s. 25 of the Evidence Act. The main purpose of the Act is the levy and collection of excise duties, and the powers of arrest and search conferred on these officers are merely in support of their primary revenue-collection function, not general crime investigation. Therefore, a confessional statement made to such an officer is admissible in evidence.",
+    "legal_tests_applied": [
+      "To determine if an officer is a 'police officer' under s. 25 of the Evidence Act, the court examines the officer's primary function under their governing statute. If powers like arrest and search are ancillary to a main function like revenue collection, they are not considered police officers in the same vein as those whose primary duty is general crime investigation."
+    ],
+    "why_appellant_lost": [
+      "The court held that a Central Excise Officer is not a police officer within the meaning of s. 25 of the Evidence Act, following the precedent in State of Punjab v. Barkat Ram, which made the appellant's confessional statement admissible.",
+      "The appellant's argument that the confession was obtained by threats and thus inadmissible under s. 24 of the Evidence Act was rejected, as the High Court had already found that no threats were used, and this finding was not overturned.",
+      "The court affirmed the High Court's broad interpretation of s. 167(81) of the Sea Customs Act, holding that the section 'takes in even those persons who may not be concerned with the actual import of the prohibited goods.'"
+    ],
+    "why_respondent_won": [
+      "The court accepted the respondent's argument that a Central Excise Officer is not a police officer, reasoning that 'The main purpose of the Act is to levy and collect excise duties and Central Excise Officers have been appointed thereunder for this main purpose.'",
+      "The court found that the powers of arrest and search conferred on Central Excise Officers 'are really in support of their main function of levy and collection of duty on excisable goods,' distinguishing them from regular police officers.",
+      "The court held that the High Court was correct in its interpretation of s. 167(81) of the Sea Customs Act, following the precedent in Sachidananda Banerjee, Assistant Collector of Customs v. Sitaram Agarwal."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

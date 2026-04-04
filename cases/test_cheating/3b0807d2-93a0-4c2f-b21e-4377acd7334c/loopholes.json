@@ -1,0 +1,595 @@
+{
+  "case_id": "3b0807d2-93a0-4c2f-b21e-4377acd7334c",
+  "tenant_id": "test_cheating",
+  "agent": "agent_8_loophole_miner",
+  "input_refs": [
+    "ingredient_report.json",
+    "precedent_comparison.json"
+  ],
+  "created_at": "2026-03-19T16:51:06.529095+00:00",
+  "loopholes": [
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "207",
+      "reason": "Core ingredient 'mens_rea' (under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "207.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "207",
+      "reason": "Core ingredient 'mens_rea' (or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "207.6",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "207",
+      "reason": "Ingredient 'Whoever fraudulently accepts, receives or claims any property or any interest therein' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "207.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "207",
+      "reason": "Ingredient 'knowing that he has no right or rightful claim to such property or interest' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "207.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "207",
+      "reason": "Ingredient 'intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "207.4",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "207",
+      "reason": "Ingredient 'knowing that he has no right or rightful claim to such property or interest' (actus_reus) is partial. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "207.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "207",
+      "reason": "Ingredient 'intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine' (actus_reus) is partial. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "207.4",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "415",
+      "reason": "Core ingredient 'mens_rea' (A dishonest concealment of facts is a deception within the meaning of this section.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "415.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "423",
+      "reason": "Core ingredient 'mens_rea' (The accused dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "423.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "382",
+      "reason": "Core ingredient 'actus_reus' (Whoever commits theft) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "382.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "382",
+      "reason": "Core ingredient 'actus_reus' (having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "382.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "382",
+      "reason": "Ingredient 'Whoever commits theft' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "382.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "382",
+      "reason": "Ingredient 'having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "382.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "421",
+      "reason": "Ingredient 'The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "421.6",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "421",
+      "reason": "Ingredient 'The person knows it is likely that the action will thereby prevent the distribution of that property according to law among his creditors or the creditors of any other person.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "421.7",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "421",
+      "reason": "Ingredient 'The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.' (actus_reus) is partial. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "421.6",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "390",
+      "reason": "Core ingredient 'actus_reus' (The offender, for that end, voluntarily causes or attempts to cause death to any person.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "390.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "390",
+      "reason": "Core ingredient 'actus_reus' (The offender, for that end, voluntarily causes or attempts to cause hurt to any person.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "390.4",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "390",
+      "reason": "Core ingredient 'actus_reus' (The offender, for that end, voluntarily causes or attempts to cause fear of instant death to any person.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "390.6",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "390",
+      "reason": "Core ingredient 'actus_reus' (The offender, for that end, voluntarily causes or attempts to cause fear of instant hurt to any person.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "390.7",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "390",
+      "reason": "Core ingredient 'actus_reus' (The extortion is committed by putting that person in fear of instant death.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "390.11",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "390",
+      "reason": "Core ingredient 'actus_reus' (The extortion is committed by putting that person in fear of instant hurt.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "390.12",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "390",
+      "reason": "Core ingredient 'actus_reus' (The offender is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "390.16",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "390",
+      "reason": "Ingredient 'The offender, for that end, voluntarily causes or attempts to cause death to any person.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "390.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "390",
+      "reason": "Ingredient 'The offender, for that end, voluntarily causes or attempts to cause hurt to any person.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "390.4",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "390",
+      "reason": "Ingredient 'The offender, for that end, voluntarily causes or attempts to cause fear of instant death to any person.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "390.6",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "390",
+      "reason": "Ingredient 'The offender, for that end, voluntarily causes or attempts to cause fear of instant hurt to any person.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "390.7",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "390",
+      "reason": "Ingredient 'The extortion is committed by putting that person in fear of instant death.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "390.11",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "390",
+      "reason": "Ingredient 'The extortion is committed by putting that person in fear of instant hurt.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "390.12",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "390",
+      "reason": "Ingredient 'The offender is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "390.16",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "327",
+      "reason": "Core ingredient 'actus_reus' (Whoever voluntarily causes hurt) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "327.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "327",
+      "reason": "Core ingredient 'actus_reus' (or which may facilitate the commission of an offence) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "327.4",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "327",
+      "reason": "Ingredient 'for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "327.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "327",
+      "reason": "Ingredient 'Whoever voluntarily causes hurt' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "327.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "327",
+      "reason": "Ingredient 'or which may facilitate the commission of an offence' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "327.4",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "420",
+      "reason": "Core ingredient 'mens_rea' (dishonestly) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "420.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "97",
+      "reason": "Core ingredient 'actus_reus' (against any act which is an offence falling under the defintion of theft) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "97.7",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "97",
+      "reason": "Core ingredient 'actus_reus' (against any act which is an offence falling under the defintion of robbery) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "97.8",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "97",
+      "reason": "Core ingredient 'actus_reus' (against any act which is an offence falling under the defintion of mischief) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "97.9",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "97",
+      "reason": "Core ingredient 'actus_reus' (against any act which is an offence falling under the defintion of criminal trespass) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "97.10",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "97",
+      "reason": "Ingredient 'against any act which is an offence falling under the defintion of theft' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "97.7",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "97",
+      "reason": "Ingredient 'against any act which is an offence falling under the defintion of robbery' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "97.8",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "97",
+      "reason": "Ingredient 'against any act which is an offence falling under the defintion of mischief' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "97.9",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "97",
+      "reason": "Ingredient 'against any act which is an offence falling under the defintion of criminal trespass' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "97.10",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "439",
+      "reason": "Core ingredient 'mens_rea' (Whoever intentionally runs any vessel aground or ashore.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "439.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "439",
+      "reason": "Ingredient 'Intending to dishonestly misappropriate any such property.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "439.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "439",
+      "reason": "Ingredient 'With intent that such theft or misappropriation of property may be committed.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "439.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "329",
+      "reason": "Core ingredient 'actus_reus' (Whoever voluntarily causes grievous hurt) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "329.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "329",
+      "reason": "Core ingredient 'mens_rea' (for the purpose of constraining the sufferer or any person interested in such sufferer to do anything that is illegal) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "329.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "329",
+      "reason": "Core ingredient 'mens_rea' (for the purpose of constraining the sufferer or any person interested in such sufferer to do anything which may facilitate the commission of an offence) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "329.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "329",
+      "reason": "Ingredient 'for the purpose of extorting from the sufferer or from any person interested in the sufferer any property or valuable security' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "329.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "329",
+      "reason": "Ingredient 'Whoever voluntarily causes grievous hurt' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "329.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "206",
+      "reason": "Core ingredient 'mens_rea' (under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court of Justice or other competent authority) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "206.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "206",
+      "reason": "Core ingredient 'mens_rea' (or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "206.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "206",
+      "reason": "Ingredient 'intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "206.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "206",
+      "reason": "Ingredient 'intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine' (actus_reus) is partial. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments.",
+      "ingredient_id": "206.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Unknown Case",
+          "pattern": "Weak actus_reus — precedent also found evidential issues"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "424",
+      "reason": "Core ingredient 'mens_rea' (A person dishonestly releases any demand or claim to which he is entitled.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "424.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    }
+  ],
+  "total_loopholes": 57,
+  "by_type": {
+    "contradiction": 0,
+    "weak_evidence": 10,
+    "missing_core_ingredient": 27,
+    "precedent_supported_failure": 20
+  }
+}

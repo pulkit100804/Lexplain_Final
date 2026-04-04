@@ -1,0 +1,271 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Sessions (Trial Court)",
+    "impugned_order": "Order of acquittal by the Court of Sessions",
+    "high_court_proceedings": "The State appealed the acquittal to the Bombay High Court in Criminal Appeal No. 667 of 1967. The High Court set aside the order of acquittal and convicted the appellants.",
+    "supreme_court_posture": "The appellants (originally acquitted by the Court of Sessions but convicted by the High Court) appealed to the Supreme Court by special leave, challenging the High Court's decision to set aside the acquittal and convict them. The Supreme Court dismissed the appeal, upholding the High Court's conviction."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": null,
+    "sentence_status": "To be served",
+    "directions": [
+      "If the appellants are on bail their bail bonds are cancelled.",
+      "They will surrender and serve out the sentence."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "The power of a High Court to interfere with an order of acquittal in an appeal.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact_text": "In an appeal against acquittal, a High Court has the power to review all questions of law and fact and reach its own conclusion based on the evidence.",
+            "law_text": "This power is not absolute and must be exercised with due regard to several guiding principles."
+          },
+          {
+            "fact_text": "The High Court must give due regard to the trial judge's views on witness credibility, the presumption of innocence for the accused, the accused's right to the benefit of any doubt, and the general reluctance of an appellate court to disturb findings of fact made by a judge who saw the witnesses testify.",
+            "law_text": "These are considered the 'rules and principles' in the administration of justice for such appeals."
+          },
+          {
+            "fact_text": "If two plausible conclusions can be drawn from the evidence, the High Court should lean in favor of the conclusion that leads to acquittal, not conviction.",
+            "law_text": "This principle protects the accused and gives weight to the trial court's initial finding."
+          },
+          {
+            "fact_text": "The High Court must not only consider all the evidence and the trial court's reasoning but must also express its own clear reasons for holding that the acquittal was not justified.",
+            "law_text": "A simple disagreement is insufficient; the reasoning for overturning the acquittal must be articulated."
+          }
+        ],
+        "application": [
+          {
+            "fact_text": "The primary justification for a High Court to interfere with an acquittal is a finding that the trial court's view was unreasonable.",
+            "law_text": "Once the appellate court concludes that the trial court's view was unreasonable, that finding itself provides a sufficient reason for interference."
+          }
+        ],
+        "conclusion": "The Supreme Court decided that a High Court has the power to interfere with an order of acquittal by re-evaluating both the facts and the law. However, this power is subject to strict principles: the High Court must give due deference to the trial court's findings, respect the presumption of innocence, and favor acquittal if two conclusions are plausible. The ultimate threshold for interference is when the High Court concludes that the trial court's view was unreasonable; such a finding justifies setting aside the acquittal."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "The scope of the Supreme Court's interference with a High Court's order that has set aside an acquittal and convicted the accused.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact_text": "The Supreme Court will not ordinarily interfere with a High Court's order of conviction (which has set aside an acquittal) if the High Court has correctly applied the established principles for reviewing an acquittal.",
+            "law_text": "The principles a High Court must follow when reviewing an acquittal include: giving due regard to the trial judge's view on witness credibility, the presumption of innocence, the accused's right to the benefit of the doubt, and being slow to disturb findings of fact. The High Court must consider all evidence and provide its own reasons for concluding the acquittal was unjustified."
+          },
+          {
+            "fact_text": "A High Court is justified in interfering with a trial court's acquittal if it concludes that the trial court's view was unreasonable.",
+            "law_text": "The Supreme Court may interfere in exceptional cases, such as when the High Court's finding 'shocks the conscience of the court', disregards legal process, or has caused substantial and grave injustice."
+          }
+        ],
+        "application": [
+          {
+            "fact_text": "In the present case, the Supreme Court found that the High Court had correctly kept in view the rules and principles of appreciating evidence when it set aside the trial court's order of acquittal.",
+            "law_text": "Because the High Court followed the correct procedure and its view of the evidence was right, the Supreme Court determined there was no reason for it to interfere or to conduct its own review of the entire evidence."
+          }
+        ],
+        "conclusion": "The Supreme Court decided not to interfere with the High Court's order. It held that since the High Court had correctly applied the legal principles for setting aside an acquittal and had provided sufficient reasons for its decision, the Supreme Court would not disturb the resulting conviction. The appeal was therefore dismissed."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "The admissibility of a First Information Report (FIR) under Section 157 of the Evidence Act as substantive evidence.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court, in overturning an acquittal, relied on a First Information Report (FIR) as a key piece of evidence.",
+          "The High Court held that the FIR was admissible under Section 157 of the Evidence Act.",
+          "The maker of the FIR was examined in the trial court, but the report was not properly tendered into evidence by the prosecution at that time.",
+          "This failure to properly tender the FIR denied the appellants the opportunity to cross-examine its maker about its contents."
+        ],
+        "law": [
+          "A First Information Report (FIR) is not substantive evidence, meaning it cannot be used on its own to prove the facts of the case.",
+          "Under Section 157 of the Evidence Act, an FIR can only be used for the limited purpose of corroborating or contradicting the testimony of the person who made it.",
+          "An FIR can be used as substantive evidence only in specific, exceptional circumstances, such as under Section 32(i) (as a dying declaration) or Section 8 (regarding the informant's conduct), which were not applicable here."
+        ],
+        "application": [
+          "The Supreme Court applied the legal principle that an FIR is not substantive evidence and found that the High Court was wrong to treat it as such.",
+          "The Court noted that the correct use of the FIR under Section 157 would have been to corroborate its maker, not to serve as independent proof of the crime.",
+          "Furthermore, the Court found a significant procedural error. Because the FIR was not properly tendered when its maker testified, the appellants were unfairly denied their right to cross-examine him on it."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was wrong to hold the FIR admissible as substantive evidence under Section 157. The Court rejected this view, stating that an FIR's purpose under that section is only for corroboration or contradiction, not as substantive proof. Therefore, the High Court had wrongly relied on the FIR."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in setting aside the acquittal and convicting the appellants on the evidence on record.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court had acquitted the appellants.",
+          "The High Court set aside the acquittal and convicted the appellants for causing grievous and simple injuries to three individuals (Choharjasing, Nandlal, and Ramkeshwarsing).",
+          "The evidence included oral testimony from several witnesses stating that the appellants committed the assault.",
+          "The appellants argued that the acquittal should stand, partly because some of them had not sustained any injuries, which they claimed proved they were not involved."
+        ],
+        "law": [
+          "In an appeal against acquittal, a High Court can review both questions of law and fact to reach its own conclusion.",
+          "The High Court must give due regard to the trial judge's advantage of seeing the witnesses, the presumption of innocence, and the accused's right to the benefit of the doubt.",
+          "If two reasonable conclusions can be drawn from the evidence, the one favoring acquittal should be preferred.",
+          "However, if the appellate court finds that the trial court's view was unreasonable, this provides a sufficient reason to interfere and set aside the acquittal.",
+          "The Supreme Court will not interfere with a High Court's conviction in an appeal against acquittal if the High Court has correctly applied these principles and provided reasons for its decision."
+        ],
+        "application": [
+          "The Supreme Court examined the High Court's judgment and found that it had correctly followed the established legal principles for appreciating evidence in an appeal against acquittal.",
+          "The Court noted that the High Court gave clear reasons for its conclusion, explaining why the evidence proved the occurrence and the appellants' guilt.",
+          "The Supreme Court agreed with the High Court that the \"benefit of the doubt\" was not applicable in this case, as the evidence on record did not support it.",
+          "The Court specifically upheld the High Court's reasoning that the lack of injuries on some appellants did not automatically mean they were not present or did not participate in the assault, and thus did not discredit the witness testimonies.",
+          "Since the High Court had properly applied the law, considered the evidence, and found the trial court's view to be unreasonable, the Supreme Court found no grounds to interfere with its decision."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was justified in setting aside the trial court's acquittal and convicting the appellants, as it had correctly applied the principles of evidence appreciation and provided sufficient reasons for overturning the initial verdict."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "The power of a High Court to interfere with an order of acquittal in an appeal.",
+      "appellant_arguments": [
+        "The High Court should not have interfered with the acquittal by the trial Court.",
+        "The High Court interfered with the acquittal without giving any reasons.",
+        "Citing the case of Khedu Mohton & Ors. v. State of Bihar, the appellants argued that if two reasonable conclusions can be reached from the evidence, the one leading to acquittal should be preferred."
+      ],
+      "respondent_arguments": [
+        "The High Court was justified in interfering as it kept in view the rules and principles of appreciation of evidence and the right of the accused to the benefit of doubt.",
+        "The High Court provided reasons for its decision, explaining why the incident was proved and why the appellants were guilty based on the evidence.",
+        "The benefit of the doubt was not sustainable as the evidence on record did not exclude the guilt of the appellants."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "The scope of the Supreme Court's interference with a High Court's order that has set aside an acquittal and convicted the accused.",
+      "appellant_arguments": [
+        "The appellants implicitly argued for the Supreme Court to interfere and overturn the High Court's conviction by challenging the High Court's judgment on multiple grounds (improper interference with acquittal, wrongful admission of evidence, and misappreciation of facts)."
+      ],
+      "respondent_arguments": [
+        "The respondent implicitly argued that the Supreme Court should not interfere, as the High Court's decision to convict was correct and well-reasoned based on the evidence."
+      ],
+      "court_acceptance": "partly"
+    },
+    {
+      "issue_text": "The admissibility of a First Information Report (FIR) under Section 157 of the Evidence Act as substantive evidence.",
+      "appellant_arguments": [
+        "The first information report (FIR) about the cognizance of the offence was wrongly admitted in evidence."
+      ],
+      "respondent_arguments": [
+        "The High Court (whose decision the respondent defended) held that the FIR was admissible under Section 157 of the Evidence Act and that it afforded very strong corroboration."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the High Court was justified in setting aside the acquittal and convicting the appellants on the evidence on record.",
+      "appellant_arguments": [
+        "The incident on the morning of 16 October, 1964 could not be believed, and therefore the entire prosecution case should fail.",
+        "It was improbable that appellants No. 2 and 3 were involved in the assault because they did not receive any injuries."
+      ],
+      "respondent_arguments": [
+        "The conviction was justified by the clear and convincing evidence of several witnesses who testified that appellants No. 2 and 3 assaulted the victims.",
+        "The trial court was wrong to hold that witnesses had not named appellants No. 2 and 3 to the police; the oral evidence showed they had, and this was not challenged.",
+        "The medical evidence regarding the injuries sustained by the victims was consistent with the witness testimonies about the assault with sticks and iron bars."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act",
+        "section": "157",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Nihal Singh & Ors. v. State of Punjab",
+        "citation": "[1964] 4 S.C.R. 5",
+        "principle": "The Supreme Court will not ordinarily interfere with a High Court's order of conviction in an appeal against acquittal, or review the evidence, if the High Court has kept in view the rules and principles of appreciation of evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Bombay v. Rusi Mistry",
+        "citation": "A.I.R. 1960 S.C. 391",
+        "principle": "The Supreme Court will not ordinarily interfere with a High Court's order of conviction in an appeal against acquittal, or review the evidence, if the High Court has kept in view the rules and principles of appreciation of evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Laxman Kalu Nikalje v. State of Maharashtra",
+        "citation": "[1968] 3 S.C.R. 685",
+        "principle": "The Supreme Court will not ordinarily interfere with a High Court's order of conviction in an appeal against acquittal, or review the evidence, if the High Court has kept in view the rules and principles of appreciation of evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Harbans Singh and Anr. v. State of Punjab",
+        "citation": "[1962] Supp. 1 S.C.R. 104",
+        "principle": "The Supreme Court will not ordinarily interfere with a High Court's order of conviction in an appeal against acquittal, or review the evidence, if the High Court has kept in view the rules and principles of appreciation of evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sanwat Singh & Ors. v. State of Rajasthan",
+        "citation": "[1961] 3 S.C.R. 120",
+        "principle": "The Supreme Court will not ordinarily interfere with a High Court's order of conviction in an appeal against acquittal, or review the evidence, if the High Court has kept in view the rules and principles of appreciation of evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Khedu Mohton & Ors. v. State of Bihar",
+        "citation": "A.I.R. 1971 S.C. 66",
+        "principle": "The Supreme Court will not ordinarily interfere with a High Court's order of conviction in an appeal against acquittal, or review the evidence, if the High Court has kept in view the rules and principles of appreciation of evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sheo Swarup v. King Emperor",
+        "citation": "61 I.A. 398",
+        "principle": "The Supreme Court will not ordinarily interfere with a High Court's order of conviction in an appeal against acquittal, or review the evidence, if the High Court has kept in view the rules and principles of appreciation of evidence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In an appeal against acquittal, an appellate court can review questions of law and fact, but must give due regard to the trial judge's views on witness credibility, the presumption of innocence, the accused's right to the benefit of doubt, and be slow to disturb findings of fact. If two plausible conclusions can be reached from the evidence, the court must favor acquittal. However, the appellate court may interfere if it concludes that the trial court's view was unreasonable, and it must provide express reasons for justifying the reversal of the acquittal.",
+    "obiter": [
+      "The Supreme Court will not ordinarily interfere with an order of conviction passed by a High Court in an appeal against an acquittal, or review the evidence in such a case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In the present case. the High Court had kept in view the rules and principles of appreciation of evidence in setting aside the order of a.c· quittal. Jn such a case, this Court would not ordinarily interfere with the orcler of conviction passed bv 'the High Court in an appeal against on ,,cqnittal, or., review 1hc evidence.",
+    "legal_tests_applied": [
+      "In dealing with an appeal against acquittal the High Court can go inh, questions of law and fact and reach its own conclusion on evidence pro\" sided it pays due regard to the principles for such review. These princi· ples are giving due regard to, the views of the trial Judge as to the credibi· lity of the witnesses, the presumption of ' innocence in favour of the accused, the right of the accused to any benefit of doubt and the slowneS< of an appellate court 'in disturbing the finding of fact arrived at by a Judge who had the advantage of seeing the witnesses.",
+      "If two conclusio\"S can be reached with a plausible appearance of reason the court should lean in favour of that which leads to acquittal and not to that which leads to conviction. But once the appeUate court comes to the conclusion that the view of the trial court was unreasonable that itself would provide a reason for interference.",
+      "This Court would not ordinarily interfere with the order of conviction passed by the High Court in an appeal against acquittal or review the entire evidence where the High Court was right in its view of evidence, unless the finding was such that 'it shocks the conscience of the court' or that it disregarded the forms of legal precess or sub· stantial and grave injustice had been done."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the High Court should not have interfered with the acquittal was rejected because the Supreme Court was satisfied that 'the High Court kept in view the rules and principles of appreciation of evidence 1 and the right of the accused to the benefit of doubt and the High Court gave rea- sons as to why the occurrence on thtl morning of 16 October, 1964 was proved and also why the appellants were found on the evidence on record to be guilty of having committed an offence.'",
+      "The appellant's reliance on the 'two reasonable conclusions' principle failed because the Supreme Court found that the benefit of the doubt was not applicable in this case. The Court held: 'Benefit of doubt was not sustainable in the present case inasmuch as the materials on record did not exclude the guilt of the appellants.'",
+      "The Supreme Court declined to interfere with the High Court's conviction because the condition for its interference was not met: 'if the High Court has kept in view the rules and principles of appreciation of the entire evidence and has given reasons for setting aside the order of acquittal this Court would not interfere with the order of the High Court.'"
+    ],
+    "why_respondent_won": [
+      "The High Court correctly applied the principles for setting aside an acquittal, as the Supreme Court found that 'the High Court kept in view the rules and principles of appreciation of evidence in setting aside the order of a.c· quittal.'",
+      "The High Court was justified in interfering with the trial court's decision because, as a general principle, 'Once the appellate court came to the conclusion that the view of the trial court was unreasonable that itself would provide a reason for interference.'",
+      "The Supreme Court affirmed the High Court's conviction because its own standard of review is deferential in such cases: 'this Court would not ordinarily interfere with the order of conviction passed by the High Court in an appeal against acquittal or review the entire evidence where the High Court was right in its view of evidence.'"
+    ],
+    "policy_considerations": [
+      "The criminal justice system demands that the benefit of the doubt must be given to the accused: 'our criminal jurisdiction demands that the benefit of doubt must prevail.'",
+      "An appellate court overturning an acquittal must provide a clear justification for its decision: 'The appellate court in coming to its own conclusion should not only consider everv matter on record having a bearing on questions of fact and the reasons given by the trial court in support of the order of acquittal but should also express reasons for holding that the acquittal was not justified.'"
+    ]
+  },
+  "evidence_map": {
+    "arguments[0].appellant_arguments[0]": [
+      "p8_a3030d6f"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p1_bf8aa26b"
+    ]
+  }
+}

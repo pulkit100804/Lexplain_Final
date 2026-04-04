@@ -1,0 +1,141 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Court",
+    "impugned_order": "Judgment dated 08.09.2006, by which the Special Court acquitted A-2 and convicted A-1, A-3, A-4 and A-7 for various offences.",
+    "high_court_proceedings": "A-1, A-3, A-4 and A-7 filed three appeals in Criminal Appeal (MD) Nos.437, 445 and 469 of 2006, on the file of the Madurai Bench of the Madras High Court. By a common Judgment dated 17.09.2010, the High Court dismissed the appeals.",
+    "supreme_court_posture": "A-1, A-3, A-4 and A-7 approached the Supreme Court with four criminal appeals, namely, Appeal Nos.2417, 2443 and 2444 of 2010 and 16 of 2011, after the High Court dismissed their appeals. The Supreme Court allowed the appeals, set aside the judgments of the High Court and the Special Court, and acquitted the appellants of all charges."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The appellants are acquitted of all the charges.",
+      "The bail bonds, if any, furnished by them shall stand discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether there was a violation of the procedure prescribed by Section 306(4)(a) of the Code of Criminal Procedure, 1973.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants argued that the case involved a pardon granted by an Additional Chief Judicial Magistrate during the investigation stage.",
+          "This, they contended, brought the case under Section 306(1) of the Code of Criminal Procedure.",
+          "They claimed that the mandatory procedure under Section 306(4)(a) was not followed, which requires an approver to be examined as a witness both before the case is committed for trial and again during the trial."
+        ],
+        "law": [
+          "Section 306(4)(a) of the Code of Criminal Procedure outlines the procedure for examining an approver after a pardon has been granted under Section 306(1).",
+          "The Supreme Court, in the precedent case of *Suresh Chandra Bahri*, held that the procedure in Section 306(4)(a) is mandatory.",
+          "However, the same precedent also established that non-compliance could be a curable defect if the irregularity is corrected before trial and no prejudice is caused to the accused."
+        ],
+        "application": [
+          "The Court considered its previous ruling in *Suresh Chandra Bahri*.",
+          "In that case, the Court found that even though the procedure was mandatory, a failure to comply could be rectified.",
+          "Specifically, if the defect (the failure to examine the approver before committal) was noticed and cured before the trial began, and the accused suffered no prejudice or disadvantage, the proceedings would not be invalidated.",
+          "Applying this principle, the Court evaluated the procedure followed in the current case."
+        ],
+        "conclusion": "The Supreme Court concluded that there was no violation of the procedure prescribed by Section 306(4)(a) of the Code. It, therefore, rejected the appellants' argument on this issue."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the procedure under Section 73 of the Indian Evidence Act, 1872 is available to a Court in the absence of admitted or proved handwritings.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court, disagreeing with the Trial Court's reasoning, decided to conduct its own comparison of handwriting to convict the accused (A-7).",
+          "To do this, the High Court invoked Section 73 of the Indian Evidence Act.",
+          "It used a document containing specimen signatures (Exhibit P-75) as the 'admitted' handwriting of A-7.",
+          "However, the accused was never questioned about Exhibit P-75, meaning he never formally admitted the signatures were his.",
+          "There was no other signature or writing that was otherwise admitted by or proved to be from the accused.",
+          "The High Court also did not direct the accused to provide a writing sample in court for comparison."
+        ],
+        "law": [
+          "Section 73 of the Indian Evidence Act, 1872, allows a court to compare a disputed signature or writing with one that has been 'admitted or proved to the satisfaction of the Court' to have been written by that person.",
+          "The section also provides a procedure for the court to direct a person present in court to write something for the purpose of comparison."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court could not use Section 73 because the essential precondition was not met.",
+          "There was no signature or writing available that had been either 'admitted' by the accused or 'proved' to be his.",
+          "The High Court incorrectly treated Exhibit P-75 as an admitted document, even though the accused had never confirmed it was his handwriting.",
+          "Since the High Court did not follow the prescribed procedure of either using an admitted/proved sample or directing the accused to write in court, it had 'invented a novel procedure' not supported by the law."
+        ],
+        "conclusion": "The Supreme Court decided that a court cannot resort to the handwriting comparison procedure under Section 73 of the Evidence Act unless there is a pre-existing signature or writing that has been either admitted by the person or proved to be theirs. In the absence of such an admitted or proved sample, the procedure is not available."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether there was a violation of the procedure prescribed by Section 306(4)(a) of the Code of Criminal Procedure, 1973.",
+      "appellant_arguments": [
+        "The provided text does not contain the specific arguments for this issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments for this issue."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the procedure under Section 73 of the Indian Evidence Act, 1872 is available to a Court in the absence of admitted or proved handwritings.",
+      "appellant_arguments": [
+        "The procedure under Section 73 of the Evidence Act is available to a Court only when there are admitted or proved handwritings, which were absent in this case."
+      ],
+      "respondent_arguments": [
+        "There was cogent evidence, both oral and documentary, to connect all the accused with the offences for which they were found guilty."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Code",
+        "section": "306(4)(a) and (b)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Code",
+        "section": "197(1)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Case name not provided",
+        "citation": "[2020] 6 SCR 453",
+        "principle": "The procedure prescribed in clauses (a) and (b) of sub-section (4) of Section 306 of the Code is applicable only to cases covered by sub-section (1).",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Yakub Abdul Razak Memon vs. State of Maharashtra",
+        "citation": "(2013) 13 SCC 1 : [2013] 15 SCR 1",
+        "principle": "It is well settled that previous sanction to prosecute under Section 197(1) of the Code is necessary only when the act complained of is in the discharge of official duties.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An act by a public servant, which is based on an arguable case in defence of a decision made under an existing policy, does not constitute a criminal offense.",
+    "obiter": [
+      "The procedure prescribed in clauses (a) and (b) of sub-section (4) of Section 306 of the Code of Criminal Procedure is applicable only to cases covered by sub-section (1) of that section."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that there was no violation of the procedure prescribed by Section 306(4)(a) of the Code of Criminal Procedure. This is because, upon a careful examination of the statute, the procedure outlined in clauses (a) and (b) of sub-section (4) is only applicable to cases that are covered by sub-section (1) of Section 306.",
+    "legal_tests_applied": [
+      "Statutory Interpretation: The court analyzed the structure of Section 306 of the Code of Criminal Procedure to determine the scope and applicability of its sub-sections, concluding that sub-section (4) is dependent on and limited to the circumstances described in sub-section (1)."
+    ],
+    "why_appellant_lost": [
+      "The appellants' argument failed because the court found that the procedural requirement they alleged was violated, Section 306(4)(a), was not applicable to their case. The court reasoned that the procedure in sub-section (4) is exclusively for cases covered by sub-section (1), and this case did not fall into that category."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the court's interpretation of the law confirmed that no procedural violation occurred. The court's reasoning was that the applicability of the procedure in Section 306(4) is limited to cases falling under Section 306(1), and therefore, the procedure was not required to be followed in this instance."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

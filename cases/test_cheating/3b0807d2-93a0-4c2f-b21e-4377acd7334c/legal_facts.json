@@ -1,0 +1,101 @@
+{
+  "case_id": "3b0807d2-93a0-4c2f-b21e-4377acd7334c",
+  "tenant_id": "test_cheating",
+  "agent": "agent_5a_legal_fact_normalizer",
+  "input_refs": [
+    "event_graph.json"
+  ],
+  "created_at": "2026-03-19T16:51:04.219998+00:00",
+  "legal_facts": [
+    {
+      "fact_id": "lf_001",
+      "type": "no_action",
+      "original_action": null,
+      "mapped_from": "none",
+      "source_event_id": "evt_001",
+      "actor": "accused",
+      "target": "victim",
+      "object": "a car"
+    },
+    {
+      "fact_id": "lf_002",
+      "type": "no_action",
+      "original_action": null,
+      "mapped_from": "none",
+      "source_event_id": "evt_002",
+      "actor": null,
+      "target": null,
+      "object": "the car"
+    },
+    {
+      "fact_id": "lf_003",
+      "type": "property_transfer",
+      "original_action": "transferred",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_003",
+      "actor": null,
+      "target": null,
+      "object": null
+    },
+    {
+      "fact_id": "lf_004",
+      "type": "deception",
+      "original_action": "promised",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_004",
+      "actor": null,
+      "target": null,
+      "object": null
+    },
+    {
+      "fact_id": "lf_005",
+      "type": "non_response",
+      "original_action": "stopped responding",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_005",
+      "actor": null,
+      "target": null,
+      "object": "the money"
+    },
+    {
+      "fact_id": "lf_006",
+      "type": "non_response",
+      "original_action": "stopped",
+      "mapped_from": "description_scan",
+      "source_event_id": "evt_006",
+      "actor": null,
+      "target": null,
+      "object": "the money"
+    },
+    {
+      "fact_id": "lf_007",
+      "type": "property_transfer",
+      "original_action": "delivered",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_007",
+      "actor": null,
+      "target": null,
+      "object": "the car"
+    },
+    {
+      "fact_id": "lf_008",
+      "type": "no_action",
+      "original_action": null,
+      "mapped_from": "none",
+      "source_event_id": "evt_008",
+      "actor": null,
+      "target": null,
+      "object": "the car"
+    },
+    {
+      "fact_id": "lf_009",
+      "type": "failure_to_act",
+      "original_action": "failed",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_009",
+      "actor": null,
+      "target": null,
+      "object": "the car"
+    }
+  ]
+}

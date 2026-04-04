@@ -1,0 +1,150 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate, 1st Class, at Varanasi",
+    "impugned_order": "Judgment and order dated November 26, 1963 of the Allahabad High Court in Government Appeal No. 782 of 1962.",
+    "high_court_proceedings": "The Trial Magistrate convicted the appellant. In appeal to the Court of Session, Varanasi, the order passed by the Trial Magistrate was set aside and the appellant was acquitted. The High Court of Judicature at Allahabad however set aside the order of acquittal and restored the conviction, but reduced the sentence on each of the charges to a fine of Rs. 1,000.",
+    "supreme_court_posture": "The appellant, having been convicted by the High Court, appealed to the Supreme Court after the High Court granted a certificate under Art. 134 of the Constitution."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the limitation period under Section 92 of the Trade and Merchandise Marks Act, 1958, commences from the first discovery of any infringement of the trademark by the prosecutor, or from the commission or discovery of the specific offense charged.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The complainants first discovered that the appellant was infringing their trademark in 1955 but took no legal action at that time.",
+          "In November 1960, the appellant was again found in possession of counterfeit labels and tins, constituting a new offense.",
+          "A prosecution was initiated against the appellant in March 1961 for the offense committed in November 1960.",
+          "The appellant argued that the prosecution was barred by the limitation period under Section 92 of the 1958 Act, claiming the clock started with the first discovery of infringement in 1955."
+        ],
+        "law": [
+          {
+            "law_name": "Section 92 of the Trade and Merchandise Marks Act, 1958",
+            "description": "A prosecution must be commenced within \"three years next after the commission of the offence charged, or two years after the discovery thereof by the prosecutor, whichever expiration first happens.\""
+          },
+          {
+            "law_name": "Section 15 of the Merchandise Marks Act, 1889 (the previous law)",
+            "description": "This older, superseded law stated the limitation period was \"one year after the first discovery thereof by the prosecutor.\" The court noted the key difference was the presence of the word \"first\" in the old law."
+          },
+          {
+            "law_name": "Ruppell v. Ponnusami Jevan",
+            "description": "A Madras High Court case interpreting the old 1889 Act, which held that the limitation period began from the date the infringement was first discovered."
+          }
+        ],
+        "application": [
+          "The Court focused on the precise wording of Section 92 of the 1958 Act, emphasizing the phrases \"offence charged\" and \"discovery thereof\" (referring to the specific offense charged).",
+          "It held that the appellant's argument required substituting the actual words of the statute with \"first infringement\" and \"first discovery,\" which was not permissible.",
+          "The Court contrasted the new Section 92 with the old Section 15 of the 1889 Act. It pointed out that the Legislature had deliberately removed the words \"first discovery\" and added the word \"charged\" after \"offence.\"",
+          "This deliberate change in language showed a clear legislative intent to make a departure from the old law. Therefore, precedents like the Ruppell case, which interpreted the old law, were no longer applicable.",
+          "The Court concluded that each act of infringement constitutes a distinct offense. The limitation period for the offense committed in November 1960 started from that date, not from the discovery of a separate, earlier infringement in 1955."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument and held that the limitation period under Section 92 of the Trade and Merchandise Marks Act, 1958, commences from the date of the commission of the specific offense charged, or from the date of its discovery by the prosecutor. It does not start from the first-ever discovery of any infringement by the prosecutor."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the plea of acquiescence by the complainants could be successfully raised by the appellant.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "In 1955, the complainants sent a letter to the appellant protesting that he was infringing their trademark.",
+          "In the letter, the complainants demanded that the appellant stop using the deceptive trademark and passing off his goods as theirs."
+        ],
+        "law": [
+          "For a plea of acquiescence to succeed, there must be assent from the proprietor to the use of the trademark.",
+          "A protest against the infringement of a trademark cannot be considered as assent to its use."
+        ],
+        "application": [
+          "The court found that the complainants' letter in 1955 was a clear protest against the appellant's infringement.",
+          "This act of protesting is the opposite of giving assent or acquiescing to the use of the deceptive trademark.",
+          "The court found nothing to substantiate the appellant's plea that the complainants had acquiesced."
+        ],
+        "conclusion": "The Supreme Court, agreeing with the High Court, held that the plea of acquiescence was without substance and rejected it. The court reasoned that the complainants had actively protested the infringement, which is the opposite of giving the assent required to prove acquiescence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the limitation period under Section 92 of the Trade and Merchandise Marks Act, 1958, commences from the first discovery of any infringement of the trademark by the prosecutor, or from the commission or discovery of the specific offense charged.",
+      "appellant_arguments": [
+        "The prosecution was barred by the limitation period under Section 92 of the Act.",
+        "The complainants admitted to learning about the infringement of their trademark in 1955, but the criminal proceedings were only initiated in November 1960, which is beyond the prescribed limitation period starting from the first discovery."
+      ],
+      "respondent_arguments": [
+        "The limitation period should commence from the discovery of the specific offense for which the appellant was charged, which occurred in November 1960 when he was found in possession of infringing materials.",
+        "The earlier discovery of an infringement in 1955 does not bar a new prosecution for a subsequent and distinct offense discovered later."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the plea of acquiescence by the complainants could be successfully raised by the appellant.",
+      "appellant_arguments": [
+        "The complainants had acquiesced to the appellant's use of the trademark.",
+        "This acquiescence could be inferred from the fact that the complainants protested in 1955 but took no further action at that time, thereby assenting to the use of the mark.",
+        "Due to this assent, the appellant could not be said to have falsified a trademark or falsely applied it."
+      ],
+      "respondent_arguments": [
+        "There was no acquiescence from which assent could be inferred.",
+        "The failure to take action in 1955 did not constitute a legal assent for the appellant to continue infringing the trademark with new offenses."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Trade and Merchandise Marks Act, 1958",
+        "section": "92",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Trade and Merchandise Marks Act, 1958",
+        "section": "77",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Trade and Merchandise Marks Act, 1958",
+        "section": "78",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Trade and Merchandise Marks Act, 1958",
+        "section": "79",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The limitation period for prosecution under Section 92 of the Trade and Merchandise Marks Act, 1958, commences from the 'commission of the offence charged' or the 'discovery thereof'. The statute does not refer to the 'first' commission or 'first' discovery of an infringement, and there is no warrant for substituting these words into the section.",
+    "obiter": [
+      "A plea of acquiescence by a complainant, from which assent to the use of a trademark may be inferred, is a determination based on a factual review of the evidence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court's central conclusion is that the limitation period for prosecution under Section 92 of the Trade and Merchandise Marks Act, 1958, is tied to the specific offense being charged, not to the first time the prosecutor discovered any infringement by the accused. The appellant's attempt to read the statute as commencing the limitation period from the 'first discovery' of the 'first infringement' is a substantial and unwarranted modification of the plain language deliberately chosen by the Legislature, which specifies the period runs from the 'commission of the offence charged' or the 'discovery thereof'.",
+    "legal_tests_applied": [
+      "Statutory interpretation of Section 92 of the Trade and Merchandise Marks Act, 1958, focusing on the plain meaning of the phrases 'the offence charged' and 'discovery thereof'.",
+      "The test for acquiescence, which requires demonstrating 'assent of the proprietor to the use by the accused of a trade mark,' and establishing that a 'protest against infringement' cannot be regarded as such assent."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument on the limitation period failed because it required the court to substitute words into Section 92 ('after the first discovery' and 'after the commission of the first infringement') which are not present in the statute. The court held that 'The Legislature has deliberately not used those expressions, and there is no warrant for substituting them in the section and thereby substantially modifying the section.'",
+      "The plea of acquiescence was rejected because a protest against infringement cannot be considered assent. The court reasoned, 'protest against infringement of the complainants' trade mark cannot be regarded as assent to the use or application of the false trade mark.'",
+      "The court saw no reason to differ from the High Court's finding of fact that 'there was no acquiescence by the complainants from which assent may be inferred.'"
+    ],
+    "why_respondent_won": [
+      "The respondent's interpretation of the limitation period prevailed because it aligned with the plain text of Section 92, which links the commencement of the period to the specific 'offence charged' and its discovery, not a prior, separate infringement.",
+      "The respondent successfully argued that their earlier protest against the infringement negated any claim of assent, a position the court adopted by stating that a protest is fundamentally incompatible with assent."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

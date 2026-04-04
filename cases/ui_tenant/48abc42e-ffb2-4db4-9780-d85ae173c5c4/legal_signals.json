@@ -1,0 +1,79 @@
+{
+  "case_id": "48abc42e-ffb2-4db4-9780-d85ae173c5c4",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_5b_legal_signal_extractor",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json"
+  ],
+  "created_at": "2026-03-26T03:34:54.622265+00:00",
+  "signals": [
+    {
+      "signal_id": "sig_001",
+      "signal": "physical_force_used",
+      "categories": [
+        "force"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_002"
+      ]
+    },
+    {
+      "signal_id": "sig_002",
+      "signal": "death_occurred",
+      "categories": [
+        "death"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_004"
+      ]
+    },
+    {
+      "signal_id": "sig_003",
+      "signal": "evidence_found",
+      "categories": [
+        "evidence"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_007",
+        "lf_008"
+      ]
+    },
+    {
+      "signal_id": "sig_004",
+      "signal": "death_following_force",
+      "categories": [
+        "death",
+        "force"
+      ],
+      "confidence": 0.9,
+      "source": "co_occurrence",
+      "source_fact_ids": [
+        "lf_004",
+        "lf_002"
+      ]
+    },
+    {
+      "signal_id": "sig_005",
+      "signal": "weapon_present",
+      "categories": [
+        "weapon",
+        "evidence",
+        "force"
+      ],
+      "confidence": 0.9,
+      "source": "co_occurrence",
+      "source_fact_ids": [
+        "lf_008",
+        "lf_007",
+        "lf_002"
+      ]
+    }
+  ]
+}

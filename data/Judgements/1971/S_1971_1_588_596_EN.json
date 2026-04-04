@@ -1,0 +1,123 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court (inferred from the text referring to a complaint made under sub-section (1) being forwarded to a Magistrate)",
+    "impugned_order": "Judgment and Order dated September 2, 4, 1968 of the Bombay High Court, Nagpur Bench in Criminal Appeal No. 74 of 1968.",
+    "high_court_proceedings": "The case initially went to the Nagpur Bench of the Maharashtra High Court. The High Court's initial order was set aside by the Supreme Court and remitted back to the High Court. The High Court then heard the appeal again and dismissed it.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave after the High Court dismissed the appeal for the second time. The Supreme Court is now considering the correctness of the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the requirements of Section 479-A of the Code of Criminal Procedure have been complied with before instituting the complaint, and if not, whether the prosecution is vitiated?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant argued that the prosecution against them was invalid (vitiated).",
+          "The basis for this argument was that after the trial court made the necessary findings to prosecute for perjury under Section 479-A, it did not give the appellant an opportunity to show cause why a complaint should not be filed against them."
+        ],
+        "law": [
+          "Section 479-A(1) of the Code of Criminal Procedure governs the procedure for a court to file a complaint against a witness for giving false evidence.",
+          "The mandatory requirements under this section are that the court must record a finding that: (1) the witness has intentionally given false evidence, and (2) it is expedient in the interests of justice to prosecute the witness for the offence.",
+          "The provision also states that the court may, if it thinks fit, give the witness an opportunity to be heard before making the complaint."
+        ],
+        "application": [
+          "The Supreme Court analyzed the language of Section 479-A(1) and determined that the step of giving a witness an opportunity to be heard is not mandatory.",
+          "The Court reasoned that the phrase \"if the court thinks fit\" makes this step a matter of discretion for the trial court, not a compulsory requirement.",
+          "To support this interpretation, the Court contrasted sub-section (1) with sub-section (5) of the same law, which deals with appellate courts. Sub-section (5) explicitly states that an appellate court cannot make such an order \"without giving the person affected thereby an opportunity of being heard.\" The absence of such mandatory language in sub-section (1) was deemed intentional.",
+          "The Court also dismissed the precedents cited by the appellant, stating they were not relevant as they dealt with different aspects of the law and did not address the specific question of whether the opportunity to be heard under sub-section (1) was mandatory."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument, holding that the requirement under Section 479-A(1) of giving a witness an opportunity of being heard before making a complaint is not mandatory but discretionary. Therefore, the failure to provide such an opportunity did not vitiate the prosecution."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the complaint is vitiated because the Sessions Judge, after arriving at the findings, did not give the appellant an opportunity to show cause why a complaint should not be filed against him?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The Sessions Judge (the trial court) came to a prima facie conclusion that the appellant had given false evidence.",
+          "The judge gave the appellant an opportunity to show cause why he should not be prosecuted for giving false evidence.",
+          "After arriving at the findings, but before filing the complaint, the judge did not give the appellant a second opportunity to be heard.",
+          "The appellant argued that this failure to provide a post-finding, pre-complaint opportunity to be heard vitiated the entire complaint."
+        ],
+        "law": [
+          "The Court analyzed Section 479-A of the Code of Criminal Procedure.",
+          "Under sub-section (1), which applies to trial courts, giving a witness an opportunity of being heard after recording findings and before making a complaint is not mandatory. It is a matter left to the discretion of the trial court (\"only if the court thinks fit\").",
+          "In contrast, under sub-section (5), which applies to appellate courts, giving the person affected an opportunity of being heard is mandatory.",
+          "The Court reasoned that the legislature made this distinction because the trial court has seen the witness and observed their demeanor, whereas the appellate court has not."
+        ],
+        "application": [
+          "The Court applied the law governing trial courts (sub-section (1) of Section 479-A) to the actions of the Sessions Judge.",
+          "Since the provision makes the opportunity to be heard discretionary for a trial court, the judge was not required to grant it.",
+          "The Court noted that, in any event, an adequate opportunity had already been given to the appellant at an earlier stage to show cause against the proposed complaint.",
+          "Therefore, the judge's decision not to provide a second opportunity after the findings were recorded did not violate the procedure laid out in the statute."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument and held that the complaint was not vitiated. The Court reasoned that under Section 479-A(1) of the Code of Criminal Procedure, it is not mandatory for a trial court to give a witness an opportunity to be heard after findings are recorded but before a complaint is filed; this step is purely at the discretion of the trial court."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the requirements of Section 479-A of the Code of Criminal Procedure have been complied with before instituting the complaint, and if not, whether the prosecution is vitiated?",
+      "appellant_arguments": [
+        "The appellant argued that the requirements of Section 479-A were not complied with, which vitiated the prosecution. The specific failure was the lack of an opportunity to show cause at the correct stage of the proceedings."
+      ],
+      "respondent_arguments": [
+        "The respondent's position, as supported by the court's findings, was that the requirements were met. The trial judge had come to a prima facie conclusion that the appellant gave false evidence, found it expedient to prosecute in the interests of justice, and had provided an adequate opportunity to the appellant to show cause, even if it was at an earlier stage."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the complaint is vitiated because the Sessions Judge, after arriving at the findings, did not give the appellant an opportunity to show cause why a complaint should not be filed against him?",
+      "appellant_arguments": [
+        "The appellant contended that the complaint was vitiated because the Sessions Judge, after recording the findings that perjury had been committed, did not provide a subsequent opportunity for the appellant to show cause why a complaint should not be filed against him."
+      ],
+      "respondent_arguments": [
+        "The respondent's position, which the court accepted, was that an adequate opportunity to show cause had already been given to the appellant at an earlier stage, before the findings were recorded. This was sufficient to meet the requirements of justice, and the law did not mandate a second opportunity at the specific time the appellant demanded."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1898",
+        "section": "479-A",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The question of whether a witness should be given an opportunity to show cause why a complaint should not be filed against them under Section 479-A(1) is left to the discretion of the court.",
+    "obiter": [
+      "While other courts have held that the principle of audi alteram partem (the right to be heard) should apply to proceedings under Section 479-A(1) even if not statutorily mandated, it is not necessary to express an opinion on the correctness of this view."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found that while an appellate court is mandated to provide an opportunity to be heard before filing a complaint under Section 479-A(5), the trial court is given discretion under Section 479-A(1) as to whether such an opportunity should be given. In this specific case, an adequate opportunity had already been given to the appellant at an earlier stage to show cause against the proposed complaint, which satisfied the requirements of the law. Therefore, the failure to provide a second opportunity after the findings were recorded but before the complaint was filed did not vitiate the prosecution.",
+    "legal_tests_applied": [
+      "Statutory interpretation of Section 479-A of the Code of Criminal Procedure, distinguishing the discretionary power of a trial court under sub-section (1) from the mandatory requirement for an appellate court under sub-section (5) to provide an opportunity of being heard."
+    ],
+    "why_appellant_lost": [
+      "The appellant's contention that the complaint was vitiated because he was not given an opportunity to show cause *after* the Sessions Judge recorded his findings was rejected, as the court held that an adequate opportunity had already been provided at an earlier stage.",
+      "The appellant's argument that giving a notice to show cause after the findings are recorded is mandatory for a trial court was incorrect; the court interpreted the statute to mean that this is discretionary for the trial court, unlike for an appellate court where it is mandatory."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was accepted because the trial judge had fulfilled the necessary conditions: he came to a prima facie conclusion that the appellant gave false evidence, found it expedient to prosecute in the interests of justice, and had already given the appellant an adequate opportunity to show cause against the proposed complaint.",
+      "The court's interpretation of the law supported the respondent's case, finding that the trial court has discretion on whether to grant a hearing, and in this instance, a sufficient hearing had already been provided."
+    ],
+    "policy_considerations": [
+      "The court explained the reason for the legal distinction between a trial court and an appellate court's duty to provide a hearing: 'So far as the trial court is concerned, it is the court that has seen the witness and observed his demeanour. Therefore the legislature evidently thought that the question whether a witness should be given a further opportunity to show cause why complaint should not be filed against him may be left to the discretion of that court but the appellate court having no such opportunity, the legislature evidently thought that an opportunity should be given to the witness to show cause against the contemplated complaint.'"
+    ]
+  },
+  "evidence_map": {}
+}

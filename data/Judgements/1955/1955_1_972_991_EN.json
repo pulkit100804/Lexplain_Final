@@ -1,0 +1,103 @@
+{
+  "procedural_history": {
+    "originating_court": "Income-tax Appellate Tribunal",
+    "impugned_order": "Order dated the 22nd day of November, 1949, of the Income-tax Appellate Tribunal in I.T.A. Nos. 1026 and 1027 of 1948-49.",
+    "high_court_proceedings": "The High Court of Judicature at Calcutta issued a Judgment and Order dated the 7th day of June, 1951, in Income-tax Reference No. 60 of 1950 arising out of the order of the Income-tax Appellate Tribunal.",
+    "supreme_court_posture": "The case reached the Supreme Court as a Civil Appeal (Civil Appeal No. 162 of 1952) from the Judgment and Order of the High Court of Judicature at Calcutta. The Supreme Court dismissed the appeal but modified the sentence of imprisonment to the period already undergone, while upholding the sentence of fine."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Modified",
+    "directions": [
+      "The sentence of imprisonment is reduced to the period already undergone.",
+      "The sentence of fine stands."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the sums paid by the company to its lessor are deductible in the computation of its business profits under the provisions of section 10(2) (xv) of the Income-tax Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A company paid its lessor two sums totaling Rs. 40,000 (Rs. 5,000 and Rs. 35,000) during the accounting years 1944-45 and 1945-46.",
+          "The company claimed these payments as deductible business expenses under section 10(2)(xv) of the Income-tax Act.",
+          "The Income-tax authorities and the High Court disallowed the deduction, classifying the payments as capital expenditure."
+        ],
+        "law": [
+          "The central legal question is the distinction between 'capital expenditure' and 'revenue expenditure' under the Income-tax Act.",
+          "Expenditure is considered capital if it is made to acquire an asset or an advantage of an \"enduring benefit\" for the business.",
+          "Expenditure is considered revenue if it is made for the purpose of running the business or working it to produce profits.",
+          "The aim and object of the expenditure determine its character, not the manner of payment (e.g., lump sum vs. periodic)."
+        ],
+        "application": [
+          "The Court analyzed the nature of the advantage the company acquired through the payments.",
+          "It determined that the payments were made to secure protection from business competition within a specific area for the duration of the lease.",
+          "This protection was considered an \"enduring advantage\" and an \"appreciated capital asset\" that benefited the business as a whole, rather than being a part of the working or operational expenses.",
+          "The Court reasoned that even though the payments were recurring or spread over several years, their purpose was to acquire a long-term benefit, which is characteristic of capital expenditure."
+        ],
+        "conclusion": "The Supreme Court held that the sums paid by the company were capital expenditure because they were incurred for the acquisition of an asset or advantage of an enduring nature for the whole of the business. Consequently, the payments were not an allowable deduction under section 10(2)(xv) of the Income-tax Act, and the company's appeal was dismissed."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the sums paid by the company to its lessor are deductible in the computation of its business profits under the provisions of section 10(2) (xv) of the Income-tax Act.",
+      "appellant_arguments": [],
+      "respondent_arguments": [],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Income-tax Act",
+        "section": "10(2)(xv)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Tata Hydro-Electric Agencies. Ltd:, Bombay v. Commissioner of Income-tax, Bombay Presidency and Aden",
+        "citation": "(1937) L. R. 64 I.A. 215",
+        "principle": "Cited as an illustration of the principle for distinguishing between capital and revenue expenditure.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Benarsidas Jagannath, In re",
+        "citation": "[1946] 15 I.T.R. 185",
+        "principle": "The case was approved by the court in the context of determining whether an expenditure is of a capital nature.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Where there is no express finding by the Commissioners on a point of fact, it must be determined by the Courts upon the available materials and with due regard to the principles laid down in legal authorities.",
+    "obiter": [
+      "It is very difficult to lay down any general rule which is both sufficiently accurate and exhaustive to cover all or even a great number of possible cases.",
+      "The determination of whether an expenditure is for capital or revenue is a question of fact to be decided by the Commissioners based on the evidence in each case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The determination of whether an expenditure is capital or revenue in nature is a question of fact to be decided by the Income-tax Authorities based on the specific circumstances of each case. Courts of law will not ordinarily interfere with such findings of fact, provided they have been arrived at through a proper application of broad legal principles.",
+    "legal_tests_applied": [
+      "Whether an expenditure is used 'for the purpose of carrying on your concern' (revenue expenditure) or 'to acquire the concern' (capital expenditure).",
+      "A case-by-case analysis from a business point of view, based on a fair appreciation of the whole situation, to determine if the expenditure is capital or revenue in nature, which would then determine its deductibility under section 10(2)(xv) of the Indian Income-tax Act, 1922."
+    ],
+    "why_appellant_lost": [
+      "The question of whether the expenditure was capital or revenue has been consistently treated as a question of fact, which is the domain of the Income-tax Authorities.",
+      "The court's role is not to substitute its own finding of fact but to ensure the correct legal principles were applied by the fact-finding authority. The appellant failed to show that the authorities misapplied these principles."
+    ],
+    "why_respondent_won": [
+      "The determination of the expenditure's nature was a finding of fact made by the appropriate Income-tax Authorities.",
+      "The court defers to the findings of the Income-tax Authorities on questions of fact so long as those findings are based on a proper application of the established legal principles distinguishing capital from revenue expenditure."
+    ],
+    "policy_considerations": [
+      "It is not desirable for a court to formulate precise, exhaustive rules for distinguishing capital and revenue expenditure when Parliament has deliberately abstained from doing so.",
+      "Attempting to create a single, exhaustive rule would likely lead to the 'embarrassment of business men in the conduct of business affairs,' and it is wiser to deal with each case on its own specific facts and circumstances."
+    ]
+  },
+  "evidence_map": {}
+}

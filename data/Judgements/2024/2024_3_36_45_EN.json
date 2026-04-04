@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment and Order dated 17.12.2019 of the High Court of Judicature at Allahabad in CRLA No.7393 of 2017, which affirmed the order of conviction and sentence awarded by the trial court.",
+    "high_court_proceedings": "The accused/appellants preferred appeals before the High Court. The High Court dismissed the appeals and affirmed the order of conviction and sentence awarded by the trial court.",
+    "supreme_court_posture": "The accused/appellants, being aggrieved by the High Court's judgment, filed the present appeals before the Supreme Court."
+  },
+  "decision": {
+    "appeal_result": "Criminal Appeal No. 1978 of 2022 qua appellant Naeem and Criminal Appeal No. 1979 of 2022 qua appellant Naeema are allowed. Criminal Appeal No. 1979 of 2022 qua appellant Pappi @ Mashkoor is dismissed.",
+    "conviction_status": "The order of conviction in respect of appellants Naeem and Naeema is quashed and set aside. They are acquitted of all the charges charged with. The conviction of appellant Pappi @ Mashkoor is maintained.",
+    "sentence_status": "The order of sentence in respect of appellants Naeem and Naeema is quashed and set aside. The sentence of appellant Pappi @ Mashkoor is maintained.",
+    "directions": [
+      "Appellants Naeem and Naeema are directed to be released forthwith if not required in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of all the three accused is tenable or not.",
+        "court_answer": "partly"
+      },
+      "reasoning": {
+        "facts": [
+          "Three accused were convicted by a trial court for murder under Sections 302 and 34 of the IPC.",
+          "This conviction was based solely on a dying declaration (Ext. Ka-6).",
+          "The High Court affirmed the conviction and sentence.",
+          "The accused then appealed to the Supreme Court."
+        ],
+        "law": [
+          "The Supreme Court reiterated the legal principle that a conviction can be based solely on a dying declaration without any independent corroboration.",
+          "The key condition is that the court must be satisfied that the declaration is true, voluntary, cogent, trustworthy, and reliable."
+        ],
+        "application": [
+          "The Court evaluated the dying declaration (Ext. Ka-6) in the present case.",
+          "It found the declaration to be \"cogent, trustworthy and reliable to base the conviction on the same.\"",
+          "However, the final judgment differentiated between the accused."
+        ],
+        "conclusion": "The Supreme Court decided the issue 'partly'. It found the dying declaration reliable enough to uphold the conviction of accused No. 1, and therefore dismissed his appeal. However, it allowed the appeals for accused No. 2 and accused No. 3, overturning their convictions. Thus, the conviction was tenable for only one of the three accused."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of all the three accused is tenable or not.",
+      "appellant_arguments": [
+        "The conviction, which is based solely on the dying declaration, is not justified."
+      ],
+      "respondent_arguments": [
+        "The conviction is justified as it is based on a dying declaration that is cogent, trustworthy, and reliable, which can be the sole basis for a conviction without needing independent corroboration."
+      ],
+      "court_acceptance": "partly"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "302 and 34",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Atbir v. Government of NCT of Delhi",
+        "citation": "[2010] 9 SCR 993 : (2010) 9 SCC 1 : 2010 INSC 491",
+        "principle": "Where a court is satisfied that a dying declaration is true and voluntary, it can form the sole basis of conviction without corroboration. The rule requiring corroboration is merely a rule of prudence, not an absolute rule of law.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A dying declaration can be the sole basis for a conviction if it inspires the full confidence of the court. The court must be satisfied that the deceased was in a fit state of mind and that the statement was true, voluntary, coherent, consistent, and not the result of tutoring, prompting, or imagination. The rule requiring corroboration is a rule of prudence, not an absolute rule of law.",
+    "obiter": [
+      "Even if it is a brief statement, it is not to be discarded."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The dying declaration can be the sole basis for conviction for the accused to whom a specific motive and the direct act of pouring kerosene and setting the victim ablaze were attributed. However, for the other two accused, the declaration was insufficient as it only vaguely stated that they 'aided' the primary accused without describing any specific role in how they assisted, thus entitling them to the benefit of doubt.",
+    "legal_tests_applied": [
+      "A dying declaration can be the sole basis of conviction if it inspires the full confidence of the court.",
+      "The Court is required to satisfy itself that the deceased was in a fit state of mind at the time of making the statement and that it was not the result of tutoring, prompting or imagination.",
+      "Where the Court is satisfied about the dying declaration being true and voluntary, it can base its conviction without any further corroboration.",
+      "It cannot be laid down as an absolute rule of law that the dying declaration cannot form the sole basis of conviction unless it is corroborated. The rule requiring corroboration is merely a rule of prudence."
+    ],
+    "why_appellant_lost": [
+      "The appeal of Pappi @ Mashkoor (accused No. 1) was dismissed because the dying declaration was found to be cogent, trustworthy, and reliable, and it specifically attributed to him both the motive (a quarrel over the partition of the house) and the direct criminal act of pouring kerosene on the victim and setting her ablaze."
+    ],
+    "why_respondent_won": [
+      "The respondent's case for conviction was successful against appellant Pappi @ Mashkoor because the court found the dying declaration to be a cogent, trustworthy, and reliable basis for conviction, as it clearly detailed his specific role and motive.",
+      "The respondent's case failed against appellants Naeem and Naeema because the dying declaration was too vague regarding their involvement, stating only that they 'aided' the primary accused without providing any specific role of how they assisted, which was insufficient to sustain their conviction."
+    ],
+    "policy_considerations": [
+      "The court applied the 'rule of prudence' which requires that even if a dying declaration can be the sole basis for conviction without corroboration, it must be carefully scrutinized to ensure it is true, coherent, consistent, and free from any inducement before a conviction can be based upon it."
+    ]
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[0]": [
+      "p7_56613efb"
+    ]
+  }
+}

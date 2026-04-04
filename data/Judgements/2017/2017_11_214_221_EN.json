@@ -1,0 +1,132 @@
+{
+  "procedural_history": {
+    "originating_court": "Chief Judicial Magistrate (CJM)",
+    "impugned_order": "Order dated 07.02.2017 by the High Court of Judicature for Rajasthan at Jodhpur in S.B. Criminal Misc. Petition No. 320/2012.",
+    "high_court_proceedings": "The appellant challenged the Additional Sessions Judge's order dated 22.07.2011 before the High Court by filing a petition under Section 482 Cr.P.C. The High Court dismissed this petition on 07.02.2017.",
+    "supreme_court_posture": "The appellant approached the Supreme Court challenging the High Court's order dated 07.02.2017. The Supreme Court dismissed the appeal (Criminal Appeal No. 1845 of 2017)."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the bar on taking cognizance of an offence under Section 195(1)(b)(ii) of the Code of Criminal Procedure, 1973 applies when the alleged forgery of a document is committed before it is produced or given in evidence in a court proceeding.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An FIR was registered alleging that a letter dated 10.04.1992 was forged.",
+          "This allegedly forged letter was subsequently filed in a civil suit on 27.04.1992.",
+          "The forgery was alleged to have been committed *before* the letter was produced in court, not after."
+        ],
+        "law": [
+          "The Supreme Court affirmed the legal principle that the bar on taking cognizance of an offence under Section 195(1)(b)(ii) of the Cr.P.C. is attracted only when the offences enumerated in that section (such as forgery) are committed with respect to a document *after* it has been produced or given in evidence in a court proceeding.",
+          "The Court cited its previous judgment in *Sachida Nand Singh & Anr. vs. State of Bihar & Anr.* to support this interpretation."
+        ],
+        "application": [
+          "The Court applied this legal principle to the facts of the case.",
+          "It noted that the alleged forgery of the letter occurred before it was filed in the civil court.",
+          "Because the offence was committed *before* the document became part of the court record, the essential condition for invoking the bar under Section 195(1)(b)(ii) was not met."
+        ],
+        "conclusion": "The Supreme Court held that the bar under Section 195(1)(b)(ii) of the Cr.P.C. was not attracted in this case. Consequently, there was no legal prohibition on the court taking cognizance of the forgery offence based on the complaint."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the concurrent findings of the lower courts, holding that no prima facie case of forgery was made out against the accused, were correct and free from infirmity.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Chief Judicial Magistrate (CJM) reviewed the material on record and concluded that no prima facie case of forgery or fraud was made out against the accused.",
+          "The Revisional Court, after considering the submissions, also came to the same conclusion and dismissed the revision.",
+          "The High Court subsequently challenged the Revisional Court's order and also found that there was no evidence on record to suggest the accused (Respondent No. 2) had prepared the allegedly forged letter."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court reviewed the concurrent findings of the three lower courts (CJM, Revisional Court, and High Court).",
+          "All three courts had independently examined the evidence and consistently determined that a prima facie case for forgery had not been established against the accused."
+        ],
+        "conclusion": "The Supreme Court found no infirmity or error in the consistent view taken by the High Court and the lower courts. It, therefore, accepted their concurrent findings and held that no prima facie case of forgery was made out against the accused."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the bar on taking cognizance of an offence under Section 195(1)(b)(ii) of the Code of Criminal Procedure, 1973 applies when the alleged forgery of a document is committed before it is produced or given in evidence in a court proceeding.",
+      "appellant_arguments": [
+        "The forged letter was created on 10.04.1992 and was only filed in the Civil Court later, on 27.04.1992.",
+        "Since the forgery was committed before the document was produced in court, the bar on taking cognizance under Section 195(1)(b)(ii) Cr.P.C. was not attracted and there was no legal prohibition against the court taking cognizance of the offence."
+      ],
+      "respondent_arguments": [
+        "This issue is not relevant to the case because the Chief Judicial Magistrate did not dismiss the petition on the ground of the bar under Section 195(1)(b)(ii) Cr.P.C.",
+        "The dismissal was based on the merits, specifically that no prima facie case had been made out against the respondent."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the concurrent findings of the lower courts, holding that no prima facie case of forgery was made out against the accused, were correct and free from infirmity.",
+      "appellant_arguments": [
+        "The courts below committed an error in not taking cognizance of the offence.",
+        "Cognizance should have been taken because the respondent was the beneficiary of the forged letter, as it was addressed to him."
+      ],
+      "respondent_arguments": [
+        "The lower courts correctly concluded that no prima facie case was made out after considering the evidence on record.",
+        "Evidence showed the letter was dispatched from the office of the Regional Manager by a Class IV employee.",
+        "There was no material on record to even prima facie suggest that the respondent was involved in forging the letter."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "195(1)(b)(ii)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Iqbal Singh Marwah & Anr. v. Meenakshi Marwah & Anr.",
+        "citation": "(2005) 4 SCC 370",
+        "principle": "Section 195(1)(b)(ii) Cr.P.C. would be attracted only when the offences enumerated in the said provision have been committed with respect to a document after it has been produced in Court.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sachida Nand Singh & Anr. v. State of Bihar & Anr.",
+        "citation": "(1998) 2 SCC 493",
+        "principle": "The bar contained in Section 195(1)(b)(ii) Cr.P.C. is not applicable to a case where the document was forged before being produced in Court.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Section 195(1)(b)(ii) of the Code of Criminal Procedure, 1973, is attracted only when the offenses enumerated in that provision have been committed with respect to a document after it has been produced in or given in evidence in a proceeding in any court.",
+    "obiter": [
+      "The case of Sachida Nand Singh (1998) 2 SCC 493 was correctly decided and the view taken therein is the correct law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appeal was dismissed because the Supreme Court found no infirmity in the concurrent findings of the Chief Judicial Magistrate, the Revisional Court, and the High Court, all of which concluded that after considering the material on record, no prima facie case was made out against the accused for committing forgery or playing any fraud in forging the document in question.",
+    "legal_tests_applied": [
+      "The bar on cognizance under Section 195(1)(b)(ii) Cr.P.C. is attracted only when the offences enumerated in the said provision have been committed with respect to a document after it has been produced or given in evidence in a proceeding in any Court.",
+      "Whether a prima facie case is made out against an accused based on the evidence and material available on file."
+    ],
+    "why_appellant_lost": [
+      "The Chief Judicial Magistrate, the Revisional Court, and the High Court all concurrently found that \"no prima facie case was made out against the accused that he had committed any forgery or played any fraud in forging the document.\"",
+      "The High Court concluded that \"no evidence was available on record to suggest that letter dated 10.04.1992 was prepared by Respondent No. 2,\" a view in which the Supreme Court found \"no infirmity.\"",
+      "Although the appellant's legal submission regarding the non-applicability of Section 195(1)(b)(ii) Cr.P.C. was correct, this point had already been accepted by the lower Revisional Court, and thus, \"no benefit can be availed by appellant on the strength of above submission.\""
+    ],
+    "why_respondent_won": [
+      "The Chief Judicial Magistrate, the Revisional Court, and the High Court all considered the material on record and consistently concluded that no prima facie case was made out against the respondent.",
+      "The High Court affirmed the lower courts' findings, holding that there was no evidence available on record to suggest the respondent prepared the allegedly forged letter, and the Supreme Court found no illegality or infirmity in this conclusion."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

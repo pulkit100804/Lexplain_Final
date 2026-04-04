@@ -1,0 +1,98 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate",
+    "impugned_order": "Order dated 25.04.2023 passed by the High Court of Madhya Pradesh at Gwalior upholding the order of the Sessions Court.",
+    "high_court_proceedings": "1. Appellant challenged the order of Sessions Court before the High Court. The High Court upheld the same.\n2. In a challenge by the appellant to the aforesaid order in the quashing petition, the High Court dismissed the petition without recording any reasons.",
+    "supreme_court_posture": "The appellant is before the Supreme Court challenging the order of the High Court upholding the order of the Sessions Court. The Supreme Court allowed the appeal, set aside the orders of the High Court and Sessions Court, and restored the order of the Magistrate."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The impugned orders passed by the High Court and the Sessions Court are set-aside and that of the Magistrate is restored.",
+      "It is made clear that nothing said above shall be taken as final opinion on merits of the controversy.",
+      "The Trial Court shall decide the case on its own merits on the basis of the evidence led by the parties."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether it is sufficient to make out prima facie case on the basis of allegations for summoning of the accused.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A Magistrate issued a summoning order against the respondents after being satisfied that a prima facie case was made out based on the complaint and pre-summoning evidence.",
+          "The Sessions Court and the High Court set aside the Magistrate's summoning order.",
+          "The Sessions Court was criticized for reviewing the summoning order as if it were a final judgment of conviction or acquittal after a full trial."
+        ],
+        "law": [
+          "The summoning of an accused is a preliminary stage in a criminal proceeding.",
+          "To issue a summons, the court only needs to determine if a prima facie case is made out.",
+          "This determination is to be based on the allegations in the complaint and the pre-summoning evidence led by the complainant."
+        ],
+        "application": [
+          "The Supreme Court found that the Sessions Court and the High Court erred by applying a standard higher than what is required at the preliminary summoning stage.",
+          "The Court reviewed the complaint and the evidence on record and concluded that a prima facie case was clearly made out for issuing the process against the respondents.",
+          "The Court affirmed that the Magistrate had correctly issued the summons based on the establishment of this prima facie case."
+        ],
+        "conclusion": "The Supreme Court held that it is sufficient to establish a prima facie case based on the allegations in the complaint and the pre-summoning evidence to summon an accused. Therefore, the Court found the summoning order to be valid and set aside the contrary decisions of the High Court and Sessions Court."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether it is sufficient to make out prima facie case on the basis of allegations for summoning of the accused.",
+      "appellant_arguments": [
+        "A prima facie case was established based on the documentary and oral evidence led in the complaint, which was sufficient for the Magistrate to issue a summons against the respondents."
+      ],
+      "respondent_arguments": [
+        "Even on the basis of the pleaded facts and the material produced by the appellant, no offence of cheating or criminal conspiracy can be made out.",
+        "There was no concealment or cheating as the respondents had clearly disclosed all the facts to the appellant from the very beginning."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "420",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "120-B",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A summoning order is legally sustainable and should not be set aside by a higher court if the facts pleaded in the complaint and the preliminary evidence establish a prima facie case for issuing process against the accused to face trial for the alleged offences.",
+    "obiter": [
+      "A petition challenging a lower court's order should not be dismissed by a High Court without the recording of any reasons."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that based on the facts as pleaded in the complaint and the evidence led by the appellant, a prima facie case was made out for issuing process against the respondents to face trial for the offence punishable under Section 420 read with Section 120-B, IPC. Therefore, the court concluded that the approach of the Learned Sessions Court and the High Court in setting aside the summoning order was not legally sustainable.",
+    "legal_tests_applied": [
+      "Whether a prima facie case is made out from the facts pleaded in a complaint and the evidence led by the complainant, sufficient for issuing a process against the accused."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p1_59cebedf"
+    ],
+    "arguments[0].issue_text": [
+      "p1_59cebedf"
+    ],
+    "arguments[0].respondent_arguments[0]": [
+      "p5_c9963862"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of the Judicial Magistrate",
+    "impugned_order": "Judgment and order dated April 30, 1968 of the Gujarat High Court in Criminal Reference No. 49 of 1966.",
+    "high_court_proceedings": "A private complaint was filed in the Court of the Judicial Magistrate against the appellant for offences punishable under sections 467 and 471 Penal Code. The Magistrate found prima facie evidence that the appellant had fraudulently used in the Civil Suit a forged cheque, and committed him to the Sessions. The Sessions Judge withdrew the case to his own court and referred the case to the High Court with a recommendation that the commitment order be quashed. The High Court did not quash the commitment order.",
+    "supreme_court_posture": "The appellant appealed the judgment and order of the Gujarat High Court to the Supreme Court."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed in part.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "What is the scope and effect of Section 195(1)(c) of the Code of Criminal Procedure, and does its prohibition on private complaints apply to the prosecution for offences under Sections 467 (forgery) and 471 (using a forged document) of the Indian Penal Code, when the forgery was committed before the document was produced in a judicial proceeding by a party to that proceeding?",
+        "court_answer": "partly"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "point": "The Supreme Court adopted a strict construction of Section 195(1)(c) of the Code of Criminal Procedure.",
+            "explanation": "The Court reasoned that the purpose of this section is to prevent vexatious private prosecutions and to avoid conflicting findings between different courts. It held that the prohibition should only apply to offences that have a 'reasonably close nexus' with the court proceedings, allowing that court to decide on the expediency of prosecution based on its own records."
+          },
+          {
+            "point": "The Court interpreted the phrase 'committed by a party to any proceeding in any court' to mean that the offence must be committed by the person in their character as a party.",
+            "explanation": "This means the person must have already become a party to the judicial proceeding at the time the offence was committed. The prohibition is not intended to cover offences committed by a person before they became a party to the proceeding."
+          }
+        ],
+        "application": [
+          {
+            "point": "The Court differentiated between the offence of forgery (Section 467 IPC) and the offence of using a forged document (Section 471 IPC).",
+            "explanation": "This distinction is based on when the offence is committed relative to the court proceeding."
+          },
+          {
+            "point": "For the offence of forgery (Section 467 IPC), the prohibition in Section 195(1)(c) applies only if the forgery was committed after the judicial proceeding had started and by a person who was already a party to it.",
+            "explanation": "If the document was forged *before* the person became a party to the proceeding (e.g., before the lawsuit was filed), then a private complaint is not barred by Section 195(1)(c)."
+          },
+          {
+            "point": "For the offence of using a forged document in court (Section 471 IPC), the prohibition in Section 195(1)(c) always applies.",
+            "explanation": "The offence of 'using' the document as genuine occurs at the moment it is produced or given in evidence in court. At that point, the person is a party to the proceeding. Therefore, a private complaint for this offence is barred, and only the court can initiate proceedings."
+          }
+        ],
+        "conclusion": "The Supreme Court decided that the prohibition on private complaints under Section 195(1)(c) Cr.P.C. does not apply to the offence of forgery (Section 467 IPC) if the forgery was committed before the perpetrator became a party to the judicial proceeding in which the document was later used. However, the prohibition does apply to the offence of using that forged document in court (Section 471 IPC), as that offence is committed by the person in their character as a party to the proceeding."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "What is the scope and effect of Section 195(1)(c) of the Code of Criminal Procedure, and does its prohibition on private complaints apply to the prosecution for offences under Sections 467 (forgery) and 471 (using a forged document) of the Indian Penal Code, when the forgery was committed before the document was produced in a judicial proceeding by a party to that proceeding?",
+      "appellant_arguments": [
+        "The appellant argued that in view of Section 195(1)(c) of the Code of Criminal Procedure, no cognizance of the offences (under sections 467 and 471 of the Penal Code) could be taken on a private complaint.",
+        "The appellant's position is that once a forged document is produced or used in a court proceeding by a party, the bar under Section 195(1)(c) is triggered, and only the court where the document was produced can initiate a complaint for the related offences, including the prior act of forgery."
+      ],
+      "respondent_arguments": [
+        "The respondent's argument, inferred from their action of filing a private complaint which was upheld by the lower courts, is that the bar under Section 195(1)(c) does not apply to the offence of forgery (Section 467) when it is committed before the document is produced in court.",
+        "The act of forgery is a distinct offence completed before the court proceedings began, and therefore a private complaint for it is maintainable."
+      ],
+      "court_acceptance": "partly"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "195(1)(c)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code",
+        "section": "467",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code",
+        "section": "471",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "476",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "200",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Emperor v. Kushal Pal Singh",
+        "citation": "I.L.R. [1953] All. 804",
+        "principle": "The court approved this case in the context of interpreting the scope and effect of Section 195(1)(c) of the Code of Criminal Procedure, particularly its applicability to prosecutions under sections 467 and 471 of the Penal Code when a forged document is produced as evidence in a judicial proceeding by a party to it.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The legislative bar on private complaints for offenses under s. 195(1)(b) and (c) of the Criminal Procedure Code is intended to protect accused persons from vexatious prosecutions and to avoid conflicting findings between different courts. To correctly interpret the scope of this prohibition, the relevant sections must be read together as a cohesive statutory scheme to ascertain the legislative intent.",
+    "obiter": [
+      "When the language of a statute is capable of more than one meaning, the construction that is more in accord with the legislative intent, statutory scheme, and the purpose of the enactment is to be preferred.",
+      "The reasoning of the Allahabad Full Bench in Kushal Pal Singh's case reflects the better view on this matter."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The prohibition on private complaints in Section 195(1)(c) of the Code of Criminal Procedure applies only to those offences specified therein which were committed by a party to a proceeding *in their character as such a party*. This means the bar is triggered only if the offence is committed after the person has become a party to the court proceeding. Consequently, the bar applies to the offence of using a forged document (s. 471 IPC), which by its nature is committed in the proceeding itself, but it does not apply to the offence of forgery (s. 467 IPC) if that act was committed *before* the person became a party to the proceeding where the document was later used.",
+    "legal_tests_applied": [
+      "Harmonious Construction: The court read Section 195(1)(c) together with Sections 476, 476A, and 476B of the Cr.P.C., viewing them as a single statutory scheme dealing with offences against the administration of justice to understand the legislative intent.",
+      "Purposive Interpretation: The court analyzed the 'purpose and object of the Legislature' in creating the bar, focusing on why certain offences were selected for the court's exclusive control.",
+      "Reasonably Close Nexus Test: The court determined that the offences exclusively reserved for a court's complaint are those with a 'reasonably close nexus with the proceedings in that court,' allowing the court to assess the expediency of prosecution primarily from its own records.",
+      "Strict Construction / 'In the Character as Such Party' Test: The court adopted a 'strict construction' of the prohibition, confining it 'only to those cases in which the offences specified therein were committed by a party to the proceeding in the character as such party.'"
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the bar applies to the prior act of forgery (s. 467) was rejected because the court adopted a strict construction of Section 195(1)(c), limiting its application to offences committed by a person after they have become a party to the proceeding.",
+      "The court held that the legislature did not intend to extend the prohibition to offences committed by a party prior to becoming such a party, as these acts lack a 'reasonably close nexus' with the court proceeding itself.",
+      "The court explicitly stated that the common occurrence of documents being forged before proceedings start 'cannot be the controlling factor' in interpreting the statute."
+    ],
+    "why_respondent_won": [
+      "The respondent's position that a private complaint for forgery (s. 467) is maintainable was upheld because the court distinguished between the act of forgery and the act of using the forged document.",
+      "The court's core finding was that the prohibition in Section 195(1)(c) only applies when the offence is committed by a person 'in the character as such party.' Since the forgery was committed before the person became a party, the bar did not apply to that specific offence.",
+      "The offence under s. 471 IPC (using a forged document) was found to be distinct, as it 'from its very nature must be committed in the proceeding itself by a party thereto,' thus falling squarely within the prohibition, unlike the prior act of forgery."
+    ],
+    "policy_considerations": [
+      "To save accused persons from vexatious or baseless prosecutions inspired by feelings of vindictiveness on the part of private complainants.",
+      "To avoid confusion and conflicts between the findings of the civil court where a document is produced and the criminal court dealing with a private complaint about that document.",
+      "To protect the purity of the judicial process, as the court itself is the 'direct and immediate object or victim' of these offences and is therefore the only party entitled to consider the desirability of a complaint.",
+      "To ensure practicality, as the court should only be required to consider prosecution for offences with a close nexus to its proceedings, so it can decide 'without embarking upon a completely Independent and fresh inquiry, satisfactorily consider by reference principally to its records the expediency of prosecuting the delinquent party.'"
+    ]
+  },
+  "evidence_map": {}
+}

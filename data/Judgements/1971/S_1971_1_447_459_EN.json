@@ -1,0 +1,152 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court",
+    "impugned_order": "Judgment and order dated August 26, 1970 of the Delhi High Court in Criminal Revision No. 138 of 1968.",
+    "high_court_proceedings": "The Magistrate dismissed the complaint under s. 203, Cr. P.C. The respondent filed a revision which was dismissed summarily by the Additional Sessions Judge, Delhi. The respondent then appealed to the Delhi High Court in Criminal Revision No. 138 of 1968. The High Court set aside the order of the Magistrate and directed further inquiry.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court by special leave against the judgment and order of the Delhi High Court. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Further inquiry to be made in the complaint of the respondent."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a complaint of defamation is liable to be dismissed at the preliminary stage on the ground that there is no evidence to show which specific accused made which specific defamatory allegation, when the complaint alleges that all the accused collectively made the statements.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A complainant filed a defamation case against seven appellants.",
+          "The complaint specifically alleged that during a discussion, 'all the seven appellants made a wild and baseless allegation' against the complainant.",
+          "The Magistrate dismissed the complaint at a preliminary stage.",
+          "The Magistrate's reason for dismissal was that there was no evidence to show which specific appellant made which specific defamatory allegation, and therefore no prima facie case was made out."
+        ],
+        "law": [
+          "A distinction must be made based on the nature of the allegation in the complaint.",
+          "If the complaint alleges that different accused made different defamatory statements, it is necessary to specify the words spoken by each individual accused so they know the charge against them.",
+          "However, if the complaint alleges that all the accused collectively made the same defamatory statements, there is no requirement to specify the words used by each individual accused at the preliminary stage."
+        ],
+        "application": [
+          "The Supreme Court found the Magistrate's approach to be 'fallacious' because it ignored the core allegation of the complaint: that all the appellants acted collectively.",
+          "The Court clarified that since the complainant's case was that 'all the appellants made the statements', the question of attributing specific words to individual accused 'did not arise' at this stage.",
+          "The Court emphasized that the issue at the preliminary stage is the sufficiency of the allegations in the complaint, not the ultimate proof.",
+          "Whether the complainant can actually prove that all seven appellants made the statements is a matter to be determined during the trial, not a reason for a preliminary dismissal."
+        ],
+        "conclusion": "The Supreme Court rejected the dismissal of the complaint, holding that when a defamation complaint alleges that all accused collectively made the defamatory statements, it cannot be dismissed at a preliminary stage for failing to specify which individual made which statement. That level of specificity is only required when the allegation is that different accused made different statements."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the defence of exceptions under Section 499 of the Indian Penal Code can be considered at the stage of inquiry under Section 202 of the Criminal Procedure Code to dismiss a complaint.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A complaint for defamation under Section 500 of the Indian Penal Code (IPC) was filed.",
+          "The Magistrate conducted a preliminary inquiry under Section 202 of the Criminal Procedure Code (CrPC).",
+          "Following the inquiry, the Magistrate dismissed the complaint under Section 203 CrPC on two grounds.",
+          "One of the grounds for dismissal was that the alleged defamatory statements were covered by the exceptions to Section 499 of the IPC."
+        ],
+        "law": [
+          "The purpose of an inquiry under Section 202 CrPC is for the Magistrate to determine if a prima facie case exists to issue process against the accused.",
+          "At this preliminary stage, the Magistrate is only required to see if there is evidence supporting the allegations, not whether that evidence is sufficient to warrant a conviction."
+        ],
+        "application": [
+          "The Supreme Court found that the Magistrate and the High Court had erred by considering the applicability of the exceptions to Section 499 IPC during the preliminary inquiry.",
+          "The Court stated that the question of whether these exceptions apply \"does not arise at this stage.\"",
+          "The Court reasoned that the applicability of the exceptions is a matter of defence available to the accused."
+        ],
+        "conclusion": "The Supreme Court held that the defence of exceptions under Section 499 of the IPC cannot be considered at the preliminary inquiry stage under Section 202 CrPC. This is a matter to be raised and decided during the full trial of the complaint. Consequently, the Magistrate's dismissal of the complaint on this ground was rejected as unsustainable."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a complaint of defamation is liable to be dismissed at the preliminary stage on the ground that there is no evidence to show which specific accused made which specific defamatory allegation, when the complaint alleges that all the accused collectively made the statements.",
+      "appellant_arguments": [
+        "A general allegation that all appellants collectively made defamatory statements is not a sufficient compliance with the law.",
+        "The complainant must specifically state which particular allegation was made by which of the accused.",
+        "The complaint should be dismissed because there is no evidence on record to show which of the appellants made which specific allegation against the respondent."
+      ],
+      "respondent_arguments": [
+        "The case is that all the members of the Standing Committee, including the appellants, had collectively made the defamatory allegations.",
+        "At the preliminary stage, the court is only concerned with whether a prima facie case has been made out for inquiry, not whether a conviction can be obtained.",
+        "When the complaint alleges that all the appellants made the statements collectively, the question of stating the specific words used by each individual accused does not arise."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the defence of exceptions under Section 499 of the Indian Penal Code can be considered at the stage of inquiry under Section 202 of the Criminal Procedure Code to dismiss a complaint.",
+      "appellant_arguments": [
+        "The provided text does not contain arguments for this issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain arguments for this issue."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "499",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "500",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "203",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Chandra Deo Singh v. Prokash Chandra Bose",
+        "citation": "[1964] 1 S.C. R. 639",
+        "principle": "The case was followed to support the principle that a Magistrate's inquiry at the stage of dismissing a complaint under Section 203 Cr.P.C. is limited to ascertaining whether a prima facie case exists. It is a 'fallacious approach' for the Magistrate to dismiss a complaint on the ground that there is no specific evidence as to which accused made which allegation, when the complaint itself implicates all the accused.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "It is a fallacious judicial approach to dismiss a defamation complaint at a preliminary stage on the ground that there is no evidence as to which specific accused made which specific allegation, when the complainant's allegation is that all the accused collectively made the defamatory statements.",
+    "obiter": [
+      "In an action for libel, it is essential that the words themselves must be set out in the indictment to enable the Court to judge whether those words amount to libel."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court held that a Magistrate's dismissal of a defamation complaint at the preliminary stage was incorrect. It is a fallacious approach to dismiss a complaint for not specifying which accused made which statement when the allegation is that they all acted collectively. Furthermore, the question of the applicability of the Exceptions to Section 499 of the Indian Penal Code is a matter of defense that must be gone into during the trial and does not arise at the preliminary inquiry stage.",
+    "legal_tests_applied": [
+      "Whether a prima facie case has been made out for the purpose of a preliminary inquiry under Section 202 of the Criminal Procedure Code, without considering the merits of potential defenses which are reserved for trial."
+    ],
+    "why_appellant_lost": [
+      "The Magistrate's approach of dismissing the complaint because there was no evidence as to which specific appellant made which specific allegation was deemed a 'fallacious approach' in the face of the respondent's allegation that all the appellants collectively made the defamatory statements.",
+      "The question of the application of the Exceptions to Section 499 I. P. C. does not arise at the preliminary stage; it is a defense that must be gone into during the trial of the complaint."
+    ],
+    "why_respondent_won": [
+      "The allegation that all the members of the Standing Committee had collectively made the defamatory statements, as supported by the evidence on record, was sufficient to implicate all the appellants for the purpose of a preliminary inquiry.",
+      "The rejection of a complaint by a Magistrate at the inquiry stage cannot be sustained on the ground that the alleged defamatory statements are covered by exceptions to defamation, as this is a matter for trial."
+    ],
+    "policy_considerations": [
+      "The question of the applicability of statutory exceptions and other defenses must be adjudicated during the trial, not at the preliminary inquiry stage, to ensure that the distinct procedural stages of a criminal complaint are properly observed and the complainant is not prematurely denied a trial."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p1_a667b2fd"
+    ],
+    "citations.cases[0].case_name": [
+      "p2_df85ed51"
+    ]
+  }
+}

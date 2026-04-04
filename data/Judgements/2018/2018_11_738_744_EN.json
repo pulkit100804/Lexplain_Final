@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional District Judge No.3 Jodhpur in Civil Suit No.135 of 1995(146/1978)",
+    "impugned_order": "Judgment and Order dated 04.12.2006 passed by the High Court of Rajasthan at Jodhpur in S. B. First Appeal No. 52 of 1997",
+    "high_court_proceedings": "The respondents (defendants) felt aggrieved by the judgment and decree of the Trial Court and filed a first appeal in the High Court of Rajasthan at Jodhpur. The High Court allowed the appeal and set aside the judgment and decree of the Trial Court, dismissing the suit on the ground that it was barred by limitation. The High Court upheld all the factual findings of the Trial Court in favor of the plaintiffs but reversed the finding on the issue of limitation.",
+    "supreme_court_posture": "The appellants (plaintiffs) approached the Supreme Court by way of special leave because the High Court dismissed their suit as barred by limitation, reversing the Trial Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Impugned judgment insofar as it holds that the appellants’ (plaintiffs’) suit is dismissed as being barred by limitation is hereby set aside.",
+      "The judgment and decree of the Trial Court is restored in favour of the appellants(plaintiffs)."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in dismissing the suit as barred by limitation, based on its finding that the suit was for declaration and injunction only and not for possession.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court dismissed the plaintiffs' suit, finding it was for 'declaration and injunction only' and not for possession.",
+          "Based on this finding, the High Court applied a three-year limitation period and held the suit was filed too late.",
+          "The Trial Court had previously ruled in the plaintiffs' favor, holding that the suit was for possession and was filed within the limitation period.",
+          "The plaintiffs filed the suit on 19.12.1978, after an attachment order was issued on 23.12.1966 in separate proceedings where the defendants first asserted their claim to the property."
+        ],
+        "law": [
+          "Article 65 of the Limitation Act governs suits for possession of immovable property based on title.",
+          "This article provides a limitation period of 12 years."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court was factually incorrect in its assessment. The suit was not just for declaration and injunction, but also for possession.",
+          "Because the suit was for possession based on title, the correct legal provision to apply was Article 65 of the Limitation Act, which allows for a 12-year period, not a three-year period.",
+          "The 12-year period began when the plaintiffs first became aware of the defendants' adverse claim, which was during the proceedings leading to the attachment order on 23.12.1966.",
+          "The suit, having been filed on 19.12.1978, was well within the 12-year period from the date of the attachment order."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was not justified in dismissing the suit. The suit was for possession and was governed by the 12-year limitation period under Article 65 of the Limitation Act. Since the suit was filed within this period, it was not barred by limitation. The Supreme Court, therefore, set aside the High Court's judgment and restored the Trial Court's decision."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in dismissing the suit as barred by limitation, based on its finding that the suit was for declaration and injunction only and not for possession.",
+      "appellant_arguments": [
+        "The suit was filed within the period of limitation, and the Trial Court's finding to this effect was correct.",
+        "The High Court erred in reversing the Trial Court's judgment and holding that the suit was barred by limitation."
+      ],
+      "respondent_arguments": [
+        "The suit is barred by limitation."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Limitation Act",
+        "section": "Article 65",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Code of Criminal Procedure (Cr.P.C.)",
+        "section": "Section 145",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A court's finding on whether a suit is barred by the statute of limitations is legally unsustainable if it is based on a factually incorrect characterization of the nature of the relief sought by the plaintiff, such as wrongly concluding a suit is only for declaration and injunction when it is also for possession.",
+    "obiter": [
+      "It is not necessary to go into any factual controversy and the lengthy pleadings to decide the issue."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found that the High Court's decision on the question of limitation was legally unsustainable because it was based on a fundamental factual error. The High Court was factually incorrect in observing that the suit was filed for declaration and injunction only and “not for possession.” This incorrect premise led the High Court to wrongly apply a three-year limitation period and dismiss the suit, a view with which the Supreme Court could not concur.",
+    "legal_tests_applied": [
+      "The court's reasoning did not apply a new legal test but rather invalidated the test applied by the High Court. The High Court had determined the suit was for declaration and consequential injunction, thus applying a three-year limitation period from the date of the first accrual of the cause of action. The Supreme Court rejected the factual basis for applying this test, noting that the High Court's premise that the plaintiffs made a \"conscious omission... to sue for possession\" was factually incorrect, thereby rendering the application of the three-year limitation period and the dismissal of arguments related to Article 65 of the Limitation Act erroneous."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p3_616e1a83"
+    ],
+    "procedural_history.impugned_order": [
+      "p3_616e1a83"
+    ],
+    "decision.directions[0]": [
+      "p7_27a1510d"
+    ],
+    "decision.directions[1]": [
+      "p7_27a1510d"
+    ]
+  }
+}

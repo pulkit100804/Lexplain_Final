@@ -1,0 +1,102 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge (Trial Court)",
+    "impugned_order": "Judgment and order dated September 8, 9, 10, 1965 of the Gujarat High Court in Criminal Appeal No. 538 of 1964, which affirmed the judgment of the Special Judge.",
+    "high_court_proceedings": "The Gujarat High Court heard Criminal Appeal No. 538 of 1964 and affirmed the judgment of the Special Judge.",
+    "supreme_court_posture": "The appellants filed an appeal in the Supreme Court after obtaining special leave. The Supreme Court dismissed the appeal, upholding the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": [
+      "The appellants who are on bail shall surrender forthwith to serve the remaining portion of the sentences imposed on them."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an offence was made out under s. 161 IPC, as the prosecution had to establish that the appellants were public servants and had obtained illegal gratification for showing or forbearing to show in exercise of their official functions, favour, or disfavour.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were public servants, specifically a police Sub-Inspector and his writer constable.",
+          "They were accused of obtaining illegal gratification (a bribe) from a person named Ramanlal."
+        ],
+        "law": [
+          "To establish an offence under Section 161 of the Indian Penal Code, the prosecution must prove that the accused was a public servant and obtained illegal gratification.",
+          "The gratification must be for the purpose of showing favour or disfavour in the exercise of the public servant's official functions.",
+          "It is legally irrelevant whether the public servant actually had the authority to investigate the specific matter for which the bribe was taken.",
+          "The key requirement of the law is satisfied if the public servant used their official position to extract the illegal gratification."
+        ],
+        "application": [
+          "The appellants contended that no offence under Section 161 IPC was made out.",
+          "The Court rejected this argument, stating that the prosecution only needed to prove the appellants were public servants who obtained a bribe for showing favour or disfavour to Ramanlal in their official capacity.",
+          "The Court held that the question of whether there was a real offence for the first appellant to investigate was irrelevant.",
+          "The Court found that the first appellant had used his official position as a police officer to coerce Ramanlal into paying the bribe, which was sufficient to meet the legal requirements of the offence."
+        ],
+        "conclusion": "The Supreme Court concluded that the offence under Section 161 of the Indian Penal Code was successfully made out, as the appellants, being public servants, had used their official position to obtain illegal gratification. The Court, therefore, rejected the appellants' argument on this issue."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an offence was made out under s. 161 IPC, as the prosecution had to establish that the appellants were public servants and had obtained illegal gratification for showing or forbearing to show in exercise of their official functions, favour, or disfavour.",
+      "appellant_arguments": [
+        "The conviction was based solely on the testimony of Ramanlal, the Dy. S.P. Erulker, and Santramji, who are all interested witnesses.",
+        "The evidence provided by these witnesses was not corroborated by any independent evidence.",
+        "This uncorroborated testimony from interested parties was insufficient to prove the elements of the offence and base a conviction."
+      ],
+      "respondent_arguments": [
+        "The prosecution witnesses (Ramanlal and the police) could not be considered accomplices.",
+        "The evidence provided by these witnesses was fully accepted by both the trial court and the High Court.",
+        "The evidence of the witnesses was substantially corroborated by the evidence of Dahyabhai."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "DS. N. Bose v. State of Bihar",
+        "citation": "Cr. A. 109 of 1967 decided on March 26, 1968",
+        "principle": "A conviction can be based on the evidence of police witnesses in a trap case, as they are not considered accomplices, especially when their testimony is substantially corroborated.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "H. N. Rishbud v. Tile State of Delhi",
+        "citation": "[1955] 1 S.C.R. 1150",
+        "principle": "A conviction can be based on the evidence of police witnesses in a trap case, as they are not considered accomplices, especially when their testimony is substantially corroborated.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "The State of Bifwr v. Basawan Singh",
+        "citation": "[1959] SCR. 195",
+        "principle": "A conviction can be based on the evidence of police witnesses in a trap case, as they are not considered accomplices, especially when their testimony is substantially corroborated.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A statement made by a witness during an investigation that was not conducted in accordance with the law is not considered wiped out and can be used for the purpose of cross-examination.",
+    "obiter": [
+      "The Supreme Court, as a court of special jurisdiction, does not re-examine evidence afresh or interfere with findings of fact from lower courts except under exceptional circumstances."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "To establish an offence under s. 161 of the Indian Penal Code, the prosecution only needs to prove that the accused were public servants and that they obtained illegal gratification for showing or forbearing to show favour or disfavour in the exercise of their official functions. The question of whether there was an actual underlying offence for the public servant to investigate is irrelevant; if the official used their position to extract the illegal gratification, the requirements of the law are satisfied.",
+    "legal_tests_applied": [
+      "To establish the offence under s. 161 of the Indian Penal Code all that prosecution had to establish was that the appellants were public servants and that they had obtained illegal gratification for showing or forbearing to show, in the exercise of their official functions, favour or disfavour to Ramanlal."
+    ],
+    "why_appellant_lost": [
+      "The appellant's contention that no offence was made out was rejected because the court found the question of whether there was any actual offence for the appellant to investigate to be irrelevant to the charge under s. 161 IPC."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the court determined that the only necessary elements for the offence were proven: the appellants were public servants who used their official position to extract illegal gratification. The court stated, 'If he had used his official p'OSition to extract illegal gratification the requirements of the law is satisfied.'"
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

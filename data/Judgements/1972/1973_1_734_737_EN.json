@@ -1,0 +1,103 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment and order dated December 15, 1967 of the Allahabad High Court in Criminal Appeal No. 478 of 1965, which affirmed the order of the trial court convicting the appellants for murder under s. 302 read with s. 34 of the Indian Penal Code.",
+    "high_court_proceedings": "The Allahabad High Court affirmed the trial court's order.",
+    "supreme_court_posture": "The four accused appealed to the Supreme Court by special leave. The leave was limited to the question of whether the offense disclosed was murder or culpable homicide not amounting to murder or some lesser offense."
+  },
+  "decision": {
+    "appeal_result": "The appeal is allowed to that extent.",
+    "conviction_status": "We accordingly alter the conviction of each of the accused-appellants from under sedtion 302 read with section 34 Indian Penal 'Code to that under s. 325 read with s. 34 Indian Penal Code.",
+    "sentence_status": "Each of them is sentenc.ed to undergo rigorous imprisonment for a period of five years on that count.",
+    "directions": [
+      "The sentence of rigorous imprison· ment !or a period of or.e year awarded to each of the accused under section 323 read with section 34 Indian Penal Code would run concurrently with th·~ above sentence."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the offence committed by the accused falls under Section 302 read with Section 34 of the Indian Penal Code (murder with common intention), or a lesser offence such as Section 325 read with Section 34 (grievous hurt with common intention), when the common intention was only to cause grievous hurt and it is not possible to identify which of the accused delivered the fatal blow.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Four accused were involved in an altercation that arose from a 'trifling incident' involving children, with no prior enmity between the parties.",
+          "The deceased sustained multiple injuries, but only one blow to the head was fatal; the other injuries were not serious.",
+          "The prosecution's evidence could not establish which of the four accused delivered the fatal blow."
+        ],
+        "law": [
+          "Section 34 of the Indian Penal Code establishes vicarious liability, holding all members of a group responsible for a criminal act done in furtherance of their 'common intention'.",
+          "If one member of a group exceeds the common intention and commits a more serious act, they are personally liable for that act. The other members are only liable for the crime that fell within the original common intention.",
+          "To convict under Section 302 (murder) read with Section 34, the prosecution must prove that the common intention of all accused was to commit murder."
+        ],
+        "application": [
+          "The Court inferred the 'common intention' of the accused from the circumstances of the case.",
+          "Given the lack of prior enmity, the trivial nature of the dispute, and the fact that most injuries were not serious, the Court determined that the common intention was only to give a 'severe beating' or cause grievous hurt (Section 325), not to kill (Section 302).",
+          "The person who delivered the fatal blow exceeded this common intention. However, since it was impossible to identify which of the four accused did so, none could be held personally liable for murder.",
+          "Therefore, all four accused could only be held vicariously liable for the offence they all intended to commit, which was causing grievous hurt."
+        ],
+        "conclusion": "The Supreme Court concluded that since the common intention was only to cause grievous hurt and the individual who inflicted the fatal blow could not be identified, all four accused could only be convicted for the lesser offence under Section 325 read with Section 34 (grievous hurt with common intention), not for murder under Section 302."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the offence committed by the accused falls under Section 302 read with Section 34 of the Indian Penal Code (murder with common intention), or a lesser offence such as Section 325 read with Section 34 (grievous hurt with common intention), when the common intention was only to cause grievous hurt and it is not possible to identify which of the accused delivered the fatal blow.",
+      "appellant_arguments": [
+        "The case against the accused falls under Section 325 read with Section 34 of the Indian Penal Code (grievous hurt with common intention) and not under Section 302 read with Section 34 (murder).",
+        "The common intention of the accused was only to cause grievous injury, not death, as the quarrel arose over a trifling incident and there was no previous enmity.",
+        "Since it is not possible to identify which accused delivered the fatal blow, the others can only be held liable for the injuries caused in furtherance of the common intention (grievous hurt), and not for the fatal injury which exceeded that intention."
+      ],
+      "respondent_arguments": [
+        "The judgment of the High Court, which convicted the accused under Section 302 read with Section 34, should be upheld."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "325",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "323",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Where the common intention of multiple accused persons is established to be the commission of a lesser offense, such as causing grievous hurt, and it cannot be determined which specific individual committed a fatal act exceeding that common intention, all accused can only be held vicariously liable for the offense that was part of their established common intention.",
+    "obiter": [
+      "The fact that one of them exceeded the bound and gave a fatal blow on the head of the deceased would make him personally liable for the fatal injury, but so far as the other three are concerned, they can be held liable only for the injuries which were caused in furtherance of the common intention and not for the fatal injury."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When the common intention of multiple accused persons is established to be only to cause grievous hurt, and one of them exceeds that intention by delivering a fatal blow, the others can only be held vicariously liable for the offence of grievous hurt under Section 325 read with Section 34 of the Indian Penal Code. If the evidence does not establish which specific individual delivered the fatal blow, then none of the accused can be held personally liable for murder, and all must be convicted for the lesser offence that corresponds to their shared common intention.",
+    "legal_tests_applied": [
+      "To apply vicarious liability under Section 34 of the Indian Penal Code, the court must first determine the 'common intention' of the accused.",
+      "The court must distinguish between the criminal act done 'in furtherance of the common intention' (for which all are liable) and an individual act that 'exceeded the bound' of that common intention (for which only the perpetrator is personally liable).",
+      "If the identity of the person who committed the act exceeding the common intention cannot be established from the evidence, then no individual can be held personally liable for that graver offence."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A conviction for a serious offence like murder cannot be sustained against all members of a group based on vicarious liability when their shared intent was for a lesser offence, and the prosecution fails to prove which individual committed the more serious act.",
+      "In the absence of proof identifying the perpetrator of the fatal act, the court must default to convicting all accused for the offence that aligns with their proven common intention to avoid a miscarriage of justice."
+    ]
+  },
+  "evidence_map": {}
+}

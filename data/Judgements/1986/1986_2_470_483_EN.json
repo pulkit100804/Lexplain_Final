@@ -1,0 +1,138 @@
+{
+  "procedural_history": {
+    "originating_court": "Courts below (inferentially, lower courts whose decisions were subject to revision by the High Court)",
+    "impugned_order": "Judgment of the High Court containing derogatory remarks against the appellant (P.W. 8).",
+    "high_court_proceedings": "The High Court, acting as the supreme court of revision, made derogatory remarks against the appellant (P.W. 8) in its judgment. The High Court was reviewing decisions of lower courts.",
+    "supreme_court_posture": "The appellant (P.W. 8) appealed to the Supreme Court by special leave, seeking expunction of the derogatory remarks made by the High Court. The Supreme Court allowed the appeal and directed the derogatory remarks to be expunged."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The derogatory remarks made against the appellant shall stand expunged from the judgment under appeal."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether evidence pertaining to a previous offence not subject-matter of the charge needs to be critically examined.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a specific charge of bribery concerning a sum of Rs. 2,000.",
+          "During the trial, evidence was also presented regarding alleged bribe payments of Rs. 3,000 made in previous months.",
+          "These previous payments were not the subject matter of the formal charge against the accused (the first respondent)."
+        ],
+        "law": [
+          "When an alleged offense is not the subject matter of a formal charge, there is no need or necessity for a court to critically examine the evidence related to it."
+        ],
+        "application": [
+          "The Supreme Court found that the appellate judge (High Court) erred by conducting a \"critical examination\" and a \"minute examination\" of the appellant's testimony concerning the previous payments.",
+          "The Court pointed out a contradiction in the lower court's reasoning: the judge critically examined the evidence of the prior payments but simultaneously held that the accused was under no obligation to disprove it because it wasn't part of the charge.",
+          "The Supreme Court clarified that the only issue that needed consideration was whether the Rs. 2,000 that was the subject of the charge was a bribe or a donation, and the detailed examination of the uncharged prior offenses was not necessary to decide this."
+        ],
+        "conclusion": "The Supreme Court concluded that since the evidence of previous payments was not part of the formal charge, there was no need or necessity for the court to have critically examined the testimony on that matter."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether derogatory remarks can be made against a person without considering if: (a) the person had an opportunity to explain, (b) there is evidence on record to justify the remarks, and (c) the remarks are necessary for the decision of the case.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "An appellant, who was a prosecution witness (P.W. 8) in a lower court case, appealed to the Supreme Court.",
+          "The appeal sought the expunction (removal) of highly derogatory and harsh remarks made against him by the High Court in its judgment.",
+          "A significant portion of the High Court's judgment was dedicated to severely criticizing the appellant and his testimony, which was noted to be of a \"hearsay nature\"."
+        ],
+        "law": [
+          "The Supreme Court established a three-part test to determine if disparaging remarks against a person are permissible in a judgment.",
+          "It is relevant to consider: (a) whether the person whose conduct is in question is before the court or has an opportunity to explain or defend themselves;",
+          "(b) whether there is evidence on record to justify the remarks; and",
+          "(c) whether the remarks are truly necessary for the decision of the case and form an integral part of it.",
+          "The Court also affirmed the principle of judicial restraint, stating that courts should observe \"sobriety, moderation and reserve,\" especially in higher forums."
+        ],
+        "application": [
+          "The Supreme Court applied its three-part test to the remarks made against the appellant.",
+          "It found that the remarks were not necessary for the lower court's decision, stating there was \"no need whatever for a minute examination of the appellant's testimony or a critical inquisition of his character and conduct.\"",
+          "The Court noted that given the \"hearsay nature\" of the appellant's evidence, it was not necessary for the lower court to have castigated him so severely.",
+          "Even if an evaluation of the evidence was required, the Court found that the lower court failed to exercise the necessary judicial restraint and moderation."
+        ],
+        "conclusion": "The Supreme Court concluded that the adverse remarks made against the appellant were neither justified nor necessary. It therefore accepted the appeal and ordered the derogatory remarks to be expunged from the High Court's judgment."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether evidence pertaining to a previous offence not subject-matter of the charge needs to be critically examined.",
+      "appellant_arguments": [
+        "The appellant argued that the learned Judge failed to consider whether a detailed examination of the appellant's testimony was actually necessary to allow the first respondent's appeal.",
+        "Given the limited controversy in the appeal and the hearsay nature of the appellant's evidence, it was not at all necessary for the Appellate Judge to conduct such a detailed examination."
+      ],
+      "respondent_arguments": [
+        "The counsel for the first respondent did not advance any arguments on this issue."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether derogatory remarks can be made against a person without considering if: (a) the person had an opportunity to explain, (b) there is evidence on record to justify the remarks, and (c) the remarks are necessary for the decision of the case.",
+      "appellant_arguments": [
+        "The appellant's limited role in the case was unnecessarily and unjustly magnified by the Appellate Judge.",
+        "The judge's errors led to uncalled for and caustic comments being made against the appellant.",
+        "It was not necessary for the judge to make these remarks."
+      ],
+      "respondent_arguments": [
+        "The counsel for the first respondent did not advance any arguments on this issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "Section 8",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "Section 4(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "Section 161",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "Section 5(2) read with s.5(l)(d)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Harsh or disparaging remarks are not to be made against persons and authorities whose conduct comes into consideration before courts of law unless it is really necessary for the decision of the case as an integral part thereof.",
+    "obiter": [
+      "The High Court, as the supreme court of revision, must be deemed to have power to see that Courts below do not unjustly and without any lawful excuse."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The adverse remarks made against the appellant by the lower appellate judge were neither justified nor necessary for the decision of the case. Even if an evaluation of the appellant's evidence was required, the remarks should have conformed to the settled practice of courts to observe sobriety, moderation, and restraint.",
+    "legal_tests_applied": [
+      "Adverse remarks on a person's conduct should not be made 'unless it is really necessary for the decision of the case, as an integral part thereof'.",
+      "In expressing their opinions, 'Judges and Magistrates must be guided by considerations of justice, fairplay and restraint.'",
+      "Judicial pronouncements 'must be judicial in nature, and should not normally depart from sobriety, moderation and reserve.'"
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "There is a need to balance two cardinal principles of justice: 'the proper freedom and independence of Judges and Magistrates must be maintained and they must be allowed to perform their functions freely and fearlessly', while at the same time, it is 'equally necessary that in expressing their opinions Judges and Magistrates must be guided by considerations of justice, fairplay and restraint.'",
+      "The High Court, as the supreme court of revision, 'must be deemed to have power to see that Courts below do not unjustly and without any lawful excuse' make adverse remarks."
+    ]
+  },
+  "evidence_map": {}
+}

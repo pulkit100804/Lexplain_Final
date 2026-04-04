@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but it is implied that there was a trial court where Manoj Kumar was initially convicted.",
+    "impugned_order": "Judgment and Order dated 20.11.2009 of the High Court of Himachal Pradesh at Shimla in Criminal Appeal No. 312 of 2006. This suggests the High Court affirmed a lower court's decision.",
+    "high_court_proceedings": "The High Court of Himachal Pradesh at Shimla heard Criminal Appeal No. 312 of 2006 and disposed of the appeals. The specific outcome (affirmation or reversal) isn't stated, but the State's counsel supported the High Court's judgment before the Supreme Court, implying the High Court upheld the conviction.",
+    "supreme_court_posture": "Manoj Kumar appealed to the Supreme Court after the High Court's decision. The Supreme Court heard Criminal Appeal No. 795 of 2011 (along with Crl. A. No. 796 & 797 of 2011) and ultimately disposed of the appeals."
+  },
+  "decision": {
+    "appeal_result": "Disposed of",
+    "conviction_status": "Modified",
+    "sentence_status": "Modified",
+    "directions": [
+      "The appellants are directed to be released forthwith, if not required in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the accused are liable to be punished for the offence of culpable homicide amounting to murder or not?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The defense argued that the incident was not premeditated but was a 'sudden fight' that occurred in the 'heat of passion' after the deceased's party verbally abused the accused."
+        ],
+        "law": [
+          "The Court considered Exception 4 to Section 300 of the Indian Penal Code (IPC), which states that culpable homicide is not murder if it is committed without premeditation during a sudden fight.",
+          "The Court also distinguished between Section 300 IPC (murder), which requires an intention to cause death, and Section 304 Part II IPC (culpable homicide not amounting to murder), which applies when there is knowledge that the act is likely to cause death, but no intention to do so."
+        ],
+        "application": [
+          "The Court determined that the evidence demonstrated the accused had no intention to cause death.",
+          "Although the accused had the knowledge that the weapon used could cause death, the absence of intent, combined with the circumstances of a sudden fight, meant the offense did not meet the criteria for murder under Section 300 IPC.",
+          "Therefore, the Court invoked Exception 4 and found that the act fell within the scope of Section 304, Part II of the IPC."
+        ],
+        "conclusion": "The Supreme Court rejected the charge of murder. It concluded that the accused were not liable for culpable homicide amounting to murder under Section 302 IPC, but were guilty of the lesser offense of culpable homicide not amounting to murder under Section 304 Part II IPC, and accordingly altered their conviction."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the accused are liable to be punished for the offence of culpable homicide amounting to murder or not?",
+      "appellant_arguments": [
+        "The deceased started abusing the appellants' group, and this behavior instigated the appellants to retaliate."
+      ],
+      "respondent_arguments": [
+        "The respondent (the State) supported the judgment of the High Court which had convicted the accused and sought the dismissal of the appeals."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "304 Part-II",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "341",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sridhar Bhuyan v. State of Orissa",
+        "citation": "(2004) 11 SCC 395",
+        "principle": "Regarding the alteration of a conviction from Section 302 IPC to Section 304 Part-II IPC and the justification for the sentence imposed thereafter.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Deo Nath Rai v. State of Bihar and Others etc",
+        "citation": "AIR 2017 SC 5428",
+        "principle": "Regarding the alteration of a conviction from Section 302 IPC to Section 304 Part-II IPC and the justification for the sentence imposed thereafter.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An alteration of a conviction from Section 302 of the Indian Penal Code to Section 304 Part-II, while potentially justified by the facts of the case, does not in itself justify the imposition of a lesser sentence.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found that the appellants were not liable for the offence of murder under Section 302 IPC, as the incident occurred without premeditation. The conviction was therefore set aside and modified to culpable homicide not amounting to murder under Section 304 Part II IPC. As the appellants had already served more than the modified sentence of ten years' rigorous imprisonment, the Court directed their immediate release.",
+    "legal_tests_applied": [
+      "The conditions required to satisfy Exception 4 to Section 300 of the Indian Penal Code, which pertains to culpable homicide committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The Court ordered the immediate release of the appellants upon finding that the period of imprisonment they had already undergone (more than 11½ years) exceeded the modified sentence of ten years, ensuring that they would not be unjustly incarcerated beyond the term deemed appropriate for the reduced offence."
+    ]
+  },
+  "evidence_map": {}
+}

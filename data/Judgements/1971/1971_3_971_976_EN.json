@@ -1,0 +1,123 @@
+{
+  "procedural_history": {
+    "originating_court": "Judicial Magistrate, Karnal",
+    "impugned_order": "Judgment and order dated February 8, 1968, of the Punjab & Haryana High Court in Criminal Revision No. 237 of 1967, confirming the conviction and sentence passed against him for an offence under s. 29 of the Police Act, 1861",
+    "high_court_proceedings": "The appellant filed a Criminal Revision No. 237 of 1967 in the Punjab & Haryana High Court challenging his conviction and sentence. The High Court confirmed the conviction and sentence.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave, challenging the High Court's judgment and order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The orders of the High Court and the two subordinate courts are set aside.",
+      "Fine, if collected, shall be refunded to the appellant."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a new point, being a pure question of law not requiring investigation into facts, can be permitted to be raised for the first time in an appeal before the Supreme Court.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant raised a new legal point regarding the statute of limitations for the first time in their appeal to the Supreme Court.",
+          "This point had not been argued in any of the lower courts.",
+          "The appellant had provided advance notice of this new argument to the opposing counsel by including it in a statement of legal propositions to be advanced before the Court."
+        ],
+        "law": [
+          "A new point can be permitted to be urged in an appeal before the Supreme Court if it is a pure question of law and does not require any fresh investigation into facts."
+        ],
+        "application": [
+          "The Court determined that the new point raised by the appellant—the question of limitation—was a 'pure question of law'.",
+          "Resolving this issue did not involve or require any further investigation of the facts of the case, as all necessary facts were already on record."
+        ],
+        "conclusion": "The Supreme Court decided to permit the appellant to raise the new point, holding that a pure question of law that requires no new investigation of facts can be raised for the first time on appeal before it."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution initiated against the appellant was barred by limitation under Section 42 of the Act, as it was commenced beyond the prescribed period of three months from the date of the alleged offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, a police officer, was charged with an offense under Section 29 of the Police Act.",
+          "The specific act complained of was his absence from duty on a single date: November 25, 1963.",
+          "The prosecution against him was commenced, at the earliest, on January 10, 1966, when a judicial magistrate issued a notice."
+        ],
+        "law": [
+          "Section 42 of the Police Act requires that any prosecution for an act done (or intended to be done) under the provisions of the Act must be commenced within three months of the commission of the act.",
+          "The Court affirmed that this limitation period applies specifically to prosecutions for offenses under the Police Act itself (like Section 29), but not for offenses under other laws like the Indian Penal Code."
+        ],
+        "application": [
+          "The Court determined that the appellant's prosecution for non-compliance with his duty was for an act \"done under the provisions of the Act,\" making the three-month time limit of Section 42 applicable.",
+          "It calculated the time between the date of the offense (November 25, 1963) and the commencement of the prosecution (January 10, 1966).",
+          "This period was found to be \"long after the expiry of three months.\"",
+          "The Court rejected the respondent's argument that the absence was a continuing offense, noting that the trial and conviction were based on the specific charge of being absent on November 25, 1963."
+        ],
+        "conclusion": "The Supreme Court concluded that because the prosecution was initiated well beyond the three-month period prescribed by Section 42 of the Act, it was barred by limitation. Consequently, the trial and conviction of the appellant were deemed illegal and void."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a new point, being a pure question of law not requiring investigation into facts, can be permitted to be raised for the first time in an appeal before the Supreme Court.",
+      "appellant_arguments": [
+        "The point should be permitted to be raised, even though it was not taken in the lower courts, because it is a pure question of law and does not involve any further investigation of facts.",
+        "The contention was specifically raised in the statement of propositions of law submitted to the Supreme Court, and a copy was provided to the respondent's counsel."
+      ],
+      "respondent_arguments": [
+        "The text does not mention any specific arguments from the respondent on this issue."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the prosecution initiated against the appellant was barred by limitation under Section 42 of the Act, as it was commenced beyond the prescribed period of three months from the date of the alleged offence.",
+      "appellant_arguments": [
+        "The prosecution was barred by limitation under Section 42 of the Act because it was initiated beyond the prescribed period of three months from the date of the offence."
+      ],
+      "respondent_arguments": [
+        "The text does not mention any specific arguments from the respondent on this issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Police Act, 1861",
+        "section": "29",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Police Act, 1861",
+        "section": "42",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Maulud Ahmad v. State of Uttar Pradesh",
+        "citation": "[1961] Supp. 2 S.C.R. 38",
+        "principle": "Section 42 of the Police Act, 1861 (which provides a limitation period) applies to a prosecution against a person for an offence under Section 29 of that Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A new legal contention can be raised for the first time before the Supreme Court if it is a pure question of law that does not involve any further investigation of facts.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "To conclude, it is clear that the prosecution against the appellant has been commenced beyond the period of three months and as such it is barred by limitation under s. 42 of the Act.",
+    "legal_tests_applied": [
+      "A new point can be raised for the first time before the Supreme Court if it is a pure question of law, not involving any further investigation of facts."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,162 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court",
+    "impugned_order": "Order under r. 30(1)(b) of the Defence of India Rules for detention to prevent acting prejudicially to the defence of India, public safety, and India's relations with foreign powers; and further orders of the Government of India under r. 30(4) of the Rules.",
+    "high_court_proceedings": "N/A - The case originated as a writ petition directly in the Supreme Court under Article 32.",
+    "supreme_court_posture": "Petitioners (Sahib Singh Dugal and another) filed writ petitions under Art. 32 of the Constitution of India seeking enforcement of Fundamental Rights, challenging the detention order as illegal and mala fide. The Supreme Court dismissed the petitions."
+  },
+  "decision": {
+    "appeal_result": "The petitions therefore fail and are hereby dismissed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an order of detention is mala fide merely because the authorities, after being unable to gather sufficient evidence for a conviction under the Official Secrets Act, decided to drop the criminal proceedings and instead detain the person.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The authorities initially intended to prosecute the petitioner under the Official Secrets Act.",
+          "After investigating, they determined there was insufficient evidence to obtain a conviction.",
+          "Consequently, the authorities requested the magistrate to discharge the petitioner from the criminal case.",
+          "Immediately upon the petitioner's release, he was served with an order of detention."
+        ],
+        "law": [
+          "The standard of proof required for a criminal conviction is different from the basis required for a preventive detention order.",
+          "A detention order can be justified based on a person's past activities, which may be of a wider range than the specific evidence needed to prove a particular offence in court."
+        ],
+        "application": [
+          "The Court reasoned that the decision to drop a criminal case and then issue a detention order does not automatically prove that the detention was made in bad faith (mala fide).",
+          "It is plausible that the executive authorities could feel it was impossible to secure a conviction for a specific offence under the Official Secrets Act.",
+          "At the same time, those same authorities could reasonably conclude, based on the petitioner's activities (which had been watched for over two years), that preventive detention was justified.",
+          "The Court distinguished between the narrow proof required for a specific crime and the broader assessment of a person's past activities that can justify detention."
+        ],
+        "conclusion": "The Supreme Court rejected the petitioner's contention, holding that one cannot infer that a detention order is mala fide merely from the fact that the authorities first tried and failed to gather sufficient evidence for a criminal conviction before deciding to issue the detention order instead."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the principle from Rameshwar Shaw's case, which held that a person already in jail for an indefinite period cannot be preventively detained, applies to a situation where the authorities had already decided to drop the criminal case and the detention order was served upon the person's release from jail.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was in jail for about three months in connection with a criminal case.",
+          "The executive authorities determined there was insufficient evidence to secure a conviction in the criminal case.",
+          "Consequently, the authorities decided to drop the criminal case and applied for the petitioner's discharge.",
+          "On the same day, they passed a preventive detention order against the petitioner.",
+          "The detention order was served on the petitioner immediately after he was discharged and released from jail."
+        ],
+        "law": [
+          "The principle from *Rameshwar Shaw's case* holds that a preventive detention order is invalid if made against a person who is already in jail for an indefinite or long period.",
+          "The rationale is that preventive detention is meant to stop a person from acting in a prejudicial manner, which presupposes the person has the freedom to act.",
+          "If a person is already in jail indefinitely, the detaining authority cannot logically conclude that detention is necessary to prevent such acts, as the person lacks the freedom to perform them."
+        ],
+        "application": [
+          "The Court distinguished the current case from *Rameshwar Shaw* on a key fact: the nature of the petitioner's custody.",
+          "Unlike Rameshwar Shaw, who was in jail for an indefinite period with no known release date, the petitioner in this case was not going to remain in jail indefinitely.",
+          "The authorities had already decided to have him discharged from the criminal case. This meant his release was imminent.",
+          "Because the petitioner was about to be free, the authorities could legitimately conclude that a detention order was necessary to prevent him from acting in a prejudicial manner upon his release.",
+          "The core reasoning of *Rameshwar Shaw*—that the person lacks freedom of action—did not apply here, as the detention was specifically aimed at the petitioner's impending freedom."
+        ],
+        "conclusion": "The Supreme Court rejected the petitioner's argument, holding that the principle from *Rameshwar Shaw's case* was not applicable. The detention order was valid because it was passed in anticipation of the petitioner's imminent release from jail, not while he was in custody for an indefinite period."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an order of detention is mala fide merely because the authorities, after being unable to gather sufficient evidence for a conviction under the Official Secrets Act, decided to drop the criminal proceedings and instead detain the person.",
+      "appellant_arguments": [
+        "The order of detention is mala fide because the authorities only decided to detain the petitioners after they were unable to gather sufficient evidence to secure a conviction under the Official Secrets Act.",
+        "The switch from attempting criminal prosecution to issuing a detention order indicates that the detention was not a genuine preventive measure but a way to punish the petitioners when the legal case failed."
+      ],
+      "respondent_arguments": [
+        "The inability to obtain a conviction for a specific offense does not preclude the authorities from ordering preventive detention.",
+        "The standard for a criminal conviction is much higher than for a preventive detention order, which can be based on a wider range of past activities.",
+        "The authorities reasonably concluded, based on activities watched for over two years, that detention was necessary, even if a specific charge under the Official Secrets Act could not be proven in court."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the principle from Rameshwar Shaw's case, which held that a person already in jail for an indefinite period cannot be preventively detained, applies to a situation where the authorities had already decided to drop the criminal case and the detention order was served upon the person's release from jail.",
+      "appellant_arguments": [
+        "Based on the precedent set in Rameshwar Shaw's case, the order of detention is illegal because the petitioners were already in jail when the order was made.",
+        "The detention order and its service are illegal, and the petitioners are entitled to be released."
+      ],
+      "respondent_arguments": [
+        "The precedent from Rameshwar Shaw's case does not apply because the facts are materially different.",
+        "In Rameshwar Shaw's case, the person was in jail for an indefinite period in connection with a pending criminal case.",
+        "In the current case, the authorities had already decided that the criminal case could not succeed and had applied for the petitioners' discharge. The detention was therefore not imposed on someone already in indefinite custody, but on someone about to be released."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Official Secrets Act",
+        "section": "s. 3",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Defence of India Rules",
+        "section": "r. 30(1)(b)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Defence of India Rules",
+        "section": "r. 30(4)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Rameshwar Shaw v. District Magistrate, Burdwan",
+        "citation": "[1964] 4 S.C.R. 921",
+        "principle": "Detention is made in light of past activities of the person concerned, but these past activities should ordinarily be proximate in point of time to justify the order of detention.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Smt. Godavarl Shamrao v. State of Maharashtra",
+        "citation": "A.I.R. 1964 S.C. 1128",
+        "principle": "The mere fact that authorities decide to drop a criminal case and thereafter order the detention of a person is not sufficient to infer that the order of detention was mala fide, as the authorities may still be justified in ordering detention based on past activities even if a conviction for a specific offence is not possible.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An order of detention is not considered mala fide merely because the authorities decided to drop a criminal prosecution due to insufficient evidence for a conviction and subsequently issued the detention order. The authorities may be justified in ordering detention based on a person's past activities, which are considered on a wider basis than the strict proof required for a specific criminal offense in a court of law.",
+    "obiter": [
+      "Detention is made generally in the light of the evidence about the past activities of the person concerned, and these past activities should ordinarily be proximate in point of time to justify the order of detention."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A preventive detention order is not made in bad faith (mala fide) merely because the authorities chose to issue it after failing to gather sufficient evidence for a criminal conviction, as the standards for detention and conviction are different. Furthermore, the principle prohibiting the detention of a person already in indefinite custody does not apply when the authorities have already decided to drop the criminal case and the detention is executed upon the person's imminent release.",
+    "legal_tests_applied": [
+      "The test for mala fides requires more than just the fact that authorities switched from pursuing a criminal prosecution to issuing a detention order; the two actions are not mutually exclusive and can be based on different standards of evidence.",
+      "The principle from Rameshwar Shaw's case, which invalidates a detention order against a person already in jail for an indefinite period, is distinguished. The key factor is whether the person has a prospective freedom of action; if their release is imminent because the criminal case is being dropped, a preventive detention order can be validly applied."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the inference of mala fides, stating that the inability to secure a criminal conviction does not preclude the authorities from reasonably concluding, based on a wider range of past activities, that detention is necessary to prevent future harm.",
+      "The reliance on the Rameshwar Shaw precedent was misplaced because, unlike in that case, the petitioners were not facing indefinite custody. The authorities had already decided to drop the criminal case, meaning the petitioners were about to be released, which is precisely the circumstance preventive detention is designed to address."
+    ],
+    "why_respondent_won": [
+      "The court accepted that the standard for a criminal conviction is much higher than that for a preventive detention order, and the authorities were justified in ordering detention based on activities watched over two years, even if that evidence could not prove a specific offense in court.",
+      "The facts were successfully distinguished from Rameshwar Shaw's case because the authorities had already applied for the petitioners' discharge from the criminal case. The detention order was therefore not served on individuals in indefinite custody, but on individuals about to be set free, making the preventive measure necessary and lawful."
+    ],
+    "policy_considerations": [
+      "The judiciary recognizes a distinction between the punitive nature of criminal prosecution, which requires a high standard of proof for past acts, and the precautionary nature of preventive detention, which allows the executive to act on a reasonable apprehension of future harm based on a broader pattern of conduct."
+    ]
+  },
+  "evidence_map": {
+    "decision.appeal_result": [
+      "p6_9bc218c2"
+    ],
+    "citations.cases[1].case_name": [
+      "p1_c6cdeb2c"
+    ]
+  }
+}

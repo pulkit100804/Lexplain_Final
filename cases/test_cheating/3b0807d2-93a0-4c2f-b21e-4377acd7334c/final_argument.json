@@ -1,0 +1,2138 @@
+{
+  "case_id": "3b0807d2-93a0-4c2f-b21e-4377acd7334c",
+  "tenant_id": "test_cheating",
+  "agent": "agent_9_final_argument",
+  "input_refs": [
+    "ingredient_report.json",
+    "loopholes.json",
+    "precedent_comparison.json"
+  ],
+  "created_at": "2026-03-19T16:51:06.539426+00:00",
+  "role": "defence",
+  "case_summary": "Case involves 15 statute evaluation(s). 3 statute(s) have VALID ingredient satisfaction: 105, 410, 421. 12 statute(s) are INVALID (core ingredient failure): 207, 415, 423, 382, 390, 327, 420, 97, 439, 329, 206, 424.",
+  "applicable_sections": [
+    {
+      "section": "105",
+      "heading": "Commencement and continuance of the right of private defence of property.",
+      "score": 1.0,
+      "status": "valid"
+    },
+    {
+      "section": "410",
+      "heading": "Stolen property.",
+      "score": 0.8571,
+      "status": "valid"
+    },
+    {
+      "section": "421",
+      "heading": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditor.",
+      "score": 0.8571,
+      "status": "valid"
+    },
+    {
+      "section": "207",
+      "heading": "Fraudulent claim to property to prevent its seizure as forfeited or in execution.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "415",
+      "heading": "Cheating.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "423",
+      "heading": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "382",
+      "heading": "Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "390",
+      "heading": "Robbery.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "327",
+      "heading": "Voluntarily causing hurt to extort property, or to constrain to an illegal act.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "420",
+      "heading": "Cheating and dishonestly inducing delivery of property.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "97",
+      "heading": "Right of private defence of the body and of property.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "439",
+      "heading": "Punishment for intentionally running vessel agroun, or ashore with intent to commit theft, etc.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "329",
+      "heading": "Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "206",
+      "heading": "Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "424",
+      "heading": "Dishonest or fraudulent removal or concealment of property.",
+      "score": 0.0,
+      "status": "invalid"
+    }
+  ],
+  "ingredient_analysis": [
+    {
+      "section": "410",
+      "ingredient": "The transfer, misappropriation or breach of trust has been committed, within or without India",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "207",
+      "ingredient": "Whoever fraudulently accepts, receives or claims any property or any interest therein",
+      "category": "mens_rea",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "ingredient": "knowing that he has no right or rightful claim to such property or interest",
+      "category": "actus_reus",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "ingredient": "intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine",
+      "category": "actus_reus",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "ingredient": "under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "207",
+      "ingredient": "or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "415",
+      "ingredient": "A dishonest concealment of facts is a deception within the meaning of this section.",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "423",
+      "ingredient": "The accused dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument.",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "423",
+      "ingredient": "The deed or instrument contains any false statement relating to the consideration for such transfer or charge.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "423",
+      "ingredient": "The deed or instrument contains any false statement relating to the person or persons for whose use or benefit it is really intended to operate.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "ingredient": "Whoever commits theft",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "ingredient": "having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "ingredient": "such preparation is made in order to the committing of such theft",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "ingredient": "such preparation is made in order to the effecting of his escape after the committing of such theft",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "421",
+      "ingredient": "The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.",
+      "category": "actus_reus",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "421",
+      "ingredient": "The person knows it is likely that the action will thereby prevent the distribution of that property according to law among his creditors or the creditors of any other person.",
+      "category": "mens_rea",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "390",
+      "ingredient": "There is a theft.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause death to any person.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause hurt to any person.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause wrongful restraint to any person.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause fear of instant death to any person.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause fear of instant hurt to any person.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause fear of instant wrongful restraint to any person.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "There is an extortion.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, at the time of committing the extortion, is in the presence of the person put in fear.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The extortion is committed by putting that person in fear of instant death.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The extortion is committed by putting that person in fear of instant hurt.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The extortion is committed by putting that person in fear of instant wrongful restraint.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The fear is directed to that person or to some other person.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "By so putting in fear, the offender induces the person so put in fear then and there to deliver up the thing extorted.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "327",
+      "ingredient": "Whoever voluntarily causes hurt",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "327",
+      "ingredient": "for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security",
+      "category": "mens_rea",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "327",
+      "ingredient": "or of constraining the sufferer or any person interested in such sufferer to do anything which is illegal",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "327",
+      "ingredient": "or which may facilitate the commission of an offence",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "Whoever cheats",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "dishonestly",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "induces the person deceived",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "to make, alter or destroy the whole or any part of a valuable security",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "to make, alter or destroy anything which is signed or sealed, and which is capable of being converted into a valuable security",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "Every person has a right to defend",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "subject to the restrictions contained in section 99",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "His own body",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "the body of any other person",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any offence affecting the human body",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any act which is an offence falling under the defintion of theft",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any act which is an offence falling under the defintion of robbery",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any act which is an offence falling under the defintion of mischief",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any act which is an offence falling under the defintion of criminal trespass",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "or which is an attempt to commit theft",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "or which is an attempt to commit robbery",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "or which is an attempt to commit mischief",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "or which is an attempt to commit criminal trespass",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "439",
+      "ingredient": "Whoever intentionally runs any vessel aground or ashore.",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "439",
+      "ingredient": "Intending to dishonestly misappropriate any such property.",
+      "category": "mens_rea",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "439",
+      "ingredient": "With intent that such theft or misappropriation of property may be committed.",
+      "category": "mens_rea",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "329",
+      "ingredient": "Whoever voluntarily causes grievous hurt",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "329",
+      "ingredient": "for the purpose of extorting from the sufferer or from any person interested in the sufferer any property or valuable security",
+      "category": "mens_rea",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "329",
+      "ingredient": "for the purpose of constraining the sufferer or any person interested in such sufferer to do anything that is illegal",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "329",
+      "ingredient": "for the purpose of constraining the sufferer or any person interested in such sufferer to do anything which may facilitate the commission of an offence",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "206",
+      "ingredient": "intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine",
+      "category": "actus_reus",
+      "status": "partial",
+      "confidence": 0.4,
+      "evidence_type": "event",
+      "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "206",
+      "ingredient": "under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court of Justice or other competent authority",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "206",
+      "ingredient": "or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "424",
+      "ingredient": "A person dishonestly releases any demand or claim to which he is entitled.",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    }
+  ],
+  "missing_weak_elements": [
+    {
+      "section": "410",
+      "ingredient": "The transfer, misappropriation or breach of trust has been committed, within or without India",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "207",
+      "ingredient": "Whoever fraudulently accepts, receives or claims any property or any interest therein",
+      "status": "partial",
+      "category": "mens_rea",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "ingredient": "knowing that he has no right or rightful claim to such property or interest",
+      "status": "partial",
+      "category": "actus_reus",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "ingredient": "intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine",
+      "status": "partial",
+      "category": "actus_reus",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "ingredient": "under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "207",
+      "ingredient": "or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "415",
+      "ingredient": "A dishonest concealment of facts is a deception within the meaning of this section.",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "423",
+      "ingredient": "The accused dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument.",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "423",
+      "ingredient": "The deed or instrument contains any false statement relating to the consideration for such transfer or charge.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "423",
+      "ingredient": "The deed or instrument contains any false statement relating to the person or persons for whose use or benefit it is really intended to operate.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "ingredient": "Whoever commits theft",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "ingredient": "having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "ingredient": "such preparation is made in order to the committing of such theft",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "ingredient": "such preparation is made in order to the effecting of his escape after the committing of such theft",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "421",
+      "ingredient": "The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.",
+      "status": "partial",
+      "category": "actus_reus",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "421",
+      "ingredient": "The person knows it is likely that the action will thereby prevent the distribution of that property according to law among his creditors or the creditors of any other person.",
+      "status": "partial",
+      "category": "mens_rea",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "390",
+      "ingredient": "There is a theft.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause death to any person.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause hurt to any person.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause wrongful restraint to any person.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause fear of instant death to any person.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause fear of instant hurt to any person.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, for that end, voluntarily causes or attempts to cause fear of instant wrongful restraint to any person.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "There is an extortion.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender, at the time of committing the extortion, is in the presence of the person put in fear.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The extortion is committed by putting that person in fear of instant death.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The extortion is committed by putting that person in fear of instant hurt.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The extortion is committed by putting that person in fear of instant wrongful restraint.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The fear is directed to that person or to some other person.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "By so putting in fear, the offender induces the person so put in fear then and there to deliver up the thing extorted.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "ingredient": "The offender is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "327",
+      "ingredient": "Whoever voluntarily causes hurt",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "327",
+      "ingredient": "for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security",
+      "status": "partial",
+      "category": "mens_rea",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "327",
+      "ingredient": "or of constraining the sufferer or any person interested in such sufferer to do anything which is illegal",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "327",
+      "ingredient": "or which may facilitate the commission of an offence",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "Whoever cheats",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "dishonestly",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "induces the person deceived",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "to make, alter or destroy the whole or any part of a valuable security",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "420",
+      "ingredient": "to make, alter or destroy anything which is signed or sealed, and which is capable of being converted into a valuable security",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "Every person has a right to defend",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "subject to the restrictions contained in section 99",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "His own body",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "the body of any other person",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any offence affecting the human body",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any act which is an offence falling under the defintion of theft",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any act which is an offence falling under the defintion of robbery",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any act which is an offence falling under the defintion of mischief",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "against any act which is an offence falling under the defintion of criminal trespass",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "or which is an attempt to commit theft",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "or which is an attempt to commit robbery",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "or which is an attempt to commit mischief",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "ingredient": "or which is an attempt to commit criminal trespass",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "439",
+      "ingredient": "Whoever intentionally runs any vessel aground or ashore.",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "439",
+      "ingredient": "Intending to dishonestly misappropriate any such property.",
+      "status": "partial",
+      "category": "mens_rea",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "439",
+      "ingredient": "With intent that such theft or misappropriation of property may be committed.",
+      "status": "partial",
+      "category": "mens_rea",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "329",
+      "ingredient": "Whoever voluntarily causes grievous hurt",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "329",
+      "ingredient": "for the purpose of extorting from the sufferer or from any person interested in the sufferer any property or valuable security",
+      "status": "partial",
+      "category": "mens_rea",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "329",
+      "ingredient": "for the purpose of constraining the sufferer or any person interested in such sufferer to do anything that is illegal",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "329",
+      "ingredient": "for the purpose of constraining the sufferer or any person interested in such sufferer to do anything which may facilitate the commission of an offence",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "206",
+      "ingredient": "intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine",
+      "status": "partial",
+      "category": "actus_reus",
+      "reason": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "206",
+      "ingredient": "under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court of Justice or other competent authority",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "206",
+      "ingredient": "or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "424",
+      "ingredient": "A person dishonestly releases any demand or claim to which he is entitled.",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "207",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "207",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "207",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'Whoever fraudulently accepts, receives or claims any property or any interest therein' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'knowing that he has no right or rightful claim to such property or interest' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "207",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'knowing that he has no right or rightful claim to such property or interest' (actus_reus) is partial. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "207",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine' (actus_reus) is partial. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "415",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (A dishonest concealment of facts is a deception within the meaning of this section.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "423",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (The accused dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (Whoever commits theft) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "382",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'Whoever commits theft' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "382",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "421",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "421",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'The person knows it is likely that the action will thereby prevent the distribution of that property according to law among his creditors or the creditors of any other person.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "421",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.' (actus_reus) is partial. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "390",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (The offender, for that end, voluntarily causes or attempts to cause death to any person.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (The offender, for that end, voluntarily causes or attempts to cause hurt to any person.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (The offender, for that end, voluntarily causes or attempts to cause fear of instant death to any person.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (The offender, for that end, voluntarily causes or attempts to cause fear of instant hurt to any person.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (The extortion is committed by putting that person in fear of instant death.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (The extortion is committed by putting that person in fear of instant hurt.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (The offender is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "390",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'The offender, for that end, voluntarily causes or attempts to cause death to any person.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "390",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'The offender, for that end, voluntarily causes or attempts to cause hurt to any person.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "390",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'The offender, for that end, voluntarily causes or attempts to cause fear of instant death to any person.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "390",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'The offender, for that end, voluntarily causes or attempts to cause fear of instant hurt to any person.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "390",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'The extortion is committed by putting that person in fear of instant death.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "390",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'The extortion is committed by putting that person in fear of instant hurt.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "390",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'The offender is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "327",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (Whoever voluntarily causes hurt) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "327",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (or which may facilitate the commission of an offence) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "327",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "327",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'Whoever voluntarily causes hurt' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "327",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'or which may facilitate the commission of an offence' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "420",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (dishonestly) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (against any act which is an offence falling under the defintion of theft) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (against any act which is an offence falling under the defintion of robbery) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (against any act which is an offence falling under the defintion of mischief) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (against any act which is an offence falling under the defintion of criminal trespass) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "97",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'against any act which is an offence falling under the defintion of theft' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "97",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'against any act which is an offence falling under the defintion of robbery' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "97",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'against any act which is an offence falling under the defintion of mischief' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "97",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'against any act which is an offence falling under the defintion of criminal trespass' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "439",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (Whoever intentionally runs any vessel aground or ashore.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "439",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'Intending to dishonestly misappropriate any such property.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "439",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'With intent that such theft or misappropriation of property may be committed.' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "329",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'actus_reus' (Whoever voluntarily causes grievous hurt) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "329",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (for the purpose of constraining the sufferer or any person interested in such sufferer to do anything that is illegal) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "329",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (for the purpose of constraining the sufferer or any person interested in such sufferer to do anything which may facilitate the commission of an offence) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "329",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'for the purpose of extorting from the sufferer or from any person interested in the sufferer any property or valuable security' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "329",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'Whoever voluntarily causes grievous hurt' (actus_reus) is not_satisfied. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "206",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court of Justice or other competent authority) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "206",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "206",
+      "type": "weak_evidence",
+      "reason": "Ingredient 'intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone."
+    },
+    {
+      "section": "206",
+      "type": "precedent_supported_failure",
+      "reason": "Ingredient 'intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine' (actus_reus) is partial. Precedent shows similar evidential issues: The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+    },
+    {
+      "section": "424",
+      "type": "missing_core_ingredient",
+      "reason": "Core ingredient 'mens_rea' (A person dishonestly releases any demand or claim to which he is entitled.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient."
+    }
+  ],
+  "precedent_comparison": {
+    "similarity_score": 0.4,
+    "matched_patterns": [
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The court rejected the argument that the verifying officers' reports, rather than the appellant's claims, caused the payments. It held that the appellant's representations were the foundational act that culminated in the government making the payments."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "On the State's appeals against acquittal, the original accused (as respondent) won because the State failed to show that the High Court committed any 'error of law' in its findings of fact that the prosecution had not proven its case beyond a reasonable doubt for those specific charges."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The appellant's pleading suffered from a lack of material facts and failed to incorporate the essential particulars of the alleged corrupt practice, specifically the dates and details of the meeting where it supposedly occurred."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The defect in the pleading was so basic that no amount of evidence could cure it, rendering the petition as one that disclosed no cause of action from the outset."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The respondent successfully argued that the petition's pleading was not sustainable and suffered from a lack of material facts."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The High Court was correct in its conclusion that the defective pleading, which failed to provide essential particulars, disclosed no cause of action and therefore had to be dismissed."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "Section 54-A of the Improvement Act does not contain express words of conveyance to transfer title to the Trust. The phrase 'placing the property at the disposal of the Trust' does not signify that the Government had divested itself of its title to the property and transferred the same to the Trust."
+      },
+      {
+        "pattern": "Weak actus_reus — precedent also found evidential issues",
+        "precedent_reference": "Unknown Case",
+        "why_matched": "The fact that the Trust repaid the loan from the Government for the market's construction does not alter the legal position regarding ownership, which is determined by the statute and the governing agreement."
+      }
+    ],
+    "differences": [
+      {
+        "difference": "Precedent rule: The High Court's conviction of the appellant for abetting cheating was set aside because it was procedurally flawed, substantively incorrect, and represented a failure of appellate duty. The appellant",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent outcome: Allowed",
+        "why_it_matters": "Compare with expected outcome of current case."
+      },
+      {
+        "difference": "Precedent rule: The court concluded that the appellant was rightfully convicted of cheating because his own false representations in the submitted bills were the ultimate cause that induced the government to part wit",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent outcome: Dismissed",
+        "why_it_matters": "Compare with expected outcome of current case."
+      },
+      {
+        "difference": "Precedent rule: The respondents committed civil contempt through their willful disobedience to the writ of habeas corpus by failing to produce the two missing persons and file a return. The court rejected the respond",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent rule: The principle laid down is that the pleading in regard to matters where there is scope for ascribing an alleged corrupt practice to a returned candidate in the context of a meeting of which dates and ",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent outcome: Dismissed",
+        "why_it_matters": "Compare with expected outcome of current case."
+      },
+      {
+        "difference": "Precedent rule: Upon a proper construction of the terms of the agreement between the Trust and the Government, the Trust was in the position of a statutory agent of the Government and the market was Government premis",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent outcome: Dismissed with costs",
+        "why_it_matters": "Compare with expected outcome of current case."
+      }
+    ],
+    "references": [
+      {
+        "case_name": "Unknown Case",
+        "citation": "Unknown",
+        "source": "1971_2_178_183_EN.json"
+      },
+      {
+        "case_name": "Unknown Case",
+        "citation": "Unknown",
+        "source": "1967_1_211_226_EN.json"
+      },
+      {
+        "case_name": "Unknown Case",
+        "citation": "Unknown",
+        "source": "1984_3_544_549_EN.json"
+      },
+      {
+        "case_name": "Unknown Case",
+        "citation": "Unknown",
+        "source": "1986_2_782_822_EN.json"
+      },
+      {
+        "case_name": "Unknown Case",
+        "citation": "Unknown",
+        "source": "1957_1_1_20_EN.json"
+      }
+    ]
+  },
+  "loopholes_summary": {
+    "total": 57,
+    "by_type": {
+      "contradiction": 0,
+      "weak_evidence": 10,
+      "missing_core_ingredient": 27,
+      "precedent_supported_failure": 20
+    }
+  },
+  "final_argument": "============================================================\nLEGAL ARGUMENT — DEFENCE PERSPECTIVE\n============================================================\n\n1. CASE SUMMARY\n----------------------------------------\nCase involves 15 statute evaluation(s). 3 statute(s) have VALID ingredient satisfaction: 105, 410, 421. 12 statute(s) are INVALID (core ingredient failure): 207, 415, 423, 382, 390, 327, 420, 97, 439, 329, 206, 424.\n\n2. APPLICABLE IPC SECTIONS\n----------------------------------------\n  Section 105 (Commencement and continuance of the right of private defence of property.): Score=1.0, Status=valid\n  Section 410 (Stolen property.): Score=0.8571, Status=valid\n  Section 421 (Dishonest or fraudulent removal or concealment of property to prevent distribution among creditor.): Score=0.8571, Status=valid\n  Section 207 (Fraudulent claim to property to prevent its seizure as forfeited or in execution.): Score=0.0, Status=invalid\n  Section 415 (Cheating.): Score=0.0, Status=invalid\n  Section 423 (Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.): Score=0.0, Status=invalid\n  Section 382 (Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft.): Score=0.0, Status=invalid\n  Section 390 (Robbery.): Score=0.0, Status=invalid\n  Section 327 (Voluntarily causing hurt to extort property, or to constrain to an illegal act.): Score=0.0, Status=invalid\n  Section 420 (Cheating and dishonestly inducing delivery of property.): Score=0.0, Status=invalid\n  Section 97 (Right of private defence of the body and of property.): Score=0.0, Status=invalid\n  Section 439 (Punishment for intentionally running vessel agroun, or ashore with intent to commit theft, etc.): Score=0.0, Status=invalid\n  Section 329 (Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act.): Score=0.0, Status=invalid\n  Section 206 (Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.): Score=0.0, Status=invalid\n  Section 424 (Dishonest or fraudulent removal or concealment of property.): Score=0.0, Status=invalid\n\n3. INGREDIENT ANALYSIS\n----------------------------------------\n  [410] The transfer, misappropriation or breach of trust has been committed, within or without India\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [207] Whoever fraudulently accepts, receives or claims any property or any interest therein\n    Status: partial | Confidence: 0.40 | Evidence: event\n    Reasoning: Event shows action but intent/knowledge cannot be directly inferred from events alone.\n  [207] knowing that he has no right or rightful claim to such property or interest\n    Status: partial | Confidence: 0.40 | Evidence: event\n    Reasoning: Event shows action but intent/knowledge cannot be directly inferred from events alone.\n  [207] intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine\n    Status: partial | Confidence: 0.40 | Evidence: event\n    Reasoning: Event shows action but intent/knowledge cannot be directly inferred from events alone.\n  [207] under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [207] or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [415] A dishonest concealment of facts is a deception within the meaning of this section.\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [423] The accused dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument.\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [423] The deed or instrument contains any false statement relating to the consideration for such transfer or charge.\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [423] The deed or instrument contains any false statement relating to the person or persons for whose use or benefit it is really intended to operate.\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [382] Whoever commits theft\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [382] having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [382] such preparation is made in order to the committing of such theft\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [382] such preparation is made in order to the effecting of his escape after the committing of such theft\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [421] The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.\n    Status: partial | Confidence: 0.40 | Evidence: event\n    Reasoning: Event shows action but intent/knowledge cannot be directly inferred from events alone.\n\n4. MISSING / WEAK ELEMENTS\n----------------------------------------\n  [410] The transfer, misappropriation or breach of trust has been committed, within or without India — not_satisfied\n  [207] Whoever fraudulently accepts, receives or claims any property or any interest therein — partial\n  [207] knowing that he has no right or rightful claim to such property or interest — partial\n  [207] intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine — partial\n  [207] under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority — not_satisfied\n  [207] or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit — not_satisfied\n  [415] A dishonest concealment of facts is a deception within the meaning of this section. — not_satisfied\n  [423] The accused dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument. — not_satisfied\n  [423] The deed or instrument contains any false statement relating to the consideration for such transfer or charge. — not_satisfied\n  [423] The deed or instrument contains any false statement relating to the person or persons for whose use or benefit it is really intended to operate. — not_satisfied\n\n5. PRECEDENT COMPARISON\n----------------------------------------\n  Similarity Score: 0.4\n  Pattern: Weak actus_reus — precedent also found evidential issues\n    Reference: Unknown Case\n  Pattern: Weak actus_reus — precedent also found evidential issues\n    Reference: Unknown Case\n  Pattern: Weak actus_reus — precedent also found evidential issues\n    Reference: Unknown Case\n  Pattern: Weak actus_reus — precedent also found evidential issues\n    Reference: Unknown Case\n  Pattern: Weak actus_reus — precedent also found evidential issues\n    Reference: Unknown Case\n\n6. FINAL ARGUMENT\n----------------------------------------\n  The defence submits that 57 legal loophole(s) exist.\n  27 core ingredient(s) are NOT SATISFIED,\n  rendering the charge unsustainable.\n  10 ingredient(s) have weak evidence support."
+}

@@ -1,0 +1,283 @@
+{
+  "procedural_history": {
+    "originating_court": "Original Side of the Bombay High Court (Bhagwati J.)",
+    "impugned_order": "Order of Bhagwati J. granting a writ of certiorari against the Province of Bombay and the Secretary etc. to quash an order to requisition certain premises.",
+    "high_court_proceedings": "The Province of Bombay appealed Bhagwati J.'s order to the appellate Bench of the High Court (Chagla C.J. and Tendolkar J.). The appellate Bench allowed the appeal in favor of the two respondents other than the Province of Bombay and set aside the orders made against them. They affirmed the judgment of Bhagwati J., so far as it related to the Province of Bombay, and maintained the writ of certiorari issued against it.",
+    "supreme_court_posture": "The Province of Bombay appealed to the Supreme Court against the High Court's judgment affirming the writ of certiorari."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The petition is dismissed.",
+      "The order of costs made by the lower courts in favour of the respondents is cancelled.",
+      "The respondents will pay the costs throughout.",
+      "The costs of the lower courts will be taxed in favour of the appellant on the terms allowed by those courts in favour of the respondents.",
+      "The respondent will pay the costs of the appeal here.",
+      "The order of costs against the respondents will be limited to the assets of the deceased come to their hands, as the original applicant has died pending these proceedings."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the decision of the Governor that the land is wanted for a public purpose is final.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact_text": "Under the relevant Act, the process for acquiring land begins when \"it shall appear to the Governor that land in any locality is likely to be needed for any public purpose.\"",
+            "law_text": "This statutory language indicates that the determination is left to the subjective opinion and satisfaction of the executive authority (the Governor)."
+          },
+          {
+            "fact_text": "Section 6(3) of the Act states that a declaration made by the Government that land is needed for a public purpose is \"conclusive evidence\" of that fact.",
+            "law_text": "This provision explicitly bars judicial review of the government's declaration regarding the public purpose of an acquisition."
+          },
+          {
+            "fact_text": "It is a well-settled legal principle that when a statute commits the decision of what is necessary or expedient to an executive authority, courts cannot investigate the grounds or reasonableness of that decision.",
+            "law_text": "An exception to this principle exists in cases where there is an allegation of bad faith."
+          }
+        ],
+        "application": [
+          {
+            "fact_text": "The Court interpreted the phrase \"it shall appear to the Governor\" as granting the executive the authority to form a subjective opinion on the entire matter.",
+            "application_text": "This \"composite matter\" includes not only the necessity of acquiring the land but also the determination of whether the purpose for the acquisition is a public one."
+          },
+          {
+            "fact_text": "The Court reasoned that the existence of a public purpose was left as much to the opinion of the Provincial Government as the decision to acquire the land.",
+            "application_text": "Therefore, the Governor's decision on this matter was intended to be final and could not be questioned in any court."
+          },
+          {
+            "fact_text": "The Court also noted that the role of the District Court in these matters is to deal with questions of compensation, making it an unsuitable forum to challenge the purpose of the acquisition itself.",
+            "application_text": "This practical consideration supports the finality of the Governor's decision on the purpose of the acquisition."
+          },
+          {
+            "fact_text": "The Court relied on the \"conclusive evidence\" clause in Section 6(3) of the Act.",
+            "application_text": "This clause provides a clear statutory basis for treating the government's declaration as final and unchallengeable."
+          }
+        ],
+        "conclusion": "The Supreme Court decided that the Governor's decision that land is wanted for a public purpose is final. The Court's reasoning was based on the statutory language which commits the determination to the subjective satisfaction of the Governor. This authority covers the entire \"composite matter,\" including both the necessity of the land and the existence of a public purpose. Furthermore, the Act explicitly states that the government's declaration is \"conclusive evidence,\" thereby precluding judicial review in the absence of bad faith."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a court of limited jurisdiction can give itself jurisdiction by a wrong decision on a point collateral to the merits of the case upon which the limit to its jurisdiction depends.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The court considered cases where quasi-judicial bodies, such as Justices granting licenses, had their jurisdiction limited by certain preliminary or collateral facts.",
+          "For example, the power of Justices to grant licenses was limited to persons who had specified qualifications. The existence of these qualifications was a collateral fact upon which their jurisdiction depended."
+        ],
+        "law": [
+          "The Court affirmed the general rule that a court or body of limited jurisdiction cannot give itself jurisdiction by making a wrong decision on a point collateral to the merits of the case.",
+          "The legislature, when establishing a body with limited jurisdiction, determines the conditions (a certain state of facts) under which that body can act.",
+          "A distinction is made between the merits of a case (which the body can decide) and the preliminary, collateral questions that determine if the body has jurisdiction in the first place.",
+          "Decisions on these preliminary or collateral questions are not final and must always be open to inquiry and review by a superior court.",
+          "An exception exists if the legislature explicitly gives the limited body the power to conclusively determine the existence of the preliminary facts on which its jurisdiction depends."
+        ],
+        "application": [
+          "The court applied the general rule to the example of the Justices. It reasoned that the Justices could not, by wrongly deciding that an applicant had the necessary qualifications, assume jurisdiction to grant a license.",
+          "Such an erroneous decision on a collateral fact is considered an assumption of jurisdiction that the body does not have.",
+          "When a quasi-judicial body assumes jurisdiction based on an erroneous decision of a collateral fact, a superior court can issue a writ, such as certiorari, to correct the error and quash the resulting order."
+        ],
+        "conclusion": "The Supreme Court rejected the proposition, holding that as a general rule, a court of limited jurisdiction cannot give itself jurisdiction by wrongly deciding a collateral fact upon which its jurisdiction depends. The court clarified that any such decision on a preliminary jurisdictional question is not conclusive and remains subject to review by a superior court."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Provincial Government was required to act judicially in determining the preliminary facts before exercising its administrative powers.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case concerned the power of the Provincial Government to requisition property under an Ordinance.",
+          "The exercise of this power was conditional on the existence of a \"public purpose.\"",
+          "The issue was whether the determination of this \"public purpose\" was a purely administrative decision or a preliminary question that had to be decided judicially."
+        ],
+        "law": [
+          "When an executive authority's power to act is conditional upon the existence of an objective fact (a \"condition precedent\"), the determination of that fact is a judicial or quasi-judicial function.",
+          "This determination of a preliminary fact is considered independent of and collateral to the main executive act.",
+          "An authority cannot grant itself jurisdiction to perform an executive act by wrongly deciding that the preliminary condition has been met."
+        ],
+        "application": [
+          "The Court interpreted the Ordinance to mean that the existence of a \"public purpose\" was an objective condition that must be fulfilled before the Provincial Government could take any steps.",
+          "It characterized the question of whether a public purpose exists as a \"preliminary question which is collateral to the merits of the executive act.\"",
+          "Because the existence of a public purpose was a condition precedent, the Court found that its fulfillment had to be determined judicially by the Provincial Government as an objective fact.",
+          "The Court distinguished this from the subsequent administrative act of requisition, which could only be performed after the preliminary condition was judicially satisfied."
+        ],
+        "conclusion": "The Supreme Court decided that the Provincial Government was required to act judicially to determine the existence of a public purpose. This was because the existence of a public purpose was an objective, preliminary, and collateral fact—a condition precedent—that had to be established before the government could validly exercise its administrative power to requisition property."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a writ of certiorari can be issued against the appellant, which for its actions under the Ordinance, represents the Crown.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was the Provincial Government, which, for its actions under the Ordinance, was considered to represent the Crown.",
+          "The appellant contended that it was immune from all court processes and that no writ of certiorari could be issued against it."
+        ],
+        "law": [
+          "A writ of certiorari can only be issued if the challenged order is judicial or quasi-judicial in nature.",
+          "If an order is purely administrative, a writ of certiorari is not an available remedy."
+        ],
+        "application": [
+          "The court first addressed the preliminary question of whether the government's requisition order was an administrative or a quasi-judicial act.",
+          "The court concluded that the government's action was a \"purely administrative act.\"",
+          "Because the case could be resolved on this first point (i.e., a writ cannot be issued for an administrative act), the court found it unnecessary to decide the second point.",
+          "The court stated that the question of whether a writ could be issued against the Provincial Government \"does not arise.\""
+        ],
+        "conclusion": "The court explicitly declined to decide this issue. It determined that since the government's action was purely administrative, a writ of certiorari could not be issued regardless. Therefore, the question of whether the government was immune to such a writ became unnecessary to answer, and the court expressed no opinion on it."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the order in question was made for a public purpose.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The court considered the merits of the case regarding the purpose of the land requisition.",
+          "It noted that there was a \"concurrent finding of fact\" (meaning lower courts had already agreed on this point) that the object of the requisition was to benefit a private individual."
+        ],
+        "law": [
+          "A valid requisition order under the Ordinance must be for a \"public purpose.\""
+        ],
+        "application": [
+          "The court applied the public purpose requirement to the facts of the case.",
+          "It determined that an order intended to benefit a specific individual does not meet the standard of being for a public purpose."
+        ],
+        "conclusion": "The Supreme Court concluded that the order was not made for a public purpose because the object of the requisition was to benefit an individual. Based on this finding, the court held that the writ against the order was properly issued and dismissed the appeal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the decision of the Governor that the land is wanted for a public purpose is final.",
+      "appellant_arguments": [
+        "The opinion of the Provincial Government on whether there is a public purpose is final and cannot be questioned in any court of law."
+      ],
+      "respondent_arguments": [
+        "The Provincial Government has to act judicially in determining the public purpose, and its action is therefore subject to a writ of certiorari if it acts beyond its legal authority."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether a court of limited jurisdiction can give itself jurisdiction by a wrong decision on a point collateral to the merits of the case upon which the limit to its jurisdiction depends.",
+      "appellant_arguments": [
+        "Argument not found in the provided text."
+      ],
+      "respondent_arguments": [
+        "Argument not found in the provided text."
+      ],
+      "court_acceptance": "partly"
+    },
+    {
+      "issue_text": "Whether the Provincial Government was required to act judicially in determining the preliminary facts before exercising its administrative powers.",
+      "appellant_arguments": [
+        "The order in question was only administrative, not quasi-judicial."
+      ],
+      "respondent_arguments": [
+        "The Provincial Government has to act judicially in determining the public purpose."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a writ of certiorari can be issued against the appellant, which for its actions under the Ordinance, represents the Crown.",
+      "appellant_arguments": [
+        "A writ of certiorari does not lie against the Province of Bombay."
+      ],
+      "respondent_arguments": [
+        "A writ of certiorari can be issued against the Province of Bombay."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the order in question was made for a public purpose.",
+      "appellant_arguments": [
+        "The government's determination of a public purpose is a matter of its opinion and is final, and therefore cannot be questioned in court."
+      ],
+      "respondent_arguments": [
+        "The court can review whether the order was actually for a public purpose because the government is required to act judicially in making that determination."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Ordinance",
+        "section": "3",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Government of India Act, 1935",
+        "section": "Not specified",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Charter of the Supreme Court",
+        "section": "Clauses 4 and 13",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution Act",
+        "section": "176",
+        "used_by_court": true
+      },
+      {
+        "act_name": "General Clauses Act",
+        "section": "3(43)(a)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Unnamed",
+        "citation": "Not specified",
+        "principle": "Where a statute makes the exercise of power dependent on a Minister's opinion on matters of policy, the Minister is the sole judge of the matter, assuming he acts in good faith. This is contrasted with cases where the conditions for exercising power are objectively laid down in the statute.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Unnamed",
+        "citation": "Not specified",
+        "principle": "The controlling jurisdiction of the King's Bench Division, exercised through writs, is dependent on certain conditions being fulfilled.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Unnamed",
+        "citation": "[1931] A.C. 662, 671",
+        "principle": "When a legislature gives a tribunal jurisdiction to determine all facts, including the preliminary facts on which its further jurisdiction depends, and provides no appeal, then there is no appeal from such an exercise of its jurisdiction.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When a statute requires a determination that involves a conflict between public interest and an individual's rights, a 'lis' or controversy exists, which imposes a duty on the deciding authority to act judicially. The determination of statutory conditions, such as the existence of a \"public purpose,\" is not a matter of subjective opinion for the government but must be determined objectively. In the absence of express language, related components of a statute will not be interpreted anomalously, such as one part requiring objective determination while another is left to subjective opinion.",
+    "obiter": [
+      "When a power has been conferred in unambiguous language by Statute, the Courts cannot interfere with its exercise and substitute their own discretion for that of persons or bodies selected by the Legislature for the purpose."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the determination of whether a \"public purpose\" exists is not an objective, justiciable fact but is part of the subjective opinion of the Provincial Government. Based on a proper interpretation of the statute, the existence of a public purpose, as well as the necessity or expediency of requisitioning land, both become the subject-matter of the opinion of the Provincial Government. This makes the government's duty purely administrative, not quasi-judicial. Therefore, the government's decision on the matter is final and cannot be questioned or investigated by a court, provided it is exercised in good faith.",
+    "legal_tests_applied": [
+      "Where a regulation commits to an executive authority the decision of what is necessary or expedient, and that authority makes the decision, it is not competent for the Courts to investigate the grounds or the reasonableness of the decision in the absence of an allegation of bad faith.",
+      "In determining if a duty is administrative or quasi-judicial, the court considers when the rights of a person are affected. The determination of a public purpose per se does not affect rights; rights are only affected when the subsequent step of requisitioning is taken based on the government's opinion."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "If courts were to investigate the reasonableness of such executive decisions, it would mean that the Courts would be made responsible for carrying on the executive Government of this country on these important matters.",
+      "Parliament, which authorises this regulation, commits to the executive the discretion to decide and with that discretion if bona fide exercised no Court can interfere."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[2]": [
+      "p18_3f39ef2a"
+    ]
+  }
+}

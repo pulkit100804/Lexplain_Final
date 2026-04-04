@@ -1,0 +1,115 @@
+{
+  "procedural_history": {
+    "originating_court": "Chief Judicial Magistrate, Ranchi",
+    "impugned_order": "Order of the Patna High Court dated May 2, 1979, dismissing the appellant's revision petition against the Magistrate's order to summon the appellant to stand trial.",
+    "high_court_proceedings": "The appellant questioned the Magistrate's order before the Patna High Court at Ranchi in a revision petition. The High Court dismissed the petition.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by Special Leave against the order of the High Court dismissing the revision petition."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Proceedings quashed",
+    "sentence_status": "",
+    "directions": [
+      "Set aside the orders passed by the High Court and by the Magistrate.",
+      "Dismiss the application filed by the second respondent under section 319 of the Code."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a person, against whom a complaint was filed but was not proceeded against after an inquiry under Section 202 of the Code of Criminal Procedure, 1973, can be summoned at a later stage under Section 319 of the Code to stand trial for the same or connected offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "name": "Inquiry under Section 202 of the Code of Criminal Procedure, 1973",
+            "explanation": "An inquiry under Section 202 is a preliminary proceeding, not a trial. Its purpose is solely to determine if there is a valid foundation for a complaint that justifies issuing a summons to the person complained against. A person does not become an 'accused' at this stage, and the proceedings do not involve an adjudication of guilt or innocence."
+          },
+          {
+            "name": "Power to Summon under Section 319 of the Code of Criminal Procedure, 1973",
+            "explanation": "Section 319 grants a broad power to all criminal courts, exercisable during an inquiry or trial. It allows the court to summon and proceed against any person not already an accused if it appears from the evidence presented during the trial that this person has also committed an offense."
+          }
+        ],
+        "application": [
+          {
+            "step": 1,
+            "description": "The Court first established the distinct nature of the two legal provisions. It clarified that a proceeding under Section 202 is not a trial, but a preliminary inquiry to decide whether to issue a summons. A decision not to issue a summons at this stage is not a final judgment on the person's involvement."
+          },
+          {
+            "step": 2,
+            "description": "The Court then analyzed the power under Section 319. It noted that this power is specifically designed to be used during a trial when evidence emerges against a person who is not currently an accused. This power is triggered by the evidence led in court, which is a separate basis for action compared to the initial complaint."
+          },
+          {
+            "step": 3,
+            "description": "Because the Section 202 inquiry is not a trial and does not result in a final verdict, the Court found that legal principles like issue estoppel or double jeopardy do not act as a bar. The initial decision not to proceed is not a final acquittal that would prevent future action."
+          },
+          {
+            "step": 4,
+            "description": "Therefore, the Court reasoned that a court's earlier refusal to issue a summons after a Section 202 inquiry does not prevent it from later exercising its distinct power under Section 319. The latter action is based on fresh evidence that has come on record during the trial of the other accused."
+          }
+        ],
+        "conclusion": "The Supreme Court concluded that a person, against whom a complaint was filed but not proceeded against after a Section 202 inquiry, can be summoned at a later stage under Section 319 to stand trial. The Court reasoned that the two proceedings are fundamentally different; the Section 202 inquiry is a preliminary step, and the decision made at that stage does not create a legal bar to the court exercising its separate power under Section 319 based on evidence that emerges during the trial."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a person, against whom a complaint was filed but was not proceeded against after an inquiry under Section 202 of the Code of Criminal Procedure, 1973, can be summoned at a later stage under Section 319 of the Code to stand trial for the same or connected offence.",
+      "appellant_arguments": [
+        "The appellant likely argued that once the magistrate, after a preliminary inquiry under Section 202, decided not to proceed against them, they could not be summoned later in the same case under Section 319. The argument may have invoked the principle of finality or a concept similar to double jeopardy (autrefois acquit), suggesting that the initial decision not to proceed acted as a bar to subsequent summoning based on evidence from the trial of other co-accused."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that Section 319 of the Code confers an extraordinary and independent power on the court. This power allows the court to summon any person if it appears from the evidence led during the trial that such person has also committed the offence. This power is not restricted by an earlier decision not to issue process against that person after a Section 202 inquiry, as the summoning under Section 319 is based on new evidence that has come on record during the trial."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Code",
+        "section": "319",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Code",
+        "section": "202",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Joginder Singh v. State of Punjab",
+        "citation": "(1979) 1 S.C.C. 345",
+        "principle": "Section 319 of the Code gives ample powers to any court to take cognizance and add any person not being an accused before it and try him along with the other accused.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "If evidence is produced at any stage of a trial that satisfies the court that a person, who was not initially an accused or against whom proceedings were previously quashed, has also committed the offence, the court can take cognizance against them. This is an extraordinary power that must be used very sparingly and only for compelling reasons. The principle of autrefois acquit/convict does not bar the exercise of this power.",
+    "obiter": [
+      "A second complaint may be entertained in appropriate cases for extraordinary reasons, and the circumstances for doing so are not exhaustive."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A court's power under Section 319 of the Code of Criminal Procedure is an extraordinary and independent power. The mere fact that a magistrate previously declined to issue process against a person after an inquiry under Section 202, or even that proceedings were quashed against them, does not prevent the trial court from later summoning that person to face trial if, based on evidence led during the trial, it is fully satisfied that a case for taking cognizance against them has been made out.",
+    "legal_tests_applied": [
+      "The power under Section 319 is an \"extraordinary power which is conferred on the court and should be used very sparingly and only if compelling reasons exist for taking cognizance against the other person against whom action has not been taken.\"",
+      "The court can exercise this power if it \"is fully satisfied that a case for taking cognizance against them has been made out on the additional evidence led before it.\""
+    ],
+    "why_appellant_lost": [
+      "The appellant's core legal contention—that the magistrate lacked the power to summon him under Section 319 after initially declining to issue process—was rejected. The Court explicitly found: \"it cannot be said that the magistrate had no power to proceed against the appellant in this case.\"",
+      "The Court further validated the magistrate's decision on the merits of the evidence, stating, \"the magistrate had good reason to summon the appellant under section 319 of the Code as it appears from the evidence led at the trial that there was a strong case made out against the appellant for joining him in the criminal case as an accused.\""
+    ],
+    "why_respondent_won": [
+      "The respondent's argument, that Section 319 provides an independent power to summon an accused based on trial evidence, was affirmed. The Court endorsed the principle that \"if the prosecution can at any stage produce evidence· which satisfies the court that the other accused or those who have not been arrayed as accused against whom proceedings have been quashed have also committed the offence the Court can take cognizance against them and try them along with other accused.\""
+    ],
+    "policy_considerations": [
+      "Despite agreeing with the High Court on the legal power to summon the appellant, the Supreme Court quashed the proceedings due to supervening events and in the \"interests of industrial peace.\" The specific factors considered were: a settlement had been reached between the employer and the employees' association, the second respondent had filed an application to withdraw the original complaint, and another employee involved had been reinstated after an acquittal."
+    ]
+  },
+  "evidence_map": {}
+}

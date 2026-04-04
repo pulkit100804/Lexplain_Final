@@ -1,0 +1,98 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the text 'Trial Court is restored')",
+    "impugned_order": "Judgment and order of the High Court (allowing an appeal by respondent no. 2)",
+    "high_court_proceedings": "Respondent no. 2 (Complainant) preferred an appeal before the High Court against an unspecified order. The High Court allowed the appeal, leading to the Supreme Court case.",
+    "supreme_court_posture": "The Supreme Court allowed the appeal, set aside the High Court's order, and restored the order of the Trial Court."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "Acquittal by the Trial Court is restored.",
+    "sentence_status": "",
+    "directions": [
+      "The impugned order of the High Court is set aside.",
+      "The order of the Trial Court is restored."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether there is a mandate to decide an application under Section 319 of the Code of Criminal Procedure, 1973 before the cross-examination of other witnesses, based solely on the examination-in-chief.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "During a trial, after the examination-in-chief of the victim and her parents was recorded, an application was filed under Section 319 CrPC to summon the accused's parents.",
+          "The prosecution witnesses then refused to be cross-examined, insisting that the Section 319 application be decided first.",
+          "The Trial Court, after the witnesses repeatedly failed to appear for cross-examination, acquitted the accused for lack of evidence and rejected the Section 319 application.",
+          "The High Court reversed this decision, interpreting the precedent in *Hardeep Singh vs. State of Punjab & Ors.* as a mandate to decide the application before cross-examination."
+        ],
+        "law": [
+          "Section 319 of the Code of Criminal Procedure, 1973, allows a court to summon additional accused during a trial if evidence suggests their involvement.",
+          "The precedent case, *Hardeep Singh*, established that an examination-in-chief is considered evidence and can be sufficient grounds for a court to exercise its power under Section 319, without needing to wait for cross-examination."
+        ],
+        "application": [
+          "The Supreme Court clarified that the *Hardeep Singh* judgment does not create a mandatory rule; it only confirms that a court *can* act on the basis of an examination-in-chief alone.",
+          "The judgment does not remove the Trial Court's discretion to wait for cross-examination before deciding the application. The decision rests on the Trial Court's satisfaction with the material on record.",
+          "The Court found that the High Court had misinterpreted *Hardeep Singh* by treating it as a strict mandate.",
+          "It was held that the complainant has no right to stall the trial by refusing cross-examination and insisting on a prior decision of the Section 319 application.",
+          "Therefore, the Trial Court was correct in proceeding to acquit the accused for lack of evidence when the prosecution witnesses refused to be cross-examined, and consequently, it was also correct in rejecting the Section 319 application."
+        ],
+        "conclusion": "The Supreme Court rejected the issue, holding that there is no mandate to decide an application under Section 319 CrPC before the cross-examination of witnesses. The Trial Court has the discretion to decide whether to wait for cross-examination or to rule based solely on the examination-in-chief."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether there is a mandate to decide an application under Section 319 of the Code of Criminal Procedure, 1973 before the cross-examination of other witnesses, based solely on the examination-in-chief.",
+      "appellant_arguments": [
+        "The counsel for the accused-appellant was ready to cross-examine the prosecution witnesses and argued that the trial should proceed without being halted for the Section 319 application to be decided first."
+      ],
+      "respondent_arguments": [
+        "The complainant and prosecution witnesses insisted that the application under Section 319 CrPC must be decided first, based on the examination-in-chief, and refused to face cross-examination until a decision was made on it."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "319",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hardeep Singh vs. State of Punjab & Ors.",
+        "citation": "[2014] 2 SCR 1 : (2014) 3 SCC 92",
+        "principle": "The power under Section 319 CrPC can be exercised at the stage of completion of examination-in-chief, and the court does not need to wait until the said evidence is tested in cross-examination.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Once an examination-in-chief is conducted, the statement becomes part of the record and is considered evidence in law. This evidence is material on the basis of which a court can form a prima facie opinion as to the complicity of any other person who may be connected with the offense.",
+    "obiter": [
+      "The rebuttal or controversion of evidence is a matter of consideration, relevance, and belief, which occurs at the stage of judgment by the court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A complainant does not have a mandatory right to insist that an application under Section 319 CrPC be decided based solely on examination-in-chief before witnesses are cross-examined. While the court has the power to act on the basis of examination-in-chief as it constitutes evidence, it is not a mandate, and a complainant cannot dictate the procedure of the trial by having witnesses refuse to face cross-examination.",
+    "legal_tests_applied": [
+      "The court applied the principle from the Constitution Bench decision in Hardeep Singh v. State of Punjab, which holds that an examination-in-chief is 'evidence as per law' and 'material on the basis whereof the court can come to a prima facie opinion as to complicity of some other person' for the purposes of Section 319 CrPC. However, the court clarified this principle does not create a mandatory procedural obligation on the trial court to decide the application before cross-examination."
+    ],
+    "why_appellant_lost": [
+      "The complainant has no mandatory right to insist that an application under Section 319 CrPC be decided before the trial proceeds with cross-examination.",
+      "The prosecution witnesses repeatedly failed to present themselves for cross-examination, instead insisting that the Section 319 application be decided first, which was an improper attempt to control the trial proceedings.",
+      "The role of the complainant in a trial does not permit them to act as a Public Prosecutor on behalf of the State, especially when the actual Public Prosecutor did not support the filing of the application."
+    ],
+    "why_respondent_won": [
+      "The High Court had incorrectly interpreted the decision in Hardeep Singh (supra) as a 'mandate' that an application under Section 319 CrPC must necessarily be decided based only on the examination-in-chief, even if cross-examination has not been conducted."
+    ],
+    "policy_considerations": [
+      "A complainant cannot be permitted to dictate the procedure of a criminal trial or hold it hostage by having witnesses refuse to be cross-examined until a procedural application is decided in a particular manner."
+    ]
+  },
+  "evidence_map": {}
+}

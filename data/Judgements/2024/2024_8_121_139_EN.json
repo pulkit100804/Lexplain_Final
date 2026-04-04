@@ -1,0 +1,142 @@
+{
+  "procedural_history": {
+    "originating_court": "A complaint case was moved for the offence punishable u/s. 138 of the Negotiable Instruments Act, 1881. (This would have been a lower court, likely a Magistrate Court or similar, but the specific name isn't provided).",
+    "impugned_order": "Judgment and Order dated 03.03.2023 of the High Court of Karnataka at Kalaburagi in CRLA No. 200139 of 2019.",
+    "high_court_proceedings": "The High Court of Karnataka at Kalaburagi affirmed the acquittal of the respondent in a complaint case.",
+    "supreme_court_posture": "The Appellant approached the Supreme Court challenging the High Court's judgment dated 03.03.2023, which had affirmed the acquittal of the respondent. The Supreme Court dismissed the appeal and affirmed the findings of the High Court."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Acquittal affirmed",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court had rightly affirmed the acquittal of the respondent in a complaint case moved for the offence punishable u/s. 138 of the Negotiable Instruments Act, 1881 by its judgment dated 03.03.2023.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant (complainant) alleged that he had loaned two lakh rupees to the respondent.",
+          "The respondent issued a cheque as a guarantee for repayment, which was subsequently dishonoured for \"insufficient funds\".",
+          "The appellant filed a complaint under Section 138 of the Negotiable Instruments Act, 1881 (NI Act).",
+          "The Trial Court acquitted the respondent, and the High Court affirmed this acquittal."
+        ],
+        "law": [
+          "Under Section 139 of the NI Act, there is a presumption that a cheque was issued for the discharge of a legally enforceable debt or liability.",
+          "This presumption is rebuttable. The accused does not need to prove their case beyond a reasonable doubt but must cast a probable doubt on the existence of the debt through a 'preponderance of probabilities'.",
+          "The Supreme Court will not ordinarily interfere with concurrent findings of acquittal by lower courts unless there is clear perversity or compelling reasons to do so."
+        ],
+        "application": [
+          "The Supreme Court found that the respondent had successfully rebutted the presumption under Section 139 of the NI Act by casting significant doubt on the appellant's case.",
+          "The Court noted several weaknesses and contradictions in the appellant's evidence, which were rightly identified by the lower courts:",
+          "1. **Lack of Financial Capacity:** The appellant failed to prove he had the financial capacity to advance such a loan and had not declared it in his Income Tax Returns.",
+          "2. **Contradictory Evidence:** There were contradictions in the appellant's statements, particularly regarding when the cheque was issued.",
+          "3. **Dubious Agreement:** An agreement presented by the appellant was on a stamp paper, whereas the respondent claimed to have signed a blank white paper, creating doubt about the document's authenticity.",
+          "4. **Unexplained Possession:** The appellant could not explain how a cheque, allegedly issued by the respondent to a third party, came into his possession.",
+          "Because the respondent was able to create a 'shadow of doubt' on the existence of a legally recoverable debt, the burden shifted back to the appellant, who failed to prove his case."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court had rightly affirmed the respondent's acquittal. It found no perversity in the concurrent findings of the lower courts. The respondent had successfully rebutted the statutory presumption under Section 139 of the NI Act by highlighting significant doubts and contradictions in the appellant's claim. Therefore, the appeal was dismissed, and the High Court's judgment was upheld."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court had rightly affirmed the acquittal of the respondent in a complaint case moved for the offence punishable u/s. 138 of the Negotiable Instruments Act, 1881 by its judgment dated 03.03.2023.",
+      "appellant_arguments": [
+        "The respondent had intentionally cheated the appellant, as a cheque issued by the respondent was dishonoured.",
+        "The cheque was issued at the time of advancing the loan as a security."
+      ],
+      "respondent_arguments": [
+        "The accusations are false and the alleged loan was never advanced.",
+        "The appellant's complaint was bereft of pertinent details of the loan transaction, such as the date and time of the debt's advancement.",
+        "The appellant failed to lead cogent evidence to prove their financial capacity to advance the loan when it was questioned.",
+        "There was a contradiction in the appellant's statements regarding when the cheque was presented (i.e., whether it was issued as security at the time of the loan or presented upon a later demand for repayment)."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "118",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "139",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "140",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hiten P. Dalal v. Bratindranath Banerjee",
+        "citation": "[2001] 3 SCR 900 : (2001) 6 SCC 16",
+        "principle": "In relation to the deemed fiction arising from Sections 118, 139 and 140 of the NI Act, 1881.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "K.N. Beena v. Muniyappan and Another",
+        "citation": "[2001] Supp. 4 SCR 374 : (2001) 8 SCC 458",
+        "principle": "To articulate the deemed fiction that arises from a comprehensive reference to Sections 118, 139 and 140 of the NI Act, 1881.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Babu v. State of Kerala",
+        "citation": "[2010] 9 SCR 1039 : (2010) 9 SCC 189",
+        "principle": "In relation to the deemed fiction arising from Sections 118, 139 and 140 of the NI Act, 1881.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When the facts required to form the basis of a legal presumption are established, the court has no discretion and must draw the statutory conclusion, unless the contrary is proven.",
+    "obiter": [
+      "A challenge against concurrent findings of fact that favour an acquittal requires an analysis of the principles that underline the exercise of the power to adjudicate such a challenge."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In furtherance of the principles governing challenges to concurrent acquittals, the present challenge to the impugned judgment by the High Court is bereft of any merits and does not call for any interference from this court.",
+    "legal_tests_applied": [
+      "In cases of concurrent findings of acquittal, the Supreme Court will ordinarily not interfere unless perversity is blatantly forthcoming and there are compelling reasons.",
+      "Where two views are possible, the Court would not ordinarily interfere and reverse concurrent findings of acquittal.",
+      "The Court will interfere with a concurrent acquittal only if the situation is such that the only conclusion which could be arrived at from a comprehensive appraisal of evidence shows that there has been a grave miscarriage of justice.",
+      "Interference is necessitated to safeguard interests of justice when the acquittal is based on some irrelevant grounds or fallacies in re-appreciation of any fundamental evidentiary material or a manifest error of law or in cases of non-adherence to the principles of natural justice or the decision is manifestly unjust."
+    ],
+    "why_appellant_lost": [
+      "The appellant failed to meet the high threshold required to overturn concurrent findings of acquittal, as the challenge was found to be bereft of any merits when measured against the established principles for interference.",
+      "The appellant did not demonstrate that the lower courts' decisions were perverse, resulted in a grave miscarriage of justice, or were based on a manifest error of law, which are the necessary conditions for the Supreme Court's intervention in such matters."
+    ],
+    "why_respondent_won": [
+      "The respondent's acquittal was reinforced by the 'double presumption' of innocence that arises from concurrent favourable findings from two courts.",
+      "The Supreme Court adhered to its principle of not interfering with concurrent acquittals, especially when two views of the evidence are possible and no compelling reasons to the contrary are presented."
+    ],
+    "policy_considerations": [
+      "Criminal jurisprudence emphasises on the fundamental essence of liberty and presumption of innocence unless proven guilty, a presumption that gets emboldened by virtue of concurrent findings of acquittal.",
+      "The Court must be extra-cautious while dealing with a challenge against acquittal as the said presumption gets reinforced by virtue of a well-reasoned favourable outcome.",
+      "The principle of liberty enshrined in Article 21 of the Constitution of India 1950 counsels against ordinary interference with concurrent findings of acquittal."
+    ]
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p1_aaed7e9e"
+    ],
+    "arguments[0].issue_text": [
+      "p1_aaed7e9e"
+    ],
+    "citations.cases[1].citation": [
+      "p15_45386baf"
+    ],
+    "judicial_reasoning.policy_considerations[0]": [
+      "p17_2ee60a6b"
+    ]
+  }
+}

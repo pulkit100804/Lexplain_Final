@@ -1,0 +1,60 @@
+{
+  "case_id": "4ebd281c-3d4b-4954-9687-5d34f9c8abc9",
+  "tenant_id": "test_run_7",
+  "agent": "agent_4b_event_builder",
+  "input_refs": [
+    "role_tagged_graph.json",
+    "entities.json"
+  ],
+  "created_at": "2026-03-20T05:48:10.321245+00:00",
+  "events": [
+    {
+      "event_id": "evt_001",
+      "event_type": "action",
+      "actor": "accused",
+      "action": "hit",
+      "target": "victim",
+      "object": "wooden stick",
+      "time": null,
+      "location": null,
+      "description": "During a heated argument, the accused picked up a wooden stick and hit the victim on the head.",
+      "source_node_id": "n_001"
+    },
+    {
+      "event_id": "evt_002",
+      "event_type": "state",
+      "actor": null,
+      "action": "died",
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": "the hospital",
+      "description": "The victim collapsed and later died in the hospital.",
+      "source_node_id": "n_002"
+    },
+    {
+      "event_id": "evt_003",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "No prior enmity was reported.",
+      "source_node_id": "n_003"
+    },
+    {
+      "event_id": "evt_004",
+      "event_type": "context",
+      "actor": "witness",
+      "action": null,
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "A witness stated the accused acted in anger.",
+      "source_node_id": "n_004"
+    }
+  ]
+}

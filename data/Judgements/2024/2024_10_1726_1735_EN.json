@@ -1,0 +1,118 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred, as the High Court remanded the matter to it)",
+    "impugned_order": "Judgment and Order dated 01.11.2023 of the High Court of Judicature at Allahabad in CRLA No. 4982, 5346 and 5347 of 2019",
+    "high_court_proceedings": "The High Court remanded the matter to the Trial Court, giving liberty to the accused to cross-examine a prosecution witness and allowing the prosecution to lead further evidence in the form of formal witnesses.",
+    "supreme_court_posture": "The informant, aggrieved by the High Court's order of remand, appealed to the Supreme Court. The Supreme Court allowed the appeals, set aside the High Court's judgment, and restored the criminal appeals before the High Court to be heard and decided afresh on merits based on the material on record. The Supreme Court found no error in the judgment of the Trial Court considering the defence repeatedly continued to admit the genuineness of the prosecution documents exempting them from formal proof."
+  },
+  "decision": {
+    "appeal_result": "Appeals allowed.",
+    "conviction_status": "The private respondents stand convicted under the order of the Trial Court.",
+    "sentence_status": "To surrender within six weeks before the Trial Court, with the liberty to apply for suspension of sentence before the High Court.",
+    "directions": [
+      "The impugned judgment and order of the High Court is set aside.",
+      "The criminal appeals are restored before the High Court to be heard and decided afresh on merits on the basis of material on record.",
+      "The private respondents in all the three appeals who stand convicted under the order of the Trial Court, would surrender within six weeks before the Trial Court.",
+      "It would be open for them to apply for suspension of sentence before the High Court on admissible grounds in accordance to law, which application would be considered on its own merits uninfluenced by any observations made in this order."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court fell in error in remanding the matter to Trial Court and giving liberty to the accused to cross-examine a prosecution witness and allowing the prosecution to lead further evidence in the form of formal witnesses.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "At the trial, the defence counsel for the accused repeatedly admitted the genuineness of police papers and other documents filed by the prosecution.",
+          "By admitting these documents, the defence dispensed with the need for the prosecution to formally prove them through witnesses.",
+          "The defence counsel even opposed the prosecution's attempts on two separate occasions to recall witnesses to formally prove these documents.",
+          "The Trial Court convicted the accused.",
+          "On appeal, the High Court set aside the conviction and remanded the case back to the Trial Court.",
+          "The High Court's reasoning was that the accused did not receive a 'fair trial' because their counsel had admitted the documents. It gave the accused a new opportunity to cross-examine a prosecution witness (PW 2) and allowed the prosecution to bring in formal witnesses to prove the documents that had previously been admitted."
+        ],
+        "law": [
+          "The key legal provision is Section 294(3) of the Code of Criminal Procedure (CrPC).",
+          "This section states that where the genuineness of any document is not disputed, it may be read as evidence in a trial without requiring formal proof of the signature or the document itself.",
+          "The purpose of this provision is to expedite the trial process by avoiding unnecessary examination of formal witnesses for documents that are not in dispute."
+        ],
+        "application": [
+          "The Supreme Court found that the defence counsel's admission of the documents was not an error or an oversight, but a deliberate and repeated strategic choice made during the trial.",
+          "The Court applied Section 294(3) of the CrPC directly to the facts, noting that since the defence had not disputed the genuineness of the documents, the Trial Court was correct to accept them into evidence without formal proof.",
+          "The Supreme Court held that the High Court's reliance on the principle of a 'fair trial' was misplaced. A strategic decision made by the defence cannot later be used to claim the trial was unfair, especially when the defence actively opposed the prosecution's efforts to formally prove the documents.",
+          "The Court also distinguished the precedent (*Munna Pandey vs. State of Bihar*) relied upon by the High Court, stating that the issue in that case was a failure to confront witnesses with their prior statements, which is a different procedural matter than the deliberate admission of documents under Section 294.",
+          "The Court reasoned that allowing the High Court's order to stand would render Section 294 CrPC 'redundant and otiose,' as parties could simply admit documents and then later seek a remand by claiming an unfair trial."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court had erred in remanding the matter. The defence had made a conscious decision to admit the documents under Section 294 CrPC, and this could not be undone on the grounds of an 'unfair trial'. The Supreme Court therefore set aside the High Court's judgment and ordered it to rehear the appeal and decide it on its merits based on the evidence already on record."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court fell in error in remanding the matter to Trial Court and giving liberty to the accused to cross-examine a prosecution witness and allowing the prosecution to lead further evidence in the form of formal witnesses.",
+      "appellant_arguments": [
+        "The High Court erred in remanding the matter for further trial.",
+        "The prosecution had repeatedly requested the Trial Court to allow them to produce formal witnesses, but the defence counsel's strong opposition led the Trial Court to reject this request.",
+        "The remand was unjustified because the defence had taken a specific and repeated stand in the Trial Court, admitting the genuineness of the prosecution's documents, which dispensed with the need for their formal proof."
+      ],
+      "respondent_arguments": [
+        "The High Court's judgment to remand the case was correct and should be supported.",
+        "The accused did not get a fair trial because their counsel at the Trial Court had admitted the genuineness of documents filed by the prosecution, thereby dispensing with their formal proof.",
+        "Considering the principles of a fair trial, the Supreme Court should not interfere with the High Court's remand order."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "294",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Shamsher Singh Verma vs. State of Haryana",
+        "citation": "[2015] 12 SCR 234 : (2016) 15 SCC 485",
+        "principle": "Where the genuineness of a document is not disputed, it may be read in evidence in any inquiry, trial, or other proceeding without proof of the signature of the person to whom it purports to be signed, as per Section 294(3) of the CrPC.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Akhtar vs. State of Uttaranchal",
+        "citation": "[2009] 5 SCC 771 : (2009) 13 SCC 722",
+        "principle": "Where the genuineness of a document is not disputed, it may be read in evidence in any inquiry, trial, or other proceeding without proof of the signature of the person to whom it purports to be signed, as per Section 294(3) of the CrPC.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The failure of the defense to cross-examine a prosecution witness does not constitute a fatal illegality that necessitates remanding the case for a retrial; the appellate court should instead decide the appeal on its merits based on the material already on record.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court erred in remanding the case because the defense had repeatedly and consistently admitted the genuineness of the prosecution's documents during the trial. This admission exempted the prosecution from the need to formally prove those documents. As a result, the only task left for the court was to evaluate the credit-worthiness of the evidence already on record to determine if the charges were established beyond a reasonable doubt. Remanding for further evidence and cross-examination was therefore unnecessary and improper.",
+    "legal_tests_applied": [
+      "When the genuineness of prosecution documents is repeatedly admitted by the defense, the requirement for their formal proof is dispensed with, and the court's role is limited to appreciating the existing evidence on record."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A general appeal to the principles of a 'fair trial' cannot be used to justify a remand when the situation necessitating it arose from the defense's own deliberate and repeated strategic decision to admit the genuineness of evidence, thereby waiving the need for its formal proof."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[2]": [
+      "p10_7c6733e4"
+    ],
+    "issues[0].issue.issue_text": [
+      "p1_b6377c9f"
+    ],
+    "arguments[0].issue_text": [
+      "p1_b6377c9f"
+    ],
+    "citations.cases[0].case_name": [
+      "p8_1da41e2d"
+    ]
+  }
+}

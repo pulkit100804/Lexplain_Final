@@ -1,0 +1,114 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a lower court where the First Information Report (FIR) was filed and investigation initiated.",
+    "impugned_order": "Order dated 18.10.2014 by the High Court of Judicature at Hyderabad for the State of Telangana and the State of Andhra Pradesh in Criminal Petition No. I 0012of2014.",
+    "high_court_proceedings": "The High Court initially expressed disinclination to interfere with the investigation. However, due to allegations of false implication of the accused, the High Court directed the police not to arrest the petitioners (accused) during the pendency of the investigation.",
+    "supreme_court_posture": "The Appellant appealed to the Supreme Court. The Supreme Court allowed the appeal, set aside the impugned order of the High Court, and directed that the investigation proceed in accordance with the law. The Supreme Court clarified that it had not expressed any opinion on the allegations in the FIR."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "set aside the impugned order of the High Court",
+      "the investigation shall proceed in accordance with law",
+      "Be it clarified that we have not expressed anything on any of the aspects alieged in the First Information Report."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court, while refusing to exercise its inherent powers under Section 482 of the CrPC to quash an investigation, can direct the investigating agency not to arrest the accused during the investigation.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court was asked to use its inherent powers under Section 482 of the CrPC to quash a First Information Report (FIR) and the resulting investigation.",
+          "The High Court noted that the investigation was in progress and decided it was not appropriate to stay or quash it.",
+          "Despite refusing to quash the investigation, the High Court directed the investigating agency not to arrest the accused persons during the pendency of the investigation."
+        ],
+        "law": [
+          "Section 482 of the CrPC grants the High Court wide inherent powers to prevent the abuse of the process of any court or to secure the ends of justice.",
+          "This power must be exercised sparingly, with caution, and only in the rarest of rare cases.",
+          "Section 438 of the CrPC is the specific statutory provision that allows a court to grant anticipatory bail, which is a direction to release a person on bail in the event of an arrest.",
+          "An order protecting an accused from arrest is in the nature of an anticipatory bail."
+        ],
+        "application": [
+          "The Supreme Court determined that the High Court's direction not to arrest the accused \"amounts to an order under Section 438 CrPC\" (anticipatory bail).",
+          "However, the High Court issued this direction without satisfying the conditions and procedures required for granting relief under Section 438 CrPC.",
+          "The Court found it contradictory and legally unacceptable for the High Court to simultaneously decline to interfere with the investigation but then grant a protective order that hinders it.",
+          "It was held that such a direction does not fall within the legitimate scope of Section 482 CrPC, Section 438 CrPC, or Article 226 of the Constitution.",
+          "The Supreme Court described this type of order as \"inconceivable and unthinkable,\" \"legally unacceptable,\" and \"totally unsustainable.\""
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's decision, holding that a High Court cannot, while refusing to quash an investigation under Section 482 CrPC, simultaneously direct the investigating agency not to arrest the accused. Such an order improperly grants a relief equivalent to anticipatory bail without following the specific legal provisions for it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court, while refusing to exercise its inherent powers under Section 482 of the CrPC to quash an investigation, can direct the investigating agency not to arrest the accused during the investigation.",
+      "appellant_arguments": [
+        "The High Court cannot issue a direction to the police not to arrest an accused while refusing to quash the investigation, as such an order is not permissible in law.",
+        "The High Court's direction is not in consonance with the statutory provisions of the CrPC, particularly the principles governing anticipatory bail under Section 438."
+      ],
+      "respondent_arguments": [
+        "The High Court has wide and plenary powers under Section 482 CrPC to pass an order directing the police not to arrest the accused.",
+        "Custodial interrogation is not necessary in the facts of the case, justifying the High Court's order."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 226",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "The Constitution Bench decision on FIR registration",
+        "citation": "[2013] 14 SCR 713",
+        "principle": "That an FIR was lodged and registered at the instance of the informant, which is in accord with the directions issued by the Constitution Bench.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Bay Berry Apartments (P) Ltd. v. Shobha",
+        "citation": "",
+        "principle": "A court of law has to act within the statutory command and not deviate from it. What cannot be done directly, cannot be done indirectly. While exercising a statutory power a court is bound to act within the four corners thereof.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "U.P. State Brassware Corpn. Ltd. v. Uday Narain Pandey",
+        "citation": "",
+        "principle": "A court of law has to act within the statutory command and not deviate from it. What cannot be done directly, cannot be done indirectly. While exercising a statutory power a court is bound to act within the four corners thereof.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A court's direction to admit an accused person to bail upon their surrender has no sanction in law, as a court must act within its statutory command and such an order curtails the power of the regular court designated to handle bail applications.",
+    "obiter": [
+      "A court of law has to act within the statutory command and not deviate from it.",
+      "What cannot be done directly, cannot be done indirectly.",
+      "The court's functions begin when a charge is preferred before it and not until then."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A High Court, while exercising its inherent powers under Section 482 of the CrPC, cannot issue a direction to the investigating agency not to arrest an accused if it is simultaneously refusing to quash the investigation. Such a direction is legally unacceptable because it \"amounts\" to an order of anticipatory bail under Section 438 CrPC, but is passed without satisfying the conditions of that specific statutory provision. This constitutes an impermissible circumvention of the law, as a court cannot do indirectly what it is barred from doing directly.",
+    "legal_tests_applied": [
+      "The principle of separation of functions, which dictates that the judiciary should not interfere with the police in matters that are within their province, such as the statutory right to investigate a cognizable crime. The functions of the judiciary and police are complementary, not overlapping.",
+      "The rule that a court of law, when exercising a statutory power, must act within the four corners of that statute and cannot deviate from its command.",
+      "The legal maxim that what cannot be done directly cannot be done indirectly. A court cannot use its inherent powers under Section 482 to grant a relief (protection from arrest) that is specifically governed by another provision (Section 438) without following the procedure of that provision."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Passing orders that direct police not to arrest an accused jeopardises the interest of the collective at large and that of individual victims, and it also curtails the power of the regular court that deals with bail applications.",
+      "It is the duty of a Judge to sustain the judicial balance and avoid issuing orders that can cause trauma to the process of adjudication. The culture of adjudication is stabilized when intellectual discipline is maintained and precedents are followed, not avoided through 'intellectual truancy'.",
+      "A delicate balance must be maintained between the interest of society and the liberty of an individual, and the Code of Criminal Procedure already provides sufficient safeguards (such as the provisions for anticipatory bail) to protect individual liberty."
+    ]
+  },
+  "evidence_map": {}
+}

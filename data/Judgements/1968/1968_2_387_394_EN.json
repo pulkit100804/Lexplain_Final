@@ -1,0 +1,132 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial court in Hyderabad (inferred from the conviction under the Hyderabad Act)",
+    "impugned_order": "Judgment and order dated August 4, 1964, of the Andhra Pradesh High Court in Criminal Revision Case No. 479 of 1964, which accepted the Sessions Judge's recommendation to quash the conviction and set aside the sentences.",
+    "high_court_proceedings": "The Sessions Judge, Secunderabad, made a reference to the High Court under s. 438 of the Code of Criminal Procedure, recommending the quashing of the conviction and setting aside of the sentences. A single Judge in the High Court accepted this recommendation.",
+    "supreme_court_posture": "The State of Andhra Pradesh appealed to the Supreme Court by special leave against the High Court's judgment. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "The appeal fails and is dismissed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the premises of a members' club, where the game of Rummy is played for stakes, can be classified as a 'common gambling house' under the Hyderabad Gambling Act if the club itself does not make any profit or gain from the game.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The State contended that a members' club was a 'common gambling house' because it levied several charges on members playing the game of Rummy.",
+          "These charges included: a fee of 5 points per game, an extra charge of Rs. 3 for playing cards, a sitting fee of Re. 1 per person, and a late fee for playing beyond a certain time."
+        ],
+        "law": [
+          "Under the Hyderabad Gambling Act, a 'common gambling house' is a place where the owner or occupier makes a 'profit or gain' from the use of the premises for gambling."
+        ],
+        "application": [
+          "The Supreme Court analyzed each of the charges levied by the club to determine if they constituted a 'profit or gain'.",
+          "The Court found that the most serious allegation, a charge of 5 points per game, was not proven by the evidence.",
+          "It reasoned that the late fee was not for profit, but was a necessary charge to cover the extra costs of staff overtime and other amenities for members using the premises beyond scheduled hours.",
+          "The Court compared the extra charge for playing cards to fees for other club games like billiards or ping-pong, concluding that such a charge (unless extravagant) does not indicate the club is making a profit.",
+          "After examining the club's account books, the Court found the sitting fee was actually 50 paise per person, which it considered not to be a heavy charge and not an attempt to make a profit."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the club was a 'common gambling house'. It concluded that the various fees charged by the club were not for making a profit or gain, but were reasonable charges to cover the costs of the amenities and services provided to its members. Since the essential element of making a 'profit or gain' was not established, the club did not fall under the definition of a 'common gambling house'."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the game of Rummy is a game of mere skill and thus exempt from the provisions of the Hyderabad Gambling Act.",
+        "court_answer": "not decided"
+      },
+      "reasoning": {
+        "facts": [
+          "Police raided a club and found several people playing the card game 'Rummy' for stakes.",
+          "The club levied several charges: a sitting fee, an extra charge for playing cards, and a late fee for playing beyond a certain time.",
+          "The lower trial court convicted the accused, but the Sessions Judge recommended acquittal on two grounds: 1) Rummy is a game of skill, and 2) the club was not a 'common gambling house' as it was not making a profit."
+        ],
+        "law": [
+          "Section 14 of the Hyderabad Gambling Act states that the Act does not apply to any game of 'mere skill'.",
+          "The Act's prohibitions apply to a 'common gambling house', which is a place that makes a profit or gain from the gambling activity."
+        ],
+        "application": [
+          "The High Court, in acquitting the accused, did not express an opinion on whether Rummy was a game of skill.",
+          "Instead, the High Court based its decision entirely on the second point: that the club was not a 'common gambling house' because the fees it charged were not for profit or gain.",
+          "The Supreme Court affirmed the High Court's decision on the same grounds, finding that the club was not a common gambling house.",
+          "Although the Supreme Court's final judgment did not rest on this issue, it did express its own view on the nature of the game.",
+          "The Court stated that Rummy is not a game of entire chance, but is \"mainly and preponderantly a game of skill,\" as it requires skill in memorizing, holding, and discarding cards."
+        ],
+        "conclusion": "The Supreme Court did not formally decide the case on the issue of whether Rummy is a game of skill. The acquittal was based on the finding that the club was not a 'common gambling house'. However, the Court did state its opinion that Rummy is preponderantly a game of skill, not chance."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the premises of a members' club, where the game of Rummy is played for stakes, can be classified as a 'common gambling house' under the Hyderabad Gambling Act if the club itself does not make any profit or gain from the game.",
+      "appellant_arguments": [
+        "The appellant argued that the club should be considered a common gambling house, relying on the presumption under Section 7 of the Act, which arises from the presence of instruments of gaming."
+      ],
+      "respondent_arguments": [
+        "The club was not making a profit from the game; the charges collected were only for the use of cards, furniture, and the room. Therefore, the premises did not meet the definition of a 'common gambling house'."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the game of Rummy is a game of mere skill and thus exempt from the provisions of the Hyderabad Gambling Act.",
+      "appellant_arguments": [
+        "The appellant (prosecution) implicitly argued that Rummy was not a game of mere skill and therefore was not exempt from the Gambling Act."
+      ],
+      "respondent_arguments": [
+        "Rummy is a game of mere skill, as established by previous High Court decisions, and is therefore exempt from the Act under Section 14, which states that the Act does not apply to any game of mere skill."
+      ],
+      "court_acceptance": "not decided"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "the Gambling Act",
+        "section": "4",
+        "used_by_court": true
+      },
+      {
+        "act_name": "the Gambling Act",
+        "section": "6",
+        "used_by_court": true
+      },
+      {
+        "act_name": "the Gambling Act",
+        "section": "7",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An offense of gambling is not established when a game of mere skill is played, even for stakes, unless there is evidence that the owner of the house or club is making a profit or gain from the game, or there is evidence of gambling in some other manner.",
+    "obiter": [
+      "A charge for the use of club amenities like cards, furniture, and light, which covers extra remuneration for staff and other incurred expenditures beyond club hours, is usual in most clubs, a fact of which judicial notice can be taken."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the club was not a 'common gambling house' because the evidence did not establish that the club was making a 'profit or gain' from the game of Rummy. The various charges levied on the players were found to be service charges to cover the costs of amenities like cards, furniture, room use, and extra remuneration for staff working overtime, which are usual in most clubs, rather than a mechanism for the club to profit from the game itself.",
+    "legal_tests_applied": [
+      "The definition of a 'common gambling house' under the Hyderabad Gambling Act, which requires that the owner or occupier makes a profit or gain from the game.",
+      "The evidentiary presumption under Section 7 of the Hyderabad Gambling Act, which arises from the presence of instruments of gaming, and whether it has been successfully repelled by other evidence."
+    ],
+    "why_appellant_lost": [
+      "The appellant's arguments that various charges (a 5-point charge per game, extra charges for cards, a sitting fee, and a late fee) constituted profit or gain for the club were rejected by the court.",
+      "The court found that the presumption under Section 7 of the Gambling Act, even if it arose, was 'successfully repelled by the evidence which has been led, even on the side of the prosecution.'"
+    ],
+    "why_respondent_won": [
+      "The court accepted the respondent's position that the club was not making a profit, but was 'only charging something for the use of cards and the furniture and the room in the club by the players'.",
+      "The evidence demonstrated that the charges were to cover expenses, such as extra remuneration for staff who had to be paid overtime and expenditure on light and other amenities incurred beyond club hours.",
+      "The court concluded that the essential elements of the club 'making a profit or gain from the game of Rummy' were missing in the case."
+    ],
+    "policy_considerations": [
+      "The court took 'judicial notice of the fact' that levying service charges for amenities and staff overtime is 'usual in most of the clubs', thereby distinguishing the normal operations of a members' club from the running of a for-profit gambling establishment."
+    ]
+  },
+  "evidence_map": {}
+}

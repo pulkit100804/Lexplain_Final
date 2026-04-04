@@ -1,0 +1,48 @@
+{
+  "case_id": "5a22c87a-8ce5-4805-a3be-abf07b60175e",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_4b_event_builder",
+  "input_refs": [
+    "role_tagged_graph.json",
+    "entities.json"
+  ],
+  "created_at": "2026-03-19T19:35:05.488370+00:00",
+  "events": [
+    {
+      "event_id": "evt_001",
+      "event_type": "action",
+      "actor": "accused",
+      "action": "attacked",
+      "target": "victim",
+      "object": "a knife",
+      "time": "On the night of 12th June",
+      "location": null,
+      "description": "On the night of 12th June, the accused attacked the victim with a knife.",
+      "source_node_id": "n_001"
+    },
+    {
+      "event_id": "evt_002",
+      "event_type": "state",
+      "actor": null,
+      "action": "died",
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "The victim later died.",
+      "source_node_id": "n_002"
+    },
+    {
+      "event_id": "evt_003",
+      "event_type": "evidence",
+      "actor": null,
+      "action": "recovered",
+      "target": null,
+      "object": "blood-stained knife",
+      "time": null,
+      "location": null,
+      "description": "A blood-stained knife was recovered",
+      "source_node_id": "n_003"
+    }
+  ]
+}

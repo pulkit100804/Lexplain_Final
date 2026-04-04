@@ -1,0 +1,90 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Order of the Trial Court dated 25.05.2015 dismissing the appellant's application, and the High Court's order dismissing the appellant's Criminal Misc. Application.",
+    "high_court_proceedings": "The High Court of Delhi passed an order dated 06.07.2015 in Crl.M.C. No. 2447 of 2012, directing the Registrar General of the High Court of Delhi to make a formal complaint for prosecution of the appellant under Section 182 IPC. Subsequently, the High Court modified this order on 01.02.2016 in Crl.M.A. No. 1775 of 2016, directing the S.H.O., Police Station Anand Vihar, Delhi to make the formal complaint instead of the Registrar General.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave, filing S.L.P.(Crl.) No. 8184 of 2015 against the High Court's order dated 06.07.2015 and S.L.P.(Crl.) No. 1908 of 2016 against the High Court's order dated 01.02.2016. The Supreme Court allowed the appeals and set aside the impugned orders."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set Aside",
+    "sentence_status": null,
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a court can take cognizance of an offense under Section 182 of the Indian Penal Code without adhering to the procedure prescribed in Section 195 of the Code of Criminal Procedure.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was being prosecuted for an offense under Section 182 of the Indian Penal Code (IPC).",
+          "It was undisputed that the prosecution, when initiating this action, did not follow the procedure prescribed under Section 195 of the Code of Criminal Procedure (CrPC)."
+        ],
+        "law": [
+          "Section 195 of the CrPC prescribes a mandatory procedure for prosecuting an offense under Section 182 of the IPC.",
+          "There is an absolute bar against a court taking cognizance of a case under Section 182 IPC except in the manner provided by Section 195 CrPC.",
+          "This principle was established by the Supreme Court in the case of Daulat Ram vs. State of Punjab.",
+          "The procedure requires that a complaint in writing must be made by the public servant concerned to whom the false information was given."
+        ],
+        "application": [
+          "The Court applied the legal principle from the Daulat Ram case to the facts of the present case.",
+          "Since the prosecution admitted to not following the mandatory procedure laid out in Section 195 of the CrPC, the Court found that the initiation of the case for the offense under Section 182 IPC was legally flawed from the outset."
+        ],
+        "conclusion": "The Supreme Court decided that a court cannot take cognizance of an offense under Section 182 of the IPC without adhering to the mandatory procedure in Section 195 of the CrPC. Because this procedure was not followed in the appellant's case, the prosecution for that specific offense was rendered void ab initio (void from the beginning)."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a court can take cognizance of an offense under Section 182 of the Indian Penal Code without adhering to the procedure prescribed in Section 195 of the Code of Criminal Procedure.",
+      "appellant_arguments": [
+        "The appellant argued that they cannot be prosecuted for an offense under Section 182 of the Indian Penal Code because the prosecution did not follow the mandatory procedure laid down in Section 195 of the Code of Criminal Procedure, 1973."
+      ],
+      "respondent_arguments": [
+        "The respondent's counsel conceded that the lower court's order, which allowed the prosecution to proceed, was not legally sustainable on this point of law.",
+        "The respondent also informed the court that the State has since made a fresh application before the Trial Court to follow the correct procedure, and that application is pending consideration."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "182",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "195",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Daulat Ram v. State of Punjab",
+        "citation": "AIR 1962 SC 1206",
+        "principle": "To prosecute an accused for an offence under Section 182 of the Indian Penal Code, it is mandatory to follow the procedure prescribed under Section 195 of the Code of Criminal Procedure. There is an absolute bar against a court taking seisin of a case under Section 182 IPC except in the manner provided by Section 195 CrPC, and failure to do so renders the action void ab initio.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A prosecution for an offense under Section 182 of the Indian Penal Code is void ab initio if the mandatory procedure prescribed under Section 195 of the Code of Criminal Procedure is not followed.",
+    "obiter": [
+      "The court expresses no opinion on any future application that may be filed by the State, as it must be dealt with on its own merits in accordance with the law by the concerned court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "On the strength of law laid down by this Court in the case of Daulat Ram vs. State of Punjab, (AIR 1962 SC 1206), in order to prosecute an accused for an offence punishable under Section 182 IPC, it is mandatory to follow the procedure prescribed under Section 195 of the Code of Criminal Procedure, else such action is rendered void ab initio.",
+    "legal_tests_applied": [
+      "There is an absolute bar against the Court taking seisin of the case under S.182 I.P.C. except in the manner provided by S.195 Crl.P.C."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

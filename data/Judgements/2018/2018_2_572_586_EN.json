@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but the case likely originated in a lower court within the jurisdiction of the Punjab & Haryana High Court.",
+    "impugned_order": "Judgment and Order dated 25.01.2016 of the High Court of Punjab & Haryana at Chandigarh in FAO No. 5310 of 2013 (O&M).",
+    "high_court_proceedings": "The High Court of Punjab & Haryana at Chandigarh issued a Judgment and Order on 25.01.2016 in FAO No. 5310 of 2013 (O&M). The specific outcome of the High Court's decision is not stated, but it was unfavorable to the appellant in the Supreme Court.",
+    "supreme_court_posture": "The Supreme Court was approached by the appellant to challenge the High Court's order. The Supreme Court allowed the appeal, effectively overturning the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "The liability to compensate the claimants in terms of the judgment of the Tribunal will stand fastened upon the First respondent.",
+      "The judgment of the High Court is set aside.",
+      "In the circumstances of the case, there shall be no order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the liability to pay compensation in a motor vehicle accident should be fastened on the person who is in physical possession and control of the vehicle after its transfer, rather than on the registered owner.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A vehicle registered in the name of the First respondent was involved in an accident, causing one death and multiple injuries.",
+          "The First respondent argued he was not liable because he had sold the vehicle, which had then undergone successive transfers.",
+          "Despite the purported sale and transfers, the vehicle's registration certificate was never updated and continued to show the First respondent as the owner.",
+          "The vehicle was uninsured at the time of the accident."
+        ],
+        "law": [
+          "The Court's decision centered on the definition of 'owner' in Section 2(30) of the Motor Vehicles Act, 1988.",
+          "According to Section 2(30), the 'owner' is the person in whose name the motor vehicle is registered.",
+          "The Court noted that while there are exceptions (e.g., for vehicles under a hire purchase, lease, or hypothecation agreement), a simple, unregistered sale is not one of them.",
+          "The Court relied on the precedent set in *Pushpa alias Leela v Shakuntala*, which established that if a vehicle is sold but the registration is not changed, the registered owner is deemed to continue as the owner for the purposes of the Act.",
+          "The underlying principle of this rule is to protect accident victims. Claimants should not be burdened with the difficult task of tracing a series of unregistered transfers to find the liable party."
+        ],
+        "application": [
+          "The Court applied the definition from Section 2(30) directly to the facts of the case.",
+          "Even though the First respondent had purportedly transferred the vehicle, he remained the owner in the official records of the registering authority.",
+          "Therefore, for the purposes of the Act, he was the 'owner' and could not be absolved of liability.",
+          "The Court reasoned that holding the registered owner liable provides certainty for the victim and fulfills the object of the law, which is to ensure compensation can be claimed without undue difficulty.",
+          "The argument that liability should follow the person with physical possession and control was explicitly rejected in this context."
+        ],
+        "conclusion": "The Supreme Court rejected the argument and held that liability for compensation is fastened upon the person in whose name the vehicle is registered, not the person who merely has physical possession and control following an unregistered transfer. The Court concluded that the First respondent, as the registered owner, was liable to pay compensation."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the liability to pay compensation in a motor vehicle accident should be fastened on the person who is in physical possession and control of the vehicle after its transfer, rather than on the registered owner.",
+      "appellant_arguments": [
+        "The appellant argued that he was not liable as he had sold the vehicle to another person ('MS') and was therefore not in physical possession or control of it."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the appellant was liable because he was the person in physical possession and control of the vehicle. The respondent cited the decisions in Purnya Kala Devi and Reshma to support this argument."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "",
+        "citation": "[2011] 1 SCR 334",
+        "principle": "The legal principle is not specified in the provided text.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The person who is the ‘owner’ of a vehicle involved in an accident, within the meaning of Section 2(30) of the Act, has the liability to pay compensation fastened upon them.",
+    "obiter": [
+      "The interpretation to be placed on the Act must facilitate the fulfilment of the object of the law, as to hold otherwise would be to defeat its salutary object and purpose."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "For the purposes of liability under the Motor Vehicles Act, the person whose name is reflected in the records of the registering authority is not always the 'owner'. The determinative test is whether the registered owner has, through legitimate means like a sale, fully relinquished possession and control over the vehicle. If they have, they cannot be held liable, and the liability to pay compensation is fastened upon the person who was in actual physical possession and control of the vehicle at the time of the accident.",
+    "legal_tests_applied": [
+      "The Court/Tribunal should apply the test whether the registered owner has, through legitimate means, fully relinquished his possession and control over the vehicle or not. If the answer is in the affirmative, he cannot be made liable and the person who is in physical possession and control of the vehicle should be made liable."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The court determined that the term 'owner' under Section 2(30) of the Act is not limited to the registered owner, but can include the person in actual possession and control following a transfer.",
+      "The court found that the High Court had misconstrued the judgments in Reshma and Purnya Kala Devi, which support shifting liability from a registered owner who has relinquished control.",
+      "The court applied the principle that legal interpretation must facilitate the fulfilment of the object of the Act, which in this context means fastening liability on the person responsible for the vehicle's use.",
+      "While acknowledging the principle from Dr T V Jose that the registered owner is typically considered the owner, the court's application of a more nuanced test based on possession and control effectively distinguished it in cases of a completed sale."
+    ],
+    "policy_considerations": [
+      "To hold that a person who has sold a vehicle and is no longer in control of it is liable would be to defeat the salutary object and purpose of the Act. Hence, the interpretation to be placed must facilitate the fulfilment of the object of the law."
+    ]
+  },
+  "evidence_map": {}
+}

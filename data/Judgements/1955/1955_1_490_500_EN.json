@@ -1,0 +1,87 @@
+{
+  "procedural_history": {
+    "originating_court": "Supreme Court (appears to be original jurisdiction based on Article 32 reference)",
+    "impugned_order": "A summons issued by the Supreme Court itself, directing an Advocate to show cause against allegations made against them.",
+    "high_court_proceedings": "Not applicable; the case originated in the Supreme Court.",
+    "supreme_court_posture": "The Supreme Court issued a summons to an Advocate to respond to allegations. The Court is hearing the matter based on Article 32 of the Constitution and is focusing solely on the issues raised in the summons. The facts are not in dispute and are outlined in the Advocate's petition under Article 32."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [],
+  "arguments": [
+    {
+      "issue_text": "Whether it is professional misconduct for an advocate to enter into a fee agreement where remuneration is a percentage of the amount recovered in the litigation (a contingency fee).",
+      "appellant_arguments": [
+        "The advocate (Mr. G) argued that the agreement should be judged based on ordinary rights of contract and ordinary legal rights.",
+        "He implied a justification for his actions, stating he reluctantly agreed to the arrangement only after realizing that without it, his client would likely lose a just claim."
+      ],
+      "respondent_arguments": [
+        "The Court's position was that advocates are a specially privileged class subject to special and rigid rules of professional conduct, which override ordinary contract law in this context.",
+        "An advocate stipulating for or receiving remuneration proportioned to the results of litigation, whether as a share or a percentage, is considered 'highly reprehensible' and a violation of professional rules.",
+        "Advocates, due to their privileged status, are subject to certain disabilities that do not apply to others and must conduct themselves in a manner befitting their high and honourable profession."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 32",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Supreme Court Rules",
+        "section": "Order IV, rule 30",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Legal Practitioners (Fees) Act, 1926",
+        "section": "Section 3",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Bar Councils Act, 1926",
+        "section": "Not specified",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The Legal Practitioners (Fees) Act, 1926, which permits a legal practitioner to settle fees by private agreement with a client, does not alter the rules concerning professional misconduct. An agreement, even if valid under contract law, may still constitute professional misconduct, as the Act is not concerned with disciplinary matters, which are governed by the Bar Councils Act and the established understanding of professional ethics.",
+    "obiter": [
+      "Whether prior cases concerning the enforceability of agreements that might constitute professional misconduct were rightly decided or could be challenged on grounds of public policy is a question that does not arise for decision in a disciplinary action.",
+      "A discussion on the practice in some American states where an attorney may purchase part of the subject-matter of litigation is not relevant to Indian professional standards.",
+      "The observation that public policy is an 'unruly horse' and a treacherous ground for legal decision."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The act of an Advocate of the Supreme Court in entering into an agreement with a client whereby the client undertakes to pay him a part of any recoveries he might make in the legal proceedings in respect of which he is employed, amounts to professional misconduct and makes him liable for disciplinary action. To this extent, the ordinary legal rights of contract do not apply to an Advocate as such, because advocates are a specially privileged class subject to special and rigid rules of professional conduct.",
+    "legal_tests_applied": [
+      "Whether the advocate's conduct comports with the special and rigid rules of professional conduct expected of a specially privileged class of persons.",
+      "Whether the advocate has conducted himself in a manner befitting the high and honourable profession, the privileges of which he enjoys."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the agreement should be judged by ordinary contract law was rejected because the court is not concerned with ordinary legal rights, but with the special rules of professional conduct applicable to advocates.",
+      "The appellant's reliance on the Legal Practitioners' Act was dismissed because that Act is not concerned with professional misconduct, which is dealt with by the Bar Councils Act and the established understanding of the term.",
+      "The cases cited by the appellant where similar agreements were enforced were distinguished on the ground that those cases were not considering disciplinary action for professional misconduct, but rather the enforceability of a contract.",
+      "The appellant's reference to the practice in some American states was deemed irrelevant, as the court stated, 'what may be harmless in one country may not be so in another,' and it would not import a practice that is 'regretted and frowned upon' even where it is permitted."
+    ],
+    "why_respondent_won": [
+      "The court accepted that advocates are a 'specially privileged class of persons who, because of their privileged status, are subject to certain disabilities which do not attach to other men.'",
+      "The court affirmed that an advocate is 'bound to conduct himself in a manner befitting the high and honourable profession' and that entering into a contingency fee agreement is a departure from the high standards that the profession has set for itself.",
+      "The court established that these special rules of professional conduct override an advocate's ordinary rights under contract law in their professional capacity."
+    ],
+    "policy_considerations": [
+      "The court reasoned that exacting high standards of professional conduct is even more important in India, 'where ignorance and illiteracy are the rule,' than in countries with higher levels of education.",
+      "The court expressed a preference for maintaining the 'sound and healthy tradition' of the Indian Bar against such agreements, rather than importing what it considers 'a mistake, even in the country of its origin.'",
+      "The court endorsed the principle that such agreements are prohibited by professional rules so that the 'integrity, dignity and honour' of the legal profession 'may be placed above the breath of scandal.'"
+    ]
+  },
+  "evidence_map": {}
+}

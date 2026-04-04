@@ -1,0 +1,138 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a lower court in Uttar Pradesh where the initial trial took place.",
+    "impugned_order": "Judgment and order dated May 17, 1967, of the Allahabad High Court, Lucknow Bench, in Criminal Appeal No. 72 of 1967 and Capital Sentence Reference No. 9 of 1967.",
+    "high_court_proceedings": "The Allahabad High Court, Lucknow Bench, heard Criminal Appeal No. 72 of 1967 and Capital Sentence Reference No. 9 of 1967. The High Court confirmed the convictions under Section 302, read with Section 34, of the Indian Penal Code (I.P.C.). It upheld the death sentences for Ram Charan and Dularey and the life imprisonment sentence for Ram Bux.",
+    "supreme_court_posture": "Ram Charan, Dularey, and Ram Bux appealed to the Supreme Court by special leave, challenging the Allahabad High Court's judgment. The Supreme Court dismissed the appeal, upholding the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Confirmed",
+    "sentence_status": "Confirmed",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a statement of a witness recorded under Section 164 of the Criminal Procedure Code always raises a suspicion that it was not voluntarily made and compromises their subsequent evidence in court.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Statements of eyewitnesses to a murder were recorded by a Magistrate under Section 164 of the Criminal Procedure Code (CrPC).",
+          "A certificate was appended to each statement, which improperly warned the witness that the statement could be used against them.",
+          "The certificate also stated that the statement was made voluntarily and without police presence."
+        ],
+        "law": [
+          "The Court considered an old legal view that recording a witness's statement under Section 164 always raises a suspicion that it was not made voluntarily and compromises their later testimony.",
+          "The Court rejected this view and instead adopted the principle established by the Nagpur High Court.",
+          "This preferred principle states that the mere fact a statement was recorded under Section 164 is not sufficient to discard the witness's evidence if they stick to that statement in court.",
+          "The only inference to be drawn from a Section 164 statement is that the police may have been concerned the witness might later change their story.",
+          "However, courts ought to receive such evidence with caution and look for other supporting circumstances to verify its truthfulness."
+        ],
+        "application": [
+          "The Court acknowledged that the Magistrate's certificate warning the witness was \"not proper.\"",
+          "Despite this improper endorsement, the Court concluded that it did not automatically follow that the witnesses were threatened or that their subsequent evidence in court was necessarily suspect or less believable.",
+          "Applying the preferred legal principle, the Court reasoned that if a witness remains consistent with their Section 164 statement during their court testimony, the evidence should not be discarded simply because the prior statement was recorded.",
+          "The Court determined that the practice of recording a statement under Section 164 does not inherently compromise the evidence, but it does require the court to treat that evidence with caution."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that a witness statement recorded under Section 164 CrPC is always suspicious or involuntary. The Court held that the mere recording of such a statement is not, by itself, sufficient to discard the witness's subsequent court testimony, especially if the witness remains consistent. It merely suggests the police once thought the witness might change their mind and requires the court to receive the evidence with caution."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the evidence of a witness, whose statement was previously recorded under Section 164 CrPC, can be acted upon if the witness sticks to the statement and it is supported by other circumstances, despite it needing to be received with caution.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Statements of eyewitnesses to a murder were recorded under Section 164 of the Criminal Procedure Code (CrPC).",
+          "A certificate was appended to these statements, which improperly warned the witnesses that the statement could be used against them.",
+          "The defense argued that this procedure made the subsequent evidence given by these witnesses in court suspect or less believable."
+        ],
+        "law": [
+          "The mere fact that a witness's statement was previously recorded under Section 164 CrPC is not, by itself, sufficient grounds to discard their subsequent testimony in court."
+        ],
+        "application": [
+          "The Court explained that a statement recorded under Section 164 CrPC often leads to an inference that the police thought the witness might change their story.",
+          "However, if the witness consistently \"sticks to the statement\" they made throughout the proceedings, their testimony should not be automatically discarded.",
+          "The Court established a standard for evaluating such evidence: it must be received \"with caution,\" and it can be acted upon if \"there are other circumstances on record which lend support to the truth of the evidence of such witness.\"",
+          "Applying this to the case, the Court found that even with an improper certificate, it did not automatically follow that the witnesses were threatened or that their court testimony was rendered unbelievable."
+        ],
+        "conclusion": "The Supreme Court decided that the evidence of a witness whose statement was previously recorded under Section 164 CrPC can be accepted and acted upon, provided that the witness sticks to their statement, the court receives the evidence with caution, and the testimony is supported by other corroborating circumstances."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a statement of a witness recorded under Section 164 of the Criminal Procedure Code always raises a suspicion that it was not voluntarily made and compromises their subsequent evidence in court.",
+      "appellant_arguments": [
+        "The endorsement made by the Magistrate on the Section 164 statements implied a threat to the witnesses, suggesting their statements were not voluntary. The endorsement warned the deponent that the statement could be 'used against him' and noted that witnesses were not allowed to leave until all had given their statements.",
+        "Relying on the precedent in Emperor v. Manu Chik, the recording of a witness's statement under Section 164 inherently casts suspicion on the voluntariness and reliability of their subsequent testimony in court."
+      ],
+      "respondent_arguments": [
+        "The recording of a statement under Section 164 does not automatically mean it was made involuntarily or that the subsequent testimony is compromised.",
+        "The magistrate's endorsement does not constitute evidence of a threat that would invalidate the testimony."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the evidence of a witness, whose statement was previously recorded under Section 164 CrPC, can be acted upon if the witness sticks to the statement and it is supported by other circumstances, despite it needing to be received with caution.",
+      "appellant_arguments": [
+        "The evidence of a witness whose statement was recorded under Section 164 should be discarded or considered unreliable due to the suspicious circumstances of the initial recording."
+      ],
+      "respondent_arguments": [
+        "The evidence of such a witness can be acted upon, provided the witness remains consistent with their statement and their testimony is supported by other circumstances on record.",
+        "While the evidence should be received with caution, the mere fact that a statement was previously recorded under Section 164 is not sufficient grounds to discard it entirely."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1898",
+        "section": "164",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Parmanand v. Emperor",
+        "citation": "A.i.R. 1940 Nag. 340",
+        "principle": "The mere fact that a witness's statement was previously recorded under section 164 of the Criminal Procedure Code is not sufficient to discard it if the witness sticks to the statement. However, the Court should receive such evidence with caution and can act upon it if other circumstances on record support its truthfulness.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "In re: Gopisetti Chinna Venkatarubbiah",
+        "citation": "I.L.R. [1955] A.P. 633",
+        "principle": "For approving the legal principle laid down in Parmanand v. Emperor regarding the cautious acceptance of testimony from a witness whose statement was previously recorded under section 164 of the Criminal Procedure Code.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "If a witness's statement was previously recorded under section 164 of the Criminal Procedure Code, it leads to an inference that police may have thought the witness might change their statement. However, if the witness consistently adheres to that statement, the mere fact of the prior recording is not sufficient grounds to discard their testimony. A court must receive such testimony with caution, and it can be acted upon if other circumstances on record support its truthfulness.",
+    "obiter": [
+      "It did not follow from the endorsement that any threat was given to the witnesses or that it necessarily made their evidence in court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The mere fact that a witness's statement was previously recorded under Section 164 of the Criminal Procedure Code is not sufficient to discard their subsequent testimony in court. While such a recording may infer that the police feared the witness might change their statement and thus requires the court to receive the evidence with caution, the testimony can be acted upon if the witness consistently sticks to their statement and other circumstances on record support the truth of their evidence.",
+    "legal_tests_applied": [
+      "To determine the admissibility and weight of testimony from a witness whose statement was recorded under Section 164 CrPC, the court must assess if the witness sticks to the statement made by them throughout the proceedings and if there are other circumstances on record which lend support to the truth of their evidence. If these conditions are met, the evidence can be acted upon, though it must be received with caution."
+    ],
+    "why_appellant_lost": [
+      "The Court rejected the appellant's contention that the Magistrate's endorsement on the Section 164 statements constituted a threat, finding that it did not necessarily follow from the endorsement that any threat was given to the witnesses or that it made their court evidence unreliable.",
+      "The Court explicitly disapproved of the legal precedent cited by the appellant, Emperor v. Manu Chik, which held that a statement obtained under Section 164 always raises a suspicion that it was not voluntarily made."
+    ],
+    "why_respondent_won": [
+      "The Court adopted the reasoning from Parmanand v. Emperor, holding that if a witness sticks to their statement made under Section 164, the mere fact of its prior recording is not sufficient to discard their evidence.",
+      "The Court affirmed the principle that the evidence of a witness whose statement was recorded under Section 164 can be acted upon if it is received with caution and is supported by other circumstances on record that lend support to its truth."
+    ],
+    "policy_considerations": [
+      "The ruling establishes a balanced approach, acknowledging that while recording a statement under Section 164 may suggest police concern about a witness's reliability, it does not automatically invalidate their testimony. This prevents the wholesale discarding of potentially truthful evidence while still mandating a higher degree of judicial scrutiny (caution and corroboration) to ensure fairness."
+    ]
+  },
+  "evidence_map": {}
+}

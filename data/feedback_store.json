@@ -1,0 +1,120 @@
+[
+  {
+    "case_id": "3e1ec04f-6cf7-4d40-8266-3692293e62cc",
+    "tenant_id": "ui_tenant",
+    "timestamp": "2026-03-19T19:43:41.351330+00:00",
+    "components": {
+      "ipc_sections": {
+        "correct": false,
+        "comment": "300 is main and 302 based on facts"
+      },
+      "precedents": {
+        "correct": true,
+        "comment": ""
+      },
+      "overall": {
+        "correct": false,
+        "comment": "valid sections were marked as invalid"
+      }
+    },
+    "patterns_learned": [
+      {
+        "component": "precedents",
+        "case_id": "3e1ec04f-6cf7-4d40-8266-3692293e62cc",
+        "pattern": ""
+      }
+    ]
+  },
+  {
+    "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+    "tenant_id": "ui_tenant",
+    "timestamp": "2026-03-20T06:34:03.083536+00:00",
+    "components": {
+      "ipc_sections": {
+        "correct": true,
+        "comment": "the ipc section were correctly identified and mapped"
+      },
+      "precedents": {
+        "correct": true,
+        "comment": ""
+      },
+      "overall": {
+        "correct": true,
+        "comment": ""
+      }
+    },
+    "patterns_learned": [
+      {
+        "component": "ipc_sections",
+        "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+        "pattern": "the ipc section were correctly identified and mapped"
+      },
+      {
+        "component": "precedents",
+        "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+        "pattern": ""
+      },
+      {
+        "component": "overall",
+        "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+        "pattern": ""
+      }
+    ]
+  },
+  {
+    "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+    "tenant_id": "ui_tenant",
+    "timestamp": "2026-03-20T08:24:07.463357+00:00",
+    "components": {
+      "ipc_sections": {
+        "correct": true,
+        "comment": "the ipc section were correctly identified and mapped"
+      },
+      "precedents": {
+        "correct": true,
+        "comment": ""
+      },
+      "overall": {
+        "correct": true,
+        "comment": ""
+      }
+    },
+    "patterns_learned": [
+      {
+        "component": "ipc_sections",
+        "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+        "pattern": "the ipc section were correctly identified and mapped"
+      },
+      {
+        "component": "precedents",
+        "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+        "pattern": ""
+      },
+      {
+        "component": "overall",
+        "case_id": "c3257775-36ef-48c0-89f9-2119538c6867",
+        "pattern": ""
+      }
+    ]
+  },
+  {
+    "case_id": "08bf5df7-b451-421a-ad42-9660bb3abe05",
+    "tenant_id": "ui_tenant",
+    "timestamp": "2026-03-22T19:21:36.317005+00:00",
+    "components": {
+      "ipc_sections": {
+        "correct": false,
+        "comment": "304 part 1 and 2"
+      },
+      "precedents": {
+        "correct": false,
+        "comment": "same as always hardcoded"
+      },
+      "overall": {
+        "correct": false,
+        "comment": "relevant laws"
+      }
+    },
+    "patterns_learned": []
+  }
+]

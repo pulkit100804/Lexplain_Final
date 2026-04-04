@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional District & Sessions Judge (POCSO Judge)",
+    "impugned_order": "Judgment dated 30.04.2018 of High Court of Gujarat at Ahmedabad in Criminal Revision Application No. 277 of 2017.",
+    "high_court_proceedings": "The complainant filed a Criminal Revision Application No. 277 of 2017 against the order dated 01.12.2016 of Additional District & Sessions Judge, who had rejected the application filed by the prosecution for proceeding against the appellants in Special POCSO Case No. 10/2016. The High Court allowed the Criminal Revision Application by judgment dated 30.04.2018, setting aside the order of the POCSO Judge.",
+    "supreme_court_posture": "The appellants, aggrieved by the High Court's judgment dated 30.04.2018, appealed to the Supreme Court in Criminal Appeal No. 1349 of 2018."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The impugned judgment of the High Court is unsustainable and is hereby set aside."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "What is the nature of the satisfaction required to invoke the power under Section 319 CrPC to arraign an accused? Whether the power under Section 319(1) CrPC can be exercised only if the court is satisfied that the accused summoned will in all likelihood be convicted?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "point": "The power under Section 319 of the Criminal Procedure Code (CrPC) is a discretionary and extraordinary power that must be exercised sparingly and only when the circumstances of the case warrant it.",
+            "text_reference": "“105. Power under Section 319 CrPC is a discretionary and an extraordinary power. It is to be exercised sparingly and only in those cases where the circumstances of the case so warrant.”"
+          },
+          {
+            "point": "The Court established a specific test for the level of satisfaction required to summon an additional accused under Section 319 CrPC.",
+            "text_reference": "“The test that has to be applied is one which is more than prima facie case as exercised at the time of framing of charge, but short of satisfaction to an extent that the evidence, if goes unrebutted, would lead to conviction.”"
+          },
+          {
+            "point": "The Court clarified that the standard is not whether the person could be convicted, but whether they could be tried along with the existing accused.",
+            "text_reference": "“In Section 319 CrPC the purpose of providing if “it appears from the evidence that any person not being the accused has committed any offence” is clear from the words “for which such person could be tried together with the accused”. The words used are not “for which such person could be convicted”.”"
+          },
+          {
+            "point": "At the stage of invoking Section 319, the court is not required to form an opinion on the ultimate guilt of the person being summoned.",
+            "text_reference": "“There is, therefore, no scope for the court acting under Section 319 CrPC to form any opinion as to the guilt of the accused.”"
+          }
+        ],
+        "application": [],
+        "conclusion": "The Supreme Court rejected the high standard that a person could be summoned under Section 319 CrPC only if the court is satisfied they will \"in all likelihood be convicted.\" Instead, the Court held that the required level of satisfaction is based on a test that is stronger than a prima facie case (as needed for framing charges) but falls short of the level of certainty that would lead to a conviction if the evidence were to go unrebutted. The decision is based on the statutory language, which focuses on whether a person can be \"tried\" with the accused, not whether they will be \"convicted\"."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "What is the nature of the satisfaction required to invoke the power under Section 319 CrPC to arraign an accused? Whether the power under Section 319(1) CrPC can be exercised only if the court is satisfied that the accused summoned will in all likelihood be convicted?",
+      "appellant_arguments": [
+        "The trial court (POCSO Judge) was correct in rejecting the application to summon the appellants, as it appeared prima facie that their names were disclosed with mala fide intention."
+      ],
+      "respondent_arguments": [
+        "The High Court did not commit an error in summoning the appellants because their names were mentioned in the court statements of both the victim and the victim's mother, which is sufficient to proceed against them."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "319",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hardeep Singh v. State of Punjab & Others",
+        "citation": "(2014) 3 SCC 92",
+        "principle": "Under Section 319 Cr.P.C., a court can proceed against any person who is not an accused in a case before it, if that person's complicity is indicated and connected with the commission of the offence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An order allowing an application under Section 319 of the Criminal Procedure Code is unsustainable if the court fails to record its satisfaction that the evidence on record establishes a prima facie case against the accused.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court erred in summoning the appellants under Section 319 Cr.P.C. because it failed to record any satisfaction that the evidence established even a prima facie case against them. The court acted mechanically, based merely on the fact that the appellants' names were mentioned in witness statements, which is an improper application of the law, particularly where the evidence contained no suggestion of any act constituting an offence.",
+    "legal_tests_applied": [
+      "To invoke power under Section 319 Cr.P.C., \"only a prima facie case is to be established from the evidence led before the court\"."
+    ],
+    "why_appellant_lost": [
+      "The High Court failed to provide sufficient reasons for allowing the application under Section 319 Cr.P.C.",
+      "The High Court did not record any satisfaction that the evidence on record, as revealed by the statements of the victim and her mother, made out even a prima facie case of an offence against the appellants."
+    ],
+    "why_respondent_won": [
+      "There was no evidence on record suggesting any act done by the appellants that would amount to an offence under Sections 3 and 4 of the POCSO Act.",
+      "The trial court's observation that, prima facie, the appellants' names were disclosed with mala fide intention was implicitly upheld."
+    ],
+    "policy_considerations": [
+      "The power under Section 319 Cr.P.C. does not mean that whenever a person's name is taken in a statement recorded before the Court, the Court has to mechanically issue process."
+    ]
+  },
+  "evidence_map": {
+    "issues[0].reasoning.law[0].text_reference": [
+      "p5_42a3a231"
+    ],
+    "citations.cases[0].case_name": [
+      "p2_e831e142"
+    ]
+  }
+}

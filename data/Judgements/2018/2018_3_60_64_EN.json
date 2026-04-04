@@ -1,0 +1,96 @@
+{
+  "procedural_history": {
+    "originating_court": "IInd Additional District and Sessions Judge, East Godavari at Rajamundary",
+    "impugned_order": "Judgment and order dated 15.12.2006 passed by the High Court of Judicature at Andhra Pradesh at Hyderabad in Criminal Appeal No.955 of 2005",
+    "high_court_proceedings": "The High Court dismissed the appeal (Criminal Appeal No. 955 of 2005) filed by the appellant (A-1) and upheld the appellant’s conviction and sentence.",
+    "supreme_court_posture": "The appellant, convicted in the trial court and whose conviction was upheld by the High Court, approached the Supreme Court by way of special leave after the High Court dismissed his appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Where the findings of conviction are concurrent in nature and based on appreciation of evidence, such findings are usually binding on Supreme Court – However, if the appellant is able to show any perversity, arbitrariness, absurdity or illegality in any such concurrent findings then, in such circumstances, the findings though concurrent are not binding on Supreme Court.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted for murder (Section 302 IPC) and destruction of evidence (Section 201 IPC) by the trial court (Sessions Judge).",
+          "The High Court, on appeal, affirmed the conviction.",
+          "This resulted in 'concurrent findings of conviction' by two lower courts, both of which found the appellant guilty based on an appreciation of the same evidence.",
+          "The conviction was based on circumstantial evidence, including the appellant being last seen with the deceased, his fingerprints at the scene, and recovery of items at his instance."
+        ],
+        "law": [
+          "The Supreme Court generally considers concurrent findings of conviction, which are based on an appreciation of evidence, to be binding.",
+          "An exception to this rule exists: the Supreme Court can interfere if the appellant demonstrates that the lower courts' findings are perverse, arbitrary, absurd, or illegal."
+        ],
+        "application": [
+          "The Court first acknowledged the legal principle that it usually does not interfere with concurrent findings unless a case of perversity or illegality is made out.",
+          "It then allowed the appellant's counsel to argue the case on its merits to see if this high threshold was met.",
+          "The Court examined the seven key circumstances that the lower courts relied on to convict the appellant, such as the 'last seen' theory, fingerprint evidence, and the appellant's failure to explain the incriminating circumstances.",
+          "It found that the prosecution had successfully established a complete and unbroken 'chain of events' that implicated the appellant in the crime.",
+          "The Court noted that while the appellant's counsel pointed out some contradictions in the evidence, these were minor and insufficient to discredit the entire prosecution case, especially since the two lower courts had already considered and dismissed them as immaterial."
+        ],
+        "conclusion": "Since the appellant failed to show any perversity, arbitrariness, or material contradiction in the concurrent findings of the trial court and the High Court, and the circumstantial evidence was found to be conclusive, the Supreme Court found no reason to interfere with the conviction and dismissed the appeal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Where the findings of conviction are concurrent in nature and based on appreciation of evidence, such findings are usually binding on Supreme Court – However, if the appellant is able to show any perversity, arbitrariness, absurdity or illegality in any such concurrent findings then, in such circumstances, the findings though concurrent are not binding on Supreme Court.",
+      "appellant_arguments": [
+        "The appellant's counsel went through the entire evidence to argue that there were material contradictions and inconsistencies in it, which should render the concurrent findings of the lower courts unreliable and perverse."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not explicitly stated, but can be inferred from the court's judgment. The respondent likely argued that the concurrent findings of the lower courts were based on a proper appreciation of evidence and that any pointed-out contradictions were minor and immaterial, thus not warranting the Supreme Court's interference."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Concurrent findings of conviction that are based on an appreciation of evidence are binding on the Supreme Court, unless the appellant can demonstrate that such findings are perverse, arbitrary, absurd, or illegal.",
+    "obiter": [
+      "Minor contradictions or inconsistencies in evidence cannot be the basis to discard the whole evidence as unreliable, particularly when two lower courts have already considered and dismissed them as immaterial."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found no merit in the appeal because the appellant failed to meet the high threshold required to overturn concurrent findings of fact. Despite a full review of the evidence, the appellant's counsel could not demonstrate any material contradictions or inconsistencies, let alone any perversity, arbitrariness, or illegality in the lower courts' appreciation of the evidence, which was based on consistent testimony from credible prosecution witnesses.",
+    "legal_tests_applied": [
+      "Where the findings of conviction are concurrent in nature and based on appreciation of evidence, such findings are usually binding on this Court. However, if the appellant is able to show any perversity, arbitrariness, absurdity or illegality in any such concurrent findings then, in such circumstances, the findings though concurrent are not binding on this Court.",
+      "It is a well settled principle of criminal law that some minor contradiction or inconsistency in evidence cannot affect the material evidence and such contradiction or inconsistency cannot be made basis to discard the whole evidence as unreliable."
+    ],
+    "why_appellant_lost": [
+      "The appellant's counsel went through the entire evidence but \"could not point out any material contradiction or inconsistency in evidence.\"",
+      "The contradictions that were identified were deemed minor and immaterial, which, according to settled criminal law, cannot be the basis to discard the whole evidence as unreliable, especially when two lower courts have already considered and discarded them as immaterial."
+    ],
+    "why_respondent_won": [
+      "The prosecution successfully proved its case with the aid of witnesses who \"did not turn hostile and maintained consistent version of the aforementioned seven circumstances,\" and their evidence was rightly relied upon by the lower courts.",
+      "The findings of guilt by the Sessions Judge and the High Court were concurrent and based on a thorough appreciation of the entire oral evidence adduced by the prosecution."
+    ],
+    "policy_considerations": [
+      "The Supreme Court \"usually does not take upon itself to again appreciate the evidence de novo third time in the appeal\" unless the specific exceptions of perversity, arbitrariness, absurdity, or illegality are clearly demonstrated."
+    ]
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p1_6c390ea8"
+    ],
+    "arguments[0].issue_text": [
+      "p1_6c390ea8"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p1_6c390ea8"
+    ],
+    "judicial_reasoning.legal_tests_applied[1]": [
+      "p1_c9a8a0ff"
+    ]
+  }
+}

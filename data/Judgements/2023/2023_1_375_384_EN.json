@@ -1,0 +1,102 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge, Kathua",
+    "impugned_order": "Order of conviction and sentence awarded on 23rd March, 1991 in Trial Case No. 89/1990.",
+    "high_court_proceedings": "The Appellants-accused filed an appeal (Criminal Appeal No. 09 of 1991) before the High Court of Jammu and Kashmir at Jammu. Accused No.1- Lal Chand died during the pendency of the appeal. Accused No.2-Bias Raj was absconding. On 5th June, 2009, the High Court dismissed the appeal and upheld the conviction and confirmed the sentence.",
+    "supreme_court_posture": "Accused No.3-Mohinder Pal, Accused No.7-Madan Lal and Accused No.4-Basant Kumar, being aggrieved by the High Court's judgment, filed the present appeal (Criminal Appeal No.1863 of 2010) before the Supreme Court."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed",
+    "conviction_status": "The conviction under Section 302 RPC is converted to one under Part-I of Section 304 of the RPC.",
+    "sentence_status": "Reduced to the period already undergone.",
+    "directions": [
+      "The bail bonds of the appellants shall stand discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellants under Section 302 of the Ranbir Penal Code (RPC) should be converted to a conviction under Part-I of Section 304 of the RPC, with a corresponding reduction in sentence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution's case was found to be unreliable, with the court noting it had not \"come with clean hands\" and had attempted to hide the true origin of the incident.",
+          "There were significant contradictions in the evidence, specifically in a dying declaration and the testimonies of witnesses P.W.1 and P.W.2, concerning why the deceased individuals went to the accused's house.",
+          "The prosecution failed to provide any explanation for the injuries sustained by Accused No. 1.",
+          "The defense argued that Accused No. 1 had been assaulted with a lathi by the two deceased persons who had come to his house."
+        ],
+        "law": [
+          "The court applied Exception I of Section 300 of the Ranbir Penal Code (RPC), which reduces a charge of murder to culpable homicide if the act was committed due to \"grave and sudden provocation\" that deprived the offender of the power of self-control.",
+          "The court also relied on the fundamental criminal law principle that the prosecution must prove its case \"beyond a reasonable doubt,\" and any doubt must be resolved in favor of the accused (the benefit of the doubt)."
+        ],
+        "application": [
+          "The court found the defense's claim that Accused No. 1 was assaulted first to be plausible, especially since the prosecution could not explain his injuries.",
+          "Based on this, the court determined that the possibility that the appellants attacked the deceased in a fit of rage after seeing Accused No. 1 being assaulted could not be ruled out.",
+          "This potential assault on Accused No. 1 was considered a possible source of \"grave and sudden provocation\" that could have caused the appellants to lose their self-control.",
+          "Because this alternative scenario created reasonable doubt, the court concluded that the prosecution had not definitively proven the charge of murder under Section 302 of the RPC."
+        ],
+        "conclusion": "The Supreme Court concluded that due to the weaknesses in the prosecution's case and the plausible scenario of grave and sudden provocation, the conviction for murder could not be sustained. Therefore, the court gave the appellants the benefit of the doubt and converted their conviction from Section 302 (murder) to the lesser offense of culpable homicide not amounting to murder under Part-I of Section 304 of the RPC."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellants under Section 302 of the Ranbir Penal Code (RPC) should be converted to a conviction under Part-I of Section 304 of the RPC, with a corresponding reduction in sentence.",
+      "appellant_arguments": [
+        "The appellants argued that they were exercising their right of private defense because one of the accused (Lal Chand) was assaulted by the two deceased individuals.",
+        "The appellants contended that their case fell under Exception I of Section 300 of the RPC, which would negate the charge of murder under Section 302."
+      ],
+      "respondent_arguments": [
+        "The dying declaration, which incriminated the appellants, was a substantive piece of evidence, attested by a police officer and a doctor, and corroborated by other witnesses.",
+        "The right of private defense was not exercised reasonably; the nature of the injuries (multiple fractures) and the weapons used indicated that the appellants assaulted the deceased with the intention to kill them, not merely to defend themselves."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Ranbir Penal Code (RPC)",
+        "section": "300, Exception I",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Ranbir Penal Code (RPC)",
+        "section": "302",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "When the circumstances of a case fall under Exception I of Section 300 of the RPC, the prosecution is considered to have failed to prove a case under Section 302 of the RPC beyond a reasonable doubt.",
+    "obiter": [
+      "The death of the deceased was homicidal."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The prosecution failed to prove the case for murder under Section 302 of the Ranbir Penal Code (RPC) beyond a reasonable doubt because the circumstances of the case fall within Exception I of Section 300 of the RPC.",
+    "legal_tests_applied": [
+      "The court assessed whether the facts of the case satisfied the conditions of Exception I to Section 300 of the Ranbir Penal Code, which mitigates a charge of murder to culpable homicide.",
+      "The court applied the standard of 'proof beyond a reasonable doubt' to the prosecution's evidence for a conviction under Section 302 of the RPC."
+    ],
+    "why_appellant_lost": [
+      "The appellants were not fully acquitted because the court found, based on evidence like the Post-Mortem Report, that the death of the deceased was undeniably homicidal, warranting a conviction for a lesser offense."
+    ],
+    "why_respondent_won": [
+      "The respondent (prosecution) successfully proved that the death was a homicidal one, which prevented a full acquittal and supported a conviction for culpable homicide not amounting to murder under Part-I of Section 304 of the RPC."
+    ],
+    "policy_considerations": [
+      "In deciding the final sentence, the court considered the principle of proportionality, determining that the approximately ten years of imprisonment already served by the appellants was sufficient punishment for the reduced offense, thereby making further incarceration unnecessary."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.supreme_court_posture": [
+      "p5_7635a1e6"
+    ],
+    "decision.directions[0]": [
+      "p10_1bf9d3ff"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "procedural_history": {
+    "originating_court": "Likely a detention order under the relevant Act being construed (Preventive Detention Act or similar). Several High Court decisions are referenced, suggesting multiple originating courts.",
+    "impugned_order": "A detention order challenged via a writ of habeas corpus (Art. 32 of the Constitution of India).",
+    "high_court_proceedings": "The Calcutta High Court construed the provisions of the Act in *Aswini Kumar Banerjee v. The State & Ors.* regarding the time limit for confirmation under Section 12(1). The Supreme Court approved and applied this construction.",
+    "supreme_court_posture": "The Supreme Court was approached because the petitioner(s) believed their detention was illegal, likely arguing that the confirmation of their detention order was not made within a reasonable timeframe. The Supreme Court dismissed the petition, upholding the detention and approving the Calcutta High Court's interpretation."
+  },
+  "decision": {
+    "appeal_result": "Petition dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the grounds of detention were vague because the names of the petitioner's associates were not specified.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was served with grounds of detention detailing his alleged acts.",
+          "These grounds did not specify the names of the associates who allegedly acted with the petitioner.",
+          "The petitioner contended that this omission made the grounds vague and prevented him from making an effective representation."
+        ],
+        "law": [
+          "The purpose of providing grounds for detention is to furnish the detainee with sufficient details to enable them to make an effective representation against their detention."
+        ],
+        "application": [
+          "The Court found that the grounds provided were not vague because they specified the dates, times, and details of the petitioner's own acts.",
+          "This level of detail was considered sufficient for the petitioner to make an effective representation.",
+          "The Court reasoned that it is not necessary to name all of a petitioner's associates, particularly because their identities may not be known.",
+          "The focus of the detention was on the petitioner's own acts, which were committed in association with others, and the failure to name those others did not render the detention illegal."
+        ],
+        "conclusion": "The Supreme Court rejected the petitioner's argument, holding that the grounds of detention were not vague. The Court found that the details provided about the petitioner's own acts were specific enough to allow for an effective representation, and it was not necessary to name his associates."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the petitioner's acts were connected with the disturbance of public order.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was accused of mutilating the statue of Rabindranath Tagore, an eminent Indian poet, which was installed in a public place.",
+          "The petitioner argued that this act, while it might affect 'law and order', did not amount to a 'disturbance of public order'."
+        ],
+        "law": [
+          "The Court referred to Section 3(2)(c) of the West Bengal (Prevention of Violent Activities) Act, 1970.",
+          "This section defines an act prejudicial to the maintenance of public order as one that includes \"causing insult to... any... statue of an eminent Indian, installed in a public place as a mark of respect to him or to his memory.\"",
+          "The Court also referenced a prior case which held that this clause applies when the act of insult is exposed to public view and is capable of arousing feelings of indignation."
+        ],
+        "application": [
+          "The Court found the petitioner's argument to be \"untenable.\"",
+          "It reasoned that the Act itself explicitly defines insulting a public statue of an eminent person as an act that disturbs public order.",
+          "The Court identified Rabindranath Tagore as a \"poet and sage venerated by all in this country,\" making his statue an object of public veneration under the Act.",
+          "Therefore, the act of defiling this statue fell directly within the statutory definition of an act connected to the disturbance of public order."
+        ],
+        "conclusion": "The Supreme Court concluded that the petitioner's act of defiling the statue of Rabindranath Tagore was directly connected with the disturbance of public order as defined by Section 3(2)(c) of the Act, and therefore it was a sufficient ground for detention."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the confirmation of a detention order must be an objective action recorded in writing.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Under the West Bengal (Prevention of Unlawful Activities) Act 1970, if the Advisory Board finds sufficient cause for a person's detention, the State Government may confirm the detention order and continue the detention.",
+          "The petitioner argued that this confirmation must be an objective action recorded in writing."
+        ],
+        "law": [
+          "The liberty of a citizen is in question when a detention is continued.",
+          "Decisions affecting a citizen's liberty should be made in clear and unambiguous terms."
+        ],
+        "application": [
+          "The Court explicitly stated that the confirmation of a detention order by the State Government \"cannot purely be a mental act, a subjective one.\"",
+          "Instead, the Court held that the confirmation \"must result in an objective action namely that it should be recorded in writing.\"",
+          "The Court supported this reasoning by citing a previous case, *Biren Dutta & Ors. v. Chief Commissioner of Tripura & Another*, where it was held that an authority must record its decision to continue a detention \"clearly and unambiguously\" because the liberty of a citizen is at stake."
+        ],
+        "conclusion": "The Supreme Court decided that the confirmation of a detention order must be an objective action that is recorded in writing; it cannot be a purely mental or subjective act."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the non-communication of the confirmation of a detention order renders the detention illegal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The State Government made the order confirming the detention within three months from the date of detention.",
+          "However, this confirmation order was communicated to the person being detained (the detenu) after the three-month period had passed.",
+          "The detenu argued that this delay in communication rendered the detention illegal."
+        ],
+        "law": [
+          "The Supreme Court distinguished between the act of confirming a detention order and the act of communicating it.",
+          "The confirmation itself must be made in writing within three months of the detention.",
+          "The communication of this confirmation order must be done within a \"reasonable time,\" but there is no strict requirement for it to be within the same three-month period.",
+          "The failure to communicate the order is considered an \"irregularity.\""
+        ],
+        "application": [
+          "The Court reasoned that while it is fair and just that the confirmation order be communicated to the detenu, the failure to do so does not automatically invalidate an otherwise legal detention.",
+          "The Court referred to a previous case (Achhar Singh v. State of Punjab) which held that the omission to convey a confirmation order did not make the detention illegal.",
+          "A key factor in the Court's decision was the absence of prejudice. The detenu in this case was not shown to have been harmed or disadvantaged by the delay in receiving the communication."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the non-communication (or delayed communication) of a confirmation order is an irregularity that does not, by itself, render an otherwise legal detention illegal, particularly when the detenu has not shown any prejudice resulting from the delay."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the grounds of detention were vague because the names of the petitioner's associates were not specified.",
+      "appellant_arguments": [
+        "The grounds of detention are vague because the names of the petitioner's associates have not been specified, which makes it difficult for the petitioner to make an effective representation."
+      ],
+      "respondent_arguments": [
+        "It is not necessary to specify all of the petitioner's associates, especially if they are not known.",
+        "The grounds are sufficiently detailed for an effective representation, as they specify the dates, times, and the petitioner's own acts."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the petitioner's acts were connected with the disturbance of public order.",
+      "appellant_arguments": [
+        "The petitioner's alleged acts are not relevant to or connected with the disturbance of public order. (Implied from the challenge to the grounds of detention)."
+      ],
+      "respondent_arguments": [
+        "The petitioner's acts, such as mutilating a public statue of a revered poet and setting fire to a post office, are directly connected with the disturbance of public order."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the confirmation of a detention order must be an objective action recorded in writing.",
+      "appellant_arguments": [
+        "The confirmation of a detention order cannot be a purely mental or subjective act; it must be an objective action that is recorded in writing."
+      ],
+      "respondent_arguments": [
+        "The confirmation mentioned in the Preventive Detention Act is a mere formality and is redundant since the government has already approved the detention order."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the non-communication of the confirmation of a detention order renders the detention illegal.",
+      "appellant_arguments": [
+        "The confirmation of the detention order must be communicated to the detenue within three months from the date of detention.",
+        "The State Government must apply its mind and confirm the order immediately upon receiving the Advisory Board's report, similar to how it must act immediately to release a detenue if the report is negative."
+      ],
+      "respondent_arguments": [
+        "Neither the Preventive Detention Act nor Article 22 of the Constitution imposes a duty on the State Government to communicate the confirmation to the detenue.",
+        "The only requirement is for the Advisory Board to submit its report within three months; the State Government can then confirm the detention within a reasonable time thereafter."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 22(4)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (unspecified in text)",
+        "section": "Section 12(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (unspecified in text)",
+        "section": "Section 12",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (unspecified in text)",
+        "section": "Section 13",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Preventive Detention Act",
+        "section": "Section 11",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Preventive Detention Act",
+        "section": "Section 11(A)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Kaur Singh v. The State",
+        "citation": "A.I.R. 1952 Pepsu 134",
+        "principle": "For the view taken on the interpretation of analogous provisions (Section 11 and 11A) of the Preventive Detention Act, which the Court 'approved and applied'.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Dhadhal Kanthad Valeg v. Saurashtra State",
+        "citation": "A.I.R. 1953 Sau. 138",
+        "principle": "For the view taken on the interpretation of analogous provisions (Section 11 and 11A) of the Preventive Detention Act, which the Court 'approved and applied'.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Umed Singh Narubha v. State",
+        "citation": "A.I.R. 1953 Sau. 51",
+        "principle": "For the view taken on the interpretation of analogous provisions (Section 11 and 11A) of the Preventive Detention Act, which the Court 'approved and applied'.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sangappa Mallappa Kodli & Ors. v. The State of Mysore & Ors.",
+        "citation": "A.I.R. 1959 Mysore 7",
+        "principle": "For the view taken on the interpretation of analogous provisions (Section 11 and 11A) of the Preventive Detention Act, which the Court 'approved and applied'.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Aswini Kumar Banni v. The State & Ors.",
+        "citation": "1970-71 (Col. LXXV) Calcutta Weekly Notes 666",
+        "principle": "For the view taken on the interpretation of analogous provisions (Section 11 and 11A) of the Preventive Detention Act, which the Court 'approved and applied'.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The confirmation of a detention order cannot be a purely subjective mental act, but must be an objective action that is recorded in writing. Where the Constitution provides a specific time frame for an action related to detention, the concept of 'reasonable time' cannot be introduced to interpret the corresponding statutory provision, and the absence of an express time limit within that statute does not render it invalid.",
+    "obiter": [
+      "The other grounds also directly connect the act with the disturbance of public order."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The petitioner's detention is not illegal. The grounds for detention were not vague, as they specified the petitioner's acts in sufficient detail to allow for an effective representation, and it was not necessary to name his associates. While the confirmation of a detention order must be an objective act recorded in writing, the subsequent failure to communicate that confirmation to the detenue is merely an irregularity which does not render an otherwise legal detention illegal.",
+    "legal_tests_applied": [
+      "Whether grounds of detention are sufficiently detailed (specifying dates, times, and the petitioner's own acts) to enable an effective representation.",
+      "Whether the absence of an express time limit for an action in a statute (like communicating a confirmation order) allows for the introduction of a 'reasonable time' concept when a related constitutional provision provides a specific time limit for a different action (the Advisory Board's report).",
+      "Whether a procedural irregularity, such as non-communication of a confirmation order, is severe enough to render the entire detention illegal."
+    ],
+    "why_appellant_lost": [
+      "The grounds of detention were not vague because the dates, time, and the acts of the petitioner were specified in detail, which was sufficient to enable him to make an effective representation.",
+      "It is not necessary to specify all of a petitioner's associates to make grounds of detention valid, especially because they may not have been known.",
+      "The petitioner's acts were found to be directly connected with the disturbance of public order.",
+      "The effect of non-communication of the confirmation order is an irregularity which does not make the detention, if otherwise legal, illegal."
+    ],
+    "why_respondent_won": [
+      "The petitioner's detention is based on his own acts, which were specified in detail, not the identity of his associates.",
+      "The petitioner's acts were directly connected with the disturbance of public order.",
+      "The absence of an express time limit in Section 12(1) of the Act for confirming a detention order means the concept of reasonable time cannot be introduced, especially when Article 22(4) of the Constitution provides a specific time limit only for the Advisory Board's report.",
+      "While confirmation of a detention order must be a written, objective act, the failure to communicate it is only an irregularity and does not invalidate the detention itself."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[1].case_name": [
+      "p6_e4b0eb33"
+    ],
+    "citations.cases[3].case_name": [
+      "p6_e4b0eb33"
+    ],
+    "ratio_decidendi.obiter[0]": [
+      "p12_9fa2a6bc"
+    ]
+  }
+}

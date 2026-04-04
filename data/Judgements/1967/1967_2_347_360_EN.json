@@ -1,0 +1,121 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Magistrate",
+    "impugned_order": "Two orders passed by the trial Magistrate (presumably related to the Public Prosecutor's attempt to withdraw the case) and the learned Sessions Judge.",
+    "high_court_proceedings": "The first respondent (original complainant) challenged the orders of the Trial Magistrate and Sessions Judge in the Punjab High Court via Criminal Revision No. 671 of 1965. A Division Bench of the Punjab High Court (Falshaw, C.J., and Khanna J.) accepted the first respondent's contentions and held that a Public Prosecutor cannot withdraw a case instituted upon a private complaint under s. 494 of the Code of Criminal Procedure, despite the complainant's objection. The High Court directed the complaint to proceed.",
+    "supreme_court_posture": "The appellant (likely the accused or the state) appealed the Punjab High Court's judgment and order dated December 20, 1965, to the Supreme Court by special leave. The Supreme Court ultimately dismissed the appeal, upholding the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "The complaint filed by the first respondent, against both the accused, to be proceeded with."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether Section 494 of the Code, by using the phrase 'in other cases before the judgment is pronounced', implies that a Public Prosecutor is entitled to file an application to withdraw from prosecution in all cases not tried by a jury, regardless of whether they are in charge of the prosecution.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          "Section 494 of the Code outlines the procedure for a Public Prosecutor to withdraw from a prosecution.",
+          "The section specifies the timing for such an application: in cases tried by a jury, it must be before the verdict is returned, and 'in other cases before the judgment is pronounced'."
+        ],
+        "application": [
+          "The Court addressed the appellant's argument that the phrase 'in other cases before the judgment is pronounced' implies that in any non-jury case, a Public Prosecutor is entitled to file for withdrawal, even if they are not in charge of that specific case.",
+          "The Court found this argument unpersuasive, stating that the contention \"has only to be stated to be rejected.\"",
+          "It clarified that this part of Section 494 deals exclusively with the *stage* or *timing* at which an application for withdrawal can be filed.",
+          "The phrase 'in other cases' is used to distinguish non-jury trials from jury trials. It simply means that in all cases not tried by a jury, the application must be made before the judgment is delivered.",
+          "The Court reasoned that this phrase must be understood in its context, which is to set a procedural deadline, and it does not expand the category of persons who are eligible to file the application."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the phrase 'in other cases before the judgment is pronounced' only defines the procedural timeline for filing a withdrawal application in non-jury cases. It does not grant the authority to file such an application to a Public Prosecutor who is not already in charge of that particular prosecution."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "The contentions of the learned Solicitor General and of Mr. Nuruddin Ahmed.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a dispute over whether a Public Prosecutor could apply to withdraw from a prosecution that was initiated by a private complaint.",
+          "The appellant argued that in a private complaint, the complainant is in charge of the prosecution, not the Public Prosecutor.",
+          "The Solicitor General and Mr. Nuruddin Ahmed (counsel for the respondent) argued in favor of the Public Prosecutor's right to apply for withdrawal."
+        ],
+        "law": [
+          "Section 492 of the Code: Pertains to the appointment of Public Prosecutors by the State Government, which can be general or for a specific case.",
+          "Section 493 of the Code: Refers to a Public Prosecutor being 'in charge' of a case.",
+          "Section 494 of the Code: Allows the Public Prosecutor who is 'in charge of the case' to apply to the court for permission to withdraw from the prosecution."
+        ],
+        "application": [
+          "The Supreme Court considered the competing arguments regarding the interpretation of the Code.",
+          "The appellant's counsel argued that the phrase 'in charge of the case' in Sections 493 and 494 means the Public Prosecutor cannot intervene in a private complaint where they were not previously involved.",
+          "The Solicitor General, supported by Mr. Nuruddin Ahmed, countered this by referencing Section 492, which provides for the broad appointment and authority of Public Prosecutors.",
+          "The Court explicitly stated that after giving 'due consideration to the contentions raised', it found the arguments presented by the Solicitor General and Mr. Nuruddin Ahmed to be correct.",
+          "The decision was based on the Court's interpretation of the relevant provisions of the Code and their 'salient features'."
+        ],
+        "conclusion": "The Supreme Court accepted the contentions of the learned Solicitor General and Mr. Nuruddin Ahmed, thereby holding that a Public Prosecutor has the authority to apply for withdrawal from a prosecution under Section 494 of the Code, even if the case was initiated by a private complaint."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether Section 494 of the Code, by using the phrase 'in other cases before the judgment is pronounced', implies that a Public Prosecutor is entitled to file an application to withdraw from prosecution in all cases not tried by a jury, regardless of whether they are in charge of the prosecution.",
+      "appellant_arguments": [
+        "The phrase 'in other cases before the judgment is pronounced' in Section 494 implies that in all cases not tried by a jury, a Public Prosecutor is entitled to file a withdrawal application, regardless of whether they are in charge of the case."
+      ],
+      "respondent_arguments": [
+        "The phrase 'in other cases' simply distinguishes the timing of the application from cases tried by a jury; it refers to cases other than those tried by jury and does not expand the Public Prosecutor's authority to cases they are not in charge of."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "The contentions of the learned Solicitor General and of Mr. Nuruddin Ahmed.",
+      "appellant_arguments": [
+        "The scheme of the Code allows a complainant to file and prosecute a private complaint.",
+        "In cases prosecuted by a private complainant, the Public Prosecutor is not involved and cannot be considered 'in charge of the case' so as to have the right to file a withdrawal application under Section 494.",
+        "A decision of the Calcutta High Court supports the appellant's contention."
+      ],
+      "respondent_arguments": [
+        "The Crown (the State) is the ultimate prosecutor and custodian of public peace.",
+        "If the State, through the Public Prosecutor, decides to let an offender go, no other aggrieved private party can object to the withdrawal of the prosecution."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The principle that a private party cannot object to the state's decision to withdraw a prosecution applies only when a Public Prosecutor is already in charge of and conducting that specific case.",
+    "obiter": [
+      "The Crown is the prosecutor and the custodian of the public peace, and if it decides to let an offender go, no other aggrieved party can be heard to object.",
+      "A prosecutor must have a fairly considered view, and the Court is entitled to have the benefit of the fair exercise of his function."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the power of a Public Prosecutor to file an application to withdraw from a prosecution under Section 494 of the Code is not a general power. This authority is strictly limited to cases where the Public Prosecutor is actually in charge of conducting the prosecution. Consequently, in a case initiated by a private complaint and prosecuted by the complainant, the Public Prosecutor has no locus standi to intervene for the sole purpose of withdrawing the case.",
+    "legal_tests_applied": [
+      "inasmuch as a privilege or a right is given to an officer under s. 494, the scope of authority, con-ferred by that section, must be very strictly limited to serve the pur-pose for which that section has been enacted."
+    ],
+    "why_appellant_lost": [
+      "The court was not persuaded by a supporting Calcutta High Court decision, stating: 'But we are not inclined to accept the reasoning, adopted by the lea.med Judges, in this case.'",
+      "The court dismissed the appellant's reliance on general observations that the Crown is the prosecutor in all cases, finding: 'In our opinion, these general observations will not, in any manner, assist the contentions of the appellant.'"
+    ],
+    "why_respondent_won": [
+      "The court accepted the Solicitor General's argument that the Public Prosecutor must be in charge of the case, reasoning that Section 493, which deals with the Public Prosecutor's authority, clearly applies only to the prosecutor 'who is actually in charge of that case'.",
+      "The court explicitly endorsed the arguments of the respondent's counsel: 'in our opinion, the contentions of the learned Solicitor General and of Mr. Nuruddin Ahmed will have to be accepted.'",
+      "The court agreed with the High Court's view that in a private complaint case, 'the Public Prosecutor docs not come into the picture in the conduct of such cases, and therefore he has no locus standi to file an application under s. 494 or the C1)dc in respect of such case.'"
+    ],
+    "policy_considerations": [
+      "Adopting the appellant's broad interpretation of Section 494 would defeat the purpose for which the section was enacted.",
+      "The court is entitled to the benefit of the fair exercise of the Public Prosecutor's function, which implies that the prosecutor making the decision to withdraw must be the one actually handling the case."
+    ]
+  },
+  "evidence_map": {}
+}

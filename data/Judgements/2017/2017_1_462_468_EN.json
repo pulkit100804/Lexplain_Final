@@ -1,0 +1,142 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court within the National Capital Territory (NCT) of Delhi, given the case name 'RAJ KUMAR @ RAJU v. STATE (NCT OF DELHI)' and the High Court's appellate jurisdiction.",
+    "impugned_order": "Order dated 30.10.2009 by the High Court of Delhi in Criminal Appeal No. 645 of 2001.",
+    "high_court_proceedings": "The High Court of Delhi heard Criminal Appeal No. 645 of 2001 and issued an order on 30.10.2009. The outcome of the High Court appeal (whether it affirmed, reversed, or modified the trial court's decision) is not explicitly stated in the provided text.",
+    "supreme_court_posture": "The Supreme Court was approached by the Appellant (Raj Kumar @ Raju). The Supreme Court partly allowed the appeal. The specific terms of the allowance are not detailed in the provided text, but it indicates some modification of the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed",
+    "conviction_status": "The prosecution has failed to bring home the charge under Section 302 IPC against the accused and he is acquitted of the said offence. The conviction under Section 392 IPC is upheld.",
+    "sentence_status": "The accused appellant had already served the sentence awarded to him under Section 392 IPC.",
+    "directions": [
+      "He be set at liberty forthwith."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution has successfully proven the charge under Section 302 IPC against the accused.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution's case against the accused was based on circumstantial evidence.",
+          "The key pieces of evidence established were: (1) the accused was present in the deceased's house the night before the incident, and (2) gold ornaments belonging to the deceased were recovered from the accused's possession.",
+          "The accused did not provide an explanation for possessing the deceased's ornaments."
+        ],
+        "law": [
+          "In a case based on circumstantial evidence, the chain of evidence must be complete and point exclusively to the guilt of the accused, proving the case beyond a reasonable doubt.",
+          "Under Section 114, Illustration (a) of the Evidence Act, 1872, if a person is in possession of recently stolen goods and cannot account for it, it can be presumed that they are either the thief or have received the goods knowing them to be stolen.",
+          "To extend this presumption from robbery to murder, the prosecution must present evidence showing that the robbery and the murder occurred as part of the same transaction."
+        ],
+        "application": [
+          "The Court found that the proven circumstances—the accused's presence and the recovery of the ornaments—were not sufficient to form a complete chain of evidence for a murder conviction.",
+          "While this evidence created a \"highly suspicious situation,\" it did not conclusively prove that the accused committed the murder.",
+          "The Court applied the presumption under Section 114 of the Evidence Act to the recovery of the ornaments, which supported a conviction for robbery (Section 392 IPC).",
+          "However, the Court noted a lack of evidence to connect the robbery and the murder as part of the same transaction. Without this link, the presumption of guilt could not be extended from robbery to the more serious charge of murder."
+        ],
+        "conclusion": "The Supreme Court concluded that the prosecution had failed to prove the charge of murder under Section 302 IPC beyond a reasonable doubt. The circumstantial evidence was insufficient to establish the accused's guilt for murder. Therefore, the Court acquitted the accused of the murder charge, overturning the convictions of the trial court and the High Court on this specific issue."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the conviction under Section 392 IPC is well founded and should be upheld.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Gold ornaments belonging to the deceased were recovered from the possession of the accused appellant.",
+          "The accused did not provide an explanation for being in possession of these ornaments."
+        ],
+        "law": [
+          "Section 114, Illustration (a) of the Evidence Act, 1872, allows a court to presume that a person in possession of stolen goods soon after the theft is either the thief or has received the goods knowing them to be stolen, unless they can account for their possession."
+        ],
+        "application": [
+          "The Court applied the presumption permissible under Section 114, Illustration (a) of the Evidence Act to the facts of the case.",
+          "Since the accused was found in possession of the deceased's ornaments and failed to explain how he acquired them, the Court presumed that he had committed robbery to obtain them.",
+          "The Court noted that while this presumption was sufficient to establish the charge of robbery, it was not enough, without further evidence, to prove that the accused also committed murder during the same transaction."
+        ],
+        "conclusion": "The Supreme Court concluded that based on the legal presumption arising from the unexplained possession of the stolen ornaments, the conviction of the accused appellant under Section 392 IPC (robbery) was well-founded and therefore upheld it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the prosecution has successfully proven the charge under Section 302 IPC against the accused.",
+      "appellant_arguments": [
+        "The circumstances, including the recovery of the deceased's ornaments from the accused, do not conclusively prove the appellant's involvement in the murder and are insufficient to sustain a conviction under Section 302 IPC."
+      ],
+      "respondent_arguments": [
+        "The evidence, particularly the recovery of the deceased's ornaments from the accused, is sufficient to prove the charge of murder under Section 302 IPC."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the conviction under Section 392 IPC is well founded and should be upheld.",
+      "appellant_arguments": [
+        "The circumstances do not conclusively prove the appellant's involvement in the robbery."
+      ],
+      "respondent_arguments": [
+        "The recovery of the deceased's ornaments from the appellant's possession gives rise to a presumption of guilt for robbery under Section 114 of the Evidence Act, making the conviction under Section 392 IPC well-founded."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "392",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "114, Illustration (a)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sanwat Khan and Anr. v. State of Rajasthan",
+        "citation": "AIR 1956 SC 54",
+        "principle": "With the aid of the presumption under Section 114 of the Evidence Act, a charge of murder cannot be brought home unless there is evidence to show that the robbery and the murder occurred at the same time, i.e., in the course of the same transaction.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A conviction under Section 392 of the Indian Penal Code (IPC) can be well-founded based on the presumption permissible under Illustration (a) of Section 114 of the Evidence Act, even when the prosecution fails to prove a related charge under Section 302 IPC.",
+    "obiter": [
+      "The trial court and the High Court erred in holding the accused guilty for the offence under Section 302 IPC when the charge could not be held to be proved."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court determined that while the recovery of the deceased's ornaments from the accused's possession is sufficient to establish a conviction for robbery under Section 392 IPC based on the presumption in Section 114 of the Evidence Act, this circumstance alone is not enough to prove the more serious charge of murder under Section 302 IPC. The evidence did not conclusively point to the accused's involvement in the act of murder itself.",
+    "legal_tests_applied": [
+      "Presumption permissible under Illustration (a) of Section 114 of the Evidence Act: This test was applied to determine that the possession of recently stolen goods (the deceased's ornaments) makes it likely that the possessor is either the thief or has received the goods knowing them to be stolen, thus founding the conviction for robbery."
+    ],
+    "why_appellant_lost": [
+      "The conviction under Section 392 IPC (robbery) was upheld because the recovery of the deceased's ornaments from the appellant's possession gave rise to a presumption of guilt for robbery under Illustration (a) of Section 114 of the Evidence Act."
+    ],
+    "why_respondent_won": [
+      "The prosecution succeeded in upholding the conviction under Section 392 IPC (robbery) because the court held that the presumption permissible under Illustration (a) of Section 114 of the Evidence Act was applicable, making the conviction well-founded."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p3_07c86698"
+    ]
+  }
+}

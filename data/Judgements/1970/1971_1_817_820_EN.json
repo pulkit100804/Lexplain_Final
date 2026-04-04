@@ -1,0 +1,127 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court (Trial Court)",
+    "impugned_order": "Judgment and order dated August 29, 1966 of the Gujarat High Court in Criminal Revision Application No. 291 of 1966.",
+    "high_court_proceedings": "The appellant filed a Criminal Revision Application (No. 291 of 1966) before the Gujarat High Court challenging his conviction. The High Court admitted the petition and issued notice to the respondent, but ultimately rejected the revision petition.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court after obtaining a certificate from the High Court under Article 134(1)(c) of the Constitution."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside and acquitted",
+    "sentence_status": "set aside",
+    "directions": [
+      "The fine levied if it had been recovered from the appellant will be refunded to him."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the cognizance of an offense taken by a magistrate based on a police report under Section 173 of the Cr.P.C. is valid, when Section 72 of the Indian Post Office Act, 1898 requires a formal 'complaint' by specified authorities.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, a postal official, was convicted under Section 55 of the Indian Post Office Act, 1898.",
+          "The case was initiated after postal authorities gave information to the police, who then investigated and submitted a report under Section 173 of the Code of Criminal Procedure (Cr.P.C.).",
+          "The Magistrate took cognizance of the offense based on this police report, not on a formal complaint from the postal authorities."
+        ],
+        "law": [
+          "Section 72 of the Indian Post Office Act requires that for offenses like the one in question, a court can only take cognizance \"upon complaint made by order of, or under authority from, the Director General or a Post Master General.\"",
+          "The Post Office Act does not define the term 'complaint'.",
+          "Section 4(1)(h) of the Cr.P.C. defines a 'complaint' as an allegation made to a Magistrate to initiate action, but explicitly states that it \"does not include the report of a police officer.\""
+        ],
+        "application": [
+          "The Court determined that the word 'complaint' in Section 72 of the Post Office Act should be understood as defined in the Cr.P.C.",
+          "The purpose of Section 72 is to protect postal officials from frivolous prosecutions by requiring a formal, considered decision to prosecute from high-level authorities, not just a request for a police investigation.",
+          "A police report, which formed the basis of the prosecution in this case, is explicitly excluded from the definition of a 'complaint' under the Cr.P.C.",
+          "Therefore, the mandatory requirement of a formal 'complaint' under Section 72 was not met. An information given to the police or a sanction for a police prosecution is insufficient."
+        ],
+        "conclusion": "The Supreme Court concluded that the magistrate was not competent to take cognizance of the case because it was based on a police report, not a formal 'complaint' as mandated by Section 72 of the Post Office Act. As a result, the entire trial was invalid and the conviction was without the authority of law."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the cognizance of an offense taken by a magistrate based on a police report under Section 173 of the Cr.P.C. is valid, when Section 72 of the Indian Post Office Act, 1898 requires a formal 'complaint' by specified authorities.",
+      "appellant_arguments": [
+        "The appellant's trial was illegal because the case was not initiated based on a 'complaint' made by order of, or under authority from, the Director-General or Post Master General, as mandated by Section 72 of the Indian Post Office Act.",
+        "The case was taken cognizance of based on a police report under Section 173 of the Cr.P.C., which is explicitly excluded from the definition of a 'complaint' in the Cr.P.C.",
+        "Since there was no valid 'complaint' as required by law, the magistrate was incompetent to take cognizance of the offense, making the trial and subsequent conviction invalid."
+      ],
+      "respondent_arguments": [
+        "The investigation was launched based on information given by the postal authorities.",
+        "The investigation was made after obtaining the sanction of the concerned Post Master General, which should be considered sufficient compliance with the Act."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Post Office Act, 1898",
+        "section": "72",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Emperor v. Rohini Kumar Sen",
+        "citation": "X Cal. Weekly Notes 1029",
+        "principle": "A prosecution is vitiated for failure to comply with the requirements of Section 72 of the Indian Post Office Act, 1898.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Gnanaprakasam Baranabas v. State",
+        "citation": "I.L.R. [1953] T.C. 600",
+        "principle": "A prosecution under the Indian Post Office Act, 1898, must be initiated by a complaint as required by Section 72 of the Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Narotamdas Bhikhabai v. State of Gujarat",
+        "citation": "(1962) 2 Cr. L.J. 165",
+        "principle": "A prosecution under the Indian Post Office Act, 1898, must be initiated by a complaint as required by Section 72 of the Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Alubhai Mujabhai v. State of Gujarat",
+        "citation": "7 Gujarat Law Reporter 698",
+        "principle": "A prosecution under the Indian Post Office Act, 1898, must be initiated by a complaint as required by Section 72 of the Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The mandate of Section 72 of the Act requires a formal complaint as contemplated by Section 4(1)(h) of the Criminal Procedure Code for a court to take cognizance of an offense. A police report under Section 173 of the Criminal Procedure Code is insufficient.",
+    "obiter": [
+      "If the legislature contemplated that a mere information to the police by the appropriate authority is sufficient, then there was no need to enact Section 72.",
+      "If all that was required was to obtain the sanction of the concerned authority, then the legislature would have enacted a provision similar to Section 197 of the Criminal Procedure Code."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The term 'complaint' in Section 72 of the Indian Post Office Act, 1898, requires a formal complaint as defined in the Criminal Procedure Code, not merely providing information to the police or sanctioning a police investigation. The legislative intent was to create a specific procedural safeguard, distinct from a mere sanction (like Section 197 Cr.P.C.) or a standard police report. Because the magistrate took cognizance of the offense based on a police report under Section 173 Cr.P.C., which is explicitly not a 'complaint', the magistrate was incompetent to take cognizance, rendering the entire trial and conviction invalid.",
+    "legal_tests_applied": [
+      "Statutory interpretation of the term 'complaint' by analyzing its context within Section 72 of the Indian Post Office Act.",
+      "Analysis of legislative intent by comparing the specific wording of Section 72 with alternative procedural mechanisms the legislature could have chosen, such as a sanction requirement similar to Section 197 of the Cr.P.C."
+    ],
+    "why_appellant_won": [
+      "The mandate of Section 72 is that there should be a formal complaint as contemplated by Section 4(1)(h) of the Criminal Procedure Code.",
+      "The case was taken cognizance of based on a police report under Section 173 of the Cr.P.C., which is not a valid 'complaint' for the purposes of initiating proceedings under the Post Office Act.",
+      "If the legislature intended for a mere information to the police to be sufficient, there would have been no need to enact Section 72.",
+      "If the legislature only required a sanction for prosecution, it would have enacted a provision similar to Section 197 of the Cr.P.C.; its choice not to do so indicates a requirement for a formal complaint.",
+      "As there was no valid complaint, the magistrate was incompetent to take cognizance of the offense, making the trial invalid."
+    ],
+    "why_respondent_lost": [
+      "An information laid before the police or even a sanction granted for a prosecution by the police would not meet the requirements of Section 72.",
+      "The respondent's argument that the investigation was launched on information from postal authorities and with the sanction of the Post Master General was deemed legally insufficient to satisfy the statutory mandate for a formal complaint."
+    ],
+    "policy_considerations": [
+      "The purpose behind Section 72 is that officials of the postal department should not be harassed with frivolous prosecutions.",
+      "Before a prosecution is launched, the authorities mentioned in Section 72 must examine the appropriateness of launching it and either file a complaint themselves or authorize the filing of such a complaint, a requirement not met by simply asking the police to investigate."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.why_respondent_lost[0]": [
+      "p1_afab5803"
+    ]
+  }
+}

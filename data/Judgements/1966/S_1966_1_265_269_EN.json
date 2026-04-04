@@ -1,0 +1,127 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (presumably, based on the conviction for murder under s. 302 Indian Penal Code)",
+    "impugned_order": "Judgment and order dated March 2, 1964, of the Allahabad High Court in Criminal Appeal No. 2531 of 1963 referred No. 160 of 1963.",
+    "high_court_proceedings": "The Allahabad High Court heard Criminal Appeal No. 2531 of 1963 referred No. 160 of 1963. The outcome of the appeal in the High Court is not explicitly stated, but since the Supreme Court appeal is from the High Court's judgment and order, and the appellant was convicted of murder, it can be inferred that the High Court upheld the conviction.",
+    "supreme_court_posture": "The appellant, Sita Ram, appealed to the Supreme Court after his conviction for murder was seemingly upheld by the Allahabad High Court. The Supreme Court dismissed the appeal, finding it without merit. The Supreme Court declined to re-evaluate the factual findings of the lower courts regarding the letter and the strained relationship between the appellant and his wife."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "upheld",
+    "sentence_status": "upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court, in an appeal by special leave, should interfere with the concurrent findings of fact by the lower courts that the relations between the appellant and his wife were strained.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Two lower courts had made a concurrent finding of fact that the relationship between the appellant and his wife was strained.",
+          "This finding was based on evidence showing the appellant suspected his wife's fidelity and charged her with unchastity.",
+          "The appellant, in his appeal by special leave, asked the Supreme Court to question this finding."
+        ],
+        "law": [
+          "A concurrent finding of fact by two lower courts cannot be lightly permitted to be questioned in an appeal by special leave to the Supreme Court."
+        ],
+        "application": [
+          "The Supreme Court identified the lower courts' conclusion about the strained relationship as a finding of fact.",
+          "The Court noted that the appellant's counsel had not presented any ground that would justify the Supreme Court re-examining the evidence for itself."
+        ],
+        "conclusion": "The Supreme Court refused to interfere with the concurrent finding of fact by the lower courts that the relations between the appellant and his wife were strained, as no valid grounds were presented to justify re-examining the evidence."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a letter containing a confession, addressed to a police officer but written when the officer was not present, is inadmissible in evidence as a 'confession made to a police officer' under Section 25 of the Evidence Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant wrote a letter containing a confession to the murder of his wife.",
+          "The letter was addressed to a Sub-Inspector of police.",
+          "The appellant left the letter on a table near the victim's body and locked the house.",
+          "The police officer was not present when the letter was written and was unaware of its existence at that time.",
+          "The Sub-Inspector later recovered the letter from the scene."
+        ],
+        "law": [
+          "Section 25 of the Indian Evidence Act, 1872, which states: \"No confession made to a police officer shall be proved as against a person accused of any offence.\""
+        ],
+        "application": [
+          "The majority opinion (Sarkar, C.J. and Mudholkar, J.) reasoned that for a confession to be \"made to a police officer,\" the officer's presence or awareness is a key factor.",
+          "They argued that since the police officer was not nearby when the letter was written and did not know it was being written, it did not constitute a confession made *to* him.",
+          "The court stated that simply addressing the letter to a police officer did not, by itself, bring the confession under the prohibition of Section 25, especially when the officer was not present or involved at the time of its creation."
+        ],
+        "conclusion": "The Supreme Court (by majority) rejected the argument that the letter was inadmissible. It held that a confessional letter, although addressed to a police officer, is not a 'confession made to a police officer' under Section 25 of the Evidence Act if the officer was not present or aware of the letter being written at that time. Therefore, the letter was admissible in evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court, in an appeal by special leave, should interfere with the concurrent findings of fact by the lower courts that the relations between the appellant and his wife were strained.",
+      "appellant_arguments": [
+        "The appellant's counsel sought to question the lower courts' finding of fact that the relationship was strained, implying the Supreme Court should re-examine the evidence."
+      ],
+      "respondent_arguments": [
+        "A concurrent finding of fact by two lower courts should not be lightly questioned or interfered with in an appeal by special leave, especially when no grounds have been made out to justify it."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a letter containing a confession, addressed to a police officer but written when the officer was not present, is inadmissible in evidence as a 'confession made to a police officer' under Section 25 of the Evidence Act.",
+      "appellant_arguments": [
+        "The letter (Ex. Ka-9) amounts to a confession made to a police officer and is therefore inadmissible under Section 25 of the Evidence Act. It was addressed to the Sub-Inspector, written with the intention that he should receive it, and was ultimately recovered by him, which is as effective as if it were sent to him directly."
+      ],
+      "respondent_arguments": [
+        "The confession letter is admissible. The act of writing a letter and leaving it to be found does not constitute a confession 'made to' a police officer within the meaning of Section 25, as the officer was not present when the confession was recorded."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "25",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "R. V. Hurribole",
+        "citation": "",
+        "principle": "Section 25 of the Evidence Act, which was intended as a wholesome protection to the accused, should be construed in its widest and most popular signification.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A confession contained in a letter addressed to a police officer is not a \"confession made to a police officer\" barred by Section 25 of the Evidence Act if the officer was not nearby or aware of the letter being written at the time of its creation.",
+    "obiter": [
+      "Even without the confessional statement, there was sufficient material on the basis of which the appellant's conviction could be sustained.",
+      "In its widest and most popular signification, the phrase 'confession made to a police officer' includes a confession made to a police officer in a letter written to him and subsequently received by him."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A letter containing a confession, even if addressed to a police officer, is not a 'confession made to a police officer' and is therefore not inadmissible under Section 25 of the Evidence Act if the police officer was not nearby when the letter was written or knew that it was being written. Furthermore, the Supreme Court will not lightly interfere with a concurrent finding of fact by two lower courts in an appeal by special leave unless specific grounds are established to justify such an intervention.",
+    "legal_tests_applied": [
+      "A concurrent finding of fact by two lower courts cannot be lightly permitted to be questioned in an appeal by special leave unless a specific ground is made out to justify it.",
+      "For a confession to be inadmissible under Section 25 of the Evidence Act as one 'made to a police officer', the officer must be present or in the vicinity when the confession is recorded; a letter written in the officer's absence does not meet this test."
+    ],
+    "why_appellant_lost": [
+      "The appellant failed to make out any ground that would justify the Supreme Court looking into the evidence to question the lower courts' concurrent finding of fact that his relationship with his wife was strained.",
+      "The court ruled that the confessional letter was not a 'confession made to a police officer' within the bar created by Section 25 of the Evidence Act, because the police officer was not nearby when the letter was written or knew that it was being written.",
+      "The court found that even without the confessional statement, there was sufficient other material (motive, opportunity, subsequent conduct, false explanation) on which the appellant's conviction could be sustained."
+    ],
+    "why_respondent_won": [
+      "The Supreme Court adhered to its practice of not lightly interfering with concurrent findings of fact from lower courts in an appeal by special leave.",
+      "The court determined that the confessional letter was admissible evidence because the circumstances of its creation (written when no police officer was present) did not fall within the prohibition of Section 25 of the Evidence Act."
+    ],
+    "policy_considerations": [
+      "The court considered the argument that Section 25 of the Evidence Act was intended as a 'wholesome protection to the accused' and should be construed in its 'widest and most popular signification', but did not find it applicable to a confession written in a letter when no police officer was present."
+    ]
+  },
+  "evidence_map": {}
+}

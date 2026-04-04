@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate's Court (Trial Court)",
+    "impugned_order": "Judgment and order dated July 21, 1967 of the Kerala High Court in Criminal Appeal No. 109 of 1966.",
+    "high_court_proceedings": "The Magistrate upheld the appellant's contention. The High Court, on appeal (Criminal Appeal No. 109 of 1966), held to the contrary.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by certificate. The Supreme Court allowed the appeal, set aside the judgment of the High Court, and restored the judgment of the Magistrate."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The judgment of the High Court is set aside and that of the Magistrate is restored.",
+      "The appellant's bail bond shall be treated as cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a cash memo can be considered a valid warranty under Rule 12A of the Prevention of Food Adulteration Act, 1954, even if it does not expressly state that the article of food is of the same nature, substance, and quality as demanded by the vendor.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "An appellant, a wholesaler, was accused of selling adulterated compounded asafoetida.",
+          "The appellant argued that he had purchased the goods from a distributor and received a cash memo.",
+          "This cash memo contained the words \"quality is upto the mark\"."
+        ],
+        "law": [
+          "The case centered on the proviso to Rule 12-A of the Prevention of Food Adulteration Rules, 1955.",
+          "This proviso states that a formal warranty is not necessary if the cash memo itself contains a warranty certifying that the food is the same in nature, substance, and quality as demanded by the vendor."
+        ],
+        "application": [
+          "The Court rejected the respondent's argument that the cash memo must expressly use the specific words \"same in nature, substance and quality\".",
+          "The Court reasoned that since the proviso explicitly states that a warranty in the prescribed form is *not* necessary, requiring the exact same wording would be like \"re-writing the rule\" and would defeat the purpose of the proviso.",
+          "Instead, the Court held that if the words used in the cash memo can be reasonably interpreted to have the same effect as certifying the nature, substance, and quality of the food, it is a valid warranty.",
+          "Applying this to the specific facts, the Court interpreted the phrase \"quality is upto the mark\" from the perspective of a tradesman, not a lawyer.",
+          "It concluded that this phrase meant the quality was up to the standard required by the Act.",
+          "Furthermore, because the name of the article (asafoetida) was already on the cash memo, the term \"quality\" was interpreted to implicitly include the article's \"nature and substance\"."
+        ],
+        "conclusion": "The Supreme Court concluded that a cash memo can be considered a valid warranty under the proviso to Rule 12A even if it does not use the exact statutory language. As long as the words used, like \"quality is upto the mark,\" can be reasonably interpreted by a tradesman to mean that the article is not adulterated and meets the required standards, it is sufficient."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a cash memo can be considered a valid warranty under Rule 12A of the Prevention of Food Adulteration Act, 1954, even if it does not expressly state that the article of food is of the same nature, substance, and quality as demanded by the vendor.",
+      "appellant_arguments": [
+        "The appellant argued that the cash memo he received, which stated that the \"quality is upto the mark\", constituted a valid warranty under the proviso to Rule 12-A of the Prevention of Food Adulteration Rules, 1955.",
+        "He contended that because the cash memo contained this warranty, a separate warranty in a prescribed form was not necessary to claim protection under the Act."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that for a cash memo to serve as a valid warranty, it must expressly state that the food mentioned was the same in nature, substance, and quality as demanded by the vendor.",
+        "If these specific words were not present in the cash memo, the proviso to Rule 12-A would not apply."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "Section 19(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Food Adulteration Rules, 1955",
+        "section": "Rule 12A",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "When a rule's proviso expressly states that a warranty in a prescribed form is not necessary in certain eventualities, it is an error to hold that the exact same wording must nevertheless exist in the alternative document, such as a label or cash memo. If the words used in the warranty can be reasonably interpreted to have the same effect as certifying the 'nature, substance, and quality' of an article of food, the warranty will be considered valid under the proviso.",
+    "obiter": [
+      "The court is not concerned with the question of whether the rule itself is contrary to the provisions of the Act and proceeds on the assumption that it is valid.",
+      "English cases interpreting different statutes are not necessary to refer to, as the language of the relevant sections is different.",
+      "The Act is of wide application, and if its object can be achieved by giving a reasonable interpretation to the rule without disorganizing trade, it is the court's duty to do so."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When the proviso to Rule 12A expressly states that no warranty in the prescribed form shall be necessary in certain eventualities, it would be rewriting the rule to hold that the same exact wording must nevertheless exist in the label or the cash memo. If the words used in the warranty can be reasonably interpreted to have the same effect as certifying the \"nature, substance and quality\" of an article of food, the warranty will fall within the protection of the proviso.",
+    "legal_tests_applied": [
+      "Whether the words in the warranty can reasonably be interpreted to have the same effect as certifying 'the nature, substance and quality' of an article of food."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The Act is of wide application and millions of small traders have to comply with its provisions. If the object underlying the Act can be achieved without disorganising the trade by giving a reasonable interpretation to Rule 12A, it is the court's duty to do so.",
+      "The object of the Act is not defeated even if traders use ordinary language of the trade or popular language in warranties."
+    ]
+  },
+  "evidence_map": {
+    "citations.statutes[0].act_name": [
+      "p1_ee56d29a",
+      "p2_18752d8e",
+      "p3_06764954"
+    ]
+  }
+}

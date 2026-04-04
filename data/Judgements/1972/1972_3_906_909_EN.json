@@ -1,0 +1,122 @@
+{
+  "procedural_history": {
+    "originating_court": "Munsif Magistrate of Karoli, District Bharatpur, Rajasthan",
+    "impugned_order": "Order dated February 11 1971 of the Rajasthan High Court in S.B. Criminal Misc. Application No. 152 of 1971, which summarily dismissed a Revision application and rejected an application under Sec. 561A Criminal Procedure Code and a prayer for a certificate of fitness of the case to appeal to the Supreme Court.",
+    "high_court_proceedings": "1. Revision application dismissed summarily.\n2. Application under Sec. 561A Criminal Procedure Code to correct an illegality in the sentence failed.\n3. Prayer for a certificate of fitness of the case to appeal to the Supreme Court was rejected.",
+    "supreme_court_posture": "The appellant applied under Art. 136 of the Constitution to the Supreme Court. That application was admitted only on the question of the period of imprisonment awarded in default of payment of fine. The Supreme Court allowed the appeal in part, reducing the sentence of one year's rigorous imprisonment awarded in default of payment of fine to six months rigorous imprisonment."
+  },
+  "decision": {
+    "appeal_result": "Allowed in part",
+    "conviction_status": "Upheld",
+    "sentence_status": "Modified",
+    "directions": [
+      "The sentence of one year's rigorous imprisonment awarded in default of payment of fine is reduced to six months rigorous imprisonment.",
+      "The rest of the sentence shall stand."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the sentence of one year's rigorous imprisonment awarded by the Magistrate in default of payment of fine was in excess of his powers, considering the limitations under Section 33 of the Criminal Procedure Code and Section 65 of the Indian Penal Code.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A Munsif Magistrate, with the powers of a 1st Class Magistrate, convicted the appellant under Section 406 of the Indian Penal Code (IPC).",
+          "The Magistrate sentenced the appellant to two years' rigorous imprisonment and a fine of Rs. 2,000.",
+          "In default of paying the fine, the Magistrate ordered a further sentence of one year's rigorous imprisonment."
+        ],
+        "law": [
+          {
+            "law_name": "Section 65, Indian Penal Code (IPC)",
+            "explanation": "This section provides a general rule that the term of imprisonment in default of payment of a fine shall not exceed one-fourth of the maximum term of imprisonment fixed for the offence."
+          },
+          {
+            "law_name": "Section 32, Criminal Procedure Code (CrPC)",
+            "explanation": "This section limits the sentencing powers of a 1st Class Magistrate to a term of imprisonment not exceeding two years and a fine not exceeding Rs. 2,000."
+          },
+          {
+            "law_name": "Section 33, Criminal Procedure Code (CrPC)",
+            "explanation": "This section specifically governs a Magistrate's power to award imprisonment in default of a fine. It states that the default term cannot exceed one-fourth of the term of imprisonment which the Magistrate is competent to inflict as punishment for the offence."
+          }
+        ],
+        "application": [
+          "The Court first noted that even under the general rule of Section 65 IPC, the sentence was excessive. The maximum punishment for an offence under Section 406 IPC is three years. One-fourth of three years is nine months, which is less than the one-year sentence awarded by the Magistrate.",
+          "However, the Court held that the specific powers of the Magistrate, as defined by the Criminal Procedure Code, were the controlling factor.",
+          "The Court read Sections 32 and 33 of the CrPC together. Section 32 limits the Magistrate's power to award substantive imprisonment to a maximum of two years.",
+          "Applying Section 33, the maximum default sentence the Magistrate could impose is one-fourth of the term he is competent to inflict. Since the Magistrate's competence is limited to two years (24 months) by Section 32, the maximum default sentence he could award was one-fourth of two years, which is six months.",
+          "The Court reasoned that just as a Magistrate cannot impose the maximum sentence for the offence (three years for S. 406) because his power is limited to two years, he also cannot use that higher maximum to calculate the default sentence. The calculation must be based on his own limited sentencing power."
+        ],
+        "conclusion": "The Supreme Court concluded that the sentence of one year's rigorous imprisonment in default of payment of fine was in excess of the Magistrate's powers. The Court allowed the appeal on this point and reduced the default sentence from one year to six months' rigorous imprisonment."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the sentence of one year's rigorous imprisonment awarded by the Magistrate in default of payment of fine was in excess of his powers, considering the limitations under Section 33 of the Criminal Procedure Code and Section 65 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The appellant contended that the sentence of one year's imprisonment in default of payment of fine was in excess of the Magistrate's powers.",
+        "This argument was based on Section 33 of the Criminal Procedure Code.",
+        "Under Section 32(1)(a) of the CrPC, a first-class Magistrate's power to impose a substantive sentence is limited to two years.",
+        "The proviso to Section 33 CrPC states that the term of imprisonment in default of a fine shall not exceed one-fourth of the term of imprisonment which the Magistrate is competent to inflict.",
+        "Therefore, the Magistrate could only award a maximum of six months (one-fourth of two years) imprisonment in default of the fine, making the one-year sentence illegal."
+      ],
+      "respondent_arguments": [
+        "The respondent (State of Rajasthan) argued that Section 65 of the Indian Penal Code was the relevant provision.",
+        "Section 65 IPC limits the default sentence to one-fourth of the maximum term of imprisonment fixed for the offence itself, not the specific Magistrate's sentencing power."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code, 1898",
+        "section": "33",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code, 1898",
+        "section": "32",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "65",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Reg v. Muhammad Saib",
+        "citation": "I.L.R. 1 Mad. 277 (F.B.)",
+        "principle": "That the specific provision in the Criminal Procedure Code regarding a Magistrate's power to impose imprisonment in default of a fine overrules the general provision of Section 65 of the Indian Penal Code. The Court used this case's reasoning by analogy.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The specific provisions of Section 33 of the Criminal Procedure Code, 1898, which limit a Magistrate's sentencing powers, override the general provisions of Section 65 of the Indian Penal Code. Therefore, a sentence imposed by a Magistrate in default of payment of a fine must not exceed the limits prescribed by the Criminal Procedure Code.",
+    "obiter": [
+      "It would have been better if the High Court had corrected the obvious illegality and excess of power when the matter was brought to its notice."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A Magistrate's power to award imprisonment in default of a fine is specifically limited by Section 33 of the Criminal Procedure Code and cannot be expanded by resorting to the general provision of Section 65 of the Indian Penal Code. Just as a Magistrate's power to impose a substantive sentence is limited by Section 32 Cr.P.C. to a term less than the maximum prescribed for the offence, their power to award a default sentence is likewise limited by Section 33 Cr.P.C. to one-fourth of their own sentencing competency. Therefore, a Magistrate cannot award a period of imprisonment in default of payment of fine on the erroneous assumption that they have the power to award the maximum sentence prescribed for the offence itself.",
+    "legal_tests_applied": [
+      "The principle of harmonious construction: \"The terms s. 33 Cr. P.C. and s. 65 I.P.C., must therefore be harmonised.\"",
+      "The legal standard that a specific provision prevails over a general one: \"It is clear that Section 65 only fixes a maximum period of imprisonment which can be awarded for default of payment of fine whenever any court convicts. On the other hand, Section 33 Criminal Procedure Code governs specifically the powers of 1st Class Magistrates on this matter.\"",
+      "Reasoning by analogy: \"Just as a 1st Class Magistrate trying an offence punishable under. Seotion 406 Indian Penal Code cannor'impose the maximum amount of imprisonment prescribed by this Section, because his powers of awarding imprison· i1ent are specifically limited to those conferred to Section 32 Criminal Procedure Code, so also he cannot, by resorting .to Section 65 lnrlian Penal C«!e, award a period of imprisonment in default of payment of fine...\""
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It would have been better if this obvious illegality and excess of power could have been corrected by the High Court when the matter was brought to its notice by means of an application under Section 561A Criminal Procedure Code."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p4_546b8957"
+    ]
+  }
+}

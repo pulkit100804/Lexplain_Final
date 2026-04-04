@@ -1,0 +1,60 @@
+{
+  "case_id": "e855c0ca-e532-435a-a879-0105016d976c",
+  "tenant_id": "case1_tenant",
+  "agent": "agent_4b_event_builder",
+  "input_refs": [
+    "role_tagged_graph.json",
+    "entities.json"
+  ],
+  "created_at": "2026-03-19T12:55:19.430652+00:00",
+  "events": [
+    {
+      "event_id": "evt_001",
+      "event_type": "action",
+      "actor": "accused",
+      "action": "struck",
+      "target": "victim",
+      "object": "iron rod",
+      "time": "On the evening of 5th July",
+      "location": null,
+      "description": "On the evening of 5th July, the accused struck the victim multiple times with an iron rod during an altercation.",
+      "source_node_id": "n_001"
+    },
+    {
+      "event_id": "evt_002",
+      "event_type": "state",
+      "actor": null,
+      "action": "injured",
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": "the hospital",
+      "description": "The victim sustained serious injuries and was taken to the hospital, where he later died.",
+      "source_node_id": "n_002"
+    },
+    {
+      "event_id": "evt_003",
+      "event_type": "state",
+      "actor": null,
+      "action": "died",
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": "the hospital",
+      "description": "The victim sustained serious injuries and was taken to the hospital, where he later died.",
+      "source_node_id": "n_002"
+    },
+    {
+      "event_id": "evt_004",
+      "event_type": "evidence",
+      "actor": null,
+      "action": "recovered",
+      "target": null,
+      "object": "iron rod",
+      "time": null,
+      "location": "s residence",
+      "description": "The police recovered the iron rod from the accused residence.",
+      "source_node_id": "n_003"
+    }
+  ]
+}

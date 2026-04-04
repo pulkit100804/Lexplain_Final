@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge",
+    "impugned_order": "Judgment and Order dated 07.04.2008 of the High Court of Punjab and Haryana at Chandigarh in Criminal Appeal No. 160-DBA of 1994.",
+    "high_court_proceedings": "The High Court disposed of the appeal of the Sessions Judge on the ground that the right to private defence at the part of the appellant was not made out.",
+    "supreme_court_posture": "The appellant, aggrieved by the High Court's judgment, preferred an appeal to the Supreme Court under Section 379 of the Code of Criminal Procedure, 1973."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed",
+    "conviction_status": "The conviction under Section 302 IPC is set aside and converted/modified to one under Section 304 Part-I / 304(1) IPC.",
+    "sentence_status": "A sentence of 7 years’ rigorous imprisonment is imposed on the appellant.",
+    "directions": [
+      "The other part of the sentence to remain as it is."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellant should be converted from Section 302 IPC to Section 304 Part-I IPC.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "An altercation occurred between the appellant and the victim.",
+          "During the altercation, the victim aimed a rifle at the appellant.",
+          "In response to this perceived imminent danger, the appellant fired a gunshot at the victim, hitting him in the chest and killing him.",
+          "The appellant claimed he acted in the exercise of his right of private defence.",
+          "The trial court acquitted the appellant, but the High Court reversed this and convicted him for murder under Section 302 IPC."
+        ],
+        "law": [
+          "The Court considered Exception II to Section 300 of the Indian Penal Code (IPC).",
+          "This exception states that culpable homicide is not murder if the offender, while exercising the right of private defence in good faith, exceeds the power given to them by law and causes death without premeditation."
+        ],
+        "application": [
+          "The Court found that the appellant was exercising his right of private defence, as he faced an imminent threat when the deceased aimed a rifle at him.",
+          "However, the Court determined that the appellant exceeded the power given to him by law under this right.",
+          "The reasoning for this was that the appellant fired at the deceased's chest, which indicated an act that went beyond what was necessary for self-defence.",
+          "The Court also noted that the appellant acted without premeditation.",
+          "Because the appellant acted in good faith to defend himself but used excessive force, his actions fell under the exception to Section 300 IPC, making the offence culpable homicide not amounting to murder, rather than murder."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellant's act was not murder under Section 302 IPC but culpable homicide not amounting to murder. Therefore, it set aside the High Court's judgment and converted the conviction to Section 304 Part-I of the IPC."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellant should be converted from Section 302 IPC to Section 304 Part-I IPC.",
+      "appellant_arguments": [
+        "The High Court erred by reversing the trial court's well-reasoned acquittal by re-appreciating the evidence differently.",
+        "The incident was a clear case of the right to private defence, making the conviction under Section 302 IPC unwarranted."
+      ],
+      "respondent_arguments": [
+        "The appeal is not based on any cogent reasons and is filed on surmises and conjectures.",
+        "The High Court's judgment was well-reasoned, took all material evidence and witness testimonies into consideration, and does not require interference."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "100",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "300",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "304 Part I",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The binding legal rule cannot be determined from the provided text, as it lacks the court's reasoning and analysis.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appellant's act falls under Exception 2 to Section 300 of the IPC. While a right to private defence of the body existed, the appellant exceeded the power given by law and caused the death of the person against whom the right was being exercised. This was done without premeditation and without any intention of doing more harm than was necessary for the purpose of such defence, thus constituting culpable homicide not amounting to murder.",
+    "legal_tests_applied": [
+      "For a plea of private defence to succeed in totality, it must be proved that there existed a right to private defence in favour of the accused, and that this right extended to causing death.",
+      "Exception 2 to Section 300 IPC applies if the offender, in the exercise in good faith of the right of private defence, exceeds the power given to him by law and causes death without premeditation and without any intention of doing more harm than is necessary for the purpose of such defence.",
+      "The right to private defence cannot be claimed by the accused if disproportionate harm has been caused."
+    ],
+    "why_appellant_lost": [
+      "The appellant's plea for a full acquittal based on the right to private defence failed because the court determined that more harm than necessary was caused, meaning the appellant exceeded the power given by law for such defence."
+    ],
+    "why_respondent_won": [
+      "The respondent succeeded in maintaining a conviction (albeit for a lesser offence) because the court found that the appellant's right of private defence did not extend to causing death in this instance, and that the harm caused was disproportionate to the threat."
+    ],
+    "policy_considerations": [
+      "The right of self-defence is a very valuable right. It has a social purpose. That right should not be construed narrowly."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,134 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge, Mahasu",
+    "impugned_order": "Judgment and order dated September 16, 1971, of the Himachal Pradesh High Court in Criminal Appeal No. 37 of 1970 and Murder Reference No. 3 of 1970, which confirmed the conviction and death sentence.",
+    "high_court_proceedings": "The Sessions Judge convicted Nika Ram under section 302 of the Indian Penal Code and sentenced him to death. The High Court of Himachal Pradesh confirmed the conviction and death sentence on appeal and reference under section 374 of the Code of Criminal Procedure.",
+    "supreme_court_posture": "Nika Ram appealed to the Supreme Court by special leave."
+  },
+  "decision": {
+    "appeal_result": "Partially allowed",
+    "conviction_status": "Maintained",
+    "sentence_status": "Reduced from death to imprisonment for life",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the confessional statement of the accused recorded by Shri Mahajan PW is admissible.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The confessional statement (Ex. PH) was recorded by Shri Mahajan, who was a second-class magistrate.",
+          "There was no evidence on the record to show that Shri Mahajan had been specially empowered by the State Government to record a confession.",
+          "The State's counsel (Mr. Khanna) argued the case on the assumption that Shri Mahajan was not specially empowered and conceded that such a confession would be inadmissible.",
+          "The court also found that the confession was recorded during the investigation of the case, as the police had already been informed and were proceeding to arrest the accused when the statement was taken."
+        ],
+        "law": [
+          "Under Section 164 of the Code of Criminal Procedure, a second-class magistrate can only record a confession if they are \"specially empowered in this behalf by the State Government\".",
+          "A confession recorded by a second-class magistrate who is not specially empowered is inadmissible in evidence."
+        ],
+        "application": [
+          "The court applied the rule from Section 164 of the Code of Criminal Procedure to the facts of the case.",
+          "It noted the absence of any proof that Shri Mahajan, a second-class magistrate, had the special authority required by the law to record the confession.",
+          "The court accepted the concession from the State's counsel that without this special empowerment, the confession was inadmissible.",
+          "The court also determined that the confession was recorded during the investigation, which meant the strict procedural requirements of Section 164 applied."
+        ],
+        "conclusion": "The Supreme Court decided that the confessional statement was inadmissible because it was recorded by a second-class magistrate who was not specially empowered by the State Government to do so, in violation of the requirements of Section 164 of the Code of Criminal Procedure."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the evidence on record is sufficient to justify the conviction of the accused-appellant.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted of murdering his wife, a conviction upheld by the High Court.",
+          "The lower courts relied on a confessional statement made by the accused to a Tahsildar (Shri Mahajan) as well as other evidence.",
+          "On appeal to the Supreme Court, the appellant argued that the evidence was insufficient for conviction.",
+          "A key part of this argument was that the confessional statement was inadmissible because the Tahsildar was a second-class magistrate not empowered to record confessions under Section 164 of the Code of Criminal Procedure."
+        ],
+        "law": [
+          "Under Section 164 of the Code of Criminal Procedure, only specific magistrates (Presidency, First Class, or specially empowered Second Class) are authorized to record a confession during an investigation."
+        ],
+        "application": [
+          "The Supreme Court acknowledged the appellant's strong argument that the confession recorded by the Tahsildar was likely inadmissible.",
+          "However, the Court found it unnecessary to definitively rule on the admissibility of the confession.",
+          "Instead, the Court decided to exclude the contested confessional statement from its consideration entirely.",
+          "It then evaluated the remaining evidence on the record to determine if it was sufficient on its own to prove guilt."
+        ],
+        "conclusion": "The Supreme Court concluded that even after excluding the disputed confession, the other material and circumstances on record were sufficient to prove the guilt of the accused. Therefore, it rejected the appellant's argument that the evidence was insufficient to justify the conviction."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the confessional statement of the accused recorded by Shri Mahajan PW is admissible.",
+      "appellant_arguments": [
+        "The confessional statement was recorded during the investigation of the case.",
+        "The magistrate, Shri Mahajan, was not a second-class magistrate specially empowered by the State Government to record a confession."
+      ],
+      "respondent_arguments": [
+        "The restriction on the admissibility of a confession only applies if it is recorded during the course of an investigation, not if it is recorded prior to the commencement of the investigation."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the evidence on record is sufficient to justify the conviction of the accused-appellant.",
+      "appellant_arguments": [
+        "The material on record is not sufficient to justify the conviction of the accused."
+      ],
+      "respondent_arguments": [
+        "The view taken by the High Court to convict the accused was correct and justified by the evidence."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "164",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Uttar Pradesh v. Singhara Singh and Others",
+        "citation": "[1964] 4 S.C.R. 485",
+        "principle": "When a statute confers a power on certain judicial officers, that power can only be exercised by those officers. This principle was applied to interpret section 164 and hold that safeguards created for an accused person cannot be ignored or abrogated by having a confession recorded by a lower class magistrate not empowered to do so.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Nazir Ahmed v. King Emperor",
+        "citation": "L.R. 63 I.A. 372",
+        "principle": "When a statute confers a power on certain judicial officers, that power can only be exercised by those officers. This principle was applied to interpret section 164 and hold that safeguards created for an accused person cannot be ignored or abrogated by having a confession recorded by a lower class magistrate not empowered to do so.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A magistrate not empowered under Section 164 to record a confession is barred from giving oral evidence of such a confession. The statutory safeguards for recording confessions cannot be bypassed by allowing a magistrate who lacks the power to formally record the confession to instead give oral evidence of it.",
+    "obiter": [
+      "However in the present case even if the confession was excluded the rest of the material on record proved the guilt of the accused."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the confessional statement recorded by the lower-class magistrate was inadmissible because the safeguards in Section 164 cannot be circumvented, the conviction was maintained because the rest of the material on record, even after excluding the confession, was sufficient to prove the guilt of the accused.",
+    "legal_tests_applied": [
+      "Statutory Interpretation of Section 164: When a statute confers a power on certain judicial officers (in this case, higher-class magistrates), that power can only be exercised by those officers. The safeguards created by the statute for the benefit of an accused person cannot be rendered nugatory by having an unempowered, lower-class magistrate perform the function."
+    ],
+    "why_appellant_lost": [
+      "The appellant lost on the issue of conviction because the court found that even if the confession was excluded, \"the rest of .the .material on record proved the gliilt of the accused.\""
+    ],
+    "why_respondent_won": [
+      "The respondent succeeded in upholding the conviction because the court agreed that the other evidence on record, independent of the inadmissible confession, was sufficient to justify the finding of guilt."
+    ],
+    "policy_considerations": [
+      "It would be an \"unnatural construction\" of Section 164 to hold that the safeguards designed for the benefit of an accused could be ignored by a lower-class magistrate when they must be followed by a higher-class one.",
+      "Allowing a lower-class magistrate to give oral evidence of a confession when a higher-class magistrate is prevented from doing so would create an anomaly and \"practically abrogate the safeguards created in s. 164 for the benefit of an accused person.\""
+    ]
+  },
+  "evidence_map": {}
+}

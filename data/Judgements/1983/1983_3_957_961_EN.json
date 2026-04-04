@@ -1,0 +1,109 @@
+{
+  "procedural_history": {
+    "originating_court": "District Magistrate of Nowgong (detaining authority)",
+    "impugned_order": "Order of detention under section 3(2) read with section 3(3) of the National Security Act, 1980",
+    "high_court_proceedings": "The Gauhati High Court heard contentions, including that the detention order was vitiated if the detaining authority didn't specify which supply/service it had in mind. The High Court agreed with this contention and set aside the order of detention in Civil Rule (HC) No. 4/83 on February 2, 1983.",
+    "supreme_court_posture": "The District Magistrate of Nowgong and the State of Assam, being the detaining authority, appealed the High Court's decision to the Supreme Court by Special Leave Petition. The Supreme Court issued notice on the special leave petition on March 10, 1983, and subsequently heard the appeal, registered as Criminal Appeal No. 468 of 1983."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "the respondent would not be detained for the unexpired portion of the period."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an order of detention is vitiated if it does not specify the particulars of the essential supplies and services that the detenu is alleged to be disrupting.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A person was detained under the National Security Act.",
+          "The order of detention did not specify which particular essential supplies and services the person was alleged to be disrupting.",
+          "The detenu challenged the order, arguing it was invalid for this lack of specificity.",
+          "The High Court agreed with the detenu and set aside the detention order.",
+          "The case was then appealed to the Supreme Court."
+        ],
+        "law": [
+          "Under the National Security Act, a person can be detained to prevent them from acting in a manner prejudicial to the maintenance of supplies and services essential to the community.",
+          "The government had published a notification listing 16 specific supplies and services deemed essential.",
+          "A detenu has a statutory right to make an effective representation against their detention.",
+          "To make an effective representation, the detenu must be provided with specific particulars of the allegations against them."
+        ],
+        "application": [
+          "The Supreme Court focused on the detenu's right to make an effective representation.",
+          "It reasoned that this right is protected as long as the detenu receives the specific details needed to challenge the detention.",
+          "The Court distinguished between the 'order of detention' and the 'grounds of detention', which are served to the detenu shortly after the order.",
+          "It determined that the 'grounds of detention' are the proper place for providing the detailed particulars of the alleged disruptive activities.",
+          "The Court held that as long as a full disclosure of the particulars is made in the grounds of detention, the detenu's right to make an effective representation is not prejudiced.",
+          "Therefore, the absence of these particulars in the initial detention order itself does not harm the detenu's rights, provided they are supplied in the subsequent grounds."
+        ],
+        "conclusion": "The Supreme Court rejected the argument and held that a detention order is not vitiated (invalidated) if it does not specify the particulars of the essential supplies and services. The order remains valid as long as those particulars are provided in the 'grounds of detention' which are served to the detenu soon after the detention order is issued."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an order of detention is vitiated if it does not specify the particulars of the essential supplies and services that the detenu is alleged to be disrupting.",
+      "appellant_arguments": [
+        "The order of detention is not vitiated by the non-specification of particulars, as long as those particulars are provided in the grounds of detention served to the detenu.",
+        "It would be impossible for the detaining authority to specify which particular services and supplies would be disrupted by the future conduct of the detenu."
+      ],
+      "respondent_arguments": [
+        "An order of detention is vitiated if the detaining authority does not specify in the order which particular supply and/or service the detenu is alleged to be disrupting.",
+        "A detenu can only make an effective representation against their detention when specific particulars of the allegations are provided to them."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "National Security Act, 1980",
+        "section": "Section 3(2) and 3(3)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "A. K. Roy v. Union of India",
+        "citation": "AIR 1982 SC 710",
+        "principle": "The case was relied upon to frame the legal question of whether, for an effective representation, it is necessary to specify in the detention order itself the particular essential supplies and services affected by the detenu's activities, or if it is sufficient to provide these details in the grounds for detention.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An order of detention is not vitiated by the non-specification of required particulars within the order itself, provided that those particulars are fully disclosed in the grounds of detention served on the detenu in quick succession. The right of a detenu to make an effective representation is not prejudiced as long as the grounds of detention provide the specific material necessary to challenge the detention.",
+    "obiter": [
+      "If a detaining authority is satisfied based on past conduct, it can also make an order of detention for the prevention of future conduct based on a reasonable apprehension of its repetition."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Under the statutory scheme, a detenu's right to make a representation arises after the grounds of detention are served, not at the moment the order is issued. The purpose of providing specific particulars is to enable the detenu to make an effective representation. Therefore, a full disclosure of particulars in the grounds of detention, which are served in quick succession to the order, sufficiently protects the detenu's right. The non-specification of these particulars in the detention order itself does not vitiate the order, as long as they are provided in the grounds.",
+    "legal_tests_applied": [
+      "Whether the detenu is able to make an 'effective representation' against the detention based on the information provided."
+    ],
+    "why_appellant_won": [
+      "The right to represent is triggered after the grounds are served on the detenu, not when the order is made.",
+      "A full disclosure made in the grounds of detention in no way prejudices the right guaranteed to the detenu to make an effective representation challenging his detention.",
+      "Non-specification of the required particulars in the order of detention would not vitiate the order as long as the particulars are provided in the grounds in support of the order of detention which in quick succession of the detention order are served on the detenu."
+    ],
+    "why_respondent_lost": [
+      "The respondent's argument that the detention order itself must specify the particulars was rejected because the statutory scheme ties the right to representation to the service of the grounds, not the order.",
+      "The respondent's concern about the ability to make an effective representation was found to be satisfied by the provision of particulars in the grounds of detention, rather than the order itself."
+    ],
+    "policy_considerations": [
+      "Since the citizen is detained without trial and on the basis of satisfaction of a notified authority the right to represent assumes importance.",
+      "The right of the detenu to make a representation should be without fetters and as wide as possible."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.policy_considerations[0]": [
+      "p1_73fc1786"
+    ]
+  }
+}

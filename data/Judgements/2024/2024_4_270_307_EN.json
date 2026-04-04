@@ -1,0 +1,118 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (Special Court constituted under the 2008 Act)",
+    "impugned_order": "Order of a Division Bench of the High Court of Judicature at Bombay passed on 17.01.2023, disposing of the appellant’s application for bail with liberty to approach the Trial Court for filing a fresh application for bail.",
+    "high_court_proceedings": "The appellant filed a bail application before the High Court. The Division Bench heard the application and disposed of it on 17.01.2023, refusing to consider the appellant's petition for bail on merit and giving the appellant liberty to approach the Trial Court for filing a fresh application for bail. The High Court's reasoning was primarily based on the filing of a second supplementary chargesheet by the NIA.",
+    "supreme_court_posture": "The appellant assailed the High Court's order before the Supreme Court. The Supreme Court allowed the appeal, disagreeing with the High Court's decision to not consider the bail application on its merits. The Supreme Court stated that it would exercise the same appellate jurisdiction that vested in the High Court and consider the appellant's prayer for bail, which was not considered by the High Court on merit."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Criminal Miscellaneous Petition No.166531 of 2023 shall also stand disposed of."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether there are reasonable grounds for believing that the accusations against the appellant for the commission of offences under Chapters IV and VI of the Unlawful Activities (Prevention) Act, 1967, are prima facie true.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was detained and charged with offences under Chapters IV and VI of the Unlawful Activities (Prevention) Act, 1967 (UAPA).",
+          "The prosecution alleged her involvement in a larger conspiracy with the CPI (Maoist), a banned terrorist organization, following provocative speeches and performances that led to violence.",
+          "The High Court had previously disposed of her bail application, leading to this appeal before the Supreme Court.",
+          "The prosecution argued against bail based on the gravity of the offences and the bail-restricting clause of Section 43D(5) of the UAPA."
+        ],
+        "law": [
+          "The central legal provision is Section 43D(5) of the UAPA, 1967.",
+          "This section states that bail should not be granted if the court, after perusing the case diary and police reports, is of the opinion that there are \"reasonable grounds for believing that the accusation against such person is prima facie true.\"",
+          "This strict test for bail applies specifically to offences under Chapters IV and VI of the UAPA."
+        ],
+        "application": [
+          "The Court systematically examined the allegations and evidence against the appellant for each relevant offence.",
+          "Regarding Section 18 (conspiracy to commit a terrorist act), the Court found the evidence, even if taken as true, only showed her participation in meetings and encouraging women to join a \"struggle for new democratic revolution.\" This was deemed insufficient to prima facie constitute an offence under this section.",
+          "Regarding Chapter VI offences (association with a terrorist organization, like Sections 38 and 39), the Court formed a prima facie opinion that the allegations were \"not true.\"",
+          "The Court specifically noted that none of the materials revealed the appellant receiving any funds or having a direct role in fundraising.",
+          "Overall, the Court found that the evidence did not show any \"direct involvement of the appellant in the offending acts\" that would trigger the bail-restricting provisions of the UAPA."
+        ],
+        "conclusion": "The Supreme Court concluded that there were no reasonable grounds for believing that the accusations against the appellant for offences under Chapters IV and VI of the UAPA were prima facie true. Since the prosecution failed to meet the high threshold required by Section 43D(5) of the Act, the Court rejected the premise for denying bail, set aside the High Court's order, and directed the appellant to be released on bail."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether there are reasonable grounds for believing that the accusations against the appellant for the commission of offences under Chapters IV and VI of the Unlawful Activities (Prevention) Act, 1967, are prima facie true.",
+      "appellant_arguments": [
+        "The materials presented by the prosecution are insufficient to establish a prima facie case, as they do not reveal any receipt of funds by the appellant or her direct involvement in raising or collecting funds."
+      ],
+      "respondent_arguments": [
+        "The prosecution argued that a list of materials it presented was sufficient to form a prima facie case against the appellant for the alleged offences."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Unlawful Activities (Prevention) Act, 1967",
+        "section": "Chapter IV, Chapter VI, Section 2(m), Section 15, Section 18-B5",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The National Investigation Agency Act, 2008",
+        "section": "Section 21(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Vernon v. The State of Maharashtra & Anr.",
+        "citation": "[2023] 10 SCR 867 : (2023) INSC 655",
+        "principle": "For the rule of statutory construction that an expression used in different parts of a statute should ordinarily convey the same meaning unless a contrary intention is apparent.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kalyan Chandra Sarkar v. Rajesh Ranjan",
+        "citation": "[(2004) 7 SCC 528 : 2004 SCC (Cri) 1977]",
+        "principle": "Cited for the legal principles and considerations governing the grant of bail.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "To satisfy the prima facie test for granting bail, the court must conduct a surface-analysis of the probative value of the evidence. The quality of this evidence must satisfy the court of its worth, and the materials must, on their face, demonstrate the complicity of the accused in the commission of the alleged offenses.",
+    "obiter": [
+      "An expression used in different parts of a statute shall ordinarily convey the same meaning unless a contrary intention appears from the statute itself.",
+      "While granting bail, some reasons for the prima facie conclusion that bail is warranted must be indicated."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In the light of our observations made in this judgment and on our perusal of the evidences collected against her as also the allegations made by prosecution witnesses, we are of the opinion that there is no reasonable ground for believing that the accusations against the appellants for commission of the offences incorporated in Chapter IV and VI of the 1967 Act are prima facie true.",
+    "legal_tests_applied": [
+      "If the court, having regard to the materials brought on record, is satisfied that in all probability he may not be ultimately convicted, an order granting bail may be passed.",
+      "The satisfaction of the court as regards his likelihood of not committing an offence while on bail must be construed to mean an offence under the Act and not any offence whatsoever be it a minor or major offence."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "We are furthermore of the opinion that the restrictions on the power of the court to grant bail should not be pushed too far."
+    ]
+  },
+  "evidence_map": {
+    "citations.statutes[0].act_name": [
+      "p1_10e9c8a3"
+    ],
+    "citations.statutes[1].act_name": [
+      "p5_116c7849"
+    ],
+    "citations.cases[0].case_name": [
+      "p3_48601b80"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p34_f26a8134"
+    ]
+  }
+}

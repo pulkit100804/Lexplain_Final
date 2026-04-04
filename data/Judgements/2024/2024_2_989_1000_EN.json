@@ -1,0 +1,108 @@
+{
+  "procedural_history": {
+    "originating_court": "Executive Magistrate Office, Solapur",
+    "impugned_order": "Judgment and Order dated 23.11.2010 of the High Court of Bombay at Aurangabad in CRLA No.6 of 2009",
+    "high_court_proceedings": "The appellant appealed the matter before the Bombay High Court, which dismissed the appeal.",
+    "supreme_court_posture": "The appellant filed a Special Leave Petition before the Supreme Court, which granted leave vide order dated 09.04.2012. The Supreme Court partly allowed the appeal (Criminal Appeal No. 666 of 2012)."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed",
+    "conviction_status": "The conviction under Section 302 of IPC is converted to Section 304 Part II of IPC.",
+    "sentence_status": "The sentence is reduced to 10 years of R.I.",
+    "directions": [
+      "The appellant shall be released forthwith from the jail, unless he is required in some other offence."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellant under Section 302 of the Indian Penal Code (IPC) for murder should be converted to culpable homicide not amounting to murder.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, in an inebriated state, got into a fight with his nine-months-pregnant wife.",
+          "During the quarrel, he poured kerosene on her and set her on fire, causing her death and the death of their unborn child.",
+          "The lower courts had convicted him of murder under Section 302 of the Indian Penal Code (IPC)."
+        ],
+        "law": [
+          "The Court distinguished between murder (Section 302 IPC) and culpable homicide not amounting to murder (Section 304 IPC).",
+          "The key difference lies in the mental state of the accused.",
+          "Section 304 Part II of the IPC applies when an act is done with the knowledge that it is likely to cause death, but without the intention to cause death."
+        ],
+        "application": [
+          "The Court found that the appellant's act was not premeditated but was the result of a \"sudden fight and quarrel in the heat of passion.\"",
+          "It reasoned that while the appellant had the knowledge that his act could result in death, he did not have the specific intention to kill his wife.",
+          "The Court cited a precedent with similar facts, Kalu Ram v. State of Rajasthan, where a murder conviction was also converted to culpable homicide not amounting to murder under Section 304 Part II IPC."
+        ],
+        "conclusion": "Based on the finding that the act was not premeditated and lacked the intention to kill, the Supreme Court concluded that the offense was culpable homicide not amounting to murder. It therefore converted the appellant's conviction from Section 302 IPC to Section 304 Part II IPC."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellant under Section 302 of the Indian Penal Code (IPC) for murder should be converted to culpable homicide not amounting to murder.",
+      "appellant_arguments": [
+        "The conviction under Section 302 of the IPC for murder should be converted to a lesser charge of culpable homicide not amounting to murder."
+      ],
+      "respondent_arguments": [
+        "The conviction for murder under Section 302 of the IPC, as upheld by the Trial Court and the High Court, was correct and should be maintained."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "300",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "304 Part II",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "316",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Kalu Ram v. State of Rajasthan",
+        "citation": "(2000) 10 SCC 324",
+        "principle": "An act committed in a sudden quarrel without premeditation, where the accused subsequently attempts to save the victim (in that case, by pouring water after setting the victim on fire), can indicate a lack of intention to cause death, warranting a conviction under Section 304 Part II of the IPC instead of Section 302.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An act causing the death of a pregnant woman, which also results in the death of her unborn child, may be classified as culpable homicide not amounting to murder under Section 304 Part II of the Indian Penal Code, and also constitutes an offense under Section 316 of the Code, based on the specific facts and circumstances of the case.",
+    "obiter": [
+      "There can be sufficient evidence to prove a case even if a witness who recorded a dying declaration is declared hostile."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Based on the evidence, the court determined that the incident was not a premeditated murder but a case of culpable homicide not amounting to murder. The act occurred during a sudden fight between the husband and wife, in the heat of passion, without a pre-planned intention to kill. Although the appellant had knowledge that his act of pouring kerosene could result in death, the crucial element of 'intention to cause death' was absent, thus placing the offense under Section 304 Part II of the IPC.",
+    "legal_tests_applied": [
+      "Exception 4 to Section 300 of the Indian Penal Code: The court assessed whether the act was committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel.",
+      "Distinction between Intention and Knowledge under Section 304 IPC: The court analyzed whether the accused had the 'intention to cause death' (which would fall under Part I) or merely the 'knowledge' that the act was likely to cause death (which falls under Part II)."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The act of the appellant was not premeditated, but is a result of sudden fight and quarrel in the heat of passion.",
+      "The facts of the case fall under the fourth exception to Section 300 of the IPC, which defines murder.",
+      "The court found that while the accused had knowledge of the consequences of his act, there was no intention to cause death, which is a necessary ingredient for a murder conviction under Section 302. The text states: 'it would be a case of culpable homicide not amounting to murder u/s. 304 Part II in as much as, though the accused had knowledge of the consequences of the act he was committing, yet there was no intention to cause death.'",
+      "The facts of the case were found to be similar to the precedent in Kalu Ram v. State of Rajasthan, where a similar act was held not to be murder. The court noted: 'The facts of the present case, as we have already discussed above, by and large reflect the same situation, nature of crime as well as the act of the accused and the consequences of his action.'"
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

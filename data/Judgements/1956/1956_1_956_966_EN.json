@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Assistant Labour Commissioner",
+    "impugned_order": "Judgment and order dated October 19, 1954 of the Labour Appellate Tribunal of India at Bombay in Appeal No. 76 of 1954, which affirmed the decision of the Provincial Industrial Court.",
+    "high_court_proceedings": "The Assistant Labour Commissioner dismissed the respondent's application for reinstatement and compensation. The respondent preferred a revision to the Provincial Industrial Court, which set aside the dismissal order and remanded the matter for enquiry. The Company appealed to the Labour Appellate Tribunal, which affirmed the decision of the Provincial Industrial Court and dismissed the appeal.",
+    "supreme_court_posture": "The Company (Central Provinces Transport Services Ltd.) preferred an appeal to the Supreme Court under Article 136 of the Constitution of India after the Labour Appellate Tribunal affirmed the Provincial Industrial Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Quashed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Directed the release forthwith of the detenue on the conclusion of the hearing on the 29th October, 1956."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an order of detention is valid if it is based on multiple grounds, and some of those grounds are found to be non-existent or irrelevant.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was detained under a detention order.",
+          "The order was based on the ground that the petitioner was smuggling three commodities: cloth, zari, and mercury.",
+          "Two of the commodities, cloth and zari, were found not to be essential articles, making the grounds related to them invalid.",
+          "The particulars of the detention furnished to the petitioner only related to the two invalid grounds (cloth and zari)."
+        ],
+        "law": [
+          "If a detention order is based on multiple grounds, the entire order may be invalidated if some of those grounds are found to be non-existent or irrelevant."
+        ],
+        "application": [
+          "The Court found that the detention order was based on a mix of valid (smuggling mercury) and invalid (smuggling cloth and zari) grounds.",
+          "The Court could not determine that the valid ground was the substantial reason for the detention and that the invalid grounds were merely inconsequential.",
+          "In fact, the evidence suggested the invalid grounds were significant, as the particulars provided to the detainee only mentioned the smuggling of cloth and zari.",
+          "Because the invalid grounds could not be severed from the valid one and likely influenced the decision to detain, the entire order was tainted."
+        ],
+        "conclusion": "The Supreme Court concluded that the order of detention was invalid and must be quashed. When a detention order is based on several grounds, and some are found to be invalid or non-existent, the entire order is vitiated if the court cannot be certain that the remaining valid grounds were the sole and substantial basis for the detention."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an order of detention is valid if it is based on multiple grounds, and some of those grounds are found to be non-existent or irrelevant.",
+      "appellant_arguments": [
+        "The detention order is invalid and must be quashed because it is based on multiple grounds (smuggling cloth, zari, and mercury), and two of those grounds (cloth and zari) are invalid as they are not essential articles.",
+        "The invalid grounds were not inconsequential, as evidenced by the fact that the particulars furnished to the detenue by the authorities related only to the invalid grounds (cloth and zari)."
+      ],
+      "respondent_arguments": [
+        "The detention order is valid because the smuggling of mercury, a valid ground, was the substantial basis for the detention, and the other grounds were of an inconsequential nature."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Central Provinces and Berar Industrial Disputes Settlement Act, 1947 (Act XXIII of 1947)",
+        "section": "s. 2(10), s. 2(12), s. 2(13), s. 16",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Industrial Disputes Act, 1947 (Act XIV of 1947)",
+        "section": "s. 2(k)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Western India Automobile Association v. Industrial Tribunal, Bombay",
+        "citation": "[1949] F.C.R. 321",
+        "principle": "The definition of an industrial dispute, as a dispute or difference in connection with the employment or non-employment of a person, was sufficiently wide to include a claim for reinstatement by a dismissed workman.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Under the Central Provinces and Berar Industrial Disputes Settlement Act, 1947, the term \"industrial dispute\" must be interpreted to include the claim of an individual employee who has been dismissed for reinstatement and compensation.",
+    "obiter": [
+      "The definition of \"employee\" in the Act includes a person who has been dismissed.",
+      "The purpose of all labor legislation is not solely to deal with collective disputes but can also encompass the enforcement of individual rights for which the legislation provides a specific forum.",
+      "The inclusive clause in the definition of \"employee\" was inserted out of an abundance of caution (ex abundanti cautela) and does not imply a general exclusion of dismissed employees from the definition."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When a detention order is based on multiple grounds, and some of those grounds are found to be invalid (in this case, smuggling items that were not essential articles), the entire order must be quashed unless the court can determine that the invalid grounds were of an inconsequential nature and the valid grounds were the substantial basis for the detention. Here, the evidence suggested the invalid grounds were significant, thus rendering the entire order bad in law.",
+    "legal_tests_applied": [
+      "Whether a detention order based on multiple grounds can be upheld if some grounds are invalid, which depends on whether the invalid grounds were inconsequential and the valid grounds were the substantial basis for the order."
+    ],
+    "why_appellant_lost": [
+      "The respondent (detaining authority) failed to place any material before the court to prove that the smuggling of mercury (the valid ground) was the substantial basis for the detention.",
+      "The respondent (detaining authority) failed to demonstrate that the smuggling of cloth and zari (the invalid grounds) was of an inconsequential nature."
+    ],
+    "why_respondent_won": [
+      "The appellant (detenue) successfully showed that the detention order was based on three grounds, two of which (smuggling cloth and zari) were invalid because they were not essential articles.",
+      "The appellant (detenue) successfully argued that the invalid grounds were not inconsequential, pointing to the fact that the particulars furnished by the authorities related only to the invalid grounds of cloth and zari, which indicated their significance."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

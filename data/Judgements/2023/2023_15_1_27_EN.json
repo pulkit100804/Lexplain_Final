@@ -1,0 +1,118 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Madhya Pradesh, Principal Seat at Jabalpur",
+    "impugned_order": "Judgment and Order dated 10.08.2017 in Cr.RFC No.1 of 2017 and Crl.A. No.84 of 2017",
+    "high_court_proceedings": "The High Court of Madhya Pradesh passed a Judgment and Order dated 10.08.2017 in Cr.RFC No.1 of 2017 and Crl.A. No.84 of 2017.",
+    "supreme_court_posture": "The Appellants approached the Supreme Court to challenge the Judgment and Order of the High Court of Madhya Pradesh."
+  },
+  "decision": {
+    "appeal_result": "Appeals allowed",
+    "conviction_status": "Conviction set aside",
+    "sentence_status": "Sentences set aside",
+    "directions": [
+      "The appellants shall be set at liberty forthwith, if their continued incarceration is not validly required in connection with any other case.",
+      "Fine amounts paid by them, if any, shall be refunded within eight weeks from today."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "In a case based on circumstantial evidence as there was no eyewitness to the kidnapping and murder, and where the prosecution’s case essentially turned upon the ‘recoveries’ made at the behest of the appellants-convicts, purportedly u/s.27, Evidence Act, whether their conviction on diﬀ erent counts and death sentence imposed on two out of the three appellants was justiﬁ ed, when the confessions were made before their arrest and prior to being ‘accused of any oﬀ ence’.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case against the appellants was based entirely on circumstantial evidence, as there were no eyewitnesses to the kidnapping and murder.",
+          "The prosecution's case depended almost entirely on the recovery of the dead body, murder weapon, and other objects, which were allegedly discovered based on confessions made by the appellants.",
+          "Crucially, the appellants made these confessions and led the police to the discoveries *before* they were formally arrested and *before* they were officially named as an 'accused of any offence'."
+        ],
+        "law": [
+          "The Court examined Section 27 of the Indian Evidence Act, which provides an exception to the general rule that confessions made to police are inadmissible.",
+          "For Section 27 to apply, two conditions are indispensable and must be met: the person giving the information must be (1) 'accused of an offence' and (2) 'in the custody of a police officer' at the time the information is given.",
+          "If these two pre-requisites are not met, any information or confession given to the police, even if it leads to a discovery, is inadmissible as evidence."
+        ],
+        "application": [
+          "The Court applied this law to the facts and found that at the time the appellants made their confessions, they did not meet the required legal status.",
+          "They had not been formally arrested, so they were not legally in 'police custody'.",
+          "They had not been named in the FIR or formally accused, so they were not 'accused of any offence'.",
+          "Because these mandatory conditions were not fulfilled, the exception under Section 27 could not be invoked.",
+          "Consequently, the evidence of the recoveries, which formed the entire basis of the prosecution's case, was deemed inadmissible and could not be used against the appellants."
+        ],
+        "conclusion": "The Supreme Court concluded that the failure to meet the legal requirements of Section 27 of the Evidence Act was a fatal flaw in the prosecution's case. Since the evidence of the recoveries was inadmissible, the chain of circumstantial evidence was broken and incomplete. The prosecution failed to prove guilt beyond a reasonable doubt. Therefore, the Court set aside the convictions and sentences of all the appellants and acquitted them."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "In a case based on circumstantial evidence as there was no eyewitness to the kidnapping and murder, and where the prosecution’s case essentially turned upon the ‘recoveries’ made at the behest of the appellants-convicts, purportedly u/s.27, Evidence Act, whether their conviction on diﬀ erent counts and death sentence imposed on two out of the three appellants was justiﬁ ed, when the confessions were made before their arrest and prior to being ‘accused of any oﬀ ence’.",
+      "appellant_arguments": [
+        "The conviction and death sentence were not justified because the prosecution's case was based on circumstantial evidence, primarily recoveries made under Section 27 of the Evidence Act.",
+        "The confessions that led to these recoveries were made before the appellants were arrested and before they were formally 'accused of any offence', making the recoveries legally invalid as evidence under Section 27."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments for the respondent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act",
+        "section": "26",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Nandlal Bharti vs. State of Uttar Pradesh",
+        "citation": "Criminal Appeal Nos. 64-65 of 2022, decided on 13.10.2022:2022 SCC OnLine SC 1396",
+        "principle": "For the doctrine that if any fact is discovered as a search was made on the strength of any information obtained from a prisoner, such a discovery is a guarantee that the information supplied by the prisoner is true.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Khet Singh vs. Union of India",
+        "citation": "[2002] 2 SCR 598 : (2002) 4 SCC 380",
+        "principle": "For the doctrine that if any fact is discovered as a search was made on the strength of any information obtained from a prisoner, such a discovery is a guarantee that the information supplied by the prisoner is true.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Manoj and others vs. State of Madhya Pradesh",
+        "citation": "(2023) 2 SCC 353",
+        "principle": "For the doctrine that if any fact is discovered as a search was made on the strength of any information obtained from a prisoner, such a discovery is a guarantee that the information supplied by the prisoner is true.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For evidence of discovery to be considered proven and reliable, the Investigating Officer must depose in court the exact statement attributed to the accused that led to the discovery, and cannot merely state that a discovery panchnama was drawn up based on the accused's willingness to produce an item.",
+    "obiter": [
+      "Information leading to the discovery of a fact, obtained from a person in custody, is admissible because the discovery itself guarantees that the information supplied by the prisoner is true.",
+      "In cases of circumstantial evidence, the circumstances from which an inference of guilt is sought to be drawn must be cogently and firmly established and should have a definite tendency unerringly pointing towards the guilt of the accused."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The purported discovery of the dead body, the murder weapon, and other material objects, even if at the behest of the appellants, cannot be proved against them. This is because the confessions leading to these discoveries were made before their formal arrest and prior to their being ‘accused of any offence’. Consequently, the appellants were not in ‘police custody’ at that specific point in time, rendering the exception under Section 27 of the Evidence Act inapplicable and making the confessions inadmissible under Section 26. This lapse by the police is fatal to the prosecution's case, which is based entirely on a chain of circumstantial evidence that now has yawning infirmities and gaps.",
+    "legal_tests_applied": [
+      "For a confession leading to the discovery of a fact to be admissible under the exception in Section 27 of the Evidence Act, the person making the statement must be 'accused of any offence' and in 'police custody' at the time the information is given.",
+      "In a case based on circumstantial evidence, the following conditions must be fulfilled: '1. The circumstances from which an inference of guilt is sought to be drawn must be cogently and ﬁ rmly established; 2. Those circumstances should be of a deﬁ nite tendency unerringly pointing towards guilt of the accused; 3. The circumstances, taken cumulatively, should form a chain so complete that there is no escape from the conclusion that within all human probability the crime was committed by the accused and none else; and'"
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The confession made by the appellant, before his arrest at 18:30 hours on 29.03.2013 and prior to his being ‘accused of any oﬀ ence’, would be directly hit by s.26 and there is no possibility of applying the exception u/s.27 to any information given by him in the course of such confession, even if it may have led to the discovery of any fact.",
+      "The other two appellants were also not named as the ‘accused’ in the FIR and were not ‘accused of any oﬀ ence’ till they were arrested and taken into ‘police custody’, well after the recording of their confessions and the alleged seizures based thereon.",
+      "This lapse on the part of the police is fatal.",
+      "There are cavernous gaps in the evidence that the prosecution would oﬀ er as an ‘unbroken chain unerringly pointing to the guilt of the appellants’.",
+      "The prosecution utterly failed to pass muster in establishing its case.",
+      "The degree of proof required to hold appellants guilty beyond reasonable doubt, on the strength of circumstantial evidence, was not established."
+    ],
+    "policy_considerations": [
+      "Oftentimes, Courts ﬁnd that reckless overzealousness and unbridled fervour coupled with scant regard for due procedures and practices on the part of the police, in picking upon those whom they perceive to be the guilty party and then building up a case against them, accomplishes the direct opposite of what they seek to achieve, by exposing gaping holes and weak links in the chain of evidence that they ultimately oﬀer, as is the situation now."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p4_915f3748"
+    ]
+  }
+}

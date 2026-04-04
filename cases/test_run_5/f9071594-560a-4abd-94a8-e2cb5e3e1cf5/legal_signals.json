@@ -1,0 +1,50 @@
+{
+  "case_id": "f9071594-560a-4abd-94a8-e2cb5e3e1cf5",
+  "tenant_id": "test_run_5",
+  "agent": "agent_5b_legal_signal_extractor",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json"
+  ],
+  "created_at": "2026-03-20T05:44:02.616790+00:00",
+  "signals": [
+    {
+      "signal_id": "sig_001",
+      "signal": "physical_force_used",
+      "categories": [
+        "force"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_001"
+      ]
+    },
+    {
+      "signal_id": "sig_002",
+      "signal": "death_occurred",
+      "categories": [
+        "death"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_002"
+      ]
+    },
+    {
+      "signal_id": "sig_003",
+      "signal": "death_following_force",
+      "categories": [
+        "death",
+        "force"
+      ],
+      "confidence": 0.9,
+      "source": "co_occurrence",
+      "source_fact_ids": [
+        "lf_001",
+        "lf_002"
+      ]
+    }
+  ]
+}

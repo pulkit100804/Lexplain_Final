@@ -1,0 +1,107 @@
+{
+  "procedural_history": {
+    "originating_court": "Unknown from the provided text. The text only mentions the Supreme Court and the State of Chhattisgarh, implying a lower court existed but is not named.",
+    "impugned_order": "Unknown from the provided text. The text indicates an appeal was made, suggesting a prior judgment, but the details of that judgment are not provided.",
+    "high_court_proceedings": "Unknown from the provided text. The text does not explicitly mention the High Court, but it is implied that the case may have been heard there before reaching the Supreme Court.",
+    "supreme_court_posture": "The Supreme Court allowed the appeal. The appellant was Hariprasad @ Kishan Sahu, and the respondent was the State of Chhattisgarh. The case was Criminal Appeal No. 1182 of 2012. The judgment was delivered by Justice Bela M. Trivedi."
+  },
+  "decision": {
+    "appeal_result": "The Appeal stands allowed accordingly.",
+    "conviction_status": "The appellant is acquitted from the charges levelled against him.",
+    "sentence_status": "The Judgment of Conviction and Order of Sentence passed by the Trial Court, as conﬁrmed by the High Court are set aside.",
+    "directions": [
+      "Since the appellant is on bail, his bail bonds shall stand cancelled forthwith."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court, while exercising its jurisdiction under Article 136 of the Constitution, can reappreciate evidence and overturn concurrent findings of fact recorded by the lower courts, especially when such findings are afflicted with ex-facie infirmities.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case came before the Supreme Court as an appeal under Article 136 of the Constitution.",
+          "Two lower courts, the Trial Court and the High Court, had already examined the evidence and reached the same conclusion (concurrent findings of fact), resulting in the appellant's conviction.",
+          "The state argued that the Supreme Court should not interfere with these concurrent findings."
+        ],
+        "law": [
+          "The Court articulated a legal principle regarding its jurisdiction under Article 136.",
+          "The general rule is that the Supreme Court should be slow to reappreciate evidence and overturn concurrent findings of fact from lower courts.",
+          "However, this rule is not absolute. The Court is not prohibited from such an exercise of jurisdiction when it finds that the lower courts' findings are afflicted with 'ex-facie infirmities' (i.e., obvious or apparent flaws)."
+        ],
+        "application": [
+          "Applying the exception to the general rule, the Court decided to thoroughly re-examine the oral and documentary evidence on record.",
+          "The Court's decision to intervene implies that it found the concurrent findings of the lower courts to be flawed or suffering from such 'ex-facie infirmities'.",
+          "The Court then re-evaluated the evidence against the legal requirements for proving a murder by poisoning and found the prosecution's case lacking."
+        ],
+        "conclusion": "The Supreme Court held that while it should generally refrain from upsetting concurrent findings of fact, it is not barred from doing so under Article 136. The Court can and will reappreciate evidence and overturn such findings if they suffer from obvious flaws. In this instance, the Court exercised this power, set aside the conviction, and acquitted the appellant."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court, while exercising its jurisdiction under Article 136 of the Constitution, can reappreciate evidence and overturn concurrent findings of fact recorded by the lower courts, especially when such findings are afflicted with ex-facie infirmities.",
+      "appellant_arguments": [
+        "The appellant, relying on the precedent in Sharad Birdhichand Sarda vs. State of Maharashtra, argued that in a case of alleged death by poisoning, the prosecution failed to meet its burden of proof. Specifically, the prosecution was required to prove that the accused had a clear motive, possessed the poison, and had the opportunity to administer it to the deceased. This argument implicitly calls for the Supreme Court to re-examine the evidence to see if these essential elements were established, thereby justifying interference with the lower courts' findings."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the Supreme Court should not interfere with the concurrent findings of conviction recorded by the trial court and the High Court, given the limited scope of its jurisdiction under Article 136 of the Constitution. They contended that the lower courts had already accepted the explanation for the delay in lodging the FIR and that the prosecution's case was well-supported by witnesses."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 136",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sharad Birdhichand Sarda vs. State of Maharashtra",
+        "citation": "(1984) 4 SCC 116",
+        "principle": "The Supreme Court should be slow in reappreciating evidence and upsetting findings recorded by lower courts, particularly while exercising jurisdiction under Article 136, but such exercise is not prohibited when the findings are afflicted with ex-facie infirmities.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Ravinder Kumar and Another Vs. State of Punjab",
+        "citation": "2001 (7) SCC 690",
+        "principle": "The Supreme Court should be slow in reappreciating evidence and upsetting findings recorded by lower courts, particularly while exercising jurisdiction under Article 136, but such exercise is not prohibited when the findings are afflicted with ex-facie infirmities.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "While the Supreme Court should be slow in reappreciating evidence and upsetting findings recorded by two lower courts, particularly under Article 136, such an exercise of jurisdiction is not prohibited when the Court finds that such findings are afflicted with ex-facie infirmities.",
+    "obiter": [
+      "As per the settled law, though a statement made by a person who is dying is made exception to the rule of hearsay and has been made admissible in evidence under Section 32 of the Evidence Act, it would not..."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "While the Supreme Court should be slow in reappreciating evidence and upsetting the findings recorded by two lower courts, particularly while exercising jurisdiction under Article 136, such an exercise of jurisdiction is not prohibited when the Court finds that such findings are afflicted with ex-facie infirmities.",
+    "legal_tests_applied": [
+      "In a case of alleged murder by poisoning, the prosecution must prove four important propositions: (1) there is a clear motive for an accused to administer poison to the deceased, (2) that the deceased died of poison said to have been administered, (3) that the accused had the poison in his possession, and (4) that the accused had an opportunity to administer the poison to the deceased."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The Supreme Court's jurisdiction under Article 136 should be exercised with caution, respecting the findings of lower courts, but it is not prohibited from intervening to correct findings that are clearly and obviously flawed on their face ('ex-facie infirmities') to prevent a miscarriage of justice."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p3_1ff68519",
+      "p5_6cdec207"
+    ],
+    "citations.cases[1].case_name": [
+      "p3_1ff68519",
+      "p8_23ed0660"
+    ],
+    "ratio_decidendi.obiter[0]": [
+      "p13_f26ad300"
+    ]
+  }
+}

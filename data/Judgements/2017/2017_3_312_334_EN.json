@@ -1,0 +1,91 @@
+{
+  "procedural_history": {
+    "originating_court": "Unknown (but implied to be a lower court since it was appealed)",
+    "impugned_order": "Implied to be a conviction or adverse ruling against the appellants in the originating court.",
+    "high_court_proceedings": "The case was appealed, implying proceedings in a High Court.",
+    "supreme_court_posture": "The appellants approached the Supreme Court after the appeals, presumably after an unfavorable ruling in the High Court."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "quashed and set-aside",
+    "sentence_status": "quashed and set-aside",
+    "directions": [
+      "The appellants herein be released forthwith, if not required in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the whole proceedings in the instant case were vitiated.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a prosecution under the Terrorist and Disruptive Activities (Prevention) Act (TADA).",
+          "Approvals for the prosecution were granted by the Superintendent of Police (PW-26) and the Inspector General (IG), CBI (PW-28)."
+        ],
+        "law": [
+          "Section 20-A of the TADA Act prescribes mandatory requirements that must be complied with before granting approval for prosecution.",
+          "A prosecution under TADA requires an intention to create terror in the minds of the public."
+        ],
+        "application": [
+          "The Court found that the approvals granted by the Superintendent of Police and the IG, CBI were \"completely invalid\" because they failed to comply with the requirements of Section 20-A of TADA.",
+          "The Court noted that the case lacked the necessary element of an \"intention to cause terror,\" which contributed to the invalidity of the approvals.",
+          "This failure to comply with Section 20-A rendered the subsequent sanction order for the prosecution illegal.",
+          "As a result of the illegal sanction order, the Court determined that the Designated Court under the TADA Act had \"grossly erred in taking cognizance of the case.\""
+        ],
+        "conclusion": "The Supreme Court decided that the entire proceedings were vitiated because the sanction order to prosecute under the TADA Act was illegal. The illegality stemmed from the failure to comply with the mandatory requirements of Section 20-A of TADA when granting the initial approvals for the prosecution."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the whole proceedings in the instant case were vitiated.",
+      "appellant_arguments": [
+        "The confessions of the accused were not voluntary as they were not recorded in a free atmosphere, violating directions given by the Court.",
+        "The confessions could not be relied upon as they contradicted each other.",
+        "The sanction granted by the competent authority was invalid."
+      ],
+      "respondent_arguments": [
+        "The State made submissions regarding the effect of non-compliance with Section 20-A(J)."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "",
+        "citation": "(1996) 11 SCC 179: [1996] 6 Suppl. SCR 631",
+        "principle": "Cited for a 'further observation' made by the Court in a subsequent paragraph of the judgment.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Non-compliance with Section 20-A(J) vitiates the whole proceedings.",
+    "obiter": [
+      "It would be dangerous for this Court, in the absence of legislative attempt, to provide with an opinion to define whether any activity falls within the definition of terrorist activity or not. After all the legislative intent behind enactment of any statute shall prevail."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "We are therefore of this considered opinion that as a result of illegal sanction order the criminal proceedings for prosecution under the TADA Act are vitiated entirely.",
+    "legal_tests_applied": [
+      "The court applied the rule that non-compliance with the mandatory requirement of prior approval under Section 20-A(1) of TADA vitiates the entire criminal proceedings. Consequently, any confessions recorded under the vitiated TADA proceedings cannot be looked into to establish guilt under other acts, such as the Arms Act or the Explosive Substances Act."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "We emphasize and deem it necessary to repeat that the gravity of the evil to the community from terrorism can never furnish an adequate reason for invading the personal liberty, except in accordance with the procedure established by the Constitution and the laws."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p23_3e9c6787"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p18_1183f574"
+    ]
+  }
+}

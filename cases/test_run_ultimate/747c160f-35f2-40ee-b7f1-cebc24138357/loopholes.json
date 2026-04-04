@@ -1,0 +1,347 @@
+{
+  "case_id": "747c160f-35f2-40ee-b7f1-cebc24138357",
+  "tenant_id": "test_run_ultimate",
+  "agent": "agent_8_loophole_miner",
+  "input_refs": [
+    "ingredient_report.json",
+    "precedent_comparison.json"
+  ],
+  "created_at": "2026-03-20T06:17:25.789721+00:00",
+  "loopholes": [
+    {
+      "type": "weak_evidence",
+      "related_section": "300",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "300.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "300",
+      "reason": "Ingredient 'the act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "300.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "300",
+      "reason": "Ingredient 'the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "300.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "300",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing death' (mens_rea) is partial. Precedent supports this failure: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death'",
+      "ingredient_id": "300.1",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Legal test on mens_rea applied by court"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "300",
+      "reason": "Ingredient 'the act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused' (mens_rea) is partial. Precedent supports this failure: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death'",
+      "ingredient_id": "300.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Legal test on mens_rea applied by court"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "300",
+      "reason": "Ingredient 'the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury' (mens_rea) is partial. Precedent supports this failure: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death'",
+      "ingredient_id": "300.4",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Legal test on mens_rea applied by court"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "304",
+      "reason": "Core ingredient 'mens_rea' (the act is done without any intention to cause such bodily injury as is likely to cause death) is NOT SATISFIED. [LLM downgrade] The evidence strongly indicates an intention to cause bodily injury likely to cause death (hitting the head with a wooden stick, as per the reasoning for 304.3). Therefore, it cannot be concluded that the act was done without such an intention.",
+      "ingredient_id": "304.6",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "304",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "304.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done without any intention to cause death' has low confidence (0.40). Status is PARTIAL — evidence does not fully satisfy this ingredient. Event shows action but intent/knowledge cannot be directly inferred from events alone.",
+      "ingredient_id": "304.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'the act by which the death is caused is done with the intention of causing death' (mens_rea) is partial. Precedent supports this failure: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death'",
+      "ingredient_id": "304.2",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Legal test on mens_rea applied by court"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done without any intention to cause death' (mens_rea) is partial. Precedent supports this failure: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death'",
+      "ingredient_id": "304.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Legal test on mens_rea applied by court"
+        }
+      ]
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "304",
+      "reason": "Ingredient 'the act is done without any intention to cause such bodily injury as is likely to cause death' (mens_rea) is not_satisfied. Precedent supports this failure: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death'",
+      "ingredient_id": "304.6",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Legal test on mens_rea applied by court"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (An act is done by a person who is compelled to do it by threats.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "94.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (The threats, at the time of doing the act, reasonably cause the apprehension that instant death to that person will otherwise be the consequence.) is NOT SATISFIED. [LLM downgrade] This ingredient requires the presence of threats causing apprehension of instant death. The provided evidence contains no mention of any threats, therefore this condition cannot be satisfied.",
+      "ingredient_id": "94.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (The person doing the act did not of his own accord place himself in the situation by which he became subject to such constraint.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "94.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (The person doing the act did not from a reasonable apprehension of harm to himself short of instant death place himself in the situation by which he became subject to such constraint.) is NOT SATISFIED. [LLM downgrade] There is no evidence to suggest that the accused placed himself in a situation of constraint due to a reasonable apprehension of harm. The events describe the accused acting in anger during an argument, not under duress or apprehension of harm.",
+      "ingredient_id": "94.4",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (The act is not murder.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "94.5",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception if compelled by associates to do an offence.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "94.7",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "94",
+      "reason": "Core ingredient 'actus_reus' (A person seized by a gang of dacoits, and forced, by threat of instant death, to do a thing which is an offence by law, is entitled to the benefit of this exception.) is NOT SATISFIED. [LLM downgrade] There is no evidence in the provided events, legal facts, or signals that mentions the accused being seized by a gang of dacoits or being forced by threats of instant death to commit an offense. Therefore, this ingredient is not applicable and cannot be satisfied.",
+      "ingredient_id": "94.8",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "307",
+      "reason": "Core ingredient 'actus_reus' (if hurt is caused (by a life-convict)) is NOT SATISFIED. [LLM downgrade] While hurt was caused by the act (as established in 307.4), there is no evidence to suggest that the accused is a 'life-convict'. Therefore, the condition 'by a life-convict' is not met, rendering this ingredient not satisfied.",
+      "ingredient_id": "307.6",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "weak_evidence",
+      "related_section": "302",
+      "reason": "Status is PARTIAL — evidence does not fully satisfy this ingredient. [LLM upgrade] The actus reus of causing death is satisfied, as the accused hit the victim on the head with a wooden stick (evt_001, lf_001), and the victim subsequently died (evt_002, lf_002). The use of a weapon on a vital body part (head) implies a mens rea of knowledge that such an act is likely to cause death or grievous bodily injury, which are elements of murder under IPC Section 300. However, the evidence also states the act occurred 'during a heated argument' and the accused 'acted in anger' (evt_001, evt_004), with 'no prior enmity' (evt_003). These contextual factors are crucial for distinguishing murder from culpable homicide not amounting to murder, as they suggest the possibility of an exception (e.g., sudden quarrel and heat of passion). While the core elements of a serious homicide (death, force, weapon) are present, the specific legal classification as 'murder' is not unequivocally established due to the potential applicability of these mitigating circumstances, thus rendering the ingredient 'partial'.",
+      "ingredient_id": "302",
+      "ingredient_category": "circumstance",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "100",
+      "reason": "Core ingredient 'actus_reus' (The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that death will otherwise be the consequence of such assault.) is NOT SATISFIED. [LLM downgrade] This ingredient requires evidence of an assault committed by the victim (the assailant in a private defence scenario) against the accused, which could reasonably cause apprehension of death to the accused. The provided evidence only describes the accused's actions against the victim and does not contain any information about an assault by the victim that would occasion the exercise of private defence.",
+      "ingredient_id": "100.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "100",
+      "reason": "Core ingredient 'actus_reus' (The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault.) is NOT SATISFIED. [LLM downgrade] Similar to ingredient 100.3, this ingredient requires evidence of an assault committed by the victim (the assailant) against the accused that could reasonably cause apprehension of grievous hurt. The provided evidence only describes the accused's actions against the victim and lacks any information about such an assault by the victim.",
+      "ingredient_id": "100.4",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "100",
+      "reason": "Core ingredient 'mens_rea' (The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "100.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "100",
+      "reason": "Core ingredient 'actus_reus' (The offence which occasions the exercise of the right is an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.) is NOT SATISFIED. [LLM downgrade] The provided evidence does not contain any information about an act of throwing or administering acid, or an attempt to do so, which is required to satisfy this ingredient.",
+      "ingredient_id": "100.6",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "100",
+      "reason": "Ingredient 'The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.' (mens_rea) is not_satisfied. Precedent supports this failure: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death'",
+      "ingredient_id": "100.5",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Legal test on mens_rea applied by court"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "304B",
+      "reason": "Core ingredient 'actus_reus' (the death occurs within seven years of her marriage) is NOT SATISFIED. [LLM downgrade] The provided evidence does not contain any information regarding the victim's marital status or the duration of her marriage, making it impossible to determine if the death occurred within seven years of marriage.",
+      "ingredient_id": "304B.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "304B",
+      "reason": "Core ingredient 'actus_reus' (dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "304B.8",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "101",
+      "reason": "Core ingredient 'actus_reus' (The right of private defence of the body extends to the voluntary causing to the assailant of any harm other than death.) is NOT SATISFIED. [LLM downgrade] This ingredient states that the right of private defence extends to causing 'any harm other than death'. However, the evidence indicates that the accused's action resulted in the death of the victim (evt_002, lf_002). Since death was caused, the harm inflicted was not 'harm other than death', meaning the accused's action exceeded the scope of harm permitted under this provision.",
+      "ingredient_id": "101.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "301",
+      "reason": "Core ingredient 'mens_rea' (The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.) is NOT SATISFIED. [LLM downgrade] The evidence clearly states that the accused hit 'the victim' (evt_001) and 'the victim' subsequently died (evt_002). There is no information suggesting that the accused intended to harm a different person or that a person other than the intended target was killed. Therefore, the person whose death was caused was indeed the person the offender acted against, directly contradicting the premise of this ingredient which describes a scenario of transferred intent.",
+      "ingredient_id": "301.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": []
+    },
+    {
+      "type": "precedent_supported_failure",
+      "related_section": "301",
+      "reason": "Ingredient 'The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.' (mens_rea) is not_satisfied. Precedent supports this failure: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death'",
+      "ingredient_id": "301.3",
+      "ingredient_category": "mens_rea",
+      "supporting_reference": [
+        {
+          "source": "precedent",
+          "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+          "pattern": "Legal test on mens_rea applied by court"
+        }
+      ]
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "87",
+      "reason": "Core ingredient 'actus_reus' (The act is not intended to cause grievous hurt.) is NOT SATISFIED. [LLM downgrade] The accused 'hit the victim on the head' with a 'wooden stick'. This act, directed at a vulnerable part of the body with a weapon, inherently carries a high likelihood of causing grievous hurt. The fact that the victim 'collapsed and later died' further underscores the severity of the injury inflicted. It is not logically plausible that such an act, even if committed in anger, was not intended to cause at least grievous hurt. Therefore, the statement 'The act is not intended to cause grievous hurt' is not satisfied by the evidence.",
+      "ingredient_id": "87.2",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "70",
+      "reason": "Core ingredient 'actus_reus' (The death of an offender does not discharge from liability any property that would, after their death, be legally liable for their debts.) is NOT SATISFIED. [LLM downgrade] The evidence indicates the 'victim died' (evt_002, lf_002, sig_002). However, this ingredient specifically refers to 'The death of an offender' and the subsequent liability of their property for debts. The provided evidence does not mention the death of an offender, nor does it contain any information about property liability or debts. Therefore, this ingredient is not satisfied.",
+      "ingredient_id": "70.3",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "115",
+      "reason": "Core ingredient 'actus_reus' (Whoever abets the commission of an offence) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "115.1",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    },
+    {
+      "type": "missing_core_ingredient",
+      "related_section": "115",
+      "reason": "Core ingredient 'actus_reus' (An act for which the abettor is liable in consequence of the abetment is done) is NOT SATISFIED. No evidence found in events, facts, or signals to support this ingredient.",
+      "ingredient_id": "115.5",
+      "ingredient_category": "actus_reus",
+      "supporting_reference": []
+    }
+  ],
+  "total_loopholes": 35,
+  "by_type": {
+    "precedent_supported_failure": 8,
+    "contradiction": 0,
+    "missing_core_ingredient": 21,
+    "weak_evidence": 6
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "procedural_history": {
+    "originating_court": "Assistant Sessions Judge, Farrukhabad",
+    "impugned_order": "Order made by the trial court on November 10, 1962, acquitting the respondents.",
+    "high_court_proceedings": "The appellant State filed an appeal in the High Court on March 29, 1963, against the trial court's order. The High Court accepted the respondent's contention that the appeal was filed out of time and dismissed the appeal on December 1, 1964.",
+    "supreme_court_posture": "The State appealed to the Supreme Court to settle an important question of law. However, the State did not press the appeal on merits and the Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Not applicable",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "What is the true scope of the expression 'time requisite for obtaining a copy of the decree, sentence or order appealed from' under Section 12(2) of the Indian Limitation Act, 1908, for the purpose of computing the period of limitation for an appeal?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The State filed an appeal in the Allahabad High Court against an order of acquittal.",
+          "The High Court dismissed the appeal, finding it was barred by the statute of limitations.",
+          "The High Court's decision was based on the fact that the appellant (the State) had obtained other copies of the order on earlier dates. It calculated the limitation period from these earlier dates, concluding that the appeal was filed too late.",
+          "The High Court held that the \"time requisite\" for obtaining a copy means the shortest time in which a copy could have been obtained, assuming the appellant acted with reasonable diligence."
+        ],
+        "law": [
+          "Under Section 12(2) of the Indian Limitation Act, 1908, the \"time requisite for obtaining a copy of the decree, sentence or order appealed from\" must be excluded when computing the limitation period for an appeal.",
+          "The Supreme Court interpreted the expression \"time requisite\" to mean the actual time taken by the court to make the specific copy, which is filed with the memorandum of appeal, available to the appellant.",
+          "This is the period that is beyond the appellant's control.",
+          "The provision does not mean the \"minimum time\" or \"shortest time\" in which a copy could have been obtained.",
+          "Section 12(2) places no obligation on an appellant to be prompt or diligent in applying for a copy of the order."
+        ],
+        "application": [
+          "The Supreme Court conducted a plain reading of Section 12(2) and found no justification for restricting its scope to require diligence or promptness from the appellant.",
+          "It explicitly rejected the reasoning of the Lahore High Court (relied upon by the Allahabad High Court), which held that \"time requisite\" means the shortest time an appellant could have obtained a copy.",
+          "The Court stated that the fact that the appellant had obtained other, earlier copies of the order was irrelevant. The calculation must be based on the time taken to obtain the specific copy that was actually filed with the appeal.",
+          "The Court endorsed the view of a Madras High Court Full Bench, which held that the excludable time is the time beyond the party's control that was occupied in obtaining the copy filed with the appeal, not some ideal or lesser period."
+        ],
+        "conclusion": "The Supreme Court concluded that the \"time requisite\" under Section 12(2) is the actual time taken to obtain the specific copy of the order that is filed with the appeal. The High Court was wrong to calculate the limitation period based on the shortest possible time or on other copies that the appellant had obtained earlier. Therefore, the High Court's decision to dismiss the appeal as time-barred was incorrect."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "What is the true scope of the expression 'time requisite for obtaining a copy of the decree, sentence or order appealed from' under Section 12(2) of the Indian Limitation Act, 1908, for the purpose of computing the period of limitation for an appeal?",
+      "appellant_arguments": [
+        "The appeal was filed within the limitation period because the time should be calculated based on the specific copy of the order that was produced along with the memorandum of appeal.",
+        "The time taken to obtain that particular copy (applied for on November 15, 1962, and ready on January 3, 1963) is the 'time requisite' that must be excluded for calculating the limitation period."
+      ],
+      "respondent_arguments": [
+        "The appeal was out of time and barred by limitation.",
+        "The appellant had applied for and obtained two other copies of the order prior to the one filed with the appeal.",
+        "The 'time requisite' should be calculated based on the time taken to obtain the earliest copy, and if done so, the appeal was filed beyond the prescribed period."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Limitation Act",
+        "section": "12(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Limitation Act",
+        "section": "Schedule I, entry 157",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Panjam v. Trimala Reddy",
+        "citation": "I.LR. 57 Mad. 560",
+        "principle": "The words 'time requisite for obtaining a copy of the decree' in s. 12 mean the time beyond the party's control occupied in obtaining the copy which is filed with the memorandum of appeal, and not an ideal lesser period which might have been occupied if the application for the copy had been filed on some other date.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kunju Kesavan v. M. M. Philip",
+        "citation": "A.LR. 1953 T.C. 552",
+        "principle": "To support the conclusion that the 'time requisite' for obtaining a copy is the actual time taken, not an ideal lesser period.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "B. Govind Raj Sewak Singh and Another v. Behuti Narain Singh",
+        "citation": "A.LR. 1950, All. 486",
+        "principle": "To support the conclusion that the 'time requisite' for obtaining a copy is the actual time taken, not an ideal lesser period.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "K. U. Singh v. M. R. Kachhi",
+        "citation": "A.LR. 1960 M.P. 140",
+        "principle": "To support the conclusion that the 'time requisite' for obtaining a copy is the actual time taken, not an ideal lesser period.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The words 'time requisite for obtaining a copy of the decree' mean the time beyond the party's control occupied in obtaining the copy which is filed with the memorandum of appeal, and not an ideal lesser period which might have been occupied if the application for the copy had been filed on some other date. The law does not require that an appellant must act with reasonable promptitude and diligence in applying for the copy.",
+    "obiter": [
+      "Any delay due to the default of the pleader of the appellant cannot be deducted.",
+      "There can be no question of any default if the steps taken by the appellant are in accordance with law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The expression 'time requisite for obtaining a copy of the decree' under Section 12(2) of the Limitation Act, 1908, refers to the time beyond the party's control that was actually occupied in obtaining the specific copy which is filed with the memorandum of appeal. It does not mean an ideal or the shortest possible period in which a copy could have been obtained. The court cannot read into the statute a requirement that the appellant must act with reasonable promptitude and diligence beyond what the law requires, nor can it substitute the time taken for one copy with the hypothetical shorter time for another.",
+    "legal_tests_applied": [
+      "The 'time requisite' for obtaining a copy of a decree means the time beyond the party's control occupied in obtaining the copy which is filed with the memorandum of appeal, and not an ideal lesser period which might have been occupied if the application for the copy had been filed on some other date."
+    ],
+    "why_appellant_lost": [
+      "Although the appellant's legal argument on the question of limitation was accepted by the court, the appeal was ultimately dismissed because the appellant (the State) informed the court that the appeal was brought mainly to settle the question of law and that it did not press the appeal on its merits."
+    ],
+    "why_respondent_won": [
+      "The respondent's legal argument that the appeal was barred by limitation was explicitly rejected by the court as not laying down the law correctly. However, the respondent won the case because the appellant (the State) conceded the appeal on its merits, leading to its dismissal."
+    ],
+    "policy_considerations": [
+      "While acknowledging the concern raised by the Judicial Committee about combating the 'dilatoriness of some Indian practitioner', the court held that as the law stands, the only recourse is for courts to be strict in applying the existing provisions of exclusion, not to invent new requirements of diligence that are not present in the language of the statute."
+    ]
+  },
+  "evidence_map": {}
+}

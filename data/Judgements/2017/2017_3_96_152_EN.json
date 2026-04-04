@@ -1,0 +1,110 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Gujarat at Ahmedabad",
+    "impugned_order": "Judgment and Order dated 01.09.2006 in Criminal Appeal No. 1005 of 2004",
+    "high_court_proceedings": "The High Court heard Criminal Appeal No. 1005 of 2004 and issued a Judgment and Order dated 01.09.2006.",
+    "supreme_court_posture": "The Supreme Court heard Criminal Appeal Nos. 1550 of 2007, 1549 of 2007 and 1586 of 2008, challenging the High Court's order. The Supreme Court dismissed the appeals."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "upheld",
+    "sentence_status": "upheld",
+    "directions": [
+      "The Accused on bail shall surrender forthwith."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "The interpretation of Section 27 of the Indian Evidence Act, 1872.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An accused (Accused No. 3) made a disclosure statement to the police about the location where the dead body of the deceased was dumped.",
+          "Prior to this disclosure, the dead body had already been recovered from that same location, and this fact was a matter of public record.",
+          "An argument was made that because the body was already found and the accused did not reveal any new or exclusive information, his disclosure statement was inadmissible under Section 27 of the Indian Evidence Act."
+        ],
+        "law": [
+          "Section 27 of the Indian Evidence Act, 1872, states that when any fact is discovered as a consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered, may be proved.",
+          "The precedent set in *Pulukuri Kotayya v. King Emperor* clarifies that the 'fact discovered' under Section 27 is not merely the recovery of an object. It also includes the place from which the object was produced and, crucially, the knowledge of the accused about that place.",
+          "The ruling in *Mohmed Inayatullah v. The State of Maharashtra* specifically held that a disclosure by an accused about the location where a dead body was dumped is admissible under Section 27, even if the body had already been recovered from that same place."
+        ],
+        "application": [
+          "The Court applied the principles from *Pulukuri Kotayya* and *Mohmed Inayatullah* to the issue.",
+          "It reasoned that even though the physical body had already been found, the information provided by the accused led to the discovery of a different, relevant fact: the accused's personal knowledge of the specific location where the body was dumped.",
+          "This knowledge, revealed by the accused's statement, distinctly connects the accused to the crime. Therefore, the discovery is not of the body itself, but of the accused's connection to and knowledge of the crime scene.",
+          "The Court rejected the narrow interpretation that a physical object must be found for the first time. Instead, it focused on the discovery of the accused's knowledge as the relevant 'fact discovered' under Section 27."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the disclosure was inadmissible. It held that a statement by an accused revealing the location of a previously discovered body was admissible under Section 27 of the Evidence Act because the 'fact discovered' was the accused's own knowledge of that location, which distinctly related his statement to the crime."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "The interpretation of Section 27 of the Indian Evidence Act, 1872.",
+      "appellant_arguments": [
+        "The appellants made a fervent effort to persuade the Court regarding the interpretation of Section 27 of the Evidence Act, challenging the circumstantial evidence used for their conviction."
+      ],
+      "respondent_arguments": [
+        "The prosecution argued that the accused had conspired to murder the deceased and their conviction was correctly based on the evidence on record.",
+        "The prosecution submitted that the chain of circumstances proving the guilt of the accused had been established and proven through various witnesses."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Evidence Act",
+        "section": "27",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pulukuri Kotayya v. King Emperor",
+        "citation": "AIR 1947 Privy Council 67",
+        "principle": "To restate the legal position that facts discovered need not be self-probatory and to clarify the meaning of the word 'fact' as contemplated by Section 27 of the Evidence Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Unnamed",
+        "citation": "2005 (11) SCC 600",
+        "principle": "For its analysis of the interpretation, scope, and requirements of Section 27 of the Evidence Act, and its review of relevant authoritative pronouncements on the subject.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Under Section 27, the 'fact discovered' is not limited to the physical object produced. Consequently, not every piece of information that relates distinctly to that object is admissible. A statement by an accused that a weapon produced is the one they used in the commission of a murder is not admissible in its entirety.",
+    "obiter": [
+      "Although the interpretation and scope of Section 27 has been the subject of several authoritative pronouncements, its application to concrete cases is not always free from difficulty.",
+      "The authority of the Privy Council's decision has not been questioned in any of the decisions of the highest court either in the pre- or post-independence era.",
+      "The illustrations given by a judge are not exhaustive."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The burning of the vehicle used in the commission of the crime and then filing of a false insurance claim which was rejected by the insurance company, the strong motive for committing the murder of Gadadharanandji and the criminal conspiracy hatched in that behalf and executed, leave no manner of doubt about the involvement of the appellants in the commission of the crime.",
+    "legal_tests_applied": [
+      "The court evaluated whether the cumulative effect of the circumstantial evidence left no manner of doubt about the complicity of the appellants in the commission of the crime."
+    ],
+    "why_appellant_lost": [
+      "The Court found it unnecessary to dilate on the appellants' contentions regarding the interpretation of Section 27 of the Evidence Act because the other circumstances taken into account by the lower courts were sufficient to establish their complicity.",
+      "The Court determined that it was not a case of a finding of guilt recorded in the absence of any legal evidence or contrary to the evidence available on record, and therefore saw no tangible reason to interfere with the concurrent findings of the lower courts."
+    ],
+    "why_respondent_won": [
+      "The prosecution successfully established a chain of circumstances that the Court found to be indicative of the appellants' involvement in the crime.",
+      "The Court fully agreed with the opinion of the lower courts, finding that the evidence regarding the burning of the vehicle, the false insurance claim, the strong motive, and the criminal conspiracy made the finding of guilt against the appellants inescapable."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p57_be0431ff"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p2_388a077c"
+    ]
+  }
+}

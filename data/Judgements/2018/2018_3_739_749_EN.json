@@ -1,0 +1,92 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court (Trial Court)",
+    "impugned_order": "Interim order passed by the High Court dated 14.07.2017, which made absolute an earlier order dated 21.09.2017. The interim order allowed the petition subject to conditions including not leaving India without prior permission and seeking regular bail upon presentation of challan.",
+    "high_court_proceedings": "The High Court initially passed an interim order on 14.07.2017, which was based on an earlier order dated 21.09.2017. The High Court's order was challenged before the Supreme Court.",
+    "supreme_court_posture": "The State appealed to the Supreme Court by filing a special leave petition after the matter came to the notice of the Additional Chief Secretary, Home Affairs and Justice, on 25.01.2018. The Supreme Court dismissed the appeal of the accused and allowed that of the State."
+  },
+  "decision": {
+    "appeal_result": "Crl. Appeal No. 462 of 2018 is dismissed and that of the State i.e. Crl. Appeal No. 463 of 2018 is allowed. Appeals disposed of.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The order dated 31.10.2017 passed by the Sessions Court is also set aside.",
+      "All the three accused in both these appeals are directed to surrender before the trial court.",
+      "It is made clear that they are free to apply for regular bail, in which case, the Sessions Court will consider the matter on the merits of the application."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the protection of anticipatory bail granted by the High Court, limited only till the presentation of the challan, should be extended until the end of the trial.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The issue before the court was whether the protection of anticipatory bail, which was granted by a High Court and limited until the filing of the challan (charge sheet), should be extended to last until the end of the trial."
+        ],
+        "law": [
+          "The court distinguished between anticipatory bail under Section 438 of the Code of Criminal Procedure (Cr.P.C.) and regular bail under Section 439 Cr.P.C.",
+          "The legal standard and satisfaction required for a court to grant anticipatory bail (pre-arrest) are different from those required to grant regular bail (post-arrest or upon appearance in court).",
+          "Protection under Section 438 Cr.P.C. is a pre-arrest measure intended to protect an individual from arrest during the investigation phase."
+        ],
+        "application": [
+          "The Supreme Court determined that the protection of anticipatory bail (Section 438) is available to an accused person only until the court summons them based on the filing of a charge sheet.",
+          "Once the accused appears in court after being summoned, they must apply for regular bail under Section 439.",
+          "The trial court must then consider this new application for regular bail on its own merits, based on the evidence collected during the investigation.",
+          "The Court explicitly stated that the fact that an accused was previously granted anticipatory bail does not automatically entitle them to be granted regular bail."
+        ],
+        "conclusion": "The Supreme Court rejected the extension of anticipatory bail until the end of the trial, ruling that its protection ends when the accused is summoned to court after the charge sheet is filed. At that point, the accused must seek regular bail, which is to be decided by the trial court as a separate matter."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the protection of anticipatory bail granted by the High Court, limited only till the presentation of the challan, should be extended until the end of the trial.",
+      "appellant_arguments": [
+        "The appellant (accused) argued on the merits of the case that the question of whether they were in 'conscious possession' of the contraband was debatable and subject to investigation, as the recovery was made from a bag carried by their father."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent (State) on this issue."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "",
+        "section": "37",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Cr.P.C.",
+        "section": "438(2)(i) to (iv)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The provided text does not contain the court's reasoning or a statement of law; therefore, a binding legal rule cannot be extracted.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court erred in granting anticipatory bail in a case involving a commercial quantity of narcotics without applying the mandatory twin conditions laid out in Section 37 of the NDPS Act. The High Court could not and should not have passed the order under Section 438 Cr.P.C. without referencing Section 37 and without entering a finding that there were reasonable grounds for believing the accused is not guilty and is not likely to commit any offence while on bail.",
+    "legal_tests_applied": [
+      "Under Section 37 of the NDPS Act, when a person is accused of an offence involving a commercial quantity, they shall not be released on bail unless: (i) the Public Prosecutor has been given an opportunity to oppose the application, and (ii) where the Public Prosecutor opposes the application, the court must be satisfied that there are reasonable grounds for believing that the person is not guilty of the alleged offence and that they are not likely to commit any offence while on bail. These limitations are in addition to those prescribed under the Cr.P.C."
+    ],
+    "why_appellant_lost": [
+      "The High Court's order granting anticipatory bail, which the appellant sought to extend, was fundamentally flawed because it failed to consider the mandatory restrictions of Section 37 of the NDPS Act, which were applicable as the case involved a commercial quantity of contraband.",
+      "The High Court did not record the required satisfaction that there were reasonable grounds for believing the appellant was not guilty of the offence and was not likely to commit any offence while on bail, a prerequisite for granting bail under Section 37 of the NDPS Act."
+    ],
+    "why_respondent_won": [
+      "The State's appeal succeeded because the Supreme Court found that the High Court's order granting bail was legally unsustainable.",
+      "The High Court completely overlooked the stringent and mandatory limitations on granting bail prescribed by Section 37 of the NDPS Act for offences involving commercial quantities, rendering its order invalid."
+    ],
+    "policy_considerations": [
+      "The stringent limitations on the discretion of the Court to grant bail under Section 37 of the NDPS Act have been consciously put in place by lawmakers in view of the seriousness of narcotics offences."
+    ]
+  },
+  "evidence_map": {}
+}

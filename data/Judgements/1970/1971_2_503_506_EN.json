@@ -1,0 +1,154 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of the Additional District Magistrate",
+    "impugned_order": "Dismissal of a writ of Habeas Corpus petition by the High Court.",
+    "high_court_proceedings": "The petitioner filed a writ of Habeas Corpus in the High Court, which was dismissed.",
+    "supreme_court_posture": "The petitioner filed a writ petition in the Supreme Court under Article 32 of the Constitution after the High Court dismissed his Habeas Corpus petition."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Undertrial",
+    "sentence_status": "Not Applicable",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the petitioner's remand to judicial custody for periods exceeding 15 days at a time was illegal, thereby vitiating his detention.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was arrested in the Mizo District and remanded to judicial custody.",
+          "The orders for his remand were for periods that were each longer than 15 days."
+        ],
+        "law": [
+          "The strict rules of the Code of Criminal Procedure, which prohibit a remand longer than 15 days at a time, do not apply in the Mizo District area due to the Sixth Schedule of the Constitution.",
+          "In this area, only the \"spirit\" of the Criminal Procedure Code is applicable."
+        ],
+        "application": [
+          "The Court acknowledged that the remand periods exceeded 15 days.",
+          "However, it determined that these longer periods did not violate the \"spirit\" of the Code.",
+          "The Court considered practical justifications for the longer remands, such as \"Long distances, difficult terrain and hostile country,\" and a lack of jail space.",
+          "It found that the periods were only \"slightly longer than 15 days\" and not \"so unconscionably long as to violate the spirit of the Code.\"",
+          "Additionally, the Court noted that the petitioner was currently under a proper remand order issued by the Supreme Court itself, which legitimized his present detention."
+        ],
+        "conclusion": "The Supreme Court rejected the petitioner's argument, holding that because the strict 15-day remand rule did not apply and the longer periods were justified by the circumstances, the detention was not illegal."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the initial delay by the Armed Forces in handing the petitioner over to civil authorities rendered his subsequent detention as an undertrial prisoner illegal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was arrested by the Armed Forces under the Armed Forces (Assam & Manipur) Special Powers Act, 1958.",
+          "He was handed over to civil authorities approximately two months after his arrest.",
+          "At the time of the petition, he was no longer in the custody of the Armed Forces but was an undertrial prisoner in judicial custody, with criminal cases pending against him.",
+          "The State argued that the delay was necessary for interrogation because the petitioner was allegedly connected with Mizo hostiles waging war against India, and also cited difficulties of terrain and the presence of hostile elements."
+        ],
+        "law": [
+          "Section 5 of the Armed Forces (Assam & Manipur) Special Powers Act, 1958, requires that a person arrested by the Armed Forces must be handed over to the officer-in-charge of the nearest police station with the 'least possible delay'."
+        ],
+        "application": [
+          "The Supreme Court first determined that what constitutes 'least possible delay' is not a fixed time but depends on the specific facts and circumstances of the arrest.",
+          "Considering the petitioner's alleged connection to Mizo hostiles, the need for interrogation, the difficult terrain, and the security situation, the Court found that while there was a delay, it was not \"too much delay\" under the circumstances.",
+          "Crucially, the Court distinguished between the legality of the initial custody and the current custody. It reasoned that while the delay might have been a valid issue if the petitioner had challenged his detention *while still in the custody of the Armed Forces*, that question was no longer relevant.",
+          "Since the petitioner had been handed over to civil authorities and was now an undertrial prisoner under judicial remand, the legality of his current detention depended on the validity of the remand orders, not on the initial delay in handing him over."
+        ],
+        "conclusion": "The Court rejected the petitioner's argument, holding that the initial delay by the Armed Forces in handing him over to civil authorities did not make his subsequent detention as an undertrial prisoner illegal. The legality of his current detention rested on the judicial remand orders, which were a separate matter from the initial handover process."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the petitioner's remand to judicial custody for periods exceeding 15 days at a time was illegal, thereby vitiating his detention.",
+      "appellant_arguments": [
+        "The petitioner's remand to judicial custody for periods longer than 15 days at a time was illegal, as it violates the standard provisions of the Code of Criminal Procedure."
+      ],
+      "respondent_arguments": [
+        "The Code of Criminal Procedure does not strictly apply to the Mizo District, only its 'spirit' does.",
+        "The remands, while slightly longer than 15 days, were not unconscionably long and were justified by the difficult conditions of the disturbed area, such as long distances, difficult terrain, and shortage of jail accommodation.",
+        "The spirit of the Code was followed in the petitioner's case."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the initial delay by the Armed Forces in handing the petitioner over to civil authorities rendered his subsequent detention as an undertrial prisoner illegal.",
+      "appellant_arguments": [
+        "The delay by the Armed Forces in handing the petitioner over to civil authorities was illegal and this initial illegality taints and invalidates his subsequent detention."
+      ],
+      "respondent_arguments": [
+        "The petitioner was held by the Armed Forces for a necessary period of interrogation regarding his connection with hostile activities against the state, his associates, and stores of arms.",
+        "The delay must be considered in the context of the difficult terrain and the presence of hostile elements in the area.",
+        "Once the petitioner was handed over to civil authorities, he was produced before a Magistrate without delay (the very next day)."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Armed Forces (Assam & Manipur) Special Powers Act",
+        "section": "s. 5",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Sixth Schedule",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "s. 344",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Nagaland v. Rattan Singh",
+        "citation": "[1966] 3 S.C.R. 830",
+        "principle": "To establish that the Criminal Procedure Code is not applicable in the area in question by reason of the Sixth Schedule to the Constitution, and therefore only the 'spirit' of the Code applies.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In areas where the Code of Criminal Procedure is not strictly applicable due to the Sixth Schedule of the Constitution, only the 'spirit' of the Code applies. Consequently, a remand period exceeding the standard limit is not illegal if it is not unconscionably long and is justified by the practical difficulties of the region.",
+    "obiter": [
+      "A question regarding a person's entitlement to be released or made over to the police might have arisen if the person was still in the custody of the Armed Forces."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The petitioner's detention is not illegal. Any potential initial illegality concerning the delay in handing him over to civil authorities is now irrelevant because he is an undertrial prisoner under a proper remand order. Furthermore, the subsequent remands to judicial custody for periods slightly exceeding 15 days were not illegal because the strict provisions of the Code of Criminal Procedure do not apply in this area, only its 'spirit' does. Given the difficult conditions of the region, these longer remand periods did not violate the spirit of the Code.",
+    "legal_tests_applied": [
+      "In the Mizo District, due to the Sixth Schedule of the Constitution, only the 'spirit of the Criminal Procedure Code applies,' not its strict provisions.",
+      "What constitutes 'the least possible delay' for the Armed Forces to hand over an arrested person to civil authorities 'depends upon the facts, that is to say, how, where and in what circumstances the arrest was effected.'"
+    ],
+    "why_appellant_lost": [
+      "The argument that remands over 15 days were illegal failed because the court held that 'the Criminal Procedure Code is not applicable by reason of the Sixth Schedule to Constitution in this area' and it could not 'insist on a strict compliance with the provisions of s. 344 of the Code of Criminal Procedure.'",
+      "The argument that the initial delay in handover by the Armed Forces vitiated the entire detention failed because the court reasoned that this question 'does not arise now because he is an undertrial prisoner' under a proper remand.",
+      "The court found that the periods of remand, while 'slightly longer than 15 days,' were 'not so unconscionably long as to violate the spirit of the Code.'",
+      "The court concluded that even if the Armed Forces 'delayed somewhat his surrender to the civil authorities... there is not too much delay.'"
+    ],
+    "why_respondent_won": [
+      "The court accepted that only the 'spirit' of the Criminal Procedure Code applies, and that practical realities such as 'Long distances, difficult terrain and hostile country' were valid 'considerations to take into account' when justifying remand periods longer than 15 days.",
+      "The court accepted the justification for the initial delay, noting it was 'necessary to question him about his associates, his stores of arms, and like matters' and that the 'difficulty of the terrain, the presence of hostile elements in the area must be considered in this connection.'",
+      "The court noted that once the petitioner was in the custody of civil authorities, he was properly processed and is now 'on a proper remand,' which cures any potential prior defects in his custody."
+    ],
+    "policy_considerations": [
+      "The court explicitly considered the practical difficulties of administering justice in a disturbed area, stating that 'Long distances, difficult terrain and hostile country, are considerations to take into account.'",
+      "The court acknowledged the security imperatives in the region, accepting that it was necessary for the Armed Forces to interrogate the petitioner about his connections with 'Mizo hostiles who are waging war against India' before handing him over to civil authorities."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p3_a3b3f7e1"
+    ],
+    "citations.statutes[0].act_name": [
+      "p1_641341dc",
+      "p2_030fa606"
+    ]
+  }
+}

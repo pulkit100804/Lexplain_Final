@@ -1,0 +1,237 @@
+{
+  "procedural_history": {
+    "originating_court": "President of India (Executive Order)",
+    "impugned_order": "Order made by the President on 23rd April, 1963 compulsorily retiring the Respondent from service.",
+    "high_court_proceedings": "1. A Single Judge of the Delhi High Court quashed the President's order in Civil Writ No. 716-D of 1964 filed by the Respondent.\n2. The Union of India (State) filed a Letters Patent Appeal (No. 75-D of 1966) before a Division Bench of the Delhi High Court.\n3. The Division Bench dismissed the Letters Patent Appeal, confirming the Single Judge's decision.",
+    "supreme_court_posture": "The Union of India, dissatisfied with the Delhi High Court's decision, appealed to the Supreme Court by special leave, challenging the High Court's judgment that quashed the President's order of compulsory retirement. The Union of India contended that the Inquiry Officer erred in not proving charges 1 & 2 and that the President was right in holding that these charges had been proved."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Order of compulsory retirement upheld",
+    "sentence_status": "Punishment of compulsory retirement upheld",
+    "directions": [
+      "The judgment under appeal is reversed.",
+      "There will be no order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a court can interfere with a punishment imposed by a disciplinary authority if the punishment was based on multiple charges, but only some of the charges are ultimately proved.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A disciplinary authority held an employee guilty on three charges and imposed the punishment of compulsory retirement, assuming all three charges were proven.",
+          "Subsequently, it was found that only one of the three charges (the third charge) was actually proven.",
+          "The issue arose whether the punishment could still be valid even though it was based on the incorrect assumption that all three charges were proven."
+        ],
+        "law": [
+          "The Court relied on the established legal principle that if a punishment imposed by a disciplinary authority can be supported by any single proven charge that constitutes a 'substantial misdemeanour,' the court should not interfere.",
+          "It is not the court's role to consider whether the disciplinary authority would have imposed the same punishment if it had only considered the charge that was ultimately proven."
+        ],
+        "application": [
+          "The Court applied this principle to the case at hand.",
+          "It determined that the one charge that was proven was a 'substantial misdemeanour' for which the punishment of compulsory retirement could be legally imposed.",
+          "Because the punishment was justified by the rules for the single proven charge, the court found no reason to interfere with the disciplinary authority's decision.",
+          "The fact that the authority had also incorrectly found the employee guilty of two other charges was deemed irrelevant to the validity of the punishment."
+        ],
+        "conclusion": "The Supreme Court decided that a court cannot interfere with a punishment imposed by a disciplinary authority, even if it was based on multiple charges and only some are ultimately proven. As long as the punishment is a legally permissible penalty for any of the proven charges that constitute a substantial misdemeanour, the punishment will be upheld."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the principles of natural justice require that a witness, whose statement is relied upon to establish a contested fact in a disciplinary inquiry, must be subjected to cross-examination.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "In a disciplinary inquiry against a government officer (the respondent), the disciplinary authority (the appellant) attempted to use statements made by witnesses in a prior criminal case to prove two of the charges.",
+          "The witnesses who made these statements were not called to testify in the disciplinary inquiry.",
+          "The Inquiring Officer refused to accept these prior statements as evidence because the witnesses were not produced for cross-examination by the respondent.",
+          "The appellant argued that since the strict rules of the Evidence Act do not apply to disciplinary proceedings, the statements should have been admitted."
+        ],
+        "law": [
+          "The Supreme Court affirmed that tribunals conducting disciplinary inquiries must observe the rules of natural justice.",
+          "A key principle of natural justice is that no material can be relied upon to establish a contested fact unless it is spoken to by a witness who is subjected to cross-examination by the party against whom the evidence is used.",
+          "While the Evidence Act does not strictly apply to such inquiries, the application of natural justice means that what is not evidence cannot be acted upon."
+        ],
+        "application": [
+          "The Court applied the principle of natural justice directly to the facts of the case.",
+          "It held that the appellant had a duty to produce the persons who made the statements so they could be cross-examined by the respondent.",
+          "The Court noted that the witnesses were available but were not produced and tendered for cross-examination.",
+          "Because the appellant failed to make the witnesses available for cross-examination, the Court concluded that the Inquiring Officer was correct in refusing to accept their prior statements as evidence."
+        ],
+        "conclusion": "The Supreme Court decided that the principles of natural justice require that a witness whose statement is relied upon to prove a contested fact in a disciplinary inquiry must be produced and subjected to cross-examination. The Court held that it was a violation of these principles to attempt to use prior statements as evidence without making the witnesses available for cross-examination, and therefore, such evidence was rightly rejected."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court, in its power of judicial review, can act as a court of appeal over the findings of a disciplinary inquiry and reassess the adequacy or reliability of the evidence.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A government employee was subjected to a disciplinary inquiry on a charge that he borrowed money from a person likely to have official dealings with him, without the government's permission.",
+          "The Inquiring Officer, based on the evidence, concluded that the charge was proven.",
+          "The High Court, exercising its power of judicial review, interfered with this finding."
+        ],
+        "law": [
+          "The standard of proof in a disciplinary proceeding is the 'preponderance of probability,' not 'proof beyond a reasonable doubt' as required in a criminal trial.",
+          "A High Court, in its judicial review capacity, cannot act as a court of appeal over the findings of a disciplinary inquiry.",
+          "If an inquiry was properly held, the High Court cannot re-examine the adequacy or reliability of the evidence.",
+          "A court can only overturn a finding if it is 'perverse' or unsupported by any relevant material. A finding is not perverse if it is a reasonable inference drawn from the proven facts."
+        ],
+        "application": [
+          "The Supreme Court determined that the finding that the lender was a person likely to have official dealings with the employee was a 'reasonable inference' that could be drawn from the facts presented to the Inquiring Officer.",
+          "Because the finding was a reasonable inference from the evidence, it could not be characterized as perverse or unsupported.",
+          "Therefore, the High Court was wrong to sit 'as a court of appeal' over this decision and interfere with it. By doing so, the High Court improperly canvassed the adequacy and reliability of the evidence, which is beyond the scope of judicial review."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's approach, holding that a High Court cannot act as an appellate body to reassess the evidence of a disciplinary inquiry. As long as the inquiry's findings are based on a reasonable inference from the proven facts, the High Court has no jurisdiction to interfere with them."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the standard of proof required in a disciplinary proceeding is 'proof beyond reasonable doubt' or 'preponderance of probability'.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact_text": "A disciplinary proceeding is not a criminal trial.",
+            "law_text": "The standard of proof required in a disciplinary proceeding is that of preponderance of probability and not proof beyond reasonable doubt."
+          }
+        ],
+        "application": [
+          {
+            "fact_text": "The Court applied this principle to the case at hand, stating that if the inference that the lender was a person likely to have official dealings with the respondent was one which a reasonable person would draw from the proved facts, that was sufficient.",
+            "law_text": "This demonstrates the application of the 'preponderance of probability' standard, where a conclusion is considered proven if it is more likely than not."
+          },
+          {
+            "fact_text": "The Court further noted that a High Court cannot sit as a court of appeal over a decision based on such a reasonable inference, nor can it re-evaluate the adequacy or reliability of the evidence if the inquiry was properly conducted.",
+            "law_text": "This reinforces that the standard is less stringent than the 'beyond a reasonable doubt' standard used in criminal trials."
+          }
+        ],
+        "conclusion": "The Supreme Court decided that because a disciplinary proceeding is not a criminal trial, the standard of proof required is the 'preponderance of probability' and not 'proof beyond reasonable doubt'."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a court can interfere with a punishment imposed by a disciplinary authority if the punishment was based on multiple charges, but only some of the charges are ultimately proved.",
+      "appellant_arguments": [
+        "The arguments for this issue are not present in the provided text."
+      ],
+      "respondent_arguments": [
+        "The arguments for this issue are not present in the provided text."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the principles of natural justice require that a witness, whose statement is relied upon to establish a contested fact in a disciplinary inquiry, must be subjected to cross-examination.",
+      "appellant_arguments": [
+        "The statements rejected by the Inquiring Officer should have been admitted into evidence, even though the persons who made the statements were not produced for cross-examination."
+      ],
+      "respondent_arguments": [
+        "The statements could not be received in evidence because the appellant failed to produce the persons who made them for cross-examination, which is a requirement of natural justice."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the High Court, in its power of judicial review, can act as a court of appeal over the findings of a disciplinary inquiry and reassess the adequacy or reliability of the evidence.",
+      "appellant_arguments": [
+        "The High Court should have re-evaluated the evidence and found that charges 1 & 2 were proved, as there was evidence to support them, contrary to the Inquiry Officer's findings."
+      ],
+      "respondent_arguments": [
+        "The High Court was justified in its findings, as it cannot act as a court of appeal to re-appreciate evidence, and there was no admissible material before the Inquiring Officer to prove the charges."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the standard of proof required in a disciplinary proceeding is 'proof beyond reasonable doubt' or 'preponderance of probability'.",
+      "appellant_arguments": [
+        "The arguments for this issue are not present in the provided text."
+      ],
+      "respondent_arguments": [
+        "The arguments for this issue are not present in the provided text."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act",
+        "section": "Not specified",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Unspecified Service Rules",
+        "section": "Rule 13(5)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Orissa v. Bidyabhushan Mahapatra",
+        "citation": "[1963] Supp 1 S.C.R. 648",
+        "principle": "If the order of a punishing authority can be supported by any finding of a substantial misdemeanor for which the particular punishment could be imposed, it is not for the court to consider whether the charge proved alone would have weighed with the authority in imposing the punishment.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "M/s. Bareilly Electricity Supply Co. Ltd. v. The Workmen",
+        "citation": "[1971] (2) S.C.C. 617",
+        "principle": "While the Evidence Act does not apply to inquiries conducted by tribunals, they are required to observe the rules of natural justice.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Andhra Pradesh v. S. Sree Rama Rao",
+        "citation": "[1964] 3 S.C.R. 25",
+        "principle": "If the order of a punishing authority can be supported by any finding of a substantial misdemeanor for which the particular punishment could be imposed, it is not for the court to consider whether the charge proved alone would have weighed with the authority in imposing the punishment.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Mysore v. S.S. Makapur",
+        "citation": "[1963] 2 S.C.R. 943",
+        "principle": "While the Evidence Act does not apply to inquiries conducted by tribunals, they are required to observe the rules of natural justice.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "If an order of a punishing authority can be supported on any finding of a substantial misdemeanour for which the punishment could be imposed, it is not for the court to consider whether the charge that was proven, standing alone, would have weighed with the authority in imposing that specific punishment.",
+    "obiter": [
+      "The court is not concerned with deciding the appropriateness of a punishment, provided it is justified by the rules for the established misdemeanour.",
+      "The principle of natural justice requires that no material can be relied upon to establish a contested fact unless it is spoken to by a witness who is subjected to cross-examination.",
+      "Unless a statute provides otherwise, an appellate court has the same power to deal with all questions of fact or law as the court whose judgment is being appealed."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the punishment of compulsory retirement was not liable to be quashed. Even though the punishment was imposed on the basis of three charges and only one was ultimately proven, the court held that if a punishment can be supported by any single finding of a substantial misdemeanour, it is not the court's role to question whether the authority would have imposed the same punishment based on that single charge alone. The High Court erred by acting as a court of appeal and re-assessing the adequacy of the evidence, which is beyond the scope of judicial review.",
+    "legal_tests_applied": [
+      "If the order of a punishing authority can be supported on any finding as to substantial misdemeanour for which the punishment can be imposed, it is not for the Court to consider whether the charge proved alone would have weighed with the authority in imposing the punishment.",
+      "Tribunals should observe rules of natural justice in the conduct of the inquiries, that is, no material can be relied upon to establish a contested fact unless spoken to by a witness who is subjected to cross-examination.",
+      "A disciplinary proceeding is not a criminal trial and therefore the standard of proof requi-red is that of prepondercnce of probability and not proof beyond reasonable doubt.",
+      "If the enquiry was properly held the questio':'l of adequacy or reliability of the evidence cannot be canvassed before the High Court."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the statements of witnesses not produced for cross-examination should have been admitted into evidence was rejected. The court affirmed that the Inquiring Officer was justified in refusing to receive the statements, as relying on them without allowing for cross-examination would violate the rules of natural justice."
+    ],
+    "why_respondent_won": [
+      "The respondent's position that natural justice was violated by the attempt to use statements from witnesses who were not produced for cross-examination was upheld. The court agreed that the Inquiring Officer was correct to reject this evidence because a contested fact cannot be established by a statement from a witness who is not subjected to cross-examination."
+    ],
+    "policy_considerations": [
+      "The Court is not concerned to decide whether the punishment imposed, provided it is justified by the rules, is appropriate having regard to the misdemtanour established.",
+      "The High Court was wrong in sitting as a court of appeal over a decision based upon it. A finding cannot be characte·rised as perverse or unsupported by any relevant materials, if it was a reasonable inference from J>TOVed tacts."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[1].case_name": [
+      "p5_50972f33"
+    ],
+    "judicial_reasoning.legal_tests_applied[2]": [
+      "p2_fa0daa10"
+    ]
+  }
+}

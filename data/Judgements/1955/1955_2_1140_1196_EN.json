@@ -1,0 +1,148 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Judicature",
+    "impugned_order": "Judgment of the High Court of Judicature and the order of the Custodian-General",
+    "high_court_proceedings": "The text does not explicitly state what the High Court did, only that its judgment was appealed.",
+    "supreme_court_posture": "The Supreme Court allowed the appeal, set aside the order of the Custodian-General, and remanded the case for reconsideration in light of the Supreme Court's judgment. The appeal reached the Supreme Court by special order dated 3rd of [month not specified] 1953."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted of the charge of murder but convicted under the second Part of section 304",
+    "sentence_status": "Reduced to five years' rigorous imprisonment",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the omission to frame an alternative charge under section 302 is an illegality that vitiates the trial or a curable irregularity.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant and his brother were charged under section 302 (murder) read with section 34 (common intention) of the Indian Penal Code.",
+          "Evidence showed that the appellant, not his brother, struck the fatal blow.",
+          "The brother was acquitted, which removed the element of 'common intention' under section 34.",
+          "The appellant was then convicted under section 302 simpliciter (for his individual act of murder), even though there was no separate, alternative charge for this specific offense.",
+          "The appellant argued that this conviction was an illegality because he was not charged with the offense for which he was ultimately convicted."
+        ],
+        "law": [
+          "The Court established that the Code of Criminal Procedure is designed to ensure a fair trial and further the ends of justice, not to frustrate them with technicalities.",
+          "The primary purpose of a charge is to ensure the accused understands the nature of the offense they are being tried for and has a fair opportunity to defend themselves.",
+          "Provisions in the Code (like sections 226 and 227) allow for errors or omissions in a charge to be corrected at any stage of the trial, which indicates that such errors are not fundamental illegalities that automatically vitiate the entire trial.",
+          "The key test to determine the effect of an omission or error in a charge is whether it has caused prejudice to the accused."
+        ],
+        "application": [
+          "The Court framed the central question as whether a charge is a rigid, sacred formula or a procedural tool for ensuring a fair trial. It concluded it was the latter.",
+          "By analyzing the procedural code, the Court reasoned that since a charge can be added or altered even at the end of a trial (provided no prejudice is caused), its initial omission cannot be an incurable illegality that voids the proceedings from the start.",
+          "The Court determined that the crucial factor was not the technical absence of the alternative charge, but whether the appellant was actually misled or prejudiced in his defense.",
+          "In this case, the appellant was charged with murder from the outset. The facts and evidence presented were about his role in the killing. Therefore, he knew the substance of the accusation against him and had a full opportunity to defend against the charge of murder, even if the legal framing (i.e., with or without s. 34) was altered."
+        ],
+        "conclusion": "The Supreme Court held that the omission to frame an alternative charge under section 302 was not an illegality that vitiated the trial, but rather a curable irregularity. Since the omission had not caused any prejudice to the appellant, the conviction was valid and was not set aside."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a distinction should be drawn between cases under section 34 and section 149 of the Indian Penal Code, making a separate charge essential and its absence fatal for a conviction under section 149.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An argument was presented to the Court to draw a distinction between cases involving Section 34 (common intention) and Section 149 (unlawful assembly) of the Indian Penal Code.",
+          "The contention was that while a separate charge might not be necessary for a conviction involving Section 34, it is essential for a conviction under Section 149.",
+          "It was argued that the absence of a separate, specific charge in a Section 149 case should be considered a fatal error, automatically invalidating the conviction."
+        ],
+        "law": [
+          "Under sections 225, 535, and 537 of the Code of Criminal Procedure, an error, omission, or irregularity in the framing of a charge is not considered fatal to the trial unless it has actually caused prejudice to the accused.",
+          "Charges under Sections 34, 114, and 149 of the Indian Penal Code are often \"rolled-up\" charges, involving both direct and constructive liability.",
+          "The primary purpose of a charge is to give the accused notice of the offense they are being tried for."
+        ],
+        "application": [
+          "The Court acknowledged the legal differences between Section 34 (which does not create a separate offense) and Section 149 (which does).",
+          "However, the Court held that for the purpose of determining if a trial is vitiated by a missing charge, this distinction is \"immaterial.\"",
+          "The Court reasoned that the overarching principle from the Code of Criminal Procedure applies universally: the only relevant question is whether the irregularity (the missing charge) occasioned prejudice to the accused.",
+          "It grouped cases under Sections 34 and 149 together, stating that in such situations involving constructive liability, the absence of a charge for the substantive offense is not fatal by itself.",
+          "A conviction without a specific charge can only be set aside if prejudice is proven."
+        ],
+        "conclusion": "The Supreme Court rejected the argument to create a special rule for Section 149. It held that there is no distinction between cases under Section 34 and Section 149 in this regard; in both scenarios, the absence of a separate charge is merely an irregularity and is not fatal to a conviction unless it has caused actual prejudice to the accused."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the omission to frame an alternative charge under section 302 is an illegality that vitiates the trial or a curable irregularity.",
+      "appellant_arguments": [
+        "The absence of a specific charge is in itself conclusive proof of prejudice and is a fatal illegality that automatically vitiates the trial.",
+        "A total absence of a charge where one is required by law is a contravention of the mandatory mode of trial, rendering the conviction invalid regardless of whether prejudice is proven.",
+        "Ignoring the express provisions of the Code regarding charges cannot be justified or cured by the accused's consent or understanding of the case."
+      ],
+      "respondent_arguments": [
+        "The omission to frame a charge is a curable irregularity under sections 535 and 537 of the Criminal Procedure Code, not a fatal illegality.",
+        "A conviction should not be set aside for an error in the charge unless it has actually caused prejudice or a failure of justice.",
+        "The appellant was not prejudiced, as he knew the case against him from the committal proceedings, witness testimonies, and his own defence (pleading self-defence), which showed a clear understanding of the accusation."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a distinction should be drawn between cases under section 34 and section 149 of the Indian Penal Code, making a separate charge essential and its absence fatal for a conviction under section 149.",
+      "appellant_arguments": [
+        "A distinction must be made between section 34 (common intention) and section 149 (unlawful assembly).",
+        "Even if a separate charge is not needed for section 34 because it doesn't create a distinct offence, a separate charge is essential for a conviction under section 149.",
+        "Consequently, the absence of a specific charge under section 149 is a fatal error."
+      ],
+      "respondent_arguments": [
+        "The general principle that an omission in a charge is a curable irregularity, tested by prejudice, applies to all offences, including those under section 149.",
+        "Under sections 225, 535, and 537, it is immaterial what the specific offence is; the only relevant question is whether the irregularity caused prejudice.",
+        "There is no legal basis to create a special exception for section 149 that would make the absence of a charge automatically fatal."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Code",
+        "section": "360",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Subra-",
+        "citation": "",
+        "principle": "A procedure positively prohibited by the Code is an illegality, and non-compliance with such a mandatory provision is illegal.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Unless a violation of a procedural code is so vital that it affects jurisdiction or is so abhorrent to natural justice (such as refusing the accused a hearing or the right to defend), the matter is resolved by determining if it caused prejudice to the accused. Violations of natural justice are illegal per se and will be struck down forthwith. For all other violations, the court must assess whether, in the context of the entire case, prejudice was occasioned or if there was a reasonable probability of prejudice.",
+    "obiter": [
+      "No serious defect in the mode of conducting a criminal trial can be justified or cured by the consent of the advocate of the accused.",
+      "No conclusion on questions of fact in any one case can be regarded as a precedent or a guide for a conclusion of fact in another, as the facts can never be alike.",
+      "The distinction between cases falling under section 34 and section 149 of the Indian Penal Code regarding the necessity of a separate charge is immaterial, as the only question is whether the irregularity occasioned prejudice."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The key to determining if an omission or error in a charge vitiates a trial lies in the question of prejudice. Except for violations so vital they cut at the root of jurisdiction or are abhorrent to natural justice (like refusing the accused a hearing), an error in the charge is a curable irregularity. A conviction is not to be deemed invalid merely because no charge was framed, unless the omission has in fact occasioned a failure of justice. The question of prejudice is a question of fact to be decided by the court in each particular case.",
+    "legal_tests_applied": [
+      "The Prejudice Test: Whether an error, omission, or irregularity in any proceeding has in fact occasioned a failure of justice. This is a question of fact determined by examining all the circumstances of the case, including whether the accused was misled and whether an objection was raised at an early stage.",
+      "The Natural Justice Test: Certain violations of the Code are so obvious and abhorrent to natural justice (e.g., refusal to give the accused a hearing, refusal to allow him to defend himself) that they will be struck down as illegal forthwith, as prejudice is patent."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the argument that a total absence of a charge is a fatal illegality. It held that the term 'illegality' in this context means an 'incurable irregularity,' which is incurable precisely because it has caused prejudice leading to a failure of justice, not because of the omission itself.",
+      "The court found no legal basis to distinguish between section 34 and section 149 of the Indian Penal Code regarding the necessity of a charge. It held that under sections 225, 535, and 537, it is immaterial what the specific offence is; the only relevant question is whether the irregularity occasioned prejudice.",
+      "The argument that the mandatory nature of section 233 (requiring a separate charge) makes its violation an incurable illegality was rejected. The court reasoned that section 535, which cures such defects in the absence of prejudice, is just as mandatory in its terms and must be given equal weight."
+    ],
+    "why_respondent_won": [
+      "The court affirmed that sections 535 and 537 of the Criminal Procedure Code are remedial provisions designed to cure omissions in charges, so long as no failure of justice is actually occasioned.",
+      "The court's central finding that the matter resolves itself into a question of prejudice directly supports the respondent's position that a conviction should not be set aside unless the error has caused actual prejudice.",
+      "The court noted that factors like the accused's defense and the failure to raise an objection at an early stage are relevant to determining prejudice, which aligns with the respondent's argument that the appellant's conduct showed he understood the case against him."
+    ],
+    "policy_considerations": [
+      "The court's jurisprudence has shifted to favor substantial justice over technical compliance, with the 'swing of the pendulum' being away from treating procedural omissions as automatically fatal.",
+      "The remedial provisions of the Code (like sections 535 and 537) were enacted by the Legislature with the intent that courts determine whether an accused has been prejudiced, relying on the appellate and revisional powers of higher courts to guard against unfairness.",
+      "While procedural errors can be cured, trial courts should not be lax in following the Code's provisions for framing charges, as substantial contraventions that necessitate a retrial waste public time and subject the accused to unnecessary harassment and expense."
+    ]
+  },
+  "evidence_map": {}
+}

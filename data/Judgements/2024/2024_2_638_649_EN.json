@@ -1,0 +1,179 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the acquittal order)",
+    "impugned_order": "Order dated 20.01.2017 of the Delhi High Court dismissing the application under Section 482 of CrPC for recalling the order that allowed the belated appeal against acquittal.",
+    "high_court_proceedings": "1. The complainant filed an application before the High Court for special leave to appeal against the acquittal order (under Section 378(3) CrPC). \n2. The High Court granted special leave to appeal and entertained the appeal against acquittal, despite it being filed after the expiry of the 60-day limitation period prescribed in Section 378(4) CrPC.\n3. The appellant (likely the original accused) then filed an application under Section 482 CrPC in the High Court, seeking recall of the order that allowed the belated appeal against acquittal, arguing that Section 5 of the Limitation Act does not apply to appeals against acquittal under Section 378(5) CrPC.\n4. The Delhi High Court dismissed the Section 482 application on 20.01.2017 without providing reasons.",
+    "supreme_court_posture": "The appellant (likely the original accused) challenged the High Court's order dated 20.01.2017 before the Supreme Court, arguing that the High Court erred in allowing the belated appeal against acquittal because the Limitation Act does not apply to Section 378 CrPC, which is a self-contained code regarding limitation for appeals against acquittal. The Supreme Court ultimately dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Appeal dismissed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether benefit of s.5 r/w. ss. 2 and 3 of the Limitation Act, 1963 can be availed in an appeal against acquittal.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "An appellant was acquitted of charges under the Customs Act.",
+          "The state filed an appeal against this acquittal under Section 378 of the Code of Criminal Procedure (CrPC) after the prescribed time limit had expired.",
+          "The state also filed an application to condone the delay, which the High Court allowed.",
+          "The acquitted person (the appellant in the Supreme Court) challenged this decision, arguing that Section 5 of the Limitation Act, which allows for condonation of delay, does not apply to appeals against acquittal under the CrPC."
+        ],
+        "law": [
+          "Section 378 of the Code of Criminal Procedure (CrPC) governs appeals against acquittal and prescribes a specific time period for filing them.",
+          "Section 5 of the Limitation Act, 1963, allows a court to admit an appeal or application after the prescribed period if the appellant/applicant shows \"sufficient cause\" for the delay.",
+          "The general rule is that Section 5 of the Limitation Act applies to proceedings unless it is expressly or by necessary implication excluded by a special law."
+        ],
+        "application": [
+          "The Supreme Court examined whether Section 378 of the CrPC, which sets the time limit for an appeal against acquittal, contains any provision that excludes the application of Section 5 of the Limitation Act.",
+          "The Court found that there is no such exclusionary provision in Section 378 of the CrPC or anywhere else in the Code.",
+          "It reasoned that the mere prescription of a limitation period in a special law, even in mandatory or imperative language, is not sufficient on its own to displace the applicability of Section 5.",
+          "For Section 5 to be inapplicable, the special law (in this case, the CrPC) must contain specific language that shows an intent to exclude it.",
+          "Since the CrPC lacks any such exclusionary clause, the general provisions of the Limitation Act, including Section 5, are applicable."
+        ],
+        "conclusion": "The Supreme Court concluded that the benefit of Section 5 of the Limitation Act, 1963, can be availed in an appeal against acquittal. Therefore, a High Court has the power to condone a delay in filing such an appeal if the appellant can show sufficient cause for not filing it within the prescribed time limit."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the provisions of Section 5 of the Limitation Act, 1908 would apply to an application for special leave to appeal from an order of acquittal under sub-section 3 of Section 417 of the old CrPC.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The issue before the court was whether Section 5 of the old Limitation Act, 1908, which allows for the condonation of delay, could be applied to an application for special leave to appeal against an acquittal.",
+          "Such applications were governed by Section 417 of the old Code of Criminal Procedure (CrPC), which prescribed a specific limitation period of 60 days."
+        ],
+        "law": [
+          {
+            "law_name": "Section 417 of the old CrPC",
+            "description": "This was considered a 'special law' that provided a complete code for appeals against acquittals, including a specific limitation period of 60 days for filing an application for special leave to appeal."
+          },
+          {
+            "law_name": "Section 29(2) of the Limitation Act, 1908 (the old Act)",
+            "description": "This provision stated that where a special or local law prescribed its own period of limitation, only specific sections of the Limitation Act (Sections 4, 9 to 18, and 22) would apply. Crucially, Section 5 was not included in this list."
+          },
+          {
+            "law_name": "Section 5 of the Limitation Act, 1908 (the old Act)",
+            "description": "This section grants courts the power to admit an appeal or application after the prescribed period if the applicant can show 'sufficient cause' for the delay."
+          }
+        ],
+        "application": [
+          "The Supreme Court interpreted Section 417 of the old CrPC as a special law that set its own limitation period.",
+          "The Court then examined Section 29(2) of the old Limitation Act to determine which of its provisions would apply to this special law.",
+          "It observed that Section 29(2) of the old Act expressly listed the sections that would apply to special laws, and Section 5 was not among them.",
+          "The Court reasoned that the omission of Section 5 from this list meant it was 'expressly excluded' from applying to proceedings governed by a special law like Section 417 of the old CrPC.",
+          "Therefore, the 60-day limitation period prescribed in Section 417 was absolute, and the court had no power to relax this limit or condone any delay."
+        ],
+        "conclusion": "The Supreme Court held that the provisions of Section 5 of the Limitation Act, 1908, would not apply to an application for special leave to appeal from an order of acquittal under Section 417 of the old CrPC. The Court had no power to condone the delay beyond the 60-day period prescribed by the special law."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether benefit of s.5 r/w. ss. 2 and 3 of the Limitation Act, 1963 can be availed in an appeal against acquittal.",
+      "appellant_arguments": [
+        "The benefit of Section 5 of the Limitation Act cannot be availed in an appeal against acquittal.",
+        "Relying on precedents like Hukumdev Narain Yadav v. Lalit Narain Mishra and Gopal Sardar v. Karuna Sardar, it was argued that where a special law (like the CrPC) prescribes a period of limitation, the general provisions of the Limitation Act, such as Section 5 for condonation of delay, are not applicable."
+      ],
+      "respondent_arguments": [
+        "The benefit of Section 5 of the Limitation Act can be availed in an appeal against acquittal because there is no provision in the Code of Criminal Procedure (CrPC), specifically under Section 378, that expressly or implicitly excludes its application."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the provisions of Section 5 of the Limitation Act, 1908 would apply to an application for special leave to appeal from an order of acquittal under sub-section 3 of Section 417 of the old CrPC.",
+      "appellant_arguments": [
+        "The provisions of Section 5 of the Limitation Act would not apply, as the CrPC is a special law that prescribes its own period of limitation, thereby excluding the general provisions of the Limitation Act."
+      ],
+      "respondent_arguments": [
+        "Section 5 of the Limitation Act would apply because the CrPC, being the special law, does not contain any provision that explicitly or implicitly bars its application for condoning delay."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Limitation Act",
+        "section": "29(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Limitation Act",
+        "section": "3",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Limitation Act",
+        "section": "4 to 24",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Limitation Act",
+        "section": "5",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code (old)",
+        "section": "417(3)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hukumdev Narain Yadav v. Lalit Narain Mishra",
+        "citation": "[1974] 3 SCR 31 : AIR 1974 SC 480",
+        "principle": "Cited for the principle that where special laws prescribe a period of limitation and the language of the law makes it clear that such limitation cannot be condoned, the provisions of the Limitation Act for condonation will not apply. The court distinguished it as being inapplicable to the facts of the present case.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Gopal Sardar v. Karuna Sardar",
+        "citation": "[2004] 2 SCR 826 : 2004 (4) SCC 252",
+        "principle": "Cited for the principle that where special laws prescribe a period of limitation and the language of the law makes it clear that such limitation cannot be condoned, the provisions of the Limitation Act for condonation will not apply. The court distinguished it as being inapplicable to the facts of the present case.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kaushalya Rani v. Gopal Singh",
+        "citation": "[1964] 4 SCR 982",
+        "principle": "Cited as a case that determined whether the provisions of Section 5 of the Limitation Act, 1908, would apply to an application for special leave to appeal from an order of acquittal under sub-section 3 of Section 417 of the old CrPC.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For the purpose of Section 29(2) of the Limitation Act, the provisions contained in Sections 4 to 24 of the Act will apply to a special or local law unless they are expressly excluded. An express exclusion exists where the language of the special or local law makes it clear that under no circumstances can the prescribed period of limitation be condoned or extended.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The precedents of Hukumdev Narain Yadav and Gopal Sardar are inapplicable to an appeal against acquittal under the CrPC. Those cases dealt with special laws that contained clear language expressly stating that the prescribed period of limitation could not be condoned under any circumstances. The CrPC contains no such exclusionary language, and therefore the provisions for condonation of delay under the Limitation Act can be applied.",
+    "legal_tests_applied": [
+      "Whether a special law contains language that expressly or implicitly excludes the application of the Limitation Act's provisions for condonation of delay."
+    ],
+    "why_appellant_lost": [
+      "The precedents relied upon by the appellant, specifically Hukumdev Narain Yadav v. Lalit Narain Mishra and Gopal Sardar v. Karuna Sardar, were held to be inapplicable.",
+      "The court distinguished those cases by finding that they dealt with special laws where the statutory language was very clear that the prescribed limitation period could not be condoned, which is not the case with the Code of Criminal Procedure."
+    ],
+    "why_respondent_won": [
+      "The Code of Criminal Procedure, unlike the special laws in the cases cited by the appellant, does not contain language that expressly or implicitly excludes the application of Section 5 of the Limitation Act for condoning delay in filing an appeal against acquittal."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p1_e68f0f2f"
+    ],
+    "arguments[0].issue_text": [
+      "p1_e68f0f2f"
+    ],
+    "citations.cases[0].case_name": [
+      "p2_c826e75c",
+      "p8_c175ad89"
+    ]
+  }
+}

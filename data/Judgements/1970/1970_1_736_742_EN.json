@@ -1,0 +1,154 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of City Magistrate, Saharanpur",
+    "impugned_order": "Judgment and order dated April 18, 1966 of the Allahabad High Court in Criminal Appeal No. 1642 of 1964.",
+    "high_court_proceedings": "The Municipal Board of Saharanpur appealed to the High Court under s. 417(3), Cr. P.C. against the trial court's acquittal of the accused. The High Court allowed the appeal, disagreeing with the trial court and convicting the appellant. The High Court subsequently dismissed an application by the accused under s. 561(A), Cr. P.C. for reviewing its judgment and refused a certificate under Art. 134 of the Constitution.",
+    "supreme_court_posture": "The accused appealed to the Supreme Court after obtaining special leave, challenging the High Court's judgment and order dated April 18, 1966."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "",
+    "sentence_status": "to be served",
+    "directions": [
+      "The appellant should surrender to his bail.",
+      "The appellant should serve the sentence imposed on him."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the appeal filed by the Municipal Board in the High Court was maintainable in law, as the complaint had been instituted by the Food Inspector and not by the Municipal Board.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A complaint was filed against the appellant, purportedly by the Municipal Board, but it was signed by its Food Inspector.",
+          "The trial court acquitted the appellant.",
+          "The Municipal Board appealed this acquittal to the High Court.",
+          "The appellant did not challenge the authority of the Food Inspector to file the complaint, or the maintainability of the Board's appeal, in either the trial court or the High Court before the appeal was decided."
+        ],
+        "law": [
+          "Under the Prevention of Food Adulteration Act, a local authority like a Municipal Board is competent to file a complaint.",
+          "A local authority is also competent to authorize a person, such as a Food Inspector, to file a complaint on its behalf.",
+          "An appeal against an acquittal under s. 417(3) of the Criminal Procedure Code can only be filed by the complainant."
+        ],
+        "application": [
+          "The Court reasoned that if the Food Inspector filed the complaint on the authority of the Municipal Board, then the complaint must legally be considered as having been instituted by the Board itself.",
+          "The question of whether the Food Inspector was actually authorized by the Board was a question of fact.",
+          "Since the accused never raised this issue during the trial or the appeal, both courts and the parties proceeded on the basis that the Municipal Board was the valid complainant.",
+          "The Court held that the accused could not be permitted to raise this factual challenge for the first time after the appeal had already been disposed of.",
+          "The Court applied a presumption that official acts are done lawfully, and therefore, in the absence of a challenge, it was presumed the Food Inspector had the required authority."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's contention and held that the appeal filed by the Municipal Board was maintainable. It concluded that because the complaint was legally considered to have been instituted by the Municipal Board, the Board was the proper complainant and was therefore entitled to file the appeal against the acquittal."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the appellant could have been convicted on the strength of the certificate of the Public Analyst, which allegedly lacked the data for its conclusion.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted for selling adulterated sweets based on a report from a Public Analyst.",
+          "The appellant argued that the conviction was invalid because the analyst's report did not contain the data on which the conclusion of adulteration was based.",
+          "The trial court had initially acquitted the appellant on this ground, but the High Court reversed that decision and convicted him."
+        ],
+        "law": [
+          "The Supreme Court held that a Public Analyst's report does not need to contain the specific mode, particulars of analysis, or the tests that were applied.",
+          "However, the report must contain the \"result of analysis,\" which is defined as the data from which it can be inferred whether the food item was adulterated or not."
+        ],
+        "application": [
+          "The Court first rejected the appellant's factual claim, stating that it was incorrect to say the report lacked data and that \"The relevant data is given in the repon.\"",
+          "It found that the report in this specific case did contain the necessary data from which the analyst's conclusion could be drawn, thereby satisfying the legal requirement.",
+          "The Court also noted that a similar report had been previously held by the Court to contain sufficient data."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument, holding that the analyst's report provided a valid basis for the conviction because it contained the necessary data to support its conclusion. The appeal was dismissed."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the appeal filed by the Municipal Board in the High Court was maintainable in law, as the complaint had been instituted by the Food Inspector and not by the Municipal Board.",
+      "appellant_arguments": [
+        "The appeal filed by the Municipal Board under s. 417(3), Cr. P.C. was not maintainable because the original complaint was instituted by the Food Inspector, not the Municipal Board.",
+        "Permission to file a complaint under s. 20 of the Prevention of Food Adulteration Act is a condition precedent for a valid complaint, and the fulfillment of this condition must be proven by the complainant before the court can exercise jurisdiction."
+      ],
+      "respondent_arguments": [
+        "The Municipal Board was competent to authorize the Food Inspector to file the complaint on its behalf.",
+        "A complaint filed by the Food Inspector on the authority of the Board is legally considered to have been instituted by the Board itself.",
+        "The question of whether the Food Inspector was properly authorized is a question of fact that the appellant never raised in the lower courts.",
+        "The appellant cannot be permitted to raise this new contention for the first time after the appeal in the High Court has already been decided.",
+        "Official acts are presumed to have been done according to law, and if the appellant had challenged the authority, the trial court would have examined it."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the appellant could have been convicted on the strength of the certificate of the Public Analyst, which allegedly lacked the data for its conclusion.",
+      "appellant_arguments": [
+        "The report of the Public Analyst could not be a valid basis for conviction because it did not contain the data from which the analyst reached the conclusion of adulteration.",
+        "A certificate should contain the result of the analysis, including the data, so it can be inferred whether the food was adulterated as defined by the Act."
+      ],
+      "respondent_arguments": [
+        "The appellant's claim that the report lacks data is incorrect; the relevant data is, in fact, given in the report.",
+        "The Supreme Court has previously held that a report similar to the one in this case was sufficient and contained the necessary data to support a conviction."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "s. 2(1), s. 7, s. 13, s. 16, s. 20",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "s. 417(3)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Nagar Mahapalika of Kanpur v. Sri Ram",
+        "citation": "[1963] All. L. J. 765",
+        "principle": "It was cited as stating the correct view of the law on the required contents of a public analyst's report: the report must contain data from which it can be inferred whether the article of food was adulterated as defined in s. 2(1) of the Prevention of Food Adulteration Act, 1954.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A complaint filed by a Food Inspector, when authorized by a Municipal Board under the Prevention of Food Adulteration Act, is legally considered to have been instituted by the Board itself. The question of whether such authorization was actually given is a question of fact that cannot be raised for the first time on appeal if it was not put into issue in the lower courts. A Public Analyst's report can form a valid basis for conviction if it contains the data from which adulteration can be inferred; it is not required to detail the specific tests applied. The authority to institute a complaint under the Act is a general conferment of power and is not analogous to a sanction that requires an application of mind to the facts of a specific case before its institution.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appeal was dismissed because the appellant's challenges were without merit. The question of the Food Inspector's authority to file the complaint was a question of fact that the appellant failed to raise at the trial level and could not be raised for the first time on appeal, especially after the appeal was decided. Furthermore, the court found that the Public Analyst's report was a valid basis for conviction as it did, contrary to the appellant's assertion, contain the necessary data from which the conclusion of adulteration could be inferred.",
+    "legal_tests_applied": [
+      "A question of fact, such as whether a Food Inspector was properly authorized to file a complaint, cannot be raised for the first time on appeal after the matter has been disposed of.",
+      "Official acts are presumed to have been done according to law unless challenged at the appropriate time.",
+      "The report of a Public Analyst is not required to contain the mode or particulars of the analysis, but it must contain the result of the analysis, namely, data from which it can be inferred whether the article of food was or was not adulterated.",
+      "The requirement for 'authority' under s. 20 of the Prevention of Food Adulteration Act is distinct from a 'sanction' that requires the sanctioning authority to apply its mind to the specific facts of a case; s. 20 merely prescribes which persons or authorities are competent to file complaints."
+    ],
+    "why_appellant_lost": [
+      "The appellant failed to challenge the authority of the Food Inspector to file the complaint at the trial court, which was the proper venue for this question of fact. The appellant could not be permitted to raise this contention for the first time after the High Court had already disposed of the appeal.",
+      "The appellant's argument that the analyst's report lacked the data to support its conclusion was factually incorrect; the court found that the relevant data was given in the report.",
+      "The appellant's reliance on legal precedents regarding the validity of sanctions was misplaced, as the 'authority' required under s. 20 of the Prevention of Food Adulteration Act does not require the authority to apply its mind to the facts of a specific case before a complaint is instituted."
+    ],
+    "why_respondent_won": [
+      "A complaint filed by a Food Inspector on the authority of the Municipal Board is legally considered to have been instituted by the Board itself.",
+      "The court applied the presumption that official acts are done according to law. Since the appellant had not challenged the Food Inspector's authority, the trial court was not required to examine it, and the authority was presumed to be valid.",
+      "The court found that the Public Analyst's report was sufficient for conviction because it contained the necessary data, a finding consistent with a previous Supreme Court decision in a case with a similar report."
+    ],
+    "policy_considerations": [
+      "A party cannot be permitted to raise a new contention, particularly a question of fact, for the first time after an appeal has already been decided, as this would undermine the finality of judicial proceedings.",
+      "Factual challenges, such as the authority of a complainant, must be raised at the trial court level so that they can be properly examined and evidence can be presented. Raising them on appeal for the first time is procedurally improper and inefficient."
+    ]
+  },
+  "evidence_map": {
+    "citations.statutes[0].act_name": [
+      "p5_ac42231b",
+      "p6_e0ed8bce",
+      "p7_7cfaf47a"
+    ]
+  }
+}

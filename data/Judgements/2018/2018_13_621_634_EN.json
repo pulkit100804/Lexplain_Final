@@ -1,0 +1,111 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from conviction and acquittal)",
+    "impugned_order": "Judgment and Order dated 13.08.2008 of the High Court of Rajasthan at Jaipur in D.B. Criminal Application No. 580 of 2005.",
+    "high_court_proceedings": "The High Court of Judicature for Rajasthan allowed Criminal Appeal No. 580/2005 filed by the respondent, modifying the conviction from Section 302 of the Indian Penal Code to Section 304 Part-II and sentencing the respondent to the period already undergone. The High Court also dismissed Criminal Revision Petition No. 958/2005 filed by the complainant against the acquittal of two co-accused.",
+    "supreme_court_posture": "The State appealed to the Supreme Court because it disagreed with the High Court's decision to reduce the conviction from Section 302 to Section 304 Part-II of the Indian Penal Code and the sentence imposed."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "The judgment of the High Court is set aside and the conviction of the respondent by the Trial Court under Section 302 of the Penal Code is restored.",
+    "sentence_status": "The respondent is sentenced to suffer imprisonment for life.",
+    "directions": [
+      "The respondent shall forthwith surrender to his sentence.",
+      "A copy of this order shall be forwarded by the Registry to the Chief Judicial Magistrate of the area concerned to secure compliance."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the judgment of the High Court acquitting the respondent should be set aside and the conviction by the Trial Court under Section 302 of the Penal Code restored.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Trial Court convicted the respondent for murder under Section 302 of the Penal Code for inflicting a fatal axe injury to the deceased's skull. It acquitted two other co-accused.",
+          "On appeal, the High Court modified the conviction from Section 302 (murder) to Section 304 Part-II (culpable homicide not amounting to murder), sentencing the respondent to the period already served (approx. 5 years and 5 months).",
+          "The High Court reasoned that the act was committed without premeditation and on the spur of the moment.",
+          "The State appealed the High Court's decision to the Supreme Court, arguing for the restoration of the murder conviction."
+        ],
+        "law": [
+          "Section 302, Penal Code: Punishment for murder.",
+          "Section 304 Part-II, Penal Code: Punishment for culpable homicide not amounting to murder, committed with the knowledge that the act is likely to cause death, but without the intention to cause death.",
+          "Section 300 (Fourthly), Penal Code: Defines an act as murder if the person committing it knows it is so imminently dangerous that it must, in all probability, cause death or a fatal injury, and commits it without any excuse.",
+          "Exception 4 to Section 300, Penal Code: Culpable homicide is not murder if it is committed without premeditation in a sudden fight and in the heat of passion, provided the offender has not taken undue advantage or acted in a cruel or unusual manner."
+        ],
+        "application": [
+          "The Supreme Court found the High Court's judgment to be \"manifestly perverse\" and \"totally contrary to the evidence on the record.\"",
+          "The Court held that the High Court's conclusion of a lack of premeditation was based on \"surmise\" and ignored crucial evidence: the use of a lethal weapon (an axe), the targeting of a vital part of the body (the skull), and the consistent testimony of eyewitnesses (including an injured witness, PW-4) implicating the respondent.",
+          "The Court determined that Exception 4 to Section 300 did not apply. The deceased was unarmed, and by assaulting him with an axe, the respondent had taken \"undue advantage\" and acted in a cruel manner.",
+          "Instead, the Court found that the respondent's act fell squarely under Section 300 (Fourthly). The act of striking the deceased on the skull with an axe was so \"imminently dangerous that it must in all probability cause death.\" The respondent must have known the likely consequences of his action.",
+          "The Court dismissed the argument that the acquittal of the co-accused weakened the case, as the evidence from all eyewitnesses consistently established that the respondent was the author of the fatal injury."
+        ],
+        "conclusion": "The Supreme Court accepted the State's appeal, concluding that the High Court's decision was perverse. It set aside the High Court's judgment and restored the Trial Court's conviction of the respondent under Section 302 of the Penal Code, sentencing him to life imprisonment."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the judgment of the High Court acquitting the respondent should be set aside and the conviction by the Trial Court under Section 302 of the Penal Code restored.",
+      "appellant_arguments": [
+        "The High Court's finding that the incident occurred without premeditation, bringing the case under Exception 4 of Section 300 of the Penal Code, is based on no evidence.",
+        "The evidence establishes that the respondent was armed with a lethal weapon and used it to inflict a serious injury on a vital part of the deceased's body.",
+        "The mere fact that there was a single blow is not a sufficient reason to alter the conviction from Section 302 to Section 304 Part-II.",
+        "The respondent's act was so imminently dangerous that it must in all probability cause death, which would fall under Section 300 (Fourthly) of the Penal Code."
+      ],
+      "respondent_arguments": [
+        "The prosecution's case was weak, as the Trial Court had already disbelieved the evidence regarding the two co-accused.",
+        "The Trial Court did not accept the prosecution's evidence that a lathi had been used by the co-accused.",
+        "The judgment of the High Court, which convicted the respondent under Section 304 Part-II, should not be disturbed."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code",
+        "section": "304 Part-II",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code",
+        "section": "304 Part I",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pulicherla Nagaraju v State of A P",
+        "citation": "(2006) 11 SCC 444 : [2006] 4 Suppl. SCR 633",
+        "principle": "For deciding whether a case falls under Section 302 or 304 Part I or 304 Part II of the Penal Code.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The interference of the Supreme Court with a judgment of the High Court is warranted when the judgment is manifestly perverse and totally contrary to the evidence on the record, in order to obviate a complete failure or miscarriage of justice.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found the judgment of the High Court to be \"manifestly perverse and is totally contrary to the evidence on the record.\" The Court's conclusion was based on what it termed \"unimpeachable evidence,\" which established that: (i) death was caused as a result of the injury inflicted upon the skull of the deceased by the use of an axe; and (ii) the respondent was the author of the injury. This evidence included the consistent account of four eyewitnesses (one of whom was also injured), medical evidence confirming that the respondent inflicted an axe blow to the center of the deceased's skull causing fractures to the cranium and parietal bone which led to a coma and death, and the recovery of the blood-stained weapon of offense.",
+    "legal_tests_applied": [
+      "To determine if a conviction for murder under Section 302 of the Penal Code is warranted, the court analyzes the evidence to establish: (i) that death was caused as a result of the injury inflicted, and (ii) that the accused was the author of the injury."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The interference of the Supreme Court is warranted to obviate a complete failure or miscarriage of justice."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].citation": [
+      "p3_1536ccdc"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Court under the UAPA (Unlawful Activities (Prevention) Act, 1967)",
+    "impugned_order": "Judgment and Order dated 28.11.2023 of the High Court of Judicature at Patna in CRADB No. 514 of 2023",
+    "high_court_proceedings": "The appellant applied for bail before the Special Court under the UAPA, which was rejected. Hence, the appellant and some co-accused applied for bail before the High Court. By the impugned judgment, the prayer for bail made by the appellant was rejected, while bail was granted to a co-accused.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court after the High Court rejected his bail application. The Supreme Court allowed the appeal, set aside the High Court's order, and directed the appellant to be released on bail on terms and conditions to be fixed by the Special Court."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The impugned orders are set aside.",
+      "The appellant is directed to be enlarged on bail on the terms and conditions as may be fixed by the Special Court.",
+      "The appellant shall be produced before the Special Court within a maximum of 7 days from today.",
+      "The Special Court shall enlarge the appellant on bail until the conclusion of the trial on appropriate terms and conditions.",
+      "The Special Court shall hear the counsel for the respondent before fixing the terms and conditions."
+    ]
+  },
+  "issues": [],
+  "arguments": [
+    {
+      "issue_text": "Whether the appellant was entitled to be granted bail based on the evidence presented in the charge sheet.",
+      "appellant_arguments": [
+        "Argued that there is an innocent explanation for the sum of Rs. 25,000 received by the appellant’s son, and this explanation is present in the discovery statement that the respondent itself relies upon."
+      ],
+      "respondent_arguments": [
+        "Relied on the Supreme Court's decision in Thwaha Fasal v. Union of India to argue that the court only needs to record a finding based on \"broad probabilities\" of the accused's involvement.",
+        "Pointed to several paragraphs in the charge sheet as incriminating evidence, including the statement of a protected witness (Witness Z) and the fact that the appellant's son received a sum of Rs. 25,000."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 21",
+        "used_by_court": true
+      },
+      {
+        "act_name": "",
+        "section": "Section 43D(5)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Gurwinder Singh v. State of Punjab and Another",
+        "citation": "[2024] 2 SCR 134 : (2024) 5 SCC 403",
+        "principle": "The principle that 'Bail is the rule and jail is an exception' holds good even for statutes with stringent bail conditions, provided those conditions are satisfied. When deciding bail under Section 43D(5), courts are not to conduct a mini-trial but only determine if a prima facie case exists based on the charge sheet. Denying bail in deserving cases is a violation of rights under Article 21.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "National Investigation Agency v. Zahoor Ahmad Shah Watali",
+        "citation": "[2019] 5 SCR 1060 : (2019) 5 SCC 1",
+        "principle": "For the interpretation of the conditions for granting bail under Section 43D(5).",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When deciding a bail application under a statute with stringent conditions, a court must examine the charge sheet material to determine, on the basis of broad probabilities, whether the accusations are prima facie true without conducting a mini-trial. The principle that 'bail is the rule and jail is an exception' still applies, modified only by the requirement that the statutory conditions for bail must be satisfied. Once a case for bail is made out under the statute, the court is obligated to grant it, as refusal in a deserving case violates the rights guaranteed under Article 21 of the Constitution.",
+    "obiter": [
+      "The allegations of the prosecution may be very serious.",
+      "The Special Court and the High Court did not consider the material in the charge sheet objectively.",
+      "Perhaps the focus was more on the activities of PFI, and therefore, the appellant’s case could not be properly appreciated."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Special Court and the High Court did not consider the material in the charge sheet objectively, as their focus was more on the activities of PFI, and therefore, the appellant’s case could not be properly appreciated. As a result, there was no reason to reject the bail application filed by the appellant.",
+    "legal_tests_applied": [
+      "While deciding a bail application under Section 43D (5), the court is not required to conduct a mini-trial but must examine the material in the charge sheet to decide whether there are reasonable grounds for believing that the accusations are prima facie true.",
+      "The Court is merely expected to record a finding on the basis of broad probabilities regarding the involvement of the accused in the commission of the stated offence or otherwise.",
+      "The principle that “Bail is the rule and jail is an exception” is a settled law that holds good even in cases with stringent statutory conditions for bail, with the modification that bail can be granted if the conditions in the statute are satisfied."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "When a case is made out for a grant of bail, the Courts should not have any hesitation in granting bail.",
+      "The duty of the Courts is to consider the case for grant of bail in accordance with the law, even if the allegations of the prosecution may be very serious.",
+      "Once a case is made out for the grant of bail, the Court cannot decline to grant bail.",
+      "If the Courts start denying bail in deserving cases, it will be a violation of the rights guaranteed under Article 21 of our Constitution."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p3_1a56e713"
+    ],
+    "decision.directions[1]": [
+      "p17_cbc8c38a"
+    ],
+    "decision.directions[2]": [
+      "p17_cbc8c38a"
+    ],
+    "citations.cases[0].case_name": [
+      "p10_45a69415"
+    ],
+    "judicial_reasoning.policy_considerations[0]": [
+      "p1_8bcd9d33"
+    ],
+    "judicial_reasoning.policy_considerations[3]": [
+      "p17_d59b6bb8"
+    ]
+  }
+}

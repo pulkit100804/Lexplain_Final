@@ -1,0 +1,149 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Order of conviction by the Trial Court, affirmed by the Appellate Court.",
+    "high_court_proceedings": "The accused filed a revision petition (CRP No. 2605 of 2010) before the High Court of Karnataka, Kalaburagi Bench, challenging the conviction. The High Court set aside the order of conviction in exercise of its revisional jurisdiction.",
+    "supreme_court_posture": "The complainant, aggrieved by the High Court's judgment, appealed to the Supreme Court. The Supreme Court allowed the appeal, set aside the High Court's judgment, and restored the judgment of the Trial Court as affirmed by the Appellate Court. The Supreme Court held that the High Court committed an error in setting aside the order of conviction in exercise of revisional jurisdiction without sufficient grounds."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Restored",
+    "sentence_status": "Restored",
+    "directions": [
+      "The judgment of the High Court is set aside.",
+      "The judgment of the trial court as affirmed by the Appellate Court is restored."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court erred in exercising its revisional jurisdiction to set aside the concurrent conviction by the trial court and the appellate court, without finding any perversity or lack of evidence in their judgments.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court convicted the accused after appreciating oral and documentary evidence.",
+          "The appellate court affirmed the trial court's conviction.",
+          "The accused filed a criminal revision, and the High Court set aside the concurrent conviction, holding that the accused had successfully created doubt about the existence of the debt or liability."
+        ],
+        "law": [
+          "The High Court's revisional jurisdiction under Sections 397/401 Cr.P.C. is a supervisory power intended to correct a miscarriage of justice.",
+          "This power is not equivalent to an appellate jurisdiction, and the High Court should not re-appreciate evidence and substitute its own conclusion for that of the lower courts.",
+          "Interference in revision is only justified if the lower court's findings are perverse, wholly unreasonable, based on no evidence, or if there has been a non-consideration of relevant material or a palpable misreading of the record."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court had exceeded its limited revisional jurisdiction by re-appreciating the evidence on record.",
+          "It observed that the High Court had not identified any perversity, lack of evidence, or other valid legal ground in the judgments of the trial court and appellate court.",
+          "Instead of pointing out a legal flaw, the High Court simply substituted its own view on the facts, which is impermissible in a revisional proceeding.",
+          "The Supreme Court noted that the High Court failed to provide any sufficient ground in its judgment to justify setting aside the conviction."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court erred in setting aside the conviction by improperly exercising its revisional jurisdiction. Therefore, the Supreme Court set aside the High Court's judgment and restored the conviction order passed by the trial court and affirmed by the appellate court."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the accused successfully rebutted the presumption under Section 139 of the Negotiable Instruments Act, 1881, by creating a doubt regarding the existence of a legally enforceable debt or liability.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court and the appellate court found that the cheque in question contained the signature of the accused and was given to the complainant for presentation.",
+          "In response to the complainant's notice, the accused claimed that the cheque had been stolen.",
+          "This defense of a stolen cheque was considered and rejected by both the trial court and the appellate court.",
+          "The accused did not lead any evidence to support their case.",
+          "The accused did not enter the witness box to testify in support of their defense."
+        ],
+        "law": [
+          "Section 139 of the Negotiable Instruments Act, 1881, mandates a presumption in favor of the cheque holder that the cheque was received for the discharge of a legally enforceable debt or liability.",
+          "This presumption is rebuttable.",
+          "To rebut the presumption, the accused must raise a probable defense that creates doubt about the existence of the debt. This can be done by adducing direct evidence or bringing on record facts and circumstances that make the non-existence of the debt probable.",
+          "A bare denial of the existence of the debt is not sufficient to rebut the presumption."
+        ],
+        "application": [
+          "The Supreme Court found that since the signature on the cheque was proven to be the accused's, the trial court correctly raised the presumption under Section 139.",
+          "The burden then shifted to the accused to rebut this presumption.",
+          "The Court noted that the accused failed to meet this burden as they presented no evidence and did not testify.",
+          "The only defense offered by the accused—that the cheque was stolen—had already been rejected by the lower courts based on the evidence on record.",
+          "Therefore, the Supreme Court found no valid basis for the High Court's conclusion that the accused had successfully created doubt about the existence of the debt. The High Court had erred in setting aside the conviction without sufficient grounds."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the accused had successfully rebutted the presumption. It held that the accused failed to raise a probable defense or present any evidence to create doubt about the existence of a legally enforceable debt, and therefore, the presumption under Section 139 of the Negotiable Instruments Act stood unrebutted."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court erred in exercising its revisional jurisdiction to set aside the concurrent conviction by the trial court and the appellate court, without finding any perversity or lack of evidence in their judgments.",
+      "appellant_arguments": [
+        "The High Court had no jurisdiction to re-appreciate the evidence on record, as the conviction was already recorded by the trial court and affirmed by the Appellate Court after appreciating all evidence.",
+        "In its revisional jurisdiction under Section 379/401 Cr.P.C., the High Court can only interfere with a conviction if the findings of the lower courts are perverse or if there is no evidence to prove the offence.",
+        "The High Court cannot substitute its own opinion after re-appreciating the evidence."
+      ],
+      "respondent_arguments": [
+        "The respondent was served but did not appear at the time of the hearing, so no arguments were presented."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the accused successfully rebutted the presumption under Section 139 of the Negotiable Instruments Act, 1881, by creating a doubt regarding the existence of a legally enforceable debt or liability.",
+      "appellant_arguments": [
+        "The presumption under Section 139 was rightly drawn against the accused.",
+        "The accused failed to rebut the presumption because they did not lead any evidence to support their defense.",
+        "The High Court had no basis to conclude that the accused created a doubt about the debt, especially since the accused's defense of a stolen cheque was rejected by the two lower courts."
+      ],
+      "respondent_arguments": [
+        "The respondent was served but did not appear at the time of the hearing, so no arguments were presented."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "139",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "118",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act",
+        "section": "4",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Kumar Exports vs. Sharma Carpets",
+        "citation": "(2009) 2 SCC 513",
+        "principle": "The presumptions under Sections 118 and 139 of the Negotiable Instruments Act are rebuttable. When a party produces evidence tending to show that the real fact is not as presumed, the purpose of the presumption is over.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A High Court, in exercising its revisional jurisdiction, cannot set aside an order of conviction by merely substituting its own view on the evidence. To interfere, the High Court must find that the conviction is perverse, based on no material, or that another valid legal ground exists.",
+    "obiter": [
+      "The presumptions under Section 118 and Section 139 of the Negotiable Instruments Act are rebuttable. When a party produces evidence reasonably tending to show that the real fact is not as presumed, the purpose of the presumption is over."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found that the High Court committed a clear error by setting aside the concurrent conviction in the exercise of its revisional jurisdiction. The High Court's stated reason—that in its 'perception and consideration, the accused has been successful in creating doubt in the mind of the Court with regard to the existence of the debt or liability'—was an insufficient ground for interference, as it amounted to substituting its own opinion on the evidence without finding that the lower courts' judgments were perverse, based on no material, or otherwise legally flawed.",
+    "legal_tests_applied": [
+      "A High Court can exercise its revisional jurisdiction to set aside a conviction only if it finds that the lower court's order 'suffers from any perversity or based on no material or there is other valid ground to enable it to exercise its revisional jurisdiction'.",
+      "To rebut the presumption under Section 139 of the Negotiable Instruments Act, the accused must successfully create a doubt regarding the existence of a legally enforceable debt or liability."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A High Court exceeds its revisional jurisdiction when it re-appreciates evidence and substitutes its own view for the concurrent findings of the trial and appellate courts, as this improperly converts the limited scope of revision into a full-fledged appeal."
+    ]
+  },
+  "evidence_map": {
+    "arguments[0].appellant_arguments[2]": [
+      "p5_8b35953a"
+    ]
+  }
+}

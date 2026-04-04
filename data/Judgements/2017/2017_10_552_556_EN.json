@@ -1,0 +1,131 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (convicted the appellant under s.379 of the Penal Code)",
+    "impugned_order": "Judgment dated 09.11.2016 of the High Court of Karnataka setting aside the Session Judge's acquittal order and remanding the case to the Appellate Court.",
+    "high_court_proceedings": "The State of Karnataka filed a Criminal Revision Petition before the High Court of Karnataka challenging the order of acquittal recorded by the Session Judge. The High Court allowed the revision petition, set aside the acquittal order, and remanded the case to the Appellate Court for reconsideration. The High Court reasoned that the Session Court committed a grave error by not appreciating the material available on record.",
+    "supreme_court_posture": "The appellant, aggrieved by the High Court's judgment, filed a Criminal Appeal before the Supreme Court. The Supreme Court held that the High Court erred in setting aside the acquittal order on insufficient grounds and restored the order of the Appellate Court acquitting the appellant."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The order of the High Court is set aside.",
+      "The order of the Appellate Court acquitting the appellant is restored."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the statement made by the appellant-accused to the Investigating Officer (Exh.P6) was admissible in evidence, considering Sections 25 and 26 of the Indian Evidence Act, 1872.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant-accused made a statement to the Investigating Officer (IO), which was marked as Exh.P6.",
+          "In this statement, the accused allegedly confessed voluntarily that he took the bond, tore it, and threw it in the river.",
+          "The prosecution relied on this statement to prove the crime."
+        ],
+        "law": [
+          "Section 25 of the Indian Evidence Act, 1872, states that a confession made to a police officer cannot be proved as against a person accused of any offence.",
+          "Section 26 of the Act states that a confession made by any person whilst in the custody of a police officer, unless made in the immediate presence of a Magistrate, shall not be proved against such person.",
+          "Section 27 of the Act provides an exception, allowing a portion of a confession to be admitted if it leads directly to the discovery of a fact (e.g., the recovery of an object)."
+        ],
+        "application": [
+          "The Court determined that the statement (Exh.P6) was a confession made by the accused to a police officer.",
+          "As such, the statement was directly barred by the provisions of Sections 25 and 26 of the Indian Evidence Act.",
+          "The Court noted that the exception under Section 27 did not apply because no recovery was made based on the information given in the statement.",
+          "Therefore, the statement could not be used as evidence against the accused."
+        ],
+        "conclusion": "The Supreme Court held that the statement (Exh.P6) was inadmissible in evidence because it was a confession made to a police officer, which is prohibited by Sections 25 and 26 of the Indian Evidence Act. Since no recovery was made under Section 27 as a result of the statement, the exception to this rule did not apply."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in setting aside the order of acquittal passed by the Appellate Court on the ground that the evidence on record was not properly appreciated.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused was initially convicted by a trial court.",
+          "On appeal, the Sessions Judge (referred to as the Appellate Court) reviewed the evidence and acquitted the accused.",
+          "The State challenged this acquittal in the High Court through a revision petition.",
+          "The High Court set aside the acquittal, reasoning that the Sessions Judge had committed a \"grave error\" by not properly appreciating the evidence on record, and remanded the case for reconsideration."
+        ],
+        "law": [
+          "The Supreme Court's decision implies that a High Court, in its revisional jurisdiction, should not lightly interfere with an order of acquittal passed by a lower appellate court.",
+          "Interference is not justified if the appellate court has provided sufficient reasoning for its conclusions based on a thorough consideration of the evidence."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court's conclusion that the Appellate Court had not properly appreciated the evidence was \"factually incorrect.\"",
+          "The Supreme Court noted that the Appellate Court had, in fact, thoroughly considered all oral and documentary evidence.",
+          "Specifically, the Appellate Court had provided valid reasons for the acquittal, including:",
+          "1. The signing of the bond in question was not sufficiently proven.",
+          "2. An adverse inference was correctly drawn against the prosecution for failing to examine other key witnesses who allegedly signed the bond.",
+          "3. The trial court had wrongly considered only the examination-in-chief of witnesses without adverting to their cross-examination.",
+          "4. There was an unexplained delay of over two days in filing the complaint.",
+          "5. A key piece of evidence (Exh.P6, a statement by the accused) was correctly found to be inadmissible.",
+          "Because the Appellate Court's decision was based on a detailed and proper analysis of the evidence, the Supreme Court found the High Court had no sufficient grounds to set it aside."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's reasoning, concluding that the Appellate Court had given sufficient and valid reasons for acquitting the accused. The Supreme Court held that the High Court erred in setting aside the acquittal on insufficient grounds. Consequently, the Supreme Court allowed the appeal, set aside the High Court's order, and restored the Appellate Court's order of acquittal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the statement made by the appellant-accused to the Investigating Officer (Exh.P6) was admissible in evidence, considering Sections 25 and 26 of the Indian Evidence Act, 1872.",
+      "appellant_arguments": [
+        "The provided text does not contain arguments for this issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain arguments for this issue."
+      ],
+      "court_acceptance": "not specified in text"
+    },
+    {
+      "issue_text": "Whether the High Court was justified in setting aside the order of acquittal passed by the Appellate Court on the ground that the evidence on record was not properly appreciated.",
+      "appellant_arguments": [
+        "The High Court erred in setting aside the acquittal on insufficient grounds.",
+        "The Appellate Court (Sessions Judge) had thoroughly considered each and every material available on record, including documentary and oral evidence.",
+        "The Appellate Court gave sufficient reasoning for acquitting the accused.",
+        "The High Court's observation that the Appellate Court had not looked into the materials available on record is factually incorrect."
+      ],
+      "respondent_arguments": [
+        "The High Court was justified because the Appellate Court did not properly appreciate the materials available on record.",
+        "The findings of the Sessions Judge that the filing of the document was not established were contrary to the material available on record."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A High Court errs in setting aside an appellate court's order of acquittal on insufficient grounds when the appellate court has provided sufficient reasoning for the acquittal based on the evidence on record.",
+    "obiter": [
+      "The observation of the High Court that the Sessions Judge has not properly appreciated the materials available on record is not factually correct."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court concluded that the High Court erred in setting aside the Appellate Court's order of acquittal. The court found that the Appellate Court had properly appreciated the evidence on record and provided sufficient reasoning for its decision, making the High Court's grounds for reversal insufficient and factually incorrect.",
+    "legal_tests_applied": [
+      "The court's reasoning was based on a direct review of the lower courts' appreciation of evidence, applying the principle that a higher court should not overturn an order of acquittal on insufficient grounds or on a factually incorrect assessment of the lower court's judgment."
+    ],
+    "why_appellant_lost": [
+      "The appellant won the appeal; the respondent's position was rejected for the following reasons:",
+      "The High Court, whose judgment the respondent was defending, erred in setting aside the acquittal order on insufficient grounds.",
+      "The High Court's specific observation that the 'Sessions Judge has not properly appreciated the materials available on record is not factually correct.'"
+    ],
+    "why_respondent_won": [
+      "The respondent lost the appeal; the appellant's position was accepted for the following reasons:",
+      "The Appellate Court had given sufficient reasoning for the acquittal of the accused.",
+      "The Supreme Court endorsed the Appellate Court's finding that 'on the basis of the evidence on record, the signing of the bond is not sufficiently proved'.",
+      "The Supreme Court affirmed the Appellate Court's decision to draw an 'adverse inference for not recording the statement of other two persons, alleged to have signed the bond paper,' which created sufficient doubt about the existence of the bond."
+    ],
+    "policy_considerations": [
+      "The provided text does not contain any public policy, fairness, or systemic justice considerations."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,139 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court",
+    "impugned_order": "Proceedings taken out by the Magistrate based on the respondent's complaint.",
+    "high_court_proceedings": "Criminal Miscellaneous Petitions Nos. 2093, 2089, 2091 of 1971 were filed in the Madras High Court. A Single Judge of the High Court rejected the contention of the petitioners.",
+    "supreme_court_posture": "The Appellants appealed to the Supreme Court by special leave from the judgment and order dated November 2, 1971, of the Madras High Court. The Supreme Court allowed the appeals, set aside the order of the High Court, and quashed the proceedings taken out by the Magistrate, finding the respondent's complaint incompetent."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Quashed",
+    "sentence_status": "Not Applicable",
+    "directions": [
+      "Set aside the order of the High Court.",
+      "Quash the proceedings taken out by the Magistrate on the ground that the respondent's complaint was not competent."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the respondent could be said to be an aggrieved person entitled to maintain the complaint for defamation.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A news item was published about a resolution passed at a conference.",
+          "The respondent, who was the chairman of the conference's reception committee, filed a defamation complaint under sections 500 and 501 of the Penal Code.",
+          "The appellants argued that the respondent was not an 'aggrieved person' under Section 198 of the Code of Criminal Procedure (Cr.P.C.) because the news item did not mention him and the 'conference' was an undefined and amorphous body.",
+          "The High Court had previously ruled in favor of the respondent, but it did so by incorrectly focusing on whether the 'Dravida Kazhagam' (the party that organized the conference) was an identifiable group."
+        ],
+        "law": [
+          "Under Section 198 of the Cr.P.C., a magistrate can only take cognizance of a defamation complaint if it is filed by a 'person aggrieved' by the offense. This rule is mandatory.",
+          "For an individual member of a group or collection of persons to be considered 'aggrieved' by a defamatory statement made against that group, the group must be a definite and identifiable body."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court had missed the real issue. The question was not whether the Dravida Kazhagam was an identifiable group, but whether the 'conference' was.",
+          "The Court determined that the defamatory news item referred to the 'conference' and the resolution it passed, not to the Dravida Kazhagam party.",
+          "The Court established that the conference was a distinct entity from the Dravida Kazhagam, even though the party had organized it. The conference had its own organization and office.",
+          "Crucially, the evidence showed that the conference was attended not only by members of the Dravida Kazhagam but also by thousands of outsiders. This made the conference an 'undefined and an amorphous body,' not a determinate and identifiable one.",
+          "Because the conference was not an identifiable body, the defamatory imputations against it could not be said to relate to its individual components or members."
+        ],
+        "conclusion": "The Supreme Court concluded that since the allegedly defamed body—the conference—was an undefined and amorphous collection of persons, the respondent could not be considered an 'aggrieved person' entitled to maintain the complaint under Section 198 of the Cr.P.C. The High Court's reasoning was flawed because it focused on the wrong entity (the Dravida Kazhagam) instead of the conference."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the conference, against which the alleged defamatory statements were made, was a definite and identifiable body or class, enabling an individual member to maintain a complaint.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A conference, organized by the Dravida Kazhagam party, passed a resolution.",
+          "The respondent, a member of the party and chairman of the conference's reception committee, alleged that a news item distorted this resolution and was defamatory to the conference.",
+          "The respondent filed a defamation complaint, but the appellants argued that the conference was an undefined and amorphous body, and thus the respondent, as a member, could not lodge the complaint.",
+          "The High Court had focused on whether the Dravida Kazhagam party was an identifiable group, not whether the conference itself was."
+        ],
+        "law": [
+          "For a defamation complaint to be maintained on behalf of a 'collection of persons' (like a conference), that collection must be a definite, determinate, and identifiable body.",
+          "If a well-defined class is defamed, every individual member of that class can file a complaint.",
+          "The key question is whether the body against which the defamatory words were used was a definite and identifiable class, allowing an individual member to claim they were also defamed."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court erred by focusing on the Dravida Kazhagam party instead of the conference, which were two distinct entities.",
+          "The Court determined that the conference itself was not a definite and identifiable body.",
+          "The Court noted it was impossible to know the exact composition of the conference, the number of people who attended, their individual ideologies, or whether they all positively agreed with the resolution.",
+          "The evidence showed the conference was attended by party members and outsiders, and the resolution was deemed passed simply because no one opposed it.",
+          "The Court described the conference as an \"undefined and an amorphous body.\""
+        ],
+        "conclusion": "The Supreme Court concluded that because the conference was not a definite, determinate, or identifiable body, the defamatory statements made against it could not be considered defamation of its individual members. Therefore, the respondent, as an individual attendee, could not maintain a complaint."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the respondent could be said to be an aggrieved person entitled to maintain the complaint for defamation.",
+      "appellant_arguments": [
+        "The respondent was not an aggrieved party within the meaning of s. 198 of the Code of Criminal Procedure.",
+        "The respondent had filed the complaint in his capacity as the chairman of the reception committee of the conference, not in his individual capacity.",
+        "The respondent had no cause for complaint as there was no reference to him in the news item in question."
+      ],
+      "respondent_arguments": [
+        "The respondent, as a prominent member and chairman of the reception committee, was personally defamed by the statements and was therefore an aggrieved person entitled to file the complaint."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the conference, against which the alleged defamatory statements were made, was a definite and identifiable body or class, enabling an individual member to maintain a complaint.",
+      "appellant_arguments": [
+        "A complaint for defamation against a large and indefinite body like the conference cannot be maintained by an individual member, as that member cannot be said to be personally aggrieved."
+      ],
+      "respondent_arguments": [
+        "The conference was a definite and identifiable body, and the defamatory statements against it constituted an attack on its individual members, including the respondent, who could therefore maintain the complaint."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "198",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "499, Explanation (2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sahib Singh Mehra v. U.P.",
+        "citation": "[1965] 2 S.C.R. 823",
+        "principle": "For the construction of Explanation (2) to section 499 of the Indian Penal Code.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A complaint for defamation by an individual member of a group is not competent where the group is not an identifiable or definitive body. A group is not considered a definitive body if it is impossible to have a definite idea of its composition, the number of persons who attended, their ideologies, and whether all of them positively agreed to the matter in question.",
+    "obiter": [
+      "Ordinarily, the case would be remanded to the High Court, but such a procedure is deemed unnecessary."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The conference was not a determinate class, as it is impossible to have any definite idea as to its composition, the number of persons who attended, the ideas and the ideologies to which they subscribed, and whether all of them positively agreed to the resolution in question. The conference clearly was not an identifiable or a definitive body so that all those who attended it could be said to be its constituents who, if the conference was defamed, would in their turn, be said to be defamed.",
+    "legal_tests_applied": [
+      "Whether a complainant is an 'aggrieved person' within the meaning of s. 198 of the Code of Criminal Procedure, which is a prerequisite for a magistrate to take cognizance of a defamation offence.",
+      "Whether an alleged defamatory statement against a collection of persons can be maintained by an individual member, which depends on whether that collection constitutes a 'determinate class' or an 'identifiable or a definitive body'."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[1]": [
+      "p14_1ee17eca"
+    ]
+  }
+}

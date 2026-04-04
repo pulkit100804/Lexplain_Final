@@ -1,0 +1,116 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge",
+    "impugned_order": "Judgment and order dated September 18, 1967 of the Delhi High Court in Criminal Appeal No. 26-D of 1966, confirming the conviction of the appellant for offences under Sections 5(2) read with Section (5) (!) (d) of the Prevention of Corruption Act, 1947 and Section 161 of the Indian Penal Code.",
+    "high_court_proceedings": "The appellant appealed to the Delhi High Court (Criminal Appeal No. 26-D of 1966) challenging the conviction and sentence imposed by the Special Judge. The High Court confirmed the conviction but reduced the fine from Rs. 500 to Rs. 100.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave, challenging the judgment and order of the Delhi High Court."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": [
+      "The appellant will surrender his bail."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an invalidity or irregularity in the preceding investigation vitiates the result of a trial after cognizance has been taken and the case has proceeded to termination.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted under the Prevention of Corruption Act.",
+          "On appeal, the appellant argued that the investigation leading to the trial was illegal because it violated Section 5A of the Act.",
+          "The appellant did not raise any objection to the alleged illegality or irregularity in the investigation before or during the trial.",
+          "The objection was only raised at the argument stage, after the trial had concluded."
+        ],
+        "law": [
+          "An illegality or irregularity committed during an investigation does not affect the competence and jurisdiction of the Court for trial.",
+          "An investigation conducted in violation of a mandatory provision (like Section 5A) is illegal.",
+          "However, if an objection to the illegal investigation is not raised at the earliest opportunity (before the trial begins), the trial's outcome will not be set aside."
+        ],
+        "application": [
+          "The Supreme Court established a two-part test for when an invalid investigation can vitiate a completed trial: the accused must show that a 'miscarriage of justice' has been caused and that they have been 'prejudiced' by the faulty investigation.",
+          "The Court noted that the appellant in this case allowed the trial to proceed to its conclusion without raising any objection regarding the investigation.",
+          "The appellant was unable to demonstrate to the Court how the alleged irregularity in the investigation caused any miscarriage of justice or prejudice against him.",
+          "The Court distinguished this case from precedents where objections were raised at the earliest stage, allowing the defect in the investigation to be cured before the trial began."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that where a case has been taken cognizance of and has proceeded to termination, an invalidity or irregularity in the preceding investigation does not vitiate the result unless the accused can prove that it caused a miscarriage of justice and prejudice, especially when no objection was raised before the trial commenced."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an invalidity or irregularity in the preceding investigation vitiates the result of a trial after cognizance has been taken and the case has proceeded to termination.",
+      "appellant_arguments": [
+        "The investigation was conducted in violation of the mandatory provisions of Section 5A of the Act, as it was done by an unauthorized officer (Sub-Inspector Ved Prakash) instead of the proper authority (P. W. 6).",
+        "Since the investigation was conducted contrary to law, no conviction could be based on it.",
+        "The fact that some of the recorded statements appear to be in the handwriting of the unauthorized officer supports the inference that he conducted the illegal investigation."
+      ],
+      "respondent_arguments": [
+        "An illegality committed in the course of an investigation does not affect the competence and jurisdiction of the Court for trial.",
+        "If cognizance has been taken on a police report, even one resulting from a breach of mandatory provisions, the trial's results cannot be set aside unless the illegality in the investigation is shown to have caused a miscarriage of justice."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "5A",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "5(2) read with 5(1)(d)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "161",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "H. N. Rishbud and Inder Singh v. State of Delhi",
+        "citation": "[1955] 1 S.C.R. 1150",
+        "principle": "Where cognizance of a case has been taken and the case has proceeded to termination, the invalidity of the preceding investigation will not vitiate the result unless a miscarriage of justice has been caused thereby and the accused has been prejudiced.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Munna Lal v. State of Uttar Pradesh",
+        "citation": "[1964] 3 S.C.R. 88",
+        "principle": "Where cognizance of a case has been taken and the case has proceeded to termination, the invalidity of the preceding investigation will not vitiate the result unless a miscarriage of justice has been caused thereby and the accused has been prejudiced.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Where cognizance of a case has been taken and the case has proceeded to termination, the invalidity of the preceding investigation will not vitiate the result unless a miscarriage of justice has been caused and the accused has been prejudiced.",
+    "obiter": [
+      "While an investigation should be conducted by an officer of the appropriate rank, it is not absolutely necessary that every step in the investigation be done by that officer in person, and they may take the assistance of their deputies."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Where cognizance of a case has in fact been taken and the case has proceeded to termination, the invalidity of the preceding investigation will not vitiate the result unless a miscarriage of justice has been caused thereby and the accused has been prejudiced. An illegality committed in the course of an investigation does not affect the competence and jurisdiction of the Court for trial.",
+    "legal_tests_applied": [
+      "Whether an invalidity or irregularity in a pre-trial investigation vitiates the final result of the trial is determined by whether a miscarriage of justice has been caused and the accused has been prejudiced by that irregularity."
+    ],
+    "why_appellant_lost": [
+      "Assuming there was an irregularity in the investigation, the trial cannot be held illegal unless it is shown that a miscarriage of justice was caused on account of the illegal investigation.",
+      "The appellant was unable to show how there had been any miscarriage of justice in the case or how the accused had been prejudiced by any irregular investigation.",
+      "The appellant did not raise any objection regarding the alleged illegality or irregularity of the investigation before the trial commenced; the contention was raised only at the stage of arguments after the trial had come to an end."
+    ],
+    "why_respondent_won": [
+      "The court accepted the legal principle that where cognizance of the case has in fact been taken and the case has proceeded to termination, the invalidity of the preceding investigation will not vitiate the result unless a miscarriage of justice has been caused thereby."
+    ],
+    "policy_considerations": [
+      "The court distinguishes between objections to investigations raised before trial commences, which can be rectified, and those raised after trial has concluded. An objection taken at the earliest stage may justify a direction to cure the illegality in the investigation, but once a trial has concluded, its result will not be vitiated by such an error without a showing of prejudice."
+    ]
+  },
+  "evidence_map": {}
+}

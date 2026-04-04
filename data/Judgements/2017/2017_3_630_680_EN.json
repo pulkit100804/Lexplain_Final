@@ -1,0 +1,112 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court (inferred from the text)",
+    "impugned_order": "High Court order dismissing the case (likely based on limitation, inferred from the reference to delay and Ravinder Singh v. Sukhbir Singh)",
+    "high_court_proceedings": "The High Court had divergent views taken by the same Judge of the High Court in the same case vis-a-vis different accused persons on same question",
+    "supreme_court_posture": "The Central Bureau of Investigation (CBI) appealed to the Supreme Court against the High Court order. The CBI filed applications to condone the delay of 113, 157, and 222 days in filing the appeals, citing departmental and administrative procedures. The Supreme Court considered the explanation for the delay sufficient, given the circumstances of the case, the seriousness of the matter, and the divergent views of the High Court. The Supreme Court allowed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The trial court concerned is directed to expedite the trial and to conclude the same as far as possible within a period of nine months from today."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the principle of issue estoppel can be invoked to quash criminal proceedings at a preliminary stage, before evidence is recorded, when the accusations pertain to different offenses committed during different time periods.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a plea to quash criminal proceedings at a preliminary stage, before evidence was recorded.",
+          "The accusations in the current proceedings pertained to different offenses committed during different time periods compared to a previous trial."
+        ],
+        "law": [
+          "The principle of issue estoppel requires that the 'same issue of fact and law' must have been determined in the previous litigation.",
+          "Issue estoppel is considered a facet of the doctrine of 'autrefois acquit' (double jeopardy), which prevents an accused from being tried again on the same facts for the same offense.",
+          "The principle of double jeopardy is not engaged when the offenses are distinct and relate to different time periods."
+        ],
+        "application": [
+          "The Court determined that raising the plea of issue estoppel before evidence is recorded is 'premature'.",
+          "It reasoned that when the accusations relate to different time periods, the underlying facts are also different.",
+          "The question of how a duty was performed during one period is a separate question of fact from how it was performed in another period.",
+          "Because the periods and offenses are different, a finding in a previous trial on a similar issue does not bind the prosecution in the current case, as facts or conditions may have changed.",
+          "Therefore, the court cannot conclude at a preliminary stage that the issues are identical to those already decided."
+        ],
+        "conclusion": "The Supreme Court rejected the plea, holding that issue estoppel cannot be invoked to quash criminal proceedings at a preliminary stage when the case involves different offenses committed during different time periods. The Court found it was premature to make such a determination before evidence was recorded, as the factual issues for different periods are distinct and separate findings can be made without creating double jeopardy."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the principle of issue estoppel can be invoked to quash criminal proceedings at a preliminary stage, before evidence is recorded, when the accusations pertain to different offenses committed during different time periods.",
+      "appellant_arguments": [
+        "The High Court's decision to quash the proceedings was palpably illegal, faulty, and contrary to basic legal principles.",
+        "The High Court ignored numerous binding decisions of the Supreme Court, providing an impermissible benefit to the accused.",
+        "Interference by the High Court at an advanced stage of the case was wholly unwarranted and uncalled for.",
+        "The precedents relied upon by the accused, such as State of Rajasthan v. Hat Singh & Ors., were not applicable to the facts of the current cases."
+      ],
+      "respondent_arguments": [
+        "The principle of issue estoppel is applicable to criminal trials.",
+        "The evidence to be presented in the current charges would be identical to the evidence already presented in a previous trial where the matter of alleged false entries was investigated.",
+        "Since the issue was part of the prosecution's case in the previous trial, the current proceedings should be estopped.",
+        "Cited precedents like Manipur Administration v. Thokchom Bira Singh, Emperor v. Jhabbar Mull Lakkar, and Mohd. Hussain Umar Kochra v. K.S. Dalipsinghji to support the application of issue estoppel."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 20(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "Section 300",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "Section 71",
+        "used_by_court": true
+      },
+      {
+        "act_name": "General Clauses Act, 1897",
+        "section": "Section 26",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "Section 188",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Inconsistent judicial decision-making and the disregard of binding precedents are contrary to basic principles of law, rendering such orders palpably illegal and undermining the credibility of the judicial system.",
+    "obiter": [
+      "The doctrine as applied in civil cases may not have any application in criminal cases.",
+      "A manual can have statutory force, and its guidelines as to time frames should be strictly adhered to."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The submission of issue estoppel is based on the presupposition that there is no likelihood of facts or conditions changing in different years. What the facts and conditions would be cannot be determined before the trial, especially when the duty was to be performed at different times. Therefore, the principle cannot be invoked to quash proceedings at a preliminary stage under these circumstances.",
+    "legal_tests_applied": [
+      "To determine the applicability of issue estoppel, the court assesses whether the issues in the current proceeding are identical to those in a prior proceeding. This determination cannot be made before trial when the accusations pertain to different offenses committed during different time periods, as the facts and conditions might change and can only be established through evidence."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Consistency is the hallmark of the court, and it is not open to the court to take a different view in the same matter with reference to different accused persons in the same facts and same case, as such inconsistent decision-making undermines the credibility of the system.",
+      "Judicial discipline requires that blatant contradictions in important matters should be avoided.",
+      "The High Court's interference at an advanced stage of the case was wholly unwarranted and uncalled for, as its orders were palpably illegal, faulty, and contrary to basic principles of law, ignoring binding decisions of the Supreme Court."
+    ]
+  },
+  "evidence_map": {}
+}

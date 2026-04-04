@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Metropolitan Magistrate (inferred from the Supreme Court restoring the Metropolitan Magistrate's order)",
+    "impugned_order": "Judgment and order dated the 5th March, 1980 of the Delhi High Court in Criminal Misc. (Main) No. 501 of 1974.",
+    "high_court_proceedings": "The Municipal Corporation of Delhi initiated proceedings against respondents 1 to 11. The Delhi High Court quashed these proceedings, holding that the complaint did not disclose any offense.",
+    "supreme_court_posture": "The Municipal Corporation of Delhi appealed to the Supreme Court by special leave, challenging the High Court's decision to quash the proceedings. The Supreme Court allowed the appeal, set aside the judgment of the High Court, and restored the order of the Metropolitan Magistrate, ordering that the accused be summoned and placed for trial."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Set aside the judgment of the High Court.",
+      "Restore the judgment of the Metropolitan Magistrate.",
+      "All the accused will now be summoned and placed for trial in accordance with law."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in exercising its discretion under Section 482 of the Code of Criminal Procedure, 1973, to quash proceedings against the accused on the grounds that the allegations in the complaint were vague and did not disclose a prima facie case.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court had quashed criminal proceedings against the accused-respondents.",
+          "The High Court's reasoning was that the complaint, particularly paragraph 5, contained vague allegations and did not disclose any offence.",
+          "The Supreme Court reviewed this decision."
+        ],
+        "law": [
+          "When deciding whether to quash proceedings under Section 482 of the Code of Criminal Procedure, the court should only examine the allegations set forth in the complaint to see if a prima facie case is made out.",
+          "The evidence that will be used to prove the allegations is a matter to be considered at trial, not at the stage of quashing proceedings."
+        ],
+        "application": [
+          "The Supreme Court examined paragraph 5 of the complaint and found that, contrary to the High Court's view, the allegations were \"clear and explicit.\"",
+          "The complaint made a \"clear averment\" regarding the \"active role played by the respondents and the extent of their liability.\"",
+          "Because the allegations were clear, the Court determined that a prima facie case for summoning the accused had been established.",
+          "The Supreme Court held that the High Court was wrong to consider the potential evidence at this stage, as that is a matter for the trial."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was not justified in quashing the proceedings. It found that the allegations in the complaint were not vague but were clear and sufficient to establish a prima facie case against the accused, and therefore the case should proceed to trial."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in exercising its discretion under Section 482 of the Code of Criminal Procedure, 1973, to quash proceedings against the accused on the grounds that the allegations in the complaint were vague and did not disclose a prima facie case.",
+      "appellant_arguments": [
+        "The complaint, specifically in paragraph 5, makes a clear and explicit averment regarding the active role played by the respondents and the extent of their liability.",
+        "The allegations are sufficient to establish a prima facie case for summoning the accused.",
+        "The question of what evidence exists against the respondents is a matter to be proven at trial, not to be considered at the stage of quashing proceedings.",
+        "For the purpose of quashing proceedings, only the allegations set forth in the complaint should be considered."
+      ],
+      "respondent_arguments": [
+        "The allegations in the complaint, particularly in paragraph 5, are vague and do not implicate the respondents.",
+        "The complaint does not disclose any offense or a prima facie case against the accused."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Food Adulteration Act",
+        "section": "7, 16, 17",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "482",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Municipal Corporation of Delhi v. Ram Kishan Rohtagi and Ors.",
+        "citation": "Criminal Appeal No. 701 of 1980",
+        "principle": "For the established law regarding the sufficiency of allegations in a complaint to make out a prima facie case against the accused, particularly in the context of quashing proceedings.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For the purpose of quashing criminal proceedings, the court's examination is limited to the allegations set forth in the complaint. If a complaint contains a clear averment regarding the active role and liability of the accused, a prima facie case for summoning them is established, and the proceedings should not be quashed, as the sufficiency of evidence is a matter to be determined at trial.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court erred in exercising its discretion under Section 482 of the Code of Criminal Procedure, as a clear averment had been made in Paragraph 5 of the complaint regarding the active role played by the respondents and the extent of their liability. This was sufficient to establish a prima facie case for summoning the accused, and it cannot be said that the complaint was vague or did not implicate the respondents.",
+    "legal_tests_applied": [
+      "For the purpose of quashing proceedings under Section 482 CrPC, only the allegations set forth in the complaint have to be seen and nothing further."
+    ],
+    "why_appellant_lost": [
+      "The High Court's view that the complaint did not disclose any offense was incorrect.",
+      "The court explicitly rejected the High Court's finding that the allegations were vague, stating 'it cannot be said that para 5 of the complaint is vague and does not implicate respondents'."
+    ],
+    "why_respondent_won": [
+      "Paragraph 5 of the complaint gives complete details of the role played by the respondents and the extent of their liability, making a clear averment.",
+      "The allegations in the complaint were sufficient to make out a prima facie case for summoning the accused.",
+      "The question of what evidence exists against the respondents is a matter to be considered at trial, not at the stage of quashing proceedings."
+    ],
+    "policy_considerations": [
+      "The discretion to quash proceedings under Section 482 CrPC should not be exercised when a complaint, on its face, makes out a prima facie case, as the determination of evidence is a matter for the trial court."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,128 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (implied, as the initial order was an acquittal)",
+    "impugned_order": "Order of acquittal by the Trial Court.",
+    "high_court_proceedings": "The complainant obtained special leave from the High Court of Calcutta under s. 417(3) of the Code of Criminal Procedure to appeal against the acquittal. The appeal was heard by S. K. Sen and A. C. Roy JJ. The High Court ordered the production of documents and the taking of additional oral evidence under s. 428 of the Code of Criminal Procedure. After considering the additional evidence, the High Court allowed the appeal, set aside the acquittal, convicted the appellant, and sentenced him.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave, contending that the High Court acted beyond its jurisdiction under s. 428 of the Code of Criminal Procedure by receiving additional evidence that enabled the prosecution to improve its case. The Supreme Court dismissed the appeal, finding no substance to it."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court exceeded its jurisdiction under Section 428 of the Code of Criminal Procedure by receiving additional evidence at the appellate stage, which enabled the prosecution to improve its case.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was acquitted at trial.",
+          "On appeal by the complainant, the High Court ordered the production of additional documents and the examination of two new witnesses to prove them.",
+          "Based on this new evidence, the High Court overturned the acquittal and convicted the appellant.",
+          "The appellant appealed to the Supreme Court, arguing that the High Court exceeded its jurisdiction under Section 428 of the Code of Criminal Procedure by allowing the prosecution to improve its case with new evidence at the appellate stage."
+        ],
+        "law": [
+          "Section 428 of the Code of Criminal Procedure grants appellate courts a wide discretionary power to take additional evidence if it considers it necessary for the ends of justice.",
+          "This power applies equally to appeals against acquittal and appeals against conviction.",
+          "The power must be exercised sparingly, guided by the principles of \"fair-play and good sense,\" and only in suitable cases to prevent a \"failure of justice.\"",
+          "There are limitations: the evidence should not be received in a way that causes prejudice to the accused, such as being a disguise for a retrial or changing the nature of the case against them.",
+          "While it should not ordinarily be used if the prosecution had a fair opportunity at trial and failed to use it, it can be allowed if the \"requirements of justice dictate otherwise.\"",
+          "Once the taking of additional evidence is justified, there is no restriction on the kind of evidence (formal or substantial) that may be received."
+        ],
+        "application": [
+          "The Supreme Court established that the High Court possessed the discretionary power under Section 428 to order additional evidence in an appeal against an acquittal.",
+          "The Court rejected the argument that there are rigid limits on this power, stating that the legislature has not defined them and that the decision depends on the specific circumstances of each case.",
+          "The Court framed the central question as whether the High Court's discretion was \"properly exercised\" in this instance.",
+          "It reasoned that since the appellate court has a wide discretion to deal with different situations, the only safe guides for exercising this power are the \"exigency of the situation and fair-play and good sense.\"",
+          "By upholding the High Court's action, the Supreme Court concluded that allowing the additional evidence was a proper exercise of its discretion, necessary to prevent a failure of justice, and did not amount to an abuse of jurisdiction."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's contention, holding that the High Court did not exceed its jurisdiction. The Court affirmed that under Section 428, an appellate court has wide discretionary power to receive additional evidence, even if it helps the prosecution's case, provided the power is exercised sparingly and is necessary to prevent a failure of justice."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court exceeded its jurisdiction under Section 428 of the Code of Criminal Procedure by receiving additional evidence at the appellate stage, which enabled the prosecution to improve its case.",
+      "appellant_arguments": [
+        "The High Court acted beyond the jurisdiction conferred by Section 428 of the Code of Criminal Procedure.",
+        "Receiving additional evidence at the appellate stage enabled the prosecution to improve its case.",
+        "The High Court's order deprived the appellant of the benefit of the presumption drawn by the Magistrate, which arose from the complainant's failure to produce the requested documents during the trial."
+      ],
+      "respondent_arguments": [
+        "The additional evidence was necessary for the interests of justice and fair play, especially since the appellant (accused) himself had demanded its production at trial.",
+        "The documents were not produced during the trial because the appellant's request was vague, making it impossible to produce the specific documents without further particulars.",
+        "The oral evidence already indicated the money was not deposited, and producing the documents, as requested by the accused, was a matter of fairness to give him a chance to see the records."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "428",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "417(3)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "418",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "Chapter XXXI",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": null,
+        "citation": "A.I.R. 1963 S.C. 316",
+        "principle": "The word 'any' in the context of appeals under Chapter XXXI of the Code of Criminal Procedure means every one of the appeals mentioned in that chapter.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The power of an appellate court to take additional evidence, similar to the power to order a retrial, is conditioned upon a failure of justice and is properly exercised when the interests of justice and fair play demand it.",
+    "obiter": [
+      "The law declared by the Supreme Court binds other courts, but its observations should not be read as statutory enactments because the Court does not legislate.",
+      "In criminal jurisdiction, the guiding principle is that a person must not be vexed twice for the same offence; however, this protection only lasts as long as the conviction or acquittal stands.",
+      "It is not proper to construe one statutory section with the aid of judicial observations made during the interpretation of a different section."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Rather than take a different view of the oral evidence, the High Court rightly thought that interests of justice and fair play demanded that this additional evidence, which the accused himself demanded to be produced at the trial, should be taken. In our judgment, the High Court acted within the powers conferred by the Code.",
+    "legal_tests_applied": [
+      "The power to take additional evidence under Section 428 is a wide discretionary power conferred on appellate courts, the limits of which are dictated by the exigency of the situation, with fair play and good sense as the only safe guides.",
+      "Additional evidence must be necessary not because it would be impossible to pronounce judgment but because there would be a failure of justice without it.",
+      "The power must be exercised sparingly and not be received in such a way as to cause prejudice to the accused, as for example it should not be received as a disguise for a retrial or to change the nature of the case against him.",
+      "The order must not ordinarily be made if the prosecution has had a fair opportunity and has not availed of it, unless the requirements of justice dictate otherwise."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the Court's prior observations on retrials should strictly limit the power to take additional evidence was rejected, as the Court clarified that its observations should not be read as statutory enactments and that the two powers (retrial and additional evidence) are distinct.",
+      "The High Court did not exceed its jurisdiction because the power to take additional evidence is a wide discretionary one, and in this case, it was exercised properly in the interests of justice and fair play.",
+      "The argument that the prosecution was allowed to improve its case was negated by the fact that the accused himself had demanded the production of the evidence at trial, making it a matter of fairness to allow it at the appellate stage."
+    ],
+    "why_respondent_won": [
+      "The Court accepted that the interests of justice and fair play demanded that the additional evidence be taken, especially since the accused himself had demanded its production during the trial.",
+      "The High Court's action was deemed to be within the wide discretionary powers conferred by the Code of Criminal Procedure, which are to be guided by the specific situation and good sense.",
+      "The taking of additional evidence was necessary to prevent a failure of justice, which is the core purpose of the power under Section 428."
+    ],
+    "policy_considerations": [
+      "Since a wide discretion is conferred on appellate Courts, the limits of that Court's jurisdiction must obviously be dictated by the exigency of the situation and fair play and good sense appear to be the only safe guides.",
+      "Additional evidence must be necessary not because it would be impossible to pronounce judgment but because there would be failure of justice without it.",
+      "The Court should not do what the Legislature has refrained from doing, namely, to control the discretion of the appellate Court to certain stated circumstances.",
+      "The observations of the Supreme Court should not be read as statutory enactments; the Court declares law but does not enact it."
+    ]
+  },
+  "evidence_map": {}
+}

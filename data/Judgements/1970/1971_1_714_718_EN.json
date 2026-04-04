@@ -1,0 +1,97 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Judicial Magistrate 1st Class, Margao",
+    "impugned_order": "Judgment and order dated June 19, 1969 of the Judicial Commissioner's Court, Goa, Daman and Diu in Criminal Revision Application 23 of 1968.",
+    "high_court_proceedings": "The State filed a revision application under s. 435 of the Indian Code of Criminal Procedure to the Judicial Commissioner, Goa, Daman & Diu. The Judicial Commissioner allowed the revision application, concluding that the order of November 6, 1963, was ultra vires.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave challenging the Judicial Commissioner's judgment and order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "The judgment and order of the Judicial Commissioner is set aside.",
+      "The judgment and order of the learned Sessions Judge is restored."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the order passed by the Lt. Governor on November 6, 1963, was valid and justified under Section 8 of the Regulation.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Lt. Governor of Goa, Daman and Diu passed an order on November 6, 1963, concerning the procedure for certain criminal proceedings.",
+          "This order incorrectly cited the 'Goa, Daman and Diu (Administration) Removal of Difficulties Order, 1962' as its source of power.",
+          "It was agreed by all parties that the cited 'Removal of Difficulties Order' did not actually grant the Lt. Governor the authority to pass the impugned order."
+        ],
+        "law": [
+          "A legal principle exists that if an authority has the power to issue an order under any law, the order is valid even if it mistakenly cites the wrong source of power.",
+          "Section 8 of the Goa, Daman and Diu (Laws) Regulation, 1962, grants the Central Government the power to make provisions to remove any difficulty in applying extended laws to the territory.",
+          "Under the General Clauses Act, the definition of 'Central Government' includes the Administrator of a Union Territory, and the Lt. Governor is the Administrator of Goa, Daman and Diu."
+        ],
+        "application": [
+          "The Court first acknowledged that the legal basis cited in the order was incorrect and did not authorize the Lt. Governor's action.",
+          "However, the Court applied the principle that the order could still be valid if another law granted the necessary power.",
+          "The Court identified Section 8 of the 1962 Regulation as the correct source of authority. This section allowed for the removal of difficulties in applying laws, which was the purpose of the Lt. Governor's order.",
+          "The Court then reasoned that although Section 8 refers to the 'Central Government', the Lt. Governor, as the Administrator, was entitled to exercise the powers of the Central Government in this context.",
+          "Therefore, the Lt. Governor was competent under Section 8 to issue the order to resolve the procedural difficulties."
+        ],
+        "conclusion": "The Supreme Court concluded that the order of November 6, 1963, was valid. Although it cited the wrong legal provision, the Lt. Governor had the substantive power to issue it under Section 8 of the 1962 Regulation."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the order passed by the Lt. Governor on November 6, 1963, was valid and justified under Section 8 of the Regulation.",
+      "appellant_arguments": [
+        "The order passed by the Lt. Governor was valid as it was clearly authorized under Section 8 of the Regulation to remove difficulties.",
+        "The majority opinion in the case of Jalan Trading Co. (Private) Ltd. v. Mill Mazdoor Union authorized the government to determine for itself the purposes of the Act and make provisions for the removal of difficulties, without giving a limited meaning to the word 'difficulty'."
+      ],
+      "respondent_arguments": [
+        "The word 'difficulty' in Section 8 of the Regulation should be interpreted in a very narrow sense, based on the minority opinion in Jalan Trading Co. (Private) Ltd. v. Mill Mazdoor Union.",
+        "The order was not justified under Section 8 because no 'concrete case' of difficulty had actually arisen."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Goa, Daman and Diu (Laws) Regulation, 1962 (Regulation No. XII of 1962)",
+        "section": "8",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Jalan Trading Co. (Private) Ltd. v. Mill Mazdoor Union",
+        "citation": "[1967] 1 S.C.R. 15",
+        "principle": "The Court relied on the majority opinion (by Shah, J.) from this case for the principle that a provision authorizing the government to remove 'difficulties' should not be given a limited or narrow meaning, and it allows the government to determine the purposes of the Act and make provisions to remove doubts or difficulties.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An executive order is not rendered invalid for citing an incorrect source of power if the authority to issue the order can be traced to a different, valid law. A statutory provision empowering the government to make provisions for the 'removal of the difficulty' confers broad authority on the government to determine for itself what constitutes a difficulty and to take the necessary measures to resolve it.",
+    "obiter": [
+      "Neither the appellant nor the respondent has urged before us that s. 8 of the Regulation itself is invalid."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that Section 8 of the Regulation clearly authorized the Lt. Governor to pass the impugned order. The court rejected the respondent's argument for a narrow interpretation of the word \"difficulty,\" which was based on a minority opinion in the case of Jalan Trading Co. (Private) Ltd. v. Mill Mazdoor Union. Instead, the court followed the majority opinion from that same case, which held that the government was authorized to determine for itself the purposes of the Act and to make provisions for the removal of difficulties without a limited meaning being given to the word \"difficulty.\"",
+    "legal_tests_applied": [
+      "The principle of stare decisis, where a majority opinion in a precedent case is binding over a minority opinion.",
+      "The legal principle that an exercise of power is valid if a legal basis for it exists, even if the order itself invokes the wrong authority. (i.e., substance over form)"
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p3_6a3097e9"
+    ]
+  }
+}

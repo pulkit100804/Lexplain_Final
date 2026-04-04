@@ -1,0 +1,123 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court",
+    "impugned_order": "Judgment of the High Court of Madras confirming the appellant's conviction under sec. 302 of the Indian Penal Code and the sentence of death awarded to him.",
+    "high_court_proceedings": "The Madras High Court heard Criminal Appeal No. 861 of 1969 and Referred Trial No. 69 of 1969. It confirmed the appellant's conviction for murder and the sentence of death.",
+    "supreme_court_posture": "The Supreme Court was approached via an appeal founded on a certificate granted by the High Court under Art. 134(1)(c) of the Constitution."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Confirmed",
+    "sentence_status": "Confirmed",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the appellant's statement was a confession and hence irrelevant and inadmissible under Section 26 of the Evidence Act, 1872.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted of murder based on circumstantial evidence.",
+          "While in police custody, the appellant made a statement to a doctor.",
+          "The statement was that the deceased had caused an injury to the appellant's toe on the night of the murder.",
+          "This statement was used as evidence to establish the appellant's presence in the deceased's room at the approximate time of death."
+        ],
+        "law": [
+          "The Court distinguished between a 'confession' and an 'admission' under the Evidence Act, 1872.",
+          "A confession must be a direct and plenary acknowledgment of guilt of the offense, sufficient by itself for a conviction. It must admit to the offense or substantially all the facts that constitute it.",
+          "An admission is a statement of an incriminating fact which, while not a full acknowledgment of guilt, tends to prove guilt when taken with other evidence.",
+          "While confessions made in police custody are inadmissible under Section 26 of the Evidence Act, admissions of incriminating facts are admissible under Section 21."
+        ],
+        "application": [
+          "The Court analyzed the appellant's statement that the deceased had injured his toe.",
+          "It determined that this statement was not a direct acknowledgment of guilt for the crime of murder; it did not admit to committing the offense.",
+          "Instead, the Court classified the statement as an 'admission of a fact'—specifically, the incriminating fact that the appellant was present in the deceased's room.",
+          "Because the statement fell short of a full acknowledgment of guilt, it was deemed an admission, not a confession."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellant's statement was an admission of an incriminating fact, not a confession. Therefore, it was not barred by Section 26 of the Evidence Act and was correctly admitted into evidence by the lower courts. The appellant's contention was rejected."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the appellant's statement was a confession and hence irrelevant and inadmissible under Section 26 of the Evidence Act, 1872.",
+      "appellant_arguments": [
+        "The statement made by the appellant to the doctor, admitting that the deceased had caused an injury on his toe, was made while the appellant was in police custody and should be considered a confession, making it inadmissible under Section 26 of the Evidence Act, 1872."
+      ],
+      "respondent_arguments": [
+        "The appellant's statement was not a confession but an admission of an incriminating fact (his presence in the deceased's room). As an admission, it is not barred by Section 26 and is admissible under Section 21 of the Evidence Act."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "21",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "26",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Palvinder Kaur v. Punjab",
+        "citation": "[1953] S.C.R. 94",
+        "principle": "To support the conclusion that the appellant's statement was properly admitted in evidence as an admission under Section 21 of the Evidence Act and was not an irrelevant confession under Section 26.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Faddi v. Madhya Pradesh",
+        "citation": "[1964] 6 S.C.R. 312",
+        "principle": "To support the conclusion that the appellant's statement was properly admitted in evidence as an admission under Section 21 of the Evidence Act and was not an irrelevant confession under Section 26.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "A. Nagesia v. Bihar",
+        "citation": "A.I.R. 1966 S.C. 119, 123",
+        "principle": "To support the conclusion that the appellant's statement was properly admitted in evidence as an admission under Section 21 of the Evidence Act and was not an irrelevant confession under Section 26.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "U.P. v. Deoman Upadhyaya",
+        "citation": "[1961] S.C.R. 14, 21",
+        "principle": "To explain certain judicial observations related to the admissibility of statements under the Evidence Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A statement that contains self-exculpatory matter or is an admission of an incriminating fact, but is not a direct acknowledgement of guilt, does not amount to a confession under sections 24 to 26 of the Evidence Act and is admissible as an admission under section 21 of the Act.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "On the authority of these pronouncements by this Court, it is clear that the statement in question did not amount to a confession. It was an admission of a fact, no doubt, of an incriminating fact, and which established the presence of the appellant in the deceased's room but which clearly was not barred under sec. 26. The Sessions Judge and the High Court were, therefore, righ:t in holding it to be admissible and in relying upon it.",
+    "legal_tests_applied": [
+      "A confession has to be a direct acknowledgement of the guilt.",
+      "A statement does not amount to a confession if it is of some fact which by itself would not be enough to prove the guilt of the crime in question, although it might, together with the other evidence on record, lead to the conclusion of the guilt."
+    ],
+    "why_appellant_lost": [
+      "The appellant's statement did not amount to a confession because it was not a direct acknowledgement of guilt.",
+      "Because the statement was not a confession, it was not inadmissible by reason of Section 26 of the Evidence Act."
+    ],
+    "why_respondent_won": [
+      "The High Court was right in its conclusion that the appellant's statement before the Doctor was properly admitted in evidence and could be relied upon as an admission under sec. 21 of the Evidence Act, 1872.",
+      "The statement was an admission of an incriminating fact—the presence of the appellant in the deceased's room—which is not barred under Section 26."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "judicial_reasoning.core_finding": [
+      "p7_4c0d3733"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p1_87ccd3ea"
+    ]
+  }
+}

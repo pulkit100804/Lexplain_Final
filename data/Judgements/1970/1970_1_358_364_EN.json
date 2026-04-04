@@ -1,0 +1,155 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court in Bihar since the Patna High Court heard a criminal appeal.",
+    "impugned_order": "Judgment and order dated April 5, 1966, of the Patna High Court in Criminal Appeal No. 602 of 1963.",
+    "high_court_proceedings": "The Patna High Court heard Criminal Appeal No. 602 of 1963. The text suggests the High Court upheld a conviction and sentence under s. 147 and s. 304 read with s. 149, without considering the question as to who was actually in possession of the plot at the time of the occurrence. The High Court observed that the question of possession was immaterial and that the appellants party were members of an unlawful assembly, as both sides were determined to vindicate their rights by show of force or use of force.",
+    "supreme_court_posture": "The Supreme Court heard the case as Criminal Appeal No. 203 of 1966, after granting special leave to appeal. The Supreme Court ultimately dismissed the appeal, upholding the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the respondents could be convicted under Section 302 read with Section 149 of the Indian Penal Code.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondents were in legal possession of the land and the mahua trees on it.",
+          "The deceased victims and their party were committing theft of the fruits from that land.",
+          "The respondents' party assembled to prevent this theft, acting in their right of private defense of property.",
+          "During the confrontation, two of the victims were killed.",
+          "The prosecution could not establish which specific respondents inflicted the fatal wounds."
+        ],
+        "law": [
+          "To convict someone under Section 302 (murder) read with Section 149 (unlawful assembly), the prosecution must prove that the accused were members of an \"unlawful assembly.\"",
+          "An assembly is not unlawful if its common object is lawful, such as exercising the right of private defense of property.",
+          "For a conviction under Section 149, the offense (in this case, murder) must have been committed in prosecution of the common object of the assembly, or be an offense that the members knew was likely to be committed in prosecution of that object."
+        ],
+        "application": [
+          "The Court found that the respondents' assembly was not an \"unlawful assembly\" because its object was lawful: to prevent the commission of theft on their property.",
+          "The Court determined that the common object of the assembly was to prevent theft, not to commit murder.",
+          "The murders were not committed in prosecution of this common object. Instead, the individuals who killed the victims exceeded the right of private defense.",
+          "The murders were also not an act that the other members of the assembly knew was likely to be committed in pursuit of preventing the theft."
+        ],
+        "conclusion": "The Supreme Court rejected the conviction under Section 302 read with Section 149 because the respondents' assembly was not unlawful, and the murders were not committed in prosecution of the group's common object. Therefore, the respondents could not be held constructively responsible for the murders committed by unidentified individuals within their party."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the respondents could be convicted under Section 302 read with Section 34 of the Indian Penal Code.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondents were part of a group that assaulted two individuals, Ramdhari and Ramswarup, resulting in their deaths.",
+          "The respondents' objective was to prevent the victims from stealing mahua fruits from land that was in their possession.",
+          "While some of the respondents were armed with bhalas (spears) and inflicted fatal wounds, it was not possible to determine which specific individuals were responsible for the murders."
+        ],
+        "law": [
+          "A conviction for murder under Section 302 read with Section 34 of the Indian Penal Code requires proof that the accused persons shared a 'common intention' to commit the murder."
+        ],
+        "application": [
+          "The court found that the prosecution failed to establish that the respondents shared a common intention to murder the two victims.",
+          "The court determined that the group's common object was to prevent theft, which is a lawful act in the exercise of the right of private defense of property.",
+          "The individuals who actually killed the victims were found to have exceeded this common object and the right of private defense.",
+          "Since the intention to murder was not established as being shared by the group, the respondents could not be held constructively liable for murder under Section 34."
+        ],
+        "conclusion": "The Supreme Court rejected the conviction under Section 302 read with Section 34 because the prosecution failed to prove that the respondents had a common intention to murder the victims."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the respondents could be convicted under Section 302 read with Section 149 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The accused persons knew that there was a likelihood of murders being committed in the prosecution of their common object."
+      ],
+      "respondent_arguments": [
+        "The respondents could not be convicted under Section 302 read with Section 149, as the common object of the assembly was not to commit murder, but to prevent the other party from collecting mahua."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the respondents could be convicted under Section 302 read with Section 34 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The assailants inflicted injuries on the victims with the common intention of murdering them."
+      ],
+      "respondent_arguments": [
+        "The respondents did not share a common intention to murder the victims."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "141",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "96",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Kapildeo Singh v. The King",
+        "citation": "[1949-50] F.C.R. 834",
+        "principle": "An assembly cannot be designated as an unlawful assembly if its object is to defend property by the use of force within the limits prescribed by law. The assertion of a right of private defence within legal limits does not fall within the expression 'to enforce any right or supposed right' under the fourth clause of s. 141 of the Indian Penal Code.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An assembly cannot be designated as an unlawful assembly if its object is to defend property by the use of force within the limits prescribed by law.",
+    "obiter": [
+      "A court states the law too loosely if, by using the word 'vindicate,' it includes cases where a party is forced to maintain or defend their rights."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "As it had been found that the land in question was in the possession of one of the respondents, the object of the respondents' party was to prevent the commission of theft of the fruits in exercise of their right of private defence of property. This object was not unlawful. The murders were not committed in prosecution of the common object of the assembly or were such as the members of the assembly knew to be likely to be committed in prosecution of the common object. Therefore, the respondents cannot be made constructively responsible for the murders under s. 302 read with s. 149, nor can they be convicted under s. 302 read with s. 34 as an intention to murder was not established.",
+    "legal_tests_applied": [
+      "In order to attract the provisions of s. 149 the prosecution must establish that there was an unlawful assembly and that the crime was committed in prosecution of the common object of the assembly.",
+      "Under the fourth clause of s. 141 an assembly of five or more persons is an unlawful assembly if the common object of the persons composing that assembly is to commit any mischief or criminal trespass, or other offence.",
+      "An assembly could not be designated as an unlawful-assembly if its object was to defend property by the use of force within the limits prescribed by law."
+    ],
+    "why_appellant_lost": [
+      "The prosecution failed to prove that the respondents' assembly was unlawful, as its common object was to prevent theft from property they possessed, which is a lawful exercise of the right of private defense.",
+      "The prosecution failed to prove that the murders were committed in prosecution of the common object of the assembly or were an outcome the members knew to be likely.",
+      "The prosecution failed to establish a common intention to murder Ramdhari or Ramswarup, which is a prerequisite for a conviction under s. 302 read with s. 34."
+    ],
+    "why_respondent_won": [
+      "The court found that the respondents were in possession of the property, and their object was the lawful one of preventing theft in exercise of their right of private defence of property.",
+      "Because the common object was lawful, the assembly itself was not an 'unlawful assembly' as defined by s. 141, thus precluding a conviction under s. 149.",
+      "The court determined that the individuals who committed the murders exceeded the right of private defense and acted beyond the common object of the group, meaning the other respondents could not be held constructively responsible for their actions."
+    ],
+    "policy_considerations": [
+      "A person cannot be held constructively liable for a murder committed by another member of an assembly if the murder was not in prosecution of the assembly's common object and was not an outcome the members knew to be likely.",
+      "If an accused person had exceeded the right of private defence in causing death, it is open to the prosecution to prove the individual assault against that particular accused person, rather than attributing the act to the entire group constructively.",
+      "An assembly formed to defend property by the use of force within the limits prescribed by law cannot be designated as an unlawful assembly."
+    ]
+  },
+  "evidence_map": {}
+}

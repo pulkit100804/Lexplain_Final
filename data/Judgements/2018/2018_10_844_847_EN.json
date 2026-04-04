@@ -1,0 +1,94 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment and Order dated 22.01.2009 of the High Court of Karnataka at Bangalore in Criminal Appeal Nos. 1432 of 2005 and 1549 of 2005.",
+    "high_court_proceedings": "The Trial Court convicted all the accused under section 302 IPC read with 34 IPC and 120(B),IPC. On appeal, the High Court maintained the conviction of accused no. 1 and acquitted respondent nos. 1 & 2 (Accused nos. 2 and 3).",
+    "supreme_court_posture": "The State of Karnataka appealed the High Court's decision to acquit accused nos. 2 and 3. The Supreme Court dismissed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Acquittal upheld",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in acquitting respondent nos. 1 & 2 (Accused nos. 2 and 3) for the offences under section 302 IPC read with 34 IPC and 120(B) IPC.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution alleged that Accused No. 3 (the deceased's wife) had an illicit relationship with Accused No. 1.",
+          "It was further alleged that Accused Nos. 1, 2, and 3 conspired to murder the deceased because he harassed his wife about the affair.",
+          "The trial court convicted all three accused, relying on extra-judicial confessions.",
+          "On appeal, the High Court upheld the conviction of Accused No. 1 but acquitted Accused Nos. 2 and 3, finding the evidence against them was not sufficient to prove guilt beyond a reasonable doubt.",
+          "The State of Karnataka appealed this acquittal to the Supreme Court."
+        ],
+        "law": [
+          "An extra-judicial confession is considered a weak piece of evidence and cannot be the sole basis for a conviction unless it is supported by other substantive evidence.",
+          "To interfere with a High Court's order of acquittal, the Supreme Court must find a 'compelling reason' or a 'substantial infirmity' in the judgment.",
+          "A statement made by a witness under Section 164 CrPC cannot be treated as substantive evidence if the witness later resiles from that statement during cross-examination and is declared hostile."
+        ],
+        "application": [
+          "The Supreme Court analyzed the evidence against Accused Nos. 2 and 3 and found it lacking.",
+          "The extra-judicial confession made to witness PW-2 was unreliable because PW-2 resiled from his statement during cross-examination and was treated as a hostile witness. This meant his earlier statement had no evidentiary value.",
+          "Regarding Accused No. 3 (the wife), the prosecution relied on photographs of her with Accused No. 1. The Court determined that these photographs, at most, might suggest an illicit relationship but did not prove that she conspired to commit murder.",
+          "The Court found no other substantive evidence to corroborate the weak extra-judicial confession or to prove that Accused Nos. 2 and 3 were part of a conspiracy to murder the deceased.",
+          "Applying the high standard for overturning an acquittal, the Court found no 'compelling reason' or 'substantial infirmity' in the High Court's decision to acquit."
+        ],
+        "conclusion": "The Supreme Court rejected the state's appeal and upheld the High Court's acquittal of Accused Nos. 2 and 3. It concluded that the prosecution's evidence, primarily a weak and uncorroborated extra-judicial confession and evidence of an illicit affair, was insufficient to establish their guilt for murder and criminal conspiracy beyond a reasonable doubt."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in acquitting respondent nos. 1 & 2 (Accused nos. 2 and 3) for the offences under section 302 IPC read with 34 IPC and 120(B) IPC.",
+      "appellant_arguments": [
+        "The appellant, the State of Karnataka, challenged the High Court's acquittal of respondent nos. 1 and 2 (accused 2 & 3)."
+      ],
+      "respondent_arguments": [
+        "The respondents' counsel did not appear at the time of the hearing to present arguments."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "302, 34, 120B",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "164",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An appellate court will not interfere with an order of acquittal unless there is a compelling reason or substantial infirmity in the lower court's judgment.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "Upon a careful perusal of the impugned judgment, evidence, and materials on record, the Court found that the High Court was correct in holding that the guilt of respondent nos. 1 and 2 (Accused nos. 2 and 3) had not been established beyond a reasonable doubt, and that there was no compelling reason or substantial infirmity to warrant interference with their acquittal.",
+    "legal_tests_applied": [
+      "The standard for interfering with an order of acquittal is whether there is a ‘compelling reason’ or ‘substantial infirmity’ in the lower court's judgment.",
+      "The standard of proof for a criminal conviction is that the guilt of the accused must be established 'beyond reasonable doubt'."
+    ],
+    "why_appellant_lost": [
+      "The appellant failed to show any ‘compelling reason’ or ‘substantial infirmity’ that would warrant interference with the High Court's order of acquittal."
+    ],
+    "why_respondent_won": [
+      "The High Court, upon appreciation of the evidence adduced by the prosecution, particularly from witnesses PW-2, PW-20, and PW-4, had already held that the guilt of A-2 and A-3 was not established beyond a reasonable doubt."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p2_2c44e453"
+    ]
+  }
+}

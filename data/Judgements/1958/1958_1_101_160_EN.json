@@ -1,0 +1,73 @@
+{
+  "procedural_history": {
+    "originating_court": "Unknown (likely a tax assessment authority or tribunal)",
+    "impugned_order": "Likely an order from the Commissioner of Income Tax related to income tax assessment.",
+    "high_court_proceedings": "Unknown, but the case likely involved an appeal to the High Court before reaching the Supreme Court.",
+    "supreme_court_posture": "Raja Mustafa Ali Khan appealed to the Supreme Court after an unfavorable decision (or lack of a favorable decision) from the High Court regarding the Commissioner of Income Tax's order."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [],
+  "arguments": [
+    {
+      "issue_text": "Whether the 'expenditure of skill and labour' required for income to be classified as agricultural must be in the form of cultivation.",
+      "appellant_arguments": [
+        "The appellant (The Commissioner of Income-tax) likely argued for a narrow interpretation, contending that for income to be considered agricultural, the 'expenditure of skill and labour' must be in the form of cultivation of the land. This is inferred from the court's direct refutation of this specific point."
+      ],
+      "respondent_arguments": [
+        "The respondent (Raja Benoy Kumar Sahas Roy) would have argued for a broader interpretation, asserting that the requirement of 'expenditure of skill and labour' is not limited strictly to acts of cultivation."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Madras Permanent Settlement Regulations No. XXV of 1802",
+        "section": null,
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hedayat Ali v. Kamalanand Singh",
+        "citation": "[1913] 17 C.L.J. 411",
+        "principle": "The court referred to this case as part of its reasoning before concluding that the land in question must be held to be used solely for agricultural purposes.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Commissioner of Agricultural Income-Tax v. Jagadish Chandra Deo Dhahal Deb",
+        "citation": "[1949] 17 l.T.R. 426, 438",
+        "principle": "The court referred to this case as part of its reasoning before concluding that the land in question must be held to be used solely for agricultural purposes.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For income to be classified as agricultural income, there must be some measure of cultivation on the land or some expenditure of skill and labor upon it; the expenditure of skill and labor is not required to always be in the form of cultivation.",
+    "obiter": [
+      "An exemption clause conferred by statute is to be interpreted liberally in favour of the assessee, but without any violence to the language used.",
+      "It is a well-known rule of courts that words in a statute should be taken in their ordinary sense, and dictionaries may be consulted for this purpose, though they are not authoritative exponents of the meaning.",
+      "In interpreting a statute, courts may assist themselves with any literary help they can find, including standard authors and authoritative dictionaries.",
+      "Reliance upon an interpretation settled by practice as contemporanea expositio is not possible without assistance from an established and agreed-upon practice."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the requirement for an 'expenditure of skill and labour' for a purpose to be deemed agricultural is not synonymous with, nor limited to, the act of cultivation. A purpose can be classified as agricultural even if it does not involve the actual cultivation of the soil.",
+    "legal_tests_applied": [
+      "Interpretation of the Privy Council's test for agricultural purpose, which requires 'some measure of cultivation on the land, some expenditure of skill and labour upon it'."
+    ],
+    "why_appellant_lost": [
+      "The appellant's narrow interpretation was rejected because the court did not believe the Privy Council intended for the phrase 'expenditure of skill and labour' to be restricted to acts of cultivation. The court explicitly stated: 'I do not think that when the Privy Council said that there must be \"some measure of cultivation on the land, some expenditure of skill and labour upon it\", their Lordships intended to say that the expenditure of skill and labour must always be in the form of cultivation.'"
+    ],
+    "why_respondent_won": [
+      "The respondent's broader interpretation was accepted, with the court finding that a purpose can be agricultural 'even if its achievement does not involve actual cultivation of the soil.' This was based on the court's interpretation that the Privy Council's test did not require the 'expenditure of skill and labour' to be exclusively in the form of cultivation."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

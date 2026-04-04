@@ -1,0 +1,123 @@
+{
+  "procedural_history": {
+    "originating_court": "Unknown",
+    "impugned_order": "Unknown",
+    "high_court_proceedings": "Unknown",
+    "supreme_court_posture": "Appellants approached the Supreme Court. The case is Criminal Appeal No. 866 of 2011."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquittal restored",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The fine made payable by each of the accused, as a result of the impugned judgment, is to be refunded.",
+      "Bail bonds are discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "In a case primarily involving a dying declaration in addition to the ocular and circumstantial evidence, where the Trial Court acquitted the accused persons, whether the High Court was justified in overturning the same.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a dying declaration, as well as ocular (eyewitness) and circumstantial evidence.",
+          "The Trial Court had acquitted the accused persons.",
+          "The High Court overturned the Trial Court's decision and convicted the appellants."
+        ],
+        "law": [
+          "A dying declaration is a substantive piece of evidence that can form the sole basis for a conviction, provided it inspires the full confidence of the court.",
+          "A dying declaration must be free from tutoring, prompting, or being a product of imagination.",
+          "The examination of the person who wrote down the dying declaration is essential to prove its authenticity and reliability.",
+          "Since the accused cannot cross-examine the person making the declaration, courts must be highly cautious and confident in its correctness before relying on it."
+        ],
+        "application": [
+          "The Supreme Court found the dying declaration in this case to be unreliable and \"nugatory\" (invalid).",
+          "The person who physically wrote down the declaration was not examined in court, and no explanation was given for this failure.",
+          "A police officer (PW19) did not endorse the document with details of who recorded it.",
+          "A doctor (PW1) testified that numerous people were present when the declaration was made, which created a possibility of tutoring or prompting.",
+          "The Court also found that the supporting circumstantial evidence did not point to the guilt of the accused.",
+          "The eyewitnesses failed to attribute any specific role to any of the accused persons."
+        ],
+        "conclusion": "The Supreme Court concluded that because the primary evidence (the dying declaration) was rendered unreliable due to procedural flaws and suspicious circumstances, and the other evidence was weak, the High Court was not justified in overturning the Trial Court's acquittal. Therefore, the Supreme Court rejected the High Court's decision."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether reliance can be placed on discoveries made from a person in custody when such discoveries were from a public place or from an area where other persons also resided.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Discoveries of several sticks were made from public places, such as a eucalyptus plantation and by a bush.",
+          "An iron chain was recovered from a house where other people resided, not just the accused.",
+          "The Court noted that sticks are commonplace objects in village life."
+        ],
+        "law": [
+          "For a discovery to be admissible under Section 27 of the Indian Evidence Act, it must be a fact discovered as a consequence of information received from a person in custody.",
+          "Reliance cannot be placed on discoveries made from a public place or an area accessible to everyone.",
+          "If a discovery is made from a place where other people reside, it cannot be definitively linked to the accused, as others could be responsible for it."
+        ],
+        "application": [
+          "The Supreme Court agreed with the trial court's reasoning that the discoveries in this case were unreliable.",
+          "Because the sticks were found in public places (a plantation, by a bush), their discovery could not be exclusively linked to the accused.",
+          "The Court reasoned that the iron chain found in a shared house could have been placed there by any of the other occupants.",
+          "Furthermore, the Court found that the discovered items (sticks) were ordinary, commonplace objects, which, combined with their discovery in public places, meant they could not be used to establish the guilt of the accused."
+        ],
+        "conclusion": "The Supreme Court rejected placing reliance on the discoveries, affirming the trial court's decision that evidence recovered from public places or shared residences is unreliable and cannot be used to prove guilt."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "In a case primarily involving a dying declaration in addition to the ocular and circumstantial evidence, where the Trial Court acquitted the accused persons, whether the High Court was justified in overturning the same.",
+      "appellant_arguments": [
+        "The dying declaration could not be relied upon because the doctor had not certified the deceased as fit to give a statement.",
+        "The court must be on guard that a dying declaration is not the result of tutoring, prompting, or imagination."
+      ],
+      "respondent_arguments": [
+        "The dying declaration categorically indicts the accused (A1-A7).",
+        "The dying declaration was corroborated by ocular evidence from witnesses PW3, PW4, and PW5.",
+        "The prosecution established the guilt of the accused through ocular evidence from numerous independent witnesses."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether reliance can be placed on discoveries made from a person in custody when such discoveries were from a public place or from an area where other persons also resided.",
+      "appellant_arguments": [
+        "The provided text does not contain specific arguments from the appellant on this issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain specific arguments from the respondent on this issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "For an eyewitness testimony to be the basis of a conviction, it must be wholly reliable, of sterling quality, and free from material contradictions and inconsistencies. Furthermore, discoveries of evidence made from a public place or an area accessible to others cannot be relied upon.",
+    "obiter": [
+      "A High Court ought not to interfere with a possible view taken by a Trial Court without assigning any cogent reasons.",
+      "Ocular evidence is considered evidence of a strong nature.",
+      "A court must rely on a dying declaration if it inspires confidence in the mind of the court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court was not justified in overturning the Trial Court's acquittal because the view taken by the Trial Court was a 'possible view' based on a correct and complete appreciation of the evidence. The High Court ought not to have interfered with such findings without assigning any cogent reasons, particularly when the prosecution's ocular evidence was found to be unreliable, unworthy of credence, and riddled with numerous contradictions and inconsistencies on essential material facts.",
+    "legal_tests_applied": [
+      "An appellate court should not interfere with a trial court's acquittal if the view taken by the trial court is a 'possible view' and there is no error in the appreciation of evidence or application of law.",
+      "For an eyewitness's testimony to be believed and form the basis of a conviction, it must be of 'sterling quality,' wholly reliable, and capable of being taken at face value.",
+      "The prosecution must establish the guilt of the accused persons beyond a reasonable doubt."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The presumption of innocence is strengthened by a judicial verdict of acquittal, and an appellate court must exercise caution and interfere only for compelling reasons, such as when the trial court's findings are perverse, not merely because another view is also possible."
+    ]
+  },
+  "evidence_map": {}
+}

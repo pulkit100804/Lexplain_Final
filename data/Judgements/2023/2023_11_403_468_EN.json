@@ -1,0 +1,109 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment of the High Court affirming the Trial Court's judgment, which the Supreme Court notes as being 'just, valid and proper, based upon the evidence adduced during trial.'",
+    "high_court_proceedings": "1. A Habeas Corpus Petition was decided by the Division Bench of the Patna High Court on 13.03.2007.\n2. A revision petition was dismissed by a Single Judge of the High Court (details of the revision are not provided).",
+    "supreme_court_posture": "The Supreme Court is hearing a Criminal Appeal (No. 1726 of 2015). The appellant is challenging the High Court's judgment. The key question before the Supreme Court is whether it can consider the High Court's 2007 judgment in the Habeas Corpus Writ Petition as incriminating evidence, even though it wasn't presented as evidence in the Trial Court, but was part of the Trial Court record."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [],
+  "arguments": [
+    {
+      "issue_text": "The correctness of the lower courts' judgments and their assessment of evidence, particularly the statement of CW-1.",
+      "appellant_arguments": [
+        "The statement of CW-1 is reliable, and the Courts below wrongly discarded it on the ground that it was hearsay and tutored."
+      ],
+      "respondent_arguments": [
+        "The judgment of the High Court and the Trial Court are just, valid and proper, based upon the evidence adduced during trial.",
+        "No perversity or material irregularity have been found or argued by the learned counsel for the appellants."
+      ],
+      "court_acceptance": "Not mentioned in the text"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "",
+        "section": "56",
+        "used_by_court": true,
+        "principle": "The doctrine of judicial notice, as provided under Section 56, is an exception to general rules of evidence applicable for proving any fact by adducing evidence in the Court of law."
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Ram Bihari Yadav vs State of Bihar & Ors",
+        "citation": "(1998) 4 SCC 517",
+        "principle": "The court has discussed the law in paragraph 6.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Kerala v. Unni",
+        "citation": "(2007) 2 SCC 365",
+        "principle": "In dealing with any appeal under this Chapter, the Appellate Court, if it thinks additional evidence to be necessary, shall record its reasons.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Arbada Devi Gupta vs Birendra Kumar Jaiswal and Anr.",
+        "citation": "(2003) 8 SCC 745",
+        "principle": "The court held as follows: [(1) All laws in force in the territory of India;]",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Though a dying declaration must be approached with caution for the reason that the maker of the statement cannot be subject to cross-examination, there is neither a rule of law nor a rule of prudence which has hardened into a rule of law that a dying declaration cannot be acted upon unless it is corroborated.",
+    "obiter": [
+      "The Court may, in its discretion, require the facts admitted to be proved otherwise than by such admissions.",
+      "A judicial decision must be accepted as correct (res judicata pro veritate accipitur).",
+      "Under general principles of law and procedure appellate Courts can exercise all powers vested in the Trial Court in an attempt to arrive at a just and fair decision.",
+      "The scope of revision before the High Court is limited."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In this rarest of rare cases, the Court takes judicial notice of a prior High Court judgment which reveals that the prosecution's case was systematically demolished using political authority and muscle power with the aid of the police, the Public Prosecutor, and the Trial Court's Presiding Officer. This subsequent conduct, showing a concerted effort to extend undesirable favour to the accused, warrants drawing an adverse inference against them and necessitates re-evaluating the evidence de hors the contaminated conduct of the officials involved.",
+    "legal_tests_applied": [
+      "Doctrine of judicial notice, as provided u/s.56 of the Evidence Act, is an exception to general rules of evidence applicable for proving any fact by adducing evidence in the Court of law. Except in the rarest of rare cases, judicial notice of any fact is generally not taken in criminal matters.",
+      "Adverse inference against the accused is drawn in view of their subsequent conduct.",
+      "In cases where investigating officers deliberately create a mess or omit to do what they ought to have done to bail out an accused, the interest of justice demands that such acts or omissions should not be taken in favour of the accused, as it would amount to giving a premium for the wrongs of the prosecution designedly committed to favour the accused."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Broader public and societal interests require that the victims of the crime... and the interests of State... do not suﬀer... which if allowed would undermine and destroy public conﬁdence in the administration of justice, which may ultimately pave way for anarchy, oppression and injustice resulting in complete breakdown and collapse of the ediﬁce of rule of law.",
+      "Time has become ripe to act on account of numerous experiences faced by courts on account of frequent turning of witnesses as hostile, either due to threats, coercion, lures and monetary considerations at the instance of those in power, their henchmen and hirelings, political clout and patronage and innumerable other corrupt practices ingeniously adopted to smother and stiﬂe truth and realities coming out to surface rendering truth and justice to become ultimate casualties.",
+      "The story of the prosecution will have to be examined de hors such omissions and contaminated conduct of the oﬃcials otherwise the mischief which was deliberately done would be perpetuated and justice would be denied to the complainant party and this would obviously shake the conﬁdence of the people not merely in the law enforcing agency but also in the administration of justice."
+    ]
+  },
+  "evidence_map": {
+    "arguments[0].respondent_arguments[0]": [
+      "p35_4932eee7"
+    ],
+    "arguments[0].respondent_arguments[1]": [
+      "p36_370b7bb9"
+    ],
+    "citations.statutes[0].principle": [
+      "p38_5cea169f",
+      "p42_5f97a35c"
+    ],
+    "citations.cases[1].principle": [
+      "p63_6e835352"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p2_e78d243f"
+    ],
+    "judicial_reasoning.legal_tests_applied[1]": [
+      "p65_030d9ae0"
+    ],
+    "judicial_reasoning.policy_considerations[1]": [
+      "p61_e1773ba1"
+    ],
+    "judicial_reasoning.policy_considerations[2]": [
+      "p50_47fb974f"
+    ]
+  }
+}

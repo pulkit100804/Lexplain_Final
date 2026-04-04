@@ -1,0 +1,972 @@
+{
+  "case_id": "0d10eb7c-03ac-46b0-ae11-2230f688a47c",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_6_ingredient_evaluator",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json",
+    "legal_signals.json",
+    "statute_candidates.json"
+  ],
+  "created_at": "2026-03-19T19:44:13.371552+00:00",
+  "statute_evaluations": [
+    {
+      "statute_id": "300",
+      "heading": "Murder.",
+      "overall_score": 0.5,
+      "status": "weak",
+      "ingredients": [
+        {
+          "ingredient_id": "300.1",
+          "ingredient_text": "the act by which the death is caused is done with the intention of causing death",
+          "element_type": "condition",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "300.2",
+          "ingredient_text": "the act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused",
+          "element_type": "condition",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_001",
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "300.3",
+          "ingredient_text": "the act is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death",
+          "element_type": "condition",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_001",
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "300.4",
+          "ingredient_text": "the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury",
+          "element_type": "condition",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_001",
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "304",
+      "heading": "Punishment for culpable homicide not amounting to murder.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "304.1",
+          "ingredient_text": "Whoever commits culpable homicide not amounting to murder",
+          "element_type": "act",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "304.2",
+          "ingredient_text": "the act by which the death is caused is done with the intention of causing death",
+          "element_type": "mens_rea",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "304.3",
+          "ingredient_text": "the act by which the death is caused is done with the intention of causing such bodily injury as is likely to cause death",
+          "element_type": "mens_rea",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_001",
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "304.4",
+          "ingredient_text": "the act is done with the knowledge that it is likely to cause death",
+          "element_type": "mens_rea",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "304.5",
+          "ingredient_text": "the act is done without any intention to cause death",
+          "element_type": "mens_rea_exclusion",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "304.6",
+          "ingredient_text": "the act is done without any intention to cause such bodily injury as is likely to cause death",
+          "element_type": "mens_rea_exclusion",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_001",
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "94",
+      "heading": "Act to which a person is compelled by threats.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "94.1",
+          "ingredient_text": "An act is done by a person who is compelled to do it by threats.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "94.2",
+          "ingredient_text": "The threats, at the time of doing the act, reasonably cause the apprehension that instant death to that person will otherwise be the consequence.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "94.3",
+          "ingredient_text": "The person doing the act did not of his own accord place himself in the situation by which he became subject to such constraint.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "94.4",
+          "ingredient_text": "The person doing the act did not from a reasonable apprehension of harm to himself short of instant death place himself in the situation by which he became subject to such constraint.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "94.5",
+          "ingredient_text": "The act is not murder.",
+          "element_type": "exclusion",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "94.6",
+          "ingredient_text": "The act is not an offence against the State punishable with death.",
+          "element_type": "exclusion",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "94.7",
+          "ingredient_text": "A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception if compelled by associates to do an offence.",
+          "element_type": "clarification",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "94.8",
+          "ingredient_text": "A person seized by a gang of dacoits, and forced, by threat of instant death, to do a thing which is an offence by law, is entitled to the benefit of this exception.",
+          "element_type": "clarification",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001",
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'force' via action 'attacked'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "307",
+      "heading": "Attempt to murder.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "307.1",
+          "ingredient_text": "Whoever does any act",
+          "element_type": "act",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "307.2",
+          "ingredient_text": "with such intention or knowledge",
+          "element_type": "mens_rea",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "307.3",
+          "ingredient_text": "and under such circumstances that, if he by that act caused death, he would be guilty of murder",
+          "element_type": "circumstance",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "307.4",
+          "ingredient_text": "if hurt is caused to any person by such act",
+          "element_type": "condition_for_enhanced_punishment",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'attacked'."
+        },
+        {
+          "ingredient_id": "307.5",
+          "ingredient_text": "When any person offending under this section is under sentence of imprisonment for life",
+          "element_type": "condition_for_enhanced_punishment",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "307.6",
+          "ingredient_text": "if hurt is caused (by a life-convict)",
+          "element_type": "condition_for_enhanced_punishment",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'attacked'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "308",
+      "heading": "Attempt to commit culpable homicide.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "308.1",
+          "ingredient_text": "Whoever does any act",
+          "element_type": "actus_reus",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "308.2",
+          "ingredient_text": "with such intention or knowledge",
+          "element_type": "mens_rea",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "308.3",
+          "ingredient_text": "and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder",
+          "element_type": "actus_reus",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "308.4",
+          "ingredient_text": "if hurt is caused to any person by such act",
+          "element_type": "aggravating_circumstance",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'attacked'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "303",
+      "heading": "Punishment for murder by life-convict.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "303.1",
+          "ingredient_text": "Whoever, being under sentence of imprisonment for life",
+          "element_type": "perpetrator_status",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "303.2",
+          "ingredient_text": "commits murder",
+          "element_type": "act",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "302",
+      "heading": "Punishment for murder.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "302",
+          "ingredient_text": "This section prescribes the punishment for committing murder.",
+          "element_type": "punishment_text",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "148",
+      "heading": "Rioting, armed with deadly weapon.",
+      "overall_score": 1.0,
+      "status": "valid",
+      "ingredients": [
+        {
+          "ingredient_id": "148.1",
+          "ingredient_text": "The accused is armed with anything which, used as a weapon of offence, is likely to cause death.",
+          "element_type": "circumstance",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001",
+            "evt_002",
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'weapon' via action 'attacked'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "100",
+      "heading": "When the right of private defence of the body extends to causing death.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "100.1",
+          "ingredient_text": "The right of private defence of the body extends to the voluntary causing of death or of any other harm to the assailant.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "100.2",
+          "ingredient_text": "The right is exercised under the restrictions mentioned in the last preceding section.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "100.3",
+          "ingredient_text": "The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that death will otherwise be the consequence of such assault.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "100.4",
+          "ingredient_text": "The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'attacked'."
+        },
+        {
+          "ingredient_id": "100.5",
+          "ingredient_text": "The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.",
+          "element_type": "condition",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "100.6",
+          "ingredient_text": "The offence which occasions the exercise of the right is an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'attacked'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "304B",
+      "heading": "Dowry death.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "304B.1",
+          "ingredient_text": "the death of a woman is caused by any burns or bodily injury",
+          "element_type": "causal_circumstance",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001",
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'bodily injury' via action 'attacked'."
+        },
+        {
+          "ingredient_id": "304B.2",
+          "ingredient_text": "the death of a woman occurs otherwise than under normal circumstances",
+          "element_type": "circumstance",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "304B.3",
+          "ingredient_text": "the death occurs within seven years of her marriage",
+          "element_type": "temporal_condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "304B.4",
+          "ingredient_text": "soon before her death she was subjected to cruelty or harassment",
+          "element_type": "conduct",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "304B.5",
+          "ingredient_text": "cruelty or harassment by her husband",
+          "element_type": "actor",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "304B.6",
+          "ingredient_text": "cruelty or harassment by any relative of her husband",
+          "element_type": "actor",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "304B.7",
+          "ingredient_text": "cruelty or harassment for, or in connection with, any demand for dowry",
+          "element_type": "motive",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "304B.8",
+          "ingredient_text": "dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)",
+          "element_type": "definition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "101",
+      "heading": "When such right extends to causing any harm other than death.",
+      "overall_score": 0.6667,
+      "status": "weak",
+      "ingredients": [
+        {
+          "ingredient_id": "101.1",
+          "ingredient_text": "The offence is not of any of the descriptions enumerated in the last preceding section.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "101.2",
+          "ingredient_text": "The right of private defence of the body does not extend to the voluntary causing of death to the assailant.",
+          "element_type": "limitation",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "101.3",
+          "ingredient_text": "The right of private defence of the body extends to the voluntary causing to the assailant of any harm other than death.",
+          "element_type": "scope_of_right",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "301",
+      "heading": "Culpable homicide by causing death of person other than person whose death was intended.",
+      "overall_score": 0.625,
+      "status": "weak",
+      "ingredients": [
+        {
+          "ingredient_id": "301.1",
+          "ingredient_text": "A person does something which he intends or knows to be likely to cause death.",
+          "element_type": "actus_reus_and_mens_rea",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "301.2",
+          "ingredient_text": "The act commits culpable homicide by causing the death of any person.",
+          "element_type": "result",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "301.3",
+          "ingredient_text": "The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.",
+          "element_type": "circumstance",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "301.4",
+          "ingredient_text": "The culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.",
+          "element_type": "legal_consequence",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "87",
+      "heading": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent.",
+      "overall_score": 0.4,
+      "status": "weak",
+      "ingredients": [
+        {
+          "ingredient_id": "87.1",
+          "ingredient_text": "The act is not intended to cause death.",
+          "element_type": "mental_state",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "87.2",
+          "ingredient_text": "The act is not intended to cause grievous hurt.",
+          "element_type": "mental_state",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'attacked'."
+        },
+        {
+          "ingredient_id": "87.3",
+          "ingredient_text": "The person harmed is above eighteen years of age.",
+          "element_type": "victim_characteristic",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "87.4",
+          "ingredient_text": "The person has given consent, whether express or implied, to suffer that harm.",
+          "element_type": "consent",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "87.5",
+          "ingredient_text": "The person has consented to take the risk of that harm.",
+          "element_type": "consent",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "70",
+      "heading": "Fine leviable within six years, of during imprisonment. Death not to discharge property from liability.",
+      "overall_score": 0.3333,
+      "status": "weak",
+      "ingredients": [
+        {
+          "ingredient_id": "70.1",
+          "ingredient_text": "A fine, or any unpaid part thereof, may be levied within six years after the passing of the sentence.",
+          "element_type": "rule",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "70.2",
+          "ingredient_text": "If the offender is liable to imprisonment for a period longer than six years, the fine may be levied at any time before that imprisonment period expires.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "70.3",
+          "ingredient_text": "The death of an offender does not discharge from liability any property that would, after their death, be legally liable for their debts.",
+          "element_type": "rule",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "115",
+      "heading": "Abetment of offence punishable with death or imprisonment for life.—if offence not committed.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "115.1",
+          "ingredient_text": "Whoever abets the commission of an offence",
+          "element_type": "act",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "115.2",
+          "ingredient_text": "The abetted offence is punishable with death or imprisonment for life",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_002"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+        },
+        {
+          "ingredient_id": "115.3",
+          "ingredient_text": "The abetted offence is not committed in consequence of the abetment",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "115.4",
+          "ingredient_text": "No express provision is made by this Code for the punishment of such abetment",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "115.5",
+          "ingredient_text": "An act for which the abettor is liable in consequence of the abetment is done",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "115.6",
+          "ingredient_text": "This act causes hurt to any person",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_001"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'attacked'."
+        }
+      ],
+      "consistency_flags": []
+    }
+  ],
+  "consistency_flags": []
+}

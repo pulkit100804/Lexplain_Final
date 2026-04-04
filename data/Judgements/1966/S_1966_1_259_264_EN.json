@@ -1,0 +1,110 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Magistrate",
+    "impugned_order": "Judgment and order dated September 15, 1965 of the Bihar High Court in Criminal Revision No. 1326 of 1963.",
+    "high_court_proceedings": "The respondent was convicted by the trying Magistrate. His appeal to the Sessions Judge was dismissed. He then filed a Revision Application in the Patna High Court, which allowed the application and set aside the conviction and sentence.",
+    "supreme_court_posture": "The State of Bihar appealed the High Court's decision to the Supreme Court."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the respondent is the 'owner of a coal mine' within the meaning of the Coal Mines Provident Fund and Bonus Schemes Act, 1948 and the Mines Act, 1952.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent owned a coke plant, which was situated on surface land adjacent to a coal mine.",
+          "The respondent was the lessee of the land on which his plant stood, but another company owned and worked the actual coal mine beneath and around the land.",
+          "The respondent's business was manufacturing hard coke and other bye-products.",
+          "Crucially, the respondent did not personally engage in any mining activities; he did not excavate coal or carry on any operations for the purpose of obtaining coal."
+        ],
+        "law": [
+          "The case required interpreting the term 'owner of a coal mine' as used in the Coal Mines Provident Fund and Bonus Schemes Act, 1948.",
+          "Under that Act, an 'Employer' is defined as the 'owner of a coal mine'.",
+          "The definition of 'owner' is referenced from the Mines Act, 1952, which defines an 'owner' as the 'immediate proprietor or lessee or occupier of the mine or of any part thereof'."
+        ],
+        "application": [
+          "The Court analyzed the respondent's activities to determine if he fit the legal definition of an 'owner' of a 'mine'.",
+          "It found that while the respondent owned a coke plant and was the lessee of the land it was on, he was not the proprietor, lessee, or occupier of the actual mine where coal was excavated.",
+          "The Court distinguished between the business of manufacturing coke from coal and the business of mining coal itself.",
+          "Since the respondent did not carry on any operations for the purpose of obtaining coal, his coke plant could not be considered a 'coal mine' and he could not be considered its 'owner' under the Acts."
+        ],
+        "conclusion": "The Supreme Court held that the respondent was not the 'owner of a coal mine' within the meaning of the Acts because he only operated a coke plant and did not engage in any mining operations to excavate or obtain coal. Therefore, the High Court's decision to acquit him was correct."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the respondent is the 'owner of a coal mine' within the meaning of the Coal Mines Provident Fund and Bonus Schemes Act, 1948 and the Mines Act, 1952.",
+      "appellant_arguments": [
+        "The appellant (prosecution) argued that the respondent, as the owner of the Bhowra Coke Plant, was an 'owner of a coal mine' and an 'employer' within the meaning of the Coal Mines Provident Fund Scheme.",
+        "Consequently, the respondent had violated the Scheme by failing to pay provident fund contributions for his employees and failing to submit the required returns."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the Coke Plant he owned was not a 'coal mine' within the meaning of the Scheme.",
+        "Therefore, he was not the 'owner of a mine' under the Act and the Scheme, and the provisions requiring provident fund contributions did not apply to him."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Mines Act, 1952",
+        "section": "Section 2(b)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Coal Mines Provident Fund and Bonus Schemes Act, 1948 (Act 46 of 1948)",
+        "section": "Not specified",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Coal Mines Provident Fund Scheme",
+        "section": "para 70",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Ormond Investment Co Ltd v Betts",
+        "citation": "[1928] A.C. 143 at p. 147",
+        "principle": "Subsequent legislation may be looked at in order to see what is the proper interpretation to be put upon the earlier Act where the earlier Act is obscure or ambiguous or readily capable of more than one interpretation.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In the statutory definition of a 'coal mine', the controlling expression is 'belonging to a coal mine'. Therefore, subsidiary elements such as works, machinery, tramways, and sidings are included within the definition only if they are under the same ownership as the mine itself. To achieve this legislative intent, the conjunction 'or' in the definition must be interpreted as 'and'.",
+    "obiter": [
+      "It is a well-recognised principle in matters of construction that subsequent legislation may be looked at in order to see what is the proper interpretation to be put upon an earlier Act where the earlier Act is obscure or ambiguous or readily capable of more than one interpretation."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The expression 'belonging to a coal mine' is the controlling expression governing all aspects of the activities of the coal mine within the definition of s. 2(b) and all subsidiary things such as works, machinery, tramways and sidings are brought within the definition of the 'coal mine' only if they appertain to the coal mine, that is to say, if they are under the same ownership. The respondent did not mine or excavate coal himself nor carry on any operation for the purpose of obtaining coal, and therefore is not the owner of a coal mine.",
+    "legal_tests_applied": [
+      "Statutory Interpretation: The court interpreted the phrase 'belonging to a coal mine' in Section 2(b) of the Act as the 'controlling expression' that requires common ownership between the primary mining operation and any subsidiary works, machinery, or sidings.",
+      "Rule of Construction (Reading 'and' for 'or'): To carry out the legislative intention, it is necessary to substitute the conjunction 'and' for the conjunction 'or' in the definition of a 'coal mine' in s. 2(b) of the Act.",
+      "Rule of Construction (Subsequent Legislation): Subsequent legislation may be looked at in order to see what is the proper interpretation to be put upon the earlier Act where the earlier Act is obscure or ambiguous or readily capable of more than one interpretation."
+    ],
+    "why_appellant_lost": [
+      "The appellant's broad interpretation of 'coal mine' was rejected because it would lead to a 'startling consequence' where any works, machinery, tramways, and sidings which do not appertain to the coal mine in the sense of ownership would be included.",
+      "The court found that the legislature could not have intended that an activity like the transport of coal by a separate entity would, in itself, constitute the working of a coal mine."
+    ],
+    "why_respondent_won": [
+      "The respondent's coke plant was not a 'coal mine' because the controlling part of the statutory definition is the phrase 'belonging to a coal mine,' which the court interpreted to mean 'under the same ownership' as the excavation operation.",
+      "The respondent did not mine or excavate coal himself nor carry on any operation for the purpose of obtaining coal; he only owned the coke plant, which was a subsidiary work not under the same ownership as the mine itself.",
+      "Subsidiary works, machinery, or the like only fall within the definition of a 'coal mine' if they appertain to and belong to the coal mine in the sense of carrying on excavation work for the purpose of obtaining coal."
+    ],
+    "policy_considerations": [
+      "The court sought to avoid an absurd interpretation of the statute that would lead to unintended consequences, using the example that under the appellant's interpretation, a railway company that sets up sidings only for the purpose of transporting coal could be considered the owner of a coal mine, which 'cannot be imagined'."
+    ]
+  },
+  "evidence_map": {}
+}

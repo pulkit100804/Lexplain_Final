@@ -1,0 +1,132 @@
+{
+  "case_id": "08bf5df7-b451-421a-ad42-9660bb3abe05",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_4b_event_builder",
+  "input_refs": [
+    "role_tagged_graph.json",
+    "entities.json"
+  ],
+  "created_at": "2026-03-22T19:10:10.890146+00:00",
+  "events": [
+    {
+      "event_id": "evt_001",
+      "event_type": "context",
+      "actor": "victim",
+      "action": null,
+      "target": "accused",
+      "object": null,
+      "time": "On the night of 12th August",
+      "location": "local shop",
+      "description": "On the night of 12th August, the accused and the victim were involved in a heated argument outside a local shop.",
+      "source_node_id": "n_001"
+    },
+    {
+      "event_id": "evt_002",
+      "event_type": "action",
+      "actor": "witness",
+      "action": "struck",
+      "target": null,
+      "object": "wooden stick",
+      "time": null,
+      "location": null,
+      "description": "According to a witness present at the scene, the argument escalated quickly, and in a moment of anger, the accused picked up a wooden stick lying nearby and struck the victim on the head.",
+      "source_node_id": "n_002"
+    },
+    {
+      "event_id": "evt_003",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": "the hospital",
+      "description": "The victim immediately collapsed and was taken to the hospital by nearby individuals.",
+      "source_node_id": "n_003"
+    },
+    {
+      "event_id": "evt_004",
+      "event_type": "state",
+      "actor": null,
+      "action": "died",
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "Medical reports later confirmed that the victim had suffered a severe head injury and died the following morning.",
+      "source_node_id": "n_004"
+    },
+    {
+      "event_id": "evt_005",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "There was no prior enmity reported between the accused and the victim.",
+      "source_node_id": "n_005"
+    },
+    {
+      "event_id": "evt_006",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "The incident appeared to have occurred spontaneously during the altercation.",
+      "source_node_id": "n_006"
+    },
+    {
+      "event_id": "evt_007",
+      "event_type": "evidence",
+      "actor": null,
+      "action": "recovered",
+      "target": null,
+      "object": "wooden stick",
+      "time": null,
+      "location": null,
+      "description": "The police recovered the wooden stick from the scene, and blood stains matching the victim were found on it.",
+      "source_node_id": "n_007"
+    },
+    {
+      "event_id": "evt_008",
+      "event_type": "evidence",
+      "actor": null,
+      "action": "found",
+      "target": null,
+      "object": "wooden stick",
+      "time": null,
+      "location": null,
+      "description": "The police recovered the wooden stick from the scene, and blood stains matching the victim were found on it.",
+      "source_node_id": "n_007"
+    },
+    {
+      "event_id": "evt_009",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "The witness stated that the accused did not appear to plan the attack but acted suddenly during the argument.",
+      "source_node_id": "n_008"
+    },
+    {
+      "event_id": "evt_010",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "The accused was arrested the next day.",
+      "source_node_id": "n_009"
+    }
+  ]
+}

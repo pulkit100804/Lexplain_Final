@@ -1,0 +1,198 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge",
+    "impugned_order": "Order of acquittal by the High Court",
+    "high_court_proceedings": "The High Court acquitted the respondent (an Income-tax Officer) who had been found guilty by the Special Judge under s. 161, Indian Penal Code, and sentenced to six months simple imprisonment.",
+    "supreme_court_posture": "The State obtained special leave and appealed to the Supreme Court against the High Court's order of acquittal."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "The acquittal by the High Court is set aside and the conviction by the Special Judge is restored.",
+    "sentence_status": "The sentence of six months simple imprisonment is restored.",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a distinction can be made between a judgment of conviction and one of acquittal for the purpose of an appeal under Article 136 of the Constitution.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "This case was an appeal by the State to the Supreme Court, brought by special leave under Article 136, against a High Court judgment that acquitted an Income-tax Officer of corruption charges.",
+          "The respondent's counsel argued that the Supreme Court should not interfere with a judgment of acquittal under Article 136, suggesting a distinction between appeals against convictions and appeals against acquittals."
+        ],
+        "law": [
+          "The Supreme Court analyzed the text of Article 136 of the Constitution, which states that the court may \"grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal...\"",
+          "The Court interpreted the broad and unqualified words \"any judgment... in any cause or matter\" to mean that, as a matter of construction, the Constitution makes no distinction between a judgment of conviction and one of acquittal in criminal matters."
+        ],
+        "application": [
+          "The Court rejected the respondent's argument by citing precedent, particularly the Constitution Bench case of *States of Madras v. Gurviah Naidu & Co., Ltd.*, which was itself an appeal against an acquittal where the Supreme Court reversed the High Court's judgment.",
+          "The Court held that this precedent explicitly \"negatives the contention that under Art. 136 interference by this court with findings of High Courts in judgments of acquittal is not intended.\"",
+          "While acknowledging that it will not readily interfere with findings of fact, the Court affirmed its power to do so in cases of acquittal if the High Court \"acts perversely or otherwise improperly.\""
+        ],
+        "conclusion": "The Supreme Court rejected the proposed distinction, holding that the plain language of Article 136 of the Constitution does not differentiate between a judgment of conviction and one of acquittal. Therefore, the Court has the discretionary power to hear appeals against acquittals, just as it does against convictions."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court can interfere with the findings of fact given by a High Court in an appeal against acquittal.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact": "Article 136 of the Constitution grants the Supreme Court broad discretionary power to hear an appeal from any judgment, sentence, or order from any court in India.",
+            "reasoning": "The Court noted that the language of Article 136 makes no distinction between a judgment of conviction and one of acquittal, meaning its power to hear appeals applies equally to both."
+          },
+          {
+            "fact": "The Supreme Court will not readily interfere with findings of fact given by a High Court in an acquittal appeal.",
+            "reasoning": "The Court affirmed its general practice, similar to that of the Privy Council, not to function as a regular court of appeal on facts in criminal cases. It will not interfere merely to correct minor errors of fact or law or because it takes a different view of the evidence."
+          },
+          {
+            "fact": "The Supreme Court can and will interfere with a High Court's acquittal if the High Court has acted \"perversely or otherwise improperly.\"",
+            "reasoning": "This standard allows for intervention in exceptional cases. The Court cited examples such as the High Court being deceived by fraud, missing or improperly appreciating key evidence, or disregarding a mandatory legal presumption."
+          }
+        ],
+        "application": [
+          {
+            "fact": "The Court rejected the respondent's argument that it should not interfere, clarifying that prior judgments did not create an absolute bar but merely set a high threshold for intervention.",
+            "reasoning": "The Court cited the Constitution Bench decision in *States of Madras v. Gurviah Naidu & Co., Ltd.*, where it had previously reversed a High Court's acquittal, demonstrating that such a power exists and can be exercised."
+          },
+          {
+            "fact": "The Court found that the High Court in this specific case had acted perversely and improperly.",
+            "reasoning": "The High Court's judgment was found to be \"halting\" and its approach flawed. Specifically, the High Court had disregarded the mandatory legal presumption under Section 4 of the Prevention of Corruption Act. By stating that the \"benefit of doubt must go to him,\" the High Court failed to properly apply the law, which required the accused to rebut the presumption against him."
+          },
+          {
+            "fact": "The Court also noted that the High Court had missed or failed to properly appreciate salient pieces of evidence.",
+            "reasoning": "This failure, combined with the misapplication of the law, met the threshold for the Supreme Court's interference."
+          }
+        ],
+        "conclusion": "The Supreme Court decided that it can interfere with a High Court's findings of fact in an appeal against acquittal. While it will not do so readily, it has the power under Article 136 to intervene if the High Court's decision is found to be perverse, improper, or based on a disregard for the law or evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a distinction can be made between a judgment of conviction and one of acquittal for the purpose of an appeal under Article 136 of the Constitution.",
+      "appellant_arguments": [
+        "The Supreme Court has the authority under Article 136 (Special Leave) to interfere with a High Court's judgment of acquittal, and no prohibitive distinction should be made that bars such an appeal, especially when the High Court has erred."
+      ],
+      "respondent_arguments": [
+        "The Supreme Court should not interfere with an order of acquittal from a High Court merely on the ground that it took a different view of the facts, implying a higher standard for interfering with acquittals compared to convictions. (Based on the case of The State of Madhya Pradesh v. Ramakrishna Ganpatrao Limsey)."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the Supreme Court can interfere with the findings of fact given by a High Court in an appeal against acquittal.",
+      "appellant_arguments": [
+        "The Supreme Court can interfere with findings of fact in an appeal by special leave when the High Court's judgment shows that certain salient pieces of evidence were missed or were not properly appreciated."
+      ],
+      "respondent_arguments": [
+        "The Supreme Court should not interfere with an order of the High Court merely on the ground that it took a different view of the facts."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Art. 136",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Art. 134(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "s. 4",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "Not specified",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Government of India Act, 1935",
+        "section": "s. 205",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pritam Singh v. The State",
+        "citation": "[1950] S.C.R. 453, 456",
+        "principle": "To define the scope of appeal under Art. 136, which should only be exercised when a case presents features of sufficient gravity to warrant a review of the decision appealed against.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Mohinder Singh v. The King",
+        "citation": "Not provided",
+        "principle": "To establish the permissible limits for review in criminal matters, which includes interference in cases that are 'so irregular or so outrageous as to shock the very basis of justice'.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Stephen Seneviratne v. The King",
+        "citation": "Not provided",
+        "principle": "Cited as an approved instance of the principle that the court can interfere in criminal matters due to grave irregularities.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "King Emperor v. Sibnath Bannerji",
+        "citation": "Not provided",
+        "principle": "For the principle that a statutory right of appeal should not be limited by mere construction, and its purpose is to confer a right of appeal in every case involving a substantial question of law.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "The State of Madhya Pradesh v. Ramakrishna Ganpatrao Limsey",
+        "citation": "A.I.R. (1954) S.C. 680",
+        "principle": "The Court considered and distinguished this case to clarify that the principle of not interfering with an acquittal merely to correct errors of fact or law was not an absolute bar, especially in an appeal by Special Leave.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "States of Madras v. Gurviah Naidu & Co., Ltd.",
+        "citation": "Not provided",
+        "principle": "To affirm that the Supreme Court can and will reverse a judgment of acquittal in an appeal by Special Leave, particularly when the High Court's approach was erroneous.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Singh v. The State",
+        "citation": "A.I.R. 1954 S.C. 20",
+        "principle": "Cited for a 'special rule' which the High Court had disregarded, leading to an erroneous approach in its findings.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When it is proven that a gratification has been accepted, a presumption of law under Section 4 of the Prevention of Corruption Act immediately arises, and it is obligatory for the court to raise it, shifting the onus onto the accused. The Supreme Court can interfere with a High Court's judgment of acquittal under Article 136 if the High Court acts perversely, disregards this special rule of burden of proof, or fails to properly appreciate salient evidence, as no distinction is made between a judgment of conviction and one of acquittal under this article.",
+    "obiter": [
+      "The words 'shall presume' in Section 4 of the Prevention of Corruption Act are in pari materia with the Evidence Act and should be given the same meaning.",
+      "If the scope of an appeal under Article 136 were to be extended to all questions of fact, Article 134(1) would become superfluous.",
+      "The purpose of Section 205 of the Government of India Act, 1935, was to confer a right of appeal in every case that involves a substantial question of law as to the interpretation of the Act."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court can interfere with a High Court's judgment of acquittal under Article 136 when the High Court acts perversely. In this case, the High Court's approach was perverse because it disregarded the mandatory legal presumption concerning the burden of proof under Section 4 of the Prevention of Corruption Act, 1947, and failed to properly appreciate salient pieces of evidence, thereby justifying the reversal of the acquittal.",
+    "legal_tests_applied": [
+      "The Supreme Court will not readily interfere with findings of fact from a High Court unless the High Court \"acts perversely or otherwise improperly.\"",
+      "The presumption under Section 4 of the Prevention of Corruption Act is a presumption of law ('shall presume'), and it is obligatory for the court to raise it once it is proved that a gratification has been accepted, which shifts the onus of proof onto the accused.",
+      "The general standard for granting special leave under Article 136 requires that \"exceptional and special circumstances exist, that substantial and grave injustice has been done and that the case in question presents features of sufficient gravity to warrant a review of the decision appealed against.\""
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The High Court's findings were halting and its approach was erroneous as it disregarded the special rule of burden of proof under s. 4 of the Prevention of Corruption Act. The High Court's statement that \"the benefit of doubt must go to him\" was indicative of a disregard of the presumption which the law requires to be raised.",
+      "The judgment of the High Court showed that certain salient pieces of evidence were missed or were not properly appreciated, which allows the Supreme Court to interfere in an appeal by special leave.",
+      "The contention that the Supreme Court should not interfere with judgments of acquittal under Article 136 is incorrect, as precedent in 'States of Madras v. Gurviah Naidu & Co., Ltd.' negatives this argument and shows the court has previously reversed acquittals in such appeals."
+    ],
+    "policy_considerations": [
+      "The use of the words 'shall presume' in Section 4 of the Prevention of Corruption Act, as opposed to 'may presume', makes the presumption a matter of law that is obligatory for courts to apply, reflecting a legislative intent to strictly enforce anti-corruption statutes by altering the standard burden of proof.",
+      "The Supreme Court's power under Article 136 serves to correct substantial and grave injustice, and interference is warranted when a lower court's actions are \"so irregular or so outrageous as to shock the very basis of justice\"."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Income Tax Tribunal",
+    "impugned_order": "Order of the Income Tax Tribunal referring a question of law to the High Court.",
+    "high_court_proceedings": "The Income Tax Tribunal submitted a statement of case to the High Court and referred a question of law in Income-tax Reference No. 23 of 1951. The case involved Chidambaram Mulraj and Company Ltd.",
+    "supreme_court_posture": "The Commissioner of Income-tax/Excess Profits Tax, Bombay City, made an application for reference in the appeal of Chidambaram Mulraj and Company Ltd. The case reached the Supreme Court through Civil Appeals Nos. 3, 30, and 31 of 1953."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the income from the managing agency accrued only upon the completion of the year.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The Sassoons held managing agency agreements for three companies and transferred these agencies to other companies during the course of an accounting year.",
+          "A dispute arose as to whether the managing agency commission for the entire year should be apportioned between the original agent (transferor) and the new agent (transferee) based on the period each served.",
+          "The core question was to determine when the income from the commission legally accrued."
+        ],
+        "law": [
+          "The accrual of income is determined by the terms of the contract that creates the right to receive it.",
+          "For a contract of service, if payment is conditional upon the completion of a specific period of service, the right to that payment (accrual) only arises when the condition is met."
+        ],
+        "application": [
+          "The Court interpreted the Managing Agency Agreement as an \"entire and indivisible contract\" that stipulated a single payment of remuneration or commission \"per year.\"",
+          "It found that the performance of services for the \"whole year\" was a \"condition precedent\" to the managing agent earning any commission for that accounting year.",
+          "Because the contract was indivisible, the Court reasoned that \"no remuneration or commission was payable to the Managing Agents for broken periods.\"",
+          "The Court explicitly rejected the contention that profits accrued from day to day as services were rendered.",
+          "Therefore, the right to receive the commission only arose at the end of the accounting year, once the full period of service was completed and the company's annual net profits could be ascertained."
+        ],
+        "conclusion": "The Court concluded that the income from the managing agency commission accrued only at the end of the accounting year. The right to the income vested entirely in whichever entity satisfied the description of the Managing Agent at the completion of the year, as the contract was indivisible and required a full year's service before any commission was earned."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the income from the managing agency accrued only upon the completion of the year.",
+      "appellant_arguments": [
+        "The Managing Agency is a source of income, and when this source is transferred, any income that accrues after the transfer date belongs entirely to the transferee (assignee).",
+        "The entire remuneration for the year's work accrues as a matter of law to the assignee, as the agency is the source of income and should be treated as an income-bearing asset.",
+        "It is immaterial that the transferor (appellant) contributed to creating the income through work done before the transfer.",
+        "It is also immaterial that there was an expectation of future income at the time of transfer, which may have resulted in a higher transfer price."
+      ],
+      "respondent_arguments": [
+        "The appellant's contention that the entire remuneration for the year's work accrues to the assignee is not supported by case law."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Swabey's case",
+        "citation": "",
+        "principle": "Its authority was considered unshaken on the point that where an agreement omits the words 'at the rate of', a power to terminate the agreement in the middle of the year does not necessarily infer a right to receive payment for the broken period.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Moriarty's case",
+        "citation": "",
+        "principle": "It was cited for the principle that a power, whether mutual or one-sided, to terminate an agreement in the middle of the year does not, as a matter of necessity, lead to an inference of a right to receive payment from day to day or for the broken period.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For tax purposes, the words 'profits or gains arising or accruing' cannot be read as meaning 'received by'. A claim for proportionate wages or salary for a broken period does not survive, and therefore does not accrue, where a contract of service is terminated by mutual consensus, unless it is made an express term of the agreement.",
+    "obiter": [
+      "It is erroneous to treat a Managing Agency Agreement as by itself the direct source of income and to treat it as an income-producing asset."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "On principle, it is erroneous to treat the Managing Agency Agreement by itself as the direct source of income or as an income-producing asset. The income does not accrue only upon the completion of the year but is tied to the work and services rendered over time.",
+    "legal_tests_applied": [
+      "The court applied a principle-based analysis to determine the 'source of income' for tax accrual purposes, distinguishing between the contractual agreement itself and the activities or services performed under that agreement which actually generate the income."
+    ],
+    "why_appellant_lost": [
+      "The appellant's foundational argument that the Managing Agency Agreement is the direct source of income was explicitly rejected by the court as erroneous.",
+      "The court rejected the appellant's characterization of the Managing Agency as an 'income-producing asset' where all income post-transfer automatically belongs to the transferee, irrespective of the work done by the transferor."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the court determined that income accrues from the performance of services under the agreement, not merely from the existence of the agreement at the end of a calendar year.",
+      "The court's conclusion that the question referred must be answered in the negative—meaning the income did not accrue only upon the completion of the year—directly supports the respondent's contention that income had already accrued to the appellant for the portion of the year they had worked."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

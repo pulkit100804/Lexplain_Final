@@ -1,0 +1,190 @@
+{
+  "procedural_history": {
+    "originating_court": "District Judge of Purulia",
+    "impugned_order": "Judgment of the District Judge of Purulia in Appeal No. 159 of 1944",
+    "high_court_proceedings": "Appeal from Appellate Decree No. 97 of 1946 in the High Court of Judicature at Patna (Manohar Lall and Mukherji JJ.). The High Court confirmed the judgment of the District Judge.",
+    "supreme_court_posture": "Appeal to the Supreme Court from the judgment and decree of the High Court at Patna."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "direct that he be set at liberty forthwith"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a compromise decree that includes property not originally the subject-matter of the suit is still exempt from registration under Section 17(2)(vi) of the Registration Act.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A lawsuit concerning 500 bighas of land was settled through a compromise decree in 1923.",
+          "This compromise decree not only settled the dispute over the 500 bighas but also included terms relating to an additional 5,300 bighas, which were not the subject-matter of the original suit.",
+          "An objection was raised that the decree was inadmissible as evidence because it was not registered, specifically because it included this extra property."
+        ],
+        "law": [
+          "The relevant law is Section 17(2)(vi) of the Registration Act.",
+          "The Court noted that this clause was amended in 1930 to require registration for compromise decrees that include property not part of the original suit.",
+          "However, the decree in question was from 1923, before the amendment took effect.",
+          "The Court relied on the pre-amendment interpretation of the law, established in the case of *Hemanta Kumari Debi v. Midnapur Zamindari Co.*, which held that the exemption from registration applied even to compromise decrees that included property outside the scope of the suit."
+        ],
+        "application": [
+          "The Court directly applied the pre-1930 law and the precedent set in the *Hemanta Kumari Debi* case to the facts.",
+          "Since the compromise decree was from 1923, the subsequent 1930 amendment did not apply to it.",
+          "The Court stated that the *Hemanta Kumari Debi* decision \"applies to the present case and obviates the objection\" that the decree required registration because it covered the additional 5,300 bighas."
+        ],
+        "conclusion": "The Supreme Court decided that the compromise decree was exempt from registration, even though it included property that was not the subject-matter of the original suit. The Court reasoned that the decree was passed in 1923, and under the law in force at that time (before a 1930 amendment), the exemption for court decrees extended to such compromise agreements."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a compromise decree should be held to be exempt from registration simply because it involves an alteration of the royalty amount, on the grounds that this does not create a new lease.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A dispute over a coal lease was settled through a compromise decree involving three parties: the original landlord (Kumar), the first lessees (the Singhs), and the second lessees (the Deoshis).",
+          "The decree altered the royalty rates for both the Singhs and the Deoshis.",
+          "Crucially, the decree also established a new legal relationship where the Singhs became the landlords (under-lessor) to the Deoshis (under-lessee) for the disputed 500 bighas of land."
+        ],
+        "law": [
+          "Under Section 17(1)(d) of the Indian Registration Act, leases of immovable property for a term exceeding one year must be registered.",
+          "Section 17(2)(vi) exempts court decrees from registration, but this exemption does not apply to decrees that themselves constitute a \"lease\" under Section 17(1)(d)."
+        ],
+        "application": [
+          "The lower court had argued that the decree was exempt from registration because it was a \"mere alteration of the rent reserved\" and therefore did not create a new lease.",
+          "The Supreme Court rejected this view, stating that it \"oversimplifies the compromise transaction.\"",
+          "The Court analyzed the terms of the decree and found that it did much more than just alter the royalty. Its primary legal effect was to create a new \"perpetual under-lease\" between the Singhs and the Deoshis.",
+          "The creation of such an under-lease is a transaction that falls under the definition of a \"lease\" in Section 17(1)(d) of the Act, which would normally require registration."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the compromise decree was exempt from registration simply because it altered the royalty amount. The Court held that the decree's terms went far beyond a simple royalty change and created a new perpetual under-lease, a transaction that would typically be considered a 'lease' requiring registration under the Act."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a compromise decree that creates a contingent right to an underlease, dependent on a future payment, constitutes a 'lease' under Section 17(1)(d) of the Registration Act requiring registration.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A litigation between two parties, A and B, who both claimed to be tenants under a third party, C, was resolved through a compromise decree.",
+          "The decree stipulated the creation of a perpetual underlease between A and B.",
+          "However, this underlease was not absolute. It was made conditional and would only take effect if party A paid a sum of Rs. 8,000 to party C within a specified time.",
+          "The decree expressly stated that if the payment was not made, A could not execute the decree or take possession of the property."
+        ],
+        "law": [
+          "Section 17(1)(d) of the Indian Registration Act makes the registration of leases of immovable property for a term exceeding one year compulsory.",
+          "The definition of a 'lease' under the Act includes an 'agreement for a lease'.",
+          "Citing the precedent in *Hemanta Kumar's case*, the Court established that for an 'agreement for a lease' to fall under the Registration Act, it must be a document that 'effects an actual demise and operates as a lease' and 'creates a present and immediate interest in the land'."
+        ],
+        "application": [
+          "The Court analyzed the terms of the compromise decree to determine the nature of the right it created.",
+          "It found that the creation of the underlease was entirely dependent on a future, uncertain event: the payment of Rs. 8,000 by A to C.",
+          "The Court reasoned that until this payment was made, it was impossible to know if an underlease would ever come into existence.",
+          "Because the right was contingent and not absolute, the decree did not create a 'present and immediate interest in the land' as required by the legal standard.",
+          "It was merely a contingent agreement that might or might not result in a lease in the future."
+        ],
+        "conclusion": "The Supreme Court concluded that a compromise decree creating a right to an underlease that is contingent upon a future payment does not create a 'present and immediate interest in the land.' Therefore, it does not constitute a 'lease' within the meaning of Section 17(1)(d) of the Registration Act and is not compulsorily registrable under that clause."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a compromise decree that includes property not originally the subject-matter of the suit is still exempt from registration under Section 17(2)(vi) of the Registration Act.",
+      "appellant_arguments": [
+        "The compromise decree was outside the scope of the exception for registration because it covered property (the remaining 5,300 bighas) that was not the subject-matter of the original title suit."
+      ],
+      "respondent_arguments": [
+        "Based on the precedent in Hemanta Kumari Debi v. Midnapur Zamindari Co., a compromise decree is exempt from registration even if it deals with property that was not the subject-matter of the suit."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a compromise decree should be held to be exempt from registration simply because it involves an alteration of the royalty amount, on the grounds that this does not create a new lease.",
+      "appellant_arguments": [
+        "The agreement to pay an altered amount of royalty and commission meant the compromise decree created a new lease, which falls under Section 17(1)(d) of the Registration Act and requires registration."
+      ],
+      "respondent_arguments": [
+        "The alteration of the royalty amount did not create a new lease but merely modified the terms of the existing one, as the defendants' possession was not interfered with. Therefore, the decree did not require registration."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether a compromise decree that creates a contingent right to an underlease, dependent on a future payment, constitutes a 'lease' under Section 17(1)(d) of the Registration Act requiring registration.",
+      "appellant_arguments": [
+        "The compromise decree created an 'agreement to lease', which is included in the definition of 'lease' under the Registration Act, and therefore required registration under Section 17(1)(d)."
+      ],
+      "respondent_arguments": [
+        "The decree did not create a 'lease' requiring registration because it only established a contingent right to an underlease, which was dependent on a future payment of Rs. 8,000. It did not create a 'present and immediate interest in the land' as required by law."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Registration Act",
+        "section": "Section 17(1)(b)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Registration Act",
+        "section": "Section 17(1)(d)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Registration Act",
+        "section": "Section 17(2)(vi)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Registration Act",
+        "section": "Section 2(7)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hemanta Kumari Debi v. Midnapur Zamindari Co.",
+        "citation": "I L.R. 47 Cal. 485 P.O.",
+        "principle": "Under the pre-1930 version of the Registration Act, a compromise decree is exempt from registration even if it comprises immovable property which was not the subject matter of the suit.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Hemanta Kumari Debi v. Midnapur Zamindari Co.",
+        "citation": "I L.R. 47 Cal. 485 P.O.",
+        "principle": "An 'agreement for a lease' under the Registration Act must be a document which effects an actual demise and creates a present and immediate interest in the land.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An agreement for a lease must be a document that creates a present and immediate interest in the land to require registration. A contingent agreement, where the creation of an interest in the property is dependent on a future condition being met, does not create a present and immediate interest and is therefore not an 'agreement to lease' that requires registration under section 17(1)(d) of the Registration Act.",
+    "obiter": [
+      "Prior to its amendment, the exception for compromise decrees under the Registration Act covered even those decrees that included immovable property which was not the subject matter of the original suit."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the compromise decree required registration and was therefore inadmissible. While a compromise decree is normally exempt from registration under Section 17(2)(vi) even if it includes property extraneous to the suit, this exemption does not apply if the decree itself constitutes a 'lease' under Section 17(1)(d) of the Registration Act. The court found that the agreement to pay an altered amount of royalty and commission was not a mere modification of the old lease but effectively created a new lease, thereby falling under the mandatory registration requirement of Section 17(1)(d), which is not covered by the exemption.",
+    "legal_tests_applied": [
+      "A compromise decree is exempt from registration under Section 17(2)(vi) of the Registration Act even if it deals with property that was not the subject-matter of the suit, based on the precedent in Hemanta Kumari Debi v. Midnapur Zamindari Co.",
+      "To determine if a compromise decree requires registration as a 'lease' under Section 17(1)(d), the court must analyze the 'legal effect of the changes in the status quo ante.' A significant alteration, such as changing the royalty and commission amounts, can create a new lease rather than merely modifying an existing one.",
+      "For a document to be considered a 'lease' or 'agreement to lease' requiring registration, it must create a 'present and immediate interest in the land,' not merely a contingent right dependent on a future event like a payment."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the decree required registration simply because it covered property (5,300 bighas) not included in the original suit was rejected. The court applied the precedent from Hemanta Kumari Debi, which holds that such decrees are still exempt from registration.",
+      "The appellant's argument that the decree's creation of a contingent right to an underlease constituted an 'agreement to lease' requiring registration was rejected. The court found this right was dependent on a future payment and did not create a 'present and immediate interest in the land.'"
+    ],
+    "why_respondent_won": [
+      "The respondent successfully argued that the inclusion of property not part of the original suit did not make the compromise decree registrable, based on the established precedent in Hemanta Kumari Debi v. Midnapur Zamindari Co.",
+      "The respondent successfully argued that the clause granting a right to an underlease was not a 'lease' requiring registration because the right was merely contingent upon a future payment of Rs. 8,000 and did not create a present and immediate interest in the property."
+    ],
+    "policy_considerations": [
+      "In what appears to be a separate criminal matter discussed in the text, the court decided against a retrial, deeming it 'unfair and contrary to settled practice, seeing that the appellant has been in a state of suspense over his sentence of death for more than a year.'"
+    ]
+  },
+  "evidence_map": {}
+}

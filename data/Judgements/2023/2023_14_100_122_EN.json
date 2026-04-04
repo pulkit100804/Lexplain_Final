@@ -1,0 +1,148 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Punjab & Haryana at Chandigarh",
+    "impugned_order": "Judgment and Order dated 08.07.2013 in CRLA No.365 of 2012",
+    "high_court_proceedings": "The High Court issued a Judgment and Order dated 08.07.2013 in Criminal Appeal No. 365 of 2012.",
+    "supreme_court_posture": "The Supreme Court was approached via Criminal Appeal No.1136 of 2014 and Criminal Appeal No. 1933 of 2014 to challenge the High Court's Judgment and Order."
+  },
+  "decision": {
+    "appeal_result": "Criminal Appeal No. 1933 of 2014 is dismissed. Criminal Appeal No.1136 of 2014 is allowed.",
+    "conviction_status": "The order of conviction against Satnam Singh5 is affirmed. The appellant, Balwinder Singh3 is acquitted.",
+    "sentence_status": "The sentence imposed on Satnam Singh5 is affirmed.",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "admissibility in evidence of the confessional statement recorded by the Narcotics Control Bureau officers u/s. 67 of Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved confessional statements made by accused individuals to officers of the Narcotics Control Bureau (NCB).",
+          "These statements were recorded under Section 67 of the Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985.",
+          "Lower courts, relying on previous Supreme Court decisions (like Kanhaiyalal and Raj Kumar Karwal), had held that such confessions were admissible because NCB officers were not considered \"police officers.\""
+        ],
+        "law": [
+          "Section 25 of the Indian Evidence Act, 1872, states that a confession made to a \"police officer\" cannot be used as evidence against an accused person.",
+          "Section 53 of the NDPS Act invests certain officers, including those from the NCB, with the powers of an officer-in-charge of a police station for the purpose of investigation.",
+          "The Court also considered the constitutional guarantees under Articles 14, 20(3), and 21 of the Constitution of India, which protect against self-incrimination and ensure a fair trial."
+        ],
+        "application": [
+          "The Supreme Court reasoned that officers who are invested with powers under Section 53 of the NDPS Act function as police officers for the purpose of investigation.",
+          "Consequently, these officers must be considered \"police officers\" within the meaning of Section 25 of the Evidence Act.",
+          "Because NCB officers are deemed \"police officers\" in this context, any confessional statement made to them is barred from being used as evidence by Section 25 of the Evidence Act.",
+          "The Court held that allowing such a statement to be the basis for a conviction, without the safeguards provided by law, would be a direct infringement of the accused's fundamental constitutional rights.",
+          "This decision overturned the previous legal position that allowed such confessions to be admissible."
+        ],
+        "conclusion": "The Supreme Court decided that a confessional statement recorded by an NCB officer under Section 67 of the NDPS Act is inadmissible in evidence. The Court held that such officers are to be treated as \"police officers\" for the purposes of Section 25 of the Evidence Act, which explicitly bars the use of confessions made to the police."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "proving of possession of contraband by the prosecution beyond reasonable doubt",
+        "court_answer": "partly"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, Satnam Singh, was found driving a car that he owned.",
+          "Narcotics Control Bureau (NCB) officers searched the car in the presence of two independent witnesses and recovered contraband.",
+          "Although one independent witness turned hostile, the other provided consistent testimony against the accused."
+        ],
+        "law": [
+          "The Supreme Court affirmed the legal principle that the initial burden is on the prosecution to prove the foundational fact of possession of contraband.",
+          "This standard of proof for the prosecution is \"beyond a reasonable doubt.\"",
+          "Only after the prosecution successfully proves possession beyond a reasonable doubt does the burden shift to the accused under Section 54 of the NDPS Act.",
+          "The standard of proof for the accused to prove their innocence is lower, based on a \"preponderance of probability.\""
+        ],
+        "application": [
+          "The Court applied this law to the appellant's argument that the prosecution had failed to establish the foundational facts of possession.",
+          "It found the appellant's argument to be without merit, stating that the prosecution was successful in establishing the necessary facts.",
+          "The evidence considered sufficient included the fact that the appellant was driving his own car from which the contraband was recovered, and the consistent testimony of an independent witness to the search and seizure."
+        ],
+        "conclusion": "The Supreme Court held that the prosecution had successfully discharged its initial burden of proving the possession of contraband by the accused beyond a reasonable doubt. Because the prosecution met this high standard with the evidence presented, the burden of proof correctly shifted to the accused to prove his innocence. Therefore, the appellant's plea that the prosecution failed to establish the foundational facts was rejected."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "admissibility in evidence of the confessional statement recorded by the Narcotics Control Bureau officers u/s. 67 of Narcotic Drugs and Psychotropic Substances Act, 1985",
+      "appellant_arguments": [
+        "The provided text does not contain the specific arguments made by the appellant on this issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent on this issue."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "proving of possession of contraband by the prosecution beyond reasonable doubt",
+      "appellant_arguments": [
+        "The accused claimed bias on the part of the prosecution witnesses."
+      ],
+      "respondent_arguments": [
+        "The prosecution argued that the accused failed to make a sufficient case for acquittal based on the claim of witness bias."
+      ],
+      "court_acceptance": "partly"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "section": "21(c)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Tofan Singh v. State of Tamil Nadu",
+        "citation": "(2021) 4 SCC 1",
+        "principle": "For its detailed examination and conclusion on the legal position under the NDPS Act, particularly in comparison to revenue statutes (like the Customs Act, 1962 and the Central Excise Act, 1944), the Cr.P.C, and Section 25 of the Evidence Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The standard of proof required for the prosecution to prove the guilt of an accused is beyond all reasonable doubt, and for serious offenses with stringent punishments, a heightened scrutiny test is necessary. The prosecution must first establish the foundational facts to this standard; if it fails, the charge against the accused is not established. Conversely, any burden of proof placed on the accused is to be met by the standard of a preponderance of probability.",
+    "obiter": [
+      "The judgments in Kanhaiyalal v. Union of India and Raj Kumar Karwal v. Union of India, along with other judgments that rely on them, do not state the law correctly and are overruled.",
+      "The judgments of Noor Aga v. State of Punjab and Nirmal Singh Pehlwan v. Inspector, Customs are correct in law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court, relying on the precedent set in Tofan Singh v. State of Tamil Nadu, held that confessional statements recorded by NCB officers under Section 67 of the NDPS Act are inadmissible as evidence. Furthermore, the court differentiated the outcomes for the two appellants based on the evidence of possession. The conviction of one appellant was upheld because he failed to sufficiently make a case for acquittal based on a claim of witness bias. The co-accused, however, was acquitted, indicating the prosecution failed to prove the foundational facts of possession against him beyond a reasonable doubt.",
+    "legal_tests_applied": [
+      "The standard of proof required for the prosecution to prove the guilt of the accused is 'beyond all reasonable doubt'.",
+      "The standard of proof required for the accused to prove his innocence, after the prosecution has discharged its initial burden, is 'preponderance of probability'.",
+      "The prosecution must first prove the foundational facts to establish the actus reus (possession of contraband) before the burden of proof shifts to the accused under Section 35 of the NDPS Act.",
+      "The precedent from Tofan Singh v. State of Tamil Nadu, which holds that statements recorded under Section 67 of the NDPS Act are inadmissible in evidence, was applied, and judgments in Kanhaiyalal and Raj Kumar Karwal were expressly overruled."
+    ],
+    "why_appellant_lost": [
+      "In the case of the appellant whose conviction was upheld (Satnam Singh), he failed to make out a sufficient case for acquittal based on his claim of bias on the part of prosecution witnesses."
+    ],
+    "why_respondent_won": [
+      "The prosecution (respondent) succeeded in upholding the conviction against one appellant (Satnam Singh) because the court found that the accused had not sufficiently established his defense of witness bias to warrant an acquittal."
+    ],
+    "policy_considerations": [
+      "The court reinforced the legal principle that protects an accused from self-incrimination through confessions made to officers who are deemed to be police officers, thereby ensuring the procedural safeguards under the Evidence Act and Cr.P.C. are applied even in special statutes like the NDPS Act.",
+      "The judgment emphasizes the fundamental tenet of criminal law that the initial and primary burden is on the prosecution to establish its case beyond a reasonable doubt before any presumption can be drawn against the accused, thereby upholding the presumption of innocence."
+    ]
+  },
+  "evidence_map": {
+    "issues[1].issue.issue_text": [
+      "p1_5fbaebd9"
+    ],
+    "arguments[1].issue_text": [
+      "p1_5fbaebd9"
+    ],
+    "citations.statutes[0].act_name": [
+      "p1_e334fada",
+      "p1_6552f97c",
+      "p2_f3598d40"
+    ],
+    "judicial_reasoning.legal_tests_applied[1]": [
+      "p1_c027bb50"
+    ]
+  }
+}

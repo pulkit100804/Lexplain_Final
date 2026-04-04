@@ -1,0 +1,166 @@
+{
+  "procedural_history": {
+    "originating_court": "District Magistrate, Kamrup",
+    "impugned_order": "Order of detention passed by the District Magistrate of Kamrup on August 30, 1971, under Section 3(2)(a) of the Maintenance of Internal Security Act, 1971.",
+    "high_court_proceedings": "Not applicable. The case originated directly in the Supreme Court.",
+    "supreme_court_posture": "The petitioner, Mishrilal Jain, filed a petition under Article 32 of the Constitution of India challenging the validity of his detention order, arguing that the grounds for detention were vague and did not allow him to make a proper representation. The Supreme Court agreed that the order of detention was illegal and quashed it."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "the detenu is directed to be set at liberty forthwith"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the grounds of detention were vague, thereby denying the petitioner an effective opportunity to make a representation.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was detained under the Maintenance of Internal Security Act, 1971, based on two grounds provided by the detaining authority.",
+          "The petitioner challenged the detention, arguing that the grounds were vague and therefore did not allow for an effective opportunity to make a representation against the detention.",
+          "The petitioner's initial representation, which argued the grounds were vague, was rejected."
+        ],
+        "law": [
+          "A ground for detention is considered 'vague' if it is incapable of being understood or defined with sufficient certainty.",
+          "Conversely, a ground is not vague if it can be intelligently understood and is definite enough to provide material for the detained person to make a representation.",
+          "It is a settled principle, established by a series of Supreme Court rulings, that if the grounds for detention are vague, the detention order is invalid.",
+          "Crucially, even if only one of several grounds is found to be vague, that alone is sufficient to vitiate (invalidate) the entire order of detention."
+        ],
+        "application": [
+          "The Court analyzed the second ground of detention provided to the petitioner.",
+          "It found this ground to be vague because the phrase 'exorbitant rate' is a relative concept and lacks specific details.",
+          "The ground failed to specify the price at which the petitioner was allegedly selling salt, the time or place of the sales, or the persons to whom the sales were made.",
+          "This lack of specific information made it impossible for the petitioner to intelligently understand the accusation and prepare an effective representation against it."
+        ],
+        "conclusion": "The Supreme Court concluded that since at least one of the grounds for detention was vague, the entire detention order was vitiated. Therefore, the Court accepted the petitioner's contention, found the detention to be illegal, and quashed the order."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a detention order is vitiated if at least one of the grounds supplied to the detenu is found to be vague.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A petitioner was detained under the Maintenance of Internal Security Act, 1971, based on two grounds.",
+          "The petitioner challenged the detention, arguing that the grounds were vague and did not provide enough detail to allow for a proper representation.",
+          "Specifically, one ground mentioned selling salt at an \"exorbitant rate\" but failed to specify the price, time, place, or persons involved in the sales."
+        ],
+        "law": [
+          "The Court affirmed the established legal principle that if any of the grounds supplied to a detenu are vague, the entire detention order is invalid.",
+          "A ground is considered \"vague\" if it is incapable of being intelligently understood or is not definite enough to furnish the detained person with the material necessary to make a representation against the detention.",
+          "This principle is based on a series of prior rulings, including *Pushkar Mukherjee v. The State of West Bengal* and *Motilal Jain v. State of Bihar*."
+        ],
+        "application": [
+          "The Court reasoned that a detention order is based on the \"subjective satisfaction\" of the detaining authority, which is formed by considering all the grounds collectively.",
+          "A court cannot analyze which grounds influenced the authority's decision or to what extent. It cannot separate the valid grounds from the vague ones and decide if the authority would have still issued the order based on the valid grounds alone.",
+          "To do so would be to substitute the court's \"objective judicial test\" for the \"subjective decision of the executive authority,\" which is against the policy of the statute.",
+          "Therefore, if one ground is vague, it is treated as if it were irrelevant or illusory, and its presence taints the entire decision-making process, vitiating the order as a whole."
+        ],
+        "conclusion": "The Supreme Court accepted the petitioner's argument, holding that since at least one of the grounds for detention was vague, the entire detention order was vitiated and therefore illegal. The order was quashed."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the grounds of detention were vague, thereby denying the petitioner an effective opportunity to make a representation.",
+      "appellant_arguments": [
+        "The grounds of detention communicated to the petitioner were vague.",
+        "Due to the vagueness of the grounds, the petitioner was denied an effective opportunity to make a representation against the detention order."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not mentioned in the provided text. However, by rejecting the petitioner's representation and approving the detention order, the state implicitly argued that the grounds were sufficient and not vague."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether a detention order is vitiated if at least one of the grounds supplied to the detenu is found to be vague.",
+      "appellant_arguments": [
+        "The petitioner's case relied on the legal principle that if some of the grounds are so vague that they deprive the detenu of the right to make a representation, the entire detention order becomes invalid."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not mentioned in the provided text."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 32",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Maintenance of Internal Security Act, 1971",
+        "section": "3(2)(a)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Kashav Talpade v. The King Emperor",
+        "citation": "[1943] F.C.R. 88",
+        "principle": "If one of multiple grounds for a detention order is irrelevant or illusory, it vitiates the detention order as a whole, as it would be improper for a court to substitute its objective judicial test for the subjective decision of the executive authority.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Rameshwar Lal v. State of Bihar",
+        "citation": "[1968] (2) S.C.R. 505",
+        "principle": "For approving the principle laid down in Kashav Talpade v. The King Emperor.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Pushkar Mukherjee and others v. The State of West Bengal",
+        "citation": "[1969] (2) S.C.R. 635",
+        "principle": "If some of the grounds supplied to the detenu are so vague that they would virtually deprive the detenu of his statutory right of making a representation, that would make the order of detention invalid.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Motilal Jain v. State of Bihar and others",
+        "citation": "[1968] 3 S.C.R. 587",
+        "principle": "For expressing the same view that vague grounds which deprive a detenu of the right to make a representation will invalidate a detention order.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A detention order is invalid if any of the grounds supplied are so vague that they deprive the detenu of the statutory right to make an effective representation. A ground is considered vague if it is incapable of being intelligently understood or is not sufficiently definite to furnish materials for making a representation. The invalidity of even one ground vitiates the entire detention order, as the court cannot substitute its objective test for the subjective satisfaction of the executive authority.",
+    "obiter": [
+      "It is not possible to state affirmatively more on the question of what is vague. It must vary according to the circumstances of each case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found the detention order illegal because the grounds provided to the petitioner were vague, thereby denying him an effective opportunity to make a representation. Specifically, the first ground, which alleged profiteering and hoarding, was deemed vague because it lacked any particulars of the activity. The court held that even if only one of several grounds is vague, it is sufficient to vitiate the entire detention order, as the court cannot assess the extent to which each ground influenced the subjective decision of the detaining authority.",
+    "legal_tests_applied": [
+      "If the grounds are vague, it is settled by a series of rulings of this Court that the order of detention would be bad.",
+      "If some of the grounds supplied to the detenu are so vague that they would virtually deprive the detenu of his statutory right of making the representation that would make the order of detention invalid.",
+      "To say that the other ground, which still remains, is quite sufficient to sustain the order, would be to substitute an objective judicial test for the subjective decision of the executive authority which is against the legislative policy underlying the statute. In such cases, we think, the position would be the same as if one of these two grounds was irrelevant for the purpose of the Act or was wholly illusory and this would vitiate the detention order as a whole."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "We can neither decide whether these grounds are good or bad, nor can we attempt to assess in what manner and to what extent each of these grounds operated on the mind of the appropriate authority and contributed to the creation of the satisfaction on the basis of which the detention order was made.",
+      "To say that the other ground, which still remains, is quite sufficient to sustain the order, would be to substitute an objective judicial test for the subjective decision of the executive authority which is against the legislative policy underlying the statute."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p2_dcc5203b"
+    ],
+    "citations.statutes[1].act_name": [
+      "p1_0b5835eb",
+      "p1_7cd3a276",
+      "p2_dcc5203b",
+      "p3_05464cde"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p4_d0f184d7"
+    ]
+  }
+}

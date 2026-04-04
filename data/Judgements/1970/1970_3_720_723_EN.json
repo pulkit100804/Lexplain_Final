@@ -1,0 +1,142 @@
+{
+  "procedural_history": {
+    "originating_court": "Lingsugar Police Station (implied, as the incident occurred within its limits)",
+    "impugned_order": "Judgment and order dated January 24, 1967 of the High Court of Mysore in Criminal Appeal No. 29 of 1965, which upheld the conviction and sentence under s. 395 of the Indian Penal Code.",
+    "high_court_proceedings": "The High Court of Mysore heard Criminal Appeal No. 29 of 1965, and affirmed the conviction and sentence of the appellants.",
+    "supreme_court_posture": "14 of the original 20 convicted individuals appealed to the Supreme Court by special leave, challenging their conviction under s. 395 of the Indian Penal Code. The Supreme Court reduced the sentence from 5 years to 3 years rigorous imprisonment, but upheld the fine. The appeal was allowed to that extent."
+  },
+  "decision": {
+    "appeal_result": "Partially Allowed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Modified",
+    "directions": [
+      "The sentence is reduced to three years' rigorous imprisonment.",
+      "The sentence of fine will stand."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the presumption under Section 114 of the Indian Evidence Act, 1872, can be extended to presume that individuals found with stolen property soon after a dacoity were the dacoits themselves, rather than merely receivers of stolen property.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A dacoity was committed by approximately 20 people, and a large quantity of cloth was stolen.",
+          "Soon after the crime (within 2 to 19 days), large quantities of the stolen cloth were recovered from the houses of 20 different individuals.",
+          "These individuals were convicted as dacoits under Section 395 of the Indian Penal Code, based solely on the evidence of possessing the stolen goods.",
+          "The appellants argued that the court should have only presumed they were receivers of stolen property, not the dacoits themselves, without other evidence connecting them to the crime."
+        ],
+        "law": [
+          "Under Section 114 of the Indian Evidence Act, a court may presume that a person found with stolen goods soon after a theft is either the thief or has received the goods knowing them to be stolen.",
+          "The Court clarified that there is no fixed rule that the lesser presumption (of being a receiver) must always be drawn first.",
+          "The specific presumption to be drawn depends on the circumstances of each case, such as the time gap between the crime and recovery, and the nature and quantity of the stolen property."
+        ],
+        "application": [
+          "The Court rejected the argument that the lesser presumption must always be the starting point.",
+          "It reasoned that the presumption of being the actual perpetrator (the dacoit) is stronger when the recovery of stolen goods happens immediately or very soon after the crime.",
+          "The Court found it \"impossible to think\" that the 20 dacoits who committed the crime could have found and transferred the large quantity of stolen goods to another 20 people (the appellants) in such a short time.",
+          "The specific facts—the large number of perpetrators matching the number of people found with the goods, the large quantity of stolen items, and the short time gap—all pointed towards the possessors being the dacoits themselves."
+        ],
+        "conclusion": "The Supreme Court held that it was legitimate and proper in this case to presume that the individuals found with the stolen property were the dacoits themselves. The Court reasoned that the specific circumstances, particularly the short time gap and the large number of people and goods involved, made it highly improbable that they were merely receivers of stolen property. Therefore, their conviction for dacoity was upheld."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the sentence imposed on the appellants was excessive and required modification.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were originally sentenced to five years' rigorous imprisonment and a fine for the offence of dacoity.",
+          "The court noted that while the offence was serious, only one injury appears to have been caused during the incident."
+        ],
+        "law": [
+          "The court has the discretion to modify a sentence to ensure it meets the 'ends of justice'."
+        ],
+        "application": [
+          "The Supreme Court balanced the seriousness of the dacoity offence against the mitigating factor that minimal physical harm was inflicted.",
+          "The court determined that, given the limited injury caused, the original sentence of five years was excessive.",
+          "It concluded that a sentence of three years' rigorous imprisonment would be sufficient and just in the circumstances of the case."
+        ],
+        "conclusion": "The Supreme Court found the sentence excessive and reduced the term of rigorous imprisonment from five years to three years, while keeping the fine unchanged."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the presumption under Section 114 of the Indian Evidence Act, 1872, can be extended to presume that individuals found with stolen property soon after a dacoity were the dacoits themselves, rather than merely receivers of stolen property.",
+      "appellant_arguments": [
+        "The presumption drawn from the possession of stolen goods should have been under Section 411 (receiving stolen property) or Section 412 (receiving property stolen in a dacoity) of the Indian Penal Code, not for complicity in the dacoity itself (Section 395).",
+        "The law does not clearly define the circumstances for drawing the higher presumption of being a dacoit versus the lesser one of being a receiver.",
+        "In the absence of other evidence connecting the accused to the crime of dacoity, the court should always start with the lesser presumption.",
+        "In this case, there was no other evidence pointing to the appellants' complicity in the dacoity itself."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not explicitly stated in the text but are reflected in the court's judgment. The circumstances of the case—a large number of dacoits (20 or more) and large quantities of stolen goods being found with a similar number of people—made it legitimate to raise the presumption that the persons found with the goods were the dacoits themselves."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the sentence imposed on the appellants was excessive and required modification.",
+      "appellant_arguments": [
+        "The appellant's argument is not explicitly stated but is implied by the issue and the court's decision. They argued that the sentence of five years' rigorous imprisonment was excessive and should be reduced."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not stated in the text, but they would have argued in favor of upholding the original sentence."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "395",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "411",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "412",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "114",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "If there is other evidence, however small, to connect an accused with a crime, the finding of stolen property in their possession is a piece of evidence that strengthens the other evidence. A presumption is drawn only when the accused cannot be connected with the crime except by reason of possessing the fruits of the crime. The nature of this presumption, whether of committing the crime itself or of merely receiving stolen property, depends on the circumstances, with the presumption of being the perpetrator being stronger when the discovery of the goods is made immediately after the crime.",
+    "obiter": [
+      "The presumption that the accused was concerned with the crime itself gets weakened if the gap of time between the crime and the discovery is too large.",
+      "The circumstances which determine the presumption to be drawn differ from case to case and include the shortness of time, as well as the quantity and character of the property disposed of."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Based on the specific circumstances of the case—a dacoity committed by a large group (20 or more), with large quantities of stolen goods found in the possession of a similarly large group of people (20) very shortly after the crime—it is legitimate and logical to presume that the individuals found with the property were the dacoits themselves, rather than merely receivers of stolen property.",
+    "legal_tests_applied": [
+      "The court assesses the specific facts and circumstances of a case to determine which presumption under Section 114 of the Indian Evidence Act is the most logical and legitimate inference, rather than applying a rigid rule to always start with the lesser presumption. The implicit test is whether the circumstances make the alternative scenario (the accused being mere receivers) practically impossible or highly improbable."
+    ],
+    "why_appellant_lost": [
+      "The court found it 'impossible to think that these 20 persons were merely receivers of stolen property from some other 20 persons who were the dacoits,' given that the number of dacoits matched the number of people found with the goods.",
+      "The short time gap between the dacoity and the recovery of goods (as short as two days in some cases) made it improbable that the original offenders could have disposed of the property to so many different receivers.",
+      "The fact that large quantities of goods were found with each person further weakened the argument that they were simply receivers."
+    ],
+    "why_respondent_won": [
+      "The court found it was 'legitimate therefore to raise the presumption in this case that the persons with whom the goods were found were the dacoits themselves' due to the specific facts.",
+      "The confluence of facts—the large number of perpetrators, the large number of individuals found with the stolen goods, the large quantity of goods recovered, and the short time frame—collectively supported the stronger presumption of direct involvement in the dacoity."
+    ],
+    "policy_considerations": [
+      "The court's reasoning is based on a pragmatic and logical assessment of the facts, implying that the application of legal presumptions should not lead to an absurd or 'impossible' conclusion. The inference drawn must be the most reasonable one based on the totality of the circumstances presented in evidence."
+    ]
+  },
+  "evidence_map": {}
+}

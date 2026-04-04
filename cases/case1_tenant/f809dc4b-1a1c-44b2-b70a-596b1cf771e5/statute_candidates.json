@@ -1,0 +1,456 @@
+{
+  "case_id": "f809dc4b-1a1c-44b2-b70a-596b1cf771e5",
+  "tenant_id": "case1_tenant",
+  "agent": "agent_5c_statute_retriever",
+  "input_refs": [
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-03-19T12:44:03.993858+00:00",
+  "query_terms": [
+    "use of force",
+    "struck",
+    "accused against victim",
+    "accused struck",
+    "injury occurred",
+    "injured",
+    "causing death",
+    "died",
+    "evidence present",
+    "recovered",
+    "physical force used",
+    "injury detected",
+    "death occurred",
+    "evidence found",
+    "death following force",
+    "weapon present"
+  ],
+  "total_sections_indexed": 541,
+  "candidates": [
+    {
+      "section": "440",
+      "heading": "Mischief committed after preparation made for causing death or hurt.",
+      "score": 60.6138,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "440.1",
+          "text": "The accused made preparation for causing fear of death to any person.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "440.2",
+          "text": "The accused made preparation for causing fear of hurt to any person.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "440.3",
+          "text": "The accused made preparation for causing fear of wrongful restraint to any person.",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "mischief"
+      ]
+    },
+    {
+      "section": "304B",
+      "heading": "Dowry death.",
+      "score": 53.1831,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "304B.1",
+          "text": "the death of a woman is caused by any burns or bodily injury",
+          "element_type": "causal_circumstance"
+        },
+        {
+          "ingredient_id": "304B.2",
+          "text": "the death of a woman occurs otherwise than under normal circumstances",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "304B.3",
+          "text": "the death occurs within seven years of her marriage",
+          "element_type": "temporal_condition"
+        },
+        {
+          "ingredient_id": "304B.4",
+          "text": "soon before her death she was subjected to cruelty or harassment",
+          "element_type": "conduct"
+        },
+        {
+          "ingredient_id": "304B.6",
+          "text": "cruelty or harassment by any relative of her husband",
+          "element_type": "actor"
+        },
+        {
+          "ingredient_id": "304B.8",
+          "text": "dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)",
+          "element_type": "definition"
+        }
+      ],
+      "offence_category": [
+        "offence_against_women",
+        "homicide"
+      ]
+    },
+    {
+      "section": "397",
+      "heading": "Robbery, or dacoity, with attempt to cause death or grievous hurt.",
+      "score": 51.1763,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "397.1",
+          "text": "at the time of committing robbery or dacoity, the offender uses any deadly weapon",
+          "element_type": "aggravating_circumstance"
+        },
+        {
+          "ingredient_id": "397.2",
+          "text": "at the time of committing robbery or dacoity, the offender causes grievous hurt to any person",
+          "element_type": "aggravating_circumstance"
+        },
+        {
+          "ingredient_id": "397.3",
+          "text": "at the time of committing robbery or dacoity, the offender attempts to cause death or grievous hurt to any person",
+          "element_type": "aggravating_circumstance"
+        }
+      ],
+      "offence_category": [
+        "robbery",
+        "dacoity"
+      ]
+    },
+    {
+      "section": "103",
+      "heading": "When the right of private defence of property extends to causing death.",
+      "score": 49.5476,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "103.1",
+          "text": "The right of private defence of property extends under the restrictions mentioned in section 99.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "103.2",
+          "text": "The right extends to the voluntary causing of death or of any other harm to the wrong-doer.",
+          "element_type": "consequence"
+        },
+        {
+          "ingredient_id": "103.3",
+          "text": "The offence, the committing of which, or the attempting to commit which, occasions the exercise of the right.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "103.4",
+          "text": "The offence must be of any of the descriptions hereinafter enumerated.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "103.5",
+          "text": "The offence is Mischief by fire committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property.",
+          "element_type": "offence_type"
+        },
+        {
+          "ingredient_id": "103.6",
+          "text": "The offence is Theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.",
+          "element_type": "offence_type"
+        },
+        {
+          "ingredient_id": "103.7",
+          "text": "In Karnataka, the offence is Mischief by fire or any explosive substance committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property, or as a place of worship.",
+          "element_type": "offence_type"
+        },
+        {
+          "ingredient_id": "103.8",
+          "text": "In Karnataka, the offence is Mischief by fire or any explosive substance committed on any property used or intended to be used for the purpose of Government or any local authority, statutory body or company owned or controlled by Government or railway or any vehicle used or adapted to be used for the carriage of passengers for hire or reward.",
+          "element_type": "offence_type"
+        }
+      ],
+      "offence_category": [
+        "robbery",
+        "house-breaking",
+        "mischief",
+        "theft",
+        "house-trespass"
+      ]
+    },
+    {
+      "section": "404",
+      "heading": "Dishonest misappropriation of property possessed by deceased person at the time of his death.",
+      "score": 48.4585,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "404.1",
+          "text": "Whoever dishonestly misappropriates or converts to his own use property",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "404.2",
+          "text": "knowing that such property was in the possession of a deceased person at the time of that person's decease",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "404.3",
+          "text": "and has not since been in the possession of any person legally entitled to such possession",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "404.4",
+          "text": "if the offender at the time of such person's decease was employed by him as a clerk or servant",
+          "element_type": "aggravating_factor"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "dishonesty_offence"
+      ]
+    },
+    {
+      "section": "388",
+      "heading": "Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc.",
+      "score": 48.0734,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "388.2",
+          "text": "by putting any person in fear of an accusation",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "388.3",
+          "text": "against that person or any other",
+          "element_type": "target_of_accusation"
+        },
+        {
+          "ingredient_id": "388.4",
+          "text": "of having committed or attempted to commit any offence punishable with death",
+          "element_type": "content_of_accusation"
+        },
+        {
+          "ingredient_id": "388.7",
+          "text": "or of having attempted to induce any other person to commit such offence",
+          "element_type": "content_of_accusation"
+        }
+      ],
+      "offence_category": [
+        "extortion"
+      ]
+    },
+    {
+      "section": "382",
+      "heading": "Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft.",
+      "score": 47.2962,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "382.2",
+          "text": "having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "382.3",
+          "text": "such preparation is made in order to the committing of such theft",
+          "element_type": "intent"
+        },
+        {
+          "ingredient_id": "382.4",
+          "text": "such preparation is made in order to the effecting of his escape after the committing of such theft",
+          "element_type": "intent"
+        },
+        {
+          "ingredient_id": "382.5",
+          "text": "such preparation is made in order to the retaining of property taken by such theft",
+          "element_type": "intent"
+        }
+      ],
+      "offence_category": [
+        "theft",
+        "aggravated_theft"
+      ]
+    },
+    {
+      "section": "148",
+      "heading": "Rioting, armed with deadly weapon.",
+      "score": 46.7273,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "148.1",
+          "text": "The accused is armed with anything which, used as a weapon of offence, is likely to cause death.",
+          "element_type": "circumstance"
+        }
+      ],
+      "offence_category": [
+        "criminal_offence"
+      ]
+    },
+    {
+      "section": "100",
+      "heading": "When the right of private defence of the body extends to causing death.",
+      "score": 46.5116,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "100.1",
+          "text": "The right of private defence of the body extends to the voluntary causing of death or of any other harm to the assailant.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "100.3",
+          "text": "The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that death will otherwise be the consequence of such assault.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "100.4",
+          "text": "The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "100.5",
+          "text": "The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "100.6",
+          "text": "The offence which occasions the exercise of the right is an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "general_defence"
+      ]
+    },
+    {
+      "section": "387",
+      "heading": "Putting person in fear of death or of grievous hurt, in order to commit extortion.",
+      "score": 45.1877,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "387.1",
+          "text": "Whoever puts or attempts to put any person in fear of death or of grievous hurt",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "extortion",
+        "offence_against_person"
+      ]
+    },
+    {
+      "section": "101",
+      "heading": "When such right extends to causing any harm other than death.",
+      "score": 45.1499,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "101.1",
+          "text": "The offence is not of any of the descriptions enumerated in the last preceding section.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "101.2",
+          "text": "The right of private defence of the body does not extend to the voluntary causing of death to the assailant.",
+          "element_type": "limitation"
+        },
+        {
+          "ingredient_id": "101.3",
+          "text": "The right of private defence of the body extends to the voluntary causing to the assailant of any harm other than death.",
+          "element_type": "scope_of_right"
+        }
+      ],
+      "offence_category": [
+        "private_defence"
+      ]
+    },
+    {
+      "section": "386",
+      "heading": "Extortion by putting a person in fear of death on grievous hurt.",
+      "score": 45.0585,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "386.2",
+          "text": "by putting any person in fear of death",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "386.3",
+          "text": "or of grievous hurt to that person",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "extortion"
+      ]
+    },
+    {
+      "section": "301",
+      "heading": "Culpable homicide by causing death of person other than person whose death was intended.",
+      "score": 44.9549,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "301.1",
+          "text": "A person does something which he intends or knows to be likely to cause death.",
+          "element_type": "actus_reus_and_mens_rea"
+        },
+        {
+          "ingredient_id": "301.2",
+          "text": "The act commits culpable homicide by causing the death of any person.",
+          "element_type": "result"
+        },
+        {
+          "ingredient_id": "301.3",
+          "text": "The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "301.4",
+          "text": "The culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.",
+          "element_type": "legal_consequence"
+        }
+      ],
+      "offence_category": [
+        "culpable_homicide"
+      ]
+    },
+    {
+      "section": "87",
+      "heading": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent.",
+      "score": 44.8975,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "87.1",
+          "text": "The act is not intended to cause death.",
+          "element_type": "mental_state"
+        },
+        {
+          "ingredient_id": "87.3",
+          "text": "The person harmed is above eighteen years of age.",
+          "element_type": "victim_characteristic"
+        },
+        {
+          "ingredient_id": "87.5",
+          "text": "The person has consented to take the risk of that harm.",
+          "element_type": "consent"
+        }
+      ],
+      "offence_category": [
+        "general_exception"
+      ]
+    },
+    {
+      "section": "70",
+      "heading": "Fine leviable within six years, of during imprisonment. Death not to discharge property from liability.",
+      "score": 44.8625,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "70.1",
+          "text": "A fine, or any unpaid part thereof, may be levied within six years after the passing of the sentence.",
+          "element_type": "rule"
+        },
+        {
+          "ingredient_id": "70.3",
+          "text": "The death of an offender does not discharge from liability any property that would, after their death, be legally liable for their debts.",
+          "element_type": "rule"
+        }
+      ],
+      "offence_category": [
+        "procedure",
+        "enforcement"
+      ]
+    }
+  ]
+}

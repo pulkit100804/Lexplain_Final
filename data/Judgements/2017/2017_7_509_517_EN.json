@@ -1,0 +1,117 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Special Judge for CBI cases, Chennai",
+    "impugned_order": "Order dated 16th October, 2015 of the High Court of Judicature at Madras in Criminal Revision Case No.2 of 2009 and M.P. No. 1 of 2009.",
+    "high_court_proceedings": "The respondent moved a petition pleading bar under Section 195(1)(a)(i) CrPC during pendency of proceedings on the charge sheet. The trial court dismissed the petition. On a revision before the High Court, the High Court reversed the order of the trial court and quashed the proceedings against the respondent in C.C. No.15 of 2007.",
+    "supreme_court_posture": "The Appellant (presumably the CBI, given the mention of Ms. Pinky Anand, ASG) appealed the High Court's order to the Supreme Court. The Supreme Court allowed the appeals and reversed the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Set aside the impugned order.",
+      "The proceedings are concluded as far as possible within six months."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the bar under Section 195(1)(a)(i) of the CrPC prevents a court from taking cognizance of an offence under Section 182 of the IPC based on a direction from the High Court, instead of a complaint in writing from the concerned public servant or their administrative superior.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court, while hearing a challenge to an insurance claim award, suspected the claim was false and ordered the CBI to investigate.",
+          "Following the investigation, the CBI filed a charge sheet for an offence under Section 182 of the IPC (giving false information to a public servant).",
+          "The accused argued that the trial court was barred from taking cognizance of the offence under Section 195(1)(a)(i) of the CrPC.",
+          "The basis for this argument was that the law requires a \"complaint in writing of the public servant concerned or of some other public servant to whom he is administratively subordinate,\" and a CBI charge sheet initiated by the High Court did not meet this requirement."
+        ],
+        "law": [
+          "Section 195(1)(a)(i) of the CrPC creates a mandatory bar against a court taking cognizance of an offence under Section 182 of the IPC, except on a written complaint from the relevant public servant or their administrative superior.",
+          "The Supreme Court identified the purpose of this bar: it is not to prevent a remedy against a crime, but to protect innocent persons from false or frivolous proceedings initiated by private individuals."
+        ],
+        "application": [
+          "The Court interpreted the phrase \"public servant to whom he is administratively subordinate\" broadly, holding that it cannot exclude the High Court in this context.",
+          "It reasoned that a direction from the High Court to investigate is \"at par with\" a direction from an administrative superior to file a written complaint.",
+          "The Court emphasized that the purpose of the law—protecting against frivolous private complaints—is satisfied when a high judicial authority like the High Court has already determined that an investigation is necessary in the public interest.",
+          "Applying the bar in this situation would render the High Court's direction \"futile\" and \"frustrate the object of the law.\""
+        ],
+        "conclusion": "The Supreme Court rejected the argument and held that the bar under Section 195(1)(a)(i) of the CrPC does not apply when cognizance is taken pursuant to an investigation directed by the High Court. Therefore, the trial court was permitted to proceed with the case."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the bar under Section 195(1)(a)(i) of the CrPC prevents a court from taking cognizance of an offence under Section 182 of the IPC based on a direction from the High Court, instead of a complaint in writing from the concerned public servant or their administrative superior.",
+      "appellant_arguments": [
+        "The appellant's argument, as inferred from the context and the court's final decision, is that the cognizance taken in respect of the offence under Section 182 IPC was valid. They contended that the procedural bar under Section 195(1)(a)(i) of the CrPC does not apply when the prosecution is initiated based on a direction from the High Court, and a charge sheet is filed by an agency like the CBI pursuant to that direction."
+      ],
+      "respondent_arguments": [
+        "The statutory bar under Section 195(1)(a)(i) of the CrPC must be strictly followed.",
+        "Cognizance of an offence under Section 182 of the IPC can only be taken upon a 'complaint in writing of the public servant concerned or of some other public servant to whom he is administratively subordinate.'",
+        "A charge sheet filed by the CBI does not meet this specific requirement of a 'complaint in writing' from the concerned public servant.",
+        "The High Court does not fall under the category of the 'public servant concerned' or their 'administrative superior' as specified in the statute, and therefore cannot bypass this mandatory procedural requirement."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure (CrPC)",
+        "section": "195",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (IPC)",
+        "section": "463",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (IPC)",
+        "section": "471",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (IPC)",
+        "section": "475",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (IPC)",
+        "section": "476",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Ahlawat v. State of Haryana",
+        "citation": "(2000) 1 SCC 278",
+        "principle": "The case was relied on for the principle of a statutory bar against taking cognizance of an offence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The statutory bar under Section 195 of the Code of Criminal Procedure, which prevents a court from taking cognizance of an offence under Section 182 of the Indian Penal Code except on a written complaint by the concerned public servant, is not applicable when a direction has been issued by the High Court.",
+    "obiter": [
+      "On failure to perform a public duty, a public servant or their superior may be directed by the High Court through a mandamus to file a complaint."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "While the statutory bar under Section 195 of the CrPC is mandatory, it must be interpreted in the context of its purpose and does not apply when the High Court directs an investigation into an offence. A direction from the High Court is considered to be at par with a complaint in writing from an administrative superior public servant, as the High Court's involvement, acting in the public interest, satisfies the statutory intent of protecting individuals from frivolous private complaints.",
+    "legal_tests_applied": [
+      "Purposive Interpretation of Statute: The court held that a statutory provision, even if mandatory, must be understood in the context of the purpose for which the bar was created, rather than being applied mechanically."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The purpose of the bar in Section 195 is not to take away a remedy against a crime, but specifically to protect an innocent person from false or frivolous proceedings initiated by a private person.",
+      "The protection intended by the Section is sufficiently fulfilled when a high judicial body like the High Court directs an investigation, as this ensures the matter is being pursued in the public interest and not based on a frivolous private complaint.",
+      "To allow the bar under Section 195 to block a prosecution initiated at the direction of the High Court would render the High Court's direction futile and would frustrate the object of the law.",
+      "The expression 'the public servant or his administrative superior' in the statute cannot be interpreted so narrowly as to exclude the High Court when it directs an investigation in the interest of justice."
+    ]
+  },
+  "evidence_map": {}
+}

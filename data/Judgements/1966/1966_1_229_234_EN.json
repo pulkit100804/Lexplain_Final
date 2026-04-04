@@ -1,0 +1,165 @@
+{
+  "procedural_history": {
+    "originating_court": "VIII Presidency Magistrate, Madras",
+    "impugned_order": "Judgment and order dated April 29, 1963 of the Madras High Court in Criminal Appeal No. 251 of 1963, which upheld the appellant's conviction and sentence.",
+    "high_court_proceedings": "The appellant preferred Criminal Appeal No. 251 of 1963 to the Madras High Court, alleging poor eyesight, illiteracy, lack of language skills, insufficient time to consult with his lawyer, and that he did not truly plead guilty. The High Court called for a report from the VIII Presidency Magistrate regarding the appellant's allegations. The High Court's judgment was dated April 29, 1963.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court from the Madras High Court judgment dated April 29, 1963, based on a certificate granted under Article 134(1)(c) of the Constitution. The Supreme Court allowed the appeal, set aside the conviction and sentence, and ordered the case to be sent back to the VIII Presidency Magistrate, Madras."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside",
+    "sentence_status": "set aside",
+    "directions": [
+      "the case should go back to the VIII Presidency Magistrate, Madras for being retried and brought to a conclusion in accordance with law"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the requirements of Section 243 of the Criminal Procedure Code are mandatory, and whether a violation of these provisions vitiates the trial and renders the conviction legally invalid.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was charged with an offense and allegedly pleaded guilty before a Magistrate.",
+          "The Magistrate's record noted that the appellant \"pleads guilty\" but did not record the exact words the appellant used to make this admission.",
+          "The appellant later challenged the conviction, arguing that the mandatory procedure for recording a guilty plea was not followed."
+        ],
+        "law": [
+          "Section 243 of the Criminal Procedure Code requires that if an accused admits to the offense, their admission \"shall be recorded as nearly as possible in the words used by him.\"",
+          "The Court also considered Section 362(2)(A), a general provision allowing a magistrate to record a memorandum of the substance of an accused's examination.",
+          "The Court applied the legal principle that a special provision (like Section 243 for guilty pleas) overrides a general provision (like Section 362(2)(A))."
+        ],
+        "application": [
+          "The Court determined that the requirement in Section 243 is not a mere formality but a mandatory matter of substance intended to ensure the proper administration of justice.",
+          "It reasoned that strict compliance is essential because an accused's right to appeal depends on whether they pleaded guilty. Recording the exact words prevents mistakes or misunderstandings about the plea.",
+          "The Court found that the Magistrate had clearly violated Section 243 by failing to record the appellant's admission in his own words.",
+          "It dismissed the relevance of Section 362(2)(A), stating that the specific procedure in Section 243 for guilty pleas must be followed and takes precedence over the general rule."
+        ],
+        "conclusion": "The Supreme Court concluded that the requirements of Section 243 are mandatory. Because the Magistrate failed to record the appellant's guilty plea as nearly as possible in his own words, the procedure was violated. This violation was a sufficiently serious error that it vitiated the trial and rendered the conviction legally invalid."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether Section 362(2)(A) of the Criminal Procedure Code, which allows for a memorandum of the substance of the examination, applies in a case where a plea of guilty is recorded.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "In a case where an appellant was convicted after pleading guilty, the respondent (prosecution) argued that the Magistrate was not required to record the exact words of the plea.",
+          "The respondent contended that under Section 362(2)(A) of the Criminal Procedure Code, it was sufficient for the Magistrate to simply make a memorandum of the substance of the accused's examination."
+        ],
+        "law": [
+          "The Supreme Court identified two relevant provisions: Section 362(2)(A) of the Criminal Procedure Code, which is a general provision about recording the substance of an accused's examination, and Section 243 of the same code.",
+          "Section 243 is a special provision that specifically applies when an accused pleads guilty, requiring the court to record the admission \"as nearly as possible in the words used by him.\"",
+          "The Court cited the well-established rule of legal interpretation that a special provision will take precedence over and override a general provision when both could apply to a situation."
+        ],
+        "application": [
+          "The Court determined that a guilty plea is a specific circumstance governed by the special provision of Section 243.",
+          "Because Section 243 is a provision of a \"special character\" designed for this exact scenario, it must be applied instead of the more general provision of Section 362(2)(A).",
+          "Therefore, the Court found that Section 362(2)(A) has no application in a case where an accused pleads guilty, as the specific and mandatory requirements of Section 243 are attracted instead."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that Section 362(2)(A) does not apply when a plea of guilty is recorded. The special provision of Section 243, which requires recording the accused's exact words, takes precedence and overrides the general provision of Section 362(2)(A) in such cases."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the requirements of Section 243 of the Criminal Procedure Code are mandatory, and whether a violation of these provisions vitiates the trial and renders the conviction legally invalid.",
+      "appellant_arguments": [
+        "The Magistrate did not comply with the mandatory provisions of Section 243 of the Criminal Procedure Code.",
+        "The appellant's admission was not recorded 'as nearly as possible in the words used by him' as required by the section.",
+        "The appellant was deprived of the substance of a fair trial, and the conviction is legally invalid.",
+        "The appellant never understood the implications of the offence or the proceedings before the Magistrate."
+      ],
+      "respondent_arguments": [
+        "Under s. 362(2)(A) of the Criminal Procedure Code, it was sufficient if the Magistrate made a memorandum of the substance of the examination of the accused.",
+        "It was not necessary to record the actual words used by the accused."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether Section 362(2)(A) of the Criminal Procedure Code, which allows for a memorandum of the substance of the examination, applies in a case where a plea of guilty is recorded.",
+      "appellant_arguments": [
+        "The special provision of Section 243 of the Criminal Procedure Code applies to guilty pleas, not the general provision of Section 362(2)(A)."
+      ],
+      "respondent_arguments": [
+        "Under Section 362(2)(A) of the Criminal Procedure Code, it was sufficient for the Magistrate to make a memorandum of the substance of the examination of the accused.",
+        "It was not necessary to record the actual words used by the accused."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "243",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "362(2)(A)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Madras Prohibition Act",
+        "section": "4(1)(a)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 134(1)(c)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Queen-Empress v. Erugadu",
+        "citation": "I.L.R. 15 Mad. 83",
+        "principle": "The violation of the procedure in s. 243 of the Criminal Procedure Code was sufficiently serious to invalidate the conviction of the accused.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Shailabala Dasee v. Emperor",
+        "citation": "I.L.R. 62 Cal. 1127",
+        "principle": "The violation of the procedure in s. 243 of the Criminal Procedure Code was sufficiently serious to invalidate the conviction of the accused.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Mukandi Lal v. State",
+        "citation": "A.I.R. 1952 All. 212",
+        "principle": "The violation of the procedure in s. 243 of the Criminal Procedure Code was sufficiently serious to invalidate the conviction of the accused.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The requirements of Section 243 of the Criminal Procedure Code are mandatory, and a violation of these provisions vitiates the trial and renders the conviction legally invalid. As a special provision, Section 243 takes precedence over and overrides the general provision of Section 362(2)(A) in cases where an accused pleads guilty.",
+    "obiter": [
+      "The requirement to record the exact words of a guilty plea is a matter of substance intended to secure proper administration of justice, as the accused's right of appeal depends on whether a guilty plea was entered, and an exact record prevents mistake or misapprehension."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The requirements of s. 243 of the Criminal Procedure Code are mandatory in character and a violation of these provisions vitiates the trial and renders the conviction legally invalid. The requirement of the section is not a mere empty formality but is a matter of substance intended to secure proper administration of justice.",
+    "legal_tests_applied": [
+      "Section 243 of the Criminal Procedure Code is a provision of a special character and according to well-established rule of interpretation that special provision will take precedence and override the general provision of s. 362 (2)(A) of the Criminal Procedure Code."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It is important that the terms of the section are strictly complied with because the right of appeal of the accused depends upon the circumstance whether he pleaded guilty or not and it is for this reason that the legislature requires that the exact words used by the accused in his plea of guilty should, as nearly as possible, be recorded in his own language in order to prevent any mistake or misapprehension."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].principle": [
+      "p5_59643115"
+    ],
+    "citations.cases[1].principle": [
+      "p5_59643115"
+    ],
+    "citations.cases[2].principle": [
+      "p5_59643115"
+    ]
+  }
+}

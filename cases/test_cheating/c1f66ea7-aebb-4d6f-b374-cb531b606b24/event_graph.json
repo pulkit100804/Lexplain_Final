@@ -1,0 +1,120 @@
+{
+  "case_id": "c1f66ea7-aebb-4d6f-b374-cb531b606b24",
+  "tenant_id": "test_cheating",
+  "agent": "agent_4b_event_builder",
+  "input_refs": [
+    "role_tagged_graph.json",
+    "entities.json"
+  ],
+  "created_at": "2026-03-19T16:38:16.384924+00:00",
+  "events": [
+    {
+      "event_id": "evt_001",
+      "event_type": "context",
+      "actor": "victim",
+      "action": null,
+      "target": "accused",
+      "object": "a car",
+      "time": null,
+      "location": null,
+      "description": "The accused (Arjun) approached the victim (Meera) offering to sell a car.",
+      "source_node_id": "n_001"
+    },
+    {
+      "event_id": "evt_002",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": "the car",
+      "time": null,
+      "location": null,
+      "description": "He claimed that the car was in good condition and showed photos.",
+      "source_node_id": "n_002"
+    },
+    {
+      "event_id": "evt_003",
+      "event_type": "action",
+      "actor": null,
+      "action": "transferred",
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "Based on this, Meera transferred ₹5 lakhs to Arjun via bank transfer.",
+      "source_node_id": "n_003"
+    },
+    {
+      "event_id": "evt_004",
+      "event_type": "action",
+      "actor": null,
+      "action": "promised",
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "Arjun promised delivery within 7 days.",
+      "source_node_id": "n_004"
+    },
+    {
+      "event_id": "evt_005",
+      "event_type": "state",
+      "actor": null,
+      "action": "stopped responding",
+      "target": null,
+      "object": "the money",
+      "time": null,
+      "location": null,
+      "description": "After receiving the money, Arjun stopped responding.",
+      "source_node_id": "n_005"
+    },
+    {
+      "event_id": "evt_006",
+      "event_type": "state",
+      "actor": null,
+      "action": "stopped",
+      "target": null,
+      "object": "the money",
+      "time": null,
+      "location": null,
+      "description": "After receiving the money, Arjun stopped responding.",
+      "source_node_id": "n_005"
+    },
+    {
+      "event_id": "evt_007",
+      "event_type": "action",
+      "actor": null,
+      "action": "delivered",
+      "target": null,
+      "object": "the car",
+      "time": null,
+      "location": null,
+      "description": "The car was never delivered.",
+      "source_node_id": "n_006"
+    },
+    {
+      "event_id": "evt_008",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": "the car",
+      "time": null,
+      "location": null,
+      "description": "Later investigation revealed that Arjun did not own the car at the time of the transaction.",
+      "source_node_id": "n_007"
+    },
+    {
+      "event_id": "evt_009",
+      "event_type": "state",
+      "actor": null,
+      "action": "failed",
+      "target": null,
+      "object": "the car",
+      "time": null,
+      "location": null,
+      "description": "Arjun claims that he intended to deliver the car but the deal failed due to issues with the actual owner.",
+      "source_node_id": "n_008"
+    }
+  ]
+}

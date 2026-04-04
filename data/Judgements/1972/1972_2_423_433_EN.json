@@ -1,0 +1,203 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment of the High Court",
+    "high_court_proceedings": "The Trial Court convicted the accused of rioting, murder, and attempted murder. On appeal, the High Court acquitted two of the accused completely, acquitted the remaining accused of murder, and convicted the appellants for offences under sections 148 and 304 Part I read with section 149 I.P.C. The sentences on each of them are directed to run concurrently.",
+    "supreme_court_posture": "The accused appealed to the Supreme Court by special leave against the High Court's judgment."
+  },
+  "decision": {
+    "appeal_result": "The appeal is accordingly dismissed with the said modifications.",
+    "conviction_status": "Nevertheless the appellants are clearly guilty of offences under Sec. 304 Part I read with Sec. 34 and also Sec. 307 read with 34 and accordingly we so convict them and substitute these convictions for the convictions of which they were held guilty by the High Court which we have set aside.",
+    "sentence_status": "We however maintain the sentences awarded.",
+    "directions": [
+      "The sentences on each of them are directed to run concurrently."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a conviction under Section 149 of the Indian Penal Code can be sustained when the court cannot determine with certainty that at least five persons participated in the offence.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Six specific individuals were charged with forming an unlawful assembly under Section 149 of the Indian Penal Code.",
+          "The charge sheet named these six as the only members of the assembly.",
+          "On appeal, two of the six accused were acquitted, leaving only four convicted appellants."
+        ],
+        "law": [
+          "To sustain a conviction under Section 149, the court must find with \"unerring certainty\" that at least five persons participated in the unlawful assembly, sharing a common object.",
+          "It is possible to convict fewer than five people under Section 149, but only if the court is certain that five or more persons were present, and the identity of one or more of them is simply in doubt."
+        ],
+        "application": [
+          "The court applied the law to the specific facts of the case. Since the charge explicitly named only six individuals as members of the assembly, there was no possibility of other, unidentified persons being involved.",
+          "The acquittal of two of these named individuals meant that the court could no longer be certain that the unlawful assembly consisted of at least five people.",
+          "With only four individuals established as participants, the statutory minimum for an unlawful assembly was not met.",
+          "The exception for cases with unidentified participants did not apply because the charge was specific to the six named persons."
+        ],
+        "conclusion": "The Supreme Court decided that because the acquittal of two specifically named members reduced the number of established participants to four, the legal requirement of at least five persons for an unlawful assembly was not met. Therefore, the conviction of the remaining appellants under Section 149 could not be sustained."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the accused could claim the right of private defence for the injuries they inflicted.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The Court found that the accused were the aggressors who had a pre-concerted plan to demolish the complainant's thatch hut (Chhapar).",
+          "Evidence, including a dying declaration and witness testimony, showed that the accused came armed with weapons and initiated the conflict by starting to pull down the Chhapar.",
+          "When the complainant's side resisted and asked the accused to stop, the accused attacked them, leading to the injuries in question."
+        ],
+        "law": [
+          "The right of private defense is not available to the party that is the aggressor and initiates the unlawful action and violence."
+        ],
+        "application": [
+          "The Court reasoned that since the accused initiated the confrontation by unlawfully attempting to demolish the Chhapar and were the first to use violence when resisted, they were the aggressors.",
+          "The Court stated that it was the complainant's side who had the right of private defense to protect their property and themselves from the accused's \"attack and aggression.\"",
+          "Any minor injuries the accused may have sustained were a result of the complainant's side exercising their own right of private defense, which does not, in turn, grant the original aggressors a right to claim self-defense for their actions."
+        ],
+        "conclusion": "The Supreme Court rejected the accused's claim of private defense because the evidence established that they were the aggressors who initiated the unlawful act and the subsequent violence, and therefore could not claim to be acting in self-defense."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the accused shared a common intention to commit the offence, making them vicariously liable under Section 34 of the Indian Penal Code.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused arrived at the scene together, armed with weapons like a Karpa, Ballam, and Lathis.",
+          "They began to demolish the complainant's thatch (Chhapar).",
+          "When the victims obstructed them, the accused attacked, causing the death of two people and severe injuries to three others.",
+          "One of the accused, Tara, was present and acting in concert with the others, even if no specific injury could be attributed to her.",
+          "After the assault, all the accused ran away from the scene together."
+        ],
+        "law": [
+          "Under Section 34 of the Indian Penal Code, common intention must exist prior to the commission of the crime, indicating a pre-arranged plan and prior concert.",
+          "Direct proof of common intention is often difficult; therefore, it must be inferred from the totality of the circumstances.",
+          "Relevant circumstances include the manner of arrival and attack, the determination and concert with which injuries were caused, acts of assistance by others, and concerted conduct after the offence, such as fleeing the scene together.",
+          "A pre-arranged plan can develop on the spot, but it must precede the act constituting the offence."
+        ],
+        "application": [
+          "The Court applied the legal principles to the facts, stating that the \"totality of the circumstances\" indicated a pre-concerted plan.",
+          "The Court inferred that the accused's arrival together while armed, followed by their demolition of the thatch, showed a common intention to achieve their objective and to use force if resisted.",
+          "The subsequent attack on the victims was seen as an act done in furtherance of that common intention.",
+          "The fact that all the accused fled the scene together was considered further evidence of their concerted conduct and shared intent."
+        ],
+        "conclusion": "The Supreme Court accepted that the accused shared a common intention. It held that the totality of the circumstances, including their armed arrival, joint attack upon resistance, and collective escape, established a pre-concerted plan to remove the thatch and attack anyone who resisted, thus making them vicariously liable under Section 34 of the IPC."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a conviction under Section 149 of the Indian Penal Code can be sustained when the court cannot determine with certainty that at least five persons participated in the offence.",
+      "appellant_arguments": [
+        "The conviction under Section 149 IPC is not sustainable because, following the acquittal of two of the accused, the required number of five or more persons for an unlawful assembly cannot be established."
+      ],
+      "respondent_arguments": [
+        "The High Court's conviction under Section 304 Part I read with Section 149 IPC was justified based on the evidence."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the accused could claim the right of private defence for the injuries they inflicted.",
+      "appellant_arguments": [
+        "The injuries were inflicted in the exercise of the right of private defence, as the quarrel was sudden and occurred in the heat of passion."
+      ],
+      "respondent_arguments": [
+        "The accused were the aggressors who came armed with weapons with the intent to demolish the complainant's property and use force if resisted, and therefore, they cannot claim the right of private defence."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the accused shared a common intention to commit the offence, making them vicariously liable under Section 34 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "To be convicted under Section 34, it must be shown that the accused had a prior concert to commit the offence, which cannot be concluded from the facts of the case."
+      ],
+      "respondent_arguments": [
+        "Common intention can be inferred from the totality of the circumstances, including the manner in which the accused arrived armed, mounted the attack in concert, and their subsequent conduct, which showed a shared objective to demolish the structure and use force if resisted."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "300 (Fourth Exception)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "148",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Unnamed case",
+        "citation": "[1954] (Vol. V) S.C.R. 145",
+        "principle": "It is not necessary that in every case 5 persons must always be convicted before Sec. 149 can be applied. A conviction of fewer than 5 persons is valid if the court concludes with certainty that 5 or more persons were unquestionably present, even if the identity of one or more is in doubt.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Mohan Singh v. State of Punjab",
+        "citation": "[1962] Suppl. (3) S.C:R. 848",
+        "principle": "Common intention under Sec. 34 is different from the common object of an unlawful assembly (Sec. 149). Common intention denotes action in concert and necessarily postulates a pre-arranged plan, a prior meeting of minds, and an element of participation in action.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Krishna Govind Patil v. State of Maharashtra",
+        "citation": "Not provided in text",
+        "principle": "For the purpose of establishing conjoint action under Sec. 34, it makes no difference whether the acquittal of some of the accused was by giving them the benefit of doubt or on other grounds. If they are acquitted, they cannot be said to have acted conjointly with the accused who is convicted.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "To establish constructive liability under Section 34, the existence of a common intention, which denotes a pre-arranged plan and a prior meeting of minds, must be inferred from the totality of the circumstances. This common intention can develop on the spot but must precede the criminal act. In contrast, to apply Section 149, a court must find with unerring certainty that at least five persons shared a common object, even if the identities of some are in doubt.",
+    "obiter": [
+      "Like Section 149, Section 34 also deals with constructive liability, and the two sections may in some cases overlap."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the conviction under Section 149 IPC for unlawful assembly cannot be sustained due to the acquittal of some accused, which casts doubt on the mandatory minimum of five participants, the appellants are nevertheless guilty under Section 34 IPC. The evidence and totality of the circumstances—including arriving armed, initiating the demolition of the complainant's property, and attacking those who resisted—clearly indicate a pre-concerted plan and a shared common intention to achieve their object by force. As the aggressors, the appellants cannot claim the right of private defence for the injuries they inflicted.",
+    "legal_tests_applied": [
+      "Before s. 149, which prescribes constructive criminal liability for members of an unlawful assembly, can be called in aid, the court must find with certainty that there were at least five persons sharing a common object.",
+      "Common intention under Section 34 denotes action in concert and necessarily postulates a prearranged plan, a prior meeting of minds and an element of participation in action. The acts may be different and vary in character but must be actuated by the same common intention.",
+      "The right of private defence is not available to an aggressor who initiates an attack.",
+      "A conviction under Section 149 cannot rest on an uncertain foundation where a finding suggests that the required number of participants 'may or may not have been there'."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the claim of private defence because the evidence established that the accused were the aggressors who had come together armed with weapons to demolish the complainant's property and use force if resisted.",
+      "The court found that the totality of the circumstances indicated a pre-concerted plan and a common intention to remove the thatch and attack any person who resisted, thus establishing vicarious liability under Section 34 IPC. The court inferred this from the evidence that they came armed, started demolishing the structure, attacked those who obstructed, and fled together.",
+      "The High Court's finding that there was no evidence as to how the quarrel started was deemed unjustified, as the dying declaration and eyewitness testimony showed the accused initiated the violence after being asked to stop demolishing the structure."
+    ],
+    "why_respondent_won": [
+      "The court accepted that the accused were the aggressors, which meant the complainant's side was acting in private defence, thereby exculpating any injuries they may have caused and negating the appellants' claim to the same right.",
+      "The court agreed that common intention could be inferred from the circumstances, stating, 'the totality of the circumstances indicate without doubt the inference that there was a pre-concerted plan and a common intention to remove the thatch and to attack any Person if he resisted.'"
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[2].case_name": [
+      "p5_d0bb97d9"
+    ]
+  }
+}

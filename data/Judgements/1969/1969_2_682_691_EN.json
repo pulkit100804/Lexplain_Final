@@ -1,0 +1,109 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge (Trial Court)",
+    "impugned_order": "Judgment of the Patna High Court dated August 10, 1966 in Criminal Appeal No. 134 of 1964, which dismissed the appellant's appeal and affirmed the judgment of the Special Judge.",
+    "high_court_proceedings": "The appellant appealed his conviction by the Special Judge to the Patna High Court. The High Court dismissed the appeal and affirmed the Special Judge's judgment.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave, challenging the High Court's judgment. The appellant did not challenge the High Court's findings of fact, but argued that based on those findings, he could not be convicted because he was not a 'public servant' within the meaning of the Prevention of Corruption Act or the Indian Penal Code. He also argued that he was performing routine clerical duties and could not be treated as an 'officer'."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Affirmed",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the appellant can be deemed to be a public servant within the meaning of s. 81 of the Electricity (Supply) Act, 1948.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was an employee of the State Electricity Board, which is a body corporate constituted under the Electricity (Supply) Act, 1948.",
+          "The appellant was accused of taking a bribe."
+        ],
+        "law": [
+          "Section 81 of the Electricity (Supply) Act, 1948, states that officers and servants of the Board are deemed to be public servants only 'when acting or purporting to act in pursuance of any of the provisions of this Act'."
+        ],
+        "application": [
+          "The Court performed a 'plain reading' of Section 81 and determined that its application is conditional and limited.",
+          "It reasoned that an employee of the Board is only considered a public servant specifically when their actions are in furtherance of the duties and provisions outlined in the Electricity (Supply) Act.",
+          "The Court found that the act of receiving a bribe cannot be considered an act 'in pursuance of any of the provisions of the' Act.",
+          "The Court supported this reasoning by citing a similar case, *State of Maharashtra v. Jagatsing.Charansingh*, which reached the same conclusion regarding an employee of a transport corporation taking a bribe."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellant could not be deemed a public servant under Section 81 of the Electricity (Supply) Act, 1948, because the act of taking a bribe is not an act done 'in pursuance of' the provisions of that Act, which is a necessary condition for the section to apply."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the appellant can be deemed to be a public servant within the meaning of s. 81 of the Electricity (Supply) Act, 1948.",
+      "appellant_arguments": [
+        "The appellant argued that he could not be deemed a public servant under s. 81 of the Electricity (Supply) Act, 1948, because he was not acting or purporting to act in pursuance of any of the provisions of that Act."
+      ],
+      "respondent_arguments": [
+        "The respondent's argument is not explicitly stated in the provided text. However, by inference, the respondent (the prosecution) would have argued that the appellant, as an employee of the State Electricity Board, was covered by s. 81 of the Act and should be considered a public servant."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Electricity (Supply) Act, 1948",
+        "section": "81",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "161",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "21",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Companies Act, 1956",
+        "section": "617",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Law (Amendment) Act, 1958",
+        "section": "Not specified",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Reg. v. Ramajirao Jivbaji",
+        "citation": "12 Born. H.C.R. 1",
+        "principle": "For the legal principle that a person is a public servant if they were either armed with some authority or representative character, or their duties were immediately auxiliary to those of someone who was so armed.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Nazamuddin v. Queen-Empress",
+        "citation": "I.L.R. 28 Cal. 344",
+        "principle": "For rejecting the contention that an individual did not fall within the terms of the last portion of clause (9) of section 21 of the Indian Penal Code.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A person cannot be deemed a public servant under Section 81 of the Electricity (Supply) Act, 1948, if they were not acting or purporting to act in pursuance of any of the provisions of that Act.",
+    "obiter": [
+      "In a separate case concerning whether a lessee from the government was a public servant based on their lease conditions, the meaning of the term 'officer' was generally considered."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appellant cannot be deemed to be a public servant within the meaning of s. 81 of the Electricity (Supply) Act, 1948 because the court found that he was not acting or purporting to act in pursuance of any of the provisions of that Act.",
+    "legal_tests_applied": [
+      "Whether a person can be deemed a public servant under s. 81 of the Electricity (Supply) Act, 1948, depends on whether they were 'acting or purporting to act in pursuance of any of the provisions of that Act'."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

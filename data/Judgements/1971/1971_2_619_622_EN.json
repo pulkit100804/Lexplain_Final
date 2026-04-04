@@ -1,0 +1,91 @@
+{
+  "procedural_history": {
+    "originating_court": "Assistant Sessions Judge",
+    "impugned_order": "Judgment and order dated August 3, 1967 of the Patna High Court in Criminal Appeal No. 389 of 1965 and the judgment and order dated July 14, 1969 of the High Court.",
+    "high_court_proceedings": "The High Court, on appeal, upheld the findings of fact of the Assistant Sessions Judge and repelled the argument regarding the rule of issue-estoppel. The High Court partly allowed the appeal in the matter of sentence.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by way of a Special Leave Petition (Criminal) No. 1048 of 1969, which was dismissed. The Supreme Court is hearing a Criminal Appeal No. 212 of 1967 by special leave, raising the question of the applicability of the rule of issue-estoppel."
+  },
+  "decision": {
+    "appeal_result": "Partly Allowed",
+    "conviction_status": "Maintained",
+    "sentence_status": "Modified",
+    "directions": [
+      "The appeal is partly allowed in the matter of sentence.",
+      "The sentence is reduced to rigorous imprisonment for three years, and a fine of Rs. 25,000/-.",
+      "Special Leave Petition (Criminal) No. 1048 of 1969 is dismissed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the principle of issue-estoppel applies, where an acquittal in a previous case (based on the finding that the accused was not in charge of cash during a specific period) bars the prosecution from proving in a subsequent case that the accused was in charge of cash during a different, earlier period.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was prosecuted for criminal breach of trust for a period from January 31, 1960, to November 30, 1960.",
+          "In a previous, separate case, he had been prosecuted for the same offense but for a different, later period: December 8, 1960, to August 17, 1961.",
+          "He was acquitted in the previous case because the court found that he was not in charge of the cash during that later period.",
+          "The appellant was never formally appointed as a cashier; he was a temporary senior accounts clerk who was alleged to have been doing the work of a cashier."
+        ],
+        "law": [
+          "The Supreme Court identified the basic principle of issue-estoppel: it applies only when the 'same issue of fact and law' has been determined in a previous proceeding.",
+          "For issue-estoppel to bar a subsequent prosecution, the finding in the later case must 'necessarily be in contradiction' of the determination in the previous case."
+        ],
+        "application": [
+          "The Court reasoned that the two cases involved two different and distinct time periods.",
+          "The issue in the first case was whether the appellant was in charge of cash from December 1960 to August 1961. The issue in the second case was whether he was in charge of cash from January 1960 to November 1960.",
+          "The Court stated that a person's role and responsibilities can change over time. A person might act as a cashier during one period but not during another, especially since the appellant was not formally appointed to the position.",
+          "Therefore, a finding that he was in charge of cash during the earlier period (the subject of the current case) would not necessarily contradict the previous finding that he was not in charge of cash during the later period.",
+          "Because the issues of fact were not identical and a finding in the second case would not necessarily contradict the first, the core requirement for issue-estoppel was not met."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument, holding that the principle of issue-estoppel did not apply. The acquittal in the first case, which was based on his role during a specific later period, did not prevent the prosecution from proving he was in charge of cash during a different, earlier period."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the principle of issue-estoppel applies, where an acquittal in a previous case (based on the finding that the accused was not in charge of cash during a specific period) bars the prosecution from proving in a subsequent case that the accused was in charge of cash during a different, earlier period.",
+      "appellant_arguments": [
+        "The appellant contended that the issue of whether the accused was the cashier was substantially the same in both the earlier and the present trials.",
+        "The appellant argued that the rule of issue-estoppel, as approved in several Supreme Court cases, should apply.",
+        "Therefore, the finding in the earlier trial that the accused was not the cashier from December 8 should bar the current prosecution."
+      ],
+      "respondent_arguments": [
+        "The finding in the previous case concerned a specific, later period (from December 8), while the current case concerns a different, earlier period.",
+        "A finding of fact for one period cannot operate as res judicata or issue-estoppel for a different period.",
+        "The cases cited by the appellant in support of issue-estoppel were not applicable to the facts of this case."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The basic principle underlying the rule of issue-estoppel is that the same issue of fact and law must have been determined in the previous proceeding, and the latter finding must necessarily be in contradiction of the previous determination.",
+    "obiter": [
+      "A person may be acting in a certain capacity at one period and may not be acting in that capacity at another; when the periods are different, there can be no necessary contradiction between findings related to those different periods."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The basic principle underlying the rule of issue-estoppel is that the same issue of fact and law must have been determined in the previous proceeding, that is, the latter finding must necessarily be in contradiction of the previous determination. In the present case, however, the accused was never appointed as a cashier, but was a temporary senior accounts clerk who was alleged to be doing the work of a cashier. A person may be acting as a cashier at one period and may not be acting as a cashier at another. In such circumstances, when the periods are different, there can be no such contradiction. Therefore, the rule of issue-estoppel does not apply to the facts of the case.",
+    "legal_tests_applied": [
+      "The basic principle underlying the rule of issue-estoppel is that the same issue of fact and law must have been determined in the previous litigation.",
+      "For issue-estoppel to apply, the latter finding must necessarily be in contradiction of the previous determination."
+    ],
+    "why_appellant_lost": [
+      "The issue of fact determined in the earlier case was not the same as the issue in the present case because the time periods were different.",
+      "A finding that the accused was not acting as a cashier during one period does not contradict a finding that he was acting as a cashier during a different, earlier period.",
+      "The cases cited by the appellant in support of the rule of issue-estoppel did not support their contention on the facts of this case."
+    ],
+    "why_respondent_won": [
+      "The Court affirmed the High Court's conclusion that the issue of fact was not the same in both trials.",
+      "The finding in the previous case concerned a specific period (from December 8, 1960), while the current case concerned a different, earlier period, meaning there was no contradiction between the findings.",
+      "A person's role, such as 'acting as a cashier', can change over time, so a finding for one period does not estop a different finding for another period."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

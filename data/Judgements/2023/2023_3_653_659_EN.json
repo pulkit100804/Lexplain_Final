@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Orissa at Cuttack",
+    "impugned_order": "Judgment(s) and order(s) passed by the High Court of Orissa at Cuttack in Writ Petition Nos. 14922/2019, 10344/2021 and 20066/2019",
+    "high_court_proceedings": "The Division Bench of the High Court allowed the writ petitions preferred by the respective contractors (original writ petitioners) and set aside the penalty imposed while granting the extension of time to complete the work awarded. The subject matter of writ petition before the High Court was the levy of penalty @ 0.25% while granting extension of time from 13.09.2009 to 12.03.2014.",
+    "supreme_court_posture": "The State of Orissa, feeling aggrieved and dissatisfied with the High Court's judgment, preferred appeals to the Supreme Court. The Supreme Court dismissed the appeals, upholding the High Court's decision to set aside the penalty."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "In the facts of the cases, there shall be no order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the State Government is justified in levying the penalty while granting extension of time.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A contractor failed to complete work within the contract's stipulated time and applied for an extension.",
+          "The State Government granted the extension but simultaneously levied a penalty on the value of the work to be done during the extended period.",
+          "The State justified the penalty by citing clauses from the Odisha Public Work Department (OPWD) Code, specifically Clause 3.5.5(v)."
+        ],
+        "law": [
+          "The Supreme Court examined the relevant clauses of the OPWD Code and the contract.",
+          "It found that Clause 3.5.5(v) of the OPWD Code, which the State relied upon, is only applicable in cases where a contract is terminated, not when an extension of time is granted.",
+          "It also examined Clause 3.5.30 and determined that it does not authorize imposing a penalty, but only allows the State to grant an extension without prejudice to its right to levy compensation under the contract's terms.",
+          "The Court noted that neither the contract itself (specifically Clause-4) nor the OPWD code contained any provision that allowed for the imposition of a penalty as a condition for granting an extension of time.",
+          "The Court also invoked the principle of natural justice, stating that even if a penalty were permissible, the contractor must be put on notice and given an opportunity to be heard before one is imposed."
+        ],
+        "application": [
+          "The Court applied the law to the facts and found that the State's justification for the penalty was invalid. Since the contract was extended and not terminated, the State's reliance on Clause 3.5.5(v) was incorrect.",
+          "The Court concluded that because there was no provision in either the contract or the OPWD Code authorizing a penalty upon extension, the State's action was \"wholly without authority of the law and is illegal.\"",
+          "Furthermore, the Court found a procedural defect. The State acted unilaterally by imposing the penalty without first notifying the contractor that the extension would be conditional on a penalty and without providing an opportunity to be heard on the matter."
+        ],
+        "conclusion": "The Supreme Court decided that the State Government was not justified in levying the penalty while granting an extension of time. The penalty was illegal because it was not authorized by the contract or the relevant OPWD Code, and it was imposed unilaterally without giving the contractor prior notice or an opportunity to be heard."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the State Government is justified in levying the penalty while granting extension of time.",
+      "appellant_arguments": [
+        "The contractor undisputedly failed to complete the work within the stipulated time.",
+        "The contractor applied for an extension of time, which the State Government granted subject to a penalty on the value of the work done during the extended period.",
+        "The imposition of the penalty is justified under the relevant clauses of the contract and the OPWD Code."
+      ],
+      "respondent_arguments": [
+        "The High Court was correct in setting aside the penalty that was levied when the extension of time was granted.",
+        "The OPWD Code, specifically Clause 3.5.30 which the State relies on, does not permit the State to levy a penalty while granting an extension of time."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "OPWD Code",
+        "section": "Clause 3.5.30",
+        "used_by_court": true
+      },
+      {
+        "act_name": "OPWD Code",
+        "section": "Clause 3.5.5(v)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A penalty clause that is applicable only in cases where a contract is terminated due to a contractor's failure cannot be invoked to levy a penalty when merely granting an extension of time for the contract's completion.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court was correct to set aside the penalty levied by the State while granting an extension of time, as the specific clause of the OPWD Code invoked by the State to justify the penalty was inapplicable to a situation of time extension and pertained only to cases where a contract is terminated.",
+    "legal_tests_applied": [
+      "Contractual Interpretation: The court analyzed the specific clauses of the contract and the OPWD Code to determine if the conditions for imposing a penalty were met under the circumstances."
+    ],
+    "why_appellant_lost": [
+      "The State Government incorrectly relied on Clause 3.5.5(v) of the OPWD Code to impose the penalty, as this clause is only applicable in cases of contract termination, not when granting an extension of time.",
+      "The court rejected the argument that a penalty was justified merely because of the delay, especially when the legal basis cited for the penalty was incorrect."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully argued that the State invoked the wrong legal provision, as Clause 3.5.5(v) of the OPWD Code applies to contract termination, not time extensions.",
+      "The court accepted the High Court's reasoning that the levy of a penalty was bad in law because the contract was extended, not terminated."
+    ],
+    "policy_considerations": [
+      "It is improper for the State to impose a penalty while simultaneously granting a time extension based on the contractor's application citing genuine reasons for the delay.",
+      "A penalty cannot be imposed without giving the affected party an opportunity of being heard on the quantum of the penalty."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.impugned_order": [
+      "p2_b774feb3"
+    ]
+  }
+}

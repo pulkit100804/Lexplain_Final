@@ -1,0 +1,127 @@
+{
+  "procedural_history": {
+    "originating_court": "Presidency Magistrate",
+    "impugned_order": "Judgment and order dated January 11, 1965 of the Calcutta High Court in Criminal Revision No. 46 of 1965.",
+    "high_court_proceedings": "The appellants applied for revision in the High Court of Calcutta, which was summarily rejected.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court by special leave."
+  },
+  "decision": {
+    "appeal_result": "Appeal dismissed",
+    "conviction_status": "Conviction upheld",
+    "sentence_status": "Sentence upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conduct of the appellants amounted to desertion.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants, who were seamen, left their ship in a body over a pay dispute concerning 'bazar money'.",
+          "They refused to return to the vessel unless their demands were immediately met, which prevented the ship from sailing.",
+          "The appellants later collected their baggage from the ship.",
+          "There was an established legal process for the seamen to enforce their pay demands after the voyage was completed, which they did not use."
+        ],
+        "law": [
+          "The Court defined the 'gist of desertion' as the existence of an 'animus' (intention) not to return to the ship, or to act against the terms of the employment agreement."
+        ],
+        "application": [
+          "The Court inferred from the appellants' actions that they had no intention of returning to the ship under the existing terms of their employment agreement.",
+          "Their conduct was characterized as using a 'weapon of strike' to force the issue, which constituted a breach of their agreement to keep the ship in voyage.",
+          "By leaving the ship and making it impossible to sail, they acted against their contractual obligations.",
+          "The Court reasoned that since the appellants had a legal remedy available to them to settle the pay dispute, their decision to abandon the ship was not a reasonable absence but a deliberate act of desertion."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellants' actions demonstrated an intention not to return to the ship and to break their employment agreement, which therefore amounted to desertion."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the appellants had a reasonable cause for absenting themselves from the ship at the time of its sailing.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A dispute arose between the appellants (seamen) and their employer over the amount of 'bazar money' (victualling charges).",
+          "The dispute was referred to the Shipping Master, where meetings took place and an agreement was reached for the company to pay the claimed amount.",
+          "However, the timing of the payment was unclear, and the appellants were not paid before the ship's scheduled departure.",
+          "As a result, the appellants left the ship in a body, preventing it from sailing."
+        ],
+        "law": [
+          "Section 191(1) of the Merchant Shipping Act distinguishes between desertion (clause a) and being absent without leave (clause b).",
+          "The court notes that the defense of 'reasonable cause' is explicitly included in clause (b), not clause (a) which covers desertion.",
+          "A legal process exists for seamen to enforce payment demands, such as applying to a Magistrate."
+        ],
+        "application": [
+          "The Court held that even if 'reasonable cause' were a valid defense against the charge of desertion, the appellants did not have one.",
+          "The dispute was already being formally handled by the Shipping Master, and records of the proceedings existed.",
+          "The financial claim was for a relatively small amount (around Rs. 30-40 per person) and could have been settled after the voyage was completed.",
+          "The appellants had a legal remedy available to them to enforce their claim once they returned to the home port.",
+          "The Court concluded that the appellants were not merely absenting themselves but were using their collective departure as a 'weapon of strike' to force an immediate resolution, which was not a reasonable cause for abandoning the ship."
+        ],
+        "conclusion": "The Supreme Court rejected the appellants' argument, finding they did not have a reasonable cause for absenting themselves. The existence of an ongoing formal dispute resolution process and other legal remedies meant that their financial claim could have waited until the end of the voyage and did not justify abandoning the ship."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conduct of the appellants amounted to desertion.",
+      "appellant_arguments": [
+        "There was no desertion on the part of the appellants."
+      ],
+      "respondent_arguments": [
+        "The appellants' conduct of leaving the ship in a body amounted to desertion."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the appellants had a reasonable cause for absenting themselves from the ship at the time of its sailing.",
+      "appellant_arguments": [
+        "Even if they are held to have left the ship, they were protected by the fact that there was reasonable cause for absenting themselves at the time of the sailing of the ship."
+      ],
+      "respondent_arguments": [
+        "The appellants had no reasonable excuse for leaving their ship.",
+        "The appellants' claim could have waited until the completion of the voyage because there was legal machinery available for the enforcement of their demand."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Merchant Shipping Act, 1958",
+        "section": "s. 191(1)(a), s. 191(1)(b), s. 194(b), s. 194(e), s. 436",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The law regards the duties of seamen as paramount, requiring them to perform their duties under their employment agreements. An absence from duty without sufficient and reasonable cause constitutes a punishable dereliction of duty. Desertion, as a form of such dereliction, is characterized by the intention not to return to the ship.",
+    "obiter": [
+      "The operation of shipping requires constant attention from its crew, and it is not possible for a shipping company to operate if the crew at every port make demands and leave the ship in a body, as such conduct would be subversive of all discipline on board.",
+      "Historically, seamen were subjected to much harsher punishments, such as being put in stocks and chains, flogged, or made to walk the plank."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the appellants, by leaving the ship in a body, were induced to act in a manner that can only be described as desertion, and therefore their offence was fully established. Even if their conduct were viewed as mere absence rather than desertion, they lacked a sufficient and reasonable cause because their monetary dispute could have been resolved through the legal machinery available after the voyage was completed.",
+    "legal_tests_applied": [
+      "Section 191(1) is in two parts. The first part, clause (a), deals with desertion, for which the penalty is incurred if desertion is proven. The second part, clause (b), deals with other forms of absence, for which 'reasonable cause' is a valid excuse. The court held that the reasonable cause excuse in clause (b) does not apply to the offense of desertion in clause (a)."
+    ],
+    "why_appellant_lost": [
+      "The court determined that the appellants' conduct amounted to desertion under Section 191(1)(a), an offense to which the defense of 'reasonable cause' does not apply.",
+      "Even if the conduct was considered under Section 191(1)(b) (absence without leave), the court found there was no sufficient or reasonable cause for their absence. A legal process was already underway with the Shipping Master, and the monetary claim (amounting to only Rs. 30-40 per person) could have easily waited until the completion of the voyage, as there was legal machinery for its enforcement."
+    ],
+    "why_respondent_won": [
+      "The court agreed with the respondent's characterization that the appellants leaving the ship in a body constituted desertion.",
+      "The court accepted the respondent's argument that the appellants had no reasonable excuse because a legal process was available to them to settle their claim, which did not necessitate abandoning their duties at the time of sailing."
+    ],
+    "policy_considerations": [
+      "The law regards the duties of seamen as of paramount importance, adding penalties like imprisonment to enforce the performance of their duties under their agreements.",
+      "The operation of shipping requires constant attention from its crew, and it is not possible for a shipping company to operate if the crew can make demands and leave the ship in a body at every port.",
+      "Allowing the crew to leave the ship in a body over such disputes would be subversive of all discipline on board."
+    ]
+  },
+  "evidence_map": {}
+}

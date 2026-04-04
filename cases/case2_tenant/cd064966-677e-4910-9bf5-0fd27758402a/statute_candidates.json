@@ -1,0 +1,511 @@
+{
+  "case_id": "cd064966-677e-4910-9bf5-0fd27758402a",
+  "tenant_id": "case2_tenant",
+  "agent": "agent_5c_statute_retriever",
+  "input_refs": [
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-03-19T12:00:03.023873+00:00",
+  "query_terms": [
+    "deception",
+    "promised",
+    "accused against complainant",
+    "accused promised",
+    "property transfer",
+    "transferred",
+    "non response",
+    "stopped responding",
+    "deceptive conduct observed",
+    "cheating",
+    "fraud",
+    "dishonestly",
+    "property transferred",
+    "theft",
+    "property",
+    "misappropriation",
+    "absence of response",
+    "property obtained by deception"
+  ],
+  "total_sections_indexed": 541,
+  "candidates": [
+    {
+      "section": "415",
+      "heading": "Cheating.",
+      "score": 49.7483,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "415.1",
+          "text": "Whoever, by deceiving any person",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "415.2",
+          "text": "fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "415.3",
+          "text": "intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "415.4",
+          "text": "A dishonest concealment of facts is a deception within the meaning of this section.",
+          "element_type": "definition"
+        }
+      ],
+      "offence_category": [
+        "fraud",
+        "deception",
+        "property_offence",
+        "harm"
+      ]
+    },
+    {
+      "section": "423",
+      "heading": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.",
+      "score": 45.4536,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "423.1",
+          "text": "The accused dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "423.2",
+          "text": "The deed or instrument purports to transfer or subject to any charge any property, or any interest therein.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "423.3",
+          "text": "The deed or instrument contains any false statement relating to the consideration for such transfer or charge.",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "fraud"
+      ]
+    },
+    {
+      "section": "421",
+      "heading": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditor.",
+      "score": 44.9337,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "421.1",
+          "text": "A person dishonestly or fraudulently removes any property.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "421.2",
+          "text": "A person dishonestly or fraudulently conceals any property.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "421.3",
+          "text": "A person dishonestly or fraudulently delivers any property to any person.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "421.4",
+          "text": "A person dishonestly or fraudulently transfers any property to any person without adequate consideration.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "421.5",
+          "text": "A person dishonestly or fraudulently causes any property to be transferred to any person without adequate consideration.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "421.6",
+          "text": "The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "421.7",
+          "text": "The person knows it is likely that the action will thereby prevent the distribution of that property according to law among his creditors or the creditors of any other person.",
+          "element_type": "mens_rea"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "fraud"
+      ]
+    },
+    {
+      "section": "403",
+      "heading": "Dishonest misappropriation of property.",
+      "score": 43.4446,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "403.1",
+          "text": "Whoever dishonestly misappropriates any movable property.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "403.2",
+          "text": "Whoever dishonestly converts to his own use any movable property.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "403.3",
+          "text": "A dishonest misappropriation for a time only is a misappropriation.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "403.4",
+          "text": "A person finds property not in the possession of any other person.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "403.5",
+          "text": "The finder takes such property for the purpose of protecting it for, or of restoring it to, the owner, and does not take or misappropriate it dishonestly.",
+          "element_type": "exception"
+        },
+        {
+          "ingredient_id": "403.6",
+          "text": "The finder appropriates the found property to his own use.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "403.7",
+          "text": "At the time of appropriation, the finder has not kept the property a reasonable time to enable the owner to claim it.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "403.8",
+          "text": "At the time of appropriating found property, the finder does not believe it to be his own property.",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "403.9",
+          "text": "At the time of appropriating found property, the finder does not in good faith believe that the real owner cannot be found.",
+          "element_type": "mens_rea"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "dishonesty_offence"
+      ]
+    },
+    {
+      "section": "207",
+      "heading": "Fraudulent claim to property to prevent its seizure as forfeited or in execution.",
+      "score": 42.4173,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "207.1",
+          "text": "Whoever fraudulently accepts, receives or claims any property or any interest therein",
+          "element_type": "act"
+        },
+        {
+          "ingredient_id": "207.2",
+          "text": "knowing that he has no right or rightful claim to such property or interest",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "207.3",
+          "text": "or practices any deception touching any right to any property or any interest therein",
+          "element_type": "act"
+        },
+        {
+          "ingredient_id": "207.4",
+          "text": "intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "207.5",
+          "text": "under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "207.6",
+          "text": "or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit",
+          "element_type": "circumstance"
+        }
+      ],
+      "offence_category": [
+        "fraud",
+        "property_crime",
+        "obstruction_of_justice"
+      ]
+    },
+    {
+      "section": "404",
+      "heading": "Dishonest misappropriation of property possessed by deceased person at the time of his death.",
+      "score": 41.873,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "404.1",
+          "text": "Whoever dishonestly misappropriates or converts to his own use property",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "404.2",
+          "text": "knowing that such property was in the possession of a deceased person at the time of that person's decease",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "404.3",
+          "text": "and has not since been in the possession of any person legally entitled to such possession",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "404.4",
+          "text": "if the offender at the time of such person's decease was employed by him as a clerk or servant",
+          "element_type": "aggravating_factor"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "dishonesty_offence"
+      ]
+    },
+    {
+      "section": "481",
+      "heading": "Using a false property mark.",
+      "score": 40.6073,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "481.1",
+          "text": "The accused marks any movable property or goods.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "481.2",
+          "text": "The accused marks any case, package or other receptacle containing movable property or goods.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "481.3",
+          "text": "The accused uses any case, package or other receptacle having any mark thereon.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "481.4",
+          "text": "The marking or use is done in a manner reasonably calculated to cause it to be believed that the property or goods so marked, or any property or goods contained in any such receptacle so marked, belong to a person to whom they do not belong.",
+          "element_type": "mens_rea"
+        }
+      ],
+      "offence_category": [
+        "property_offence"
+      ]
+    },
+    {
+      "section": "420",
+      "heading": "Cheating and dishonestly inducing delivery of property.",
+      "score": 40.5891,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "420.2",
+          "text": "dishonestly",
+          "element_type": "mental_element"
+        },
+        {
+          "ingredient_id": "420.4",
+          "text": "to deliver any property to any person",
+          "element_type": "consequence_element"
+        },
+        {
+          "ingredient_id": "420.5",
+          "text": "to make, alter or destroy the whole or any part of a valuable security",
+          "element_type": "consequence_element"
+        },
+        {
+          "ingredient_id": "420.6",
+          "text": "to make, alter or destroy anything which is signed or sealed, and which is capable of being converted into a valuable security",
+          "element_type": "consequence_element"
+        }
+      ],
+      "offence_category": [
+        "cheating",
+        "property_offence"
+      ]
+    },
+    {
+      "section": "489",
+      "heading": "Tampering with property mark with intent to cause injury.",
+      "score": 40.3735,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "489.1",
+          "text": "The accused knows it to be likely that he may thereby cause injury to any person",
+          "element_type": "mens_rea"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "offence_against_person"
+      ]
+    },
+    {
+      "section": "484",
+      "heading": "Counterfeiting a mark used by a public servant.",
+      "score": 38.735,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "484.1",
+          "text": "The mark is a property mark used by a public servant.",
+          "element_type": "object"
+        },
+        {
+          "ingredient_id": "484.2",
+          "text": "The mark is used by a public servant to denote that property has been manufactured by a particular person or at a particular time or place.",
+          "element_type": "object"
+        },
+        {
+          "ingredient_id": "484.3",
+          "text": "The mark is used by a public servant to denote that the property is of a particular quality.",
+          "element_type": "object"
+        },
+        {
+          "ingredient_id": "484.4",
+          "text": "The mark is used by a public servant to denote that the property has passed through a particular office.",
+          "element_type": "object"
+        },
+        {
+          "ingredient_id": "484.5",
+          "text": "The mark is used by a public servant to denote that the property is entitled to any exemption.",
+          "element_type": "object"
+        },
+        {
+          "ingredient_id": "484.6",
+          "text": "The accused uses a mark as genuine.",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "counterfeiting",
+        "fraud"
+      ]
+    },
+    {
+      "section": "409",
+      "heading": "Criminal breach of trust by public, servant. or by banker, merchant or agent.",
+      "score": 38.6002,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "409.1",
+          "text": "The entrustment or dominion is in the capacity of a public servant, or in the way of business as a banker, merchant, factor, broker, attorney, or agent.",
+          "element_type": "status_element"
+        },
+        {
+          "ingredient_id": "409.2",
+          "text": "The accused commits criminal breach of trust in respect of that property.",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "criminal_breach_of_trust"
+      ]
+    },
+    {
+      "section": "424",
+      "heading": "Dishonest or fraudulent removal or concealment of property.",
+      "score": 38.3743,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "424.1",
+          "text": "A person dishonestly or fraudulently conceals any property of himself or any other person.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "424.2",
+          "text": "A person dishonestly or fraudulently removes any property of himself or any other person.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "424.3",
+          "text": "A person dishonestly or fraudulently assists in the concealment of property.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "424.4",
+          "text": "A person dishonestly or fraudulently assists in the removal of property.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "424.5",
+          "text": "A person dishonestly releases any demand or claim to which he is entitled.",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "fraud",
+        "dishonesty"
+      ]
+    },
+    {
+      "section": "265",
+      "heading": "Fraudulent use of false weight or measure.",
+      "score": 38.3465,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "265.1",
+          "text": "Whoever, fraudulently uses any false weight or false measure of length or capacity",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "265.2",
+          "text": "or fraudulently uses any weight or any measure of length or capacity as a different weight or measure from what it is",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "fraud",
+        "deception"
+      ]
+    },
+    {
+      "section": "458",
+      "heading": "Lurking house-trespass or house-breaking by night after preparation for hurt, assault, or wrongful restraint.",
+      "score": 38.3075,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "458.1",
+          "text": "The accused made preparation for putting any person in fear of wrongful restraint.",
+          "element_type": "mens_rea"
+        }
+      ],
+      "offence_category": [
+        "property_offence",
+        "offence_against_person"
+      ]
+    },
+    {
+      "section": "405",
+      "heading": "Criminal breach of trust.",
+      "score": 37.8716,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "405.1",
+          "text": "Whoever, being in any manner entrusted with property, or with any dominion over property",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "405.2",
+          "text": "dishonestly misappropriates or converts to his own use that property",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "405.3",
+          "text": "dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "405.4",
+          "text": "dishonestly uses or disposes of that property in violation of any legal contract, express or implied, which he has made touching the discharge of such trust",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "criminal_offence",
+        "property_offence"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (Trial Magistrate)",
+    "impugned_order": "Judgment and order dated December 10, 1968 of the Punjab and Haryana High Court in Criminal Revision No. 1200 of 1967.",
+    "high_court_proceedings": "The Trial Court took action under section 4 of the Probation of Offenders Act. The High Court interfered with the order of the trial magistrate.",
+    "supreme_court_posture": "The appellant filed an appeal by special leave to the Supreme Court, limited to the question of sentence only. The Supreme Court accepted the appeal, set aside the order of the High Court, and restored the order of the trial magistrate."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Set Aside",
+    "directions": [
+      "The order of the High Court is set aside.",
+      "The order of the trial magistrate is restored."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the provisions of the Probation of Offenders Act, 1958 can be invoked in a case where a minimum sentence of imprisonment is prescribed by the statute for the offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "An appellant, who was under 20 years old, was convicted under the Prevention of Food Adulteration Act, 1954.",
+          "This Act prescribed a mandatory minimum sentence of six months imprisonment and a fine of Rs. 1000.",
+          "The trial court, considering the appellant's age, applied the Probation of Offenders Act, 1958 (POA) and released the appellant on a bond instead of imposing the prison sentence.",
+          "The High Court reversed the trial court's decision, holding that the minimum sentence must be imposed."
+        ],
+        "law": [
+          "Section 16 of the Prevention of Food Adulteration Act prescribes a minimum sentence of imprisonment and fine for the offense.",
+          "Section 18 of the Probation of Offenders Act (POA) explicitly states that the POA shall not apply to a specific offense under the Prevention of Corruption Act, 1947, which also has a minimum sentence.",
+          "The object of the POA is to avoid the imprisonment of offenders covered by its provisions."
+        ],
+        "application": [
+          "The Supreme Court focused on the interpretation of Section 18 of the Probation of Offenders Act.",
+          "It reasoned that if the legislature's intent was to make the POA inapplicable to *all* offenses with a prescribed minimum sentence, it would have stated so in general terms.",
+          "However, the legislature chose to single out and exclude only one specific offense (under the Prevention of Corruption Act) in Section 18.",
+          "The Court inferred from this specific exclusion that the legislature intended for the POA to be applicable to all other offenses, even those that carry a minimum sentence.",
+          "The Court stated that the express mention of one offense implies that other similar offenses are not excluded.",
+          "Furthermore, the Court held that imposing even the minimum fine would defeat the purpose of the POA, as a default in payment would lead to imprisonment, which the Act seeks to avoid."
+        ],
+        "conclusion": "The Supreme Court concluded that the provisions of the Probation of Offenders Act, 1958 can be invoked in cases where a minimum sentence is prescribed by statute. The fact that the Act specifically excludes only one such offense (under the Prevention of Corruption Act) indicates that it is meant to apply to all others."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the provisions of the Probation of Offenders Act, 1958 can be invoked in a case where a minimum sentence of imprisonment is prescribed by the statute for the offence.",
+      "appellant_arguments": [
+        "The provisions of the Probation of Offenders Act, 1958 can and should be invoked, especially considering the mandatory provisions of Section 6 of the Act for offenders under a certain age."
+      ],
+      "respondent_arguments": [
+        "The provisions of the Probation of Offenders Act cannot be invoked by an accused convicted of an offence under section 7 read with section 16 of the Prevention of Food Adulteration Act."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Probation of Offenders Act, 1958",
+        "section": "4(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Probation of Offenders Act, 1958",
+        "section": "6",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The non-obstante clause in Section 4(1) of the Probation of Offenders Act, 1958, gives the section an overriding effect over other laws, including those prescribing a mandatory minimum sentence, especially when the Probation of Offenders Act is a subsequent enactment to the other penal law.",
+    "obiter": [
+      "When construing a penal statute, any ambiguity should be resolved in favour of the person who would be liable to the penalty.",
+      "Where a minimum sentence has been prescribed, courts should not lightly resort to the provisions of the Probation of Offenders Act."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The provisions of the Probation of Offenders Act, 1958 can be invoked even when a minimum sentence is prescribed by another statute. Section 4(1) of the Probation of Offenders Act contains a non-obstante clause ('notwithstanding anything contained in any other law for the time being in force') which gives it an overriding effect. This conclusion is reinforced by Section 18 of the Probation of Offenders Act, which specifically excludes its application to only one offence with a minimum sentence (under the Prevention of Corruption Act). The fact that the legislature singled out only one such offence implies that it intended for the Probation of Offenders Act to be applicable to other offences that carry a minimum sentence.",
+    "legal_tests_applied": [
+      "The non-obstante clause in a statute gives its provisions an overriding effect over other laws.",
+      "A later statute will prevail over an earlier one, and the Probation of Offenders Act (1958) was enacted after the Prevention of Food Adulteration Act (1954).",
+      "The principle of statutory interpretation that the express mention of one thing implies the exclusion of others (expressio unius est exclusio alterius). By specifically excluding the Prevention of Corruption Act in Section 18, the legislature implied that other acts with minimum sentences were not excluded.",
+      "When construing a penal statute, any ambiguity should be resolved in favour of the person who would be liable to the penalty."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The object of the Probation of Offenders Act is to give an accused a chance of reformation, which would be lost if they are incarcerated with hardened criminals.",
+      "For offenders under 21 years of age, there are special provisions to prevent their confinement in jail to avoid the pernicious influence of hardened criminals, and a court has a duty not to sentence them to imprisonment unless it is undesirable to do otherwise.",
+      "Adulteration of food is a menace to public health, and the Prevention of Food Adulteration Act aims to eradicate this anti-social evil. Therefore, courts should not lightly resort to the provisions of the Probation of Offenders Act in such cases."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p8_7e5cf0c5"
+    ]
+  }
+}

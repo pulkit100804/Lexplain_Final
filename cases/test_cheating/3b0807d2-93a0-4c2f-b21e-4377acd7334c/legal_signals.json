@@ -1,0 +1,77 @@
+{
+  "case_id": "3b0807d2-93a0-4c2f-b21e-4377acd7334c",
+  "tenant_id": "test_cheating",
+  "agent": "agent_5b_legal_signal_extractor",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json"
+  ],
+  "created_at": "2026-03-19T16:51:04.227043+00:00",
+  "signals": [
+    {
+      "signal_id": "sig_001",
+      "signal": "property_transferred",
+      "categories": [
+        "property"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_003",
+        "lf_007"
+      ]
+    },
+    {
+      "signal_id": "sig_002",
+      "signal": "deceptive_conduct_observed",
+      "categories": [
+        "property",
+        "evidence"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_004"
+      ]
+    },
+    {
+      "signal_id": "sig_003",
+      "signal": "absence_of_response",
+      "categories": [
+        "evidence"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_005",
+        "lf_006"
+      ]
+    },
+    {
+      "signal_id": "sig_004",
+      "signal": "failure_to_deliver",
+      "categories": [
+        "property"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_009"
+      ]
+    },
+    {
+      "signal_id": "sig_005",
+      "signal": "property_obtained_by_deception",
+      "categories": [
+        "property"
+      ],
+      "confidence": 0.9,
+      "source": "co_occurrence",
+      "source_fact_ids": [
+        "lf_004",
+        "lf_007",
+        "lf_003"
+      ]
+    }
+  ]
+}

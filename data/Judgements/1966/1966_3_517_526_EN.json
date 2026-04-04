@@ -1,0 +1,182 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a lower court in Bihar since the Patna High Court heard appeals from it.",
+    "impugned_order": "Judgment and Order dated the 23rd January 1963 of the Patna High Court in Government Appeals Nos. I of 1960, 39 and 19 of 1959, and Criminal Appeal No. 42 of 1959.",
+    "high_court_proceedings": "The Patna High Court heard Government Appeals Nos. I of 1960, 39 and 19 of 1959, and Criminal Appeal No. 42 of 1959. The outcome of these appeals is not stated in the provided text.",
+    "supreme_court_posture": "The Appellants in Criminal Appeals Nos. 48 to 51 of 1963 appealed the Patna High Court's Judgment and Order to the Supreme Court. The specific reasons for approaching the Supreme Court are not detailed in the provided text, but Criminal Appeal No. 50 of 1963 concerns the tampering of seals of three power meters installed in the mill belonging to the appellant Krishna Prasad."
+  },
+  "decision": {
+    "appeal_result": "Appeal 48/63 dismissed. Appeal Nos. 49, 50 and 51 of '63 allowed in part.",
+    "conviction_status": "Convictions under s. 39 set aside.",
+    "sentence_status": "Sentences under s. 39 set aside.",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution was incompetent under s. 50 of the Act as it was not launched by a 'person aggrieved'.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution was initiated by a chargesheet submitted by the police following a first information report (FIR).",
+          "The FIR was launched by an Assistant Engineer named Bhattacharya.",
+          "The 'person aggrieved' by the offense was the Patna Electricity Supply Company (P. E. S. Co.), not Bhattacharya.",
+          "The P. E. S. Co. is a body corporate and must act through its officers.",
+          "An officer named Ramaswami held a general power of attorney from the P. E. S. Co. and was specifically empowered to act on its behalf in legal proceedings.",
+          "Evidence showed that Bhattacharya launched the FIR at the instance of Ramaswami."
+        ],
+        "law": [
+          "Section 50 of the Indian Electricity Act requires that a prosecution for an offense under the Act must be instituted by the Government, an Electric Inspector, or a 'person aggrieved' by the offense.",
+          "A body corporate, being a legal entity, can only act through its authorized directors or officers."
+        ],
+        "application": [
+          "The Court acknowledged that while Bhattacharya, who filed the initial report, was not the 'person aggrieved', the actual aggrieved party was the P. E. S. Co.",
+          "As a corporate body, the P. E. S. Co. could only act through an authorized representative.",
+          "The Court found that Ramaswami was such a representative, holding a power of attorney to act in legal matters for the company.",
+          "Since Ramaswami instructed Bhattacharya to file the FIR, the Court reasoned that the legal process was effectively set in motion by Ramaswami acting on behalf of the P. E. S. Co.",
+          "Therefore, the law was considered to have been set in motion by the 'person aggrieved' (the P. E. S. Co.) acting through its authorized agent."
+        ],
+        "conclusion": "The Court rejected the objection, holding that the prosecution was competent under s. 50 because the law was set in motion by the 'person aggrieved' (the P. E. S. Co.) acting through its duly authorized officer."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the offence of tampering with the meter under s. 44(c) of the Act was proven against the appellants.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The meter, which was under the appellants' control as consumers, stopped registering the current within 24 hours of being sealed by the electricity company.",
+          "An examination revealed that the meter had been deliberately tampered with by pouring nitric acid on it and breaking the company's seals.",
+          "The appellants did not deny that the meter was tampered with, but instead blamed another person.",
+          "The High Court, after considering the evidence, found as a fact that the appellants had deliberately tampered with the meter."
+        ],
+        "law": [
+          "The Supreme Court stated that it is not its role to re-assess evidence on a point of fact, as the High Court is the final court of facts."
+        ],
+        "application": [
+          "The Supreme Court deferred to the High Court's factual conclusion that the meter had been deliberately tampered with.",
+          "The Court noted that the High Court had rightly found the appellants to be the consumers.",
+          "The Court also agreed with the High Court's rejection of the appellants' explanation that someone else was responsible for the tampering.",
+          "Since the High Court, as the final court of facts, had established that the meter was tampered with and the appellants were the consumers, the Supreme Court found them guilty of the offence under s. 44(c)."
+        ],
+        "conclusion": "The Supreme Court accepted that the offence under s. 44(c) was proven, upholding the High Court's conviction. It did so by deferring to the High Court's factual findings that the meter was deliberately tampered with and that the appellants, as consumers, were responsible, stating it would not re-assess the evidence."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the offence under s. 39 of the Act was proven against the appellant.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was a consumer running the mills, and the electricity meters were under his control.",
+          "The meters were found to have been tampered with and the company's seals were broken.",
+          "The prosecution pointed to a sharp increase in recorded energy consumption (to about 300 units per day) between June 28 and July 1, compared to the period before, as evidence of prior dishonest abstraction."
+        ],
+        "law": [
+          "To prove an offence under Section 39 of the Act, the prosecution must show that there was dishonest abstraction, consumption, or use of electrical energy.",
+          "A legal presumption of dishonest abstraction can be raised against the accused, but only if the prosecution first establishes the existence of a \"perfected artificial means\" that would make such abstraction possible."
+        ],
+        "application": [
+          "The Court determined that merely tampering with a meter is not sufficient to prove the offence under Section 39.",
+          "It found that the prosecution failed to provide any evidence of a \"perfected artificial means\" for abstraction. There was no proof that the tampering actually allowed for energy to be consumed without being recorded.",
+          "The Court also rejected the argument that the sudden rise in recorded consumption proved prior theft. It reasoned that this increase could be explained by other legitimate circumstances, such as longer working hours or wasteful usage, and did not necessarily lead to an inference of past dishonest abstraction.",
+          "Since the prosecution could not establish the existence of a perfected artificial means, the legal presumption of dishonest abstraction could not be raised against the appellant."
+        ],
+        "conclusion": "The Supreme Court concluded that the offence under Section 39 was not proven. It held that the conviction was unsustainable because the prosecution failed to establish the necessary elements of the offence, specifically the existence of a perfected artificial means for abstraction. Therefore, the Court set aside the appellant's conviction and sentence under Section 39."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the prosecution was incompetent under s. 50 of the Act as it was not launched by a 'person aggrieved'.",
+      "appellant_arguments": [
+        "The person who gave information to the police (Bhattacharya) was not a 'person aggrieved' as required by s. 50 of the Act.",
+        "A charge-sheet submitted by the police is not the same as a prosecution instituted at the instance of the 'person aggrieved'."
+      ],
+      "respondent_arguments": [
+        "The 'person aggrieved' was the P. E. S. Co., a corporate body which must act through its officers.",
+        "Ramaswami, who held a general power of attorney for the company, directed Bhattacharya to file the first information report.",
+        "Therefore, the law was effectively set in motion by the 'person aggrieved' acting through its authorized agent."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the offence of tampering with the meter under s. 44(c) of the Act was proven against the appellants.",
+      "appellant_arguments": [
+        "The evidence, particularly the retracted extra-judicial confession, was not sufficient to prove the offence of tampering."
+      ],
+      "respondent_arguments": [
+        "The evidence, including an extra-judicial confession, established as a fact that the meters had been tampered with and the company's seals were broken."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the offence under s. 39 of the Act was proven against the appellant.",
+      "appellant_arguments": [
+        "The evidence presented by the prosecution was insufficient to prove the offence under s. 39."
+      ],
+      "respondent_arguments": [
+        "The prosecution relied on evidence concerning the period between June 28 and July 1 to establish the offence under s. 39."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Act",
+        "section": "s. 39",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act",
+        "section": "s. 44(c)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act",
+        "section": "r. 138 read with r. 56",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act",
+        "section": "s. 50",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act",
+        "section": "s. 2(c)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The existence of unauthorized means for abstraction of energy is prima facie evidence of dishonest abstraction by some person, but this special rule of evidence does not absolve the prosecution from the burden of proving aliunde that the accused was the one who made the abstraction. An inference that the accused is guilty of dishonest abstraction may be drawn if the fact that the accused is in possession and control of the artificial means for abstraction is coupled with other circumstances showing that they alone are responsible for the abstraction.",
+    "obiter": [
+      "A prosecution is validly instituted at the instance of an aggrieved corporate body if the law is set in motion by an employee acting under the authority of another employee who holds a general power of attorney from the company to act in legal proceedings.",
+      "It is not an inflexible rule of practice or prudence that a conviction can never be based on a retracted extra-judicial confession without corroboration."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court upheld the convictions for the offence of tampering with an electricity meter under s. 44(c) of the Act, deferring to the High Court's factual findings based on ample evidence. However, it set aside the convictions for dishonest abstraction of energy under s. 39, reasoning that while tampering was proven, the prosecution failed to establish the existence of a 'perfected artificial means' for abstraction prior to the meter stopping, which is a necessary element to presume dishonest abstraction under that section. The court also rejected a procedural challenge, holding that the prosecution was competently launched by the 'person aggrieved' (the power company) acting through its authorized agent.",
+    "legal_tests_applied": [
+      "Under s. 50 of the Act, a prosecution is validly launched by a 'person aggrieved' if that person is a corporate body that acts through its duly authorized officers or agents to set the law in motion.",
+      "To establish an offence under s. 39 of the Act, the existence of a 'perfected artificial means' for dishonest abstraction must be shown to raise the prima facie evidence of such abstraction.",
+      "The Supreme Court will not re-assess evidence on a point of fact, as the High Court is the 'final court of facts'."
+    ],
+    "why_appellant_lost": [
+      "The procedural objection under s. 50 failed because the 'person aggrieved' was the P. E. S. Co., a corporate body, which must act through its officers. The evidence showed that an agent holding a general power of attorney for the company directed the first information report to be filed, meaning 'the law was set in motion by the \"person aggrieved\"'.",
+      "The challenge to the conviction for tampering under s. 44(c) failed because the Supreme Court deferred to the High Court's role as the 'final court of facts'. The High Court had found, based on 'ample evidence' from multiple witnesses, that the meters were tampered with, and the appellants, as consumers, were responsible."
+    ],
+    "why_respondent_won": [
+      "On the issue of prosecution competence under s. 50, the respondent successfully established that the 'person aggrieved' was the company, and it had acted through its authorized agent (Ramaswami) who held a power of attorney and directed the filing of the police report.",
+      "On the issue of tampering under s. 44(c), the respondent's case was upheld because the High Court had accepted the evidence of multiple witnesses, including an independent inspector, as sufficient proof that 'the meters had been tampered with and the company's seals broken'."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

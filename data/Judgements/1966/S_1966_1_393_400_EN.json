@@ -1,0 +1,234 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court (initiated proceedings under s. 145, Cr. P.C.)",
+    "impugned_order": "Judgment and order dated October 26, 1964, of the Allahabad High Court in Criminal Revision No. 803 of 1963.",
+    "high_court_proceedings": "Appellants filed a revision application in the High Court challenging the District Judge's jurisdiction to transfer the case under s. 24, C.P.C., arguing that s. 24, C.P.C. was not applicable to references under s. 146(1), Cr. P.C. The High Court permitted the point to be urged but negatived both grounds on which the contention was based.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court by certificate granted by the High Court at Allahabad. The point to be decided was whether the District Judge had jurisdiction under s. 24 of the Code of Civil Procedure to transfer a reference made by a Magistrate to a particular civil court under s. 146 of the Code of Criminal Procedure to another civil court."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a District Judge has jurisdiction under Section 24 of the Code of Civil Procedure to transfer a reference made by a Magistrate under Section 146 of the Code of Criminal Procedure from one civil court to another.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A Magistrate, unable to decide which party was in possession of a disputed property in a proceeding under Section 145 of the Code of Criminal Procedure (Cr.P.C.), referred the question to a civil court as required by Section 146(1) Cr.P.C.",
+          "The District Judge, exercising powers under Section 24 of the Code of Civil Procedure (C.P.C.), transferred this reference from the original civil court (Munsiff's court) to another Munsiff's court.",
+          "The transferee court gave a finding on the possession issue.",
+          "The appellants challenged this finding, arguing for the first time that the District Judge had no jurisdiction to transfer the case under Section 24 C.P.C., and therefore the entire proceeding after the transfer was a nullity."
+        ],
+        "law": [
+          "Section 146(1) of the Code of Criminal Procedure (Cr.P.C.): Allows a Magistrate to refer the question of possession to a competent civil court if they cannot decide it themselves.",
+          "Section 24 of the Code of Civil Procedure (C.P.C.): Grants the High Court or District Court the power to transfer any suit, appeal, or other proceeding pending before it to any subordinate court competent to try or dispose of it.",
+          "Section 141 of the Code of Civil Procedure (C.P.C.): States that the procedure provided in the C.P.C. regarding suits shall be followed, as far as it can be made applicable, in all proceedings in any Court of civil jurisdiction."
+        ],
+        "application": [
+          "The Supreme Court addressed two main arguments made by the appellants.",
+          "First, the Court rejected the argument that the reference under Section 146(1) Cr.P.C. was made to a *persona designata* (a specific individual judge) rather than to a court. It held that the reference is made to a constituted civil court, not a specific person.",
+          "Second, the Court addressed the primary contention that a proceeding arising from a reference under Section 146(1) Cr.P.C. is not a \"civil proceeding\" to which the provisions of the C.P.C., including the transfer power under Section 24, would apply.",
+          "The Court reasoned that the expression \"civil proceeding\" in Section 141 C.P.C. should not be interpreted narrowly. It cited other instances, such as arbitration matters or issues referred by a revenue court, where the C.P.C. has been held to apply.",
+          "Based on this broader interpretation, the Court determined that once a Magistrate refers the matter to a civil court, the proceeding before that court is governed generally by the Code of Civil Procedure.",
+          "Since the proceeding is a civil proceeding before a civil court, the general powers conferred upon a District Court by the C.P.C., including the power of transfer under Section 24, are applicable."
+        ],
+        "conclusion": "The Supreme Court concluded that a proceeding before a civil court arising out of a reference under Section 146(1) of the Cr.P.C. is a proceeding to which the Code of Civil Procedure applies. Therefore, a District Judge has the jurisdiction under Section 24 of the C.P.C. to transfer such a proceeding from one subordinate civil court to another."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a reference made by a Magistrate to a civil court under Section 146(1) of the Code of Criminal Procedure is to a persona designata.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A Magistrate, under Section 146(1) of the Code of Criminal Procedure (Cr.P.C.), referred a question of possession to a civil court.",
+          "This reference was later transferred by a District Judge to another civil court under Section 24 of the Code of Civil Procedure (C.P.C.).",
+          "The appellants challenged this transfer, arguing that the original reference was made to a 'persona designata' (a specific individual acting in a personal capacity, not as a court), and therefore, the District Judge had no jurisdiction to transfer the case."
+        ],
+        "law": [
+          {
+            "law_name": "Definition of Persona Designata",
+            "description": "A 'persona designata' is a person who is pointed out or described as an individual, as opposed to a person who is part of a class or holds a particular office. The determinations of a persona designata are not treated as judgments of a legal tribunal."
+          },
+          {
+            "law_name": "Legal Principle for Identifying a Persona Designata",
+            "description": "When a statute refers a matter to a constituted court 'as a court' and not to the specific presiding officer of that court, the reference is not to a persona designata. In such cases, the statute is considered to be enlarging the ordinary jurisdiction of that existing court."
+          },
+          {
+            "law_name": "Section 146(1) of the Code of Criminal Procedure",
+            "description": "This section empowers a Magistrate to refer a question of possession 'to a civil court of competent jurisdiction'."
+          }
+        ],
+        "application": [
+          "The Supreme Court analyzed the specific wording of Section 146(1) Cr.P.C.",
+          "It noted that the statute empowers the Magistrate to refer the matter 'to a court,' not to the specific presiding judge of that court.",
+          "Applying its established legal principle, the Court reasoned that since the reference is made to an existing, constituted court as an institution, it cannot be a reference to a persona designata.",
+          "The Court concluded that the statute simply grants additional jurisdiction to the civil court to decide the matter referred to it."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the reference was to a persona designata. It held that because Section 146(1) Cr.P.C. refers the matter to a 'civil court' (a constituted legal tribunal) and not to a specific individual judge, the reference is to the court itself, which has its jurisdiction enlarged by the statute."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a proceeding before a civil court, arising from a reference under Section 146(1) of the Code of Criminal Procedure, is not a 'civil proceeding' and therefore cannot be transferred under Section 24 of the Code of Civil Procedure.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A Magistrate, unable to decide which party was in possession of a disputed property in a proceeding under Section 145 of the Code of Criminal Procedure (Cr.P.C.), referred the question to a civil court as per Section 146(1) Cr.P.C.",
+          "The District Judge later transferred this reference from the original civil court to another civil court, using the power granted under Section 24 of the Code of Civil Procedure (C.P.C.).",
+          "The appellants challenged this transfer, arguing that the District Judge had no jurisdiction to do so."
+        ],
+        "law": [
+          "Section 24 of the Code of Civil Procedure (C.P.C.) grants a High Court or District Court the power to transfer any \"suit, appeal or other proceeding pending in any court subordinate to it.\"",
+          "Section 146(1) of the Code of Criminal Procedure (Cr.P.C.) allows a Magistrate to refer a question of possession to a competent civil court."
+        ],
+        "application": [
+          "The Court rejected the appellant's argument that the reference was not a 'civil proceeding' and therefore could not be transferred.",
+          "The Court's decision focused on the specific wording of Section 24 C.P.C. It noted that the section uses the broad and comprehensive term \"other proceeding\" and is not restricted to only \"civil proceedings.\"",
+          "The Court reasoned that the term \"proceeding\" is not a term of art with a fixed definition. In the context of Section 24, it should be interpreted broadly to include all matters that come before a court for judicial adjudication.",
+          "Because the term \"proceeding\" in Section 24 is wide enough to cover the reference from the Magistrate, the Court found it unnecessary to decide whether the reference qualified as a \"civil proceeding\" under other sections of the C.P.C. (like Section 141).",
+          "The Court also relied on the general principle that when a matter is brought before an ordinary court of the country, that court is governed by its standard rules of procedure, which includes the power of transfer."
+        ],
+        "conclusion": "The Supreme Court concluded that a reference made by a Magistrate to a civil court under Section 146(1) Cr.P.C. is a \"proceeding\" within the meaning of Section 24 C.P.C. Consequently, the District Court has the jurisdiction to transfer such a proceeding from one subordinate civil court to another. The argument that the transfer was invalid because the reference was not a 'civil proceeding' was therefore rejected."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a District Judge has jurisdiction under Section 24 of the Code of Civil Procedure to transfer a reference made by a Magistrate under Section 146 of the Code of Criminal Procedure from one civil court to another.",
+      "appellant_arguments": [
+        "The District Judge had no jurisdiction to transfer the case under Section 24 of the Code of Civil Procedure (CPC).",
+        "Section 24 of the CPC is not available for a reference made under Section 146(1) of the Code of Criminal Procedure (CrPC).",
+        "Consequently, the proceedings subsequent to the transfer of the reference are a nullity."
+      ],
+      "respondent_arguments": [
+        "The District Judge has the jurisdiction to transfer the case under Section 24 of the CPC.",
+        "The appellants acquiesced in the order of transfer and did not raise any objection to the jurisdiction of the transferee court until after an unfavorable finding was given."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a reference made by a Magistrate to a civil court under Section 146(1) of the Code of Criminal Procedure is to a persona designata.",
+      "appellant_arguments": [
+        "The reference made by the Magistrate under Section 146(1) of the CrPC is to a persona designata (a specific person in their individual capacity, not the court itself), which would preclude a transfer under Section 24 of the CPC."
+      ],
+      "respondent_arguments": [
+        "The respondent (the State) conceded that a reference under Section 146(1) is to a constituted court and not to a persona designata."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a proceeding before a civil court, arising from a reference under Section 146(1) of the Code of Criminal Procedure, is not a 'civil proceeding' and therefore cannot be transferred under Section 24 of the Code of Civil Procedure.",
+      "appellant_arguments": [
+        "A proceeding on a reference under Section 146(1) CrPC is not a 'civil proceeding' within the meaning of the CPC.",
+        "Since it is not an original proceeding like a suit, the provisions of Section 141 of the CPC are not attracted, and therefore the procedural rules of the CPC, including Section 24 for transfer, do not apply."
+      ],
+      "respondent_arguments": [
+        "The proceeding before the civil court is a 'civil proceeding' and is subject to the provisions of the CPC, including the power of transfer under Section 24.",
+        "Case law supports the view that the expression 'civil proceeding' in Section 141 is not confined to original proceedings and can apply to proceedings arising from references."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Civil Procedure",
+        "section": "24(1)(b)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "146(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Civil Procedure",
+        "section": "141",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "146(1D)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "South Asia Industries (P) Ltd. v. S. B. Sarup Singh",
+        "citation": "[1965] 2 S.C.R. 756",
+        "principle": "Where a statute confers a right of appeal from the order of a tribunal to the High Court without any limitation, the appeal will be regulated by the practice and procedure obtaining in the High Court.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Adaikappa Chettiar v. Chandrasekhara Thevar",
+        "citation": "74 I.A. 264",
+        "principle": "When a legal right is in dispute and the ordinary courts of the country are seized of such dispute, the courts are governed by the ordinary rules of procedure applicable to them.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Maung Ba Thaw v. Ma Pin",
+        "citation": "61 I.A. 158",
+        "principle": "When a legal right is in dispute and the ordinary courts of the country are seized of such dispute, the courts are governed by the ordinary rules of procedure applicable to them.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Chatur Mohan v. Ram Behari Dixit",
+        "citation": "Not provided in text",
+        "principle": "When a special or local statute refers to a constituted court as a court and not to its presiding officer, the reference is to the court and not to a persona designata.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Narayan Row v. Isinvarlal",
+        "citation": "Not provided in text",
+        "principle": "The expression 'civil proceeding' should not be restricted only to those proceedings which arise out of civil suits or are tried as civil suits.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Munshi Ram v. Banwarilal",
+        "citation": "[1961] 3 S.C.R. 495",
+        "principle": "The expression 'civil proceeding' in s. 141 C.P.C. is not necessarily confined to an original proceeding like a suit but also applies to a proceeding which is not an original proceeding.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When a special or local statute confers jurisdiction on a constituted court, as opposed to a specific presiding officer (persona designata), the proceedings before that court are governed by the ordinary rules of procedure applicable to it, including provisions for the transfer of cases.",
+    "obiter": [
+      "There is good authority for the proposition that a proceeding before a civil court on a reference from a criminal court is a 'civil proceeding', although it is not necessary to definitively decide that question to resolve the present case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When a Magistrate refers a question of possession to a civil court under Section 146(1) of the Code of Criminal Procedure, the proceeding before that civil court is governed by the ordinary rules of procedure applicable to it. This includes the power of a District Court to transfer the proceeding from one subordinate court to another under Section 24 of the Code of Civil Procedure, as the reference is made to a constituted court, not a persona designata, and the proceeding takes on the character of a civil proceeding subject to the court's inherent procedural rules.",
+    "legal_tests_applied": [
+      "When a legal right is in dispute and the ordinary courts of the country are seized of such dispute, the courts are governed by the ordinary rules of procedure applicable to them.",
+      "When a special or local law provides for an adjudication to be made by a constituted court (an existing court) and not the presiding officer, the reference enlarges the ordinary jurisdiction of that court and cannot be said to be to a persona designata."
+    ],
+    "why_appellant_lost": [
+      "The argument that the proceeding is not a 'civil proceeding' was rejected because when an ordinary court is seized of a dispute, it is governed by its ordinary rules of procedure, which includes Section 24 CPC. The court found no reason to restrict the expression 'civil proceeding' and rejected the contention that a proceeding stemming from a criminal matter must always bear the stamp of a criminal proceeding.",
+      "The contention that the reference was to a 'persona designata' was dismissed. The court held that the power under Section 146(1) CrPC is to refer the question to a 'civil court of competent jurisdiction,' not to the presiding judge of a particular court, thereby engaging the court as an institution.",
+      "The argument that the bar on appeal and revision under Section 146(1-D) CrPC implies the matter is not a civil proceeding was found unpersuasive. The court reasoned that this consequence ensues because of an express statutory provision, not because the proceeding itself is not civil in nature; without that express bar, an appeal or revision would have been maintainable.",
+      "The court rejected the theory that the civil court acts as a delegate of the Magistrate exercising criminal jurisdiction. It held that a Magistrate cannot confer criminal jurisdiction upon a civil court, as there is no provision under which he can clothe a court not specified in the Criminal Procedure Code with criminal jurisdiction."
+    ],
+    "why_respondent_won": [
+      "The proceeding before the civil court is governed by the ordinary rules of procedure applicable to that court. This principle, supported by a 'vast body of authority,' means that the provisions of the Code of Civil Procedure, including the power of transfer under Section 24, are applicable.",
+      "The reference under Section 146(1) CrPC is made to a constituted court, not a specific individual (persona designata). As such, the institutional powers of the court system, including the District Judge's power to transfer cases between subordinate courts, are invoked.",
+      "The appellants had acquiesced in the order of transfer and participated in the proceedings before the transferee court, only raising an objection to jurisdiction after an unfavorable finding was given against them."
+    ],
+    "policy_considerations": [
+      "Where a statute confers jurisdiction on an established court without any limitation, the proceedings in that court will be regulated by the practice and procedure obtaining in that court. This ensures procedural consistency and predictability when existing judicial bodies are tasked with adjudicating matters arising from special laws."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p5_303b6d59"
+    ]
+  }
+}

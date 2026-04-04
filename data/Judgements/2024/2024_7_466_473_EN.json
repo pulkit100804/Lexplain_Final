@@ -1,0 +1,100 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court",
+    "impugned_order": "Judgment and Order dated 07.04.2018 of the High Court of Chhattisgarh at Bilaspur in CRLA No.929 of 2013",
+    "high_court_proceedings": "The Sessions Court convicted the appellant-accused for the offence punishable under Section 302 of the Indian Penal Code (IPC) for committing the murder of his stepmother and sentenced him to life imprisonment. The appellant preferred an appeal to the High Court, which was dismissed.",
+    "supreme_court_posture": "The appellant, having had his appeal dismissed by the High Court, approached the Supreme Court. The Supreme Court allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "acquitted",
+    "sentence_status": "set aside",
+    "directions": [
+      "The appellant shall be immediately set at liberty unless his custody is required in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a witness ought to be confronted with their prior statement recorded under Section 161 of the CrPC in accordance with Section 145 of the Evidence Act during cross-examination.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A witness gave a statement to the police under Section 161 of the CrPC, presumably implicating the appellant.",
+          "In court, during her examination-in-chief, this witness departed from her earlier statement, testifying only that the appellant said his mother had died, not that he had killed her.",
+          "Because of this deviation, the public prosecutor had the witness declared hostile.",
+          "During the cross-examination that followed, the public prosecutor did not confront the witness by showing her the relevant part of her prior police statement."
+        ],
+        "law": [
+          "The Supreme Court cited Section 145 of the Indian Evidence Act as the governing legal principle.",
+          "This section mandates that when a witness is to be contradicted with a previous written statement, their attention must be drawn to the specific parts of that statement which are being used to contradict them."
+        ],
+        "application": [
+          "The Court applied the law to the facts by observing that the witness had clearly made a departure from what she had stated in her police statement.",
+          "It found that the public prosecutor, in cross-examining the hostile witness, failed to follow the correct legal procedure.",
+          "Specifically, the prosecutor did not confront the witness by showing her the relevant part of her statement recorded under Section 161 of the CrPC, as required by the Evidence Act."
+        ],
+        "conclusion": "The Supreme Court held that the witness ought to have been confronted with her prior statement in accordance with Section 145 of the Evidence Act. The failure of the prosecution to follow this procedure was an error."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a witness ought to be confronted with their prior statement recorded under Section 161 of the CrPC in accordance with Section 145 of the Evidence Act during cross-examination.",
+      "appellant_arguments": [
+        "The appellant's position, as supported by the court's finding, is that the prosecution failed to follow the correct legal procedure. The witness (PW-1) was not properly confronted with the relevant part of her prior statement recorded under Section 161 of the CrPC, which is a mandatory requirement under Section 145 of the Evidence Act for the purpose of contradiction."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the court should rely on the testimony given by the hostile witness (PW-1) during her cross-examination by the public prosecutor, where she deposed about the appellant's confessional statement. The respondent contended that the evidence of a hostile witness does not need to be rejected in its entirety and the court can rely on a part of such testimony."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "161",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "145",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An extra-judicial confession is a weak piece of evidence, and its credibility becomes doubtful and loses importance if it is surrounded by suspicious circumstances. As a rule of caution, a court should generally look for independent reliable corroboration before placing reliance upon an extra-judicial confession.",
+    "obiter": [
+      "The normal rule of human conduct is that if a person wants to confess a crime, he will do so before a person in whom he has implicit faith."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found that the appellant's guilt was not proven beyond a reasonable doubt because the prosecution's case was based on an unreliable extra-judicial confession and incredible 'last seen together' evidence. The confession to witness PW-1 was deemed unreliable as it defies the normal human conduct of confessing only to a person of implicit faith, especially with no evidence of a prior close acquaintance. Additionally, the testimony of PW-5, claiming the appellant dragged the deceased by her hair, was found unbelievable due to the absence of corresponding injuries on the body and the prosecution's failure to examine any other witnesses from the public area where the incident allegedly occurred, which led the court to draw an adverse inference against the prosecution.",
+    "legal_tests_applied": [
+      "An extra-judicial confession is a weak piece of evidence, and where it is surrounded by suspicious circumstances, its credibility becomes doubtful and it loses its importance.",
+      "It is a rule of caution where the court would generally look for an independent reliable corroboration before placing any reliance upon such extra-judicial confession.",
+      "The normal rule of human conduct is that if a person wants to confess to the crime committed by him, he will do so before the person in whom he has implicit faith.",
+      "An adverse inference must be drawn against the prosecution for not examining material witnesses who should have been present at the scene of the incident."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The judiciary must exercise caution when relying on weak forms of evidence, such as extra-judicial confessions, to prevent miscarriages of justice, generally requiring independent and reliable corroboration before such evidence can form the basis of a conviction."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p3_2b616e67"
+    ],
+    "ratio_decidendi.obiter[0]": [
+      "p7_ec3ad529"
+    ],
+    "judicial_reasoning.legal_tests_applied[2]": [
+      "p7_ec3ad529"
+    ]
+  }
+}

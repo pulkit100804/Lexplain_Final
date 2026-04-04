@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "District Magistrate (inferred from the restoration of their order)",
+    "impugned_order": "Judgment and order dated October 11, 1963, of the Kerala High Court in Criminal Appeal No. 153 of 1962.",
+    "high_court_proceedings": "The Kerala High Court heard Criminal Appeal No. 153 of 1962 and issued a judgment and order on October 11, 1963. The High Court convicted the appellant (Nambissan).",
+    "supreme_court_posture": "Nambissan, the appellant, appealed the High Court's judgment to the Supreme Court, arguing that he was wrongly convicted because no standard was prescribed for buttermilk, the product he was prosecuted for not maintaining the standard of."
+  },
+  "decision": {
+    "appeal_result": "the order of the High Court is set aside and that of the District Magistrate is restored.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The fine, if it had already..."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether butter-milk is required to contain a particular percentage of solids-not-fat under the Prevention of Food Adulteration Rules, and whether the absence of such a standard means the appellant committed an offense.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, a dairy farm manager, was charged under the Prevention of Food Adulteration Act for selling buttermilk.",
+          "An analysis of the buttermilk sample showed a solids-not-fat (SNF) content of 6.4%, which was below the 8.5% standard prescribed for curd.",
+          "The prosecution alleged that this low SNF content meant the buttermilk was adulterated with water.",
+          "The trial court acquitted the appellant, stating no standard was prescribed for buttermilk.",
+          "The High Court convicted him, reasoning that since buttermilk is derived from curd, it should meet the same SNF standard as curd."
+        ],
+        "law": [
+          "The controlling law is Appendix B to the Prevention of Food Adulteration Rules, which specifies the standards of quality for various food items.",
+          "The rules explicitly set minimum percentages for solids-not-fat for products like cow milk, skimmed milk, and curd.",
+          "The definition for buttermilk in the rules is simply \"the product obtained after removal of butter from curds by churning or otherwise.\"",
+          "This definition for buttermilk does not specify any required percentage of solids-not-fat."
+        ],
+        "application": [
+          "The Supreme Court conducted a comparative study of the definitions in Appendix B.",
+          "It observed that wherever the rule-making authority intended to prescribe a specific standard for a product's contents, it did so explicitly.",
+          "The Court noted the absence of any such standard in the definition of buttermilk.",
+          "From this absence, the Court concluded that the rule-making authority did not intend to set a minimum SNF standard for buttermilk.",
+          "The Court rejected the High Court's reasoning, stating that it cannot infer a standard or \"read something in the definition of butter-milk which is not there.\"",
+          "The only legal requirement for the product was its method of production, which was not challenged."
+        ],
+        "conclusion": "The Supreme Court held that because the Prevention of Food Adulteration Rules do not prescribe a minimum percentage of solids-not-fat for buttermilk, the appellant had not committed the offense of failing to meet a standard. The conviction was overturned."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether butter-milk is required to contain a particular percentage of solids-not-fat under the Prevention of Food Adulteration Rules, and whether the absence of such a standard means the appellant committed an offense.",
+      "appellant_arguments": [
+        "The appellant was prosecuted for not maintaining the standard prescribed for butter-milk, but no standard was in fact prescribed for that product under the Rules.",
+        "Since no standard for butter-milk exists, the High Court was wrong to convict the appellant."
+      ],
+      "respondent_arguments": [
+        "The standard for milk has been fixed by the Rules, and the same standard was made applicable to curd.",
+        "As butter-milk is in essence curd from which butter has been extracted, the butter-milk should contain the same quantity of solids-not-fat as curd should contain (8.5%)."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "Section 2(i)(l)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "Section 16(1)(a)(i)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Food Adulteration Rules, 1955",
+        "section": "Rule 5",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A person cannot be convicted for the offense of failing to maintain a prescribed standard for a food article if no specific standard for the contents of that particular article has been prescribed by the relevant rules. A standard cannot be inferred or applied from a different but related food item if the rules do not explicitly provide for it.",
+    "obiter": [
+      "The omission to prescribe a standard for butter-milk is presumably because it is not possible to maintain the same percentage of solids-not-fat as in curd or milk, due to water being added during its production.",
+      "The court expressed no view on whether a prosecution for adulteration of butter-milk could be launched under other clauses of the definition of 'adulterated' in the Act."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Appendix B to the Prevention of Food Adulteration Rules, which specifies the standards of quality of various articles of food, shows that it is not an ingredient of the definition of butter-milk that it should contain any particular percentage of solids-not-fat. Wherever the rule-making authority intended to prescribe a specific standard for the contents of a product, it definitely stated so, but in the case of butter-milk, no standard for contents either specifically or with reference to other items is prescribed. The only requirement is that it shall be a product obtained after removal of butter from curd by churning or otherwise. Therefore, the appellant had not committed the offence with which he was charged.",
+    "legal_tests_applied": [
+      "Interpretation of the Prevention of Food Adulteration Rules, specifically Appendix B, to determine whether a standard of quality for solids-not-fat is prescribed for butter-milk."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The omission to prescribe a standard for solids-not-fat in butter-milk is presumably due to the fact that it is not possible to maintain in butter-milk the same percentage of solids-not-fat content as is found in curds or milk, for water will be added in the process of making butter-milk owing to the fact that butter grains in the chum are washed with cold water which will run off into the butter-milk."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,133 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge, Jodhpur",
+    "impugned_order": "Judgment and order dated March 15, 1967 of the Rajasthan High Court in Criminal Appeal No. 219 of 1965.",
+    "high_court_proceedings": "The Additional Sessions Judge convicted the appellant under s. 314 read with s. 109, Indian Penal Code. The High Court of Rajasthan affirmed this conviction in Criminal Appeal No. 219 of 1965.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court after obtaining special leave to appeal from the High Court's judgment."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "acquitted",
+    "sentence_status": "",
+    "directions": [
+      "His bail bonds stand cancelled"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a charge of abetment can be sustained when the principal offender has been acquitted of the substantive offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was charged with abetting a person named 'R' in causing a miscarriage.",
+          "The principal offender, 'R', was acquitted by the trial court on the grounds that there was no evidence she was involved.",
+          "Despite R's acquittal, the appellant was convicted. However, he was convicted not for abetting R (as charged), but for abetting the deceased woman herself in causing the miscarriage.",
+          "The High Court confirmed this conviction."
+        ],
+        "law": [
+          "The Supreme Court cited the general legal principle that a charge of abetment fails when the substantive offence is not established against the principal offender.",
+          "The Court acknowledged that there can be exceptions to this general rule, as seen in the case of *Gallu Sah v. The State of Bihar*."
+        ],
+        "application": [
+          "The Court determined that the facts of the present case fell under the general rule, not the exception.",
+          "It distinguished the *Gallu Sah* case, which the High Court had relied on. In *Gallu Sah*, the accused was part of an unlawful assembly, and while the specific person he was charged with abetting may not have committed the act, another member of the assembly did. The underlying crime was still proven.",
+          "In this case, the principal offender 'R' was completely exonerated, meaning the substantive offence (by R) that the appellant was charged with abetting was not established at all.",
+          "Therefore, with the acquittal of the principal offender 'R', the charge of abetting her could not be sustained."
+        ],
+        "conclusion": "The Supreme Court decided that the charge of abetment could not be sustained. It held that the case fell within the general rule that an abetment charge fails when the principal offender is acquitted and the substantive offence is not established against them."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of an accused for an offence for which no charge was framed is legal, especially when it causes prejudice to the accused.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was formally charged with abetting a specific person, Mst. Radha, to cause a miscarriage.",
+          "However, Mst. Radha was acquitted.",
+          "The trial court then convicted the appellant for a different offense: abetting the deceased woman herself to cause the miscarriage.",
+          "No charge was ever framed against the appellant for abetting the deceased woman."
+        ],
+        "law": [
+          "The Supreme Court cited the established legal principle that the absence of a charge, or an error or omission in it, is not fatal to a trial unless it causes prejudice to the accused."
+        ],
+        "application": [
+          "The Court found that the appellant was prejudiced by the absence of the correct charge.",
+          "Throughout the trial, the appellant's defense was focused on the specific charge of abetting Mst. Radha. His cross-examination of witnesses was aimed at showing he had no connection to her.",
+          "At no point was he notified that he needed to defend himself against the allegation of abetting the deceased woman.",
+          "This lack of notice meant he was not aware that he would be required to show he did not abet the deceased, which fundamentally undermined his ability to present a proper defense to the crime for which he was ultimately convicted."
+        ],
+        "conclusion": "The Supreme Court concluded that because the appellant was prejudiced by the absence of a proper charge, his conviction was illegal and he was entitled to an acquittal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a charge of abetment can be sustained when the principal offender has been acquitted of the substantive offence.",
+      "appellant_arguments": [
+        "The appellant's conviction for abetment is legally unsustainable because the principal offender he was charged with abetting, Mst. Radha, was acquitted by the trial court on the grounds of there being no evidence against her."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not mentioned in the provided text."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the conviction of an accused for an offence for which no charge was framed is legal, especially when it causes prejudice to the accused.",
+      "appellant_arguments": [
+        "The conviction is illegal because the appellant was charged with abetting Mst. Radha but was ultimately convicted of abetting the deceased woman, an offence for which no charge was ever framed.",
+        "This shift in the charge caused significant prejudice. The nature of abetment (instigation, conspiracy, or intentional aid) and the required defence would be different depending on whether the person abetted was Mst. Radha or the deceased.",
+        "The appellant's defence throughout the trial was focused on showing he had no connection to the co-accused, Mst. Radha, and he was never notified that he would have to defend himself against a charge of abetting the deceased."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not mentioned in the provided text."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "s. 314 read with s. 109",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Faguna Kanta Nath v. State of Assam",
+        "citation": "[1959] Supp. 2 S.C.R. 1",
+        "principle": "A charge of abetment fails ordinarily when the substantive offence is not established against the principal offender.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Umadasi Dasi v. Emperor",
+        "citation": "I.L.R. 52 Cal. 112",
+        "principle": "As a general rule, a charge of abetment fails when the substantive offence is not established against the principal, but there may be exceptions.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Ordinarily, a charge of abetment fails when the substantive offence is not established against the principal offender.",
+    "obiter": [
+      "The rule laid down in Gallu Sah v. The State of Bihar, [1959] S.C.R. 861, which allows for a conviction of abetment even when the principal offender is acquitted, is an exceptional case and does not apply universally."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that there was no legal basis for the appellant's conviction. The conviction failed for two primary reasons: first, the principal offender the appellant was charged with abetting (Mst. Radha) was acquitted, and under the general rule, a charge of abetment fails when the substantive offence is not established against the principal. Second, the appellant was convicted of an entirely different offence for which no charge was ever framed—abetting the deceased woman—which caused significant prejudice as he was never notified that he would have to defend himself against this specific allegation.",
+    "legal_tests_applied": [
+      "As a general rule, a charge of abetment fails when the substantive offence is not established against the principal offender. The court found that the facts of this case fell within this rule, as laid down in Faguna Kanta Nath v. The State of Assam, and did not fit the exceptional circumstances of Gallu Sah v. The State of Bihar.",
+      "The absence of a charge, or an error or omission in it, is not fatal to a trial unless prejudice is caused to the accused. The essential question is whether there is any reasonable likelihood that the accused has been prejudiced in his defence."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It is a fundamental principle of a fair trial that an accused must be notified of the specific charge they are required to defend against. Convicting an accused for an offence different from the one framed in the charge causes prejudice, especially when the nature of the required defence changes. The court noted, 'Throughout the trial the accused was asked to defend himself against the charge on which he was tried. At no. stage he was notified that he would be tried for the offence of having abetted the deceased to cause miscarriage.'"
+    ]
+  },
+  "evidence_map": {}
+}

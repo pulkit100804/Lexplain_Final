@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the High Court appeal being against convictions and sentences)",
+    "impugned_order": "Final judgment and order dated 08.11.2006 passed by the High Court of Madras in Criminal Appeal No.1200 of 2003",
+    "high_court_proceedings": "The convicted accused filed criminal appeals in the High Court of Madras (Criminal Appeal No. 1200 of 2003) questioning the legality and correctness of their convictions and sentences. The High Court dismissed the appeal.",
+    "supreme_court_posture": "The appellant, feeling aggrieved by the High Court's dismissal of their appeal, approached the Supreme Court by filing Criminal Appeal No. 1305 of 2008. The Supreme Court ultimately dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Courts below were justified in holding the appellant (A-6) guilty for commission of only the offence under Section 120-B IPC.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant (A-6) was one of nine accused (A-1 to A-9) charged with hatching a criminal conspiracy in his house to murder a victim named Siva.",
+          "The Trial Court and the High Court convicted the appellant (A-6) for the offence of criminal conspiracy under Section 120-B of the Indian Penal Code (IPC).",
+          "The appellant (A-6) was the only accused to appeal his conviction to the Supreme Court.",
+          "The prosecution's case against the appellant relied primarily on the testimony of two witnesses, PW-3 and PW-4."
+        ],
+        "law": [
+          "The Court outlined the essential ingredients of a criminal conspiracy under Section 120-A and 120-B IPC.",
+          "To constitute a conspiracy, there must be a meeting of minds of two or more persons to do an illegal act or an act by illegal means.",
+          "It is not necessary for the prosecution to prove that all conspirators knew every detail of the conspiracy or that they played an active role in the planning meeting; their presence and participation are sufficient.",
+          "A person can be held guilty for the main offence (in this case, murder) as an abettor under Section 120-B IPC, even if they were not present at the actual commission of the crime."
+        ],
+        "application": [
+          "The Court re-examined the evidence, particularly the testimony of witnesses PW-3 and PW-4, to determine if the conviction was justified.",
+          "It found the testimony of PW-3 and PW-4 to be \"natural, consistent and does not suffer from any contradictions.\"",
+          "The Court determined that this testimony successfully proved that a meeting was held at the appellant's house where a decision was taken by the accused to kill the victim.",
+          "The evidence showed that PW-3 was present in the appellant's house serving tea and that both witnesses overheard the accused confirming their plan to kill the victim.",
+          "The fact that the victim was indeed killed five days after this meeting further corroborated the existence of the conspiracy.",
+          "The Court concluded that the prosecution had proven beyond a reasonable doubt that the appellant was a member of the criminal conspiracy, thus satisfying the legal requirements for a conviction under Section 120-B IPC."
+        ],
+        "conclusion": "The Supreme Court concluded that the lower courts were justified in relying on the testimony of PW-3 and PW-4 to convict the appellant (A-6) for criminal conspiracy under Section 120-B IPC. The evidence proved his complicity in the plan to kill the victim, and therefore, the Court rejected his appeal and upheld the conviction."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Courts below were justified in holding the appellant (A-6) guilty for commission of only the offence under Section 120-B IPC.",
+      "appellant_arguments": [
+        "The appellant’s conviction is based solely on the testimony of two witnesses, PW-3 and PW-4.",
+        "These two witnesses are chance witnesses set up by the prosecution, and the lower courts erred in placing reliance on their testimony.",
+        "The testimony of these witnesses contains inconsistencies and contradictions, which render their statements wholly unreliable and they should have been disbelieved."
+      ],
+      "respondent_arguments": [
+        "The impugned order, which upheld the Session Court's order, was correct and should be supported.",
+        "The reasoning and conclusion of the lower courts are based on a proper appreciation of the evidence and do not require interference.",
+        "No case has been made out to reverse the concurrent findings of the two lower courts."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 136",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The Supreme Court, in its appellate jurisdiction under Article 136 of the Constitution, will not reassess evidence or interfere with concurrent findings of fact from two lower courts, unless those findings are shown to be wholly perverse, recorded without any evidence, or based on a misreading or ignoring of material evidence.",
+    "obiter": [
+      "It is not the function of this Court to reassess the evidence and an argument on a point of fact which did not prevail with the Courts below cannot avail the appellants in this Court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court will not interfere with the concurrent findings of two lower courts on the appreciation of evidence unless the appellant can demonstrate that those findings are wholly perverse, recorded without any evidence, or based on a misreading or ignoring of material evidence. As the appellant's arguments were essentially a request to reassess evidence on a point of fact that did not prevail in the lower courts, the appeal lacks merit.",
+    "legal_tests_applied": [
+      "The standard of review for concurrent findings of fact under Article 136 of the Constitution, which dictates that the Supreme Court will be very slow to appreciate evidence afresh unless the appellant can show the lower courts' findings are wholly perverse, without evidence, or based on a misreading or ignoring of material evidence."
+    ],
+    "why_appellant_lost": [
+      "The appellant failed to demonstrate that the concurrent findings of the two lower courts were wholly perverse, recorded without any evidence, or resulted from misreading or ignoring material evidence.",
+      "The appellant's arguments were an attempt to have the Supreme Court reassess the evidence, which is not the function of the Court when faced with concurrent findings of fact from lower courts."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the Supreme Court deferred to the concurrent findings of the two lower courts on the appreciation of evidence.",
+      "The Court found that the reasoning and conclusions of the lower courts did not warrant interference, as the high threshold for overturning concurrent findings had not been met by the appellant."
+    ],
+    "policy_considerations": [
+      "It is not the function of the Supreme Court to reassess evidence, and an argument on a point of fact that did not prevail with the Courts below cannot avail the appellants in the Supreme Court."
+    ]
+  },
+  "evidence_map": {}
+}

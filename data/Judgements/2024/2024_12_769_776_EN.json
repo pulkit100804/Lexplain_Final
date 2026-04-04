@@ -1,0 +1,83 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a trial court since the High Court's judgment refers to 'sustaining the conviction and sentence'.",
+    "impugned_order": "Judgment and order dated 1st November 2019 passed by the High Court of Judicature at Madras at Madurai in CRLAMD No. 479 of 2017.",
+    "high_court_proceedings": "The appellant filed an appeal before the High Court. The High Court partly allowed the appeal, sustaining the conviction and sentence for offences under Sections 294(b), 341, and 302 IPC, but acquitted the appellant for the charge under Section 506(ii) IPC.",
+    "supreme_court_posture": "Aggrieved by the High Court's judgment, the appellant filed an appeal before the Supreme Court by way of special leave. The Supreme Court allowed the appeal, quashing and setting aside the High Court's judgment and order."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "Acquitted of all charges.",
+    "sentence_status": "Set aside.",
+    "directions": [
+      "The impugned judgment and order dated 1st November 2019 passed by the High Court is quashed and set aside;",
+      "The appellant is acquitted of all the charges levelled against"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether interference is warranted in an appeal despite concurrent findings of fact by the lower courts.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The State argued that the Supreme Court should not interfere with the lower courts' decisions because they had reached the same factual conclusions (concurrent findings).",
+          "The High Court had convicted the appellant (accused no. 1) but acquitted two other co-accused (nos. 2 and 3).",
+          "The conviction and acquittals were based on the testimony of the same single witness, PW-1, who was the father of the deceased and thus an \"interested witness.\""
+        ],
+        "law": [
+          "While an appellate court is generally reluctant to interfere with concurrent findings of fact from lower courts, it is warranted if the lower court's reasoning is grossly erroneous or contradictory."
+        ],
+        "application": [
+          "The Supreme Court identified a major contradiction in the High Court's judgment.",
+          "The High Court had disbelieved the testimony of PW-1 regarding accused nos. 2 and 3, noting that the incident occurred 300 meters away, making it unlikely for the witness to have seen their specific actions.",
+          "However, the High Court then convicted the appellant based on the very same testimony from the same witness about the same overt act.",
+          "The Supreme Court found that it was a \"gross error\" for the High Court to selectively believe parts of the testimony of an interested witness while disbelieving other parts concerning the same act."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court's inconsistent reasoning and erroneous conviction of the appellant, while acquitting others on the same evidence, was a fundamental flaw. This error justified interfering with the concurrent findings, and as a result, the appeal was allowed."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether interference is warranted in an appeal despite concurrent findings of fact by the lower courts.",
+      "appellant_arguments": [
+        "The High Court grossly erred in convicting the appellant while acquitting co-accused Nos. 2 and 3 based on the very same evidence from the same witness (Kovilraj, PW-1).",
+        "Since the High Court disbelieved the witness's testimony regarding the other accused, it should not have relied on that same testimony to convict the appellant."
+      ],
+      "respondent_arguments": [
+        "In view of the concurrent findings of fact by the lower courts, no interference by the Supreme Court is warranted."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A judicial finding of guilt that is based purely on conjectures and surmises, rather than on evidence, is legally unsustainable.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "When the High Court comes to a conclusion that it is difficult to believe that a witness (PW-1) could have witnessed the incident in the manner narrated by him and grants the benefit of doubt to accused Nos. 2 and 3, the conviction of accused No. 1 on the basis of the evidence of the very same witness, particularly when based on conjectures and surmises, is not permissible.",
+    "legal_tests_applied": [
+      "Merely because a witness is an interested witness, it cannot be a ground to discard the testimony of such a witness. However, the testimony of such a witness has to be scrutinized with greater caution and circumspection."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It is a gross error for a court to convict one appellant while giving the benefit of doubt to co-accused based on the very same evidence from the same witness."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[1]": [
+      "p8_443a2d6f"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p1_783b374b",
+      "p7_d096bad6"
+    ]
+  }
+}

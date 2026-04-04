@@ -1,0 +1,90 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge (convicted the appellant for murder)",
+    "impugned_order": "Judgment of the High Court",
+    "high_court_proceedings": "The State appealed to the High Court. The High Court's judgment was against the appellant (accused). The High Court served dasti notice to the appellant, but he did not appear.",
+    "supreme_court_posture": "The appellant (accused) appealed to the Supreme Court by way of special leave, feeling aggrieved by the High Court's judgment. The Supreme Court dismissed the appeal, finding no merit in it."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court failed to comply with the requirements of Section 377(3) of the Code of Criminal Procedure.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The State filed an appeal under Section 377 of the Code of Criminal Procedure (the Code) to enhance the appellant's sentence for murder from 10 years to life imprisonment.",
+          "The appellant claimed that the High Court failed to comply with Section 377(3) by not providing him with an adequate opportunity to defend himself, oppose the enhancement, or argue for his acquittal.",
+          "A notice of the State's appeal was personally served on the appellant, but he did not appear in court.",
+          "The High Court, seeing that the appellant was not represented despite being served, appointed an amicus curiae (a lawyer to assist the court) to safeguard his interests.",
+          "The appellant had not filed a separate appeal challenging his conviction."
+        ],
+        "law": [
+          "The purpose of Section 377 of the Code is to ensure that a sentence cannot be enhanced unless the accused is given a reasonable opportunity to defend against it.",
+          "This opportunity includes the right for the accused to argue for their own acquittal or for a lesser punishment.",
+          "If an accused person is served with a notice of appeal and fails to appear or raise these pleas, the High Court is justified in deciding the appeal for enhancement on its merits."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court had fulfilled its legal duty under Section 377(3) by personally serving the notice of appeal on the appellant. This act constituted the required \"opportunity to defend.\"",
+          "The appellant's failure to appear in court after being properly notified was his own choice not to exercise his rights.",
+          "The Court viewed the High Court's decision to appoint an amicus curiae as a justified measure to protect the appellant's interests in his absence.",
+          "The argument that the amicus curiae lacked sufficient time was dismissed, as no such complaint was ever made to the High Court."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument, concluding that the High Court had duly complied with the requirements of Section 377(3) of the Code. The appellant was given the necessary opportunity to be heard but failed to take it, so there was no fault in the High Court's decision to enhance the sentence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court failed to comply with the requirements of Section 377(3) of the Code of Criminal Procedure.",
+      "appellant_arguments": [
+        "The appellant was not afforded an adequate opportunity to defend himself in the appeal filed by the State for enhancement of the jail sentence, as required by Section 377(3) of the Code.",
+        "The appellant was deprived of his right to oppose the appeal and to urge the grounds for his acquittal as provided under Section 377(3) of the Code.",
+        "Sufficient time was not given to the learned amicus curiae to prepare the case, which caused prejudice to the appellant."
+      ],
+      "respondent_arguments": [
+        "The reasoning and conclusion of the High Court were correct and the appeal has no merit."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "377(3)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "There is due compliance with the requirements of Section 377(3) of the Code when the High Court has ensured its compliance.",
+    "obiter": [
+      "Facts of the case lie in a narrow compass so also the issue involved in the appeal is short.",
+      "No other point was argued by the learned counsel for the appellant except the one dealt with by this Court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In the court's considered opinion, the High Court ensured due compliance with the requirements of Section 377(3) of the Code of Criminal Procedure. When the appellant failed to appear despite being personally served, the High Court was justified in appointing a lawyer as amicus curiae to safeguard the appellant’s interest and to assist the Court, and therefore no fault could be noticed in the reasoning and conclusion arrived at by the High Court.",
+    "legal_tests_applied": [
+      "Whether the actions of the High Court met the requirements of Section 377(3) of the Code of Criminal Procedure, which provides an accused an opportunity to show cause against sentence enhancement and to plead for their acquittal."
+    ],
+    "why_appellant_lost": [
+      "The submission that the amicus curiae was not given sufficient time for preparation is without any foundation, as the amicus curiae had never made any complaint in the High Court for not giving him more time and did not file any affidavit to this effect in the present appeal.",
+      "The High Court's appointment of an amicus curiae was a justified action to safeguard the appellant's interest after he failed to appear despite being personally served."
+    ],
+    "why_respondent_won": [
+      "There was due compliance with the requirements of Section 377(3) of the Code by the High Court.",
+      "The High Court, having found that there was no representation on behalf of the appellant despite personal service effected on him, was justified in appointing a lawyer as amicus curiae to safeguard the appellant’s interest and to assist the Court as well."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

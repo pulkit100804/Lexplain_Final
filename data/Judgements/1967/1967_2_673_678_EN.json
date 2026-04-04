@@ -1,0 +1,132 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Magistrate",
+    "impugned_order": "Order of acquittal passed by the trial Magistrate and confirmed by the High Court",
+    "high_court_proceedings": "The State took the matter in appeal to the High Court urging that the decision in Jayaram v. The State of Mysore required reconsideration. The High Court dismissed the appeal.",
+    "supreme_court_posture": "The State of Mysore appealed to the Supreme Court by special leave because the High Court upheld the trial Magistrate's acquittal of the respondent, disagreeing with the State's argument that the High Court's prior decision needed reconsideration."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquittal set aside",
+    "sentence_status": "",
+    "directions": [
+      "The Magistrate is directed to proceed with the case on merits in accordance with law and in the light of the observations made in this judgment."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether Section 42(1) of the Motor Vehicles Act, 1939, which penalizes the use of a 'transport vehicle' without a permit, applies only to vehicles registered as transport vehicles, or if it also applies to a private motor car when it is used for carrying passengers for hire or reward.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The owner of a motor vehicle registered as a private 'motor car' used it on one occasion to carry passengers for a fee.",
+          "He was charged under Section 42(1) of the Motor Vehicles Act, 1939, for using the car as a 'transport vehicle' without the required permit.",
+          "The trial court and the High Court acquitted him, reasoning that Section 42(1) only applies to vehicles that are registered as 'transport vehicles'."
+        ],
+        "law": [
+          "The Court analyzed Section 42(1) of the Act, which states that the 'owner of a transport vehicle' must have a permit to use it in a public place.",
+          "It also examined the statutory definitions: a 'transport vehicle' is a 'public service vehicle', and a 'public service vehicle' is any motor vehicle 'used or adapted to be used for the carriage of passengers for hire or reward'."
+        ],
+        "application": [
+          "The Court determined that the crucial part of the definition is the word 'used'. This means the actual use of the vehicle at a particular time determines its classification, not its registration status or how it is constructed.",
+          "It reasoned that if the law only applied to vehicles registered as transport vehicles, it would create an 'anomalous result': owners of private cars could carry passengers for hire without a permit, while owners of registered transport vehicles could not. This would defeat the legislative purpose of the Act, which is to control such vehicles for passenger safety.",
+          "The Court concluded that the combined effect of the definitions and Section 42(1) is that whenever any motor vehicle is used to carry passengers for hire or reward, it is considered a 'public service vehicle' and therefore a 'transport vehicle' for that occasion.",
+          "Therefore, using a private car for this purpose without a permit is an infringement of the law."
+        ],
+        "conclusion": "The Supreme Court held that it is the use of a motor vehicle for carrying passengers for hire or reward that determines its category. Consequently, even a private motor car, when used for such a purpose, is considered a 'transport vehicle' at that time, and operating it without the necessary permit is a violation of Section 42(1) of the Act."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether Section 42(1) of the Motor Vehicles Act, 1939, which penalizes the use of a 'transport vehicle' without a permit, applies only to vehicles registered as transport vehicles, or if it also applies to a private motor car when it is used for carrying passengers for hire or reward.",
+      "appellant_arguments": [
+        "The State of Mysore contended that the applicability of Section 42(1) is determined by the actual use of the vehicle, not its registration class.",
+        "They argued that even if a motor vehicle is registered as a private motor car, if it is used for a purpose that brings it within the definition of a 'transport vehicle' (such as carrying passengers for hire or reward), then Section 42(1) is contravened if the owner does not have the required permit."
+      ],
+      "respondent_arguments": [
+        "The respondent's position, as upheld by the lower courts, was that Section 42(1) applies only to vehicles that are officially registered as 'transport vehicles'.",
+        "It was argued that since the section uses the specific words 'owner of a transport vehicle', it cannot be applied to a vehicle registered as a 'motor car' as defined in section 2(16) of the Act, even if it was used on one occasion to carry passengers for reward."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Motor Vehicles Act, 1939",
+        "section": "42(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Motor Vehicles Act, 1939",
+        "section": "2(18)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Motor Vehicles Act, 1939",
+        "section": "Definitions of 'public service vehicle' and 'transport vehicle'",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Finance Act, 1920",
+        "section": "Schedule II, paragraphs 5 and 6",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Unnamed English case concerning the Finance Act, 1920",
+        "citation": "Not provided in text",
+        "principle": "The actual use of a vehicle determines its classification for regulatory purposes (like a higher duty rate), even if that use is only occasional and the vehicle is not structurally constructed or adapted for that purpose. The key factor is the 'purpose' for which the vehicle was being used at the time.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Public Prosecutor v. Captain R. Rajagopalan",
+        "citation": "(1959) Mys. L.J. 388",
+        "principle": "If a private motor vehicle is used even once for carrying passengers or goods for hire or reward, it is considered to be used for that purpose on that occasion, and doing so without the necessary permit constitutes an offense.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Re. Manager, Indian Express",
+        "citation": "(1959) Mys. L.J. 388",
+        "principle": "When a motor car is used for transporting goods, it falls within the definition of a 'goods vehicle' for that specific use, and therefore requires a permit under section 42(1).",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The use of a motor vehicle for carrying passengers for hire or reward determines its classification as a 'transport vehicle' for the purposes of Section 42(1) of the Motor Vehicles Act, 1939. Therefore, any motor vehicle, even if not registered or adapted as a transport vehicle, when used for carrying passengers for hire or reward, requires a permit, and its use without one constitutes a violation of the section.",
+    "obiter": [
+      "The legislative intent behind Section 42(1) is to control vehicles carrying passengers in the interest of public safety.",
+      "An interpretation allowing a private vehicle owner to carry passengers for hire without a permit, while a registered transport vehicle owner must have one, would create an anomalous result and defeat the object of the law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "It is the use of the motor vehicle for carrying passengers for hire or reward which determines its category and the application of Section 42(1). The combined effect of the statutory definitions means that any motor vehicle, when used for carrying passengers for hire or reward, is regarded as a 'public service vehicle' and therefore a 'transport vehicle'. Consequently, even if a motor vehicle is registered as a private car, if it is used on an occasion to carry passengers for hire, it is being used as a 'transport vehicle', and such use without a permit constitutes a breach of Section 42(1).",
+    "legal_tests_applied": [
+      "The court applied a purposive interpretation of the statute, stating that the sub-section 'must be construed in such a manner as to effectuate the object for which it was enacted.'",
+      "The court determined the meaning of the operative term ('transport vehicle') by analyzing the combined effect of related statutory definitions, specifically 'motor vehicle', 'public service vehicle', and 'transport vehicle'."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The court rejected the respondent's argument that the words 'owner of a transport vehicle' limit the section's application only to vehicles registered as such. The court reasoned that this interpretation would create an 'anomalous result' where a person could use a private car for hire without a permit, which could not have been the Legislature's intention.",
+      "The court found that the respondent's construction of the law would 'defeat the object for which the Legislature provided such control in the interest of and for the safety of passengers,' as it would allow owners of private cars to carry passengers for reward with impunity and without regulatory oversight."
+    ],
+    "policy_considerations": [
+      "The court emphasized that the primary object of Section 42(1) is to ensure the safety of passengers by controlling vehicles that carry them for hire.",
+      "The court's reasoning was driven by the need to avoid an interpretation that would create a legislative loophole and lead to an 'anomalous result' where the regulatory scheme for transport vehicles could be easily circumvented."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[1].case_name": [
+      "p5_3f36b5d2"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p1_4b1a1f87",
+      "p4_343863c3"
+    ]
+  }
+}

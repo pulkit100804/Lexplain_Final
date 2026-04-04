@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court (Trial Court)",
+    "impugned_order": "Judgment and Order dated 27.11.2006 of the High Court of Punjab & Haryana at Chandigarh in Criminal Revision No. 413 of 2001.",
+    "high_court_proceedings": "The respondents filed a petition under Section 482 of the Code of Criminal Procedure, 1973 in the High Court of Punjab and Haryana seeking to quash the FIR registered against them for the offence punishable under Section 302 IPC. The High Court partly allowed the petition and altered the charge framed against the respondents from Section 302 IPC to Section 304-A IPC.",
+    "supreme_court_posture": "The State of Haryana, feeling aggrieved by the High Court's order, filed an appeal by way of special leave in the Supreme Court (Criminal Appeal No. 2218 of 2011). The Supreme Court heard the appeal, found no merit in it, and dismissed it."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The Sessions Judge, who is seized of the trial of the respondents’ case in question, is directed to ensure that the trial is completed on merits within one year from the date of this order strictly in accordance with law.",
+      "The order granting interim stay is recalled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in altering the charge framed against the respondents for the offence punishable under Section 302 IPC to Section 304-A IPC.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A blast occurred in a factory, resulting in the death of seven people.",
+          "The respondents, who were responsible for running the factory, were charged with murder under Section 302 of the Indian Penal Code (IPC).",
+          "The respondents challenged the charge in the High Court, which altered it to causing death by negligence under Section 304-A IPC.",
+          "The State of Haryana appealed the High Court's decision to the Supreme Court."
+        ],
+        "law": [
+          "The Supreme Court referenced Section 216 of the Code of Criminal Procedure (Cr.P.C.), which grants the trial court (Sessions Judge) the power to alter, amend, or add any charge at any stage of the trial based on the evidence presented."
+        ],
+        "application": [
+          "The Supreme Court stated that the High Court's reasoning for altering the charge from Section 302 to Section 304-A IPC \"at this stage cannot be faulted with.\"",
+          "The Court expressed concern that the trial had been stayed for many years due to this litigation and emphasized that the trial must proceed.",
+          "It reasoned that the High Court's alteration was not final. The Sessions Judge conducting the trial retains the power under Section 216 of the Cr.P.C. to change the charge again if the evidence adduced by the prosecution justifies it.",
+          "The Court directed the trial to proceed to determine whether a case under Section 304-A IPC was made out against the respondents."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was justified in altering the charge. It rejected the State's appeal, upheld the High Court's order, and directed the Sessions Judge to complete the trial within one year, noting that the trial judge had the power to further amend the charge based on the evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in altering the charge framed against the respondents for the offence punishable under Section 302 IPC to Section 304-A IPC.",
+      "appellant_arguments": [
+        "The appellant (the State) was aggrieved by the High Court's order and argued that the High Court was not justified in altering the charge from the more serious offence under Section 302 IPC to the lesser offence of Section 304-A IPC."
+      ],
+      "respondent_arguments": [
+        "The respondents did not question the High Court's decision to alter the charge, thereby implicitly arguing that the alteration was justified."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "216",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A Sessions Judge has ample power under Section 216 of the Cr.P.C. to alter, amend, or add any charge depending upon the evidence adduced by the prosecution, notwithstanding the High Court altering the charge at a pre-trial stage.",
+    "obiter": [
+      "The reasoning and the conclusion arrived at by the High Court for altering the charge for the offence from Section 302 to Section 304-A IPC at this stage cannot be faulted with."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found no fault with the High Court's decision to alter the charge from Section 302 IPC to Section 304-A IPC at the pre-trial stage, concluding that the trial must proceed on the altered charge to determine if a case has been made out against the respondents.",
+    "legal_tests_applied": [
+      "The court noted that the Sessions Judge retains ample power under Section 216 of the Cr.P.C. to alter, amend, or add any charge during the trial depending on the evidence adduced by the prosecution, notwithstanding the High Court's initial alteration."
+    ],
+    "why_appellant_lost": [
+      "The court explicitly stated that \"the reasoning and the conclusion arrived at by the High Court for altering the charge for the offence from Section 302 to Section 304-A IPC at this stage cannot be faulted with.\""
+    ],
+    "why_respondent_won": [
+      "The court upheld the High Court's order because it found the reasoning and conclusion for altering the charge to be justified at this stage of the proceedings."
+    ],
+    "policy_considerations": [
+      "The court found it \"really unfortunate\" that the trial had been stayed for many years due to the pendency of the litigation and the stay order, which ultimately benefited the respondents who did not have to face trial even for the altered, lesser charge.",
+      "There was a strong emphasis on the need for the trial to finally commence and conclude, leading the court to direct the Sessions Judge to complete the trial on its merits within one year."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p4_63350f09"
+    ],
+    "decision.directions[1]": [
+      "p4_195d1b35"
+    ]
+  }
+}

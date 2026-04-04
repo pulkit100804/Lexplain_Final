@@ -1,0 +1,229 @@
+{
+  "procedural_history": {
+    "originating_court": "District Consumer Forum",
+    "impugned_order": "Judgment and Order dated 22.07.2019 of the National Consumers Disputes Redressal Commission, New Delhi in RP No. 1268 of 2019",
+    "high_court_proceedings": "The District Consumer Forum initially ruled in favor of the complainant. The State Consumer Forum upheld the District Consumer Forum's decision. The respondent-opposite party (insurer-company) then filed a revision petition with the National Consumers Disputes Redressal Commission (NCDRC). The NCDRC allowed the revision petition, setting aside the orders of the District and State Consumer Forums and sustaining the repudiation of the complainant’s claim.",
+    "supreme_court_posture": "The complainant filed a Special Leave Petition (Civil Appeal No. 3821 of 2024) to the Supreme Court against the NCDRC's judgment. The Supreme Court allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the materiality of a fact in an insurance contract is a question of fact to be determined by the circumstances of each case.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact_text": "The court established that the materiality of a fact is not a fixed rule but depends on the specific circumstances of each case, as proven by evidence."
+          },
+          {
+            "fact_text": "The primary test for determining materiality is the 'prudent insurer' test: whether the knowledge of a particular fact would have influenced a prudent insurer's decision to take the risk or to set the premium."
+          },
+          {
+            "fact_text": "A fact is material if it affects the risk. The court identified two established categories: 'physical hazard' (the subject matter is an exceptional risk) and 'moral hazard' (the proposer is a higher-risk individual)."
+          },
+          {
+            "fact_text": "While materiality is a question of fact for a case, the court has a role as a matter of law to determine if a fact is *capable* of being material and to provide guidance on the test to be applied."
+          },
+          {
+            "fact_text": "The burden of proof lies with the insurer to show that the policyholder failed to disclose a fact that was material."
+          }
+        ],
+        "application": [],
+        "conclusion": "The Supreme Court accepted that the materiality of a fact in an insurance contract is a question of fact. It held that this determination must be made based on the specific circumstances of each case, guided by the 'prudent insurer' test, which assesses whether the fact would have influenced an insurer's decision regarding the risk or premium."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the onus is on the insurer to prove that the insured fraudulently provided false information regarding a material fact.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "An insurer repudiated an insurance claim, alleging that the deceased insured had materially suppressed information regarding previous insurance policies.",
+          "The insurer's defense is based on the claim that the insured fraudulently provided false information about a material fact, which would exclude the insurer's liability to pay compensation."
+        ],
+        "law": [
+          "Section 103 of the Evidence Act, 1872: The burden of proof for any particular fact lies on the person who wants the court to believe in its existence.",
+          "Section 101 of the Evidence Act, 1872: The burden of proof lies on the person who asserts the affirmative of an issue.",
+          "Section 45 of the Insurance Act, 1938: This section places the burden on the insurer to prove that the insured suppressed information.",
+          "Principle of Insurance Law: For an insurer to avoid a policy, it must show that the policyholder made a fraudulent statement about a material matter or suppressed material facts."
+        ],
+        "application": [
+          "The Court applied the general principles from the Evidence Act to the specific context of insurance contracts.",
+          "The insurer is the party wishing the Court to believe in the existence of a particular fact—namely, that the insured fraudulently suppressed material information.",
+          "This alleged fraudulent non-disclosure is the fact that would exclude the insurer's liability to pay the claim.",
+          "Therefore, based on Sections 101 and 103 of the Evidence Act and Section 45 of the Insurance Act, the burden falls squarely on the insurer.",
+          "The insurer must prove two key elements: 1) that there was a non-disclosure of a material fact, and 2) that this non-disclosure was fraudulent."
+        ],
+        "conclusion": "The Supreme Court held that in insurance contracts, the burden of proof is solely on the insurer to prove that the insured fraudulently failed to disclose a material fact. The responsibility for proving the fact that would exclude their liability to pay compensation lies with the insurer alone."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether there is a distinction between 'burden of proof', which never shifts, and 'onus of proof', which is a continuous shifting process in the evaluation of evidence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a legal question about the difference between two related concepts in the law of evidence: 'burden of proof' and 'onus of proof'."
+        ],
+        "law": [
+          {
+            "term": "Burden of Proof",
+            "explanation": "This is the fundamental legal obligation on a party to prove a fact. It lies on the person who asserts the fact and it never shifts during the trial. This is established by Section 101 of the Evidence Act, 1872."
+          },
+          {
+            "term": "Onus of Proof",
+            "explanation": "This is the tactical or evidential burden to produce evidence at a particular stage of the trial. Unlike the burden of proof, the onus of proof is a continuous process that shifts back and forth between the parties as evidence is evaluated."
+          }
+        ],
+        "application": [
+          "The Court explained the distinction using the example of a lawsuit for possession of property based on title.",
+          "Initially, the plaintiff has the 'burden of proof' to prove their title.",
+          "If the plaintiff presents evidence that creates a high degree of probability in their favor, the 'onus of proof' then shifts to the defendant.",
+          "It is then up to the defendant to present their own evidence to discharge this onus.",
+          "If the defendant fails to provide sufficient counter-evidence, the plaintiff's original 'burden of proof' is considered to have been successfully discharged, and their title is proven."
+        ],
+        "conclusion": "The Supreme Court accepted that there is an essential distinction between 'burden of proof' and 'onus of proof'. The 'burden of proof' is the overall obligation to prove one's case and it never shifts, whereas the 'onus of proof' is the responsibility to present evidence at a given point, which continuously shifts between the parties as the case progresses."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the insured's negative answer to a query about the revival of a previous policy amounted to a suppression of a material fact.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The insured person answered \"NO\" to a specific question on the insurance application form (Query 6.2) which asked if they had ever made an application for the revival of any policy."
+        ],
+        "law": [
+          "For an answer to be considered a suppression of a material fact, the party alleging suppression (the insurance company) has the burden to provide evidence proving that the answer was false."
+        ],
+        "application": [
+          "The Supreme Court examined the record and found that the insurance company had presented \"no evidence whatsoever\" to show that the insured had actually applied for the revival of any policy.",
+          "Specifically, there was no proof that any such application had been declined, postponed, dropped, accepted, or revived at modified rates.",
+          "Because the insurance company failed to provide any evidence to contradict the insured's negative answer, the court could not hold that answer against the insured's nominee."
+        ],
+        "conclusion": "The Supreme Court concluded that the insured's negative answer regarding the revival of a previous policy could not be considered a suppression of a material fact, as the insurer failed to prove the answer was false."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the materiality of a fact in an insurance contract is a question of fact to be determined by the circumstances of each case.",
+      "appellant_arguments": [
+        "The appellant's core argument was that, under the specific facts of the case, there had been no material suppression of fact concerning any previous insurance policy."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the suppression of information about previously taken insurance policies was a material fact that justified the repudiation of the claim, citing a similar case (Rekhaben) as precedent."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the onus is on the insurer to prove that the insured fraudulently provided false information regarding a material fact.",
+      "appellant_arguments": [
+        "The appellant argued that the insurance company (respondent) had the burden to prove that the deceased held another insurance policy and that the company had failed to provide such proof."
+      ],
+      "respondent_arguments": [
+        "The respondent attempted to introduce documents to prove the existence of other policies, but did so at a late stage in the proceedings (before the Supreme Court) after failing to lead adequate evidence before the District Forum."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether there is a distinction between 'burden of proof', which never shifts, and 'onus of proof', which is a continuous shifting process in the evaluation of evidence.",
+      "appellant_arguments": [
+        "The text does not show the appellant making a specific legal argument on this distinction. However, their practical argument was that the ultimate burden of proof rested on the insurer to prove suppression, and this burden was not met."
+      ],
+      "respondent_arguments": [
+        "The text does not show the respondent making a specific legal argument on this distinction."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the insured's negative answer to a query about the revival of a previous policy amounted to a suppression of a material fact.",
+      "appellant_arguments": [
+        "The appellant argued that there was no material suppression of fact because the insurance company had not proven that the deceased actually had any other insurance policy."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the claim was correctly repudiated on the ground of suppression of material information about existing policies. They also argued that the proposer was responsible for the contents of the form he signed, regardless of who filled it out."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Insurance Act, 1938",
+        "section": "45",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "101, 102, 103, 105, 106",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sushilaben Indravadan Gandhi v. New India Assurance Co. Ltd.",
+        "citation": "(2021) 7 SCC 151",
+        "principle": "Any exemption of liability clause in an insurance contract must be construed, in case of ambiguity, contra proferentem against the insurer.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Export Credit Guarantee Corpn. (India) Ltd. v. Garg Sons International",
+        "citation": "(2014) 1 SCC 686",
+        "principle": "The contra proferentem rule should be applied to standard form insurance contracts, and they should be interpreted in a way that would be favourable to the assured.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Mithoolal Nayak v. Life Insurance Corporation of India",
+        "citation": "AIR 1962 SC 814",
+        "principle": "To explain the scope of Section 45 of the Insurance Act, which provides that after two years, a life insurance policy cannot be called into question by an insurer on the ground of an inaccurate or false statement, subject to the exceptions laid out in the proviso to the section.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "United India Insurance Co. Ltd. v. Orient Treasures (P) Ltd.",
+        "citation": "(2016) 3 SCC 49",
+        "principle": "It was cited for quoting the definition of the contra proferentem rule from Halsbury’s Laws of England.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The burden of proving a fact rests on the party who substantially asserts the affirmative of the issue. The onus of proof cannot be shifted to the other party until the asserting party has discharged its burden by leading necessary evidence.",
+    "obiter": [
+      "When two interpretations of a document are possible, the one which gives effect and meaning to all its parts should be adopted.",
+      "In cases of ambiguity in a standard form contract, the contra proferentem rule applies, meaning the document should be interpreted in a way that is favourable to the assured.",
+      "A proposer who appends their signature to a proposal form is not absolved of the consequences by claiming to be unaware of the form's contents.",
+      "It is for the court to rule as a matter of law whether a particular fact is capable of being material, depending on the circumstances of the case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that there was no suppression of any material fact by the insured. The specific queries in the proposal form were deemed ambiguous, and based on the contra proferentem rule, this ambiguity was interpreted against the insurer who drafted the form. Consequently, the insured's negative answers to these unclear questions could not be considered a breach of the duty of good faith that would justify the repudiation of the policy.",
+    "legal_tests_applied": [
+      "Principle of Utmost Good Faith: The court affirmed that insurance contracts are governed by the principle of utmost good faith, which imposes reciprocal duties of disclosure on both the insurer and the insured to ensure a fair contract and informed decision-making. [Para 32]",
+      "Materiality as a Question of Fact: The court held that not every suppressed fact is material, and the materiality of a fact must be adjudged based on the specific circumstances and rules of each case. [Para 32]",
+      "Contra Proferentem Rule: The court applied the rule that if a clause in a contract, particularly an exemption of liability clause in an insurance policy, is ambiguous, it must be construed against the party who drafted it (the insurer) and in favor of the other party (the insured). [Para 46.6, 52]"
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Reciprocal Duties of Disclosure: The court emphasized that the principle of utmost good faith is not one-sided; it imposes 'meaningful reciprocal duties' on both the insured to disclose material facts and the insurer to be clear about the terms and conditions of the policy and the questions in the proposal form. [Para 32, Manmohan Nanda v. United India Insurance Co. Ltd.]",
+      "Fairness in Contract Interpretation: The application of the contra proferentem rule serves the policy of fairness by ensuring that the party who drafts a contract (the insurer) cannot benefit from ambiguities of their own making, especially in contracts of adhesion where one party has significantly more bargaining power. [Para 46.5, 46.6]"
+    ]
+  },
+  "evidence_map": {
+    "ratio_decidendi.ratio": [
+      "p29_fe4d003f"
+    ]
+  }
+}

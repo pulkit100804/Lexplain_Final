@@ -1,0 +1,110 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Summoning order dated 24.08.2017 passed by the Trial Court under Section 319.",
+    "high_court_proceedings": "The Appellants challenged the Trial Court's summoning order by filing a petition under Section 482 Cr.P.C. before the High Court of Judicature at Allahabad. The High Court dismissed the petition on 04.04.2023, noting that at the stage of Section 482, the Court is only supposed to see if there exists a prima-facie case.",
+    "supreme_court_posture": "The Appellants approached the Supreme Court challenging the High Court's order dated 04.04.2023 dismissing their petition under Section 482 Cr.P.C. The Supreme Court allowed the appeals, set aside the Trial Court's summoning order dated 24.08.2017 and the High Court's judgment dated 04.04.2023, finding that the Trial Court erred in allowing the application under Section 319 and issuing summons to the appellants and that the High Court should have exercised its jurisdiction under Section 482 to quash the order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "The impugned order dated 04.04.2023 passed by the High Court of Judicature at Allahabad in Application under Section 482 No. 30221 of 2017 and the order dated 24.08.2017 passed by the Additional District and Sessions Judge, Court No. 5, Kanpur Dehat, in S.T. No. 434 of 2011 in Application Paper No. 83Kha under Section 319 Cr.P.C. are hereby set aside."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the power under Section 319 Cr.P.C. has been properly exercised in light of the facts of the present case and evidence on record, and whether there is sufficient material against the Appellant prompting the Trial Court to pass a summoning order.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The first informant (PW-1) initially named the appellants in the FIR but later, in her statement under Section 161 Cr.P.C., stated she had named them falsely due to a long-standing family enmity and that they were not involved.",
+          "The appellants were not named as accused in the charge sheet filed by the police.",
+          "During her deposition before the trial court, the first informant, who was not an eyewitness, once again named the appellants.",
+          "Based on this deposition, the prosecution filed an application under Section 319 Cr.P.C. to summon the appellants.",
+          "No other witnesses deposed against the appellants, and there was no documentary evidence or any specific role attributed to them."
+        ],
+        "law": [
+          "The power to summon an additional accused under Section 319 Cr.P.C. is a discretionary and extraordinary power.",
+          "The degree of satisfaction required to exercise this power is much stricter than for framing a charge.",
+          "The evidence must be strong and reliable, requiring much more than a mere probability of the person's complicity.",
+          "The standard is that the evidence, if left unrebutted, should likely result in the conviction of the person being summoned."
+        ],
+        "application": [
+          "The Court found that the sole basis for the summoning order was the deposition of the first informant (PW-1).",
+          "It held that since PW-1 was not an eyewitness and had previously admitted to falsely implicating the appellants due to enmity, her deposition was not sufficient to invoke the extraordinary jurisdiction under Section 319.",
+          "The Court noted the complete absence of any other evidence—testimonial or documentary—to support the informant's deposition.",
+          "Considering these factors holistically, the Court determined that the evidence on record did not meet the 'higher degree of satisfaction' required by law to summon the appellants."
+        ],
+        "conclusion": "The Supreme Court concluded that the Trial Court had committed a serious error in exercising its power under Section 319 Cr.P.C., as the evidence was insufficient to meet the high standard required. The High Court also erred by failing to quash the summoning order. Consequently, the Court allowed the appeal and set aside the orders of both the Trial Court and the High Court."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the power under Section 319 Cr.P.C. has been properly exercised in light of the facts of the present case and evidence on record, and whether there is sufficient material against the Appellant prompting the Trial Court to pass a summoning order.",
+      "appellant_arguments": [
+        "The appellants were not named as accused in the chargesheet filed after the investigation.",
+        "The witness (PW-1), based on whose deposition the summoning order was passed, is not an eyewitness to the incident.",
+        "The testimony of PW-1 is unreliable, as she had previously stated that the appellants were not involved in the murder of her son.",
+        "The evidence on record, specifically the deposition of a non-eyewitness, is not sufficient to meet the high threshold required to invoke the extraordinary jurisdiction under Section 319 Cr.P.C."
+      ],
+      "respondent_arguments": [
+        "The statement made by the witness (PW-1) during her examination-in-chief before the Trial Court implicated the appellants.",
+        "This deposition constitutes sufficient evidence to summon the appellants under Section 319 Cr.P.C. to face trial."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "319",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hardeep Singh v. State of Punjab",
+        "citation": "(2014) 3 SCC 92",
+        "principle": "For a court to exercise its extraordinary jurisdiction under Section 319 Cr.P.C., it must be satisfied that the evidence adduced on behalf of the prosecution, if unrebutted, may lead to the conviction of the person sought to be added as an accused. This requires a higher degree of satisfaction.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "To exercise the extraordinary jurisdiction under Section 319 of the Criminal Procedure Code, the court must arrive at a satisfaction, based on evidence, that if the evidence were to go unrebutted, it would lead to the conviction of the person sought to be added as an accused.",
+    "obiter": [
+      "The standard for a court reviewing an order under Section 319 Cr.P.C. is not merely to see if a prima-facie case exists."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When all the factors are looked at in a holistic manner, it is clear that the higher degree of satisfaction required for exercising the extraordinary power under Section 319 Cr.P.C. was not met. The deposition of PW-1, who was not an eye-witness, is not sufficient enough to invoke this jurisdiction, especially in the absence of any other witnesses, documentary evidence, or any attributed role to the appellants.",
+    "legal_tests_applied": [
+      "To exercise the extraordinary jurisdiction under Section 319 Cr.P.C., the court must satisfy itself about the existence of an exceptional circumstance.",
+      "The court must arrive at a satisfaction that the evidence adduced on behalf of the prosecution, if unrebutted, may lead to the conviction of the persons sought to be added as accused.",
+      "The exercise of power under Section 319 Cr.P.C. requires a 'higher degree of satisfaction' than what is required for framing a charge."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The deposition of the sole witness (PW-1) was insufficient to summon the appellants as she was not an eye-witness to the incident.",
+      "The appellants were not named as accused in the chargesheet that was filed after the completion of the investigation.",
+      "There were no other witnesses who deposed against the appellants.",
+      "There was no documentary evidence collected by the prosecution against the appellants.",
+      "There was absolutely no role in the commission of the crime attributed to the appellants.",
+      "The High Court erred in failing to exercise its jurisdiction under Section 482 to quash the summoning order, as it incorrectly applied a prima-facie standard instead of the required higher degree of satisfaction."
+    ],
+    "policy_considerations": [
+      "The power under Section 319 Cr.P.C. is an extraordinary jurisdiction that can only be exercised in exceptional circumstances, requiring a higher degree of satisfaction from the court to prevent the misuse of this power."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p10_dbfc5e35"
+    ]
+  }
+}

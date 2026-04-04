@@ -1,0 +1,128 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court since the High Court appeal concerned a conviction under Section 302 IPC (murder) and Sections 148/149 IPC (rioting).",
+    "impugned_order": "The final judgment and order dated 28.02.2012 passed by the High Court of Judicature at Allahabad in Criminal Appeal No. 1649 of 1983.",
+    "high_court_proceedings": "The High Court of Judicature at Allahabad dismissed Criminal Appeal No. 1649 of 1983. The High Court upheld the appellant's conviction under Section 302 IPC and further convicted the appellant for commission of offences punishable under Section 148/149 IPC.",
+    "supreme_court_posture": "The appellant (A-1), feeling aggrieved by the High Court's order, filed an appeal in the Supreme Court after obtaining special leave to appeal."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "Acquitted of the charges framed under Section 302 read with Section 148/149 IPC",
+    "sentence_status": "Sentence set aside",
+    "directions": [
+      "The impugned order is set aside."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the appellant's conviction under Section 148/149 of the Indian Penal Code (IPC) was legally sustainable, especially when five co-accused were acquitted of the same charges and the State did not appeal this acquittal.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant and five other co-accused were charged under Sections 148/149 of the Indian Penal Code (IPC).",
+          "The Sessions Judge acquitted all six accused, including the appellant, of the charges under Sections 148/149 IPC.",
+          "The State did not appeal the acquittal of the appellant or the five co-accused on these charges.",
+          "In an appeal filed by the appellant against a different conviction (under Section 302 IPC), the High Court convicted him under Sections 148/149 IPC.",
+          "The prosecution's case was limited to the six named accused and did not allege the involvement of any other unknown persons."
+        ],
+        "law": [
+          "A conviction under Section 149 of the IPC requires the existence of an \"unlawful assembly,\" which must consist of at least five persons.",
+          "An acquittal by a trial court becomes final if it is not challenged by the State through an appeal.",
+          "An appellate court cannot convict an accused of a charge for which they were acquitted by a lower court if that acquittal was not appealed by the State."
+        ],
+        "application": [
+          "The Court found the conviction unsustainable for multiple reasons. First, there was a procedural bar. Since the State never appealed the appellant's acquittal under Sections 148/149 by the Sessions Judge, that decision had become final. The High Court had no jurisdiction to overturn this acquittal in an appeal filed by the appellant himself.",
+          "Second, the Court found the conviction substantively flawed. For a conviction under Section 149 IPC, there must be an unlawful assembly of at least five people. As the five co-accused had been acquitted of this charge, the appellant alone could not constitute an unlawful assembly.",
+          "The Court also noted that the prosecution never claimed that other, unknown persons were involved. Therefore, with the acquittal of the five named co-accused, the basis for the unlawful assembly charge against the appellant collapsed."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court's conviction of the appellant under Sections 148/149 IPC was not legally sustainable, both on procedural grounds and on the facts of the case. Consequently, the conviction was set aside."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the appellant's conviction under Section 302 of the Indian Penal Code (IPC) was factually and legally sustainable.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted under Section 302 of the Indian Penal Code (IPC) for the murder of a person named 'S' by a gunshot.",
+          "The prosecution's case was that the appellant, along with others, surrounded 'S' and fired shots, causing his death."
+        ],
+        "law": [
+          "Section 302 of the Indian Penal Code (IPC) pertains to the punishment for murder."
+        ],
+        "application": [
+          "The Supreme Court found that the conviction was not factually or legally sustainable for several reasons.",
+          "First, the Court determined there was no evidence to prove that the appellant was the person who fired the specific gunshot that killed 'S'.",
+          "Second, the ballistic report did not support the prosecution's case. It concluded that the cartridges recovered from the scene could not have been fired from the rifle belonging to the appellant.",
+          "Third, the Court noted a procedural issue: the rifle in question was not seized by the police immediately after the incident but was instead surrendered by the appellant in court at a later time."
+        ],
+        "conclusion": "Due to the lack of evidence proving the appellant fired the fatal shot and the contradictory ballistic report, the Supreme Court concluded that the appellant was entitled to the benefit of the doubt. It held that the conviction under Section 302 IPC was not sustainable and acquitted the appellant of the charge."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the appellant's conviction under Section 148/149 of the Indian Penal Code (IPC) was legally sustainable, especially when five co-accused were acquitted of the same charges and the State did not appeal this acquittal.",
+      "appellant_arguments": [
+        "The High Court was not justified in convicting the appellant under Section 148/149 IPC because the Sessions Judge had already acquitted him of these charges.",
+        "The State never filed an appeal against the appellant's acquittal under Section 148/149 IPC by the Sessions Judge, meaning the acquittal had attained finality and could not be revisited by the High Court in an appeal filed by the accused."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments on this issue."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the appellant's conviction under Section 302 of the Indian Penal Code (IPC) was factually and legally sustainable.",
+      "appellant_arguments": [
+        "The provided text does not detail the specific arguments made by the appellant against the Section 302 conviction, but the filing of the appeal indicates they argued for the conviction to be overturned."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments on this issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "148",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A conviction under Sections 148/149 of the Indian Penal Code is legally unsustainable where the trial court's acquittal on that charge has attained finality due to the State not filing an appeal. Furthermore, such a conviction cannot be sustained against a single accused when all co-accused have been acquitted of the same charges.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court's conviction of the appellant under Section 148/149 IPC was legally unsustainable because the appellant had already been acquitted of these charges by the Sessions Judge, and that acquittal had become final as the State never filed an appeal against it. Consequently, the conviction under Section 302 IPC was also set aside, with the court granting the appellant the benefit of the doubt.",
+    "legal_tests_applied": [
+      "Principle of Finality of Judgment: An acquittal by a lower court becomes final if the State does not challenge it through an appeal, precluding a higher court from revisiting that acquittal in an appeal filed by the accused.",
+      "Appellate Jurisdiction Limitation: In an appeal filed by an accused, an appellate court has no occasion to examine and overturn an acquittal on a charge when the State has not appealed that specific part of the judgment.",
+      "Unlawful Assembly Requirement: A conviction under Section 149 IPC cannot be sustained against a single accused when all other co-accused, who were alleged to be part of the same unlawful assembly, have been acquitted of the charge.",
+      "Benefit of the Doubt: An accused is entitled to be acquitted if the court holds a reasonable doubt about the factual and legal sustainability of the charges against them."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Upholding the finality of judicial orders is crucial; an acquittal cannot be overturned in an appeal filed by the accused if the State has chosen not to challenge it, as this would violate principles of procedural fairness and double jeopardy."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,176 @@
+{
+  "procedural_history": {
+    "originating_court": "Labour Court (application under section 61)",
+    "impugned_order": "Order of the Industrial Court remanding an application under section 61 to the Labour Court.",
+    "high_court_proceedings": "The respondent-company filed Writ petitions (Misc. Petitions Nos; 77 !o 81 of 1979) before the High Court of Madhya Pradesh, Jabalpur at Indore under Arts. 226 and 227 of the Constitution questioning the correctness of the decision of the Industrial Court. A Division Bench of the High Court held that the Industrial Court exceeded its jurisdiction by interfering with the findings of facts and this was in error apparent on the face of the award. Accordingly, it issued a writ of certiorari and quashed the decision of the Industrial Court.",
+    "supreme_court_posture": "The appeals to the Supreme Court were filed by special leave against the judgment and order of the Madhya Pradesh High Court. The Supreme Court allowed the appeals, set aside the decision of the High Court, and restored the decision of the Industrial Court."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "The decision of the High Court is set aside and the one of the Industrial Court is restored.",
+    "sentence_status": "The decision of the High Court is set aside and the one of the Industrial Court is restored.",
+    "directions": [
+      "With costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court, in the exercise of its extraordinary jurisdiction under Articles 226 and 227, was justified in interfering with a remand order of the Industrial Court.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The Industrial Court reviewed a decision from the Labour Court concerning dismissed workmen.",
+          "The Industrial Court found that the employer's inquiry was 'biased and unfair,' the conclusions were 'neither fair nor reasonable,' and the Labour Court had committed a 'material irregularity' by failing to properly examine the propriety of the employer's order.",
+          "Instead of deciding the matter itself, the Industrial Court set aside the Labour Court's award and remanded the case back to the Labour Court for a fresh decision.",
+          "The employer company challenged this remand order in the High Court through a writ petition under Articles 226 and 227.",
+          "The High Court agreed with the employer, holding that the Industrial Court had exceeded its jurisdiction, and consequently quashed the remand order."
+        ],
+        "law": [
+          "Courts exercising extraordinary jurisdiction under Articles 226 and 227 are ordinarily loathe to interfere with an order that remands a matter back to a lower authority for investigation of facts.",
+          "The jurisdiction under Article 226 is intended to be a 'device to secure and advance justice and not otherwise.'",
+          "The Labour Court has the jurisdiction to examine not just the legality but also the 'propriety' of an employer's order, which is a broader standard than just looking for perversity.",
+          "The Industrial Court has revisional jurisdiction to interfere if the Labour Court commits a material irregularity or fails to exercise the jurisdiction vested in it."
+        ],
+        "application": [
+          "The Supreme Court found that the Industrial Court's decision to remand was 'eminently just' and well within its jurisdiction. The Industrial Court had correctly identified significant flaws in the original inquiry and the Labour Court's review, such as overlooking material evidence and a biased approach.",
+          "The Court noted that the Industrial Court acted with 'dignified restraint' by simply remanding the case for a fresh decision rather than re-appraising the evidence itself.",
+          "In contrast, the High Court was found to have 'completely missed the ambit of jurisdiction of the Labour Court' by incorrectly narrowing the scope of 'propriety' to mean 'perversity.'",
+          "The Supreme Court criticized the High Court's interference as 'uncalled for,' stating that it gave 'undue importance to a technical objection of jurisdiction.'",
+          "This interference, the Court concluded, did not advance justice but instead 'merely prolonged the agony of the unemployed workmen' by allowing the legal process to be exploited to their detriment."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was not justified in interfering with the Industrial Court's remand order. The High Court had misread the law regarding the jurisdiction of the lower industrial tribunals and its interference with a just and reasonable remand order frustrated the purpose of securing substantial social justice. Therefore, the Supreme Court set aside the High Court's decision and restored the Industrial Court's order."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Industrial Court, under Section 66(1) of the Act, has the jurisdiction to examine a case from the Labour Court and arrive at a different conclusion on the same set of facts.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact_text": "Section 66(1) of the Act grants the Industrial Court the power to call for and examine the record of a case decided by a Labour Court and \"pass order in reference thereto as it thinks fit.\"",
+            "reasoning": "This main clause suggests a very wide and ample jurisdiction for the Industrial Court."
+          },
+          {
+            "fact_text": "This broad power is limited by a proviso, which states that the Industrial Court cannot vary or reverse a Labour Court's order unless it is satisfied that the Labour Court has acted without jurisdiction, failed to exercise its jurisdiction, or \"acted with material irregularity.\"",
+            "reasoning": "The Court had to interpret the scope of this proviso, particularly the phrase \"material irregularity,\" to determine the extent of the Industrial Court's power."
+          }
+        ],
+        "application": [
+          {
+            "fact_text": "The Supreme Court reasoned that the proviso, while limiting the main provision, cannot be interpreted so strictly that it renders the main provision ineffective or a \"paper provision.\"",
+            "reasoning": "The Court sought to balance the broad power granted in the main clause with the limitations set by the proviso to avoid a miscarriage of justice."
+          },
+          {
+            "fact_text": "The Court interpreted the phrase \"material irregularity\" to include situations where the Labour Court's finding is perverse.",
+            "reasoning": "A finding is considered perverse if it is one \"to which no reasonable man can arrive\" or is based on no material evidence. Such a finding is not merely an error of fact or law, but a flaw in the manner the decision was reached."
+          },
+          {
+            "fact_text": "The Court cited its own precedent in *Swadesh Kumar Bhatnagar* and a Madhya Pradesh High Court Full Bench decision, which established that the Industrial Court can interfere with findings of fact if they are perverse, arbitrary, or based on no material.",
+            "reasoning": "By relying on these precedents, the Court affirmed that the Industrial Court's revisional jurisdiction is not as narrow as a typical civil revision and allows for interference in cases of serious mistakes or perverse findings."
+          }
+        ],
+        "conclusion": "The Supreme Court concluded that the Industrial Court does have the jurisdiction under Section 66(1) to examine a case from the Labour Court and arrive at a different conclusion on the same set of facts. This power is exercisable if the Industrial Court finds that the Labour Court has \"acted with material irregularity,\" which includes reaching a finding that is perverse, arbitrary, or one that no reasonable person could have made based on the evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court, in the exercise of its extraordinary jurisdiction under Articles 226 and 227, was justified in interfering with a remand order of the Industrial Court.",
+      "appellant_arguments": [
+        "The High Court was not justified in interfering with the remand order passed by the Industrial Court."
+      ],
+      "respondent_arguments": [
+        "The High Court was justified in interfering with the Industrial Court's decision, as evidenced by the respondent filing petitions in the High Court to challenge that decision."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the Industrial Court, under Section 66(1) of the Act, has the jurisdiction to examine a case from the Labour Court and arrive at a different conclusion on the same set of facts.",
+      "appellant_arguments": [
+        "The Industrial Court has the jurisdiction to examine a case from the Labour Court and remand it for a fresh decision."
+      ],
+      "respondent_arguments": [
+        "The Industrial Court did not have the jurisdiction to interfere with the Labour Court's findings and remand the matter."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Act (unspecified)",
+        "section": "Sec. 66(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (unspecified)",
+        "section": "Schedule II item I",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Art. 226",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Art. 227",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Standing Order",
+        "section": "12(f)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sadhu Ram v. Delhi Transport Corporation",
+        "citation": "(1)",
+        "principle": "Art. 226 is a device to secure and advance justice and not otherwise.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Raja Ram Mahadev Paranjype and Ors. v. Aba Maruti Mali and Ors.",
+        "citation": "[1962] Suppl. l.SCR 739",
+        "principle": "For the interpretation of the expression 'as he deems fit', which the Court found to have the same connotation as 'as it thinks fit' in the context of conferring wide jurisdiction.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The jurisdiction of a Labour Court to decide the 'legality and propriety' of an employer's order is a wide power, not limited to reviewing for perversity, and enables the court to set aside the order based on the facts and circumstances of the case. The Industrial Court's power to pass an order 'as it thinks fit' confers a very wide jurisdiction, allowing it to take an entirely different view on the same set of facts from the Labour Court.",
+    "obiter": [
+      "Article 226 is a device to secure and advance justice and not otherwise."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Industrial Court possesses broad jurisdiction under Section 66(1) of the Act, signified by the phrase \"as it thinks fit,\" to review the \"propriety\" or \"justness\" of a Labour Court's decision and arrive at a different conclusion on the same facts. The High Court, therefore, erred in exercising its extraordinary jurisdiction under Articles 226 and 227 to interfere with the Industrial Court's just remand order, as it misconstrued the scope of the lower courts' powers and prioritized technicalities over substantial justice.",
+    "legal_tests_applied": [
+      "Interpretation of Section 66(1) of the Act: The phrase \"as it thinks fit\" confers a very wide jurisdiction on the Industrial Court, enabling it to take an entirely different view on the same set of facts as the Labour Court.",
+      "Interpretation of \"Propriety\": When a Labour Court is conferred with jurisdiction to examine the \"propriety\" of an order, it can assess its \"justice\" or \"justness,\" giving it the same jurisdiction as the original authority to come to a different conclusion on the same set of facts. Propriety is not to be narrowly equated with the absence of perversity.",
+      "Standard for High Court's Extraordinary Jurisdiction: The jurisdiction under Article 226 is a \"device to secure and advance justice and not otherwise,\" and should not be used to give undue importance to technical objections over substantial social justice."
+    ],
+    "why_appellant_lost": [
+      "The High Court completely misunderstood the scope of the Labour Court's jurisdiction, wrongly equating the examination of 'impropriety' with the much narrower standard of 'perversity'.",
+      "The High Court's view that labour tribunals cannot sit in judgment over an employer's decision if it is a 'plausible conclusion' from the evidence 'betrays complete fack of understanding of the jurisdiction of th' Labour Court' to examine the legality and propriety of the order.",
+      "The High Court wholly misread the relevant legal provisions and interfered with a decision of the Industrial Court that was 'pre-eminently just and within the four corners of its jurisdiction.'"
+    ],
+    "why_respondent_won": [
+      "Under Section 66(1), the Industrial Court's power to pass any order 'as it thinks fit' gives it wide jurisdiction to 'come to a conclusion on the same set of facts different from the one to which the Labour Court had arrived.'",
+      "The Labour Court's authority to examine the 'propriety' of an order allows it to question the 'justice or the justness' of the proceeding, giving it the same power as the original authority to reach a different conclusion on the facts.",
+      "The Industrial Court's decision to remand the case to the Labour Court for a fresh decision was an 'eminently just order' and well within its jurisdictional powers."
+    ],
+    "policy_considerations": [
+      "Legal procedures should not be used 'to defeat justice and to· promote technicality' or become 'a handy instrument for those to whoni litigation cost is a luxury enjoyed at the cost of· others and employed to- exhaust and harass an unequal opponent.'",
+      "The High Court should not give 'undue importance to a technical objection of jurhdiction' that would set aside a 'well-con,idered reasoned judgment' and prolong 'the agony of the unemployed workers commencing from 1975.'",
+      "The extraordinary jurisdiction under Article 226 is intended 'to secure and advance justice and not otherwise.'"
+    ]
+  },
+  "evidence_map": {}
+}

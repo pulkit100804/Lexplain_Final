@@ -1,0 +1,60 @@
+{
+  "case_id": "9342849e-292e-4a23-a5a6-320dee880d05",
+  "tenant_id": "case1_tenant",
+  "agent": "agent_4a_entity_extractor",
+  "input_refs": [
+    "role_tagged_graph.json"
+  ],
+  "created_at": "2026-03-19T11:58:57.664897+00:00",
+  "entities": [
+    {
+      "type": "actor",
+      "value": "accused",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_001"
+    },
+    {
+      "type": "actor",
+      "value": "victim",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_002"
+    },
+    {
+      "type": "object",
+      "value": "iron rod",
+      "source_node_ids": [
+        "n_003",
+        "n_001"
+      ],
+      "entity_id": "ent_003"
+    },
+    {
+      "type": "location",
+      "value": "the hospital",
+      "source_node_ids": [
+        "n_002"
+      ],
+      "entity_id": "ent_004"
+    },
+    {
+      "type": "location",
+      "value": "s residence",
+      "source_node_ids": [
+        "n_003"
+      ],
+      "entity_id": "ent_005"
+    },
+    {
+      "type": "time",
+      "value": "On the evening of 5th July",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_006"
+    }
+  ]
+}

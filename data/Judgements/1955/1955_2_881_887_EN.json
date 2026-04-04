@@ -1,0 +1,92 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of the 4th Presidency Magistrate, Bombay in Cases Nos. 639-40/P-1955, which issued a Judgment and Order dated the 6th January 1954.",
+    "impugned_order": "Judgment and order dated the 8th October 1954 of the Bombay High Court in Criminal Appeal No. 315 of 1954.",
+    "high_court_proceedings": "The High Court rejected accused No. 1's application for leave to appeal. The High Court acquitted accused 2, 3, and 4 of the charge under section 120-B of the Indian Penal Code but was of the opinion that the deed of assignment put forward by accused No. 1 was false and fabricated.",
+    "supreme_court_posture": "Accused No. 1 appealed to the Supreme Court by Special Leave. The Special Leave was limited to the question of law: whether the conviction under section 120-B is maintainable given the acquittal of the other alleged conspirators. The Supreme Court allowed the appeal in part, quashing the conviction under section 120-B of the Indian Penal Code and the associated sentence. The convictions and sentences for offences under section 471 read with section 465, and the three offences under section 420 of the Indian Penal Code, were upheld."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed",
+    "conviction_status": "The conviction of the accused No. 1 of the charge under section 120-B of the Indian Penal Code is quashed. The convictions of the accused No. 1 of the offences under section 471 read with section 465 and for each of the three offences under section 420 of the Indian Penal Code will stand.",
+    "sentence_status": "The sentence of rigorous imprisonment of 18 months awarded to accused No. 1 as the result of the conviction under section 120-B is quashed. The concurrent sentences of rigorous imprisonment for one year in respect of each of the other convictions will stand.",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of a single person for criminal conspiracy under Section 120-B of the Indian Penal Code is legally maintainable when all other alleged co-conspirators have been acquitted.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Four named individuals (accused Nos. 1, 2, 3, and 4) were charged with criminal conspiracy under Section 120-B of the Indian Penal Code.",
+          "Three of the accused (Nos. 2, 3, and 4) were acquitted of the conspiracy charge.",
+          "Only one person, accused No. 1, was convicted of the conspiracy charge.",
+          "The charge was specific to the four named individuals and did not allege a conspiracy with \"other persons unknown\"."
+        ],
+        "law": [
+          "Section 120-A of the Indian Penal Code defines criminal conspiracy as an agreement between \"two or more persons\" to do an illegal act or a legal act by illegal means.",
+          "By its very definition, a criminal conspiracy requires the participation of at least two people."
+        ],
+        "application": [
+          "The Court reasoned that it is a logical impossibility for one person alone to be guilty of criminal conspiracy, as one cannot conspire with oneself.",
+          "Since the charge was specifically against four named individuals, and three of them were acquitted, only one person remained.",
+          "To convict the single remaining person would create a legal contradiction on the record, as it would imply he conspired with people who were found not to be conspirators.",
+          "The Court noted that if all but one of the named defendants in an indictment are acquitted, and the indictment does not mention conspiracy with unknown persons, the conviction of the single remaining defendant is invalid."
+        ],
+        "conclusion": "The Supreme Court concluded that the conviction of the single accused person for criminal conspiracy was legally unsustainable and \"clearly illegal.\" Because a conspiracy requires an agreement between two or more people, it is impossible to convict one person for the offense when all of their specifically named co-conspirators have been acquitted."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of a single person for criminal conspiracy under Section 120-B of the Indian Penal Code is legally maintainable when all other alleged co-conspirators have been acquitted.",
+      "appellant_arguments": [
+        "The appellant argued that a single accused person cannot be held guilty of the offence of criminal conspiracy when all of their alleged co-conspirators have been acquitted of the same charge.",
+        "The appellant cited a precedent where three persons were charged with conspiracy; one pleaded guilty and was convicted, but the other two were acquitted. In that case, the conviction of the person who pleaded guilty was subsequently overturned, supporting the principle that a conspiracy conviction cannot stand against a single individual if all co-conspirators are found not guilty."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments made by the respondent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "120-B",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Unnamed case",
+        "citation": "Not provided in text",
+        "principle": "Where three persons were charged jointly with conspiracy, and one pleaded guilty and had a judgment passed against him, but the other two were subsequently acquitted, the judgment against the person who pleaded guilty could not stand.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Unnamed case quoting Chitty's Criminal Law",
+        "citation": "Not provided in text (Statement by Lord Justice Bruce at page 347, quoting Chitty's Criminal Law, 2nd ed., Vol. III, page 1141)",
+        "principle": "To support the legal proposition that a person cannot be convicted of conspiracy if their alleged co-conspirators are acquitted, as the crime requires more than one person.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "If all defendants mentioned in an indictment for conspiracy are acquitted except for one, the conviction of that single defendant is invalid, unless the indictment includes a charge of conspiracy with persons unknown.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The position in law is clear that on a charge as it was framed against multiple accused in this case, one accused could not be convicted of the offence under section 120-B of the Indian Penal Code when his alleged co-conspirators were acquitted of that same offence. The court held that such a conviction was clearly illegal.",
+    "legal_tests_applied": [
+      "If all the defendants mentioned in the indictment for conspiracy, except one, are acquitted, and it is not stated as a conspiracy with certain persons unknown, the conviction of the single defendant will be invalid, and no judgment can be passed upon him.",
+      "It logically follows from the nature of the offence of conspiracy that where two or more persons are charged in the same indictment with conspiracy with one another, and all but one are acquitted, the remaining person cannot be convicted of conspiracy."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

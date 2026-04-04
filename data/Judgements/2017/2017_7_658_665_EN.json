@@ -1,0 +1,83 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from the text)",
+    "impugned_order": "Final Judgment and Order dated 21.04.2015 passed by the High Court of Judicature at Allahabad in Criminal Appeal No. 615 of 2008.",
+    "high_court_proceedings": "The accused, aggrieved by the judgment of the Trial Court, filed Criminal Appeal No. 615 of 2008 before the High Court. The High Court dismissed the appeal.",
+    "supreme_court_posture": "The accused filed an appeal by way of special leave before the Supreme Court (Criminal Appeal No. 1525 of 2017) against the High Court's judgment. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether any case for interference in the quantum of sentence awarded to the appellant is made out.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appeal was limited to the question of whether the sentence of life imprisonment, awarded for an offence under Section 307 of the IPC (attempt to murder), should be reduced.",
+          "The appellant's counsel argued that since the victim survived the gunshot injury, the sentence should have been limited to a maximum of 10 years.",
+          "The counsel also argued that the appellant had already been in custody for 10-12 years, and the sentence should be reduced to the time already served."
+        ],
+        "law": [
+          "When deciding on a sentence, a court must consider several factors: the nature and gravity of the offence, the manner in which it was committed, the motive, the nature of the injuries, the weapons used, and any other extenuating circumstances.",
+          "Once a court has properly considered these factors, there is little scope for an appellate court to interfere with the quantum of the punishment."
+        ],
+        "application": [
+          "The Supreme Court found that the two lower courts (the Sessions Court and the High Court) did not commit any error and had properly exercised their judicial discretion in light of the proven facts when awarding the life sentence.",
+          "The Court determined that the lower courts had considered the necessary factors for sentencing, and therefore, there was little scope for it to interfere.",
+          "The Court also distinguished a case cited by the appellant's counsel, noting that it was not applicable to the facts of the present case."
+        ],
+        "conclusion": "The Supreme Court concluded that there was no good ground to alter the punishment awarded by the lower courts and therefore rejected the appellant's case for interference in the quantum of the sentence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether any case for interference in the quantum of sentence awarded to the appellant is made out.",
+      "appellant_arguments": [
+        "The lower courts erred in awarding \"life imprisonment\" for an offence punishable under Section 307 of the IPC.",
+        "The appellant has already been in custody for 10 to 12 years, and it would be just and proper to reduce the sentence to the period already served."
+      ],
+      "respondent_arguments": [
+        "The impugned order from the lower court is correct and does not require any interference."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "307",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An appellate court will not interfere with a sentence awarded by a lower court where the lower court has not committed any error in exercising its judicial discretion in light of the facts found proved.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found no grounds to interfere with the sentence of life imprisonment because the lower courts did not commit any error in exercising their judicial discretion. The sentence was awarded after considering the relevant factors of the case, and once those factors are properly considered, there is little scope for an appellate court to alter the quantum of punishment.",
+    "legal_tests_applied": [
+      "When sentencing an accused, a court is required to take into account several factors: the nature of the offence committed, the manner in which it was committed, its gravity, the motive behind the commission of the offence, the nature of injuries sustained by the victim, whether the injuries were simple or grievous, the weapons used, and any other extenuating circumstances."
+    ],
+    "why_appellant_lost": [
+      "The Court concluded that the two lower courts did not commit any error in exercising their judicial discretion in light of the facts found proved while awarding life imprisonment to the appellant.",
+      "The Court held that once the required sentencing factors are considered by the lower courts, as they were in this case, there remains little scope for an appellate court to interfere in the quantum of punishment."
+    ],
+    "why_respondent_won": [
+      "The Court found that the punishment awarded by the Sessions Court was rightly affirmed by the High Court on the basis of the facts found proved."
+    ],
+    "policy_considerations": [
+      "Once the legally mandated factors for sentencing are considered by a trial court, there is little scope for an appellate court to interfere in the quantum of punishment, reflecting a principle of deference to the sentencing court's discretion."
+    ]
+  },
+  "evidence_map": {}
+}

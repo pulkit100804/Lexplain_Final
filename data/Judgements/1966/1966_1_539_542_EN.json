@@ -1,0 +1,100 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment and order dated July 31, 1963, of the Judicial Commissioner's Court Himachal Pradesh, in Criminal Appeal No. 7 of 1963, convicting the accused.",
+    "high_court_proceedings": "The Trial Court acquitted the accused persons of bigamy and abetment of bigamy. On appeal, the Judicial Commissioner of Himachal Pradesh convicted them.",
+    "supreme_court_posture": "The accused appealed to the Supreme Court by special leave from the judgment of the Judicial Commissioner's Court of Himachal Pradesh."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Bail bonds cancelled",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a conviction for bigamy under Section 494 of the Indian Penal Code can be based on the admissions of the accused when the evidence of the solemnization of the second marriage is insufficient to prove that the necessary ceremonies were performed.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused (K) was charged with bigamy for entering into a second marriage.",
+          "The trial court and the appellate court (Judicial Commissioner) both found that the evidence from the only witness to the second marriage was insufficient to prove that the essential ceremonies for a valid marriage had been performed.",
+          "Despite the lack of evidence for the ceremonies, the Judicial Commissioner convicted the accused based on certain admissions they had made in a separate legal proceeding.",
+          "In that proceeding, the accused had admitted to the second marriage but also claimed that her first marriage had been dissolved beforehand."
+        ],
+        "law": [
+          "In a bigamy case under Section 494 of the Indian Penal Code, the second marriage must be proven as a fact.",
+          "To prove the marriage as a fact, it is necessary to prove that the essential ceremonies required for its solemnization were performed.",
+          "An admission of marriage by the accused is not, by itself, considered sufficient evidence of the marriage for the purpose of proving an offense of bigamy or adultery."
+        ],
+        "application": [
+          "The Court first affirmed that the direct evidence of the marriage ceremony was insufficient, as the essential rites were not proven to have been performed.",
+          "The Court then evaluated the admissions used for the conviction and rejected them as a valid basis for two reasons.",
+          "First, the Court noted that if the admission were to be considered, it must be read as a whole. The full statement included the claim that the first marriage was dissolved, which, if true, would make the second marriage innocent.",
+          "Second, and more importantly, the Court applied the legal rule that an admission is not evidence of the fact of the marriage in a bigamy case. The prosecution must independently prove that the ceremonies constituting the marriage actually took place."
+        ],
+        "conclusion": "The Supreme Court rejected the conviction, holding that in a bigamy prosecution, the performance of the essential ceremonies of the second marriage must be proven as a fact. The admissions of the accused cannot be used as a substitute for this required evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a conviction for bigamy under Section 494 of the Indian Penal Code can be based on the admissions of the accused when the evidence of the solemnization of the second marriage is insufficient to prove that the necessary ceremonies were performed.",
+      "appellant_arguments": [
+        "The evidence presented was not sufficient to prove that the second marriage had been performed.",
+        "Relying on the precedent in Bhaurao Shankar Lokhande v. State of Maharashtra, a marriage is not considered proven unless the essential ceremonies required for its solemnization are proven to have been performed.",
+        "The testimony of the witness called to prove the marriage ceremonies showed that the essential ceremonies had not, in fact, been performed."
+      ],
+      "respondent_arguments": [
+        "It is not necessary to prove that all the ceremonies required for a particular form of marriage were observed, citing R. v. Robinson as support.",
+        "The admissions made by the accused were sufficient to prove the second marriage. Specifically, the respondent relied on a statement by the alleged second husband that he had a sexual relationship with the woman, and a statement filed by the woman in a separate case for restitution of conjugal rights where she admitted to marrying the second husband."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "494",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Hindu Marriage Act, 1955",
+        "section": "",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Bhaurao Shankar Lokhande v. State of Maharashtra",
+        "citation": "[1965] 2 S.C.R. 837",
+        "principle": "For a conviction for bigamy, it must be proven that the formalities required to create a valid marriage had been observed during the second marriage ceremony.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For an offence of bigamy, the second marriage must be proven to have been celebrated with the performance of all essential ceremonies required to constitute it as a valid marriage in law. The act of 'marrying' requires going through a form of marriage that is legally recognized as capable of producing a valid marriage.",
+    "obiter": [
+      "In R. v. Robinson, a marriage was invalid due to the absence of a necessary condition precedent as to residence, not because the formalities required to create a valid marriage had not been observed.",
+      "In V. Allen, a conviction for bigamy was upheld because the form adopted by the parties was clearly recognised by law as capable of producing a valid marriage, even though the marriage turned out to be invalid for other reasons."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "For a conviction of bigamy under Section 494 of the Indian Penal Code, the second marriage must be proven as a fact, which requires demonstrating that the essential ceremonies for its solemnization were performed. The court explicitly held that admissions by the accused cannot substitute for this proof, particularly when the direct evidence from witnesses shows that the essential ceremonies were, in fact, not performed.",
+    "legal_tests_applied": [
+      "A marriage is not proved unless the essential ceremonies required for its solemnisation are proved to have been performed."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p1_ac751894"
+    ]
+  }
+}

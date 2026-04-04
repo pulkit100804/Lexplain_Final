@@ -1,0 +1,99 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a trial court in Punjab or Haryana.",
+    "impugned_order": "Judgment and order dated July 23, 1969, of the Punjab and Haryana High Court in Criminal Appeal No. 302 of 1969 and Murder Reference No. 25 of 1969.",
+    "high_court_proceedings": "The High Court rejected the accused's criticism that the incident did not occur at the location and in the manner described by the eyewitnesses. The High Court conducted a detailed and exhaustive discussion of the arguments presented before it.",
+    "supreme_court_posture": "The case reached the Supreme Court via a special leave petition (appeal by special leave). The Supreme Court will only allow oral evidence to be discussed if there is a substantial error of law or procedure, a gross failure of justice due to misapprehension or mistake in reading the evidence, or if the appeal involves a question of principle of general importance."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the evidentiary value of a dying declaration is destroyed because the original document was stolen from the file and the investigating officer was allowed to make a copy.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The original document of the dying declaration was stolen from the judicial record.",
+          "The Judicial Magistrate who recorded the declaration testified in court, repeating the statement made to him by the deceased.",
+          "The investigating officer was permitted by the Magistrate to make a copy of the dying declaration.",
+          "The defense argued that allowing the police to make a copy showed the Magistrate was subservient to them, and therefore his testimony about the declaration was untrustworthy."
+        ],
+        "law": [
+          "The testimony of the Magistrate who recorded a dying declaration is admissible evidence to prove its contents.",
+          "A dying declaration is not a confidential document.",
+          "A dying declaration can legitimately serve as a guide for further police investigation."
+        ],
+        "application": [
+          "The Court found that the mere fact the original declaration had been stolen from the file could not destroy its evidentiary value, especially since the Magistrate who recorded it testified about its contents.",
+          "The Court rejected the argument that the Magistrate was subservient to the police for allowing a copy to be made.",
+          "It reasoned that since a dying declaration is not confidential and can be used to guide an investigation, allowing the investigating officer to make a copy was a legitimate action that did not negatively impact the Magistrate's credibility or the validity of the declaration."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that neither the theft of the original document nor the fact that the investigating officer was allowed to make a copy destroyed the evidentiary value of the dying declaration. The court found the declaration to be reliable based on the clear testimony of the Magistrate who recorded it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the evidentiary value of a dying declaration is destroyed because the original document was stolen from the file and the investigating officer was allowed to make a copy.",
+      "appellant_arguments": [
+        "The provided text does not contain the appellant's arguments for this specific issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments for this specific issue."
+      ],
+      "court_acceptance": "The provided text does not contain the court's decision on this specific issue."
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "32(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "162(1)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Kushal Rao v. State of Bombay",
+        "citation": "[1958] S.C.R. 152",
+        "principle": "It cannot be laid down as an absolute rule of law that a dying declaration cannot form the sole basis of conviction unless it is corroborated; each case must be determined on its own facts, keeping in view the circumstances in which the dying declaration was made.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "It cannot be laid down as an absolute rule of law that a dying declaration cannot form the sole basis of conviction unless it is corroborated. A dying declaration is not a weaker kind of evidence than other pieces of evidence and stands on the same footing as other evidence, to be judged in light of the surrounding circumstances. Each case must be determined on its own facts, keeping in view the circumstances in which the dying declaration was made.",
+    "obiter": [
+      "A dying declaration is admitted in evidence as an exception to the general rule against the admissibility of hearsay evidence on the principle of necessity.",
+      "The weak points of a dying declaration, such as not being made under oath or tested by cross-examination, serve to put the court on its guard, imposing an obligation to closely scrutinise all attendant circumstances.",
+      "Normally, when the High Court believes the evidence given by eye-witnesses, the Supreme Court accepts the appraisal of the evidence by that court and does not examine the evidence afresh for itself."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the evidentiary value of a dying declaration is not destroyed merely because the original document was stolen from the court file. The testimony of the Judicial Magistrate who recorded the declaration is sufficient to establish its contents and value, and the fact that an investigating officer was permitted to make a copy is inconsequential.",
+    "legal_tests_applied": [
+      "The provided text does not articulate a specific legal test, but relies on the principle that the content of a missing document can be proven through the direct testimony of the official who recorded it."
+    ],
+    "why_appellant_lost": [
+      "The appellant's contention that the missing original document invalidated the dying declaration was rejected because the court found the evidence of the Judicial Magistrate who recorded it to be a sufficient substitute to prove its contents and authenticity."
+    ],
+    "why_respondent_won": [
+      "The respondent succeeded because the court accepted the validity of the dying declaration based on the testimony of the Judicial Magistrate who recorded it, rendering the physical absence of the stolen original document immaterial to its evidentiary value."
+    ],
+    "policy_considerations": [
+      "The provided text does not contain any explicit policy considerations."
+    ]
+  },
+  "evidence_map": {}
+}

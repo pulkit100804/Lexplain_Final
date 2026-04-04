@@ -1,0 +1,94 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a lower criminal court since the High Court heard a Criminal Revision Application.",
+    "impugned_order": "Judgment and order dated August 9, 1963 of the Bombay High Court (Nagpur Bench) in Criminal Revision Application No. 107 of 1963.",
+    "high_court_proceedings": "The Bombay High Court (Nagpur Bench) heard Criminal Revision Application No. 107 of 1963 and issued a judgment and order on August 9, 1963. The outcome of the High Court's decision is not explicitly stated, but it can be inferred that the High Court upheld the conviction, as the appellant is challenging it in the Supreme Court.",
+    "supreme_court_posture": "The appellant, Ratan Lal, appealed to the Supreme Court by special leave, challenging the Bombay High Court's judgment and order. The Supreme Court allowed the appeal, set aside the conviction and sentence, and ordered the refund of any fine paid."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The fine if paid will be refunded."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a conviction under Section 66(1)(b) of the Bombay Prohibition Act, 1949, can be sustained if the State fails to prove that an article is 'fit for use as intoxicating liquor' through the mandatory procedure prescribed in the amended Section 6A of the Act, which requires a determination by the State Government after obtaining advice from the Board of Experts?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a prosecution for an offense under Section 66(1)(b) of the Bombay Prohibition Act, 1949.",
+          "Medicinal preparations were attached from the accused in September 1960.",
+          "In October 1960, after the attachment, the State Government declared under Section 6A(6) that these preparations were fit for use as intoxicating liquor.",
+          "The alleged offense occurred after Section 6A of the Act was amended by Act 22 of 1960, which came into force in April 1960."
+        ],
+        "law": [
+          "The Court contrasted the amended Section 6A with the previous version, under which the State was not obligated to consult the Board of Experts and could prove an article was unfit for use through other evidence (as held in *Narandas Mangilal's case*).",
+          "The amended Section 6A, particularly subsection (7), completely altered the scheme of proof.",
+          "The amended Section 6A(7) establishes a legal fiction: \"Until the State Government has determined... any article... to be fit for use as intoxicating liquor, every such article shall be deemed to be unfit for such use.\"",
+          "The Court interpreted this to mean that under the amended law, there is only one mode for the State to prove an article is 'fit for use as intoxicating liquor': by obtaining the advice of the Board of Experts and making a formal determination."
+        ],
+        "application": [
+          "The Court applied the law in effect at the time of the alleged offense, which was September 1960.",
+          "On that date, the State Government had not yet made a determination that the medicinal preparations were 'fit for use as intoxicating liquor' through the procedure mandated by the amended Section 6A.",
+          "Therefore, by virtue of the legal fiction in Section 6A(7), the preparations were legally 'deemed to be unfit for use as intoxicating liquor' at the time they were possessed by the accused.",
+          "Possession of an article deemed unfit for use as intoxicating liquor was not an offense.",
+          "The State's subsequent declaration in October 1960 could not have a retrospective effect to make the possession in September, which was innocent at the time, a criminal offense."
+        ],
+        "conclusion": "The Supreme Court decided that a conviction under Section 66(1)(b) cannot be sustained if the State fails to follow the mandatory procedure in the amended Section 6A. The amended law creates a legal fiction where an article is deemed 'unfit for use as intoxicating liquor' until the State Government, after consulting the Board of Experts, formally determines it to be fit. Since this determination had not been made at the time of the offense, the possession was not illegal, and a subsequent declaration by the State could not retroactively criminalize it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a conviction under Section 66(1)(b) of the Bombay Prohibition Act, 1949, can be sustained if the State fails to prove that an article is 'fit for use as intoxicating liquor' through the mandatory procedure prescribed in the amended Section 6A of the Act, which requires a determination by the State Government after obtaining advice from the Board of Experts?",
+      "appellant_arguments": [
+        "The possession of the Ayurvedic medicinal preparations was not illegal because they were 'unfit for use as intoxicating liquor' and therefore exempt under Section 24A of the Act.",
+        "Following the amendment to Section 6A of the Act, there is only one method for the State to prove that a medicinal preparation is 'fit for use as intoxicating liquor': by obtaining the advice of the Board of Experts and securing a determination from the State Government.",
+        "Since the State did not follow this mandatory procedure, the preparations must be legally presumed to be 'unfit for use as intoxicating liquor', and the conviction is therefore wrongful."
+      ],
+      "respondent_arguments": [
+        "The exemption under Section 24A did not apply because the alcohol content in the preparations exceeded the limits prescribed by the proviso to Section 59A.",
+        "Even if the preparations otherwise met the description of medicinal preparations, they were still 'fit for use as intoxicating liquor' and thus fell outside the exemption of Section 24A.",
+        "The State could establish that a preparation was fit for use as intoxicating liquor through means other than the procedure in Section 6A ('aliunde')."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prohibition Act",
+        "section": "24A",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prohibition Act",
+        "section": "6A",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "An article shall, until the contrary is proved, be presumed to be fit for use as intoxicating liquor.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The amended Section 6A of the Bombay Prohibition Act, 1949, establishes a mandatory and exclusive procedure for determining if a medicinal or toilet preparation is 'fit for use as intoxicating liquor.' Specifically, subsection (7) creates a legal presumption that any such article is 'unfit for such use' until the State Government, after receiving advice from the Board of Experts, determines otherwise. The State's failure to follow this prescribed procedure means the legal presumption of unfitness stands, and therefore, a conviction for possessing such an article cannot be sustained.",
+    "legal_tests_applied": [
+      "Statutory Presumption under Section 6A(7): The court applied the rule from Section 6A(7), which states: 'Until the State Government has determined as aforesaid any article mentioned in sub-section (1) to be fit for use as intoxicating liquor, every such article shall be deemed to be unfit for such use.' This is treated as a controlling legal presumption in the absence of the State following the prescribed procedure.",
+      "Exclusivity of Statutory Procedure: The court's reasoning implicitly establishes that the procedure laid out in the amended Section 6A is the sole method for the prosecution to rebut the legal presumption of unfitness for medicinal and toilet preparations. The State's argument that it could prove an article was 'fit for use' through other means was rejected."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court's strict application of the amended Section 6A enforces the legislative policy of creating a clear, expert-driven process to distinguish between legitimate medicinal preparations and those intended for use as intoxicating liquor. This places a specific and high burden of proof on the State, protecting manufacturers and possessors of such articles from prosecution based on arbitrary factors like alcohol percentage alone."
+    ]
+  },
+  "evidence_map": {}
+}

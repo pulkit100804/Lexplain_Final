@@ -1,0 +1,108 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Delhi at New Delhi",
+    "impugned_order": "Judgment and Order dated 24.03.2023 of the High Court of Delhi at New Delhi in CRLMC No. 3173 of 2021.",
+    "high_court_proceedings": "The High Court of Delhi at New Delhi issued a Judgment and Order dated 24.03.2023 in CRLMC No. 3173 of 2021. The provided text also mentions a Reply dated 09.01.2022 presented before the High Court.",
+    "supreme_court_posture": "The Supreme Court is hearing Criminal Appeal No. 2242 of 2023, which is an appeal against the Judgment and Order of the High Court of Delhi. The provided text does not explicitly state who appealed, but it can be inferred that it was a party dissatisfied with the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "The impugned judgment is accordingly set aside; the appeal by DBS is allowed; the appeal by RFL/complainant is, for the same reasons, dismissed.",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "No costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a transferee entity (a successor bank) can be fastened with corporate criminal liability for the offences which the amalgamating entity is accused of.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Laxmi Vilas Bank (LVB) was accused of criminal offenses.",
+          "Subsequently, LVB was amalgamated with DBS Bank under a statutory scheme sanctioned under the Banking Act.",
+          "DBS Bank, the transferee entity, was not involved in the alleged criminal acts committed by LVB's officials.",
+          "The amalgamation scheme was created to protect the public interest and the health of the banking industry."
+        ],
+        "law": [
+          "The general legal principle is that corporate criminal liability cannot be automatically (ipso facto) transferred from one company to another.",
+          "Upon amalgamation, the transferor company (LVB) undergoes a \"civil death\" and ceases to exist as a legal entity.",
+          "Criminal proceedings against a natural person abate upon their death and do not pass to their heirs; a similar logic applies to the \"civil death\" of a company.",
+          "The individual criminal liability of directors, officers, or employees of the original company remains unaffected by the amalgamation. They can still be prosecuted for their actions."
+        ],
+        "application": [
+          "The Court analyzed Clause 3(3) of the amalgamation scheme, which stated that legal proceedings would continue against the transferee bank (DBS).",
+          "However, the Court focused on a specific proviso within that clause. This proviso explicitly stated that criminal proceedings against individual directors, officers, and employees of the transferor bank (LVB) for offenses committed before the amalgamation would continue against them personally.",
+          "The Court interpreted this proviso as a crucial limitation. By specifically preserving the criminal liability of the individuals from LVB, the scheme implied that the corporate criminal liability was *not* intended to be transferred to the new entity, DBS Bank.",
+          "Therefore, the term \"legal proceedings\" that could be continued against DBS was interpreted to mean civil proceedings, not criminal ones.",
+          "The Court reasoned that holding DBS and its new, RBI-approved directors criminally liable for the past actions of LVB's officials would be unjust and contrary to the public interest goals of the amalgamation scheme."
+        ],
+        "conclusion": "The Supreme Court concluded that corporate criminal liability cannot be fastened onto a transferee entity (DBS Bank) for offenses allegedly committed by the amalgamating entity (LVB). The criminal liability of the original company ceases with its corporate existence, though the individual officials responsible remain liable. The Court, therefore, quashed the criminal proceedings against DBS Bank."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a transferee entity (a successor bank) can be fastened with corporate criminal liability for the offences which the amalgamating entity is accused of.",
+      "appellant_arguments": [
+        "The High Court erred in relying on foreign case law to determine that a transferee company could inherit criminal liability, as those judgments were based on legal interpretations distinct from those applicable in India."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Companies Act 1948",
+        "section": "206",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Companies Act 1948",
+        "section": "208",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Khader (dead) by LR’s",
+        "citation": "[1986] 2 SCR 607",
+        "principle": "To establish the legal position that emerges upon an amalgamation between two companies.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Saraswati Industrial Syndicate Ltd. v. CIT, Haryana, H.P. & Delhi",
+        "citation": "[1990] 1 Supp SCR 332",
+        "principle": "To establish the legal position that emerges upon an amalgamation between two companies.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Upon an amalgamation between two companies, the criminal liability of the transferor company cannot be transferred to the transferee company. A scheme of amalgamation, which is a civil process, cannot be interpreted to transfer criminal liability, which is specific to the accused corporate entity, in the absence of a statutory provision to the contrary.",
+    "obiter": [
+      "All penal statutes are to be strictly construed, in the sense that the court must see that the thing charged as an offence is within the plain meaning of the words used and must not strain the words.",
+      "When a law is intended to apply to companies, the court must fashion a special rule of attribution for the particular substantive rule by interpreting the statute's language, content, and policy to determine whose act, knowledge, or state of mind counts as that of the company.",
+      "It is a question of construction in each case as to whether the particular rule requires that the knowledge that an act has been done, or the state of mind with which it was done, should be attributed to the company.",
+      "The legislative intent to prosecute corporate bodies for the offences committed by them is clear and explicit, and statutes do not intend to exonerate them from prosecution, particularly for major economic crimes."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that while the power to quash criminal proceedings should be used sparingly, it is necessary to prevent a travesty of justice. In this specific case, where the Reserve Bank of India (RBI) had imposed a moratorium on the failing Lakshmi Vilas Bank (LVB) and directed DBS Bank to take over its entire functioning, assets, and liabilities to protect public confidence in the banking system, it would be unjust to permit the prosecution of the successor entity (DBS) for the alleged criminal acts of the former bank's officials.",
+    "legal_tests_applied": [
+      "The power to quash a criminal investigation or proceedings, which should not be lightly exercised, but must be used in cases that demand it to prevent a travesty of justice."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court's decision was heavily influenced by the need to maintain the public’s confidence in the banking industry, which was at stake.",
+      "The court recognized that the RBI's intervention and the subsequent amalgamation scheme were designed to stabilize a failing bank, and allowing the successor bank to be prosecuted for the old bank's alleged crimes would undermine the purpose of this regulatory action and result in a 'travesty of justice'."
+    ]
+  },
+  "evidence_map": {}
+}

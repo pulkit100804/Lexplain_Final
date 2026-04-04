@@ -1,0 +1,109 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (prosecuted the appellant and four others)",
+    "impugned_order": "Judgment and Order dated 01.03.2007 of the High Court of Patna in CRLA No. 237 of 2002, confirming the appellant's conviction.",
+    "high_court_proceedings": "The High Court of Patna heard Criminal Appeal No. 237 of 2002 (CRLA No. 237 of 2002). It confirmed the conviction of the appellant (accused no. 1) under Section 302 read with Section 34 and Section 201 of the Indian Penal Code, while acquitting the remaining four accused.",
+    "supreme_court_posture": "The appellant (accused no. 1), whose conviction was upheld by the High Court, appealed to the Supreme Court. The Supreme Court heard the appeal (Criminal Appeal No. 2230 of 2010) and allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The bail bonds of the appellant stand cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "What is the evidentiary value of an extra-judicial confession?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted for murder and destroying evidence, based solely on an alleged extra-judicial confession.",
+          "The prosecution claimed the appellant confessed to nine witnesses (PW-1 to PW-9).",
+          "However, six of these witnesses (PW-1 to PW-6), including the victim's father, were declared hostile and did not support the prosecution's case.",
+          "The conviction relied on the testimony of the remaining three witnesses (PW-7, PW-8, and PW-9).",
+          "These three witnesses were inconsistent about where the alleged confession took place.",
+          "After hearing the alleged confession, these witnesses did not report it to the police but instead accompanied the appellant to the location of the buried bodies.",
+          "There was no evidence to suggest a relationship of 'implicit faith' between the appellant and the three witnesses to whom he allegedly confessed."
+        ],
+        "law": [
+          "An extra-judicial confession is generally considered a weak piece of evidence.",
+          "However, a conviction can be based on it if the confession is proven to be voluntary, truthful, and free from any inducement.",
+          "The evidentiary value depends on the person to whom the confession is made, as a person typically confides only in someone they implicitly trust.",
+          "The court must be satisfied with the reliability of the confession based on the circumstances in which it was made.",
+          "While corroboration is not a strict requirement, it gives the confession more credibility if present."
+        ],
+        "application": [
+          "The Court found that the prosecution's case regarding the confession did not inspire confidence.",
+          "It noted the inconsistency among the key witnesses (PW-7 to PW-9) about the location of the confession.",
+          "The Court found the conduct of these witnesses to be 'unusual and unnatural' because they failed to report a murder confession to the police.",
+          "The prosecution failed to establish that the appellant had a relationship of 'implicit faith' with these witnesses, making it unlikely he would confess to them.",
+          "Furthermore, the Court observed that there were no other circumstances or corroborating evidence on record to support the prosecution's case."
+        ],
+        "conclusion": "The Supreme Court concluded that the evidence of the extra-judicial confession was unreliable and deserved to be discarded. As there was no other evidence against the appellant, the conviction could not be sustained, and the appellant was acquitted."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "What is the evidentiary value of an extra-judicial confession?",
+      "appellant_arguments": [
+        "The witnesses (PW-7 to PW-9) who testified about the confession were not relatives or close acquaintances, making it improbable that the appellant would have implicit faith in them to confess a crime.",
+        "The conduct of the witnesses was unnatural and unusual, as they did not report the confession to the police and instead accompanied the appellant to the field where the bodies were buried.",
+        "The witnesses were not consistent about the place where the alleged confession was made.",
+        "There are no other circumstances or corroborating evidence on record to support the prosecution's case based on the confession.",
+        "The majority of witnesses to the alleged confession (PW-1 to PW-6), including the complainant whose son was killed, turned hostile and did not support the prosecution."
+      ],
+      "respondent_arguments": [
+        "The conviction was correctly based on the extra-judicial confession made by the appellant.",
+        "Three witnesses (PW-7, PW-8, and PW-9) supported the prosecution's case and deposed that the appellant confessed to them.",
+        "Following the confession, the appellant led the witnesses to the field where he had concealed the bodies, which were then recovered."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "201",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A conviction can be sustained on the basis of an extra-judicial confession if it is proven to be voluntary and truthful, and its evidentiary value is contingent on the person to whom it is made, as a person would normally only confide in someone in whom they have implicit faith, not a stranger.",
+    "obiter": [
+      "Generally, an extra-judicial confession is a weak piece of evidence.",
+      "As a matter of rule, corroboration is not required for an extra-judicial confession.",
+      "If an extra-judicial confession is corroborated by other evidence on record, it acquires more credibility."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found the extra-judicial confession, which was the sole basis for the conviction, to be unreliable and untrustworthy. The reasoning was twofold: first, there was no evidence of a pre-existing relationship of trust between the appellant and the witnesses (PW-7 to PW-9) that would make it plausible for him to confide in them about committing a murder. Second, the subsequent conduct of these witnesses was deemed unnatural and unusual because they failed to report the confession to the police and instead accompanied the appellant to the location of the bodies, which severely undermined their credibility.",
+    "legal_tests_applied": [
+      "The court assesses the credibility of an extra-judicial confession by examining the relationship between the accused and the witness to whom the confession is made, specifically looking for a relationship of implicit faith that would make such a confession probable.",
+      "The court evaluates the veracity of testimony regarding an extra-judicial confession by scrutinizing the subsequent conduct of the witnesses, determining whether their actions (or inaction, such as not reporting to the police) were natural and believable under the circumstances."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court's rigorous scrutiny of an extra-judicial confession reflects a core policy of criminal jurisprudence that a conviction cannot be sustained on evidence that is inherently improbable or comes from witnesses whose conduct is unnatural and suspect. This serves as a fundamental safeguard against wrongful convictions based on weak or unreliable testimony, especially when it is the sole basis for the conviction."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,190 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial court (convicted the appellant)",
+    "impugned_order": "Judgment and order dated May 4, 1967, of the Patna High Court in Criminal Appeal No. 455 of 1965.",
+    "high_court_proceedings": "Patna High Court heard Criminal Appeal No. 455 of 1965 and upheld the conviction.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave challenging the High Court's judgment. The Supreme Court allowed the appeal and set aside the conviction."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside",
+    "sentence_status": "",
+    "directions": [
+      "His bail bond stands cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether any portion of the investigation was conducted without the authority of law, particularly concerning the permission granted by the magistrate for the investigation.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An Inspector of Police (PW 17) applied for permission from a magistrate on March 12, 1964, specifically asking to 'lay a trap'.",
+          "The appellant argued that this permission was limited to the trap and did not authorize the full investigation.",
+          "The inspector later sought a second permission to investigate on the 21st, by which time the investigation was mostly complete.",
+          "The appellant contended that because the full permission to investigate was only obtained after the fact, the investigation was conducted without legal authority."
+        ],
+        "law": [
+          "Under Section 5A of the Prevention of Corruption Act, an officer below the rank of Deputy Superintendent needs prior permission from a first-class magistrate to investigate.",
+          "An 'investigation' is a single, indivisible process that includes all steps taken to collect evidence and ascertain the truth of a complaint.",
+          "As established by the Supreme Court in previous cases, laying a trap is considered a part of the investigation, not a separate act."
+        ],
+        "application": [
+          "The Court reasoned that the permission granted on March 12th under Section 5A was a permission to investigate the case as a whole.",
+          "Since laying a trap is part of the investigation, the initial permission covered the trap and all subsequent investigative steps.",
+          "The Court clarified that Section 5A does not require two separate permissions—one for the trap and another for the rest of the investigation. A single permission covers the entire process.",
+          "The Court noted that the inspector was under a 'mistaken impression' that he needed a second permission. However, this second application was deemed 'wholly superfluous' and did not invalidate the authority granted by the first, valid order."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's contention, holding that the initial permission granted on March 12th was sufficient to authorize the entire investigation. Therefore, no portion of the investigation was conducted without the authority of law."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the appellant had discharged the burden of proof under Section 4(1) of the Prevention of Corruption Act to rebut the presumption against him by establishing his case by a preponderance of probability.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant admitted to receiving a sum of money from PW 4.",
+          "This admission triggered the presumption under Section 4(1) of the Prevention of Corruption Act, which states that the court must presume the money was accepted as a bribe unless the contrary is proved.",
+          "The appellant offered a plea and adduced evidence in an attempt to explain the receipt of the money and rebut this presumption."
+        ],
+        "law": [
+          "The Court clarified the standard of proof required for an accused to rebut the presumption under Section 4(1).",
+          "The phrase 'unless the contrary is proved' means the presumption must be rebutted by actual proof, not just a 'bare explanation which is merely plausible.'",
+          "The burden on the accused is to establish their case by a 'preponderance of probability,' which is a lower standard than the prosecution's burden of 'proof beyond a reasonable doubt.'",
+          "To meet this standard, the accused's explanation must not only be reasonable and probable, but it must also be shown to be true. The court must be able to believe the accused's version of events exists or is so probable that a prudent person would act upon it."
+        ],
+        "application": [
+          "The Court noted that in this specific case, the appellant's plea and the evidence he presented in his defense were not accepted by either the trial court or the High Court.",
+          "Both lower courts had rejected the appellant's version of events."
+        ],
+        "conclusion": "The Supreme Court held that since the appellant's explanation was rejected by both the trial court and the High Court, he had failed to establish his case by a preponderance of probability. Consequently, the Court concluded that the appellant had not discharged the burden of proof placed upon him by law to rebut the presumption of corruption."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether any portion of the investigation was conducted without the authority of law, particularly concerning the permission granted by the magistrate for the investigation.",
+      "appellant_arguments": [
+        "The magistrate granted permission for the investigation by a junior officer casually and without applying his mind.",
+        "The magistrate failed to ascertain if a senior officer (Deputy Superintendent or above) was unavailable before granting permission.",
+        "The magistrate's order giving permission did not provide any reasons, and therefore does not meet the requirements of the law (under s. 5A of the Prevention of Corruption Act)."
+      ],
+      "respondent_arguments": [
+        "The legality of the investigation was not challenged in the trial court, so the objection should not be considered at this stage.",
+        "The charge was established by satisfactory evidence, and the appellant was not prejudiced by the investigation being conducted by an officer below the specified rank."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the appellant had discharged the burden of proof under Section 4(1) of the Prevention of Corruption Act to rebut the presumption against him by establishing his case by a preponderance of probability.",
+      "appellant_arguments": [
+        "The presumption of corruption under Section 4(1) does not arise unless the prosecution first proves that the amount was paid as a bribe.",
+        "The burden on the accused is low, similar to that under Section 114 of the Evidence Act, and can be discharged by offering a reasonable explanation.",
+        "The appellant provided a reasonable explanation that the Rs. 5 he received was a repayment of a loan he had given to PW 4."
+      ],
+      "respondent_arguments": [
+        "Once the receipt of money (other than legal remuneration) is admitted, the court is bound to draw the presumption under Section 4(1) that it was a bribe.",
+        "The burden is squarely on the accused to prove the contrary, not merely offer a plausible explanation.",
+        "The appellant's explanation was not accepted by the trial court or the High Court, meaning he failed to establish his case by a preponderance of probability and did not discharge his burden."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Corruption Act",
+        "section": "6(1)(c)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act",
+        "section": "4(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act",
+        "section": "5(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "161",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "165",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act",
+        "section": "114",
+        "used_by_court": true
+      },
+      {
+        "act_name": "1961 Rules relating to discipline and appeal of railway servants",
+        "section": "Rule 1701, Rule 1705, Rule 1707, and Schedules I, II, and III",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "V. D. Jhangan v. State of U.P.",
+        "citation": "[1966] 3 S.C.R. 736",
+        "principle": "The burden on an accused under Section 4(1) of the Prevention of Corruption Act is to rebut the statutory presumption by establishing their case on a mere preponderance of probability; it is not necessary to prove it beyond a reasonable doubt. The presumption must be rebutted by proof, not merely a plausible explanation.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "(Case name not provided in text)",
+        "citation": "A.I.R. 1964 S.C. 575",
+        "principle": "The burden on an accused under Section 4(1) of the Prevention of Corruption Act is to rebut the statutory presumption by establishing their case on a mere preponderance of probability; it is not necessary to prove it beyond a reasonable doubt. The presumption must be rebutted by proof, not merely a plausible explanation.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "(Case name not provided in text)",
+        "citation": "[1960] 2 S.C.R. 592",
+        "principle": "The presumption under Section 4(1) of the Prevention of Corruption Act, concerning the receipt of a 'valuable thing', relates to the offence under Section 165 of the Indian Penal Code, where an essential ingredient is that the thing was received without adequate consideration.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The statutory presumption under Section 4(1) must be rebutted by proof, not by a bare explanation that is merely plausible. The burden of proof on the accused is to establish their case by a preponderance of probability; it is not necessary for the accused to establish their case by the test of proof beyond a reasonable doubt.",
+    "obiter": [
+      "The court is not bound to draw a presumption of fact under Section 114 of the Evidence Act, but it is bound to draw the presumption mentioned in Section 4(1).",
+      "The burden on the accused under Section 4(1) is not as light as that placed on them under Section 114 of the Evidence Act; the explanation offered must be shown to be a true one.",
+      "In the context of the statutory presumption, the word 'gratification' should be given its literal dictionary meaning."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the appellant's arguments regarding the investigation's legality and the burden of proof were rejected, the conviction was set aside because the prosecution failed to establish that the sanction to prosecute was granted by an authority competent to remove the appellant from office. The court found that without a valid sanction under Section 6(1) of the Prevention of Corruption Act, the trial court had no jurisdiction to try the case, rendering the entire proceeding invalid.",
+    "legal_tests_applied": [
+      "An illegality committed in the course of an investigation does not vitiate the result of a trial unless there was a miscarriage of justice.",
+      "The presumption under Section 4(1) of the Prevention of Corruption Act must be rebutted by proof, not by a bare explanation which is merely plausible. The accused must establish his case by a preponderance of probability, showing the explanation is a true one, but not necessarily beyond a reasonable doubt.",
+      "No court can validly take cognizance of an offence under the Prevention of Corruption Act without the previous sanction of the authority competent to remove the accused from office. Without a valid sanction, the court has no jurisdiction to try the case."
+    ],
+    "why_appellant_lost": [
+      "Regarding the investigation's legality, the appellant failed because the objection was not raised in the trial court, and prejudice to the appellant was neither pleaded nor established.",
+      "Regarding the burden of proof, the appellant failed because his explanation for receiving the money was not accepted by the trial court or the High Court, meaning he had not discharged the burden placed on him by law to prove his case by a preponderance of probability."
+    ],
+    "why_respondent_won": [
+      "On the issue of the investigation, the respondent succeeded because the court held that an illegality in the investigation does not invalidate the trial unless a miscarriage of justice is proven, which the appellant failed to do.",
+      "On the burden of proof, the respondent's position was upheld because the court affirmed that the words 'unless the contrary is proved' in Section 4(1) require the accused to rebut the presumption with proof, not just a plausible explanation, and the lower courts had rejected the appellant's proof."
+    ],
+    "policy_considerations": [
+      "The statutory safeguards under s. 5A must strictly be complied with for they are conceived in public interest and were provided as a guarantee against frivolous and vexatious proceedings.",
+      "A magistrate cannot surrender his discretion to a police officer but must exercise it having regard to the relevant material made available to him at the stage of granting permission.",
+      "It is surprising that even after this Court pointed out the significance of s. 5A in several decisions there are still some magistrates and police officers who continue to act in a casual manner."
+    ]
+  },
+  "evidence_map": {
+    "citations.statutes[6].act_name": [
+      "p2_f46c31c6"
+    ]
+  }
+}

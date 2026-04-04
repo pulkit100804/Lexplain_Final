@@ -1,0 +1,103 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Orders of conviction and sentence awarded by the trial court.",
+    "high_court_proceedings": "The appellants preferred criminal appeals before the High Court challenging the orders of conviction and sentence awarded by the trial court. The High Court dismissed the appeals and affirmed the conviction and sentence awarded by the trial court. The High Court judgment was dated 26.06.2023 and the case numbers were CRLA No. 408 and 137 of 2018.",
+    "supreme_court_posture": "The appellants, being aggrieved by the High Court's judgment, filed the present appeals before the Supreme Court (Criminal Appeal Nos. 3978-3979 of 2024). The Supreme Court partly allowed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Appeals partly allowed.",
+    "conviction_status": "The conviction of the appellants under Section 302 of IPC is altered to Part-I of Section 304 of IPC;",
+    "sentence_status": "The appellants are sentenced to the period already undergone and are directed to be released forthwith if not required in any other case.",
+    "directions": [
+      "The conviction of the appellants under Section 302 of IPC is altered to Part-I of Section 304 of IPC;",
+      "The appellants are sentenced to the period already undergone and are directed to be released forthwith if not required in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the accused can be convicted for the offence punishable u/s.302 IPC or in the facts and circumstance of the case, the conviction needs to be altered to a lesser offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "There were pre-existing disputes between the accused and the victims.",
+          "A verbal altercation between the parties escalated into a sudden fight.",
+          "During the fight, the accused attacked the victims with knives and dandas, which resulted in the death of one person.",
+          "The prosecution failed to explain the injuries that were also sustained by the appellants (the accused)."
+        ],
+        "law": [
+          "Section 302 of the Indian Penal Code (IPC) pertains to the punishment for murder.",
+          "Section 304, Part I of the IPC pertains to the punishment for culpable homicide not amounting to murder.",
+          "An exception to murder can apply if the act is committed without pre-meditation in a sudden fight, in the heat of passion upon a sudden quarrel, and without the offender having taken undue advantage or acted in a cruel or unusual manner."
+        ],
+        "application": [
+          "The court found no evidence on record to establish that there was any pre-meditation on the part of the appellants.",
+          "Given the context of a pre-existing dispute and a verbal altercation, the court determined that the possibility of the offense being committed in a sudden fight in the heat of passion could not be ruled out.",
+          "The court also found nothing on record to show that the appellants took undue advantage or acted in a cruel or unusual manner.",
+          "Due to the lack of evidence for pre-meditation and the circumstances pointing to a sudden quarrel, the court decided the appellants were entitled to the benefit of the doubt regarding the murder charge."
+        ],
+        "conclusion": "The Supreme Court concluded that the conviction under Section 302 IPC (murder) was not tenable. It held that the case would be covered under Part I of Section 304 IPC (culpable homicide not amounting to murder) and therefore altered the appellants' conviction to the lesser offense."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the accused can be convicted for the offence punishable u/s.302 IPC or in the facts and circumstance of the case, the conviction needs to be altered to a lesser offence.",
+      "appellant_arguments": [
+        "The conviction should be altered to a lesser offence than the one punishable under Section 302 of the Indian Penal Code."
+      ],
+      "respondent_arguments": [
+        "The trial court and the High Court have concurrently found that the prosecution has proved the case beyond a reasonable doubt based on a correct appreciation of evidence.",
+        "The judgment and order of conviction and sentence warrant no interference."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "304 Part-I",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Where the evidence on record creates a doubt as to whether the offense committed is murder under Section 302 of the IPC or culpable homicide not amounting to murder under Part-I of Section 304 of the IPC, the conviction must be for the lesser offense, giving the benefit of the doubt to the accused.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the conviction for murder under Section 302 of the IPC was not sustainable and that the case more appropriately fell under the category of culpable homicide not amounting to murder, as defined in Part-I of Section 304 of the IPC. Consequently, the appellants were entitled to the benefit of the doubt regarding the original charge.",
+    "legal_tests_applied": [
+      "The distinction between the elements of an offence under Section 302 of the Indian Penal Code (murder) and an offence under Part-I of Section 304 of the Indian Penal Code (culpable homicide not amounting to murder).",
+      "The principle of 'benefit of doubt' in criminal jurisprudence."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "In determining the final sentence, the court considered the period of incarceration already undergone by the appellants, which was more than 8 years, as a factor in deciding to sentence them to the period already served."
+    ]
+  },
+  "evidence_map": {
+    "decision.conviction_status": [
+      "p9_e04ab486"
+    ],
+    "decision.sentence_status": [
+      "p9_e70a2d8b"
+    ],
+    "decision.directions[0]": [
+      "p9_e04ab486"
+    ],
+    "decision.directions[1]": [
+      "p9_e70a2d8b"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Chief Judicial Magistrate, Lucknow",
+    "impugned_order": "Judgment and Order dated 10.03.2017 of the High Court of Judicature at Allahabad, Lucknow Bench, Lucknow in CRMC No. 3232 of 2007",
+    "high_court_proceedings": "The appellants filed an application before the High Court of Judicature at Allahabad, Lucknow Bench seeking quashing of criminal proceedings under section 306 of IPC. The High Court rejected this application.",
+    "supreme_court_posture": "The three accused, as appellants, approached the Supreme Court after the High Court declined to quash the criminal proceedings against them. They appealed the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Proceedings quashed",
+    "sentence_status": "",
+    "directions": [
+      "The impugned order passed by the High Court is set aside.",
+      "The proceedings of Criminal Case No 11428 of 2007 pending in the court of Chief Judicial Magistrate, Lucknow are hereby quashed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in declining to quash the criminal proceedings pending against the appellant.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were being prosecuted for the offence of abetment of suicide under Section 306 of the Indian Penal Code.",
+          "The High Court of Judicature at Allahabad had rejected the appellants' application to quash these criminal proceedings.",
+          "The appellants appealed the High Court's decision to the Supreme Court."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court found that the High Court's entire approach in handling the case was incorrect.",
+          "The Court held that the High Court had \"seriously erred\" in concluding that the information against the appellants disclosed the elements of a cognizable offence.",
+          "The Supreme Court determined that there was \"absolutely no ground to proceed\" against the appellants and that the prosecution would only result in \"sheer harassment\" without any fruitful result.",
+          "In its overall view, the Court concluded that putting the appellants to trial would be an \"abuse of process of law\" because \"no case worth the name\" had been made out against them."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's reasoning and found it was not justified in declining to quash the criminal proceedings. The Court allowed the appeal, set aside the High Court's order, and quashed the criminal case against the appellants."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in declining to quash the criminal proceedings pending against the appellant.",
+      "appellant_arguments": [
+        "The criminal proceedings for abetment of suicide under section 306 of the IPC should be quashed.",
+        "The continuation of the prosecution would be an abuse of the process of law and result in sheer harassment.",
+        "The First Information Report does not disclose the necessary elements to constitute a cognizable offence against them."
+      ],
+      "respondent_arguments": [
+        "The High Court was correct in declining to quash the criminal proceedings.",
+        "The First Information Report and the case materials disclose the elements of a cognizable offence, warranting a trial."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "306",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "M. Arjunan v. State, represented by its Inspector of Police",
+        "citation": "(2019) 3 SCC 315",
+        "principle": "For explaining the necessary ingredients of Section 306 of the IPC in detail.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Mariano Anto Bruno & another v. The Inspector of Police",
+        "citation": "2022 SCC OnLine SC 1387",
+        "principle": "For the observation that whether an act amounts to abetment of suicide can only be gathered from the facts and circumstances of each case.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The test a court should adopt is to ascertain from the facts and circumstances of each case whether an act was committed by another or not.",
+    "obiter": [
+      "By and large, the expectations and obligations are prescribed by law, rules, policies and regulations."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In the overall view of the matter, putting the appellants to trial on the charge that they abetted the commission of suicide by the deceased will be nothing but abuse of process of law, as no case worth the name against the appellants is made out.",
+    "legal_tests_applied": [
+      "The test that the Court should adopt in cases of abetment of suicide is to make an endeavour to ascertain on the basis of the materials on record whether there is anything to indicate even prima facie that the accused intended the consequences of the act, i.e., suicide.",
+      "The High Court should have examined whether: (a) the deceased was hypersensitive; (b) the deceased was in a state of deep depression; (c) there were any direct or indirect acts of incitement with a guilty mind; (d) there were threats of dire consequences, such as harm to his family or severe financial ruin to the extent that he believed suicide was the only way out; or (e) it is a case of making false allegations that may have damaged the reputation of the deceased & push him to commit suicide due to public humiliation & loss of dignity."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The trend of courts to determine intention only after a full-fledged trial, by just looking into the factum of suicide and nothing more, is a wrong understanding of the law.",
+      "It is the inability on the part of the courts to understand and apply the correct principles of law to the cases of abetment of suicide, which leads to unnecessary prosecutions.",
+      "It is ultimately for the police and the courts of law to look into the matter and see that the persons against whom allegations have been levelled are not unnecessarily harassed or they are not put to trial just for the sake of prosecuting them."
+    ]
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[0]": [
+      "p2_fb4ce118",
+      "p19_4be1e8b4"
+    ],
+    "judicial_reasoning.policy_considerations[2]": [
+      "p19_0706c71d"
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred, as the High Court upheld a conviction and sentence)",
+    "impugned_order": "Judgment and order dated 23.07.2009 passed by the High Court of Punjab & Haryana in Criminal Appeal No.593-DB of 2000.",
+    "high_court_proceedings": "The High Court of Punjab & Haryana heard Criminal Appeal No. 593-DB of 2000. It upheld the conviction and sentence of Darshan Singh (the appellant) but allowed the appeal of Rani Kaur (Accused No. 2), acquitting her of all charges.",
+    "supreme_court_posture": "Darshan Singh sought special leave to appeal the High Court's judgment to the Supreme Court. Leave to appeal was granted on 22.01.2010. The State of Punjab did not challenge the acquittal of Rani Kaur."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "Conviction set aside.",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution can prove a fact during trial through a witness which such witness had not stated to the police during the investigation.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A prosecution witness (PW) gave a statement to the police during the investigation, as recorded under Section 161 of the Code of Criminal Procedure (CrPC).",
+          "In this initial statement, the witness did not mention a particular fact, such as the involvement of a specific accused.",
+          "Subsequently, during the trial in court, the same witness testified and introduced this new fact that was absent from their original police statement."
+        ],
+        "law": [
+          "Under Section 161 of the Code of Criminal Procedure, 1973, police are empowered to examine witnesses during an investigation.",
+          "A statement made by a witness in court that introduces a new, material fact not mentioned in their initial police statement is considered an \"improvement.\"",
+          "Evidence based on such an improvement is considered unreliable and lacks significance."
+        ],
+        "application": [
+          "The Court reasoned that if a witness had crucial information, such as the identity of an involved person, they would have mentioned it to the police at the earliest opportunity.",
+          "The failure to mention such a fact in the Section 161 statement, followed by its introduction during the trial, casts serious doubt on the witness's credibility regarding that specific fact.",
+          "The Court determined that the prosecution cannot use the trial as an opportunity to improve upon the initial evidence gathered during the investigation.",
+          "Therefore, the subsequent statement in court about the involvement of a particular accused, which was omitted from the police statement, cannot be relied upon to prove that fact."
+        ],
+        "conclusion": "The Supreme Court decided that the prosecution cannot prove a fact during trial through a witness when that witness had not stated the same fact to the police during the investigation. The Court held that such testimony is an \"improvement\" on the original statement and the evidence regarding that improved fact is of no significance and cannot be relied upon."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a statement recorded under Section 313 of the Criminal Procedure Code (CrPC) can form the sole basis for a conviction.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution's case was based on circumstantial evidence, and one of the key circumstances it sought to prove was the appellant's presence at the scene of the crime.",
+          "The prosecution and the lower courts relied on the appellant's statement recorded under Section 313 CrPC, in which he allegedly made an \"implicit admission as to his presence\", to help establish this fact."
+        ],
+        "law": [
+          "The Court reiterated the well-settled legal principle that a statement made by an accused under Section 313 CrPC is not considered 'evidence'.",
+          "The reasons for this are twofold: first, the statement is not made under oath, and second, the prosecution does not get an opportunity to cross-examine the accused on it.",
+          "Therefore, it is \"trite law\" (a well-established rule) that a statement recorded under Section 313 CrPC cannot form the sole basis for a conviction."
+        ],
+        "application": [
+          "The Court applied this legal principle directly to the facts of the case.",
+          "It noted that the prosecution was attempting to use the appellant's 313 statement to prove his presence, which was a critical link in the chain of circumstantial evidence.",
+          "The Court held that in the \"lack of independent evidence led by the prosecution\" to corroborate this fact, the appellant's presence could not be established solely based on his own statement."
+        ],
+        "conclusion": "The Supreme Court decided that a statement recorded under Section 313 CrPC cannot be the sole basis for a conviction. Because such a statement is not formal evidence (as it's not under oath or subject to cross-examination), it is insufficient on its own to prove a fact essential for conviction, such as the accused's presence at the crime scene, without independent and reliable corroborating evidence from the prosecution."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the omission by an accused to take a specific plea during their examination under Section 313 CrPC is sufficient to deny them the right to that defense if it can be established otherwise.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution (respondent-State) argued that the accused (appellant) did not take a specific plea of alibi in his statement recorded under Section 313 of the Code of Criminal Procedure (CrPC).",
+          "The State further contended that this omission amounted to an implicit admission of his presence at the scene of the crime."
+        ],
+        "law": [
+          "The Supreme Court cited its own precedent, stating that the mere omission by an accused to take a specific defense plea during their Section 313 CrPC examination is not enough to deny them that right if the defense can be established through other means. (Citing Periasami Vs. State of Tamil Nadu).",
+          "The Court also reiterated the principle that a statement made under Section 313 CrPC is not considered 'evidence' because it is not given under oath and is not subject to cross-examination by the prosecution. (Citing Sidhartha Vashisht Vs. State of NCT of Delhi).",
+          "Furthermore, a statement under Section 313 CrPC cannot form the sole basis for a conviction."
+        ],
+        "application": [
+          "The Court applied the established legal principle directly to the State's argument.",
+          "It reasoned that even if the accused failed to explicitly raise a defense like alibi during his 313 examination, he is not barred from that defense.",
+          "The right to the defense remains available to the accused if it can be made out from other evidence and circumstances presented in the case.",
+          "By highlighting that a 313 statement is not formal evidence and cannot be the sole basis for conviction, the Court diminished the significance of the omission argued by the State."
+        ],
+        "conclusion": "The Supreme Court rejected the State's argument and held that the failure of an accused to raise a specific defense plea in their Section 313 CrPC statement does not, by itself, prevent them from relying on that defense if it can be established through other evidence on record."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the State can maintain its case that an appellant and an acquitted co-accused committed an offense jointly, when the State has not challenged the co-accused's acquittal, allowing it to become final.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution's case was that the appellant and a co-accused, Rani Kaur, jointly committed an offense.",
+          "The co-accused, Rani Kaur, was acquitted, and the court found her presence at the scene to be doubtful.",
+          "The State did not challenge the acquittal of the co-accused, allowing that verdict to become final."
+        ],
+        "law": [
+          "The principle of finality dictates that a legal verdict, once accepted by a party (in this case, the State, by not appealing), cannot be contradicted by that same party in a related proceeding."
+        ],
+        "application": [
+          "The Court reasoned that by accepting the acquittal of the co-accused, the State also accepted the court's finding that her presence was doubtful.",
+          "This acceptance is fundamentally at odds with the State's argument against the appellant, which maintained that the two were jointly present and committed the crime together.",
+          "The Court held that the State cannot simultaneously hold these two contradictory positions. It cannot accept a verdict that a person's presence is doubtful while also arguing that the same person was present and acted jointly with the appellant."
+        ],
+        "conclusion": "The Supreme Court rejected the State's argument, concluding that the State cannot maintain its case of joint commission of a crime against the appellant after it has accepted the final acquittal of the co-accused, which was based on her doubtful presence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the prosecution can prove a fact during trial through a witness which such witness had not stated to the police during the investigation.",
+      "appellant_arguments": [
+        "The text implies the appellant argued that evidence from a witness regarding a fact not stated to the police during investigation is an improvement and cannot be relied upon."
+      ],
+      "respondent_arguments": [
+        "The text implies the respondent (prosecution) attempted to prove a fact during the trial through a witness, even though the witness had not mentioned that fact to the police during the investigation."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether a statement recorded under Section 313 of the Criminal Procedure Code (CrPC) can form the sole basis for a conviction.",
+      "appellant_arguments": [
+        "The text does not explicitly state the appellant's argument, but it can be inferred that they argued against using the Section 313 statement as the sole basis for conviction."
+      ],
+      "respondent_arguments": [
+        "The respondent-State argued that the appellant's statement under Section 313 CrPC contained an 'implicit admission' of his presence, attempting to use it as incriminating evidence."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the omission by an accused to take a specific plea during their examination under Section 313 CrPC is sufficient to deny them the right to that defense if it can be established otherwise.",
+      "appellant_arguments": [
+        "The appellant argued that the courts failed to give sufficient weight to the defense evidence, specifically the testimony of defense witnesses (DW3 and DW4), which should establish their defense regardless of its omission in the Section 313 statement."
+      ],
+      "respondent_arguments": [
+        "The respondent-State argued that since no specific plea of alibi was taken in the appellant's statement under Section 313 CrPC, the defense should not be considered."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the State can maintain its case that an appellant and an acquitted co-accused committed an offense jointly, when the State has not challenged the co-accused's acquittal, allowing it to become final.",
+      "appellant_arguments": [
+        "The provided text does not contain the appellant's arguments on this specific issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the respondent's arguments on this specific issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act",
+        "section": "106",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Trimukh Maroti Kirkan v. State of Maharashtra",
+        "citation": "[2006] 7 Suppl. SCR 156: (2006) 10 SCC 681",
+        "principle": "In a case resting on circumstantial evidence, Section 106 of the Evidence Act places a burden on the accused to explain the circumstances leading to the death of the deceased. Remaining quiet or offering a false explanation provides an additional link in the chain of circumstances to make it complete.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In a case based on circumstantial evidence, the circumstances from which an inference of guilt is drawn must be firmly established and unerringly point towards the guilt of the accused, forming a complete chain that is incapable of any explanation consistent with the accused's innocence. Additionally, the prosecution cannot prove a fact through a witness during trial which that witness had not stated to the police during the investigation; such improved evidence is of no significance.",
+    "obiter": [
+      "Where the presence of the accused is proven, lower courts may rely on Section 106 of the Evidence Act to shift the onus of proof onto the accused to explain the circumstances which led to an unnatural death."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the prosecution's case, which was based entirely on circumstantial evidence, failed to establish a complete and unbroken chain of events that would unerringly point to the appellant's guilt. The State's position was rendered logically untenable because it accepted the acquittal of the co-accused, which made it impossible to maintain its core theory that the appellant and the co-accused had committed the crime jointly.",
+    "legal_tests_applied": [
+      "In cases based on circumstantial evidence, the circumstances from which an inference of guilt is sought to be drawn must be cogently and firmly established; those circumstances should be of a definite tendency unerringly pointing towards the guilt of the accused; the circumstances taken cumulatively should form a chain so complete that there is no escape from the conclusion, that within all human probability, the crime was committed by the accused and they should be incapable of explanation on any hypothesis other than that of the guilt of the accused and inconsistent with his innocence."
+    ],
+    "why_appellant_lost": [
+      "The appellant's appeal was allowed and the conviction was set aside; therefore, the appellant did not lose."
+    ],
+    "why_respondent_won": [
+      "The respondent (State) lost the appeal; therefore, the respondent did not win."
+    ],
+    "policy_considerations": [
+      "The prosecution cannot seek to prove a fact during trial through a witness which such witness had not stated to the police during the investigation, as the evidence of that witness regarding the said improved fact is of no significance. This prevents convictions based on unreliable, belated additions to testimony.",
+      "The State cannot maintain logically inconsistent positions. It cannot accept a court's verdict acquitting a co-accused (allowing it to become final) and simultaneously argue that the remaining appellant committed the offense jointly with that acquitted person. This upholds the principle of finality in judicial verdicts."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p11_887a365e"
+    ]
+  }
+}

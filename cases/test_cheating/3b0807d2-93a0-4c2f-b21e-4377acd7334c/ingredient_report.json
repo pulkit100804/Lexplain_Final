@@ -1,0 +1,1316 @@
+{
+  "case_id": "3b0807d2-93a0-4c2f-b21e-4377acd7334c",
+  "tenant_id": "test_cheating",
+  "agent": "agent_6_ingredient_evaluator",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json",
+    "legal_signals.json",
+    "statute_candidates.json"
+  ],
+  "created_at": "2026-03-19T16:51:04.563621+00:00",
+  "statute_evaluations": [
+    {
+      "statute_id": "105",
+      "heading": "Commencement and continuance of the right of private defence of property.",
+      "overall_score": 1.0,
+      "status": "valid",
+      "ingredients": [
+        {
+          "ingredient_id": "105.1",
+          "ingredient_text": "The right of private defence of property commences when a reasonable apprehension of danger to the property commences.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "105.2",
+          "ingredient_text": "The right of private defence of property against theft continues till the offender has effected his retreat with the property.",
+          "element_type": "duration",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "105.3",
+          "ingredient_text": "The right of private defence of property against theft continues till the assistance of the public authorities is obtained.",
+          "element_type": "duration",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "105.4",
+          "ingredient_text": "The right of private defence of property against theft continues till the property has been recovered.",
+          "element_type": "duration",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "105.5",
+          "ingredient_text": "The right of private defence of property against robbery continues as long as the offender causes or attempts to cause to any person death or hurt or wrongful restraint.",
+          "element_type": "duration",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "105.6",
+          "ingredient_text": "The right of private defence of property against robbery continues as long as the fear of instant death or of instant hurt or of instant personal restraint continues.",
+          "element_type": "duration",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "105.7",
+          "ingredient_text": "The right of private defence of property against criminal trespass or mischief continues as long as the offender continues in the commission of criminal trespass or mischief.",
+          "element_type": "duration",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "105.8",
+          "ingredient_text": "The right of private defence of property against house-breaking by night continues as long as the house-trespass which has been begun by such house-breaking continues.",
+          "element_type": "duration",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "410",
+      "heading": "Stolen property.",
+      "overall_score": 0.8571,
+      "status": "valid",
+      "ingredients": [
+        {
+          "ingredient_id": "410.1",
+          "ingredient_text": "Property, the possession whereof has been transferred by theft",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "410.2",
+          "ingredient_text": "Property, the possession whereof has been transferred by extortion",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "410.3",
+          "ingredient_text": "Property, the possession whereof has been transferred by robbery",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "410.4",
+          "ingredient_text": "Property which has been criminally misappropriated",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "410.5",
+          "ingredient_text": "Property in respect of which criminal breach of trust has been committed",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "410.6",
+          "ingredient_text": "The transfer, misappropriation or breach of trust has been committed, within or without India",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "410.7",
+          "ingredient_text": "If such property subsequently comes into the possession of a person legally entitled to the possession thereof, it then ceases to be stolen property",
+          "element_type": "exception",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "207",
+      "heading": "Fraudulent claim to property to prevent its seizure as forfeited or in execution.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "207.1",
+          "ingredient_text": "Whoever fraudulently accepts, receives or claims any property or any interest therein",
+          "element_type": "act",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "207.2",
+          "ingredient_text": "knowing that he has no right or rightful claim to such property or interest",
+          "element_type": "mens_rea",
+          "ingredient_category": "actus_reus",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "207.3",
+          "ingredient_text": "or practices any deception touching any right to any property or any interest therein",
+          "element_type": "act",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "207.4",
+          "ingredient_text": "intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine",
+          "element_type": "mens_rea",
+          "ingredient_category": "actus_reus",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "207.5",
+          "ingredient_text": "under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority",
+          "element_type": "circumstance",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "207.6",
+          "ingredient_text": "or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit",
+          "element_type": "circumstance",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "415",
+      "heading": "Cheating.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "415.1",
+          "ingredient_text": "Whoever, by deceiving any person",
+          "element_type": "actus_reus",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_004"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'deceiving' via action 'promised'."
+        },
+        {
+          "ingredient_id": "415.2",
+          "ingredient_text": "fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "415.3",
+          "ingredient_text": "intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "415.4",
+          "ingredient_text": "A dishonest concealment of facts is a deception within the meaning of this section.",
+          "element_type": "definition",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "423",
+      "heading": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "423.1",
+          "ingredient_text": "The accused dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "423.2",
+          "ingredient_text": "The deed or instrument purports to transfer or subject to any charge any property, or any interest therein.",
+          "element_type": "actus_reus",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "423.3",
+          "ingredient_text": "The deed or instrument contains any false statement relating to the consideration for such transfer or charge.",
+          "element_type": "actus_reus",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "423.4",
+          "ingredient_text": "The deed or instrument contains any false statement relating to the person or persons for whose use or benefit it is really intended to operate.",
+          "element_type": "actus_reus",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "382",
+      "heading": "Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "382.1",
+          "ingredient_text": "Whoever commits theft",
+          "element_type": "act",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "382.2",
+          "ingredient_text": "having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "382.3",
+          "ingredient_text": "such preparation is made in order to the committing of such theft",
+          "element_type": "intent",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "382.4",
+          "ingredient_text": "such preparation is made in order to the effecting of his escape after the committing of such theft",
+          "element_type": "intent",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "382.5",
+          "ingredient_text": "such preparation is made in order to the retaining of property taken by such theft",
+          "element_type": "intent",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "421",
+      "heading": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditor.",
+      "overall_score": 0.8571,
+      "status": "valid",
+      "ingredients": [
+        {
+          "ingredient_id": "421.1",
+          "ingredient_text": "A person dishonestly or fraudulently removes any property.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "421.2",
+          "ingredient_text": "A person dishonestly or fraudulently conceals any property.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "421.3",
+          "ingredient_text": "A person dishonestly or fraudulently delivers any property to any person.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "421.4",
+          "ingredient_text": "A person dishonestly or fraudulently transfers any property to any person without adequate consideration.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "421.5",
+          "ingredient_text": "A person dishonestly or fraudulently causes any property to be transferred to any person without adequate consideration.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "421.6",
+          "ingredient_text": "The person intends to prevent the distribution of that property according to law among his creditors or the creditors of any other person.",
+          "element_type": "mens_rea",
+          "ingredient_category": "actus_reus",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "421.7",
+          "ingredient_text": "The person knows it is likely that the action will thereby prevent the distribution of that property according to law among his creditors or the creditors of any other person.",
+          "element_type": "mens_rea",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "390",
+      "heading": "Robbery.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "390.1",
+          "ingredient_text": "There is a theft.",
+          "element_type": "offence_precursor",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.2",
+          "ingredient_text": "The offender's action is in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "390.3",
+          "ingredient_text": "The offender, for that end, voluntarily causes or attempts to cause death to any person.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.4",
+          "ingredient_text": "The offender, for that end, voluntarily causes or attempts to cause hurt to any person.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.5",
+          "ingredient_text": "The offender, for that end, voluntarily causes or attempts to cause wrongful restraint to any person.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.6",
+          "ingredient_text": "The offender, for that end, voluntarily causes or attempts to cause fear of instant death to any person.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.7",
+          "ingredient_text": "The offender, for that end, voluntarily causes or attempts to cause fear of instant hurt to any person.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.8",
+          "ingredient_text": "The offender, for that end, voluntarily causes or attempts to cause fear of instant wrongful restraint to any person.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.9",
+          "ingredient_text": "There is an extortion.",
+          "element_type": "offence_precursor",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.10",
+          "ingredient_text": "The offender, at the time of committing the extortion, is in the presence of the person put in fear.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.11",
+          "ingredient_text": "The extortion is committed by putting that person in fear of instant death.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.12",
+          "ingredient_text": "The extortion is committed by putting that person in fear of instant hurt.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.13",
+          "ingredient_text": "The extortion is committed by putting that person in fear of instant wrongful restraint.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.14",
+          "ingredient_text": "The fear is directed to that person or to some other person.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.15",
+          "ingredient_text": "By so putting in fear, the offender induces the person so put in fear then and there to deliver up the thing extorted.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "390.16",
+          "ingredient_text": "The offender is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.",
+          "element_type": "clarification",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "327",
+      "heading": "Voluntarily causing hurt to extort property, or to constrain to an illegal act.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "327.1",
+          "ingredient_text": "Whoever voluntarily causes hurt",
+          "element_type": "actus_reus",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "327.2",
+          "ingredient_text": "for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security",
+          "element_type": "mens_rea",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "327.3",
+          "ingredient_text": "or of constraining the sufferer or any person interested in such sufferer to do anything which is illegal",
+          "element_type": "mens_rea",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "327.4",
+          "ingredient_text": "or which may facilitate the commission of an offence",
+          "element_type": "mens_rea",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "420",
+      "heading": "Cheating and dishonestly inducing delivery of property.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "420.1",
+          "ingredient_text": "Whoever cheats",
+          "element_type": "act_element",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "420.2",
+          "ingredient_text": "dishonestly",
+          "element_type": "mental_element",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "420.3",
+          "ingredient_text": "induces the person deceived",
+          "element_type": "act_element",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "420.4",
+          "ingredient_text": "to deliver any property to any person",
+          "element_type": "consequence_element",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "420.5",
+          "ingredient_text": "to make, alter or destroy the whole or any part of a valuable security",
+          "element_type": "consequence_element",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "420.6",
+          "ingredient_text": "to make, alter or destroy anything which is signed or sealed, and which is capable of being converted into a valuable security",
+          "element_type": "consequence_element",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "97",
+      "heading": "Right of private defence of the body and of property.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "97.1",
+          "ingredient_text": "Every person has a right to defend",
+          "element_type": "right_statement",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.2",
+          "ingredient_text": "subject to the restrictions contained in section 99",
+          "element_type": "restriction",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.3",
+          "ingredient_text": "His own body",
+          "element_type": "object_of_defence",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.4",
+          "ingredient_text": "the body of any other person",
+          "element_type": "object_of_defence",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.5",
+          "ingredient_text": "against any offence affecting the human body",
+          "element_type": "triggering_offence",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.6",
+          "ingredient_text": "The property, whether movable or immovable, of himself or of any other person",
+          "element_type": "object_of_defence",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "97.7",
+          "ingredient_text": "against any act which is an offence falling under the defintion of theft",
+          "element_type": "triggering_offence",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.8",
+          "ingredient_text": "against any act which is an offence falling under the defintion of robbery",
+          "element_type": "triggering_offence",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.9",
+          "ingredient_text": "against any act which is an offence falling under the defintion of mischief",
+          "element_type": "triggering_offence",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.10",
+          "ingredient_text": "against any act which is an offence falling under the defintion of criminal trespass",
+          "element_type": "triggering_offence",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.11",
+          "ingredient_text": "or which is an attempt to commit theft",
+          "element_type": "triggering_offence",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.12",
+          "ingredient_text": "or which is an attempt to commit robbery",
+          "element_type": "triggering_offence",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.13",
+          "ingredient_text": "or which is an attempt to commit mischief",
+          "element_type": "triggering_offence",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "97.14",
+          "ingredient_text": "or which is an attempt to commit criminal trespass",
+          "element_type": "triggering_offence",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "439",
+      "heading": "Punishment for intentionally running vessel agroun, or ashore with intent to commit theft, etc.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "439.1",
+          "ingredient_text": "Whoever intentionally runs any vessel aground or ashore.",
+          "element_type": "act",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "439.2",
+          "ingredient_text": "Intending to commit theft of any property contained therein.",
+          "element_type": "intent",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "439.3",
+          "ingredient_text": "Intending to dishonestly misappropriate any such property.",
+          "element_type": "intent",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "439.4",
+          "ingredient_text": "With intent that such theft or misappropriation of property may be committed.",
+          "element_type": "intent",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "329",
+      "heading": "Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "329.1",
+          "ingredient_text": "Whoever voluntarily causes grievous hurt",
+          "element_type": "act_and_mens_rea",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "329.2",
+          "ingredient_text": "for the purpose of extorting from the sufferer or from any person interested in the sufferer any property or valuable security",
+          "element_type": "mens_rea_purpose",
+          "ingredient_category": "mens_rea",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "329.3",
+          "ingredient_text": "for the purpose of constraining the sufferer or any person interested in such sufferer to do anything that is illegal",
+          "element_type": "mens_rea_purpose",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "329.4",
+          "ingredient_text": "for the purpose of constraining the sufferer or any person interested in such sufferer to do anything which may facilitate the commission of an offence",
+          "element_type": "mens_rea_purpose",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "206",
+      "heading": "Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "206.1",
+          "ingredient_text": "Whoever fraudulently removes, conceals, transfers or delivers to any person any property or any interest therein",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "206.2",
+          "ingredient_text": "intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine",
+          "element_type": "mens_rea",
+          "ingredient_category": "actus_reus",
+          "status": "partial",
+          "confidence": 0.4,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event shows action but intent/knowledge cannot be directly inferred from events alone."
+        },
+        {
+          "ingredient_id": "206.3",
+          "ingredient_text": "under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court of Justice or other competent authority",
+          "element_type": "circumstance",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        },
+        {
+          "ingredient_id": "206.4",
+          "ingredient_text": "or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit",
+          "element_type": "circumstance",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "424",
+      "heading": "Dishonest or fraudulent removal or concealment of property.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "ingredients": [
+        {
+          "ingredient_id": "424.1",
+          "ingredient_text": "A person dishonestly or fraudulently conceals any property of himself or any other person.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "424.2",
+          "ingredient_text": "A person dishonestly or fraudulently removes any property of himself or any other person.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "424.3",
+          "ingredient_text": "A person dishonestly or fraudulently assists in the concealment of property.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "424.4",
+          "ingredient_text": "A person dishonestly or fraudulently assists in the removal of property.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "Event directly supports ingredient: matched on 'property' via action 'transferred'."
+        },
+        {
+          "ingredient_id": "424.5",
+          "ingredient_text": "A person dishonestly releases any demand or claim to which he is entitled.",
+          "element_type": "actus_reus",
+          "ingredient_category": "mens_rea",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+        }
+      ],
+      "consistency_flags": []
+    }
+  ],
+  "consistency_flags": []
+}

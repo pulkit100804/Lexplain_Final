@@ -1,0 +1,64 @@
+{
+  "case_id": "3161bd9c-0186-4e12-8c9c-4816cf23d595",
+  "tenant_id": "test_run_debug_2",
+  "agent": "agent_3_role_tagger",
+  "input_refs": [
+    "document_graph.json"
+  ],
+  "created_at": "2026-03-20T05:59:48.311746+00:00",
+  "nodes": [
+    {
+      "node_id": "n_001",
+      "text": "During a heated argument, the accused picked up a wooden stick and hit the victim on the head.",
+      "span": {
+        "start": 0,
+        "end": 94
+      },
+      "role": "fact"
+    },
+    {
+      "node_id": "n_002",
+      "text": "The victim collapsed and later died in the hospital.",
+      "span": {
+        "start": 95,
+        "end": 147
+      },
+      "role": "fact"
+    },
+    {
+      "node_id": "n_003",
+      "text": "No prior enmity was reported.",
+      "span": {
+        "start": 148,
+        "end": 177
+      },
+      "role": "evidence"
+    },
+    {
+      "node_id": "n_004",
+      "text": "A witness stated the accused acted in anger.",
+      "span": {
+        "start": 178,
+        "end": 222
+      },
+      "role": "witness_statement"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_001",
+      "target": "n_002",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_002",
+      "target": "n_003",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_003",
+      "target": "n_004",
+      "relation": "sequential"
+    }
+  ]
+}

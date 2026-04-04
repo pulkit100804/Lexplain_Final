@@ -1,0 +1,145 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Special Judge, PMLA, Ranchi",
+    "impugned_order": "Judgment dated 22.03.2024 of the High Court of Jharkhand at Ranchi in B.A. No. 9863 of 2023.",
+    "high_court_proceedings": "The appellant preferred a bail application before the High Court. The High Court dismissed the bail application of the appellant.",
+    "supreme_court_posture": "Aggrieved by the High Court's dismissal of his bail application, the appellant appealed to the Supreme Court. The Supreme Court allowed the appeal and quashed the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The impugned order dated 22.03.2024 is quashed and set aside.",
+      "The Trial Court is directed to release the appellant on bail in connection with ED Case No. ECIR No. 5 of 2023 on furnishing bail bonds for a sum of Rs. 5 lakh with 2 sureties of the like amount.",
+      "The observations made in this judgment are only for the purpose of disposing of the bail application and they shall not influence the Trial Court, which would proceed in accordance with law and on the basis of the evidence on record."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether statements recorded under Section 50 of the Prevention of Money Laundering Act, 2002, from a person who is already in judicial custody in another case investigated by the same agency, are admissible in a new case where his arrest has not yet been shown.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was already in judicial custody since August 25, 2022, in connection with one money laundering case (ECIR) investigated by an agency.",
+          "While still in custody for that case, the same investigating agency recorded his statements on August 3, 4, and 11, 2023, for a new and separate money laundering case.",
+          "The appellant's formal arrest in this new case was shown on August 11, 2023, after the statements were recorded.",
+          "These statements were claimed to contain incriminating material against the appellant."
+        ],
+        "law": [
+          "Section 50 of the Prevention of Money Laundering Act, 2002 (PMLA) allows authorized officials to summon any person and record their statement, which is generally admissible in evidence.",
+          "Section 25 of the Evidence Act, 1872, states that a confession made to a police officer is inadmissible as evidence against the accused.",
+          "The Supreme Court in the 'Vijay Madanlal Choudhary' case held that PMLA authorities are not police officers, and therefore statements recorded by them are generally not barred by Section 25. However, it left open the possibility that Section 25 could apply on a case-by-case basis."
+        ],
+        "application": [
+          "The Court distinguished the present case from the general rule. The crucial factor was that the appellant was not a free person when he gave the statements; he was already in judicial custody for another case being investigated by the very same agency.",
+          "The Court reasoned that a person in custody cannot be considered to be 'operating with a free mind.' Taking someone from judicial custody to record a statement for a new case makes the process inherently coercive.",
+          "It held that allowing such a statement to be used against the maker would be a 'travesty of justice' and contrary to 'all canons of fair play.'",
+          "Therefore, in this specific circumstance, the Court decided that the statement, if considered incriminating, would be 'hit by Section 25 of the Evidence Act,' despite the fact that PMLA officers are not police officers. The custodial setting was the determining factor."
+        ],
+        "conclusion": "The Supreme Court held that when an accused is already in custody for a case under the PMLA, any subsequent statement recorded from them under Section 50 by the same investigating agency is inadmissible as evidence against them. The Court rejected the admissibility of the appellant's statements because they were given while he was in judicial custody and not as a free person."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether statements recorded under Section 50 of the Prevention of Money Laundering Act, 2002, from a person who is already in judicial custody in another case investigated by the same agency, are admissible in a new case where his arrest has not yet been shown.",
+      "appellant_arguments": [
+        "The appellant stoutly contested the reliance placed by the respondent on his statements."
+      ],
+      "respondent_arguments": [
+        "The respondent (Enforcement Directorate) sought to place reliance on the statements of the appellant and took the court through a summary of these statements to build their case."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 21",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act",
+        "section": "Section 25",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act",
+        "section": "Section 30",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Money-Laundering Act, 2002 (PMLA)",
+        "section": "Section 45",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Money-Laundering Act, 2002 (PMLA)",
+        "section": "Section 50",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Vijay Madanlal Choudhary and Ors. v. Union of India and Ors.",
+        "citation": "[2022] 6 SCR 382 : (2022) SCC OnLine SC 929",
+        "principle": "For its interpretation of the scope of Section 50 of the PMLA and its reference to Section 25 of the Evidence Act when dealing with statements recorded from a person who is in custody.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "In Re Elukuri Seshapani Chetti",
+        "citation": "ILR 1937 Mad 358",
+        "principle": "To support the court's view regarding the inadmissibility of statements recorded from a person while in custody.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kodangi v. Emperor",
+        "citation": "AIR 1932 Mad 24",
+        "principle": "To support the court's view regarding the inadmissibility of statements recorded from a person while in custody, as it was the precedent followed in 'In Re Elukuri Seshapani Chetti'.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A statement recorded under Section 50 of the Prevention of Money Laundering Act (PMLA) cannot be relied upon against a person if, at the time of the statement, they were in custody for another case, as this would not be a reasonable and valid procedure under Article 21 of the Constitution. Furthermore, statements of a co-accused do not constitute substantive evidence and are subject to the rules governing the confession of a co-accused under Section 30 of the Evidence Act.",
+    "obiter": [
+      "The principle that 'bail is a rule and refusal is an exception' is a governing principle even under the PMLA."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In the facts of the present case, we hold that the statement of the appellant if to be considered as incriminating against the maker, will be hit by Section 25 of the Evidence Act since he has given the statement whilst in judicial custody, pursuant to another proceeding instituted by the same Investigating Agency. Taken as he was from the judicial custody to record the statement, it will be a travesty of justice to render the statement admissible against the appellant.",
+    "legal_tests_applied": [
+      "A statement recorded under Section 50 of the PMLA from a person already in judicial custody for another case by the same agency is tested for admissibility under Section 25 of the Evidence Act, which bars confessions made to a police officer.",
+      "The structure of Section 50 of the PMLA is interpreted to mean that a person in judicial custody, not being a free person, cannot be 'summoned' in the ordinary sense, and recording their statement requires permission from the court that remanded them to custody."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Detention or jail before being pronounced guilty of an offence should not become punishment without trial.",
+      "The right to bail in cases of delay, coupled with incarceration for a long period, depending on the nature of the allegations, should be read into Section 439 of the Code and Section 45 of the PML Act.",
+      "The principle that bail is a rule and refusal is an exception is, at times, followed in breach.",
+      "It is high time that the trial courts and the High Courts should recognize the principle that “bail is rule and jail is exception.”"
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.impugned_order": [
+      "p29_eef14527"
+    ],
+    "decision.directions[1]": [
+      "p29_aec05ce6"
+    ],
+    "citations.cases[0].case_name": [
+      "p3_ef5777e6"
+    ],
+    "citations.cases[0].citation": [
+      "p3_ef5777e6"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p21_2ed3476b"
+    ]
+  }
+}

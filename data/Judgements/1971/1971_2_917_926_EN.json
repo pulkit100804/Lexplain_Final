@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge, Mainpuri",
+    "impugned_order": "Judgment and order dated September 26, 1969 of the Allahabad High Court in Criminal Appeal No. 1037 of 1969 and Referred No. 82 of 1969, confirming the conviction of the two appellants by the Sessions Judge, Mainpuri, under s. 302/34 of the Indian Penal Code.",
+    "high_court_proceedings": "The Allahabad High Court confirmed the conviction of the two appellants.",
+    "supreme_court_posture": "The Supreme Court heard the appeal by special leave. The appellants, Jadunath Singh and Girand Singh, appealed the High Court's decision. The Supreme Court stated it does not re-appreciate the evidence."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the trial was vitiated because the accused were denied a test identification parade.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused were charged with an offense under the Indian Penal Code.",
+          "The accused claimed that the main eyewitnesses did not know them before the incident and requested a test identification parade (TIP).",
+          "The eyewitnesses, however, testified that they did know the accused from before.",
+          "The lower courts denied the request for a TIP, reasoning that the witnesses already knew the accused and the request was not bona fide."
+        ],
+        "law": [
+          "There is no provision in the law that entitles an accused to demand a test identification parade.",
+          "A TIP is part of the police investigation stage and is considered a \"rule of prudence\" rather than a rule of law.",
+          "The failure to hold a TIP does not make the evidence of identification given by a witness in court inadmissible.",
+          "The weight and value of the in-court identification, in the absence of a prior TIP, is a matter for the court of fact to decide."
+        ],
+        "application": [
+          "The Court noted that the appellants were already known to the police officials who testified against them.",
+          "The trial court and High Court had accepted the testimony of the eyewitnesses who stated they knew the accused from before the incident. In such a situation, a TIP would be a \"waste of time.\"",
+          "The only witnesses who did not know the accused beforehand gave evidence of \"association,\" which the High Court did not consider important.",
+          "Applying the legal principle, the Court found that while it might have been prudent to hold a TIP, the failure to do so did not invalidate the trial or the in-court identification evidence.",
+          "The Supreme Court stated it would not reassess the evidence or the weight attached to it by the lower courts unless exceptional grounds were shown."
+        ],
+        "conclusion": "The Supreme Court rejected the appellants' argument, holding that on the facts of the case, the trial was not vitiated simply because the accused were denied a test identification parade. The absence of a parade did not make the in-court identification inadmissible, and the lower courts were justified in weighing that evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the trial was vitiated because the accused were denied a test identification parade.",
+      "appellant_arguments": [
+        "The failure to put the accused up for a test identification parade either vitiated the trial or, at the very least, rendered the evidence of the eyewitnesses (P.W. 2, Mahesh Chandra, and P.W. 3, Dwarka Prasad) useless.",
+        "The eyewitnesses were not reliable."
+      ],
+      "respondent_arguments": [
+        "A test identification parade was unnecessary because the eyewitnesses already knew the appellants.",
+        "The witnesses had known the appellants for the last six or seven years because they frequently visited the town of Bewar.",
+        "One of the appellants, Girand Singh, was a student in a college at Bewar.",
+        "The claim of one witness that he had known the accused for about four years was not challenged in cross-examination."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302/34",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Perkash Chand Sogani v. State of Rajasthan",
+        "citation": "Cr. A. No. 92/1956 dt. 15-1-1957",
+        "principle": "In an appeal by special leave, the Supreme Court does not re-appreciate the evidence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A trial is not vitiated by the failure to hold an identification parade if the identity of the accused is not in doubt.",
+    "obiter": [
+      "In an appeal by special leave, the Supreme Court does not re-appreciate the evidence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the Magistrate's reason for refusing the test identification parade was invalid, the trial was not vitiated on the facts of this specific case because at least one of the eyewitnesses (P.W. 2) already knew the accused, rendering the parade unnecessary for that witness's identification.",
+    "legal_tests_applied": [
+      "A trial is not automatically vitiated by the denial of a test identification parade; the court must examine the facts of the case to determine if the denial caused prejudice, particularly considering whether the witnesses already knew the accused."
+    ],
+    "why_appellant_lost": [
+      "The court found that the evidence of P.W. 2, who knew the accused from before, was reliable and sufficient to uphold the conviction, making the identification by P.W. 3, whose knowledge was 'very sc:int', less critical.",
+      "The failure to hold a test identification parade does not vitiate a trial when the identifying witness already has prior knowledge of the accused."
+    ],
+    "why_respondent_won": [
+      "The court accepted the factual argument that at least one eyewitness, P.W. 2, knew the accused from before, which made a test identification parade unnecessary for that witness.",
+      "The court concluded that on the specific facts of the case, the trial was not vitiated by the denial of the identification parade."
+    ],
+    "policy_considerations": [
+      "The fact that a charge sheet has been filed and the accused have been named by witnesses is not a valid justification for a magistrate to refuse a request for a test identification parade."
+    ]
+  },
+  "evidence_map": {}
+}

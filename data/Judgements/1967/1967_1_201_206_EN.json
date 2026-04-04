@@ -1,0 +1,102 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a lower court in Madras, as the High Court was hearing appeals.",
+    "impugned_order": "Judgment and order of the Madras High Court dated December 3, 1963, in Criminal Appeals Nos. 380 of 1961 and 72 of 1962.",
+    "high_court_proceedings": "The Madras High Court heard Criminal Appeal No. 380 of 1961, convicting the appellant under s. 409 of the Indian Penal Code and sentencing him to one year of rigorous imprisonment. It also heard Criminal Appeal No. 72 of 1962, convicting the appellant of the same offense and sentencing him to six months of rigorous imprisonment.",
+    "supreme_court_posture": "The appellant sought and was granted special leave to appeal the Madras High Court's judgment to the Supreme Court. Two appeals were filed: Criminal Appeal No. 131 of 1964 (related to High Court Criminal Appeal No. 380 of 1961) and Criminal Appeal No. 130 of 1964 (related to High Court Criminal Appeal No. 72 of 1962). The appellant contended that the prosecution was not maintainable due to a lack of sanction from the State Government."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the sanction of the State Government is necessary for the prosecution of the appellant, the President of a Panchayat Board, under section 409 of the Indian Penal Code.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, the President of a Panchayat Board, was prosecuted under section 409 of the Indian Penal Code (IPC) for criminal breach of trust concerning a sum of money belonging to the Board.",
+          "The appellant contended that the prosecution was not maintainable because it lacked the sanction of the State Government, which they argued was required under section 106 of the Madras Act."
+        ],
+        "law": [
+          "The Court referenced prior decisions which established that sanction for the prosecution of a public servant is not necessary for an offence under section 409 of the IPC.",
+          "The legal principle is that such a sanction is only required when the public servant commits an offence while acting or purporting to act in the discharge of their official duty.",
+          "The act of committing a criminal breach of trust is not considered an act performed in the discharge of official duties."
+        ],
+        "application": [
+          "The Court applied this principle to the appellant's case, stating that the act of criminal misappropriation was not committed while the appellant was acting or purporting to act in the discharge of his official duties as President.",
+          "It reasoned that the offence had no direct connection with the appellant's duties as a public servant.",
+          "Instead, the Court found that the appellant's official status merely provided him with the occasion or opportunity to commit the offence, which is distinct from the offence being part of his official duties."
+        ],
+        "conclusion": "The Supreme Court held that the sanction of the State Government was not necessary for the prosecution of the appellant under section 409 of the Indian Penal Code because the act of criminal breach of trust was not committed in the discharge of his official duties."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the sanction of the State Government is necessary for the prosecution of the appellant, the President of a Panchayat Board, under section 409 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The prosecution was not maintainable for want of sanction by the State Government under Section 106 of the Madras Village Act."
+      ],
+      "respondent_arguments": [
+        "Sanction was not necessary because the act of criminal misappropriation was not committed by the appellant while he was acting or purporting to act in the discharge of his official duties. The offence had no direct connection with the appellant's duties as a public servant, and his official status only furnished him with an occasion or an opportunity to commit the offence."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Madras Village Panchayats Act, 1950",
+        "section": "106",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "409",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "197",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Government sanction under section 106 of the Madras Village Panchayats Act is not required for the prosecution of a public official under section 409 of the Indian Penal Code.",
+    "obiter": [
+      "The question of whether the government could validly delegate its power to grant sanction to a Collector under section 127(1) of the Madras Act was not decided."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The sanction of the Government is not necessary for the prosecution of the appellant under s. 409, Indian Penal Code. It is not every offence committed by a public servant that requires sanction for prosecution, nor even every act done by him while he is actually engaged in the performance of his official duties. Sanction is only necessary if the act complained of is directly concerned with his official duties so that, if questioned, it could be claimed to have been done by virtue of the office. An offence may be entirely unconnected with the official duty as such or it may be committed within the scope of the official duty. Where it is unconnected with the official duty there can be no protection.",
+    "legal_tests_applied": [
+      "The test may well be whether the 'public servant, if challenged, can reasonably. claim that, what he does, he does in virtue of his office.",
+      "A public servant can only be said to act or to purport to act in the discharge of his official duty, if his act is such as to lie within the scope of his official duty.",
+      "It is the quality of the act that is important and if it falls within the scope and range of his official duties the protection contemplated by s. 197 of the Criminal Procedure Code will be attracted."
+    ],
+    "why_appellant_lost": [
+      "The court held that the act of criminal misappropriation was not committed by the appellant while he was acting or purporting to act in discharge of his official duties.",
+      "The court found that the appellant could not justify the acts in respect of which he was charged as acts done by him by virtue of the office that he held.",
+      "The offence had no direct connection with the duties of the appellant as a public servant; his official status only furnished him with an occasion or an opportunity of committing the offence."
+    ],
+    "why_respondent_won": [
+      "The act of criminal misappropriation was not committed by the appellant while he was acting or purporting to act in discharge of his official duties.",
+      "The offence had no direct connection with the duties of the appellant as a public servant, and the official status of the appellant only furnished the appellant with an occasion or an opportunity of committing the offence."
+    ],
+    "policy_considerations": [
+      "While admitting the cogency of the argument that in the circumstances prevailing in India a large measure of protection from harassing proceedings may be necessary for public officials, the court cannot accede to the view that the relevant words [requiring sanction] have the scope that has in some cases been given to them."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.legal_tests_applied[2]": [
+      "p1_e6d1cd8b"
+    ]
+  }
+}

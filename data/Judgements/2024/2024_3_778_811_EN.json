@@ -1,0 +1,112 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Delhi at New Delhi",
+    "impugned_order": "Judgment and order dated 06.04.2023 passed by the High Court of Delhi at New Delhi, in the Bail Application Nos. 3590 of 2022, 3705 of 2022 and 3710 of 2022",
+    "high_court_proceedings": "The High Court rejected the bail applications (Bail Application Nos. 3590 of 2022, 3705 of 2022 and 3710 of 2022) of the appellants.",
+    "supreme_court_posture": "The appellants challenged the High Court's order by filing Special Leave Petitions (SLP(C)Nos. 27522 of 2019 and 27610 of 2019) which were dismissed on 29.11.2019. The current appeals (Criminal Appeal Nos.1639 and 1640 of 2024) also arise out of the same High Court judgment. The Supreme Court ultimately dismissed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Appeals dismissed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the assets held by a company could be attributed to its shareholders, especially when it was argued that no shares were acquired by the appellant within the check period.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant argued that assets held by a company could not be attributed to its shareholders.",
+          "The appellant also claimed that no shares were acquired by them during the specified 'check period'.",
+          "The court found that the corporate structures in question were used to conceal and launder money, which was then used to repay loans and purchase agricultural lands."
+        ],
+        "law": [
+          "The Court acknowledged the general legal principle that a company is a separate legal entity from its shareholders and directors.",
+          "However, the Court cited the exception of \"lifting the corporate veil,\" which is permissible when a corporate structure is used for committing fraud or economic offenses, or as a facade or sham for illegal activities."
+        ],
+        "application": [
+          "The Court applied the exception of \"lifting the corporate veil\" to this case.",
+          "It determined that the companies were not just separate entities but were being used as a facade to carry out the illegal activity of money laundering.",
+          "Because the companies were used for these illicit purposes, the Court found it appropriate to disregard the separate legal entity status and attribute the assets to the shareholders who were involved in the scheme."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument. It held that while a company is typically a separate legal entity, the court can 'lift the corporate veil' and attribute its assets to its shareholders when the company is used as a facade for committing economic offenses like money laundering."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the assets held by a company could be attributed to its shareholders, especially when it was argued that no shares were acquired by the appellant within the check period.",
+      "appellant_arguments": [
+        "The assets of a company are distinct from the assets of its shareholders, and they cannot be attributed to the shareholders.",
+        "The appellant did not acquire any shares in the companies in question during the specified check period, which negates the claim that the company's assets are proceeds of crime attributable to them."
+      ],
+      "respondent_arguments": [
+        "The corporate veil should be pierced because the companies were used as vehicles to launder the proceeds of crime.",
+        "The appellants were the beneficial owners and were in control of the assets held by these companies, regardless of the timing of share acquisition, justifying the attribution of the assets to them."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Money-Laundering Act, 2002",
+        "section": "45",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Money-Laundering Act, 2002",
+        "section": "50",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Finance Act, 2016",
+        "section": "193",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Vijay Madanlal Choudhary",
+        "citation": "[2022] 6 SCR 382 : 2022 SCC OnLine SC 929",
+        "principle": "For upholding the validity of Section 45 and examining the validity of Section 50 of the PMLA, 2002. The Court specifically relied on its reasoning that the twin conditions for bail under Section 45, while restrictive, do not impose an absolute restraint on the grant of bail, and that judicial discretion, guided by the principles of the section, still vests in the Court.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The conditions for bail provided under Section 45 of the 2002 Act do not impose an absolute restraint on the grant of bail; rather, the discretion to grant bail vests in the Court, which must be judicial and guided by the principles of law as provided under that section.",
+    "obiter": [
+      "Though the principle of a company being a separate legal entity from its shareholders is an established principle of Company law, the lifting of the corporate veil has been upheld in cases where corporate structures have been used for committing offenses."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Though a company is a separate legal entity from its shareholders and directors, the court found that the lifting of the corporate veil is permissible when corporate structures have been used for committing fraud or economic offences, or have been used as a facade or a sham for carrying out illegal activities. Based on the material presented, the court concluded that the appellants were prima facie guilty and had failed to satisfy the mandatory conditions for bail under the PMLA.",
+    "legal_tests_applied": [
+      "Lifting of the Corporate Veil: The principle that the separate legal entity status of a company can be disregarded when it is used as a facade or sham for committing fraud or economic offenses.",
+      "Twin Mandatory Conditions for Bail under Section 45 of PMLA: The court must be satisfied that there are reasonable grounds for believing the accused is not guilty of the offense and is not likely to commit any offense while on bail."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the argument that a company is a separate legal entity because it found the corporate structures were used as a facade for committing economic offenses.",
+      "The appellants failed to satisfy the court that there were reasonable grounds for believing they are not guilty of the alleged offenses, thus failing to meet the twin mandatory conditions for bail under Section 45 of the PMLA.",
+      "The court held that the appellants could not be permitted to take advantage of their own wrongdoing by filing false declarations to mislead tax authorities and then arguing those same declarations were void."
+    ],
+    "why_respondent_won": [
+      "The respondent (ED) successfully argued for piercing the corporate veil by providing sufficient material to show that the appellants were prima facie guilty of using the companies for illegal activities.",
+      "The court found that prior proceedings and observations substantiated the ED's case, even though the declarations made under the IDS were held to be void.",
+      "The respondent demonstrated that there was sufficient material collected to show that the appellants are prima facie guilty of the alleged offences under the PMLA."
+    ],
+    "policy_considerations": [
+      "A party cannot be permitted to take advantage of their own wrongdoing, such as filing false declarations to mislead authorities and later claiming those declarations are void to escape liability.",
+      "The legal principle of a company as a separate entity cannot be used as a shield when the corporate structure is used as a facade or sham for committing fraud or economic offenses."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].citation": [
+      "p10_3d9000bf"
+    ]
+  }
+}

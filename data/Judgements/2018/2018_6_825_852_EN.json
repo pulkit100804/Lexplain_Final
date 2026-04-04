@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Delhi at New Delhi; High Court of Punjab and Haryana at Chandigarh",
+    "impugned_order": "Order dated 02.08.2017 of the High Court of Delhi at New Delhi in BA No. 1415 of 2017; Judgment and Order dated 10.08.2016 of the High Court of Punjab and Haryana at Chandigarh in FAO No.1702/2016",
+    "high_court_proceedings": "The High Court of Delhi passed an order in BA No. 1415 of 2017 on 02.08.2017. The High Court of Punjab and Haryana passed a Judgment and Order in FAO No.1702/2016 on 10.08.2016.",
+    "supreme_court_posture": "The Supreme Court was approached via Special Leave Petitions (Criminal) Nos. 7281-7282 of 2017 and Civil Appeal No. 2253 of 2018. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an insurer would be entitled to succeed in its defence and avoid liability when the owner of the vehicle consciously allows a person who does not have a valid driving licence to drive the vehicle.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The insurer raised a defense against a claim, arguing that the driver of the insured vehicle did not have a valid and effective driving license at the time of the accident.",
+          "This defense is based on a breach of the insurance policy terms, as permitted under Section 149(2) of the Motor Vehicles Act."
+        ],
+        "law": [
+          "Under Section 149(2)(a)(ii) of the Motor Vehicles Act, an insurer can raise a defense against a claim if there has been a breach of a policy condition, such as the driver not being duly licensed.",
+          "The burden of proof is on the insurance company to establish that the insured (the vehicle owner) committed the breach of the policy condition.",
+          "To avoid liability towards the insured, the insurer must prove that the insured was guilty of negligence and failed to exercise reasonable care in the matter of fulfilling the policy condition regarding the use of the vehicle by a duly licensed driver.",
+          "The mere absence of a valid driving license for the driver is not, in itself, a sufficient defense for the insurer. The insured's negligence or failure to exercise reasonable care must be proven."
+        ],
+        "application": [
+          "The Court analyzed the conditions under which an insurer could avoid liability. It affirmed that if an owner consciously allows a person without a valid license to drive, the insurer is entitled to succeed in its defense.",
+          "The Court clarified that this requires the insurer to prove the owner's culpability. The insurer must show that the owner was negligent and failed to exercise reasonable care in ensuring the driver was properly licensed.",
+          "The determination of whether the owner took reasonable care is a question of fact to be decided in each case.",
+          "Therefore, the insurer's success in this defense is contingent on proving a conscious or negligent breach by the insured owner, not just the driver's lack of a license."
+        ],
+        "conclusion": "The Supreme Court decided that an insurer can succeed in its defense and avoid liability when the owner of the vehicle consciously allows a person without a valid driving license to drive. However, to do so, the insurer bears the burden of proving that the owner was negligent and failed to exercise reasonable care in upholding the policy conditions."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an insurer would be entitled to succeed in its defence and avoid liability when the owner of the vehicle consciously allows a person who does not have a valid driving licence to drive the vehicle.",
+      "appellant_arguments": [
+        "The provided text does not contain the arguments for the appellant."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments for the respondent."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "National Insurance Co. Ltd v. Swaran Singh and Others",
+        "citation": "(2004) 3 SCC 297 : [2004] 1 SCR 180",
+        "principle": "The legal principle is not mentioned in the provided text.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When a vehicle involved in an accident lacks a permit, which is a fundamental statutory infraction, the onus is on the insured to prove the existence of such a permit. If the insured fails to provide this proof, the insurer must pay compensation to the third-party claimant but is entitled to recover that amount from the owner and driver.",
+    "obiter": [
+      "The absence of a permit cannot be equated with the absence of a licence, a fake licence, or a licence for a different kind of vehicle.",
+      "Exceptions to the requirement of a permit must be pleaded and proved by the party seeking to rely on them.",
+      "The existence of a permit is a matter of documentary evidence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court affirmed the principle that an insurer's ability to avoid liability is contingent upon establishing a 'wilful breach' on the part of the insured. The observations in prior cases must be understood in light of the legal requirement for the insurer to establish this wilful breach, which does not disentitle the insurer from raising such a defence or absolve the owner from liability.",
+    "legal_tests_applied": [
+      "The insurer must establish a 'wilful breach' on the part of the insured to be disentitled from its liability."
+    ],
+    "why_appellant_lost": [
+      "While the specific issue concerns a driving licence, the reasoning for the appeal's dismissal in the provided text relates to the absence of a permit. The court held that the use of a vehicle in a public place without a permit is a fundamental statutory infraction.",
+      "The appellants (insured) failed to meet their onus of proving that the vehicle had a permit, as the existence of a permit is a matter of documentary evidence which they did not produce."
+    ],
+    "why_respondent_won": [
+      "The insurer is entitled to succeed in its defence if it can establish a 'wilful breach' on the part of the insured.",
+      "In the case at hand, the insurer had taken the plea that the vehicle lacked a permit, which the court deemed a 'fundamental statutory infraction' that cannot be equated with lesser violations.",
+      "The court held that the onus cannot be cast on the insurer to disprove the existence of a permit; rather, the insured must prove it had one, which it failed to do."
+    ],
+    "policy_considerations": [
+      "The court's application of the 'pay and recover' principle, even while finding a fundamental breach by the insured, reflects a policy of balancing the insurer's right to defend against breaches of policy conditions with the societal goal of ensuring that third-party accident victims receive compensation in a timely manner."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p21_f4f6a58d"
+    ]
+  }
+}

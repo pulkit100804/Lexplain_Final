@@ -1,0 +1,140 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (Additional Sessions Judge)",
+    "impugned_order": "Judgment of the High Court of Judicature at Bombay, dated June 8, 2010 in Criminal Appeal No. 462 of 1992, which confirmed the judgment of the trial Court in Sessions Case No. 91 of 1992.",
+    "high_court_proceedings": "The accused appealed the Trial Court's decision to the High Court. The High Court dismissed the appeal and upheld the conviction and sentence imposed by the Trial Court.",
+    "supreme_court_posture": "The accused, aggrieved by the concurrent findings of the Trial Court and the High Court, filed a special leave petition in the Supreme Court, which was converted into a Criminal Appeal. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the concurrent findings of fact by the lower courts can be reopened in a special leave petition.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted by the trial court, and the conviction was upheld by the High Court, creating a 'concurrent finding of fact' regarding the appellant's guilt.",
+          "These findings were based on two consistent dying declarations from the victim, which stated that the appellant poured kerosene on her and set her on fire.",
+          "A doctor had certified the victim's fitness to make the declarations, and the declarations were recorded by a Special Executive Magistrate and a Head Constable.",
+          "The appellant challenged these concurrent findings in a special leave petition to the Supreme Court."
+        ],
+        "law": [
+          "The Court cited the precedent set in *Bharwada Bhoginbhai Hirjibhai Vs. State of Gujarat*, which establishes that a concurrent finding of fact cannot be reopened in a special leave petition unless it is proven that:",
+          "1. The finding is based on no evidence;",
+          "2. The finding is perverse (i.e., no reasonable person could have reached it);",
+          "3. The finding is based on inadmissible evidence that is crucial to the case; or",
+          "4. A vital piece of evidence in favor of the convict was overlooked or disregarded."
+        ],
+        "application": [
+          "The Supreme Court examined the appellant's case against the four exceptions established in the *Bharwada* case.",
+          "It determined that the case did not fall into any of these exceptional categories.",
+          "The Court found that the lower courts' conclusions were not perverse, but were based on a thorough assessment of the evidence, particularly the two dying declarations which were corroborated by medical evidence.",
+          "The Court concluded that the lower courts had taken a plausible view that the appellant's guilt was proven beyond a reasonable doubt."
+        ],
+        "conclusion": "The Supreme Court concluded that there were no grounds to interfere with or reopen the concurrent findings of fact recorded by the lower courts, as the case did not meet any of the specific exceptions that would permit such an action. Therefore, the Court rejected the appeal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the concurrent findings of fact by the lower courts can be reopened in a special leave petition.",
+      "appellant_arguments": [
+        "The prosecution failed to establish that the appellant poured kerosene on the deceased, and there were no eyewitnesses.",
+        "The alleged dying declarations were not made voluntarily and were fabricated to falsely implicate the appellant.",
+        "The lower courts' findings were perverse as they failed to properly consider several doubts, such as how a victim with 86% burn injuries could give a declaration and whether the motive was proven.",
+        "The appellant himself was a victim with 40% burn injuries sustained while trying to save the deceased."
+      ],
+      "respondent_arguments": [
+        "The conviction is correctly based on the dying declaration.",
+        "The prosecution has proven the guilt of the accused beyond a reasonable doubt by adducing cogent and reliable evidence.",
+        "The concurrent findings of the lower courts do not warrant interference from the Supreme Court."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act",
+        "section": "32",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Ram Bihari Yadav v. State of Bihar & Ors.",
+        "citation": "(1998) 4 SCC 517 : [1998] 2 SCR 1097",
+        "principle": "Regarding the relevance and admissibility of a dying declaration as an exception to the rule against hearsay evidence under Section 32 of the Evidence Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Suresh Chandra Jana & Ors. v. State of West Bengal & Ors.",
+        "citation": "2017 (8) SCALE 697",
+        "principle": "Regarding the relevance and admissibility of a dying declaration as an exception to the rule against hearsay evidence under Section 32 of the Evidence Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Atbir v. Government of NCT of Delhi",
+        "citation": "(2010) 9 SCC 1 : [2010] 9 SCR 993",
+        "principle": "Regarding the relevance and admissibility of a dying declaration as an exception to the rule against hearsay evidence under Section 32 of the Evidence Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Paniben v. State of Gujarat",
+        "citation": "(1992) 2 SCC 474 : [1992] 2 SCR 197",
+        "principle": "Regarding the relevance and admissibility of a dying declaration as an exception to the rule against hearsay evidence under Section 32 of the Evidence Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Panneerselvam v. State of Tamilnadu",
+        "citation": "(2008) 17 SCC 190 : [2008] 8 SCR 962",
+        "principle": "Regarding the relevance and admissibility of a dying declaration as an exception to the rule against hearsay evidence under Section 32 of the Evidence Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Bharwada Bhoginbhai Hirjibhai v. State of Gujarat",
+        "citation": "(1983) 3 SCC 217 : [1983] 3 SCR 280",
+        "principle": "Regarding the relevance and admissibility of a dying declaration as an exception to the rule against hearsay evidence under Section 32 of the Evidence Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A statement made by a person as to the cause of their death, or as to any of the circumstances which resulted in their death, is relevant under Section 32 of the Evidence Act in cases where the cause of that person's death comes into question. A dying declaration is an exception to the rule against the admissibility of hearsay evidence.",
+    "obiter": [
+      "The development of the dying declaration as an exception to the hearsay rule is based on the formalistic view that certain classes of evidence are determined to be admissible or inadmissible, rather than on the apparent credibility of the particular evidence tendered."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court will not reopen a concurrent finding of fact in an appeal by special leave unless specific, exceptional conditions are met, such as the finding being based on no evidence, being perverse, relying on inadmissible evidence, or overlooking vital evidence. As the present case did not fall into any of these categories, and the lower courts' conclusions based on the dying declarations were plausible and inspired confidence, there was no ground for interference.",
+    "legal_tests_applied": [
+      "A concurrent finding of fact cannot be reopened in an appeal by special leave unless it is established: (1) that the finding is based on no evidence or (2) that the finding is perverse, it being such as no reasonable person could have arrived at even if the evidence was taken at its face value or (3) the finding is based and built on inadmissible evidence, which evidence, if excluded from vision, would negate the prosecution case or substantially discredit or impair it or (4) some vital piece of evidence which would tilt the balance in favour of the convict has been overlooked, disregarded, or wrongly discarded."
+    ],
+    "why_appellant_lost": [
+      "The appellant's case did not fall under any of the established categories that would permit the reopening of concurrent findings of fact.",
+      "The conclusion arrived at by the trial Court and the High Court was not found to be perverse, as the dying declaration was corroborated by the evidence of PW 8 (the doctor) who confirmed his endorsement on it.",
+      "The fact that some prosecution witnesses turned hostile and there were minor discrepancies in the prosecution's case did not have a bearing on the outcome because the lower courts had already thoroughly assessed each circumstance before recording their concurrent findings."
+    ],
+    "why_respondent_won": [
+      "The lower courts had taken a plausible view that the accused's guilt was proven beyond a reasonable doubt.",
+      "The dying declarations, which formed the basis of the conviction, were found by the lower courts to not suffer from any infirmity and to inspire confidence.",
+      "The prosecution, by adducing cogent and reliable evidence, had proven the guilt of the accused, and the concurrent findings of the lower courts did not warrant interference."
+    ],
+    "policy_considerations": [
+      "Declarations made near death are a dangerous kind of evidence due to factors like the victim's physical or mental weakness, a desire for self-vindication, the absence of the accused, and the lack of cross-examination.",
+      "To address these concerns, courts must adopt a cautious approach when considering a conviction based solely on a dying declaration.",
+      "While there is no absolute rule requiring corroboration, courts must only rely on a dying declaration if it inspires confidence in the mind of the Court."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p3_289203e9"
+    ]
+  }
+}

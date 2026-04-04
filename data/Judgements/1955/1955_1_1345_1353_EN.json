@@ -1,0 +1,97 @@
+{
+  "procedural_history": {
+    "originating_court": "Authority under the Payment of Wages Act, Bombay",
+    "impugned_order": "Judgment and Order dated the 28th day of September 1951 of the Authority under the Payment of Wages Act, Bombay in Application No. 500 of 1951.",
+    "high_court_proceedings": "Not mentioned in the text.",
+    "supreme_court_posture": "Appeal by Special Leave"
+  },
+  "decision": {
+    "appeal_result": "Allowed partially to the extent indicated above.",
+    "conviction_status": "The convictions of the appellant under sections 307 and 302 of the Indian Penal Code are set aside. His conviction under section 148 of the Indian Penal Code is maintained.",
+    "sentence_status": "The sentences for the convictions under sections 307 and 302 are set aside. The sentence of two years and a half in respect of the conviction under section 148 is maintained.",
+    "directions": [
+      "There shall be no retrial."
+    ]
+  },
+  "issues": [],
+  "arguments": [
+    {
+      "issue_text": "Whether the claim for house rent allowance constituted 'wages' under the Payment of Wages Act, thereby giving the Authority jurisdiction to hear the case.",
+      "appellant_arguments": [
+        "The appellant initially argued in their written statement that the subject matter of the claim was not 'wages' as defined by section 2(vi) of the Act, and therefore the Authority lacked jurisdiction. However, this argument was not pressed before the Supreme Court."
+      ],
+      "respondent_arguments": [
+        "By filing the application, the respondent implicitly argued that the house rent allowance was part of their wages and the Authority had jurisdiction to hear the claim."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the non-payment of house rent allowance amounted to an illegal deduction.",
+      "appellant_arguments": [
+        "The claim was inadmissible because there was no illegal deduction. The respondent had been allotted suitable railway quarters, and by refusing to occupy them, he was not entitled to any house rent allowance under the rules."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the relevant rule (rule 3(i)) was invalid or did not apply, and therefore they were entitled to the allowance despite not occupying the quarters."
+      ],
+      "court_acceptance": "Not specified in text"
+    },
+    {
+      "issue_text": "Whether the portion of the claim for the period preceding six months before the application date was barred by time.",
+      "appellant_arguments": [
+        "The appellant pleaded that the part of the claim related to the period preceding six months immediately before the application was time-barred under the proviso to section 15(2) of the Act."
+      ],
+      "respondent_arguments": [
+        "The respondent must have argued for the delay to be condoned by the Authority."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "the Act",
+        "section": "7",
+        "used_by_court": true
+      },
+      {
+        "act_name": "the Act",
+        "section": "11",
+        "used_by_court": true
+      },
+      {
+        "act_name": "the Act",
+        "section": "23",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A right conferred on an employee is not an absolute right if the statutory rules, which form part of the terms of the employment contract, make the grant of that right conditional. Consequently, where a right was never absolute but was conditional from its inception, there is no question of an employee relinquishing such a right when the conditions for its grant are not met.",
+    "obiter": [
+      "The opinion of prosecuting authorities formed during an investigation has no relevancy in the case and should not be placed on the record."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the house rent allowance was not an absolute right of the employee but a conditional one. The rules governing the allowance, which are considered part of the employment contract, make it payable only when an employee is posted at a specified location and has not been offered suitable government quarters. Once the employee refused the offer of suitable accommodation, the condition precedent for the allowance was no longer met. Consequently, the allowance ceased to be 'payable under the terms of the contract' and therefore did not constitute 'wages' within the meaning of the Payment of Wages Act. As a result, its non-payment could not be considered an illegal deduction.",
+    "legal_tests_applied": [
+      "The court interpreted the definition of 'wages' under the Payment of Wages Act, focusing on whether an amount is 'payable under the terms of the contract'.",
+      "The court applied a contractual analysis, treating the statutory rules framed by the Government for the allowance as integral terms of the contract between the employer and the employee.",
+      "The court distinguished between an absolute right and a conditional right, finding that the employee's entitlement to the house rent allowance was conditional and not absolute."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court noted the stated purpose of the house rent allowance, which is 'to compensate railway servants in certain costlier cities for excessive rents paid by them over and above what they might normally be expected to pay'.",
+      "The court also highlighted that the allowance is explicitly 'not intended to be a source of profit' or 'an allowance in lieu of free quarters', reinforcing the idea that it is a compensatory measure for a specific hardship, not a guaranteed emolument."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p2_495689f0"
+    ],
+    "decision.appeal_result": [
+      "p1_989a49e7"
+    ]
+  }
+}

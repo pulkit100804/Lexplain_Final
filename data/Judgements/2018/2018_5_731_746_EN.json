@@ -1,0 +1,104 @@
+{
+  "procedural_history": {
+    "originating_court": "Income Tax Appellate Tribunal",
+    "impugned_order": "Final judgment and order dated 03.09.2012 passed by the High Court at Calcutta in GA No. 2029 of 2012 ITAT No. 175 of 2012",
+    "high_court_proceedings": "The Revenue (Appellant) filed an appeal before the High Court at Calcutta against the order dated 29.02.2012 passed by the Income Tax Appellate Tribunal (ITA No. 1487/Kol/2011). The High Court dismissed the appeal vide judgment and order dated 03.09.2012.",
+    "supreme_court_posture": "Aggrieved by the High Court's judgment and order dated 03.09.2012, the Revenue (Appellant) has preferred this appeal before the Supreme Court."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "All the connecting appeals, interlocutory applications, if any, transferred cases as well as diary numbers are disposed off accordingly.",
+      "Parties to bear cost on their own."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the judgment of the High Court calls for any interference.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case before the Supreme Court was an appeal against a final judgment from the High Court at Calcutta.",
+          "The appellant (the Revenue) argued that the High Court's judgment was 'bad in law' and should be set aside.",
+          "The respondent argued that the High Court's decision was 'well within the parameters of law and requires no interference.'"
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court considered the arguments from both sides.",
+          "The Court ultimately agreed with the respondent's position."
+        ],
+        "conclusion": "The Supreme Court concluded that the judgment of the High Court did not call for any interference. Consequently, the Court dismissed the appeals."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the judgment of the High Court calls for any interference.",
+      "appellant_arguments": [
+        "The impugned judgment passed by the High Court is bad in law and is liable to be set aside by this Court.",
+        "The High Court erred in relying on the decision given by the jurisdictional High Court in ITAT No. 302/2011 (G.A. No. 3200/2011) because no appeal was preferred against that judgment due to the low tax effect in that matter."
+      ],
+      "respondent_arguments": [
+        "The decision of the High Court is well within the parameters of law and requires no interference."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Allied Motors (P.) Ltd etc. v. CIT, Delhi",
+        "citation": "(1997) 224 ITR 677 (SC)",
+        "principle": "A proviso which is inserted to remedy unintended consequences and to make the provision workable, or which supplies an obvious omission in the Section, is required to be read into the Section to give it a reasonable interpretation and must be treated as retrospective in operation.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A proviso that is inserted into a statute to remedy unintended consequences, make the provision workable, or supply an obvious omission, must be read into the section and treated as having retrospective operation to give the section a reasonable interpretation as a whole.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that Section 40(a)(ia) of the Income Tax Act, which deals with Tax Deducted at Source (TDS), should not be interpreted as a punitive \"iron rod provision.\" Its primary purpose is to ensure tax compliance, not to impose stern, disproportionate punishments on taxpayers. Amendments to the section were intended to remedy unintended consequences and make the provision workable, and therefore should be read into the section to give it a reasonable and effective meaning.",
+    "legal_tests_applied": [
+      "Purposive interpretation of a statute: The court analyzed the 'legislative object and purpose behind the provision' rather than applying a strict, literal meaning.",
+      "Principle of Proportionality: The court reasoned that 'the magnitude of punishment must not be disproportionate by what is required and necessary' and that the consequences should not be 'malevolent results, disproportionate to the offending act and aim of the legislation.'"
+    ],
+    "why_appellant_lost": [
+      "The court rejected the appellant's call for a strict interpretation of the statute, finding that such an approach would lead to disproportionate punishment and defeat the legislative intent of ensuring compliance rather than penalizing taxpayers excessively.",
+      "The court viewed the amendments to the section not as strictly prospective, but as corrective measures to 'remedy unintended consequences' and 'streamlining and correcting anomalies,' which justified a more flexible interpretation than the one advanced by the appellant."
+    ],
+    "why_respondent_won": [
+      "The respondent's position that the High Court's judgment was correct was upheld because the Supreme Court's own reasoning aligned with it, concluding that the High Court's decision did not call for any interference."
+    ],
+    "policy_considerations": [
+      "TDS results in collection of tax and the deductor discharges dual responsibility of collection of tax and its deposition to the government.",
+      "A provision of such nature, the purpose of which is to ensure tax compliance and not to punish the tax payer, should not be allowed to be converted into an iron rod provision which metes out stern punishment and results in malevolent results, disproportionate to the offending act and aim of the legislation.",
+      "Legislature can and do experiment and intervene from time to time when they feel and notice that the existing provision is causing and creating unintended and excessive hardships to citizens and subject or have resulted in great inconvenience and uncomfortable results.",
+      "Obedience to law is mandatory and has to be enforced but the magnitude of punishment must not be disproportionate by what is required and necessary.",
+      "A proviso which is inserted to remedy unintended consequences and to make the provision workable, a proviso which supplies an obvious omission in the Section, is required to be read into the Section to give the Section a reasonable interpretation."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p5_c3871a78"
+    ],
+    "citations.cases[0].principle": [
+      "p14_48703ee8"
+    ],
+    "judicial_reasoning.policy_considerations[0]": [
+      "p14_b637d316"
+    ],
+    "judicial_reasoning.policy_considerations[2]": [
+      "p14_b637d316"
+    ],
+    "judicial_reasoning.policy_considerations[4]": [
+      "p14_48703ee8"
+    ]
+  }
+}

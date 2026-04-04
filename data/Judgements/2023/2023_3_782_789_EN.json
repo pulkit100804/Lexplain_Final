@@ -1,0 +1,100 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a lower court in Jharkhand since the High Court of Jharkhand at Ranchi reviewed its decision.",
+    "impugned_order": "Judgment and Order dated 23.07.2004 of the High Court of Jharkhand at Ranchi in CRLA No. 214 of 2001.",
+    "high_court_proceedings": "The High Court of Jharkhand at Ranchi issued a Judgment and Order dated 23.07.2004 in CRLA No. 214 of 2001.",
+    "supreme_court_posture": "Guna Mahto, the appellant, approached the Supreme Court because he was aggrieved by the High Court's order. The Supreme Court allowed the appeal and set aside the orders passed by both the High Court and the lower court."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The appellant's bail bond shall stand discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court should interfere with the concurrent findings of fact by the trial court and the High Court.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court convicted the accused for murder under sections 302 and 201 of the Penal Code, 1860.",
+          "On appeal, the High Court affirmed the conviction and sentence, leading to concurrent findings of fact by both lower courts."
+        ],
+        "law": [
+          "The Supreme Court's general rule is that it does not interfere with concurrent findings of fact reached by lower courts.",
+          "An exception to this rule exists in exceptional cases where the concurrent findings are found to be \"absurd, leading to travesty of justice.\"",
+          "In such exceptional circumstances, the Court has a duty to interfere to rectify a \"miscarriage of justice.\""
+        ],
+        "application": [
+          "The Court found this to be an exceptional case warranting interference.",
+          "It determined that the lower courts had \"seriously erred\" by passing a conviction based on an \"incorrect and incomplete appreciation of evidence.\"",
+          "The lower courts had wrongly proceeded with an assumption of guilt based on suspicion, specifically that the accused was last seen with the deceased and had lodged a false report.",
+          "The Supreme Court noted a complete lack of evidence—ocular, circumstantial, or otherwise—that could establish the guilt of the accused beyond a reasonable doubt."
+        ],
+        "conclusion": "The Supreme Court decided to interfere with the concurrent findings because the lower courts' decisions were based on incorrect assumptions and a lack of evidence, which caused serious prejudice to the accused and resulted in a \"travesty of justice.\" Therefore, the Court found it necessary to rectify this miscarriage of justice by setting aside the conviction."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court should interfere with the concurrent findings of fact by the trial court and the High Court.",
+      "appellant_arguments": [
+        "The lower courts seriously erred in passing the order of conviction.",
+        "The conviction was based on an incorrect and incomplete appreciation of evidence, which caused serious prejudice to the accused and resulted in a travesty of justice.",
+        "The courts below wrongly proceeded with a presumptive assumption of guilt based on the accused being last seen with the deceased and lodging a false report.",
+        "Both the Trial Court and the High Court heavily and improperly relied on a UD Exhibit (Exhibit 3/1) to establish the guilt of the accused."
+      ],
+      "respondent_arguments": [
+        "The concurrent findings of the trial court and the High Court convicting the accused are well-founded and should be upheld."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "State of Andhra Pradesh",
+        "citation": "(1970) 3 SCC 474",
+        "principle": "The provided text does not specify the legal principle for which this case was cited.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Balak Ram v. State of U.P.",
+        "citation": "(1975) 3 SCC 219 : [1975] 1 SCR 753",
+        "principle": "The provided text does not specify the legal principle for which this case was cited.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Bhoginbhai Hirjibhai v. State of Gujarat",
+        "citation": "(1983) 3 SCC 217 : [1983] 3 SCR 280",
+        "principle": "The provided text does not specify the legal principle for which this case was cited.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In cases based on circumstantial evidence, the circumstances from which the conclusion of guilt is to be drawn must be fully established, with the standard of proof being that they 'must be or should be proved,' not merely that they 'may be proved.' The facts so established must be consistent only with the hypothesis of the accused's guilt and be of a conclusive nature and tendency.",
+    "obiter": [
+      "The Supreme Court does not normally interfere with concurrent findings of fact from lower courts unless the findings are absurd and lead to a travesty of justice, in which case the Court has a duty to rectify the miscarriage of justice."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The courts below seriously erred in passing the order of conviction based on an incorrect and incomplete appreciation of evidence, causing serious prejudice to the accused and resulting in a travesty of justice. The prosecution failed to establish the guilt of the accused beyond a reasonable doubt, as its case was based only on suspicion with no ocular, circumstantial, or other evidence linking the accused to the crime.",
+    "legal_tests_applied": [
+      "The Supreme Court does not normally interfere with concurrent findings of fact unless the findings are absurd and lead to a travesty of justice, in which case the Court has a duty to rectify the miscarriage of justice.",
+      "For a conviction based on circumstantial evidence, the following conditions must be met: (1) the circumstances for the conclusion of guilt must be fully established; (2) the facts must be consistent only with the hypothesis of guilt; (3) the circumstances must be conclusive; and (5) the chain of evidence must be so complete as to leave no reasonable ground for a conclusion consistent with the accused's innocence.",
+      "Suspicion, however grave, cannot take the place of proof, and the prosecution must establish its case beyond any reasonable doubt."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It is the Court's bounden duty to ensure that miscarriage of justice is avoided at all costs and the benefit of doubt, if any, is given to the accused."
+    ]
+  },
+  "evidence_map": {}
+}

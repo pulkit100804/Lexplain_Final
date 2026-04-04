@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "First Additional Sessions Judge, Morena (Sessions Court)",
+    "impugned_order": "Judgment and order dated 13.07.2018 passed by the High Court of Madhya Pradesh, Bench at Gwalior in Criminal Appeal No. 70/2000.",
+    "high_court_proceedings": "The accused (petitioner) preferred an appeal before the High Court of Madhya Pradesh, Bench at Gwalior (Criminal Appeal No. 70/2000), challenging the Sessions Court's judgment. The High Court dismissed the appeal, confirming the Sessions Court's conviction and sentence.",
+    "supreme_court_posture": "The petitioner-accused sought Special Leave to appeal to the Supreme Court under Article 136 of the Constitution of India, challenging the High Court's judgment. The Supreme Court dismissed the Special Leave Petition, declining to interfere with the judgments of the courts below, finding no perversity or illegality warranting intervention."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court should interfere with the impugned judgments and orders passed by the courts below.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "law_text": "The Supreme Court, in a petition under Article 136 of the Constitution of India, does not need to reappreciate evidence that has already been thoroughly considered by lower courts."
+          },
+          {
+            "law_text": "To warrant the Supreme Court's interference, the petitioner must demonstrate a perversity or illegality in the lower courts' orders that would 'shake the conscience' of the Court."
+          }
+        ],
+        "application": [
+          {
+            "fact_text": "The Sessions Court and the High Court had already conducted a 'threadbare' consideration of the entire oral and documentary evidence before finding the petitioner guilty.",
+            "law_application": "Applying its standard of review, the Supreme Court stated it did not need to reappreciate this evidence."
+          },
+          {
+            "fact_text": "The petitioner's senior advocate failed to point out any perversity or illegality in the judgments of the courts below during arguments.",
+            "law_application": "The Court found that since no significant error was shown, there was no reason that warranted its interference with the lower courts' decisions."
+          }
+        ],
+        "conclusion": "Based on the fact that the evidence had been thoroughly reviewed by the lower courts and the petitioner failed to show any perversity or illegality in their judgments, the Supreme Court was not inclined to interfere and accordingly dismissed the Special Leave Petition."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court should interfere with the impugned judgments and orders passed by the courts below.",
+      "appellant_arguments": [
+        "The prosecution's case rested solely on circumstantial evidence and failed to prove the entire chain of circumstances leading to the petitioner's guilt.",
+        "The lower courts erred in convicting the petitioner based on the \"last seen together\" theory, as there was a significant time gap between when the petitioner was last seen with the deceased and when the body was recovered.",
+        "The recovery of the weapon (axe) was not a sufficient ground for conviction, especially since the post-mortem doctor did not opine that the deceased's injuries were possible with that weapon.",
+        "There was no motive or animosity; witnesses PW-1 and PW-8 testified that the petitioner and the deceased had cordial relations.",
+        "The petitioner should be given the benefit of doubt, particularly since three other co-accused were acquitted and no independent witnesses were examined."
+      ],
+      "respondent_arguments": [
+        "The Supreme Court should not interfere because there are concurrent findings of guilt recorded by the lower courts (Sessions Court and High Court).",
+        "The petitioner failed to explain in his statement under Section 313 when and how he departed from the company of the deceased, which the lower courts rightly held as a circumstance adverse to him."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Satpal v. State of Haryana",
+        "citation": "(2018) 6 SCC 610",
+        "principle": "The specific legal principle is not provided in the text, which cuts off after stating the Court observed 'Dismissing the appeal, the Court'.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Rajender v. State (NCT of Delhi)",
+        "citation": "(2019) 10 SCC 623",
+        "principle": "The specific legal principle is not provided in the text, which cuts off after stating it was observed 'The Judgment of the Court was delivered by'.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In a case based on circumstantial evidence, once the prosecution establishes the 'last seen together' theory, the burden shifts to the accused under Section 106 of the Evidence Act to explain the circumstances under which they parted from the deceased. A failure to provide a reasonable explanation can be used as an additional incriminating link in the chain of circumstances against the accused.",
+    "obiter": [
+      "The burden to prove the guilt of the accused is always on the prosecution.",
+      "Section 106 of the Evidence Act is not intended to relieve the prosecution of its duty to prove the guilt of the accused.",
+      "The 'last seen together' theory is a weak kind of evidence by itself to found a conviction upon singularly.",
+      "In a case based on circumstantial evidence, the furnishing or non-furnishing of an explanation by the accused is a very crucial fact."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court will not interfere with the concurrent findings of guilt by the Sessions Court and the High Court, as its role in a petition under Article 136 of the Constitution is not to re-appreciate evidence that has already been thoroughly considered by the lower courts, especially when the petitioner has failed to demonstrate any perversity or illegality in those judgments.",
+    "legal_tests_applied": [
+      "The standard for interference under Article 136 of the Constitution of India with concurrent findings of fact by lower courts, which requires the petitioner to demonstrate perversity or illegality in the impugned orders that would shake the conscience of the Court."
+    ],
+    "why_appellant_lost": [
+      "The petitioner's counsel failed to point out any perversity or illegality in the impugned orders passed by the courts below.",
+      "The Supreme Court held that it need not re-appreciate the entire oral and documentary evidence, as it had already been threadbare considered by both the Sessions Court and the High Court."
+    ],
+    "why_respondent_won": [
+      "The conviction was based on concurrent findings of guilt from two courts (Sessions Court and High Court) which had already conducted a threadbare consideration of all evidence.",
+      "The Supreme Court's limited jurisdiction under Article 136 means it will not interfere with such concurrent findings unless a grave error is shown, which was not done in this case."
+    ],
+    "policy_considerations": [
+      "The Supreme Court should not act as a third court of appeal to re-appreciate evidence, particularly in cases where there are concurrent findings of fact by the trial court and the High Court, thereby upholding the judicial hierarchy and the finality of lower court factual determinations absent clear perversity."
+    ]
+  },
+  "evidence_map": {}
+}

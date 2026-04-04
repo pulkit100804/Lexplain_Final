@@ -1,0 +1,155 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate's Court",
+    "impugned_order": "Order of the Magistrate imposing a fine of Rs. 100 and directing the appellant to vacate the premises within two months.",
+    "high_court_proceedings": "1. Appellant appealed the Magistrate's order to the Sessions Judge.\n2. The Sessions Judge allowed the appeal and acquitted the appellant.\n3. Respondent No. 1 (Shri Nawal Kishore) filed a criminal appeal in the Allahabad High Court challenging the Sessions Judge's acquittal.\n4. The Allahabad High Court allowed the appeal, reversed the Sessions Judge's acquittal, and convicted the appellant. The High Court held that the appeal to the Sessions Judge was incompetent because no appeal lies against the imposition of a fine alone, and declined to treat the appeal as a revision.",
+    "supreme_court_posture": "The appellant, feeling aggrieved by the Allahabad High Court's judgment, filed an appeal in the Supreme Court by special leave. The Supreme Court allowed the appeal, set aside the High Court's judgment, and restored the Sessions Court's order of acquittal. The Supreme Court disagreed with the High Court's view that the appeal before the Sessions Judge was incompetent, because the Magistrate's order included a direction to vacate the premises under section 456 of the Criminal Procedure Code, making the order appealable."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The judgment of the High Court dated 16th December, 1980 is set aside and that of the Court of Sessions is restored.",
+      "The bail bond if any, shall be cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an offence of criminal trespass under Section 448 of the Indian Penal Code is established if the complaint does not allege that the entry was made with the intent to commit an offence, or to intimidate, insult or annoy any person in possession.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was initially allowed to occupy a premises by a person who had a life interest in it.",
+          "After that person's death, the appellant's license to occupy the premises ended, but she continued to stay.",
+          "The new owner filed a criminal complaint under Section 448 of the Indian Penal Code (IPC) for criminal trespass after the appellant did not vacate upon receiving a notice."
+        ],
+        "law": [
+          "The Court referred to Section 441 of the IPC, which defines criminal trespass.",
+          "To constitute criminal trespass, a person must enter or unlawfully remain on a property with the specific \"intent to commit an offence or to intimidate, insult or annoy any person in possession of such property.\"",
+          "The Court explicitly stated that not every act of trespass is a criminal trespass; the specific intent required by Section 441 must be established."
+        ],
+        "application": [
+          "The Court analyzed the complaint filed against the appellant.",
+          "It found that the complaint made \"absolutely no allegation\" regarding the appellant's intention to commit an offence, or to intimidate, insult, or annoy the new owner.",
+          "The Court reasoned that while the appellant's continued stay after her license ended might be a civil trespass, it does not automatically become a criminal trespass without the requisite intent."
+        ],
+        "conclusion": "The Supreme Court concluded that since the complaint failed to allege the essential element of intent required by Section 441 of the IPC, no offence of criminal trespass under Section 448 was established. Therefore, the issue was rejected."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether an appeal to the Sessions Judge was competent against a Magistrate's order that included not only a sentence of fine but also a direction to vacate the premises under Section 456 of the Criminal Procedure Code.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A Magistrate convicted the appellant, sentenced her to pay a fine of Rs. 100, and additionally directed her to vacate the premises within two months.",
+          "The order to vacate the premises was passed under Section 456 of the Criminal Procedure Code."
+        ],
+        "law": [
+          "If a Magistrate's order only imposes a sentence of fine, then a revision would be the proper remedy, not an appeal.",
+          "An order that includes a direction under Section 456 of the Criminal Procedure Code is appealable."
+        ],
+        "application": [
+          "The Supreme Court distinguished this case from one involving only a fine.",
+          "It noted that the Magistrate's order had two components: the fine and the direction to vacate the premises.",
+          "The Court reasoned that the inclusion of the order to vacate under Section 456 is what made the entire order appealable."
+        ],
+        "conclusion": "The Supreme Court concluded that the appeal to the Sessions Judge was competent and maintainable because the Magistrate's order included not just a fine, but also a direction to vacate the premises under Section 456 of the Criminal Procedure Code, which made the order appealable."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether initiating criminal proceedings for a dispute that is essentially a civil matter concerning the right to occupy premises constitutes an abuse of the process of the court.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was permitted to occupy a premises in 1967 by a Mr. Sood, who had a life interest in the property.",
+          "After Mr. Sood's death, the new owner (Respondent No. 1) served the appellant a notice to vacate, threatening criminal action for trespass if she failed to do so.",
+          "The appellant did not vacate, believing she had a right to remain.",
+          "The respondent filed a criminal complaint, and the Magistrate convicted the appellant of criminal trespass under section 448 of the Indian Penal Code."
+        ],
+        "law": [
+          "The Court cited Section 441 of the Indian Penal Code, which defines criminal trespass.",
+          "To constitute criminal trespass, a person must enter or unlawfully remain on a property with the specific \"intent to commit an offence or to intimidate, insult or annoy any person in possession of such property.\"",
+          "The Court emphasized the principle that \"every trespass does not amount to criminal trespass.\""
+        ],
+        "application": [
+          "The Court analyzed the complaint filed by the respondent and found that it contained \"absolutely no allegation\" that the appellant had the necessary criminal intent to commit an offense, intimidate, insult, or annoy anyone.",
+          "The Court noted that the appellant's continued stay, even if it became a civil trespass after Mr. Sood's death, was based on her belief that she had a right to occupy the premises.",
+          "The Court characterized the core of the conflict as a dispute over the right to possession, which is \"essentially a civil matter.\"",
+          "It reasoned that the proper forum for resolving such a dispute is a competent Civil Court through a suit for eviction, where the appellant could attempt to justify her possession."
+        ],
+        "conclusion": "The Supreme Court concluded that initiating criminal proceedings for a dispute that is fundamentally a civil matter over the right to occupy a property, especially when the essential element of criminal intent is missing, constitutes an abuse of the process of the court."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an offence of criminal trespass under Section 448 of the Indian Penal Code is established if the complaint does not allege that the entry was made with the intent to commit an offence, or to intimidate, insult or annoy any person in possession.",
+      "appellant_arguments": [
+        "The complaint filed by the respondent was insufficient on its face to make out an offence under Section 448 of the Indian Penal Code."
+      ],
+      "respondent_arguments": [
+        "The complaint was valid and sufficient to establish the offence of criminal trespass."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether an appeal to the Sessions Judge was competent against a Magistrate's order that included not only a sentence of fine but also a direction to vacate the premises under Section 456 of the Criminal Procedure Code.",
+      "appellant_arguments": [
+        "The appeal to the Sessions Judge was competent and maintainable because the Magistrate's order was not limited to a fine but also included a direction to vacate the premises under Section 456 of the Criminal Procedure Code, making the entire order appealable."
+      ],
+      "respondent_arguments": [
+        "The appeal filed by the appellant before the Sessions Judge was incompetent because no appeal lies against an order imposing only a fine; a revision should have been filed instead."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether initiating criminal proceedings for a dispute that is essentially a civil matter concerning the right to occupy premises constitutes an abuse of the process of the court.",
+      "appellant_arguments": [
+        "The criminal proceedings are an abuse of the court's process as the underlying dispute is civil in nature, relating to the right to occupy the premises."
+      ],
+      "respondent_arguments": [
+        "The initiation of criminal proceedings was a valid legal recourse for the act of criminal trespass."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "456",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "To satisfy the conditions of Section 441 of the Penal Code, it must be established that the party entered into possession over the premises with the intent to commit an offence, as not every trespass constitutes criminal trespass. Furthermore, a Magistrate's order that includes both a fine and a direction to vacate the premises under Section 456 of the Criminal Procedure Code is appealable, and a revision is not the sole competent remedy.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The criminal proceedings initiated against the appellant constitute an abuse of the process of the court, as the dispute is essentially a civil matter concerning the right to occupy premises. Furthermore, the complaint itself is insufficient to establish an offence of criminal trespass under Section 448 of the Indian Penal Code because it completely fails to allege the requisite intent to commit an offence, or to intimidate, insult, or annoy.",
+    "legal_tests_applied": [
+      "To establish an offence of criminal trespass under Section 448 of the Indian Penal Code, the complaint must contain an allegation that the entry was made with the intent to commit an offence, or to intimidate, insult or annoy any person in possession.",
+      "An order from a Magistrate that includes not only a sentence of fine but also a direction to vacate premises under Section 456 of the Criminal Procedure Code is appealable. If the order had been limited to a sentence of fine, only a revision would be competent."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Initiating criminal proceedings for a dispute that is essentially a civil matter, which can be properly adjudicated by a competent Civil Court, is an abuse of the process of the court.",
+      "A party who believes they have a right to occupy premises should have the opportunity to vindicate that right in a civil suit for eviction, rather than being subjected to criminal prosecution."
+    ]
+  },
+  "evidence_map": {
+    "arguments[1].respondent_arguments[0]": [
+      "p6_764c69c8"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge",
+    "impugned_order": "Judgment and order dated March 22, 1966 of the Allahabad High Court, Lucknow Bench in Criminal Appeal No. 82 of 1965.",
+    "high_court_proceedings": "The appellant was convicted by the Special Judge and was sentenced to suffer rigorous imprisonment for two years on each count, the sentences to run concurrently. The order was confirmed in appeal by the High Court of Allahabad.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court with special leave from the judgment of the Allahabad High Court."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the trial by the Special Judge was without jurisdiction on the ground of double jeopardy, as the appellant had been previously tried and the quashing of the proceeding amounted to an acquittal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, a railway employee, was first prosecuted for corruption after a sanction was obtained from the Deputy Chief Commercial Superintendent (DCCS).",
+          "During this initial trial, it was discovered that the DCCS was not the competent authority to grant the sanction.",
+          "At the request of the public prosecutor, the Special Judge quashed the proceeding.",
+          "Subsequently, a fresh, valid sanction was obtained from the Chief Commercial Superintendent, and a new trial was initiated for the same offenses, which resulted in the appellant's conviction."
+        ],
+        "law": [
+          "Under Section 6(c) of the Prevention of Corruption Act, a court can only take cognizance of a case against a public servant with the prior sanction of the authority competent to remove that servant from office.",
+          "Rule 1705 of the Indian Railway Establishment Code provides that a railway servant cannot be removed by an authority lower than the one by which they were appointed.",
+          "A fundamental legal principle is that an order of acquittal passed by a court that lacks jurisdiction does not bar a retrial for the same offense (i.e., it does not trigger the double jeopardy rule)."
+        ],
+        "application": [
+          "The appellant argued that the DCCS was competent to grant the sanction under Rule 1704 of the Railway Code, making the first trial valid and its quashing an acquittal.",
+          "The Court rejected this, finding that Rule 1704 was subject to the limitations of Rule 1705.",
+          "Applying Rule 1705, the Court determined that the DCCS was an officer of a lower rank than the one who had appointed the appellant and therefore was not competent to remove him from service.",
+          "Because the DCCS was not the competent removing authority, the sanction he provided for the first prosecution was invalid.",
+          "An invalid sanction meant the Special Judge in the first trial was incompetent to take cognizance of the case and thus had no jurisdiction to try it.",
+          "Since the first court lacked jurisdiction, its order quashing the proceedings could not operate as a legal acquittal that would bar a subsequent trial."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's double jeopardy claim. It concluded that the first trial was a nullity because it was initiated without a valid sanction, which deprived the court of jurisdiction. Therefore, the quashing of that proceeding did not amount to an acquittal and did not bar a second, validly initiated trial for the same offense."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the non-compliance with Section 356(1) of the Criminal Procedure Code, where evidence was recorded by one Judge and the record signed by another, was an illegality that vitiated the trial.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The evidence of two prosecution witnesses was recorded in the presence of the trial Judge, Mr. Fakhrul Hasan.",
+          "The recorded statements were read over to the witnesses and signed by them, confirming their correctness.",
+          "However, Mr. Fakhrul Hasan died before he could append his own signature to the record of the evidence as required by Section 356(1) of the Criminal Procedure Code (Cr.P.C.).",
+          "His successor recalled the two witnesses, and their previously recorded evidence was read over to them again.",
+          "The witnesses confirmed the correctness of the record, and the successor Judge offered the appellant's counsel an opportunity to cross-examine them, which was declined.",
+          "The successor Judge then subscribed his signature to the record of the evidence."
+        ],
+        "law": [
+          "Section 356(1) Cr.P.C. requires that the evidence of each witness shall be taken down in writing and signed by the presiding officer.",
+          "Section 537 Cr.P.C. provides that certain errors, omissions, or irregularities in proceedings do not invalidate a finding or sentence unless a failure of justice has been occasioned.",
+          "The object of the provisions for recording evidence is to ensure that a correct record is maintained of what is said in court for use at later stages of the trial and in appeal.",
+          "The precedent in *Abdul Rahman v. King-Emperor* established that a violation of procedural rules for recording evidence (in that case, Section 360) could be treated as a curable irregularity under Section 537 if no failure of justice occurred."
+        ],
+        "application": [
+          "The Court acknowledged that there was \"no strict compliance\" with Section 356(1) because the Judge who heard the evidence was not the one who signed the record.",
+          "However, the Court framed this non-compliance as a \"regrettable irregularity\" rather than a fundamental illegality that would vitiate the entire trial.",
+          "The Court's reasoning focused on the purpose of the law. It determined that the primary object of Section 356 is to ensure the accuracy of the evidentiary record.",
+          "In this case, the steps taken by the successor Judge—recalling the witnesses, having the evidence read to them, obtaining their confirmation of its correctness, and offering an opportunity for cross-examination—ensured that the record was accurate.",
+          "The Court emphasized that there was \"no suggestion of injustice—actual or possible—arising from the failure to comply strictly with the statute.\"",
+          "Therefore, since the purpose of the law was fulfilled and no prejudice or failure of justice was caused to the accused, the Court concluded that the irregularity was curable under Section 537 Cr.P.C."
+        ],
+        "conclusion": "The Supreme Court concluded that the non-compliance with Section 356(1) Cr.P.C. was a mere irregularity, not an illegality. Because the accuracy of the record was verified and no failure of justice occurred, the defect was curable under Section 537 Cr.P.C. and did not vitiate the trial."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the trial by the Special Judge was without jurisdiction on the ground of double jeopardy, as the appellant had been previously tried and the quashing of the proceeding amounted to an acquittal.",
+      "appellant_arguments": [
+        "The initial sanction for prosecution, given by the Deputy Chief Commercial Superintendent, was valid because that officer had the power to remove the appellant from service.",
+        "Since the sanction was valid, the first trial was conducted by a court of competent jurisdiction.",
+        "Therefore, the order by the Special Judge quashing the proceeding amounted in law to an order of acquittal.",
+        "As a result, the subsequent trial for the same offence was barred by the principle of double jeopardy."
+      ],
+      "respondent_arguments": [
+        "The first trial was initiated with a sanction from an officer who was not competent to grant it.",
+        "The trial judge correctly quashed the proceedings at the request of the Public Prosecutor upon discovering this jurisdictional defect.",
+        "A quashing of proceedings due to a lack of valid sanction is not an acquittal on merits.",
+        "A fresh trial could be initiated after obtaining a valid sanction from the proper authority (the Chief Commercial Superintendent), and this does not constitute double jeopardy."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the non-compliance with Section 356(1) of the Criminal Procedure Code, where evidence was recorded by one Judge and the record signed by another, was an illegality that vitiated the trial.",
+      "appellant_arguments": [
+        "The provisions of Section 356 Cr.P.C. were not followed because the evidence of two witnesses was recorded in the presence of one judge, but the record was signed by his successor after the first judge's death.",
+        "Citing the principle from Nazir Ahmad v. The King-Emperor, where the law prescribes a specific method for doing something, that is the only method permissible.",
+        "The failure to adhere to the strict procedure laid down in Section 356 was an illegality, not a mere irregularity, and therefore vitiated the entire trial."
+      ],
+      "respondent_arguments": [
+        "The departure from the strict letter of the law was a procedural irregularity that did not affect the validity of the trial.",
+        "The object of Section 356 is to ensure a correct record is maintained, and this was achieved.",
+        "Any potential prejudice was cured because the successor judge recalled the witnesses, had their previously recorded evidence read over to them (which they confirmed as correct), and offered the appellant's counsel an opportunity to cross-examine them, which was declined.",
+        "No failure of justice occurred as a result of this irregularity."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Art. 311(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Railway Establishment Code",
+        "section": "r. 1705 cl. (c)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Railway Establishment Code",
+        "section": "r. 1704(i)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "Ch. XXVII",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "Unnamed section (quoted as 'Explanation')",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Unnamed Act (regarding investigation procedures)",
+        "section": "Unnamed section",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A departure from the procedural rules for recording evidence will not invalidate a trial if the court is satisfied that the record is correct and the irregularity has not resulted in a failure of justice.",
+    "obiter": [
+      "No universal rule can be laid down for the construction of statutes, as to whether mandatory enactments shall be considered directory only or obligatory, with an implied nullification for disobedience.",
+      "It is the duty of Courts of Justice to try to get at the real intention of the legislature by carefully attending to the whole scope of the statute to be construed.",
+      "In each case you must look to the subject-matter, consider the importance of the provision that has been disregarded, and the relation of that provision to the general object intended to be secured by the Act, and, upon a review of the case in that aspect, decide whether the matter is what is called imperative or only directory."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appeal was dismissed because the initial trial was a nullity due to a lack of jurisdiction, as the sanction for prosecution was granted by an officer incompetent to do so, meaning the subsequent trial did not constitute double jeopardy. Furthermore, the procedural irregularity in the second trial, where evidence recorded by one judge was signed by his successor, was not a fatal illegality because the object of the law—to ensure a correct record—was met, and no failure of justice occurred.",
+    "legal_tests_applied": [
+      "An order of acquittal passed by a Court which had no jurisdiction does not bar a retrial for the same offence.",
+      "In determining whether a procedural error, omission, or irregularity has occasioned a failure of justice, the court must consider the importance of the disregarded provision and its relation to the general object intended to be secured by the Act to decide if it is imperative or merely directory.",
+      "A railway servant shall not be removed or dismissed by an authority lower than that by which he was appointed to the post held by him substantively (Rule 1705, subject to Article 311 of the Constitution)."
+    ],
+    "why_appellant_lost": [
+      "The Deputy Chief Commercial Superintendent, who gave the initial sanction, was an officer inferior in rank to the officer who had appointed the appellant and therefore had no power to grant sanction for prosecution, rendering the first trial before the Special Judge incompetent.",
+      "The principle from Nazir Ahmad v. The King-Emperor, which holds that a prescribed method is the only permissible method, was found to have no application to the procedural act of recording evidence in open court.",
+      "The non-compliance with Section 356 of the Criminal Procedure Code was deemed a procedural irregularity, not an illegality that vitiates the trial, because every departure from the strict letter of the law will not affect the validity of the trial if no injustice has resulted."
+    ],
+    "why_respondent_won": [
+      "The first trial was conducted by a court without jurisdiction because the sanction was invalid, and therefore an order from that court could not operate as an acquittal to bar a subsequent, validly initiated trial.",
+      "The object of the provisions in the Code relating to the recording of evidence is to ensure that a correct record is maintained, and the court was satisfied that despite the departure from procedure, the record was correct.",
+      "The procedural irregularity was not found to have occasioned a failure of justice, which is the determinative test for whether a finding or sentence should be reversed on account of such an error."
+    ],
+    "policy_considerations": [
+      "The object of procedural provisions for recording evidence is to ensure a correct record is maintained for use at trial and in appeal; if this object is achieved and no injustice results, a departure from the strict letter of the law may be ignored.",
+      "Compliance with procedural provisions is insisted upon in the larger interest of justice, but not every departure from the strict letter of the law will affect the validity of the trial, preventing convictions from being overturned on mere technicalities that do not cause a failure of justice."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p2_788cc0b8"
+    ],
+    "judicial_reasoning.why_respondent_won[1]": [
+      "p2_2c5d60f4"
+    ]
+  }
+}

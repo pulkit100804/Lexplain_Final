@@ -1,0 +1,140 @@
+{
+  "procedural_history": {
+    "originating_court": "City Magistrate, 7th Court, Ahmedabad",
+    "impugned_order": "Judgment and order dated June 19, 1964 of the Gujarat High Court in Criminal Appeal No. 759 of 1963, which was an order of acquittal.",
+    "high_court_proceedings": "The respondent was convicted by the City Magistrate. The respondent appealed to the Gujarat High Court in Criminal Appeal No. 759 of 1963. The High Court allowed the appeal and acquitted the respondent.",
+    "supreme_court_posture": "The State of Gujarat appealed to the Supreme Court by special leave, challenging the High Court's order of acquittal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set Aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the sale of cement by the government to a contractor, for the specific purpose of being used in a particular construction work, constitutes an 'entrustment' of property creating a fiduciary relationship for an offence of criminal breach of trust under Section 409 of the Indian Penal Code.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The government sold and delivered 100 bags of cement to a contractor (BSS) for the specific purpose of being used in a government construction project.",
+          "The respondent, acting on behalf of the contractor, took delivery of the cement.",
+          "The respondent then diverted a portion of this cement for a different purpose.",
+          "The respondent was prosecuted for criminal breach of trust under Section 409 of the Indian Penal Code, with the government being the party that allegedly 'entrusted' the cement."
+        ],
+        "law": [
+          "For an offense of criminal breach of trust, there must be an 'entrustment' of property.",
+          "The term 'entrustment' implies that the person handing over the property continues to be its owner.",
+          "Entrustment requires a fiduciary relationship, where confidence is placed in the person receiving the property.",
+          "A simple transaction of sale, where ownership and dominion over the property pass to the buyer, cannot amount to an entrustment."
+        ],
+        "application": [
+          "The Court determined that the transaction between the government and the contractor was a sale, not an entrustment.",
+          "The condition that the cement was to be used for a specific construction project did not change the fundamental nature of the transaction from being a sale.",
+          "Once the cement was delivered to the contractor's representative, the government no longer had any right, ownership, or dominion over it. The property had passed to the contractor.",
+          "Since the government was no longer the owner and had no control over the cement after the sale, there could be no entrustment by the government.",
+          "The Court found that no fiduciary relationship was created between the government and the respondent; it was a normal commercial transaction of sale.",
+          "The Court referenced a similar Calcutta High Court case (*Satyendra Nath Mukherji v. Emperor*) which reached the same conclusion on comparable facts."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the sale of cement by the government to a contractor did not constitute an 'entrustment'. The transaction was a sale, and after delivery, the government had no ownership or dominion over the cement. As entrustment is a necessary element for criminal breach of trust, the charge could not be sustained."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the precedent in The King v. Grubb, where the factum of entrustment was not in dispute, is applicable to a case where the very existence of entrustment is the central question.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "In the precedent case, The King v. Grubb, the fact that property had been entrusted to a company was not in dispute."
+        ],
+        "law": [
+          "The legal question decided in The King v. Grubb was whether a person directing and controlling a company could be held criminally liable for fraudulently converting property that had been entrusted to that company."
+        ],
+        "application": [
+          "The Supreme Court found that the precedent in The King v. Grubb was not relevant to the current case.",
+          "The court distinguished the two cases by highlighting that in Grubb, the existence of an entrustment was an accepted fact. The legal issue was about subsequent liability.",
+          "In contrast, the central question in the present case was whether an entrustment had occurred at all.",
+          "Since the foundational premise of the Grubb case (an undisputed entrustment) was the very point being contested in the current case, the precedent was deemed inapplicable."
+        ],
+        "conclusion": "The Supreme Court rejected the applicability of The King v. Grubb because that precedent assumed the existence of an entrustment to decide a different legal point (director's liability), whereas the current case's primary issue was to determine if an entrustment had ever been created in the first place."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the sale of cement by the government to a contractor, for the specific purpose of being used in a particular construction work, constitutes an 'entrustment' of property creating a fiduciary relationship for an offence of criminal breach of trust under Section 409 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The government entrusted 100 bags of cement to the respondent for the specific purpose of being used in the construction of a government building.",
+        "By diverting 40 bags of this cement to a private godown, the respondent misappropriated the entrusted property and committed a criminal breach of trust."
+      ],
+      "respondent_arguments": [
+        "The transaction was a sale of cement, not an entrustment. The respondent's company (acting for BSS) took delivery of the cement, and ownership passed to them.",
+        "The respondent factually denied misappropriation, claiming he was merely replacing 40 bags of his company's own cement that had already been used for the project in anticipation of the government's allotment."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the precedent in The King v. Grubb, where the factum of entrustment was not in dispute, is applicable to a case where the very existence of entrustment is the central question.",
+      "appellant_arguments": [
+        "The provided text does not contain the arguments for this issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments for this issue."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "409",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "405",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Satyendra Nath Mukherji v. Emperor",
+        "citation": "I.L.R. [1947] 1 Cal. 97",
+        "principle": "When goods are sold to a person under a permit that directs their specific use, the transaction is a sale, and property passes to the buyer. This does not constitute an 'entrustment' of the property or dominion over it within the meaning of s. 405 of the Indian Penal Code for the offense of criminal breach of trust.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When a controlled commodity is allotted by the government to a contractor for a specific purpose through a transaction of purchase, where the property in the commodity passes to the contractor, there is no entrustment of that property. The transaction is a sale, and a subsequent diversion of the commodity does not constitute a criminal breach of trust, even if the purchase was conditional upon its use for a specific purpose.",
+    "obiter": [
+      "In view of the conclusion that the prosecution has failed to prove the entrustment pleaded, it is unnecessary to consider whether on the material on record it can be concluded that the respondent had misappropriated the goods."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The transaction between the government and the contractor was a sale of cement, not an entrustment. Although the cement was sold for the specific purpose of being used in a particular construction project, this condition did not alter the fundamental nature of the transaction from a sale. Once the government delivered the cement, it relinquished all proprietary rights and dominion over it. Consequently, no fiduciary relationship was created, and the essential element of 'entrustment' required for an offence of criminal breach of trust under Section 409 of the Indian Penal Code was not established.",
+    "legal_tests_applied": [
+      "To establish a criminal breach of trust under Section 409 IPC, the prosecution must first prove that there was an 'entrustment' of property or dominion over property in a fiduciary capacity. This requires demonstrating that the entrusting party retained a proprietary right or dominion over the property after its delivery."
+    ],
+    "why_appellant_lost": [
+      "The prosecution failed to prove the foundational element of entrustment, which was the central basis of its case.",
+      "The court rejected the argument that the government retained any proprietary right or dominion over the cement after it was sold and delivered to the contractor's representative.",
+      "The court determined that the condition that the cement be used for a specific purpose did not create a fiduciary relationship between the government and the respondent.",
+      "The transaction was characterized as a normal sale, which transfers ownership, not as an entrustment, which involves a transfer of possession while retaining ownership or dominion."
+    ],
+    "why_respondent_won": [
+      "The transaction was legally a sale, meaning ownership of the cement passed from the government to the contractor (BSS) upon delivery.",
+      "As the government had no remaining right or dominion over the cement after the sale, there could be no entrustment of property by the government to the respondent.",
+      "The court found that no fiduciary relationship existed between the government and the respondent, which is a necessary component for a charge of criminal breach of trust in this context.",
+      "Since the essential ingredient of entrustment was not proven, the question of whether the respondent misappropriated the cement became irrelevant to the charge."
+    ],
+    "policy_considerations": [
+      "A breach of a condition of sale or a violation of a regulatory law (like cement control laws) should be prosecuted under the specific statute governing that violation, not by stretching the definition of a serious criminal offense like criminal breach of trust. The court noted, 'If the purchaser or its representative had failed to comply with the requirements of any law relating to the cement control, he should have been prosecuted for the same. It could not be held that there was any breach of trust.'"
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,125 @@
+{
+  "case_id": "48abc42e-ffb2-4db4-9780-d85ae173c5c4",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_2_segmentation",
+  "input_refs": [
+    "normalized_text.txt"
+  ],
+  "created_at": "2026-03-26T03:33:18.368489+00:00",
+  "nodes": [
+    {
+      "node_id": "n_001",
+      "text": "On the night of 12th August, the accused and the victim were involved in a heated argument outside a local shop.",
+      "span": {
+        "start": 0,
+        "end": 112
+      }
+    },
+    {
+      "node_id": "n_002",
+      "text": "According to a witness present at the scene, the argument escalated quickly, and in a moment of anger, the accused picked up a wooden stick lying nearby and struck the victim on the head.",
+      "span": {
+        "start": 113,
+        "end": 300
+      }
+    },
+    {
+      "node_id": "n_003",
+      "text": "The victim immediately collapsed and was taken to the hospital by nearby individuals.",
+      "span": {
+        "start": 301,
+        "end": 386
+      }
+    },
+    {
+      "node_id": "n_004",
+      "text": "Medical reports later confirmed that the victim had suffered a severe head injury and died the following morning.",
+      "span": {
+        "start": 387,
+        "end": 500
+      }
+    },
+    {
+      "node_id": "n_005",
+      "text": "There was no prior enmity reported between the accused and the victim.",
+      "span": {
+        "start": 501,
+        "end": 571
+      }
+    },
+    {
+      "node_id": "n_006",
+      "text": "The incident appeared to have occurred spontaneously during the altercation.",
+      "span": {
+        "start": 572,
+        "end": 648
+      }
+    },
+    {
+      "node_id": "n_007",
+      "text": "The police recovered the wooden stick from the scene, and blood stains matching the victim were found on it.",
+      "span": {
+        "start": 649,
+        "end": 757
+      }
+    },
+    {
+      "node_id": "n_008",
+      "text": "The witness stated that the accused did not appear to plan the attack but acted suddenly during the argument.",
+      "span": {
+        "start": 758,
+        "end": 867
+      }
+    },
+    {
+      "node_id": "n_009",
+      "text": "The accused was arrested the next day.",
+      "span": {
+        "start": 868,
+        "end": 906
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_001",
+      "target": "n_002",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_002",
+      "target": "n_003",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_003",
+      "target": "n_004",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_004",
+      "target": "n_005",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_005",
+      "target": "n_006",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_006",
+      "target": "n_007",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_007",
+      "target": "n_008",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_008",
+      "target": "n_009",
+      "relation": "sequential"
+    }
+  ]
+}

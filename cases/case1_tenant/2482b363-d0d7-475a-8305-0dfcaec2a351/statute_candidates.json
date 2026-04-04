@@ -1,0 +1,409 @@
+{
+  "case_id": "2482b363-d0d7-475a-8305-0dfcaec2a351",
+  "tenant_id": "case1_tenant",
+  "agent": "agent_5c_statute_retriever",
+  "input_refs": [
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-03-19T11:57:33.073349+00:00",
+  "query_terms": [
+    "use of force",
+    "struck",
+    "accused against victim",
+    "accused struck",
+    "causing death",
+    "injuries",
+    "evidence present",
+    "recovered",
+    "physical force used",
+    "death occurred",
+    "evidence found",
+    "death following force",
+    "weapon present"
+  ],
+  "total_sections_indexed": 520,
+  "candidates": [
+    {
+      "section": "148",
+      "heading": "Rioting, armed with deadly weapon.",
+      "score": 60.3894,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "148.1",
+          "text": "The accused is armed with anything which, used as a weapon of offence, is likely to cause death.",
+          "element_type": "circumstance"
+        }
+      ],
+      "offence_category": [
+        "criminal_offence"
+      ]
+    },
+    {
+      "section": "204",
+      "heading": "Destruction of document to prevent its production as evidence.",
+      "score": 54.5391,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "204.1",
+          "text": "The accused secretes or destroys a document or electronic record.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "204.2",
+          "text": "The accused obliterates or renders illegible the whole or any part of a document or electronic record.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "204.3",
+          "text": "The evidence is for a Court of Justice or any proceeding lawfully held before a public servant.",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "204.4",
+          "text": "The accused acts with the intention of preventing the document or electronic record from being produced or used as evidence before such Court or public servant.",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "204.5",
+          "text": "The accused acts after having been lawfully summoned or required to produce the document or electronic record for that purpose.",
+          "element_type": "circumstance"
+        }
+      ],
+      "offence_category": [
+        "obstruction_of_justice",
+        "evidence_tampering"
+      ]
+    },
+    {
+      "section": "144",
+      "heading": "Joining unlawful assembly armed with deadly weapon.",
+      "score": 52.9718,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "144.1",
+          "text": "The person is armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death.",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "public_order_offence"
+      ]
+    },
+    {
+      "section": "354",
+      "heading": "Assault of criminal force to woman with intent to outrage her modesty.",
+      "score": 47.1529,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "354.1",
+          "text": "Whoever assaults or uses criminal force to any woman",
+          "element_type": "act"
+        }
+      ],
+      "offence_category": [
+        "assault",
+        "sexual_offence"
+      ]
+    },
+    {
+      "section": "193",
+      "heading": "Punishment for false evidence.",
+      "score": 46.3931,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "193.1",
+          "text": "Whoever intentionally gives false evidence",
+          "element_type": "act"
+        },
+        {
+          "ingredient_id": "193.2",
+          "text": "in any stage of a judicial proceeding",
+          "element_type": "context"
+        },
+        {
+          "ingredient_id": "193.3",
+          "text": "or fabricates false evidence",
+          "element_type": "act"
+        },
+        {
+          "ingredient_id": "193.4",
+          "text": "for the purpose of being used in any stage of a judicial proceeding",
+          "element_type": "intent"
+        },
+        {
+          "ingredient_id": "193.5",
+          "text": "whoever intentionally gives or fabricates false evidence",
+          "element_type": "act"
+        }
+      ],
+      "offence_category": [
+        "perjury",
+        "obstruction_of_justice"
+      ]
+    },
+    {
+      "section": "326",
+      "heading": "Voluntarily causing grievous hurt by dangerous weapons or means.",
+      "score": 45.8477,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "326.2",
+          "text": "The grievous hurt is caused by means of any instrument for shooting, stabbing or cutting.",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "326.3",
+          "text": "The grievous hurt is caused by means of any instrument which, used as a weapon of offence, is likely to cause death.",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "326.4",
+          "text": "The grievous hurt is caused by means of fire or any heated substance.",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "326.5",
+          "text": "The grievous hurt is caused by means of any poison or any corrosive substance.",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "326.6",
+          "text": "The grievous hurt is caused by means of any explosive substance.",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "326.7",
+          "text": "The grievous hurt is caused by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood.",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "326.8",
+          "text": "The grievous hurt is caused by means of any animal.",
+          "element_type": "means"
+        }
+      ],
+      "offence_category": [
+        "grievous_hurt",
+        "dangerous_weapons"
+      ]
+    },
+    {
+      "section": "195A",
+      "heading": "Threatening any person to give false evidence.",
+      "score": 45.7123,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "195A.2",
+          "text": "The threat is with any injury to the person, reputation, or property of the threatened person.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "195A.3",
+          "text": "The threat is made with intent to cause that person to give false evidence.",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "195A.4",
+          "text": "An innocent person is convicted and sentenced in consequence of such false evidence.",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "obstruction_of_justice",
+        "perjury"
+      ]
+    },
+    {
+      "section": "301",
+      "heading": "Culpable homicide by causing death of person other than person whose death was intended.",
+      "score": 45.606,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "301.1",
+          "text": "A person does something which he intends or knows to be likely to cause death.",
+          "element_type": "actus_reus_and_mens_rea"
+        },
+        {
+          "ingredient_id": "301.2",
+          "text": "The act commits culpable homicide by causing the death of any person.",
+          "element_type": "result"
+        },
+        {
+          "ingredient_id": "301.3",
+          "text": "The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "301.4",
+          "text": "The culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.",
+          "element_type": "legal_consequence"
+        }
+      ],
+      "offence_category": [
+        "culpable_homicide"
+      ]
+    },
+    {
+      "section": "304B",
+      "heading": "Dowry death.",
+      "score": 45.4583,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "304B.1",
+          "text": "the death of a woman is caused by any burns or bodily injury",
+          "element_type": "causal_circumstance"
+        },
+        {
+          "ingredient_id": "304B.2",
+          "text": "the death of a woman occurs otherwise than under normal circumstances",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "304B.3",
+          "text": "the death occurs within seven years of her marriage",
+          "element_type": "temporal_condition"
+        },
+        {
+          "ingredient_id": "304B.4",
+          "text": "soon before her death she was subjected to cruelty or harassment",
+          "element_type": "conduct"
+        },
+        {
+          "ingredient_id": "304B.6",
+          "text": "cruelty or harassment by any relative of her husband",
+          "element_type": "actor"
+        },
+        {
+          "ingredient_id": "304B.8",
+          "text": "dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)",
+          "element_type": "definition"
+        }
+      ],
+      "offence_category": [
+        "offence_against_women",
+        "homicide"
+      ]
+    },
+    {
+      "section": "316",
+      "heading": "Causing death of quick unborn child by act amounting to culpable homicide.",
+      "score": 45.3762,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "316.1",
+          "text": "Whoever does any act under such circumstances, that if he thereby caused death he would be guilty of culpable homicide",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "316.2",
+          "text": "and does by such act cause the death of a quick unborn child",
+          "element_type": "causation"
+        }
+      ],
+      "offence_category": [
+        "criminal_offence",
+        "homicide"
+      ]
+    },
+    {
+      "section": "352",
+      "heading": "Punishment for assault or criminal force otherwise than on grave provocation.",
+      "score": 45.2848,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "352.1",
+          "text": "Whoever assaults or uses criminal force to any person",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "352.4",
+          "text": "if the provocation is given by anything done in obedience to the law, or by a public servant, in the lawful exercise of the powers of such public servant",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "352.5",
+          "text": "if the provocation is given by anything done in the lawful exercise of the right of private defence",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "assault",
+        "criminal_force"
+      ]
+    },
+    {
+      "section": "387",
+      "heading": "Putting person in fear of death or of grievous hurt, in order to commit extortion.",
+      "score": 45.1704,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "387.1",
+          "text": "Whoever puts or attempts to put any person in fear of death or of grievous hurt",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "extortion",
+        "offence_against_person"
+      ]
+    },
+    {
+      "section": "354B",
+      "heading": "Assault or use of criminal force to woman with intent to disrobe.",
+      "score": 44.9371,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "354B.2",
+          "text": "assaults or uses criminal force to any woman",
+          "element_type": "act"
+        },
+        {
+          "ingredient_id": "354B.4",
+          "text": "with the intention of disrobing or compelling her to be naked",
+          "element_type": "mens_rea"
+        }
+      ],
+      "offence_category": [
+        "assault",
+        "sexual_offence"
+      ]
+    },
+    {
+      "section": "355",
+      "heading": "Assault or criminal force with intent to dishonour person, otherwise than on grave provocation.",
+      "score": 44.7481,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "355.1",
+          "text": "Whoever assaults or uses criminal force to any person",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "assault",
+        "criminal_force",
+        "offence_against_person",
+        "intentional_offence"
+      ]
+    },
+    {
+      "section": "460",
+      "heading": "All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them.",
+      "score": 43.6894,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "460.2",
+          "text": "At the time of committing such offence, any person guilty of such offence voluntarily causes or attempts to cause death or grievous hurt to any person.",
+          "element_type": "consequence"
+        }
+      ],
+      "offence_category": [
+        "house-trespass",
+        "house-breaking",
+        "grievous_hurt",
+        "death"
+      ]
+    }
+  ]
+}

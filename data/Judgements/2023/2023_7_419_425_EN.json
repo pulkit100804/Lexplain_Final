@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "National Consumers Disputes Redressal Commission, New Delhi",
+    "impugned_order": "Judgment and Order dated 07.01.2019 of the National Consumers Disputes Redressal Commission, New Delhi in CCN No. 227 of 2012.",
+    "high_court_proceedings": "The Respondent filed Consumer Complaint No. 227 of 2012 before the National Commission challenging the repudiation of a claim. The National Commission partly allowed the complaint via the order dated 07.01.2019.",
+    "supreme_court_posture": "The Insurance Company (Appellant) appealed the National Commission's order to the Supreme Court. The Supreme Court dismissed the appeal, finding no merit in it."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the National Commission was correct in partly allowing the consumer complaint and holding that the repudiation of the insurance claim by the appellant-Insurance Company was erroneous.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent, a resort owner, held two insurance policies from the appellant-Insurance Company.",
+          "A mob of 200-250 people entered the resort and caused significant damage.",
+          "A surveyor assessed the financial loss to be Rs. 202.216 lakhs.",
+          "The appellant-Insurance Company repudiated (denied) the claim, alleging that the loss resulted from a 'malicious act' by the respondent's management.",
+          "The insurer's reasoning was that the resort had sheltered individuals involved in a fatal shooting, which provoked the mob attack, and this fell under the policy's exclusionary clause V(d).",
+          "The National Commission found the repudiation to be erroneous and ordered the insurance company to pay the claim."
+        ],
+        "law": [
+          "In an insurance claim, the burden of proof is on the insurance company to demonstrate that the loss falls squarely within a specific exclusionary clause of the policy.",
+          "An insurance company must provide cogent and valid reasons for not accepting a surveyor's report assessing the loss."
+        ],
+        "application": [
+          "The Supreme Court examined the evidence presented by the appellant-Insurance Company to support its claim of a 'malicious act' by the respondent.",
+          "The Court found that there was 'hardly any material' to prove that the damage to the insured property was caused by a malicious act of the respondent-complainant.",
+          "Consequently, the Court determined that the appellant-Insurance Company had failed to discharge its burden of proving that the incident was covered by the exclusionary clause V(d).",
+          "The Court also noted that the insurance company had failed to provide any cogent reason for rejecting the surveyor's report, which had quantified the loss."
+        ],
+        "conclusion": "The Supreme Court rejected the appeal from the Insurance Company. It held that the National Commission was correct because the insurer failed to meet its burden of proof. The insurer did not provide sufficient evidence to show that the damage was caused by a 'malicious act' of the insured, and therefore could not justify repudiating the claim under the policy's exclusionary clause."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the National Commission was correct in partly allowing the consumer complaint and holding that the repudiation of the insurance claim by the appellant-Insurance Company was erroneous.",
+      "appellant_arguments": [
+        "The loss claimed by the respondent was the result of a malicious act, which is an exclusion under Clause V(d) of the insurance policies.",
+        "The respondent (the assured) breached a warranty concerning the class of constructions covered by the policies."
+      ],
+      "respondent_arguments": [
+        "The repudiation of the insurance claim by the appellant-Insurance Company was erroneous.",
+        "The National Commission's decision to grant the claim was correct."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "National Insurance Company Limited v. Ishar Das Madan Lal",
+        "citation": "(2007) 4 SCC 105 : [2007] 2 SCR 1014",
+        "principle": "Wherever an exclusionary clause is contained in a policy, it would be for the insurer to show that the case falls within the purview thereof. In a case of ambiguity, the contract of insurance shall be construed in favour of the insured.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "General Assurance Society Ltd. v. Chandumull Jain and Anr.",
+        "citation": "AIR 1966 SC 1644 : [1966] SCR 500",
+        "principle": "It was followed as a Constitution Bench authority for its observations on the interpretation of insurance contracts, specifically in the context of exclusionary clauses.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When an insurance policy contains an exclusionary clause, the burden is on the insurer to demonstrate that the case falls within the scope of that clause. In instances of ambiguity, the insurance contract must be interpreted in favor of the insured.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appellant-Insurance Company failed to discharge its burden of proof to bring the case within the exclusionary clause V(d) of the policies. The Court found there was hardly any material to show that the damage to the insured property was caused by a malicious act of the respondent-complainant. Furthermore, the appellant failed to provide any cogent and satisfactory reasons for departing from the surveyor's report, which had found the claim admissible.",
+    "legal_tests_applied": [
+      "The burden of proving that a loss or damage falls within an exclusionary clause of an insurance policy is on the insurer.",
+      "While a Surveyor’s Report is not the last and final word, an insurer must provide cogent and satisfactory reasons or grounds for not accepting the Report."
+    ],
+    "why_appellant_lost": [
+      "The appellant-Insurance Company had failed to discharge its burden of bringing the case within the exclusionary clause V(d) of the policies in question.",
+      "There is hardly any material to show that the entire incident and the resultant damage to the insured property was caused as a result of the malicious act of the respondent-complainant.",
+      "The appellant-Insurance Company has failed to make out any such cogent reason for not accepting the surveyor’s Report."
+    ],
+    "why_respondent_won": [
+      "The surveyor in the Final Survey Report dated 16.06.2011 had opined that the loss had occurred due to the insured peril and the claim was admissible."
+    ],
+    "policy_considerations": [
+      "In line with the Constitution Bench in General Assurance Society Ltd. Vs. Chandumull Jain and Another, the court reinforces the principle that the insurer bears the burden of proving the applicability of an exclusion clause in an insurance contract."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.why_appellant_lost[1]": [
+      "p6_dc94c5af"
+    ]
+  }
+}

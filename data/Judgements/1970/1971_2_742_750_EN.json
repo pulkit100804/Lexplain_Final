@@ -1,0 +1,133 @@
+{
+  "procedural_history": {
+    "originating_court": "Sub-Divisional Magistrate, Monghyr",
+    "impugned_order": "Magistrate's order adjourning the case after a request from the public prosecutor for action under section Sections 91 and 344 of the Code.",
+    "high_court_proceedings": "The text mentions a Special Bench that held sections 91 and 344 inapplicable to trials under Chapter VIII of the Code, and that the rulings cited in support of the case were wrongly decided. It is implied that this Special Bench was a higher court (likely the High Court) reviewing the Magistrate's actions.",
+    "supreme_court_posture": "The petitioners approached the Supreme Court directly under Article 32 of the Constitution of India."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Detention of the petitioners from August 9, 1970 was illegal and they were entitled to be free."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "The validity of the detention of the petitioners from August 9, 1970.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "On August 9, 1970, a Magistrate, believing there was an apprehension of a breach of peace, read a notice under section 112 of the Code of Criminal Procedure (Cr.P.C.) to the petitioners.",
+          "This notice required them to show cause why they should not be ordered to execute a bond for keeping the peace.",
+          "After reading the notice, the Magistrate ordered the petitioners to be detained in custody."
+        ],
+        "law": [
+          "The Supreme Court stated that after a Magistrate reads an order under section 112 Cr.P.C., they must start an inquiry into the truth of the information presented by the police.",
+          "Only after beginning this inquiry can the Magistrate legally ask the person to provide an interim bond or order their detention.",
+          "Without conducting any inquiry, a Magistrate has no authority to detain a person in custody or require them to execute a bond."
+        ],
+        "application": [
+          "The Court found that the Magistrate was \"too much in a hurry\" and did not follow the correct legal procedure.",
+          "The Magistrate failed to initiate an inquiry into the truth of the police's information after reading the section 112 notice to the petitioners.",
+          "By detaining the petitioners without first starting this legally required inquiry, the Magistrate acted contrary to the law."
+        ],
+        "conclusion": "The Supreme Court concluded that because the Magistrate failed to conduct the necessary inquiry as required by law, his action of detaining the petitioners in custody from August 9, 1970, was illegal."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the detention of the petitioners could be justified under section 344, section 91, or section 167 of the Code of Criminal Procedure.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioners were arrested and brought before a Magistrate for proceedings under Chapter VIII of the Code of Criminal Procedure.",
+          "The State's counsel attempted to justify the petitioners' detention by relying on section 344, section 91, or section 167 of the Code."
+        ],
+        "law": [
+          "Chapter VIII of the Code of Criminal Procedure contains its own specific and elaborate procedure for handling cases involving persons suspected of being likely to breach the peace.",
+          "Section 91 of the Code applies to a person who is present in court and free, as it involves binding them over to appear on a future date.",
+          "Section 344 of the Code deals with the ordinary adjournment of a case and is not a substitute for the specific procedures within Chapter VIII, such as section 117(3)."
+        ],
+        "application": [
+          "The Court determined that the State was improperly trying to find justification for the detention in other parts of the Code because the specific procedures of Chapter VIII had not been followed.",
+          "The Court found section 91 to be inappropriate because the petitioners were already in custody and not free agents whose appearance depended on their own volition.",
+          "Similarly, the Court held that section 344 was not applicable as it could not be used as a substitute for the specific provisions governing interim bonds and detention within Chapter VIII proceedings.",
+          "The Court emphasized that the Legislature has specified a distinct and elaborate procedure for Chapter VIII cases, and these provisions cannot be overlooked or bypassed."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the detention could be justified under sections 344, 91, or 167, holding that these sections do not apply to persons, like the petitioners, who were brought before the court under the specific and self-contained procedural provisions of Chapter VIII of the Code."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "The validity of the detention of the petitioners from August 9, 1970.",
+      "appellant_arguments": [
+        "The detention was invalid and not supported by law. (Implicit in the filing of the petition and the arguments against the specific sections cited by the State)."
+      ],
+      "respondent_arguments": [
+        "The detention was valid and justified because there was an immediate apprehension and likelihood of a breach of peace by the petitioners.",
+        "The detention could be legally justified under various sections of the Code of Criminal Procedure, such as section 344, 91, or 167."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the detention of the petitioners could be justified under section 344, section 91, or section 167 of the Code of Criminal Procedure.",
+      "appellant_arguments": [
+        "The cited sections are inapplicable to proceedings under Chapter VIII of the Code, which has its own specific and elaborate procedure.",
+        "Section 91 is inappropriate as it applies to a person who is free and present in court, not to individuals like the petitioners who were already under arrest and in custody."
+      ],
+      "respondent_arguments": [
+        "The detention was justified under section 344 of the Code of Criminal Procedure.",
+        "Alternatively, the detention was justified under section 91 of the Code of Criminal Procedure.",
+        "As a further alternative, the detention was justified under section 167 of the Code of Criminal Procedure."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "Chapter VIII",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "117(3)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Madhu Limaye v. Sub-Divisional Magistrate, Monghyr",
+        "citation": "[1971] 2 S.C.R., 711",
+        "principle": "To hold that the detention of the petitioners was illegal.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A legal provision that requires a person to appear based on their own volition is inappropriate and cannot be applied to an individual who is already under arrest and in custody, as their appearance is controlled by the person who has their custody.",
+    "obiter": [
+      "Learned Counsel for the State attempted to put the matter under various sections of the Code of Criminal Procedure. He relied on section 344 or in the alternative on section 91 or in the alternative again on section 167."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The detention of the petitioners from August 9, 1970 was illegal because the Magistrate failed to follow the mandatory procedure required by law. After having the petitioners before him and reading them the order under section 112, it was the Magistrate's duty to either release them unconditionally or to ask them to give an interim bond for good conduct, but only after he had started inquiring into the truth of the information. The Magistrate did not act according to the law, and his action in detaining the petitioners in custody was therefore illegal. The State's attempt to justify the detention under section 91 was also rejected as that section was inappropriate for a person already under arrest and in custody, as their appearance depended not on their own volition but on the volition of the person who had their custody.",
+    "legal_tests_applied": [
+      "After an order under section 112 of the Code of Criminal Procedure is read to a person present in court, the Magistrate's duty is to either release them unconditionally or to ask them to provide an interim bond for good conduct, but only after commencing an inquiry into the truth of the information.",
+      "Section 91 of the Code of Criminal Procedure is inapplicable to a person who is already under arrest and in custody, as it applies to a person who is free and whose appearance depends on their own volition."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It is quite clear that the Magistrate was too much in hurry. He c11d not read the law to inform himself about what he was to do."
+    ]
+  },
+  "evidence_map": {}
+}

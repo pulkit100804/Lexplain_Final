@@ -1,0 +1,87 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate Court (in cases instituted upon complaint)",
+    "impugned_order": "Order of acquittal passed by a Magistrate in a case instituted upon complaint.",
+    "high_court_proceedings": "The complainant filed an application to the High Court seeking special leave to appeal the acquittal order. If the High Court grants special leave, the complainant may present an appeal to the High Court. If the application for special leave is refused, no appeal from the acquittal order lies to the High Court.",
+    "supreme_court_posture": "The Supreme Court heard Criminal Appeal Nos. 1281-1282 of 2018. The appeals were allowed."
+  },
+  "decision": {
+    "appeal_result": null,
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": []
+  },
+  "issues": [],
+  "arguments": [
+    {
+      "issue_text": "Unspecified issue leading to the appeal.",
+      "appellant_arguments": [
+        "The provided text does not contain the specific arguments made by the appellant. It only lists the names of their legal counsel."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent. It only lists the names of their legal counsel."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "372",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "378(3)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "378(4)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Satya Pal Singh v. State of Madhya Pradesh & Ors.",
+        "citation": "(2015) 15 SCC 613",
+        "principle": "The proviso to Section 372 of the Code contains both a substantive part, which creates the right for a victim to appeal against an order of acquittal, conviction for a lesser offence, or inadequate compensation, and a procedural part, which identifies the forum for filing such an appeal.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A right to appeal is a substantive right and cannot be inferred by implication unless a statute expressly provides for it.",
+    "obiter": [
+      "A decision rendered by a Bench of two judges has great persuasive value but it is not binding on a Bench of three Judges.",
+      "The obiter dicta of this Court would not bind us."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Legislature was aware of the fetter imposed on the State in filing an appeal against an order of acquittal but consciously chose not to place that same fetter on the right to appeal given to a victim under the proviso to Section 372 of the Cr.P.C. To judicially impose such a fetter would amount to rewriting the statute and defeating the legislative will.",
+    "legal_tests_applied": [
+      "Statutory Interpretation: The court analyzed the legislative intent behind the proviso to Section 372 of the Cr.P.C., concluding that the absence of a restriction found elsewhere in the statute was a deliberate choice by the legislature.",
+      "Stare Decisis: The court determined that a prior, contrary decision by a two-judge bench was not binding on the current three-judge bench, especially as it was distinguishable on its facts and contained non-binding obiter dicta."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The Legislature was aware of the provisions of the existing statute including the fetter imposed on the State in filing an appeal against an order of acquittal. However, that fetter was not placed on the right to appeal given to a victim under the proviso to Section 372 of the Cr.P.C.",
+      "If such fetter were to be placed on the right of the victim, it would amount to rewriting the proviso to Section 372 of the Cr.P.C. and would also defeat the legislative will.",
+      "A contrary view expressed by the Court in another decision was misunderstood, misinterpreted, and is clearly distinguishable on facts.",
+      "The other decision was rendered by a Bench of two learned judges and while the view expressed therein certainly has great persuasive value but it would not be binding on a Bench of three Judges.",
+      "The obiter dicta of this Court would not bind us."
+    ],
+    "policy_considerations": [
+      "The right to appeal is a substantive right and it cannot be inferred by implication unless the Statute expressly provides so."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p10_3e902f37"
+    ],
+    "judicial_reasoning.why_respondent_won[1]": [
+      "p24_a3482e84"
+    ]
+  }
+}

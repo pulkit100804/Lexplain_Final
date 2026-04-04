@@ -1,0 +1,1676 @@
+{
+  "case_id": "bfc7fddf-f34f-431e-b8c8-a2edfe88abc3",
+  "tenant_id": "test_run_3",
+  "agent": "agent_7_precedent_comparator",
+  "input_refs": [
+    "ingredient_report.json",
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-03-20T05:38:18.451111+00:00",
+  "query_used": "use of force causing death physical force used death occurred death following force mens_rea missing intention death bodily injury actus_reus missing knowledge circumstance missing",
+  "cases_retrieved": 6,
+  "cases_after_filter": 5,
+  "similarity_score": 0.86,
+  "matched_patterns": [
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was found guilty of culpable homicide because the court concluded it was 'not possible to hold that the act was done without the knowledge that it is likely to cause death.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court reasoned that 'Everybody, who carries a gun with live cartridges and even others know that firing a gun and that too in the presence of several people is an act, is likely to cause death, as indeed it did.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The appellant was held responsible for the foreseeable consequences of his actions, as 'The appellant is, thus, guilty of an act, the likely consequences of which including causing fatal injuries to the persons being in a close circuit, are attributable to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The undisputed fact that 'the Appellant opened fire in a crowded place i.e., a marriage ceremony without taking reasonable measures for safety, which led to the unfortunate demise of the Deceased' established the criminal act."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The respondent succeeded in securing a conviction for culpable homicide because the court agreed that the appellant's act was done with the requisite knowledge to be a criminal offence, specifically that it was 'done with the knowledge that is it likely to cause death within the meaning of Section 304 Part II IPC.'"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "The court applied the distinction between intention and knowledge as the determining factor between murder (Section 302), culpable homicide under Section 304 Part I, and culpable homicide under Section 304 Part II. Citing Kunwar Pal Singh, the court noted that Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely to cause death' but without such intention falls under Section 304 Part II."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court found that the appellants had a common intention to cause the specific bodily injury which was inflicted, and this injury was objectively sufficient to cause death in the ordinary course of nature, thus satisfying the test for murder under clause thirdly."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court agreed that there was a common intention among the appellants, which was demonstrated by the deliberated and jointly executed plan."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court found that the appellants had a common intention to cause the specific bodily injury which was inflicted, and this injury was objectively sufficient to cause death in the ordinary course of nature, thus satisfying the test for murder under clause thirdly."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court agreed that there was a common intention among the appellants, which was demonstrated by the deliberated and jointly executed plan."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court found that the appellants had a common intention to cause the specific bodily injury which was inflicted, and this injury was objectively sufficient to cause death in the ordinary course of nature, thus satisfying the test for murder under clause thirdly."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court agreed that there was a common intention among the appellants, which was demonstrated by the deliberated and jointly executed plan."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Anda v. State of Rajasthan",
+      "why_matched": "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The respondent won on the procedural issue of being allowed to argue against his conviction for the lesser offence. The court permitted this because, although not required by Supreme Court rules, it considered it 'safer to follow the procedure laid down for the High Court in the Code of Criminal Procedure when it hears a matter after notice of enhancement of sentence.' The court found it 'both fair and just to give the accused a chance to prove to the satisfaction of this Court that the offence itself had not been brought home to him.'"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and order dated October 20, 1964,",
+      "why_matched": "The court clarified that although clause fourthly is usually invoked where there is no intention to cause the death of any particular person, it can be used in cases where there is such callousness towards the result and the risk taken that it can be stated the person knew the act was likely to cause death."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The prosecution successfully established the elements for the offence of murder, specifically the intention to cause a bodily injury sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The prosecution successfully established the elements for the offence of murder, specifically the intention to cause a bodily injury sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The prosecution successfully established the elements for the offence of murder, specifically the intention to cause a bodily injury sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "While the Court acknowledged the appellant’s advanced age and medical condition, it found these factors cannot outweigh the need for justice and the imperative to uphold the rule of law."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, corroborated by eyewitness testimony and the recovery of the weapon, leaves no room for doubt."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The offence occurred in a context of political rivalry, a factor that exacerbates its gravity."
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "The medical evidence, eyewitness testimony, and the recovery of the weapon were corroborative and left no room for doubt."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "To bring a case under the third clause of section 300, the prosecution must establish objectively an intention to cause bodily injury which is sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Judgment and Order dated 18.09.2018",
+      "why_matched": "Even if the intention of the accused was limited to inflicting a bodily injury sufficient to cause death in the ordinary course of nature, the offence of murder would still be made out."
+    }
+  ],
+  "differences": [
+    {
+      "difference": "Precedent rule: The Court found that while the appellant's act of opening fire in a crowded marriage ceremony, which resulted in a death, was not done with the intention to kill required for a murder conviction, it w",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent outcome: Allowed, in part.",
+      "why_it_matters": "Compare with expected outcome of current case."
+    },
+    {
+      "difference": "Precedent rule: The court found that all the ingredients of Exception 4 to Section 300 of the IPC were present. The fight was sudden and not premeditated, and the appellant did not take undue advantage of carrying a ",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent outcome: The appeal is allowed.",
+      "why_it_matters": "Compare with expected outcome of current case."
+    },
+    {
+      "difference": "Precedent rule: The appellants were guilty of murder under clause thirdly of s. 300, read with s. 34 of the Indian Penal Code. The court found that there was a common intention to cause a specific bodily injury, and ",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent outcome: Dismissed",
+      "why_it_matters": "Compare with expected outcome of current case."
+    },
+    {
+      "difference": "Precedent rule: The act of pouring kerosene on a person's clothes and setting them on fire is an act so imminently dangerous that it must in all probability cause death or a fatal injury. No special knowledge is need",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent outcome: Appeal allowed",
+      "why_it_matters": "Compare with expected outcome of current case."
+    },
+    {
+      "difference": "Precedent rule: The Court found no compelling justification to interfere with the sentence, concluding that the appellant's personal circumstances, such as advanced age and medical condition, could not outweigh the n",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent outcome: Appeal dismissed.",
+      "why_it_matters": "Compare with expected outcome of current case."
+    }
+  ],
+  "precedent_references": [
+    {
+      "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+      "citation": "Unknown",
+      "source": "2024_3_377_384_EN.json"
+    },
+    {
+      "case_name": "Surain Singh v. State of Punjab",
+      "citation": "Unknown",
+      "source": "2018_5_671_676_EN.json"
+    },
+    {
+      "case_name": "Anda v. State of Rajasthan",
+      "citation": "Unknown",
+      "source": "S_1966_1_230_238_EN.json"
+    },
+    {
+      "case_name": "Judgment and order dated October 20, 1964,",
+      "citation": "Unknown",
+      "source": "1968_2_522_527_EN.json"
+    },
+    {
+      "case_name": "Judgment and Order dated 18.09.2018",
+      "citation": "Unknown",
+      "source": "2024_12_392_417_EN.json"
+    }
+  ]
+}

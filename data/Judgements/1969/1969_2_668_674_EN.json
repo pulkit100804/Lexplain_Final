@@ -1,0 +1,133 @@
+{
+  "procedural_history": {
+    "originating_court": "Civil Judge, Junior Division, Nagpur",
+    "impugned_order": "Judgment and order dated August 14, 1964 of the Bombay High Court, Nagpur Bench in Misc. Civil Application No. 13 of 1963, which found the appellants and respondent No. 3 guilty of contempt of court and sentenced them to fines.",
+    "high_court_proceedings": "The Bombay High Court, Nagpur Bench, found the appellants and respondent No. 3 guilty of contempt of court, holding that their conduct had a tendency to bring into contempt the proceedings before the Civil Court. The appellants were sentenced to pay a fine of Rs. 200 each, and respondent No. 3 was sentenced to pay a fine of Rs. 100.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court by certificate, challenging the High Court's judgment. The Supreme Court allowed the appeal, set aside the High Court's judgment, and quashed the convictions and sentences imposed on the appellants and respondent no. 3."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Quashed",
+    "sentence_status": "Quashed",
+    "directions": [
+      "The judgment of the High Court of Bombay, Nagpur Bench dated August 14, 1964 should be set aside.",
+      "The conviction of respondent no. 3 and the sentence imposed upon him should also be quashed.",
+      "The fines, if already paid by respondent no. 3 and the appellants should be refunded."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an arbitrator and a party to an arbitration are guilty of contempt of court for proceeding with the arbitration and making an award after receiving notice under Section 35 of the Arbitration Act, 1940, that a civil suit has been filed on the same subject matter.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A dispute under a hire-purchase agreement, which contained an arbitration clause, was referred to an arbitrator.",
+          "During the arbitration, one party (respondents 1 and 2) filed a civil suit claiming the agreement was fraudulent.",
+          "This party then sent a notice of the civil suit to the arbitrator and the other party (the appellants) under Section 35 of the Arbitration Act, 1940.",
+          "Despite receiving this notice, the arbitrator proceeded with the arbitration, recorded evidence, and made an award.",
+          "The party who filed the suit then initiated contempt proceedings, and the High Court found the arbitrator and the appellants guilty of contempt of court."
+        ],
+        "law": [
+          "Section 35 of the Arbitration Act, 1940, states that if a legal proceeding on the 'whole' subject matter of a reference is commenced and notice is given to the arbitrator, any 'further proceedings' in the arbitration shall be 'invalid' (unless a stay is granted).",
+          "The legal standard for contempt of court requires an act 'calculated to bring a court or a judge of the court into contempt or to lower his authority' or something 'calculated to obstruct or interfere with the due course of justice'.",
+          "An authority holding a parallel inquiry in good faith under statutory powers is not guilty of contempt of court merely because a case on the same subject is pending before a court."
+        ],
+        "application": [
+          "The Supreme Court analyzed the text of Section 35 and made a crucial distinction: the section renders further arbitration proceedings 'invalid', but it does not contain an express 'prohibition' that forbids the arbitrator from continuing.",
+          "The Court reasoned that since there was no direct prohibition or order to stop, the act of continuing the arbitration could not be seen as a defiance of the court's authority.",
+          "The consequence of ignoring the notice is that the resulting award is invalid, not that the arbitrator is in contempt.",
+          "The Court applied the principle that a parallel inquiry is not automatically contempt. It viewed the arbitrator as an authority conducting an inquiry under a statute. Continuing this inquiry, even if it ran parallel to the civil suit, did not meet the threshold for an act calculated to obstruct justice or bring the court into contempt."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's finding, concluding that the arbitrator and the party were not guilty of contempt of court. Their actions were not prohibited by Section 35, and while the resulting award might be invalid, the act of proceeding with the arbitration did not constitute an obstruction of justice or a defiance of the court's authority."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an arbitrator and a party to an arbitration are guilty of contempt of court for proceeding with the arbitration and making an award after receiving notice under Section 35 of the Arbitration Act, 1940, that a civil suit has been filed on the same subject matter.",
+      "appellant_arguments": [
+        "The appellants contended that in obeying the arbitrator's orders to produce evidence, they did not commit any contempt.",
+        "They were unaware that participating in the arbitration was precluded by law after receiving notice of the civil suit.",
+        "They honestly and bona fide believed it was for the arbitrator to decide whether to proceed, and they were not expected to take any action without the arbitrator's direction.",
+        "The arbitrator (respondent no. 3) argued that he was simply performing his duty by completing the arbitration and giving his award.",
+        "The arbitrator denied that his actions were intended to defeat the object of the suit or place an impediment in its conduct."
+      ],
+      "respondent_arguments": [
+        "The appellants and the arbitrator committed contempt of court by proceeding with the arbitration reference and making an award.",
+        "This action was taken despite them having received notice under Section 35 of the Arbitration Act and having knowledge of the civil suit filed by the respondents on the same subject matter.",
+        "This conduct had a tendency to bring the proceedings before the Civil Court into contempt."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Arbitration Act, 1940",
+        "section": "32",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Arbitration Act, 1940",
+        "section": "33",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Arbitration Act, 1940",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Arbitration Act, 1940",
+        "section": "35",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Rizwan-ul-Hasan v. The State of Uttar Pradesh",
+        "citation": "[1953] S.C.R. 581",
+        "principle": "An action does not constitute contempt of court unless it is calculated to obstruct the course of justice or to prejudice the trial of a suit.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "To constitute the offence of contempt of court, there must be an act done or writing published that is calculated to obstruct or interfere with the due course of justice or the lawful process of the court. An authority holding an inquiry in good faith under statutory powers is not guilty of contempt of court merely because a parallel inquiry is pending before a court. An action, even if improper, does not amount to contempt if it is not calculated to obstruct the course of justice or prejudice a trial.",
+    "obiter": [
+      "Under Section 35 of the Arbitration Act, if legal proceedings are commenced on the subject-matter of a reference and notice is given to the arbitrator, the only effect is that further proceedings in the reference become invalid; the section does not expressly prohibit the arbitrator from continuing the hearing."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court was in error in holding that the appellants and the arbitrator were guilty of contempt of court. Even if their action in proceeding with the arbitration after notice of a civil suit was assumed to be improper, it would not justify a finding of contempt because their action was in no way calculated to obstruct the course of justice or to prejudice the trial of the civil suit.",
+    "legal_tests_applied": [
+      "To constitute the offence of contempt of court, there must be involved some 'act done or writing published calculated to bring a court or a judge of the court into contempt or to lower his authority' or 'something calculated to obstruct or interfere with the due course of justice or the lawful process of the court'.",
+      "The jurisdiction in contempt is not to be invoked unless there is real prejudice which can be regarded as a substantial interference with the due course of justice."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "Section 35 of the Arbitration Act does not expressly prohibit an arbitrator from continuing the hearing of a reference after notice of a suit; its only effect is that 'all further proceedings in a pending reference shall, unless a stay of proceedings is granted under s. 34, be invalid'.",
+      "The actions of the appellants and the arbitrator were not calculated to obstruct the course of justice or to prejudice the trial of the civil suit, which is a necessary element for the offence of contempt of court.",
+      "It is well-established that an authority holding an inquiry in good faith in exercise of the powers vested in it by a statute is not guilty of contempt of court, merely because a parallel inquiry is imminent or pending before a court."
+    ],
+    "policy_considerations": [
+      "The court's jurisdiction in contempt should not be exercised upon a mere question of propriety; its purpose is a practical one, invoked only where there is real prejudice amounting to a substantial interference with the due course of justice."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[1]": [
+      "p7_1894484b"
+    ],
+    "citations.cases[0].case_name": [
+      "p6_8217683b"
+    ],
+    "judicial_reasoning.why_respondent_won[0]": [
+      "p1_f567c173"
+    ],
+    "judicial_reasoning.why_respondent_won[2]": [
+      "p6_fec1fd0b"
+    ]
+  }
+}

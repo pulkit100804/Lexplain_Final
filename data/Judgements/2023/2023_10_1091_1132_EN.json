@@ -1,0 +1,123 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge, Namakkal in Sessions Case No. 41 of 2017",
+    "impugned_order": "Judgment and order passed by the High Court of Judicature at Madras dated 04.04.2019 in Criminal Appeal No. 193 of 2019",
+    "high_court_proceedings": "The appellant, dissatisfied with the conviction and sentence by the Trial Court, appealed to the High Court of Judicature at Madras in Criminal Appeal No. 193 of 2019. The High Court dismissed the appeal, affirming the conviction.",
+    "supreme_court_posture": "The convict accused, dissatisfied with the High Court's judgment, appealed to the Supreme Court in Criminal Appeal No. 2043 of 2023. The Supreme Court partly allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed.",
+    "conviction_status": "The conviction of the appellant under Section 304 Part I of the IPC is altered to one under Section 304 Part II of the IPC.",
+    "sentence_status": "For the altered conviction, the appellant is sentenced to undergo rigorous imprisonment for a period of five years.",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellant for the offence punishable under Section 304 Part I of the IPC should be further altered to Section 304 Part II of the IPC.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant and the deceased engaged in a verbal altercation regarding a pathway.",
+          "During the altercation, the appellant inflicted a single blow to the head of the deceased with a \"Hoe,\" which is a common agricultural/gardening tool.",
+          "The victim fell unconscious and later died from the injury.",
+          "The Trial Court and the High Court both convicted the appellant for the offence of culpable homicide not amounting to murder under Section 304 Part I of the Indian Penal Code (IPC).",
+          "The appellant appealed to the Supreme Court, not challenging the finding of guilt, but arguing that the conviction should be altered from Section 304 Part I to Part II."
+        ],
+        "law": [
+          "The Court distinguished between the two parts of Section 304 of the IPC.",
+          "Section 304 Part I applies when the crime of murder is established (as defined in Section 300 IPC) but is mitigated by one of the exceptions to Section 300. This part is linked to the 'intention' to cause death or a specific fatal injury.",
+          "Section 304 Part II applies when the crime of murder is never established. It deals with acts done with the 'knowledge' that they are likely to cause death, but without the 'intention' to cause death or such bodily injury as is likely to cause death.",
+          "The Court specifically considered whether the case fell under clause thirdly of Section 300 IPC, which requires an 'intention' to cause a bodily injury that is sufficient in the ordinary course of nature to cause death."
+        ],
+        "application": [
+          "The Court analyzed the evidence and circumstances to determine the appellant's state of mind.",
+          "It found it difficult to conclude that the appellant had the 'intention' to cause a bodily injury that was sufficient in the ordinary course of nature to cause death.",
+          "The Court based this finding on several factors: the incident involved a single blow, it arose from a sudden verbal altercation, and the weapon used was a common agricultural tool, not an inherently deadly weapon.",
+          "Given these circumstances, the Court held that the appellant could only be attributed with the 'knowledge' that his act was likely to cause an injury that could lead to death, rather than the specific 'intention' required for Section 304 Part I.",
+          "Therefore, the Court concluded that the case did not fall under clause thirdly of Section 300 IPC and was more appropriately categorized under Section 304 Part II."
+        ],
+        "conclusion": "The Supreme Court partly allowed the appeal, altering the appellant's conviction from Section 304 Part I of the IPC to Section 304 Part II of the IPC. Consequently, the sentence was reduced to five years of rigorous imprisonment."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellant for the offence punishable under Section 304 Part I of the IPC should be further altered to Section 304 Part II of the IPC.",
+      "appellant_arguments": [
+        "The appellant, relying on the decision in Jagrup Singh (supra), argued that the accused could only be attributed with the knowledge that he was likely to cause an injury which was likely to cause death, not the intention to cause death. This would bring the offence under Section 304 Part II of the IPC."
+      ],
+      "respondent_arguments": [
+        "The respondent State opposed the appellant's submissions, likely arguing to uphold the conviction under Section 304 Part I as decided by the Trial Court. (The text does not provide the full details of the respondent's argument)."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Jagtar Singh v. State of Punjab",
+        "citation": "(1983) 2 SCC 342",
+        "principle": "To sum up important principles of law.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Hem Raj v. State (Delhi Admn.)",
+        "citation": "(1990) Supp SCC 291",
+        "principle": "To sum up important principles of law.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kulwant Rai v. State of Punjab",
+        "citation": "(1981) 4 SCC 245",
+        "principle": "To sum up important principles of law.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Pulicherla Nagaraju v. State of A.P.",
+        "citation": "(2006) 11 SCC 444",
+        "principle": "To sum up important principles of law.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Unknown",
+        "citation": "[1984] 2 SCC 133",
+        "principle": "To sum up important principles of law.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Unknown",
+        "citation": "[2006] 4 Suppl. SCR 633",
+        "principle": "To sum up important principles of law.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Where the evidence does not disclose that there was any intention to cause death, but it is clear that the accused had the knowledge that their acts were likely to cause death, the conviction should be for culpable homicide not amounting to murder under the second part of Section 304 of the Indian Penal Code.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the conviction should be altered from Part I to Part II of Section 304 because the evidence did not establish an 'intention to cause death,' but it was clear that the accused possessed the 'knowledge' that their acts were likely to cause death. This distinction in the mental state (mens rea) is the determinative factor for applying the second part of Section 304, IPC.",
+    "legal_tests_applied": [
+      "The court must decide the 'pivotal question of intention, with care and caution,' as this determines whether a case falls under Section 302, 304 Part I, or 304 Part II of the IPC.",
+      "A conviction under Section 304 Part II is appropriate 'Where the evidence does not disclose that there was any intention, to cause death of the deceased but it was clear that the accused had the knowledge that their acts were likely to cause death.'"
+    ],
+    "why_appellant_lost": [
+      "While the appellant succeeded in reducing the conviction from Part I to Part II, they did not secure an acquittal because the evidence was sufficient to prove they had the 'knowledge that their acts were likely to cause death,' which satisfies the requirement for culpable homicide under Section 304 Part II."
+    ],
+    "why_respondent_won": [
+      "While the respondent (State) failed to uphold the conviction under Part I, it succeeded in securing a conviction for culpable homicide because it was 'clear that the accused had the knowledge that their acts were likely to cause death,' thereby establishing the necessary elements for an offence under Section 304 Part II."
+    ],
+    "policy_considerations": [
+      "The court must exercise 'care and caution' when deciding the 'pivotal question of intention' to ensure that the conviction accurately reflects the accused's degree of culpability, distinguishing between the higher threshold of 'intention' and the lesser state of 'knowledge.'"
+    ]
+  },
+  "evidence_map": {
+    "decision.conviction_status": [
+      "p42_83538cd7"
+    ]
+  }
+}

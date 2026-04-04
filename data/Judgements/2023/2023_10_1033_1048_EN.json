@@ -1,0 +1,108 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment of the High Court of Punjab & Haryana at Chandigarh dated 4th February 2010 in CRLA No. 430 of 2001, which affirmed the conviction and sentence imposed by the Trial Court.",
+    "high_court_proceedings": "The accused-appellants filed Criminal Appeal No. 430-DB of 2001 in the High Court challenging their conviction and sentence from the Trial Court. The complainant, Tapinder Singh, also filed Criminal Revision No. 347 of 2002 seeking enhancement of the sentence. The High Court dismissed both the Criminal Appeal and the Revision Application on 4th February 2010, upholding the Trial Court's decision.",
+    "supreme_court_posture": "The accused-appellants approached the Supreme Court after the High Court upheld their conviction and sentence. The Supreme Court allowed the appeals, quashing the judgments of both the High Court and the Trial Court."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Quashed and set aside",
+    "sentence_status": "Quashed and set aside",
+    "directions": [
+      "The bail bonds of the appellants shall stand discharged.",
+      "Pending application(s), if any, shall stand disposed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution has successfully proven the guilt of the accused beyond a reasonable doubt.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case against the accused was based entirely on circumstantial evidence.",
+          "The prosecution relied on an alleged extra-judicial confession and the 'last seen' theory.",
+          "The prosecution failed to have a Ballistic Expert examined."
+        ],
+        "law": [
+          "For a conviction based on circumstantial evidence, the circumstances from which guilt is inferred must be fully and conclusively established.",
+          "The established facts must be consistent only with the hypothesis of the accused's guilt and should not be explainable by any other hypothesis.",
+          "There must be a complete chain of evidence that leaves no reasonable ground for a conclusion consistent with the accused's innocence.",
+          "The standard of proof is that the accused 'must be' guilty, not merely 'may be' guilty; strong suspicion cannot replace proof beyond a reasonable doubt.",
+          "An extra-judicial confession can be relied upon only if it comes from unbiased witnesses whose credibility is not in doubt."
+        ],
+        "application": [
+          "The Court found that there was \"serious doubt\" regarding the credibility of the witnesses who testified about the extra-judicial confession and the 'last seen' theory.",
+          "The Court identified the prosecution's failure to examine a Ballistic Expert as a \"glaring defect\" in its case.",
+          "The Court determined that the evidence presented did not form a complete and conclusive chain pointing solely to the guilt of the accused, thus failing to meet the high standard required for cases based on circumstantial evidence."
+        ],
+        "conclusion": "The Supreme Court concluded that the prosecution failed to prove the guilt of the accused beyond a reasonable doubt. Due to serious doubts about the credibility of key witnesses regarding the confession and 'last seen' theory, coupled with the \"glaring defect\" of not examining a Ballistic Expert, the chain of circumstantial evidence was incomplete. Therefore, the accused were entitled to the benefit of the doubt, and their convictions were overturned."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the prosecution has successfully proven the guilt of the accused beyond a reasonable doubt.",
+      "appellant_arguments": [
+        "The prosecution has failed to prove its case beyond a reasonable doubt.",
+        "The accused are entitled to the benefit of the doubt."
+      ],
+      "respondent_arguments": [
+        "The prosecution's case was sufficient to prove the guilt of the accused, as evidenced by the Trial Court framing charges against them."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Sharad Birdhichand Sarda v. State of Maharashtra",
+        "citation": "(1984) 4 SCC 116 : [1985] 1 SCR 88",
+        "principle": "In a case based on circumstantial evidence, the circumstances should be of a conclusive nature and tendency.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Munna Kumar Upadhyay alias Munna Upadhyaya v. State of Andhra Pradesh through Public Prosecutor, Hyderabad, Andhra Pradesh",
+        "citation": "(2012) 6 SCC 174 : [2012] 6 SCR 611",
+        "principle": "In a case based on circumstantial evidence, the circumstances should be of a conclusive nature and tendency.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In cases of circumstantial evidence, the circumstances from which a conclusion of guilt is drawn must be fully established and not merely 'may be' proved. The established facts must be consistent only with the hypothesis of the accused's guilt and unexplainable by any other hypothesis. The circumstances must be of a conclusive nature, excluding every possible alternative hypothesis. The chain of evidence must be so complete as to leave no reasonable ground for a conclusion consistent with the accused's innocence and must show that in all human probability, the act was committed by the accused.",
+    "obiter": [
+      "However strong a suspicion may be, it cannot take place of a proof beyond reasonable doubt."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the prosecution failed to prove its case beyond a reasonable doubt. It reasoned that in a case based on circumstantial evidence, the chain of evidence must be complete and conclusive, excluding every possible hypothesis except the guilt of the accused. The court emphasized the settled legal principle that however strong a suspicion may be, it cannot substitute for proof beyond a reasonable doubt, and therefore, the accused are entitled to the benefit of the doubt.",
+    "legal_tests_applied": [
+      "The circumstances from which the conclusion of guilt is to be drawn should be fully established.",
+      "The circumstances concerned “must or should” and not “may be” established.",
+      "The facts so established should be consistent only with the hypothesis of the guilt of the accused, that is to say, they should not be explainable on any other hypothesis except that the accused is guilty.",
+      "The circumstances should be of a conclusive nature and tendency and they should exclude every possible hypothesis except the one sought to be proved.",
+      "There must be a chain of evidence so complete so as not to leave any reasonable ground for the conclusion consistent with the innocence of the accused and must show that in all human probability the act must have been done by the accused.",
+      "However strong a suspicion may be, it cannot take place of a proof beyond reasonable doubt."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The legal system grants the accused the benefit of the doubt as a fundamental principle to safeguard against wrongful convictions when the prosecution's proof does not meet the required high standard."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p16_45caa889"
+    ],
+    "citations.cases[0].case_name": [
+      "p3_c95ea27f"
+    ],
+    "judicial_reasoning.legal_tests_applied[3]": [
+      "p8_5256c1f8"
+    ]
+  }
+}

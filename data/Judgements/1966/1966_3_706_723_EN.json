@@ -1,0 +1,94 @@
+{
+  "procedural_history": {
+    "originating_court": "Kerala High Court",
+    "impugned_order": "Dismissal of a petition (likely a writ petition or similar original proceeding)",
+    "high_court_proceedings": "The High Court initially dismissed the petition. Subsequently, upon application, the High Court granted a certificate to appeal to the Supreme Court, certifying that the case involved a question regarding the interpretation of Article 7 of the Constitution.",
+    "supreme_court_posture": "The Supreme Court was approached because the High Court certified the case as involving a question of constitutional interpretation (Article 7)."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [],
+  "arguments": [
+    {
+      "issue_text": "The meaning of the word 'migrated' as used in Article 7 of the Constitution.",
+      "appellant_arguments": [
+        "Based on the precedent in Smt. Shanno Devi's case, the term 'migrated' should be interpreted narrowly to mean moving with the intention of permanently residing in the new country (i.e., a change of domicile)."
+      ],
+      "respondent_arguments": [
+        "The term 'migrated' should be interpreted more broadly to mean the voluntary movement from one place to another, which is not for a purely temporary purpose (like a business trip or social visit), but does not necessarily require the intention to permanently reside in the new country."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 5",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 6",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 7",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 9",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Government of India Act, 1935",
+        "section": "",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Bihar v. Kumar Amar Singh",
+        "citation": "[1955] I S.C.R. 697 : A.I.R. 1955 S.C. 36",
+        "principle": "The term 'migrated' as used in Article 7 does not require an intention to permanently reside in the new territory. A voluntary movement that is not for a specific purpose and for a short, limited period is sufficient to constitute migration.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Madhya Pradesh v. Peer Mohd. & Another",
+        "citation": "[1963] Supp. I S.C.R. 429",
+        "principle": "Article 9 of the Constitution applies only to cases where a person voluntarily acquired the citizenship of a foreign state *before* the commencement of the Constitution, not after.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The word \"migrated\" as used in Articles 6 and 7 of the Constitution has a wider meaning, signifying a voluntary movement from one territory to another, and does not require an intention to reside there permanently.",
+    "obiter": [
+      "The dissenting view is that the word \"migrate\" in the context of Articles 6 and 7 requires an intention to settle, similar to the concept of domicile."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The term \"migrated from the territory of India\" as used in Article 7 of the Constitution means moving from one place to another voluntarily, but not necessarily with the intention of permanently residing in the new country. This movement must be more than purely temporary, such as for a business transaction, professional engagement, or a social visit.",
+    "legal_tests_applied": [
+      "To determine if a person has 'migrated' under Article 7, the court must assess if the movement was: 1. Voluntary, and 2. Not for a purely temporary purpose (e.g., a business trip or social visit)."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument relied on the precedent set in Smt. Shanno Devi's case, which gave a narrow meaning to the word 'migrated' requiring an intention of permanent residence. The Court explicitly found that this narrower meaning was incorrect."
+    ],
+    "why_respondent_won": [
+      "The Court adopted the respondent's broader interpretation of the word 'migrated', finding that in the context of Article 7, the word is used in its wider sense. This wider sense encompasses voluntary movement that is not for a purely temporary purpose, without requiring the strict intention to permanently change one's residence."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[1].case_name": [
+      "p9_ff238f8c"
+    ]
+  }
+}

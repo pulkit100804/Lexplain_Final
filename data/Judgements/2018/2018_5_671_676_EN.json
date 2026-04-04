@@ -1,0 +1,103 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court in Madhya Pradesh since the High Court appeal originated from there.",
+    "impugned_order": "Judgment and Order dated 01.08.2013 of the High Court of Madhya Pradesh, Principal Seat at Jabalpur in Crl. Appeal No. 935 of 2004.",
+    "high_court_proceedings": "The High Court of Madhya Pradesh heard Criminal Appeal No. 935 of 2004 and issued a Judgment and Order on 01.08.2013. The outcome of the High Court appeal is not explicitly stated, but since the Supreme Court allowed the appeal against the High Court's order, it can be inferred that the High Court upheld the conviction or an unfavorable outcome for the appellant.",
+    "supreme_court_posture": "The Supreme Court granted leave to appeal, heard Criminal Appeal No. 663 of 2018, and allowed the appeal. This means the Supreme Court overturned the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "The appeal is allowed.",
+    "conviction_status": "The conviction of appellant of an offence punishable under Section 302 of the IPC is set aside but he is convicted of an offence punishable under the second part of Section 304 of the IPC.",
+    "sentence_status": "His sentence is altered to the period of incarceration he has already undergone.",
+    "directions": [
+      "He be released forthwith."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellant under Section 302 of the IPC is sustainable or if the case falls under the second part of Section 304 of the IPC.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A quarrel between two individuals, ‘Rh’ and ‘Ru’, escalated into a violent altercation.",
+          "The appellant, who was the uncle of ‘Ru’, joined the fight.",
+          "During the altercation, the appellant stabbed the brother of ‘Rh’ on the left side of his chest with a spear (ballam), which resulted in his death.",
+          "The appellant also caused a minor injury (a contusion) to ‘Rh’."
+        ],
+        "law": [
+          "**Exception 4 to Section 300, IPC:** Culpable homicide is not murder if it is committed without premeditation in a sudden fight, in the heat of passion upon a sudden quarrel, and without the offender having taken undue advantage or acted in a cruel or unusual manner.",
+          "**Section 304, Part I, IPC:** This part applies when the act causing death is done with the *intention* of causing death or a bodily injury likely to cause death.",
+          "**Section 304, Part II, IPC:** This part applies when the act is done with the *knowledge* that it is likely to cause death, but without any *intention* to cause death or a bodily injury likely to cause death."
+        ],
+        "application": [
+          "The Court determined that the incident met all the criteria of Exception 4 to Section 300 of the IPC. The fight was sudden and not premeditated.",
+          "The Court found that the appellant did not take \"undue advantage\" of carrying a spear, as he only inflicted a single fatal injury on the deceased and a minor injury on another person.",
+          "Since the conditions of Exception 4 were met, the offense could not be classified as murder under Section 302.",
+          "The Court then analyzed the appellant's mental state to decide between Part I and Part II of Section 304.",
+          "It found no evidence that the appellant had the *intention* to kill the deceased. The witnesses did not indicate any such intention.",
+          "However, the Court held that the appellant must be attributed with the *knowledge* that stabbing someone in the left side of the chest with a spear is an act likely to cause death."
+        ],
+        "conclusion": "Based on the finding that the act was committed with the knowledge that it was likely to cause death, but without the intention to kill, and that it occurred during a sudden, unpremeditated fight, the Supreme Court concluded that the case falls under the second part of Section 304 of the IPC. Therefore, the Court set aside the appellant's murder conviction under Section 302 and convicted him under Section 304, Part II of the IPC instead."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellant under Section 302 of the IPC is sustainable or if the case falls under the second part of Section 304 of the IPC.",
+      "appellant_arguments": [
+        "The conviction under Section 302 of the IPC (murder) is not sustainable and should be set aside.",
+        "The offense committed falls under the second part of Section 304 of the IPC (culpable homicide not amounting to murder)."
+      ],
+      "respondent_arguments": [
+        "The conviction of the appellant for an offence punishable under Section 302 of the IPC is correct and should be upheld."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "Section 300, Exception 4",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "Section 302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "Section 304, Part II",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Surain Singh v. State of Punjab",
+        "citation": "(2017) 5 SCC 796",
+        "principle": "The text indicates the Court relied on this case by stating 'it was observed that:', but the specific legal principle or observation is not provided in the excerpt.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In cases involving provocation or a first assault, it is immaterial which party initiated the provocation or committed the initial assault.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that all the ingredients of Exception 4 to Section 300 of the IPC were present. The fight was sudden and not premeditated, and the appellant did not take undue advantage of carrying a spear, as he did not inflict any other serious injuries. Consequently, it could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death. The act was instead done with the knowledge that it was likely to cause death, which falls under the second part of Section 304 of the IPC, not Section 302.",
+    "legal_tests_applied": [
+      "Exception 4 to Section 300 of the IPC: This exception applies when culpable homicide is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel, provided the offender has not taken undue advantage or acted in a cruel or unusual manner.",
+      "Distinction between Part I and Part II of Section 304 IPC: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death but without such intention (Part II)."
+    ],
+    "why_appellant_lost": [
+      "The appellant's act of causing death with the knowledge that it was likely to cause death constituted the offense of culpable homicide under Section 299 of the IPC, preventing a full acquittal."
+    ],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

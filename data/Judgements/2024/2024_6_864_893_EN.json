@@ -1,0 +1,229 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Court (as inferred from the text)",
+    "impugned_order": "The specific order being challenged is not explicitly stated, but it is implied to be related to the appearance of the appellants before the Special Court and potentially the Enforcement Directorate (ED) seeking custody.",
+    "high_court_proceedings": "Information about High Court proceedings is not available in the provided text.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court, which allowed the appeals. The Supreme Court ordered the appellants to appear before the Special Court within one month and file an undertaking to appear regularly. It also stated that if the ED wants custody of the accused, they must apply to the Special Court, which will then pass an order after hearing the accused. Failure to appear before the Special Court will result in warrants being issued against the appellants."
+  },
+  "decision": {
+    "appeal_result": "Appeals allowed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "We set aside the impugned orders declining to grant anticipatory bail;",
+      "We direct that warrants issued by the Special Courts against the appellants shall stand cancelled subject to the following conditions:"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a Special Court can issue a warrant of arrest or take an accused into custody if they voluntarily appear in response to a summons.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The issue concerns a situation where an accused person, who was not arrested during the investigation, voluntarily appears before a Special Court in compliance with a summons."
+        ],
+        "law": [
+          "The Supreme Court noted a practice in some Special Courts where an accused who appears in response to a summons is taken into custody and forced to apply for bail.",
+          "The Court held that such a practice is \"completely illegal\" and may violate the right to liberty guaranteed by Article 21 of the Constitution of India."
+        ],
+        "application": [
+          "The Court reasoned that if an accused person complies with a summons and appears in court, there is no justification for issuing a warrant of arrest or taking them into custody.",
+          "It clarified that in such a scenario, the accused is not even required to apply for bail.",
+          "The Court established a specific procedure for cases where the Enforcement Directorate (ED) might still require custody for further investigation: the ED must file a formal application with the Special Court.",
+          "The Special Court must then hear the accused and can only grant custody if it is satisfied that custodial interrogation is necessary at that stage, and it must provide brief reasons for its decision."
+        ],
+        "conclusion": "The Supreme Court rejected the practice, holding that a Special Court cannot issue a warrant or take an accused into custody merely because they have voluntarily appeared in response to a summons. The Court deemed this practice illegal and a potential violation of constitutional rights."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Enforcement Directorate (ED) can seek custody of an accused who appears before the court after a summons is served for the purpose of further investigation.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involves a scenario where an accused person was not arrested by the Enforcement Directorate (ED) during the initial investigation.",
+          "After the ED filed a complaint, the Special Court issued a summons to the accused.",
+          "The accused appeared before the court in compliance with the summons.",
+          "Subsequently, the ED sought to take this accused into custody for the purpose of conducting further investigation into the same offense."
+        ],
+        "law": [
+          "The Supreme Court held that the practice of automatically taking an accused into custody when they appear in response to a summons is \"completely illegal\" and may violate the right to liberty under Article 21 of the Constitution.",
+          "The purpose of a summons is merely to secure the presence of the accused before the court to answer the charge, not to facilitate their arrest.",
+          "Once an accused appears in compliance with a summons, the condition of the summons is met, and the question of taking them into custody does not automatically arise."
+        ],
+        "application": [
+          "The Court established a specific procedure for the ED to follow if it wants custody in such a situation.",
+          "The ED cannot simply arrest the accused upon their appearance. Instead, it must file a formal application with the Special Court requesting custody.",
+          "The Special Court is required to hear the accused on this application.",
+          "The Court can only grant custody if it is satisfied that custodial interrogation is genuinely required at that stage, even though the accused was never arrested previously under Section 19 of the PMLA.",
+          "The Special Court must record brief reasons for its decision on the ED's application."
+        ],
+        "conclusion": "The Supreme Court decided that the ED can seek custody of an accused who appears before the court after a summons is served, but it is not an automatic right. The ED must apply to the Special Court, which will only permit custody after hearing the accused and if it is satisfied that custodial interrogation is necessary for further investigation, providing reasons for its decision."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Enforcement Directorate (ED) can arrest a person not named as an accused in the initial complaint during a further investigation.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The legal issue arises in a context where the Enforcement Directorate (ED) has already filed a complaint under Section 44(1)(b) of the Prevention of Money Laundering Act (PMLA), and the Special Court has taken cognizance of the offence.",
+          "The ED then seeks to conduct a 'further investigation' into the same offence.",
+          "During this further investigation, the ED identifies a person who was not named as an accused in the initial complaint."
+        ],
+        "law": [
+          "Section 19 of the PMLA grants the ED the power to arrest individuals.",
+          "Section 44(1)(b) of the PMLA pertains to the filing of a complaint before the Special Court.",
+          "The Court established that the ED has the right to conduct a further investigation and file a supplementary complaint even after cognizance has been taken on the initial complaint."
+        ],
+        "application": [
+          "The Supreme Court drew a distinction between individuals already named as accused in a complaint and those who are not.",
+          "For individuals already named as accused in the complaint, the Court held that once cognizance is taken, the ED loses its power to arrest them under Section 19. If their custody is needed, the ED must apply to the Special Court.",
+          "However, for individuals *not* named as accused in the initial complaint, the Court found that this restriction does not apply.",
+          "The Court reasoned that the ED's power to conduct a further investigation would be meaningful only if it could also act against new individuals implicated during that investigation.",
+          "Therefore, the Court concluded that during a further investigation, the ED can arrest a person who was not shown as an accused in the complaint that has already been filed."
+        ],
+        "conclusion": "The Supreme Court decided that the Enforcement Directorate (ED) can arrest a person not named as an accused in the initial complaint during a further investigation, provided that the requirements for arrest under Section 19 of the PMLA are fulfilled."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "What is the general rule for a court when deciding whether to issue a summons or a warrant at the stage of taking cognizance of an offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The issue concerns the procedure a court should follow when taking cognizance of an offense, specifically whether to issue a summons or a warrant to secure the accused's presence.",
+          "The specific context involves a complaint filed under Section 44(1)(b) of the Prevention of Money Laundering Act, 2002, where the accused had not been arrested by the Enforcement Directorate (ED) prior to the complaint being filed."
+        ],
+        "law": [
+          "Under Section 204(1)(b) of the Code of Criminal Procedure (CrPC), in a 'warrant-case', a Magistrate has the discretion to issue either a summons or a warrant.",
+          "The Supreme Court cited its previous decision in *Inder Mohan Goswami & Anr. v. State of Uttaranchal & Ors.*, which established that issuing a summons is the general rule.",
+          "The *Inder Mohan Goswami* case held that a warrant should only be issued if the accused is charged with a heinous crime and is likely to tamper with evidence or evade the legal process, as personal liberty is paramount.",
+          "The proper procedure for non-compliance, as laid out in *Inder Mohan Goswami*, is to first issue a summons, then a bailable warrant if the summons is avoided, and only as a last resort, a non-bailable warrant."
+        ],
+        "application": [
+          "The Court applied the general principle from the *Inder Mohan Goswami* case to the specific scenario of a PMLA complaint.",
+          "It reasoned that if the investigating agency (the ED) did not find it necessary to arrest the accused during the entire investigation period leading up to the complaint, the court should not typically resort to the coercive measure of a warrant at the very first instance.",
+          "The Court clarified that the purpose of a summons is simply to secure the presence of the accused. If the accused appears in court in response to the summons, the objective is met, and there is no reason to take them into custody.",
+          "The Court established a clear escalation process: if an accused fails to appear after a summons is served, the court should first issue a bailable warrant. A non-bailable warrant should only be used if the bailable warrant is also ineffective."
+        ],
+        "conclusion": "The Supreme Court decided that as a general rule, when a court takes cognizance of an offense (particularly in a complaint case where the accused was not previously arrested), it should issue a summons to the accused. A warrant should only be issued as an exception in cases of heinous crimes or where there is a clear risk of the accused absconding or tampering with evidence. If the accused fails to appear on a summons, the court should then proceed by issuing a bailable warrant before resorting to a non-bailable warrant."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a Special Court can issue a warrant of arrest or take an accused into custody if they voluntarily appear in response to a summons.",
+      "appellant_arguments": [
+        "The provided text does not contain the specific arguments made by the appellant."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the Enforcement Directorate (ED) can seek custody of an accused who appears before the court after a summons is served for the purpose of further investigation.",
+      "appellant_arguments": [
+        "The provided text does not contain the specific arguments made by the appellant."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the Enforcement Directorate (ED) can arrest a person not named as an accused in the initial complaint during a further investigation.",
+      "appellant_arguments": [
+        "The provided text does not contain the specific arguments made by the appellant."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "What is the general rule for a court when deciding whether to issue a summons or a warrant at the stage of taking cognizance of an offence.",
+      "appellant_arguments": [
+        "The provided text does not contain the specific arguments made by the appellant."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Money-Laundering Act",
+        "section": "71",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "170",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "167(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "440",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "204",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pankaj Jain v. Union of India and Anr.",
+        "citation": "[2018] 9 SCR 248 : (2018) 5 SCC 743",
+        "principle": "For the interpretation of Section 170 of the Code of Criminal Procedure in cases involving special acts, clarifying that if an accused is already incarcerated, they would continue to be, but if an accused was not arrested or was enlarged on bail, there is no need for their further arrest at the instance of the court.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When an accused, who was not arrested during the investigation, appears before the Special Court pursuant to a summons, the stringent twin conditions for bail laid down in a special act do not need to be applied.",
+    "obiter": [
+      "The provisions of a special act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The power to issue a warrant of arrest is discretionary and must be exercised judiciously with extreme care and caution. As a general rule, courts should avoid issuing non-bailable warrants unless the accused is charged with a heinous crime and there is a fear that they are likely to tamper with evidence or evade the legal process.",
+    "legal_tests_applied": [
+      "When deciding whether to issue a warrant, a court must balance both personal liberty and societal interest.",
+      "The general rule for issuing a non-bailable warrant requires that the accused is charged with a heinous crime and it is feared that they are likely to tamper or destroy evidence or evade the process of law."
+    ],
+    "why_appellant_lost": [
+      "The provided text does not contain reasoning for why the appellant lost on any issue; the appeal was ultimately allowed."
+    ],
+    "why_respondent_won": [
+      "The provided text does not contain the court's reasoning for accepting the respondent's position on their power to seek custody or arrest persons not named in the initial complaint."
+    ],
+    "policy_considerations": [
+      "The discretionary power of a court to issue warrants must be exercised judiciously with extreme care and caution.",
+      "There cannot be any straitjacket formula for the issuance of warrants, but the court should properly balance personal liberty and societal interest before doing so."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p29_4a703d19"
+    ],
+    "decision.directions[1]": [
+      "p29_d86fc3ff"
+    ]
+  }
+}

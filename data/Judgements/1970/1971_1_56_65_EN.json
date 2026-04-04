@@ -1,0 +1,103 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge, Ganganagar",
+    "impugned_order": "The Sessions Judge convicted Kartar Singh under s. 302/34, I.P.C. and sentenced him to death. Gurjant Singh was also convicted under s. 302, I.P.C. and sentenced to death. Both were also convicted for some minor offences.",
+    "high_court_proceedings": "The High Court acquitted Kartar Singh but maintained the conviction and sentences of Gurjant Singh.",
+    "supreme_court_posture": "The State of Rajasthan filed Criminal Appeal No. 114 of 1969 against the acquittal of Kartar Singh. Gurjant Singh filed Criminal Appeal No. 115 of 1969 challenging his conviction and sentence. The Supreme Court granted special leave to appeal."
+  },
+  "decision": {
+    "appeal_result": "The appeal of the State of Rajasthan against Kartar Singh is allowed.",
+    "conviction_status": "Kartar Singh is convicted under s. 302/34, I.P.C.",
+    "sentence_status": null,
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the prior statement of a hostile witness is inadmissible under Section 145 of the Indian Evidence Act if every single contradictory passage is not put to her, even when she admits that the entire statement was a true record of what she had stated but claims it was false and made under police pressure.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A witness (K) gave a statement in the Committal Court implicating the accused.",
+          "In the subsequent Sessions Court trial, she turned hostile, changing her testimony to state she could not identify the culprits.",
+          "The Public Prosecutor read her entire prior statement from the Committal Court to her.",
+          "The witness admitted that the prior statement was a 'true record' of what she had said.",
+          "However, she claimed the content of that statement was false and that she had made it under 'police pressure'.",
+          "The defense objected to the admissibility of the prior statement, arguing that Section 145 of the Indian Evidence Act was not followed because every single contradictory passage was not individually put to the witness for explanation."
+        ],
+        "law": [
+          "Section 145 of the Indian Evidence Act generally requires that when a witness is to be contradicted by a prior written statement, their attention must be drawn to the specific parts of the statement that are being used to contradict them.",
+          "The purpose of this rule is to give the witness a fair opportunity to explain any discrepancies between their prior statement and their current testimony."
+        ],
+        "application": [
+          "The Court acknowledged that if there were only a few differing passages, the procedure of putting each one to the witness would be necessary.",
+          "However, the Court distinguished the present case because the witness did not just contradict parts of her statement; she disavowed the entire statement with a single, overarching explanation: 'police pressure'.",
+          "She had already admitted that the entire statement was an accurate record of what she had said.",
+          "The Court reasoned that it would have been 'useless' and 'pointless' to present each discrepancy to her individually, as her explanation for every single one would have been the same ('police pressure').",
+          "By reading the whole statement and allowing her to give her blanket explanation for its alleged falsity, the fundamental purpose of Section 145—providing an opportunity to explain—was fulfilled."
+        ],
+        "conclusion": "The Supreme Court rejected the argument and held that the requirements of Section 145 of the Indian Evidence Act were fully complied with. Because the witness admitted the entire prior statement was accurately recorded but claimed it was false for a single reason, it was not necessary to put every single contradictory passage to her. Therefore, the prior statement was admissible as evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the prior statement of a hostile witness is inadmissible under Section 145 of the Indian Evidence Act if every single contradictory passage is not put to her, even when she admits that the entire statement was a true record of what she had stated but claims it was false and made under police pressure.",
+      "appellant_arguments": [
+        "The requirements of Section 145 of the Indian Evidence Act were fully complied with.",
+        "The entire prior statement was read to the witness, and she admitted it was a true record of what she had stated in the Committal Court.",
+        "Since the witness's explanation for the entire statement being false was a single reason ('police pressure'), it would have been pointless and unnecessary to draw her attention to each individual contradictory sentence, as her explanation would have been the same for all of them.",
+        "Therefore, the prior statement was admissible and should have been read as evidence in the Sessions Trial."
+      ],
+      "respondent_arguments": [
+        "The prior statement of the hostile witness was inadmissible.",
+        "The procedure under Section 145 of the Indian Evidence Act was not followed because every single passage that differed from her testimony in the Court of Session was not put to her.",
+        "This failure deprived the witness of the opportunity to explain why she had made each specific contrary statement."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act",
+        "section": "145",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "164",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (I.P.C.)",
+        "section": "302/34",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "When a witness admits that their prior statement before the Committal Court was truly recorded, the requirements of Section 145 of the Indian Evidence Act are considered fulfilled, and that earlier statement can be read as evidence in the Sessions Trial, even if every single contradictory passage was not individually put to the witness for explanation.",
+    "obiter": [
+      "Statements made under Section 164 of the Code of Criminal Procedure are not substantive evidence but can be used for corroboration of what had been stated earlier in the Committal Court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When a hostile witness admits that her entire prior statement was accurately recorded but claims the whole of it is false due to a single, overarching reason like 'police pressure', the procedural requirement under Section 145 of the Indian Evidence Act to confront her with every single contradictory passage is not necessary. It would be a useless formality to point out individual discrepancies when her explanation for all of them would be the same, and thus the prior statement is admissible.",
+    "legal_tests_applied": [
+      "The court applied a purposive interpretation of Section 145 of the Indian Evidence Act, distinguishing between cases where there are sporadic contradictions requiring specific explanation, and cases where an entire prior statement is disavowed for a single, comprehensive reason."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The witness admitted that her prior statement was truly recorded in the Committal Court, satisfying a foundational requirement for its use.",
+      "The witness provided a single, all-encompassing reason ('police pressure') for why the entire statement was false, rather than offering different explanations for different parts.",
+      "The court reasoned that it would have been 'useless' to point out every individual discrepancy between the two statements because the witness's explanation would have been the same for all of them, thus making the procedure of confronting her with each passage redundant."
+    ],
+    "policy_considerations": [
+      "The court's reasoning avoids a hyper-technical and pointless application of a procedural rule when its underlying purpose—to give a witness a fair opportunity to explain contradictions—has already been satisfied by their global explanation for disavowing the entire statement."
+    ]
+  },
+  "evidence_map": {}
+}

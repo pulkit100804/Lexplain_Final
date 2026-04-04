@@ -1,0 +1,184 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a Magistrate's Court in West Bengal based on the legal sections cited and the nature of the case.",
+    "impugned_order": "Judgment and order dated March 31, 1965, of the Calcutta High Court in Criminal Revision No. 921 of 1963.",
+    "high_court_proceedings": "The Calcutta High Court heard the case in Criminal Revision No. 921 of 1963. The specific outcome of the High Court's decision is not stated in the provided text, but it is implied that the High Court ruled against the appellants, leading to the Supreme Court appeal.",
+    "supreme_court_posture": "The appellants appealed the Calcutta High Court's judgment to the Supreme Court. The Supreme Court dismissed the appeal, upholding the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "upheld",
+    "sentence_status": "upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a pleader can be examined on behalf of the accused under Section 342 of the Code of Criminal Procedure when the personal attendance of the accused has been dispensed with.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "In a defamation case, the magistrate dispensed with the personal appearance of the accused under Section 540-A of the Code of Criminal Procedure (Cr.P.C.).",
+          "At the close of the trial, the accused's advocate was examined under Section 342 Cr.P.C. in place of the accused.",
+          "The accused was subsequently convicted."
+        ],
+        "law": [
+          {
+            "name": "Section 342, Code of Criminal Procedure",
+            "description": "This section imposes a mandatory duty on the court to question the accused personally at the close of the prosecution's case to enable them to explain any circumstances appearing in the evidence against them."
+          },
+          {
+            "name": "Personal Privilege/Duty Principle",
+            "description": "If a statute gives an accused a personal privilege or imposes a personal duty, only the accused can exercise that privilege or perform that duty. It cannot be delegated to a pleader."
+          },
+          {
+            "name": "Sections 205 and 540A, Code of Criminal Procedure",
+            "description": "These sections empower a magistrate to dispense with the personal attendance of an accused and allow them to appear through a pleader. However, they do not override specific sections that require personal action by the accused."
+          }
+        ],
+        "application": [
+          "The Court determined that the proposition that a pleader can do all acts the accused can do is too broad.",
+          "It established that the privilege and duty of answering questions under Section 342 are personal to the accused. This is because the examination is intended to give the accused an opportunity to explain incriminating evidence in their own words.",
+          "The Court compared this to other personal duties, such as hearing the judgment in person (s. 366(2)) or giving evidence as a witness (s. 342A), which also cannot be delegated to a pleader.",
+          "The Court reasoned that the language of Sections 342 and 364 (which requires the accused to sign the recorded statement) is incompatible with the idea of a pleader being examined on the accused's behalf.",
+          "While Sections 205 and 540A allow a magistrate to dispense with the accused's personal attendance for general proceedings, the Court found that this does not extend to the specific, personal examination required by Section 342.",
+          "The Court dismissed the argument of inconvenience, stating that if there is incriminating evidence, it is in the accused's own interest to be examined personally to provide an explanation."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the examination of a pleader on behalf of the accused does not satisfy the requirements of Section 342 of the Code of Criminal Procedure. The Court concluded that the privilege and duty to make a statement under this section are personal to the accused and cannot be delegated. Therefore, except in rare cases (like a corporate accused), the accused must be examined in person."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the mere non-examination or defective examination of the accused under Section 342 of the Code of Criminal Procedure automatically vitiates the trial.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "In the case, an accused named Bibhuti Dasgupta was not personally examined under Section 342 of the Code of Criminal Procedure.",
+          "At the express request of the accused's lawyer, the Magistrate examined the lawyer on the accused's behalf instead.",
+          "The accused did not complain about this omission before the Magistrate, the Sessions Judge, or the High Court, and could not demonstrate what further explanation he could have given if examined personally."
+        ],
+        "law": [
+          "The Court referenced Section 537 of the Code, which states that a conviction is not reversible due to any error, omission, or irregularity in the proceedings unless that error has \"in fact occasioned a failure of justice.\"",
+          "The Court established the principle that a mere non-examination or a defective examination of the accused under Section 342 is not, by itself, a ground for interference."
+        ],
+        "application": [
+          "The Court applied the principle from Section 537 to the failure to examine the accused under Section 342.",
+          "It held that for the trial to be vitiated, the accused must establish that the omission caused them actual prejudice.",
+          "In this specific case, the Court found no evidence of prejudice. The accused had not raised the issue earlier and could not show how the outcome would have been different had he been personally examined."
+        ],
+        "conclusion": "The Supreme Court decided that the mere non-examination or defective examination of an accused under Section 342 does not automatically vitiate the trial. The conviction will only be overturned if the accused can prove that this procedural error resulted in prejudice and occasioned a failure of justice."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a pleader can be examined on behalf of the accused under Section 342 of the Code of Criminal Procedure when the personal attendance of the accused has been dispensed with.",
+      "appellant_arguments": [
+        "The proposition that a pleader can do all acts which the accused can do is too wide.",
+        "If a statute gives the accused a personal privilege or imposes a personal duty, only the accused can exercise or perform it.",
+        "The privilege and duty of answering questions under Section 342 are personal to the accused and cannot be delegated to a pleader.",
+        "The answers of the accused under Section 342 are intended to be a substitute for the evidence which the accused can give as a witness under Section 342A.",
+        "The scheme, purpose, and language of Section 342 require that the examination must be of the accused person and not their pleader."
+      ],
+      "respondent_arguments": [
+        "A pleader authorized to appear on behalf of the accused can do all acts which the accused can do.",
+        "The pleader's representation extends throughout the trial, and they may answer the charge on behalf of the accused at every stage.",
+        "A pleader can even plead guilty under various sections, so there is no reason they cannot be examined under Section 342.",
+        "Section 342 is subject to and controlled by Section 205, which allows for appearance by a pleader.",
+        "Insisting on the personal attendance of the accused for examination under Section 342 would cause harassment and inconvenience, especially if the accused intends to refuse to answer."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the mere non-examination or defective examination of the accused under Section 342 of the Code of Criminal Procedure automatically vitiates the trial.",
+      "appellant_arguments": [
+        "The appellant's argument, as implied by the issue, is that the failure to properly examine the accused under Section 342 is a fundamental error that automatically vitiates the entire trial."
+      ],
+      "respondent_arguments": [
+        "The respondent's argument, as implied by the court's rejection of the issue, is that a non-examination or defective examination under Section 342 is an irregularity that does not automatically vitiate the trial unless it has resulted in prejudice to the accused."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "499, ninth exception",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "342",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "205",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "540A",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "353",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "360",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "361",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "366",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Harbhajan Singh v. State of Punjab",
+        "citation": "[1962] Supp. 3 S.C.R. 230",
+        "principle": "An accused person is entitled to the protection of the ninth exception to section 499 of the Indian Penal Code if they succeed in proving a preponderance of probability that their case falls within that exception.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The privilege and duty of an accused to be examined under Section 342 is personal and cannot be delegated to a pleader; only the accused can be examined under this section.",
+    "obiter": [
+      "Whether a court can act upon an admission of guilt by a pleader under sections 242, 243, 251A, 255, and 271 is an issue on which no opinion was expressed as it did not directly arise in the case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The examination of an accused under Section 342 of the Code of Criminal Procedure is a personal privilege and duty that cannot be delegated to a pleader, even when the accused's personal attendance has been dispensed with. However, the failure to conduct such a personal examination is a procedural irregularity that does not automatically vitiate the trial unless it is shown to have caused prejudice to the accused and occasioned a failure of justice.",
+    "legal_tests_applied": [
+      "Whether a procedural irregularity, such as the non-examination of an accused under Section 342, has caused prejudice to the accused and occasioned a failure of justice."
+    ],
+    "why_appellant_lost": [
+      "Although the court agreed with the appellant that the examination under Section 342 must be of the accused personally, the appellant lost the appeal because he failed to demonstrate that the omission to examine him personally caused any prejudice.",
+      "The appellant could not point out what further explanation he could have given if he had been examined personally.",
+      "The court was satisfied that the omission to examine the appellant under Section 342 did not cause him any prejudice and had not in fact occasioned a failure of justice, and was therefore not inclined to interfere with his conviction and sentence."
+    ],
+    "why_respondent_won": [
+      "The respondent won the appeal because the court held that a defective or omitted examination under Section 342 is not a fatal flaw that automatically vitiates the trial.",
+      "The conviction was upheld because the appellant failed to meet the burden of proving that the procedural error resulted in actual prejudice."
+    ],
+    "policy_considerations": [
+      "The court is not impressed with the argument that an accused person will suffer inconvenience and harassment if their personal attendance is required for examination under Section 342.",
+      "If there is evidence implicating the accused, it is in his own interest that he should be examined personally to explain the incriminating circumstances.",
+      "The intention of the statute is for the court to put aside all representatives and call upon the individual accused to state in his own way anything he desires, so the court may have the advantage of hearing his defense directly from his own lips."
+    ]
+  },
+  "evidence_map": {}
+}

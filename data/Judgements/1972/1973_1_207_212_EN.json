@@ -1,0 +1,111 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a lower court in Patna, from which the initial conviction under s. 411 of the Indian Penal Code originated.",
+    "impugned_order": "Judgment and order dated January 18, 1968, of the Patna High Court in Criminal Appeal No. 407 of 1966.",
+    "high_court_proceedings": "The Patna High Court upheld the conviction of the appellant under s. 411 of the Indian Penal Code and the sentence of three years' rigorous imprisonment.",
+    "supreme_court_posture": "The Supreme Court heard the appeal by special leave. The Supreme Court upheld the High Court's decision, maintaining the conviction and sentence. The appeal was dismissed, and the appellant was ordered to surrender to the bail bonds."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Maintained",
+    "sentence_status": "Maintained",
+    "directions": [
+      "He shall surrender to the bailbonds"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the explanation given by the appellant for being in possession of recently stolen goods was reasonably true and sufficient for acquittal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A stolen Sen-Raleigh bicycle was recovered from the appellant's house along with nine other cycles.",
+          "The appellant's explanation was that the bicycle had been pledged with him by a person named Siddique in the ordinary course of his family's pawn-broking business.",
+          "To support his claim, the appellant produced a document (Ext. DA) purporting to be a record of the pledge."
+        ],
+        "law": [
+          "Under Section 114, Illustration (a) of the Evidence Act, if a person is found in possession of recently stolen goods, a court may presume that they are either the thief or have received the goods knowing them to be stolen, unless they can account for their possession.",
+          "For an accused to be acquitted, their explanation for possessing the goods does not need to be proven true, but it must be one that the court thinks 'might reasonably be true' and is consistent with innocence."
+        ],
+        "application": [
+          "The Supreme Court examined the appellant's explanation to determine if it could be considered 'reasonably true'.",
+          "First, the Court noted that the document (Ext. DA) produced to prove the pledge transaction had been rightly found by the lower courts not to be genuine or proven.",
+          "Second, the Court found it suspicious that although the appellant claimed to be a pawn-broker, only cycles were found pledged in his possession. The absence of any other kinds of pledged articles cast doubt on the truthfulness of his claim of running a pawn-broking business.",
+          "Third, the Court observed that a person carrying on a pawn-broking business would normally be expected to maintain books of account or other documents to record transactions. The appellant did not produce or even suggest that he maintained any such records.",
+          "Based on these circumstances, the Court concluded that the appellant's explanation was not one that could reasonably be true."
+        ],
+        "conclusion": "The Supreme Court held that the appellant's explanation for possessing the stolen bicycle was not reasonably true. Because his explanation failed, the Court drew the legal presumption under Section 114 of the Evidence Act against him, concluding he knew the property was stolen. Therefore, the Court rejected his appeal and upheld the conviction."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the explanation given by the appellant for being in possession of recently stolen goods was reasonably true and sufficient for acquittal.",
+      "appellant_arguments": [
+        "The appellant provided a reasonable explanation: he received the cycle as a pledge in the ordinary course of his pawn-broking business, which was supported by evidence.",
+        "The legal standard is not whether the explanation is proven true, but whether it is 'reasonably true'. If it is, the prosecution has failed to prove guilt beyond a reasonable doubt.",
+        "The court wrongly considered evidence related to other stolen cycles, as the trial was confined to the single Sen-Raleigh cycle.",
+        "The court applied the wrong legal standard for assessing guilt. The test should be subjective (whether the appellant actually knew or suspected the goods were stolen), not objective (whether a reasonable person would have been put on enquiry).",
+        "The lower courts misapplied the presumption of guilt under s. 114, illustration (a) of the Evidence Act."
+      ],
+      "respondent_arguments": [
+        "The appellant's explanation was not credible because he failed to take the ordinary precaution of making proper enquiries about the cycle's ownership before accepting it as a pledge.",
+        "The pledge document (Exh. A) was suspicious as it was silent on the cycle's origin and was found to have been manufactured for the case.",
+        "The transaction was not bona fide, as shown by the recovery of multiple other stolen cycles from the appellant's possession.",
+        "The appellant's conduct was not consistent with that of an ordinarily prudent person, making it impossible to believe he took the cycle without knowing or believing it was stolen.",
+        "The appellant failed to produce any other evidence of a legitimate pawn-broking business, such as records for other pledged items."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act",
+        "section": "s. 114, Illustration (a)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "s. 411",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Upon the prosecution establishing that an accused was in possession of recently stolen goods, a presumption may be drawn in accordance with Section 114, Illustration (a) of the Evidence Act. If an explanation is given by the accused which the court thinks might reasonably be true and which is consistent with innocence, the accused is entitled to be acquitted, even if the court is not convinced of its truth, because the prosecution would have failed to discharge its duty of proving guilt beyond a reasonable doubt.",
+    "obiter": [
+      "The court would be justified in holding that the explanation given by the appellant could not reasonably be true.",
+      "There was hardly any evidence worth the name by which it could be said that the presumption had been rebutted by the appellant."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The circumstances of the case were sufficient to show that the court would be justified in holding that the explanation given by the appellant could not reasonably be true. Consequently, a presumption of guilt could be drawn under s. 114, Illustration (a) of the Evidence Act, and there was hardly any evidence to rebut that presumption.",
+    "legal_tests_applied": [
+      "Upon the prosecution establishing that the accused were in possession of goods recently stolen they may in the absence of any explanation by the accused of the way in which the goods came into their possession which might reasonably be true find them guilty, but that if an explanation were given which the jury think might reasonably be true, and which is consistent with innocence although they were not convinced of its truth the prisoners were entitled to be acquitted.",
+      "A presumption... could immediately be drawn in accordance with s. 114, Illustration (a) of the Evidence Act."
+    ],
+    "why_appellant_lost": [
+      "The court found that the explanation given by the appellant could not reasonably be true.",
+      "The appellant's conduct in connection with taking possession of the cycle was not at all consistent with the conduct of a man of ordinary prudence, making it impossible to accept his contention that he had taken possession of the cycle without knowledge or belief that it was stolen.",
+      "There was hardly any evidence worth the name by which it could be said that the presumption [under s. 114 of the Evidence Act] had been rebutted by the appellant."
+    ],
+    "why_respondent_won": [
+      "The prosecution established that the accused was in possession of recently stolen goods, allowing for a presumption of guilt to be drawn.",
+      "The circumstances were sufficient to show that the court would be justified in holding that the explanation given by the appellant could not reasonably be true.",
+      "Once the appellant's explanation was found not to be reasonably true, the presumption under s. 114, Illustration (a) of the Evidence Act could be drawn against him, satisfying the prosecution's burden of proof."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[1]": [
+      "p1_23488496"
+    ],
+    "judicial_reasoning.why_appellant_lost[2]": [
+      "p1_23488496"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court (inferred from mention of 'Sessions Court' convicting the appellant)",
+    "impugned_order": "Judgment and order dated January 18, 1966, of the Madras High Court in Criminal Appeal No. 697 of 1965 and referred trial No. 90 of 1965, which confirmed the appellant's conviction under s. 302, Indian Penal Code, and the death sentence.",
+    "high_court_proceedings": "The Madras High Court heard Criminal Appeal No. 697 of 1965 and referred trial No. 90 of 1965. The High Court confirmed the conviction of Periyasamy under s. 302, Indian Penal Code, and the death sentence.",
+    "supreme_court_posture": "Periyasamy appealed to the Supreme Court by special leave because he was convicted of murder and sentenced to death. He argued that the High Court's judgment was inadequate and did not consider all relevant circumstances. The Supreme Court examined the record and arguments, ultimately dismissing the appeal and upholding the conviction and sentence."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Confirmed",
+    "sentence_status": "Confirmed",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a witness's deposition from committal proceedings can be treated as substantive evidence under Section 288 of the Criminal Procedure Code if the trial court fails to pass a formal order transferring it to the trial record.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A witness who had implicated the appellant in her deposition during the committal proceedings did not name him when testifying in the Sessions Court (the trial court).",
+          "The witness was declared hostile, and the Sessions Judge questioned the appellant about the witness's earlier statement from the committal proceedings.",
+          "The judge informed the appellant that this earlier statement was being marked and used under Section 288 of the Criminal Procedure Code.",
+          "However, the judge failed to pass a formal, written order transferring the witness's earlier deposition to the record of the Sessions trial.",
+          "Both the Sessions Court and the High Court relied on this earlier deposition as substantive evidence to convict the appellant."
+        ],
+        "law": [
+          "Section 288 of the Criminal Procedure Code allows for the deposition of a witness from committal proceedings to be treated as substantive evidence during the trial.",
+          "The court noted that it is \"highly desirable\" for a trial judge to pass a brief order explaining why the earlier deposition is being transferred to the trial record, as this makes it clear to the accused that it will be used as substantive evidence."
+        ],
+        "application": [
+          "The Supreme Court acknowledged that the \"technical requirement\" of passing a formal order to transfer the deposition was not met.",
+          "However, the Court found that there was no \"substantial departure from the requirements of the law\" because the purpose of such an order—to prevent prejudice to the accused—was fulfilled.",
+          "The appellant was not prejudiced because the trial judge explicitly informed him during his examination that the witness's earlier statement was being used under Section 288 and gave him an opportunity to respond to it.",
+          "By informing the appellant, the court effectively put him on notice that the statement would be used as substantive evidence, thereby satisfying the underlying principle of the procedure."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument, holding that the failure to pass a formal order transferring the deposition was a technical irregularity that did not cause any prejudice to the appellant. Since the appellant was explicitly informed that the statement was being used under Section 288, the lower courts were correct to treat the deposition as substantive evidence."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the failure to pass a formal order under Section 288 Cr. P.C. for transferring a previous statement caused prejudice to the appellant.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A witness implicated the appellant in her statement during the committal court proceedings.",
+          "In the subsequent Sessions Court trial, the same witness changed her testimony and left out the appellant's name.",
+          "The witness was declared hostile, and the Sessions Judge used her earlier statement from the committal court as substantive evidence against the appellant under Section 288 of the Criminal Procedure Code.",
+          "However, the Sessions Judge did not pass a formal, written order to transfer the earlier statement to the record of the Sessions Court trial.",
+          "The appellant was convicted by the Sessions Court and the High Court, based in part on this earlier statement."
+        ],
+        "law": [
+          "The Court noted that it is \"highly desirable\" for a trial court to pass a brief, formal order when transferring a previous statement to the record under Section 288.",
+          "The purpose of such an order is to make it clear to the accused that the earlier statement is going to be used as substantive evidence against them."
+        ],
+        "application": [
+          "The Supreme Court found that although the \"technical requirement\" of passing a formal order was not met, the appellant was not prejudiced by this omission.",
+          "The Court's reasoning was that the Sessions Judge had explicitly questioned the appellant with reference to the witness's earlier statement.",
+          "Crucially, the judge informed the appellant that this statement was being marked and used under Section 288 and invited him to respond to it.",
+          "This act of informing the appellant and giving him an opportunity to defend himself against the earlier statement served the same purpose as a formal order, providing him with the necessary notice."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument, holding that the failure to pass a formal transfer order did not cause him any prejudice. Because the appellant was explicitly informed that the earlier statement was being used against him as substantive evidence under Section 288 and was given a chance to respond, there was no substantial departure from the law. Therefore, the lower courts were correct to rely on the statement, and the conviction was upheld."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a witness's deposition from committal proceedings can be treated as substantive evidence under Section 288 of the Criminal Procedure Code if the trial court fails to pass a formal order transferring it to the trial record.",
+      "appellant_arguments": [
+        "The Sessions Judge failed to comply with the provisions of Section 288 of the Code of Criminal Procedure because he did not pass a formal order transferring the witness's earlier statement to the record of the Sessions trial."
+      ],
+      "respondent_arguments": [
+        "Although the formality of making a transfer order was not complied with, there was no substantial departure from the requirements of the law."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the failure to pass a formal order under Section 288 Cr. P.C. for transferring a previous statement caused prejudice to the appellant.",
+      "appellant_arguments": [
+        "The use of the earlier statement without a formal transfer order was prejudicial."
+      ],
+      "respondent_arguments": [
+        "No prejudice was caused to the appellant, as he was informed during his examination that the statement was being used under Section 288 and was given an opportunity to respond to it."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure (Act 5 of 1898)",
+        "section": "288",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Goundan",
+        "citation": "",
+        "principle": "The specific legal principle for which this case was cited is not discernible from the provided fragmented text, but the Court expressed its complete agreement with the judgment.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A procedural failure to formally pass an order transferring a witness's prior deposition to the trial record for use as substantive evidence under Section 288 of the Code of Criminal Procedure is not a substantial departure from the law and does not cause prejudice to the accused, provided the accused was informed that the statement was being used as such and was given an opportunity to respond to it.",
+    "obiter": [
+      "It is highly desirable that a court, before transferring a prior statement to the trial record under Section 288, should indicate in a brief order the reason for the transfer to make it clear to the accused that the statement will be used as substantive evidence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The failure of a trial court to pass a formal order transferring a witness's deposition from committal proceedings to the trial record under Section 288 of the Criminal Procedure Code is not a substantial departure from the law and does not vitiate the use of that statement as substantive evidence, provided no prejudice is caused to the accused. The lack of prejudice is established if the accused was explicitly informed during his examination that the statement was being used under Section 288 and was given an opportunity to respond to it, thereby curing the technical procedural defect.",
+    "legal_tests_applied": [
+      "Whether a procedural omission constitutes a 'substantial departure from the requirements of the law' or is merely a failure to comply with a 'technical requirement'.",
+      "Whether the procedural failure caused any 'prejudice' to the accused, which is determined by assessing if the accused had notice that the evidence was being used substantively and was given an opportunity to respond."
+    ],
+    "why_appellant_lost": [
+      "The court found that although the technical requirement of passing a formal transfer order under Section 288 was not complied with, it did not amount to a substantial departure from the law.",
+      "The appellant's claim of prejudice was rejected because the record showed he was explicitly put on notice about the use of the prior statement. Specifically, he was questioned with reference to the witness's statement made before the Committing Magistrate, informed that it was marked under Section 288, and was asked what he had to say about it.",
+      "Because the appellant was informed that the statement was being used under Section 288 and was invited to say what he wished in defence, the court concluded there was no likelihood of any prejudice."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully argued that while the formality of a transfer order was missed, there was no substantial departure from the law's requirements.",
+      "The respondent demonstrated that no prejudice was caused to the appellant, as he was explicitly informed during his examination that the prior statement was being used as substantive evidence under Section 288.",
+      "The fact that the appellant was given an opportunity to respond to the statement during his examination was sufficient to meet the underlying requirements of fairness and notice, curing the procedural lapse."
+    ],
+    "policy_considerations": [
+      "It is highly desirable that a court, before transferring a statement under Section 288, indicate in a brief order why the deposition is being transferred to the trial record.",
+      "The purpose of such a formal order is to make it 'quite clear to the accused that the earlier statement is likely to be used as substantive evidence against him,' ensuring procedural fairness and clear notice."
+    ]
+  },
+  "evidence_map": {}
+}

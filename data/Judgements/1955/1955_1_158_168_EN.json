@@ -1,0 +1,116 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of the Presidency Magistrate, 19th Court, Bombay, in Case No. 147/P/1951.",
+    "impugned_order": "Judgment and Order dated the 21st May, 1952, of the Court of the Presidency Magistrate, 19th Court, Bombay, in Case No. 147/P/1951.",
+    "high_court_proceedings": "The case was appealed to the High Court of Judicature at Bombay, resulting in Criminal Appeal No. 592 of 1952. The High Court issued a Judgment and Order dated the 18th February, 1953.",
+    "supreme_court_posture": "The appellants, Tolaram Relumal and Another, appealed to the Supreme Court under article 134 ( 1) ( c) of the Constitution of India, challenging the Judgment and Order dated the 18th February, 1953, of the High Court of Judicature at Bombay. The appeal in the Supreme Court is Criminal Appeal No. 18 of 1953."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Acquitted",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the receipt of a sum of money by a person who enters into an executory contract to grant a lease of a building under construction falls within the mischief of section 18(1) of the Bombay Act L VII of 1947?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants received a sum of Rs. 2,400 from a complainant.",
+          "This payment was part of an oral agreement to grant a lease for a flat in a building that was still under construction.",
+          "The agreement was executory, meaning the lease would only begin after the building was completed.",
+          "In this specific case, the lease never came into existence because the building was requisitioned by the government upon its completion."
+        ],
+        "law": [
+          "The relevant law is Section 18(1) of the Bombay Rents, Hotel and Lodging House Rates Control Act, 1947.",
+          "This section makes it a punishable offense for a landlord to receive any premium or consideration (other than rent) \"in respect of the grant, renewal or continuance of a lease\".",
+          "The Court cited the legal principle that penal statutes must be construed strictly. If a penal provision has two possible reasonable interpretations, the court must choose the one that exempts the person from penalty rather than the one that imposes it."
+        ],
+        "application": [
+          "The Court first established that the agreement was not a current lease but an \"executory contract\" to grant a lease in the future, as the building was incomplete and the tenant had no enforceable right to possession.",
+          "It then interpreted the key phrase in Section 18(1), \"in respect of the grant... of a lease\". The Court reasoned that for a payment to be \"in respect of\" a grant, a lease must actually come into existence at or near the time the money is received.",
+          "Since the agreement was purely for a future lease and no landlord-tenant relationship existed at the time of payment, the receipt of money could not be connected to an actual \"grant\" of a lease.",
+          "The Court argued that the section punishes an act related to an existing lease, not the mere intention or agreement to grant one in the future. It noted that if the legislature had intended to criminalize payments for agreements to lease, it would have used clearer language, such as \"in respect of the lease or an agreement of lease\".",
+          "Applying the strict construction for penal statutes, the Court refused to stretch the law's meaning to cover this situation, opting for the interpretation that did not impose a penalty."
+        ],
+        "conclusion": "The Supreme Court concluded that the receipt of money under an executory contract to grant a lease for a building still under construction does not fall within the mischief of Section 18(1) of the Act. Because no lease had been granted when the money was paid, no offense was committed. The Court, therefore, rejected the High Court's view and acquitted the appellants."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the receipt of a sum of money by a person who enters into an executory contract to grant a lease of a building under construction falls within the mischief of section 18(1) of the Bombay Act L VII of 1947?",
+      "appellant_arguments": [
+        "The receipt of a premium must be simultaneous with the grant of a lease to constitute an offense under the section.",
+        "The phrase 'in respect of the grant, renewal or continuance of a lease' requires that a lease actually comes into existence. An executory agreement to grant a lease in the future is not sufficient.",
+        "The relationship of landlord and tenant, which is central to the Act, does not exist until a lease is granted and there is a demise of the property.",
+        "If the Legislature had intended to punish the receipt of money for an 'agreement of lease', it would have explicitly included such language in the section.",
+        "The section punishes an act connected to an actual lease, not an intention or an executory contract where no lease ever materializes."
+      ],
+      "respondent_arguments": [
+        "The key phrase in the section is 'in respect of', which has the widest possible connotation and should be interpreted broadly.",
+        "The phrase 'in respect of' means 'connected with or attributable to', and does not require the receipt of money to be simultaneous with the grant of the lease.",
+        "A sufficient 'nexus' or connection exists because the object of both the landlord receiving the money and the tenant paying it was the future grant of the lease.",
+        "The Legislature deliberately used the broad expression 'in respect of' rather than narrower terms like 'for' or 'in consideration of' to cover such situations."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Bombay Act LVII of 1947",
+        "section": "18(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Bombay Act LVII of 1947",
+        "section": "6",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Act 42 of 1951",
+        "section": "N/A (Amending Act)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Halsbury's Laws of England, Second Edition, Vol. 20",
+        "citation": "pp. 37-39",
+        "principle": "To distinguish between a lease and an executory agreement to lease. An instrument is construed as a lease if it contains words of present demise, but as an executory agreement if certain things have to be done by the lessor or lessee before the lease is granted.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The receipt of money is punishable under section 18(1) of the Act only when it is in respect of an existing lease that has been granted, renewed, or continued. The section does not penalize the receipt of money under a purely executory contract to grant a lease, where no lease ever comes into existence and the relationship of landlord and tenant is never created.",
+    "obiter": [
+      "It may be that if a lease actually comes into existence, then any receipt of money which has a nexus with that lease might fall within the mischief of section 18(1)."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The receipt of money under an executory agreement to grant a lease for a building still under construction does not constitute an offense under section 18(1) of the Act. The statutory language \"in respect of the grant, renewal or continuance of a lease\" requires the actual existence of a lease and the creation of a landlord-tenant relationship. A payment made in connection with a mere promise to grant a lease in the future, where no demise of property has occurred, falls outside the mischief of the section.",
+    "legal_tests_applied": [
+      "Statutory interpretation based on the plain, natural, and grammatical meaning of the language.",
+      "Contextual analysis of statutory terms, where the meaning of 'grant' is understood in relation to the accompanying words 'renewal or continuance,' which presuppose an existing lease.",
+      "Analysis of legislative intent, inferring that if the Legislature meant to include executory contracts, it would have explicitly used clearer language such as 'agreement of lease'."
+    ],
+    "why_appellant_lost": [
+      "The High Court laid undue emphasis on the wide meaning of the words 'in respect of' while failing to properly connect them to the requirement of an actual 'grant, renewal or continuance of a lease'.",
+      "The argument that a sufficient 'nexus' existed was flawed because the connection must be to an actual grant of a lease, not merely an agreement to grant one in the future.",
+      "The reliance on a subsequent legislative amendment to interpret the original section was deemed unsound, as the amendment was more likely a clarification to correct the very misinterpretation adopted by the lower court."
+    ],
+    "why_respondent_won": [
+      "The phrase 'in respect of the grant, renewal or continuance of a lease' necessarily envisages the existence of a lease. Without a lease coming into existence, the receipt of money cannot be 'in respect of' its grant.",
+      "The relationship of landlord and tenant, which is fundamental to the Act, is not created by an executory agreement; it requires a demise of the property, which never occurred in this case.",
+      "The statute punishes an act connected to an existing lease, not a mere intention or an executory contract. If the Legislature had intended to criminalize receiving money for an 'agreement of lease,' it would have explicitly stated so.",
+      "The words 'renewal or continuance of a lease' clearly refer to a subsisting lease, which contextually implies that 'grant' also refers to the creation of an actual, not a prospective, lease."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

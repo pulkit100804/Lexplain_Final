@@ -1,0 +1,145 @@
+{
+  "procedural_history": {
+    "originating_court": "Income Tax Officer",
+    "impugned_order": "Judgment and Order dated 24.02.2006 of the High Court of Delhi at New Delhi in Writ Petition (C) No. 14376 of 2005.",
+    "high_court_proceedings": "The Respondent challenged the show cause notice dated 10.02.2005 and the order dated 17.08.2005 before the High Court by filing a Writ Petition (C) No. 14376 of 2005. The High Court allowed the petition and quashed the notice dated 10.02.2005 issued under Section 148 of the Income Tax Act, 1961 and the order dated 17.08.2005 passed by the Income Tax Officer.",
+    "supreme_court_posture": "The Appellant (likely the Income Tax Officer or the department) appealed to the Supreme Court, being aggrieved by the High Court's decision to quash the show cause notice and order. The Supreme Court dismissed the appeal, upholding the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The appeal is accordingly dismissed with no order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the re-opening of a completed assessment is justified in the present facts and circumstances of the case?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The tax authority (Appellant) sought to re-open a completed assessment against the taxpayer (Respondent).",
+          "The taxpayer argued that the re-assessment was based on the same material facts that were available during the original assessment.",
+          "The specific issue that was re-examined was the extent of a deduction allowed under Section 10A of the IT Act."
+        ],
+        "law": [
+          "An Assessing Officer has the power to re-assess under Section 147 if there is a \"reason to believe\" that income has escaped assessment, based on \"tangible material.\"",
+          "However, an assessment cannot be re-opened based on a \"mere change of opinion\" by the Assessing Officer on the same set of facts.",
+          "The concept of \"change of opinion\" is an in-built test to prevent the abuse of the power to re-assess, which is distinct from the power to review (which the Assessing Officer does not have).",
+          "To determine if it is a change of opinion, a court must verify if the original assessment order had already, either expressly or by implication, considered and formed an opinion on the matter now being raised for re-assessment."
+        ],
+        "application": [
+          "The Court examined the record and found that the question of how and to what extent the deduction under Section 10A should be allowed was \"well considered in the original assessment proceedings itself.\"",
+          "The Assessing Officer's new view that the deduction was excessive was not based on any new facts or tangible material that came to light after the original assessment.",
+          "Instead, the officer was simply changing his opinion on the same facts and circumstances that were already known and considered.",
+          "This action amounted to an attempt to review the original assessment under the guise of re-assessment, which is not permissible."
+        ],
+        "conclusion": "The Supreme Court rejected the re-opening of the assessment, concluding that it was not justified because it was based on a mere change of opinion on an issue that had already been considered during the original assessment, rather than on any new tangible material indicating that income had escaped assessment."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether Section 147 of the IT Act allows the re-assessment of an income merely because the assessing officer has a change of opinion on facts that were well within his knowledge at the time of the original assessment.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "In the original assessment, the assessing officer had already considered the issue of how the assessee allocated common expenses between its two sources of income (software development and human resource development).",
+          "The officer had issued a show-cause notice during the original proceedings specifically about this allocation and the related deduction under Section 10A of the IT Act.",
+          "Subsequently, the officer issued a notice to re-open the assessment under Section 147, arguing that the deduction under Section 10A had been allowed in excess and income had therefore escaped assessment."
+        ],
+        "law": [
+          "Section 147 of the IT Act grants an assessing officer the power to re-assess income, but this power is conditional upon the officer having a \"reason to believe\" that income has escaped assessment.",
+          "The purpose of this provision is to address income that escaped assessment due to facts that were not on record or were unknown to the officer during the original proceedings.",
+          "Section 147 does not permit re-assessment based on a mere \"change of opinion\" regarding facts or law that were already known and considered by the officer during the initial assessment.",
+          "Allowing re-assessment based on a change of opinion would improperly grant the assessing officer a power of \"review,\" whereas Section 147 only confers the power to \"re-assess.\""
+        ],
+        "application": [
+          "The Court found that the very issue on which the re-assessment was initiated—the allocation of expenses and the extent of the deduction under Section 10A—was \"well considered in the original assessment proceedings itself.\"",
+          "The attempt to re-open the case was not based on any new information that had come to light. Instead, the assessing officer simply had a new perspective on the same set of facts that were already on record.",
+          "The Court determined that this constituted a \"mere change of opinion\" and not a valid \"reason to believe\" as required by the statute."
+        ],
+        "conclusion": "The Supreme Court rejected the re-assessment, holding that Section 147 of the IT Act does not permit an assessing officer to re-open a completed assessment simply because they have changed their opinion on facts that were already known and considered during the original assessment. Such an action amounts to an impermissible review, not a valid re-assessment."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the re-opening of a completed assessment is justified in the present facts and circumstances of the case?",
+      "appellant_arguments": [
+        "The Assessing Officer (AO) was well within his powers to issue the show cause notice because the deduction allowed under Section 10A was in excess and had escaped assessment, which justifies re-assessment proceedings under Section 147."
+      ],
+      "respondent_arguments": [
+        "The re-opening is not justified because the ground on which the proceedings were initiated was already well considered by the competent authority during the original assessment.",
+        "The order dated 17.08.2005 was not a speaking order and was rightly set aside."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether Section 147 of the IT Act allows the re-assessment of an income merely because the assessing officer has a change of opinion on facts that were well within his knowledge at the time of the original assessment.",
+      "appellant_arguments": [
+        "The re-assessment was not based on a mere change of opinion, but on the fact that an excessive deduction had escaped assessment."
+      ],
+      "respondent_arguments": [
+        "The re-assessment is based on a change of opinion, as the grounds for reopening were already well considered during the original assessment proceedings."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Income Tax Act, 1961",
+        "section": "147",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Income Tax Act, 1961",
+        "section": "148",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Commissioner of Income Tax, Delhi v. Kelvinator of India Ltd.",
+        "citation": "(2010) 320 ITR 561 (SC)",
+        "principle": "The use of the words ‘reason to believe’ in s.147 has to be interpreted schematically, as a liberal interpretation would confer arbitrary powers on the assessing officer to initiate re-assessment proceedings merely on his change of opinion on the basis of the same facts and circumstances which were already considered during the original assessment proceedings. Section 147 confers the power to re-assess, not the power to review.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An assessing officer cannot initiate reassessment proceedings under Section 147 of the Income Tax Act, 1961, merely on a change of opinion regarding the same facts and circumstances that were already considered during the original assessment. The statutory requirement of having a 'reason to believe' that income has escaped assessment does not confer arbitrary power to reopen a concluded assessment on this basis.",
+    "obiter": [
+      "A change of opinion implies the formulation of an opinion and then a change thereof; in assessment proceedings, it means the formulation of a belief by an assessing officer on a particular question as a result of understanding, experience, and reflection."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The initiation of re-assessment proceedings under Section 147 was based on nothing but a change of opinion by the Assessing Officer. The question as to how and to what extent the deduction should be allowed under Section 10A of the IT Act was well considered in the original assessment proceedings itself. Therefore, the re-opening was not justified merely because the Assessing Officer now holds the view that the deduction was allowed in excess, as this is based on the same facts and circumstances that were already within his knowledge during the original assessment.",
+    "legal_tests_applied": [
+      "The use of the words ‘reason to believe’ in s.147 has to be interpreted schematically as the liberal interpretation of the word would have the consequence of conferring arbitrary powers on the assessing officer who may even initiate such re-assessment proceedings merely on his change of opinion on the basis of same facts and circumstances which has already been considered by him during the original assessment proceedings."
+    ],
+    "why_appellant_lost": [
+      "The re-assessment was based on a mere change of opinion, not on any new information or failure to consider the facts during the original assessment.",
+      "The Assessing Officer's current view that the deduction under Section 10A was allowed in excess was based on the same facts and circumstances which were already in his knowledge even during the original assessment proceedings."
+    ],
+    "why_respondent_won": [
+      "The question as to how and to what extent deduction should be allowed under Section 10A of the IT Act was well considered in the original assessment proceedings itself.",
+      "The initiation of re-assessment proceedings was based on nothing but a change of opinion, which is not a permissible ground for re-opening a completed assessment under Section 147."
+    ],
+    "policy_considerations": [
+      "A liberal interpretation of 'reason to believe' in Section 147 would have the consequence of conferring arbitrary powers on the assessing officer, allowing them to initiate re-assessment proceedings merely on a change of opinion."
+    ]
+  },
+  "evidence_map": {
+    "arguments[0].respondent_arguments[1]": [
+      "p6_b4b7d2cd"
+    ],
+    "judicial_reasoning.why_respondent_won[0]": [
+      "p1_e39dfa50"
+    ]
+  }
+}

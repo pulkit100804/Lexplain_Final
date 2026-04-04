@@ -1,0 +1,113 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Order of the High Court (unspecified)",
+    "high_court_proceedings": "The High Court issued an order that was challenged.",
+    "supreme_court_posture": "Accused No. 1 filed SLP (Crl.) Diary No. 2018/2016 against the order of the High Court, which was dismissed by the Supreme Court."
+  },
+  "decision": {
+    "appeal_result": "Criminal Appeal No.567 of 2015 stands cancelled. The appeal qua the conviction of Sajeev (A10 - Criminal Appeal No.1134 of 2011) stands abated.",
+    "conviction_status": "The conviction qua A1 stands affirmed.",
+    "sentence_status": "Upheld.",
+    "directions": [
+      "The appellant in Criminal Appeal No.567 of 2015 is directed to surrender before the Court concerned forthwith."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction and sentence of the accused-A10 and A11 u/ss. 302, 307, and 326/120B IPC and s.55(a), (h), (i) and s. 57 (A)(1)(ii) of the Abkari Act by the courts below is sustainable in law.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Accused A10 and A11 were part of a criminal conspiracy with the main accused (A1) to mix methyl alcohol with spirit for unlawful sale.",
+          "The consumption of this adulterated liquor resulted in the death of 7 people, blindness in 11 people, and injuries to 40 others.",
+          "The Trial Court and the High Court had previously convicted A10 and A11, who then appealed to the Supreme Court."
+        ],
+        "law": [
+          "Indian Penal Code (IPC): Sections 302 (murder), 307 (attempt to murder), 326 (grievous hurt), and 120B (criminal conspiracy).",
+          "Abkari Act: Sections 55(a), (h), (i) (related to illegal transport and sale of alcohol) and 57(A)(1)(ii) (mixing a noxious substance with liquor)."
+        ],
+        "application": [
+          "The Court found that the prosecution had successfully established that A10 and A11 were part of the criminal conspiracy with A1.",
+          "Evidence showed that the accused were involved in the transport, bottling, and sale of the methyl alcohol.",
+          "Specifically, it was established that A11 purchased the methyl alcohol which was then provided to A1 as part of their common objective.",
+          "The Court explicitly rejected the argument that the offense of mixing a noxious substance under Section 57(A)(1)(ii) of the Abkari Act was not attributable to them, given their role in the conspiracy.",
+          "The Court also affirmed the conviction under Section 55 of the Abkari Act, concluding that the accused were conspirators throughout the entire process."
+        ],
+        "conclusion": "The Supreme Court concluded that the involvement of A10 and A11 in the conspiracy to sell methyl alcohol, which led to deaths and injuries, was proven. Consequently, the Court upheld the convictions and sentences imposed by the lower courts under both the IPC and the Abkari Act, finding them to be sustainable in law."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction and sentence of the accused-A10 and A11 u/ss. 302, 307, and 326/120B IPC and s.55(a), (h), (i) and s. 57 (A)(1)(ii) of the Abkari Act by the courts below is sustainable in law.",
+      "appellant_arguments": [
+        "The act of conspiracy cannot be attributed to the convicts (Appellants)."
+      ],
+      "respondent_arguments": [
+        "During their examination under Section 313 of the Code of Criminal Procedure, 1973, the accused persons (A10 and A11) were confronted with 627 incriminating questions/circumstances. They failed to furnish any explanation, much less a plausible one, for these circumstances. In the event of such complete denial or silence, the Court is entitled to draw an adverse inference against the accused, which supports the prosecution's case."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Abkari Act",
+        "section": "57(A)(1)(ii)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (IPC)",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (IPC)",
+        "section": "307",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (IPC)",
+        "section": "326",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code (IPC)",
+        "section": "120B",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The Supreme Court will interfere with concurrent findings of lower courts when the finding is perverse; the finding is based or built on inadmissible evidence; or the courts below have not considered or wrongly discarded vital pieces of evidence that would tilt the balance in favor of the accused.",
+    "obiter": [
+      "We place on record with appreciation for the assistance rendered by the Learned Amicus Curiae."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The conclusion and conviction arrived concurrently by the High Court and Trial Court regarding the role played by these accused persons in this tragedy does not suffer from any infirmity and does not warrant interference of this Court.",
+    "legal_tests_applied": [
+      "Interference in concurrent convictions is only warranted when: i. The finding is perverse; ii. The finding is based or built on inadmissible evidence. iii. The Courts below have not considered or wrongly discarded vital pieces of evidence that would tilt the balance in favor of the accused."
+    ],
+    "why_appellant_lost": [
+      "The appellants have made out none of the circumstances warranting interference of this Court.",
+      "The argument that the accused were nowhere connected with the present crime is untenable and cannot be accepted."
+    ],
+    "why_respondent_won": [
+      "The prosecution has succeeded in establishing the offence of criminal conspiracy of A10 and A11 with A1."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[0]": [
+      "p19_f9aa683d"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p19_10464712"
+    ]
+  }
+}

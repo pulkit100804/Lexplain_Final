@@ -1,0 +1,254 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court in Delhi since the High Court proceedings involve a Murder Reference, which typically originates from a trial court's sentencing in a murder case.",
+    "impugned_order": "Judgment and order dated August 12, 1969, of the Delhi High Court in Criminal Appeal No. 68 of 1967 and Murder Reference No. 1 of 1967.",
+    "high_court_proceedings": "The Delhi High Court heard Criminal Appeal No. 68 of 1967 and Murder Reference No. 1 of 1967. The outcome of these proceedings in the High Court is not explicitly stated, but the fact that the Supreme Court appeal is against an acquittal suggests the High Court acquitted the defendant.",
+    "supreme_court_posture": "The Himachal Pradesh Administration appealed to the Supreme Court by special leave against the Delhi High Court's judgment. The appeal is against an acquittal."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "Judgment of acquittal of the High Court set aside; Accused convicted under Sec. 302",
+    "sentence_status": "Sentenced to life imprisonment",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "The power of the Supreme Court to interfere with findings of fact in an appeal against acquittal under Article 136 of the Constitution.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court had convicted the accused.",
+          "The High Court, on appeal, set aside the conviction and acquitted the accused.",
+          "The High Court's reason for acquittal was that the witnesses were not independent or impartial."
+        ],
+        "law": [
+          "Under Article 136 of the Constitution, the Supreme Court has the power to interfere with findings of fact in an appeal against acquittal.",
+          "The Court makes no distinction between judgments of acquittal and conviction in this regard.",
+          "However, in cases of acquittal, the Court will not ordinarily interfere with the appreciation of evidence or findings of fact unless the High Court has acted perversely or otherwise improperly."
+        ],
+        "application": [
+          "The Supreme Court reviewed the evidence and found it to be \"cogent\" and of a \"conclusive nature.\"",
+          "It concluded that the High Court had no justification for discarding this evidence.",
+          "The Supreme Court held that the High Court's reasoning—that the witnesses were not independent or impartial—was based on \"mere conjectures\" and was \"without justification.\"",
+          "This action by the High Court was deemed to be an improper assessment of the evidence, meeting the threshold for the Supreme Court's interference."
+        ],
+        "conclusion": "The Supreme Court concluded that since the High Court had acted improperly and perversely by rejecting cogent evidence on unjustified grounds, the Supreme Court could exercise its power under Article 136 to interfere with the findings of fact. Consequently, it set aside the High Court's acquittal and convicted the accused."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the evidence relating to recoveries is similar to that contemplated under Section 103 of the Criminal Procedure Code.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Recoveries of various items were made from different places based on information provided by the accused.",
+          "The same set of witnesses (P.W. 2 and P.W. 8), who were connected to the deceased, were present for these successive recoveries.",
+          "An argument was made that this process was flawed, likely by comparing it to the stricter requirements for a formal search."
+        ],
+        "law": [
+          "Section 103 of the Criminal Procedure Code (Cr.P.C.) requires that formal searches be conducted in the presence of two or more inhabitants of the locality where the search takes place.",
+          "Recoveries made during an investigation under Section 157 Cr.P.C. are governed by different standards.",
+          "There is no rule of law or practice that requires different sets of witnesses for recoveries made from different places based on the accused's information."
+        ],
+        "application": [
+          "The Court distinguished between a formal 'search' under Section 103 Cr.P.C. and a 'recovery' made during an investigation.",
+          "It held that the strict requirement of using two local inhabitants as witnesses does not apply to recoveries.",
+          "The Court stated that a recovery can be proven even by the solitary, believable evidence of the Investigating Officer.",
+          "It further ruled that there is no legal prohibition against using the same witnesses for multiple recoveries.",
+          "In this specific case, the Court found that the witnesses used were actually 'proper persons' for the task because their connection to the deceased enabled them to identify the missing items."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, explaining that the rules for 'recoveries' made during an investigation are not the same as those for formal 'searches' under Section 103 of the Criminal Procedure Code. The Court clarified that unlike a formal search, a recovery does not require the presence of two or more local inhabitants as witnesses. It can be proven even by the sole testimony of the investigating officer if their evidence is credible. Furthermore, the Court held that it is not a requirement of law or practice to use a different set of witnesses for each recovery made from different locations."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "The standard of caution and care required when considering evidence of recovery under Section 27 of the Evidence Act to ensure the information furnished by the accused is credible.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "name": "Section 27 of the Evidence Act",
+            "description": "Allows information given by an accused person while in police custody to be admissible as evidence if it leads to the discovery of a fact."
+          },
+          {
+            "name": "Sections 25 and 26 of the Evidence Act",
+            "description": "Provide protection against coerced confessions made to police officers or while in police custody."
+          }
+        ],
+        "application": [
+          {
+            "step": 1,
+            "description": "The Court acknowledged that Section 27 of the Evidence Act, which makes an accused's statement leading to a discovery admissible, is liable to be abused."
+          },
+          {
+            "step": 2,
+            "description": "It noted that investigating officers could potentially use this section to manipulate evidence or circumvent the protections against coerced confessions provided by Sections 25 and 26."
+          },
+          {
+            "step": 3,
+            "description": "For this reason, the Court ruled that a high degree of \"caution and care\" must be exercised when evaluating evidence related to such a recovery."
+          },
+          {
+            "step": 4,
+            "description": "The purpose of this careful scrutiny is to lend assurance that the information furnished by the accused and the subsequent discovery of the fact are credible and not the result of manipulation."
+          },
+          {
+            "step": 5,
+            "description": "The Court further clarified that what lends assurance to the information is the discovery of a concealed fact that was previously unknown to the police, as this connects the information and the discovery as cause and effect."
+          }
+        ],
+        "conclusion": "The Supreme Court decided that courts must exercise great caution and care when considering evidence of recovery under Section 27. This heightened standard is necessary to guard against potential abuse by investigating officers and to ensure that the information provided by the accused leading to the discovery of a fact is credible and trustworthy."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the recovery of Account Books, vouchers, and a pant was a valid discovery as a consequence of information furnished by the accused.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The police appeared to have prior knowledge of the location where the Account Books, vouchers, and pant were recovered.",
+          "There was a long delay of over 24 hours between when the accused allegedly provided the information and when the items were actually recovered.",
+          "A witness to the recovery memo denied signing it at the spot, stating he signed it later at the police station (Thana), which contradicted the prosecution's version of events."
+        ],
+        "law": [
+          "Under Section 27 of the Evidence Act, information given by an accused in custody is admissible if it leads to the discovery of a fact.",
+          "For such a discovery to be valid, it must be a direct consequence of the information furnished by the accused. If the police already know the location of the items, it cannot be considered a 'discovery' under this section."
+        ],
+        "application": [
+          "The Court reasoned that since the police seemed to already know where the articles were, it could not be said that they were 'discovered as a consequence of the information furnished by the accused.'",
+          "The Court found that the long delay between receiving the information and the actual recovery did not 'lend assurance to the discovery,' further weakening the prosecution's claim.",
+          "The contradictory testimony from a recovery witness cast doubt on the integrity of the entire recovery process presented by the prosecution."
+        ],
+        "conclusion": "The Supreme Court rejected the validity of the discovery, concluding that the evidence went against the prosecution's version that the Account Books, vouchers, and pant were recovered at the instance of the accused. The prior knowledge of the police and the long, unexplained delay meant the recovery could not be considered a valid discovery under Section 27 of the Evidence Act."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was correct in setting aside the conviction on the ground that the witnesses were not independent or impartial.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court convicted the accused of murder, but the High Court set aside the conviction.",
+          "The High Court's primary reason for acquittal was its belief that the witnesses to the recovery of incriminating evidence (such as a blood-stained dagger) were not independent or impartial.",
+          "The High Court reasoned that these witnesses were connected to the deceased, known to the investigating officer, or were the same people used for multiple recoveries, which it found suspicious.",
+          "Specifically, the High Court dismissed the evidence of witnesses P.W. 2, P.W. 8, and P.W. 13 because they were connected with the deceased.",
+          "It also rejected the testimony of P.W. 5, suggesting he was a \"pliable agent of the police\" and not impartial because he was known to the investigating officer."
+        ],
+        "law": [
+          "The testimony of a witness cannot be automatically rejected simply because they are connected to the deceased or known to the police.",
+          "A court should not discard cogent and conclusive evidence based on \"mere conjectures\" or an \"omnibus ground\" without specific justification."
+        ],
+        "application": [
+          "The Supreme Court reviewed the High Court's reasoning and found it to be without justification.",
+          "It held that the seizure memos (panchnamas) could not be invalidated merely on the ground that the witnesses were connected with the deceased.",
+          "The Supreme Court specifically addressed the High Court's view on witness P.W. 5, stating that the fact he was known to the police officer was not, by itself, a sufficient reason to reject his evidence.",
+          "It found the High Court's comment that P.W. 5 was a \"pliable agent of the police\" to be an unjustified comment.",
+          "The Supreme Court characterized the evidence presented by the prosecution witnesses as \"cogent\" and \"of a conclusive nature.\""
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's reasoning, finding that it had wrongly discarded credible evidence based on unjustified conjectures about the witnesses' impartiality. The Court concluded that the evidence was sufficient to justify the conviction, set aside the High Court's judgment of acquittal, and restored the conviction and life sentence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "The power of the Supreme Court to interfere with findings of fact in an appeal against acquittal under Article 136 of the Constitution.",
+      "appellant_arguments": [
+        "The appellant argued that the Supreme Court should interfere with the High Court's acquittal because it was based on 'mere conjectures' and there was 'no justification' for rejecting the 'cogent evidence of a conclusive nature' that was sufficient to justify a conviction."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the High Court's acquittal should be upheld, as the defense had successfully established 'uncertainty and doubt' in the prosecution's evidence, which was sufficient to give the benefit of the doubt to the accused."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the evidence relating to recoveries is similar to that contemplated under Section 103 of the Criminal Procedure Code.",
+      "appellant_arguments": [
+        "The appellant's position, upheld by the court, was that the evidence relating to recoveries in this context is not similar to that contemplated under Section 103 of the Criminal Procedure Code."
+      ],
+      "respondent_arguments": [
+        "The respondent likely argued that the recoveries were procedurally invalid because they did not follow the requirements of Section 103 of the Criminal Procedure Code, an argument the court rejected."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "The standard of caution and care required when considering evidence of recovery under Section 27 of the Evidence Act to ensure the information furnished by the accused is credible.",
+      "appellant_arguments": [
+        "The appellant argued that even after applying the necessary caution and care, the recovery evidence was credible and sufficient for conviction."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that great caution should be exercised as Section 27 is 'liable to be abused' and that the evidence was created or planted by the investigating officer, and therefore not credible."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the recovery of Account Books, vouchers, and a pant was a valid discovery as a consequence of information furnished by the accused.",
+      "appellant_arguments": [
+        "The appellant (prosecution) contended that the Account Books, vouchers, and pant were recovered at the instance of the accused."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that this specific recovery was not a valid discovery because the police appeared to have already known the location of the items, suggesting they were planted."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the High Court was correct in setting aside the conviction on the ground that the witnesses were not independent or impartial.",
+      "appellant_arguments": [
+        "The appellant argued that the High Court was wrong to set aside the conviction, as its decision was based on 'mere conjectures' and the 'omnibus ground that the witnesses were not independent or impartial... is without justification.'"
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the High Court was correct, as the defense's strategy was to establish that the witnesses had an 'interest in implicating the accused' and to create uncertainty and doubt."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 136",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "In an appeal against acquittal by special leave, the Supreme Court has the power to interfere with findings of fact and will do so if the High Court has acted perversely or otherwise improperly in its appreciation of evidence.",
+    "obiter": [
+      "The information given by an accused leading to the discovery of a witness to whom he had given stolen articles is a discovery of a fact within the meaning of Sec. 27 of the Evidence Act.",
+      "The penumbra of uncertainty in the evidence before a Court is generally due to the nature and quality of that evidence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found there was no justification for the High Court to jettison what it considered cogent and conclusive evidence based on mere conjectures and the omnibus ground that the witnesses were not independent or impartial. The court concluded that the evidence presented was sufficient to justify the conviction of the accused for murder, leading it to set aside the High Court's acquittal.",
+    "legal_tests_applied": [
+      "In an appeal against acquittal under Article 136, the Supreme Court has the power to interfere with findings of fact, particularly if the High Court acted perversely or otherwise improperly.",
+      "The standard for circumstantial evidence requires that the links in the chain are complete, leading to the undoubted conclusion that the accused alone could have committed the offence.",
+      "The standard of proof beyond a reasonable doubt requires that the doubt should be reasonable and not a remote possibility in favour of the accused. The court should take the greatest possible care in convicting an accused, who is presumed innocent until the prosecution clearly establishes guilt.",
+      "The requirements for a search under Section 103 of the Criminal Procedure Code (requiring two or more local inhabitants as witnesses) are not applicable to recoveries made during an investigation under Section 157, which can be proven even by the solitary evidence of the Investigating Officer if credible."
+    ],
+    "why_appellant_lost": [
+      "The provided text does not contain the court's reasoning for why the recovery of the Account Books, vouchers, and pant was deemed not to be a valid discovery. This was the only issue on which the appellant (prosecution) did not succeed."
+    ],
+    "why_respondent_won": [
+      "The provided text does not contain the court's reasoning for why it accepted the respondent's argument that the recovery of the Account Books, vouchers, and pant was not a valid discovery. This was the only issue on which the respondent (accused) succeeded."
+    ],
+    "policy_considerations": [
+      "The court cautioned that allowing 'fanciful conjectures or untenable doubts' to form the basis of a decision would deflect the course of justice, if not thwart it altogether.",
+      "The court noted that the phrase 'reasonable doubt' can be more confusing than helpful to a jury, and that the core principle is simply that the prosecution has the duty to satisfy the court of the prisoner's guilt.",
+      "The court acknowledged that while experienced lawyers can create doubts and uncertainties in the prosecution's evidence, the court must focus on the actual nature and quality of that evidence."
+    ]
+  },
+  "evidence_map": {}
+}

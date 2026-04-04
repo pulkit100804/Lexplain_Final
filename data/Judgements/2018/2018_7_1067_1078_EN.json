@@ -1,0 +1,153 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a lower adjudicating authority than the Tribunal, likely an assessing officer or similar tax authority.",
+    "impugned_order": "The impugned decision is that of the High Court, dated 23.12.2004.",
+    "high_court_proceedings": "The Respondent (likely the assessee) filed an appeal before the High Court. The Revenue (likely the tax authority) also filed an appeal. The High Court, vide judgment and order dated 23.12.2004, allowed the appeal filed by the Respondent and dismissed the appeal of the Revenue.",
+    "supreme_court_posture": "The Revenue, being dissatisfied with the High Court's decision, approached the Supreme Court by filing Civil Appeal No. 4380 of 2018 and Civil Appeal No. 4381 of 2018. The Supreme Court dismissed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Parties to bear their own cost."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the case of the Respondent would fall under the ambit of Section 17(2) (iii) of the IT Act instead of Section 17(2) (iiia) of the IT Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The transaction in question occurred prior to April 1, 2000."
+        ],
+        "law": [
+          "Section 17(2)(iiia) was introduced into the IT Act by the Finance Act, 1999, with effect from April 1, 2000.",
+          "This amendment was specifically intended to bring benefits from the transfer of specified securities by an employer to an employee within the ambit of income tax.",
+          "The amendment was not given retrospective effect.",
+          "A fundamental principle of law is that a receipt can only be treated as taxable income if there is a specific provision in the IT Act to that effect.",
+          "Courts cannot construe the law in a way that makes an individual liable to pay tax if they are not otherwise liable, as this would violate their Constitutional Rights."
+        ],
+        "application": [
+          "The Court observed that the legislature's intention in introducing Section 17(2)(iiia) was to specifically cover transactions like the one in this case.",
+          "While the respondent's case would fall under the new clause (iiia), it could not be applied because the transaction occurred before the clause came into effect on April 1, 2000.",
+          "The Court rejected the Revenue's argument that the case should instead fall under the pre-existing Section 17(2)(iii).",
+          "The Court reasoned that the very act of creating a new, specific provision (iiia) implied that such benefits were not taxable before its introduction.",
+          "To force the transaction into the ambit of Section 17(2)(iii) would go against the principle that a person cannot be taxed without a specific provision, and would be an improper construction of the law.",
+          "The Court also noted that this legal position had already been settled in the case of *Infosys Technologies Ltd*."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the respondent's case fell under Section 17(2)(iii) of the IT Act. It held that the transaction was of the nature covered by the new Section 17(2)(iiia), but since the transaction predated the effective date of that clause and the clause was not retrospective, the amount received by the respondent was not taxable as a perquisite."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the amendment brought in by Section 17(2) of the IT Act was clarificatory, and hence, retrospective in nature.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The Finance Act of 1999 introduced an amendment, Clause (iiia) to Section 17(2) of the IT Act, with an effective date of April 1, 2000.",
+          "This amendment was intended to tax benefits, like Stock Appreciation Rights (SARs), transferred from an employer to an employee.",
+          "The Revenue argued that this amendment was merely clarificatory and should therefore be applied retrospectively to transactions that occurred before its effective date."
+        ],
+        "law": [
+          "A new mechanism in a taxing statute cannot be read retrospectively unless the Legislature expressly states so.",
+          "Taxing provisions must be construed strictly, meaning a person cannot be made liable for a tax unless the law explicitly covers them.",
+          "A charging section and its corresponding computation provision constitute an integrated code."
+        ],
+        "application": [
+          "The Court determined that the amendment was not a clarification but a \"new mechanism\" introduced for the \"first time\" to define the \"cost\" of acquiring specific securities.",
+          "Prior to this amendment (before April 1, 2000), the value of such options was not ascertainable because there was no definition of \"cost.\"",
+          "The Court found nothing in the legislative notes (Memorandum to the Finance Act, 1999) to suggest that the new mechanism was intended to operate retrospectively.",
+          "Because the method to calculate the value of the benefit did not exist before the amendment, the Court reasoned that the provision was \"not capable of being implemented retrospectively.\"",
+          "Applying the principle of strict construction, the Court held that since the transaction occurred before the amendment's effective date and there was no express provision for retrospective application, the benefit could not be taxed under the new clause."
+        ],
+        "conclusion": "The Supreme Court rejected the Revenue's argument, holding that the amendment was not clarificatory but a new substantive provision. Therefore, it only applied prospectively from its effective date of April 1, 2000, and could not be used to tax transactions that occurred before that date."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether in the present facts and circumstances of the case, any interference by this Court is required with the impugned decision of the High Court?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [],
+        "application": [],
+        "conclusion": "The Supreme Court decided not to interfere with the High Court's decision. After reviewing the case, the Court concluded that the appeals were \"devoid of merits\" and deserved to be dismissed. Accordingly, the Court dismissed the appeals, leaving the parties to bear their own costs."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the case of the Respondent would fall under the ambit of Section 17(2) (iii) of the IT Act instead of Section 17(2) (iiia) of the IT Act.",
+      "appellant_arguments": [
+        "The appellant (Revenue) argued that the amount received by the respondent should be taxed under Section 17(2)(iii) of the IT Act."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that their case did not fall under Section 17(2)(iii) and should be considered under Section 17(2)(iiia) of the IT Act."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the amendment brought in by Section 17(2) of the IT Act was clarificatory, and hence, retrospective in nature.",
+      "appellant_arguments": [
+        "The appellant (Revenue) likely argued that the amendment to Section 17(2) was merely clarificatory and should therefore be applied retrospectively to the respondent's case."
+      ],
+      "respondent_arguments": [
+        "The respondent likely argued that the amendment was substantive, not clarificatory, and therefore should only apply prospectively, not to their case which pertained to a prior period."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether in the present facts and circumstances of the case, any interference by this Court is required with the impugned decision of the High Court?",
+      "appellant_arguments": [
+        "The appellant (Revenue) contended that the High Court had erred in law and that its decision should be overturned by the Supreme Court."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the High Court's decision was correct and did not require any interference."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Commissioner of Income Tax v. Infosys Technologies Ltd.",
+        "citation": "[2008] 297 ITR 167 (SC)",
+        "principle": "Taxing provisions are to be construed strictly so that no person who is otherwise not liable to pay tax, is made liable to pay tax.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Taxing provisions must be construed strictly so that no person who is otherwise not liable to pay tax is made liable. A receipt under the Income Tax Act must be specifically made taxable by a provision before it can be treated as income, and courts cannot construe the law to bring an individual within the ambit of the Act who is otherwise not liable.",
+    "obiter": [
+      "In the absence of a specific provision, subjecting an individual to pay tax would amount to the violation of their Constitutional Right."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The amendment introducing Section 17(2)(iiia) of the IT Act was the first time the legislature specified the meaning of cost for acquiring specific securities and covered the direct or indirect transfer of such securities from an employer to an employee. As the transaction in this case occurred prior to the amendment's effective date of 01.04.2000, and the amendment lacks an express provision for retrospective effect, the transaction cannot be taxed under this new clause. Furthermore, the transaction does not fall under the pre-existing Section 17(2)(iii).",
+    "legal_tests_applied": [
+      "It is a fundamental principle of law that a receipt under the IT Act must be made taxable before it can be treated as income.",
+      "Courts cannot construe the law in such a way that brings an individual within the ambit of Income Tax Act to pay tax who otherwise is not liable to pay."
+    ],
+    "why_appellant_lost": [
+      "The Court found no force in the Revenue's argument that the respondent's case would fall under the ambit of Section 17(2)(iii) of the IT Act.",
+      "The amendment that would cover the respondent's transaction was not retrospective, as the transaction pertained to a period prior to 01.04.2000 and there was an absence of an express provision of retrospective effect.",
+      "The Court rejected the applicability of Section 28(iv) of the IT Act, stating that its applicability is confined only to cases where there is a business or profession-related transaction involved, which was not the situation in the instant case."
+    ],
+    "why_respondent_won": [
+      "The transaction in question occurred prior to 01.04.2000, which was the effective date of the legislative amendment that would have made such a benefit taxable.",
+      "The Court determined that the amendment was not retrospective in nature, as it lacked an express provision to that effect.",
+      "The Court agreed that the respondent's case did not fall under the pre-existing Section 17(2)(iii) of the IT Act."
+    ],
+    "policy_considerations": [
+      "In the absence of any such specific provision, if an individual is subjected to pay tax, it would amount to the violation of his Constitutional Right."
+    ]
+  },
+  "evidence_map": {}
+}

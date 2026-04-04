@@ -1,0 +1,392 @@
+{
+  "case_id": "b1466bf8-4583-41db-8439-1b6888680067",
+  "tenant_id": "demo",
+  "agent": "agent_5c_statute_retriever",
+  "input_refs": [
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-03-19T11:25:16.317368+00:00",
+  "query_terms": [
+    "use of force",
+    "causing death",
+    "evidence recovery",
+    "physical force used",
+    "death occurred",
+    "physical evidence recovered",
+    "death by violence",
+    "weapon recovered",
+    "victim attacked",
+    "victim against accused",
+    "attacked",
+    "victim died",
+    "died",
+    "recovered"
+  ],
+  "total_sections_indexed": 520,
+  "candidates": [
+    {
+      "section": "376D",
+      "heading": "Punishment for gang rape on woman under twelve years of age.",
+      "score": 29.3435,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "376D.1",
+          "text": "A woman is under twelve years of age.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "376D.3",
+          "text": "The rape is committed by one or more persons constituting a group.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "376D.4",
+          "text": "The rape is committed by one or more persons acting in furtherance of a common intention.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "376D.5",
+          "text": "Each of those persons shall be deemed to have committed the offence of rape.",
+          "element_type": "consequence"
+        },
+        {
+          "ingredient_id": "376D.6",
+          "text": "Such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim.",
+          "element_type": "provision"
+        },
+        {
+          "ingredient_id": "376D.7",
+          "text": "Any fine imposed under this section shall be paid to the victim.",
+          "element_type": "provision"
+        }
+      ],
+      "offence_category": [
+        "rape",
+        "gang_rape"
+      ]
+    },
+    {
+      "section": "146",
+      "heading": "Rioting.",
+      "score": 28.5565,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "146.1",
+          "text": "force or violence is used",
+          "element_type": "action"
+        },
+        {
+          "ingredient_id": "146.2",
+          "text": "by an unlawful assembly, or by any member thereof",
+          "element_type": "actor"
+        },
+        {
+          "ingredient_id": "146.3",
+          "text": "in prosecution of the common object of such assembly",
+          "element_type": "intent"
+        }
+      ],
+      "offence_category": [
+        "public_order_offence"
+      ]
+    },
+    {
+      "section": "148",
+      "heading": "Rioting, armed with deadly weapon.",
+      "score": 27.7195,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "148.1",
+          "text": "The accused is armed with anything which, used as a weapon of offence, is likely to cause death.",
+          "element_type": "circumstance"
+        }
+      ],
+      "offence_category": [
+        "criminal_offence"
+      ]
+    },
+    {
+      "section": "105",
+      "heading": "Commencement and continuance of the right of private defence of property.",
+      "score": 25.0131,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "105.1",
+          "text": "The right of private defence of property commences when a reasonable apprehension of danger to the property commences.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "105.2",
+          "text": "The right of private defence of property against theft continues till the offender has effected his retreat with the property.",
+          "element_type": "duration"
+        },
+        {
+          "ingredient_id": "105.3",
+          "text": "The right of private defence of property against theft continues till the assistance of the public authorities is obtained.",
+          "element_type": "duration"
+        },
+        {
+          "ingredient_id": "105.4",
+          "text": "The right of private defence of property against theft continues till the property has been recovered.",
+          "element_type": "duration"
+        },
+        {
+          "ingredient_id": "105.5",
+          "text": "The right of private defence of property against robbery continues as long as the offender causes or attempts to cause to any person death or hurt or wrongful restraint.",
+          "element_type": "duration"
+        },
+        {
+          "ingredient_id": "105.6",
+          "text": "The right of private defence of property against robbery continues as long as the fear of instant death or of instant hurt or of instant personal restraint continues.",
+          "element_type": "duration"
+        },
+        {
+          "ingredient_id": "105.7",
+          "text": "The right of private defence of property against criminal trespass or mischief continues as long as the offender continues in the commission of criminal trespass or mischief.",
+          "element_type": "duration"
+        },
+        {
+          "ingredient_id": "105.8",
+          "text": "The right of private defence of property against house-breaking by night continues as long as the house-trespass which has been begun by such house-breaking continues.",
+          "element_type": "duration"
+        }
+      ],
+      "offence_category": [
+        "theft",
+        "robbery",
+        "criminal_trespass",
+        "mischief",
+        "house-breaking_by_night"
+      ]
+    },
+    {
+      "section": "144",
+      "heading": "Joining unlawful assembly armed with deadly weapon.",
+      "score": 24.2547,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "144.1",
+          "text": "The person is armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death.",
+          "element_type": "actus_reus"
+        }
+      ],
+      "offence_category": [
+        "public_order_offence"
+      ]
+    },
+    {
+      "section": "370",
+      "heading": "Trafficking of person.",
+      "score": 24.0367,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "370.6",
+          "text": "for the purpose of exploitation",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "370.7",
+          "text": "by using threats",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "370.8",
+          "text": "by using force",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "370.9",
+          "text": "by using any other form of coercion",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "370.10",
+          "text": "by abduction",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "370.11",
+          "text": "by practising fraud",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "370.12",
+          "text": "by practising deception",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "370.13",
+          "text": "by abuse of power",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "370.14",
+          "text": "by inducement, including the giving or receiving of payments or benefits, in order to achieve the consent of any person having control over the person recruited, transported, harboured, transferred or received",
+          "element_type": "means"
+        },
+        {
+          "ingredient_id": "370.15",
+          "text": "The expression 'exploitation' shall include any act of physical exploitation",
+          "element_type": "definition"
+        },
+        {
+          "ingredient_id": "370.16",
+          "text": "The expression 'exploitation' shall include any form of sexual exploitation",
+          "element_type": "definition"
+        },
+        {
+          "ingredient_id": "370.19",
+          "text": "The expression 'exploitation' shall include the forced removal of organs",
+          "element_type": "definition"
+        },
+        {
+          "ingredient_id": "370.20",
+          "text": "The consent of the victim is immaterial in determination of the offence of trafficking",
+          "element_type": "clarification"
+        }
+      ],
+      "offence_category": [
+        "human_trafficking"
+      ]
+    },
+    {
+      "section": "440",
+      "heading": "Mischief committed after preparation made for causing death or hurt.",
+      "score": 23.4774,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "440.1",
+          "text": "The accused made preparation for causing fear of death to any person.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "440.2",
+          "text": "The accused made preparation for causing fear of hurt to any person.",
+          "element_type": "condition"
+        },
+        {
+          "ingredient_id": "440.3",
+          "text": "The accused made preparation for causing fear of wrongful restraint to any person.",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "mischief"
+      ]
+    },
+    {
+      "section": "204",
+      "heading": "Destruction of document to prevent its production as evidence.",
+      "score": 22.8106,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "204.1",
+          "text": "The accused secretes or destroys a document or electronic record.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "204.2",
+          "text": "The accused obliterates or renders illegible the whole or any part of a document or electronic record.",
+          "element_type": "actus_reus"
+        },
+        {
+          "ingredient_id": "204.3",
+          "text": "The evidence is for a Court of Justice or any proceeding lawfully held before a public servant.",
+          "element_type": "circumstance"
+        },
+        {
+          "ingredient_id": "204.4",
+          "text": "The accused acts with the intention of preventing the document or electronic record from being produced or used as evidence before such Court or public servant.",
+          "element_type": "mens_rea"
+        },
+        {
+          "ingredient_id": "204.5",
+          "text": "The accused acts after having been lawfully summoned or required to produce the document or electronic record for that purpose.",
+          "element_type": "circumstance"
+        }
+      ],
+      "offence_category": [
+        "obstruction_of_justice",
+        "evidence_tampering"
+      ]
+    },
+    {
+      "section": "228A",
+      "heading": "Disclosure of identity of the victim of certain offences, etc.",
+      "score": 22.1707,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "228A.2",
+          "text": "The published content is the name or any matter which may make known the identity of a person.",
+          "element_type": "subject_matter"
+        },
+        {
+          "ingredient_id": "228A.3",
+          "text": "The person whose identity is revealed is a victim against whom an offence under section 376, section 376A, section 376AB, section 376B, section 376C, section 376D, section 376DA or section 376E is alleged or found to have been committed.",
+          "element_type": "victim_context"
+        },
+        {
+          "ingredient_id": "228A.4",
+          "text": "The printing or publication is by or under the order in writing of the officer-in-charge of the police station or the police officer making the investigation into such offence, acting in good faith for the purposes of such investigation.",
+          "element_type": "exception_condition"
+        },
+        {
+          "ingredient_id": "228A.5",
+          "text": "The printing or publication is by, or with the authorisation in writing of, the victim.",
+          "element_type": "exception_condition"
+        },
+        {
+          "ingredient_id": "228A.6",
+          "text": "Where the victim is dead or minor or of unsound mind, the printing or publication is by, or with the authorisation in writing of, the next of kin of the victim.",
+          "element_type": "exception_condition"
+        },
+        {
+          "ingredient_id": "228A.7",
+          "text": "Such authorisation by the next of kin is given only to the chairman or the secretary of any recognised welfare institution or organisation.",
+          "element_type": "exception_proviso"
+        },
+        {
+          "ingredient_id": "228A.8",
+          "text": "A 'recognised welfare institution or organisation' means a social welfare institution or organization recognised in this behalf by the Central or State Government.",
+          "element_type": "definition"
+        },
+        {
+          "ingredient_id": "228A.11",
+          "text": "The printing or publication of the judgment of any High Court or the Supreme Court does not amount to an offence within the meaning of this section.",
+          "element_type": "clarification"
+        }
+      ],
+      "offence_category": [
+        "sexual_offences",
+        "privacy_offences"
+      ]
+    },
+    {
+      "section": "397",
+      "heading": "Robbery, or dacoity, with attempt to cause death or grievous hurt.",
+      "score": 22.1152,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "397.1",
+          "text": "at the time of committing robbery or dacoity, the offender uses any deadly weapon",
+          "element_type": "aggravating_circumstance"
+        },
+        {
+          "ingredient_id": "397.2",
+          "text": "at the time of committing robbery or dacoity, the offender causes grievous hurt to any person",
+          "element_type": "aggravating_circumstance"
+        },
+        {
+          "ingredient_id": "397.3",
+          "text": "at the time of committing robbery or dacoity, the offender attempts to cause death or grievous hurt to any person",
+          "element_type": "aggravating_circumstance"
+        }
+      ],
+      "offence_category": [
+        "robbery",
+        "dacoity"
+      ]
+    }
+  ]
+}

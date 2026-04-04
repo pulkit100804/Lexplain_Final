@@ -1,0 +1,97 @@
+{
+  "procedural_history": {
+    "originating_court": "Income Tax Appellate Tribunal, Kolkata",
+    "impugned_order": "Judgment and order dated 17.11.2005 passed by the High Court at Calcutta in Income Tax Appeal No. 174 of 2005.",
+    "high_court_proceedings": "The Appellant initially filed an Appeal being No. IT(SS)/174/Kol/2003 before the Tribunal. The Revenue also filed an appeal being IT (SS) 178/K/2003 before the Tribunal. The Tribunal dismissed the Appellant's appeal and partly allowed the Revenue's appeal on 29.04.2005. The Appellant then filed an appeal being No. ITA 174 of 2005 before the High Court. The High Court dismissed the appeal on 17.11.2005.",
+    "supreme_court_posture": "The Appellant, aggrieved by the High Court's judgment and order dated 17.11.2005, preferred an appeal before the Supreme Court. The Supreme Court dismissed the appeal, upholding the High Court's judgment and order."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "No order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether in the facts and circumstances of the present case, the issue of Second (Fresh) Notice under Section 158BD of the IT Act is valid or not?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A search was conducted against a firm, M/s Nitya Kali Rice Mill.",
+          "On September 9, 1999, the Assessing Officer (AO) issued a notice under Section 158BC to the firm.",
+          "On the very same day, the same AO issued a notice under Section 158BC to the Appellant (a person other than the searched firm).",
+          "Later, on November 20, 2000, the AO passed an assessment order for the firm, accepting its 'Nil' income return.",
+          "In that order, the AO recorded his satisfaction that undisclosed income belonged to the Appellant and directed that proceedings be initiated against him under Section 158BD.",
+          "Consequently, a second (fresh) notice was issued to the Appellant on November 20, 2000, under Section 158BD.",
+          "The Appellant challenged this second notice, arguing that the first notice was valid and therefore the AO had no authority to issue a second one."
+        ],
+        "law": [
+          "Section 158BD of the IT Act allows an Assessing Officer to proceed against a person who was not the subject of a search.",
+          "This is permissible only if, during the assessment of the searched person, the AO is 'satisfied' that undisclosed income found in the search belongs to this other person.",
+          "This 'satisfaction' must be based on a perusal, examination, and verification of the seized books of accounts, documents, or assets.",
+          "The jurisdiction to issue a notice under Section 158BD is founded upon this satisfaction."
+        ],
+        "application": [
+          "The Court reasoned that the first notice, issued to the Appellant on September 9, 1999, was invalid.",
+          "It was issued on the same day as the notice to the searched firm. The Court found it impossible for the AO to have formed the legally required 'satisfaction' on the same day, as this requires time to examine the seized materials.",
+          "The Court stated that \"no reasonable or prudent man can come to such satisfaction unless the seized books of accounts or documents or assets are perused, examined and verified.\"",
+          "Therefore, the first notice did not meet the requirements of Section 158BD and was invalid.",
+          "The AO correctly realized this error and proceeded to issue a fresh (second) notice on November 20, 2000.",
+          "This second notice was valid because it was issued only *after* the AO had examined the materials and formally recorded his satisfaction that undisclosed income belonged to the Appellant."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's challenge and held that the second (fresh) notice issued under Section 158BD was valid. The Court concluded that the first notice was invalid because it was issued prematurely, on the same day as the notice to the searched party, making it impossible for the Assessing Officer to have formed the legally required satisfaction based on an examination of the seized materials."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether in the facts and circumstances of the present case, the issue of Second (Fresh) Notice under Section 158BD of the IT Act is valid or not?",
+      "appellant_arguments": [
+        "The first notice issued under Section 158BC was the valid notice, and the Assessing Officer (AO) had no authority to issue a second notice under Section 158BD.",
+        "Section 158BD does not apply because the same Assessing Officer assessed both the Firm and the Appellant; the section is only applicable when the Assessing Officers are different.",
+        "The proceedings initiated under Section 158BD are invalid and without jurisdiction."
+      ],
+      "respondent_arguments": [
+        "The satisfaction of the Assessing Officer to issue the notice is apparent.",
+        "There is no infirmity in the issuance of the notice under Section 158BC read with Section 158BD to the Appellant.",
+        "The High Court was correct in rejecting the appellant's claim."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Income Tax Act",
+        "section": "158BC",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Income Tax Act",
+        "section": "158BD",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "For a notice issued under Section 158BC read with Section 158BD of the Income Tax Act to be valid, the satisfaction of the Assessing Officer must be apparent.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court's reasoning is not present in the provided text. The judgment concludes by stating that, based on a \"foregoing discussion\" which is not included in the excerpt, the High Court was correct in its judgment and order, and therefore no interference by the Supreme Court is warranted.",
+    "legal_tests_applied": [],
+    "why_appellant_lost": [
+      "The Court found no reason to interfere with the High Court's judgment and order dated 17.11.2005."
+    ],
+    "why_respondent_won": [
+      "The Court affirmed the correctness of the High Court's judgment and order."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

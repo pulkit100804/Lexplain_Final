@@ -1,0 +1,115 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of the Additional District Magistrate (Judicial) Varanasi",
+    "impugned_order": "Judgment and order dated February 19, 1964 of the Allahabad High Court in Criminal Misc. Applications Nos. 1853, 3043 and 3044 of 1963.",
+    "high_court_proceedings": "The Allahabad High Court heard Criminal Misc. Applications Nos. 1853, 3043 and 3044 of 1963 and issued a judgment and order on February 19, 1964.",
+    "supreme_court_posture": "Kamla Prasad Singh filed three private complaints in the Court of the Additional District Magistrate (Judicial) Varanasi for the prosecution of Harinath Singh and two Lekhpals. The High Court order was questioned in the Supreme Court by way of appeals by certificate. The Supreme Court dismissed Criminal Appeal No. 244 of 1964 and allowed Criminal Appeals Nos. 245-246 of 1964, remitting the concerned cases to the Court of first instance for trial."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Criminal Appeal No. 244 of 1964 shall be dismissed.",
+      "Criminal Appeals Nos. 245-246 of 1964 shall be allowed and the concerned cases will be remitted to the Court of first instance for trial according to law."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a private complaint is maintainable for the abetment of an act by a court official (Ahlmad) which constitutes an offense committed in or in relation to a proceeding in that court.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A private person filed a complaint against a respondent for abetting an offense committed by an Ahlmad (a court official).",
+          "The Ahlmad was accused of intentionally making a false entry in a court record regarding the institution date of a case that was actually pending in that court.",
+          "The alleged intention behind this false entry was for it to be used in the judicial proceeding to mislead the court and cause it to form a wrong opinion on a material point."
+        ],
+        "law": [
+          {
+            "law_name": "Section 192, Indian Penal Code (I.P.C.)",
+            "description": "Defines the offense of fabricating false evidence, which includes making a false entry in a record with the intent that it be used in a judicial proceeding to cause a judge to form an erroneous opinion on a material point."
+          },
+          {
+            "law_name": "Section 193, Indian Penal Code (I.P.C.)",
+            "description": "Provides the punishment for the offense of fabricating false evidence as defined in Section 192."
+          },
+          {
+            "law_name": "Section 195(1)(b), Code of Criminal Procedure (Cr.P.C.)",
+            "description": "States that no court can take cognizance of certain offenses (including those under Section 193 I.P.C.) when such an offense is alleged to have been committed in or in relation to any proceeding in any court, except on a written complaint by that court."
+          }
+        ],
+        "application": [
+          "The Supreme Court first analyzed the nature of the act committed by the Ahlmad. It found that the Ahlmad's act of making a false entry in a court record, with the specific intention of causing an erroneous opinion to be formed in a judicial proceeding, fell squarely within the definition of fabricating false evidence under Section 192 I.P.C.",
+          "The Court rejected the appellant's argument that the offense was under Section 218 I.P.C. (public servant framing incorrect record to save a person or property), noting that the primary intention here was to influence a judicial proceeding, which is the key ingredient of Section 192.",
+          "Since the offense was defined by Section 192 I.P.C., it is punishable under Section 193 I.P.C.",
+          "The Court then applied the procedural bar of Section 195(1)(b) Cr.P.C. Because the offense (punishable under Section 193 I.P.C.) was committed by a court official in relation to a proceeding in that court, this section prohibits any court from taking cognizance of it based on a private complaint.",
+          "The Court reasoned that if the principal offense committed by the Ahlmad could not be prosecuted via a private complaint, then the abetment of that same offense by the respondent was also barred. The legal restrictions apply equally to the abettor.",
+          "Therefore, the only legally valid way to initiate proceedings for this offense would have been through a written complaint from the court in which the offense was committed."
+        ],
+        "conclusion": "The Supreme Court concluded that the private complaint for the abetment of the Ahlmad's act was not maintainable. The offense constituted fabricating false evidence under Section 192 I.P.C., which is an offense covered by the bar in Section 195(1)(b) Cr.P.C. This provision requires a formal complaint from the court itself and prohibits prosecution based on a private complaint."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a private complaint is maintainable for the abetment of an act by a court official (Ahlmad) which constitutes an offense committed in or in relation to a proceeding in that court.",
+      "appellant_arguments": [
+        "The appellant's act of filing a private complaint and subsequently appealing the High Court's order implies the argument that such a complaint was maintainable for the abetment of the offense committed by the Ahlmad."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the offense allegedly committed by the Ahlmad was under s. 193 of the Indian Penal Code and was committed in or in relation to a court proceeding.",
+        "Consequently, the provisions of s. 195 of the Code of Criminal Procedure barred the private complaint, as such an offense could only be prosecuted upon a written complaint from the court itself."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "218",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "193",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "195",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A criminal proceeding cannot be initiated on a private complaint for an offense committed in or in relation to a proceeding in a court. Conversely, a private complaint is not barred for an offense where it is immaterial whether a fabricated record would be produced in a judicial proceeding to cause an erroneous opinion to be formed.",
+    "obiter": [
+      "An offense committed by a public servant who prepares a false record with the intention to save property from sale falls under s. 218 of the Indian Penal Code, not s. 192/193.",
+      "An offense may fall under s. 192/193 of the Indian Penal Code if the entry is made so as to cause an erroneous opinion to be formed touching on a point material to the result of a judicial proceeding."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The case against the respondent for abetment of the act of the Ahlmad could not be initiated through a private complaint because the Ahlmad's alleged offense was committed in or in relation to a proceeding in court. Such a prosecution can only begin upon a complaint in writing from the court concerned, as mandated by the procedural bar in Section 195 of the Code of Criminal Procedure.",
+    "legal_tests_applied": [
+      "Whether the alleged offense was committed 'in or in relation to any proceeding in any Court' so as to trigger the bar on private complaints under s. 195 of the Code of Criminal Procedure."
+    ],
+    "why_appellant_lost": [
+      "The court found that the alleged offense committed by the Ahlmad—making an incorrect entry about a case actually in Court with the intention that the date of the institution of the proceeding be falsified—was 'clearly in or in relation to a proceeding in Court.'",
+      "Because the Ahlmad's act was directly related to a judicial proceeding, the procedural bar under s. 195 Cr.P.C. applied, rendering the appellant's private complaint non-maintainable."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully argued that the offense allegedly committed by the Ahlmad fell under the category of offenses for which s. 195 Cr.P.C. bars private complaints.",
+      "The court accepted that the prosecution for abetment of the Ahlmad's act could not begin 'except on a complaint in writing of the Court concerned,' validating the respondent's position and leading to the dismissal of the appeal concerning this specific complaint."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p5_9b1770b4"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge",
+    "impugned_order": "Judgment and order dated January 29, 1966 of the Patna High Court in Criminal Appeal No. 231 of 1963.",
+    "high_court_proceedings": "The Patna High Court heard Criminal Appeal No. 231 of 1963. The High Court acquitted Harihar Gope but confirmed the conviction of the other appellants.",
+    "supreme_court_posture": "The seven appellants appealed to the Supreme Court by special leave, challenging the High Court's decision to uphold their conviction under s. 302 read with s. 149 I.P. Code, despite acquitting Harihar Gope. The appellants contended that because of the order of acquittal passed by the High Court in favour of Harihar Gope, conviction of the other appellants for the offence under s. 302 read with s. 149 I.P. Code cannot, in law, be sustained."
+  },
+  "decision": {
+    "appeal_result": "Appeal dismissed.",
+    "conviction_status": "Conviction upheld",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of members of an unlawful assembly under Section 302 read with Section 149 of the Indian Penal Code is sustainable when the specific member accused of committing the murder is acquitted.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A group, including the appellants and a man named H, formed an unlawful assembly with the common object of rescuing their cattle and assaulting anyone who resisted.",
+          "In the ensuing assault, several villagers were injured, and one person, B, died from her injuries.",
+          "The Trial Court convicted H for murder (Section 302) for causing the fatal injury and convicted the appellants for the same offence through vicarious liability (Section 302 read with Section 149).",
+          "On appeal, the High Court acquitted H, expressing doubt about his presence in the assembly.",
+          "However, the High Court upheld the conviction of the other appellants.",
+          "The appellants argued before the Supreme Court that since H, the person specifically accused of the murder, was acquitted, their conviction based on vicarious liability for his act could not be sustained."
+        ],
+        "law": [
+          "Section 149 of the Indian Penal Code establishes the principle of vicarious liability for members of an unlawful assembly.",
+          "Under this section, if an offence is committed by any member of an unlawful assembly in prosecution of its common object, every person who was a member of that assembly at the time is guilty of that offence."
+        ],
+        "application": [
+          "The Supreme Court rejected the appellants' argument, stating that the prosecution's case had several components: the existence of an unlawful assembly, its common object, the commission of an offence in pursuit of that object, and the identity of the specific assailant.",
+          "The Court reasoned that the High Court's acquittal of H only meant that the prosecution had failed to prove the identity of the specific person who caused the fatal injuries.",
+          "However, the High Court had confirmed that an unlawful assembly existed, that the appellants were members, and that B's death was caused by a member of that assembly in prosecution of its common object.",
+          "The failure to prove that a *named* individual committed the act does not absolve the other members of the assembly from their liability under Section 149.",
+          "As long as it is established that the fatal injuries were caused by *some member* of the unlawful assembly in furtherance of the common object, all proven members are vicariously liable for the offence."
+        ],
+        "conclusion": "The Supreme Court held that the conviction of the appellants under Section 302 read with Section 149 was legally sustainable. The acquittal of the specifically identified assailant does not invalidate the conviction of other members of the unlawful assembly, provided it is proven that the offence was committed by one of the members in prosecution of the common object."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of members of an unlawful assembly under Section 302 read with Section 149 of the Indian Penal Code is sustainable when the specific member accused of committing the murder is acquitted.",
+      "appellant_arguments": [
+        "The conviction of the appellants for murder under Section 302 read with Section 149 of the IPC is legally unsustainable due to the acquittal of Harihar Gope (H).",
+        "The prosecution's case was that H was the specific individual responsible for causing the death of the victim (B).",
+        "Since H was acquitted, the other members of the unlawful assembly cannot be held vicariously liable for the murder he was accused of committing in prosecution of the common object."
+      ],
+      "respondent_arguments": [
+        "The conviction is sustainable because there was clear evidence that the victim (B) was attacked and injured by the unlawful assembly, of which the appellants were members.",
+        "Even if the specific offender who caused the fatal injuries could not be ascertained (due to H's acquittal), it is established that the injuries were caused by some member of the unlawful assembly.",
+        "The acquittal of one accused member does not render the conviction of the other members illegal, as they are all vicariously liable for the acts done in prosecution of the common object of the assembly."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The acquittal of a specifically named member of an unlawful assembly, who was alleged to have committed the principal offense, does not invalidate the conviction of other proven members for vicarious liability under Section 149 of the Indian Penal Code. The liability of the other members persists if it is established that they were part of the unlawful assembly and the offense was committed by some member of that assembly in prosecution of its common object.",
+    "obiter": [
+      "When a concerted attack is made on the victim by a large number of persons it is often difficult to determine the actual part played by each offender.",
+      "If the Court refuses to accept the testimony of witnesses who speak to the presence of and part played by a named offender, the weight to be attached to the testimony of those witnesses insofar as they involve others may undoubtedly be affected."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Failure to prove the presence or specific act of a named offender among the members of an unlawful assembly does not affect the criminal liability of other individuals who are proven to be members of that assembly. If the common object of the assembly and the commission of an offence in prosecution of that object are established, the other members remain vicariously liable under Section 149 of the Indian Penal Code, even if the specific person accused of the act is acquitted.",
+    "legal_tests_applied": [
+      "To establish vicarious liability under Section 149 of the Indian Penal Code, the prosecution must prove: (1) that there was an unlawful assembly with a common object; (2) that the accused were members of that assembly; and (3) that the criminal act was done by a member of the assembly in prosecution of the common object, or was an act that the members knew to be likely to be committed in prosecution of that object."
+    ],
+    "why_appellant_lost": [
+      "The acquittal of Harihar Gope, the person specifically accused of causing the fatal injury, did not negate the established facts that an unlawful assembly existed, that the appellants were its members, and that the murder was committed by a member of that assembly in prosecution of its common object.",
+      "The prosecution's case consists of multiple parts; the failure to prove one part (that Harihar Gope was the specific assailant) does not result in the rejection of the entire case against the other proven members of the unlawful assembly.",
+      "The court's refusal to accept testimony regarding the part played by a named offender (Harihar Gope) may affect the weight of that testimony against others, but it does not automatically lead to the conclusion that other proven members escape liability for the offence committed by the assembly.",
+      "Proof of the common object of the unlawful assembly did not depend upon the presence of Harihar Gope."
+    ],
+    "why_respondent_won": [
+      "It was established by abundant evidence that the common object of the unlawful assembly, of which the appellants were members, was to beat up and kill those who resisted the rescue of their cattle.",
+      "There was clear evidence that the victim was attacked and fatally injured by the unlawful assembly, and on the findings of the High Court, it inevitably follows that the fatal injuries were caused by some member of that assembly.",
+      "The State successfully proved the core elements required for a conviction under Section 302 read with Section 149: the existence of the unlawful assembly, the appellants' membership in it, and the commission of murder in prosecution of its common object.",
+      "Even if the evidence is insufficient to establish that a specifically named person committed the act, that person can still be convicted if it is proven they were a member of the unlawful assembly and the act was done by some member in prosecution of the common object."
+    ],
+    "policy_considerations": [
+      "When a concerted attack is made on a victim by a large number of persons, it is often difficult to determine the actual part played by each offender. To allow proven members of an unlawful assembly to escape the consequences of an offence committed by the group simply because the specific actor cannot be identified would undermine the purpose of vicarious liability in cases of mob violence."
+    ]
+  },
+  "evidence_map": {}
+}

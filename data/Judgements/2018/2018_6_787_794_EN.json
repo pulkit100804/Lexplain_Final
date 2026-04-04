@@ -1,0 +1,96 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge",
+    "impugned_order": "Order of Additional Sessions Judge",
+    "high_court_proceedings": "The accused filed an appeal in the High Court at Nainital. The High Court dismissed the appeal and upheld the order of the Additional Sessions Judge.",
+    "supreme_court_posture": "The accused, feeling aggrieved by the High Court's judgment, approached the Supreme Court by way of special leave, leading to Criminal Appeal No. 273 of 2007."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside and acquitted",
+    "sentence_status": "Set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the search and recovery of contraband from a person must be conducted in the presence of a Magistrate or a Gazetted Officer to comply with the mandatory requirements of Section 50 of the Narcotic Drugs and Psychotropic Substances Act, 1985.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Police conducted a search of the appellant and recovered contraband ('Charas') from his body.",
+          "It was an admitted fact that the appellant was not produced before any Magistrate or Gazetted Officer.",
+          "Consequently, the search and recovery of the contraband were not conducted in the presence of a Magistrate or a Gazetted Officer.",
+          "None of the police officials who conducted the search were themselves Gazetted Officers.",
+          "The lower courts had convicted the appellant, reasoning that he had given his consent in writing to be searched by the police after being informed of his rights under Section 50."
+        ],
+        "law": [
+          "Section 50 of the NDPS Act provides mandatory safeguards for the search of a person.",
+          "The provisions of Section 50 must be strictly complied with.",
+          "It is mandatory for the police officer to apprise the person of their right to be searched before a Magistrate or a Gazetted Officer.",
+          "To be in conformity with Section 50, the search and recovery of contraband from the body of a suspect must be conducted in the actual presence of a Magistrate or a Gazetted Officer."
+        ],
+        "application": [
+          "The Court examined whether the prosecution had followed the mandatory procedure of Section 50.",
+          "It found that the evidence did not prove that the search and recovery were made in the presence of a Magistrate or a Gazetted Officer.",
+          "The Court explicitly disagreed with the lower courts' finding that the appellant's consent to be searched by the police was sufficient compliance.",
+          "Despite the appellant being informed of his rights and giving consent, the Court held that the physical search and recovery itself still had to be conducted in the presence of a Magistrate or Gazetted Officer to satisfy the statute's requirements.",
+          "Since this was not done, the Court concluded that the prosecution failed to prove that the search was conducted in accordance with the procedure prescribed under Section 50."
+        ],
+        "conclusion": "The Supreme Court held that the search and recovery of contraband from a person must be conducted in the physical presence of a Magistrate or a Gazetted Officer to comply with the mandatory requirements of Section 50 of the NDPS Act. The failure to adhere to this procedure is fatal to the prosecution's case, entitling the accused to an acquittal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the search and recovery of contraband from a person must be conducted in the presence of a Magistrate or a Gazetted Officer to comply with the mandatory requirements of Section 50 of the Narcotic Drugs and Psychotropic Substances Act, 1985.",
+      "appellant_arguments": [
+        "The search and recovery of the alleged contraband from the appellant should have been conducted only in the presence of either a Magistrate or a Gazetted Officer.",
+        "The lower courts erred in holding the appellant guilty and convicting him under the NDPS Act.",
+        "Due to the lack of compliance with the legal requirements for the search, the appellant is entitled to an acquittal."
+      ],
+      "respondent_arguments": [
+        "The respondent supported the reasoning and conclusion of the lower court's judgment and argued that it should be upheld."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "NDPS Act",
+        "section": "50",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Vijaysinh Chandubha Jadeja v. State of Gujarat",
+        "citation": "(2011) 1 SCC 609 : [2010] 13 SCR 255",
+        "principle": "This Constitution Bench decision settled the questions regarding compliance with Section 50 of the NDPS Act after taking into consideration all previous case law on the subject.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The failure of the prosecution to prove that a search and recovery was made from an accused in the presence of a Magistrate or a Gazetted Officer entitles the accused to an acquittal.",
+    "obiter": [
+      "The questions of law regarding search and seizure have been settled by the Constitution Bench decision in Vijaysinh Chandubha Jadeja v. State of Gujarat, which considered all previous case law on the subject."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The lower courts erred in concluding that the requirements of Section 50 of the NDPS Act were met simply because the appellant was apprised of his right to be searched in the presence of a Magistrate or Gazetted Officer and subsequently gave his consent in writing to be searched by the police. The Supreme Court found that the evidence adduced by the prosecution failed to prove that the search and recovery of contraband were actually conducted in the presence of either a Magistrate or a Gazetted Officer, which is a mandatory procedural safeguard.",
+    "legal_tests_applied": [
+      "The mandatory requirements for a personal search under Section 50 of the Narcotic Drugs and Psychotropic Substances Act, 1985, as settled by the Constitution Bench decision in Vijaysinh Chandubha Jadeja v. State of Gujarat, (2011) 1 SCC 609."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p2_f8e9c11d"
+    ]
+  }
+}

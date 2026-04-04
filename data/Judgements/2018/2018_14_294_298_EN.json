@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Order dated 12.01.2009 passed by the High Court of Madhya Pradesh, Bench at Jabalpur in Criminal Appeal No. 923 of 2005.",
+    "high_court_proceedings": "The respondent, aggrieved by the Trial Court's order of conviction and sentence passed on 05.04.2005 under Sections 376(1) and 306 of the Indian Penal Code, appealed to the High Court in Criminal Appeal No. 923 of 2005. The High Court allowed the appeal and set aside the conviction and sentence imposed by the Trial Court.",
+    "supreme_court_posture": "The Appellant-State of Madhya Pradesh, by special leave, preferred a criminal appeal to the Supreme Court against the High Court's order. The Supreme Court dismissed the appeal, finding no merits to interfere with the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Conviction set aside",
+    "sentence_status": "Sentence set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "The scope of interference by the Supreme Court with an order of acquittal passed by the High Court, particularly when the findings are not shown to be perverse, arbitrary, or based on a glaring infirmity in the evidence.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent was convicted by a trial court for rape and abetment of suicide, but was acquitted on appeal by the High Court.",
+          "The State appealed the acquittal to the Supreme Court.",
+          "The prosecution's case was based almost entirely on the testimony of the deceased's father (PW-3) and her 12-year-old sister (PW-4)."
+        ],
+        "law": [
+          "The Supreme Court will not ordinarily interfere with a High Court's order of acquittal.",
+          "To warrant interference, the State must make a strong case and demonstrate that the High Court's finding is perverse, arbitrary, palpably erroneous, or vitiated by a glaring infirmity in the assessment of evidence."
+        ],
+        "application": [
+          "The Court found the evidence presented by the prosecution to be unreliable and not strong enough to overturn an acquittal.",
+          "The testimony of the 12-year-old sister (PW-4) was discredited because she admitted in cross-examination that she had been threatened by the police into making her statement.",
+          "The testimony of the father (PW-3) was deemed not credible because his initial report on the day of the incident stated that he had scolded his daughter, causing her to take poison, with no mention of an alleged rape.",
+          "The Court noted the absence of any other material or medical evidence to support the prosecution's case.",
+          "Based on these weaknesses, the Court determined that the High Court's decision to acquit was not perverse, arbitrary, or based on a flawed assessment of the evidence."
+        ],
+        "conclusion": "The Supreme Court concluded that the State had failed to demonstrate any perversity or glaring infirmity in the High Court's judgment. Finding no grounds to interfere with the acquittal, the Court rejected the appeal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "The scope of interference by the Supreme Court with an order of acquittal passed by the High Court, particularly when the findings are not shown to be perverse, arbitrary, or based on a glaring infirmity in the evidence.",
+      "appellant_arguments": [
+        "The appellant (State of Madhya Pradesh) argued that the High Court's order of acquittal should be overturned, relying mainly on the evidence of Anju Kumari (PW-4), the sister of the deceased, and Dinesh Prasad Kushwaha (PW-3), the father of the deceased."
+      ],
+      "respondent_arguments": [
+        "The respondent's specific arguments are not detailed in the provided text. However, as the respondent was defending the High Court's acquittal, their position would have been that the High Court's decision was correct and there were no grounds for the Supreme Court to interfere."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "State of U.P. v. Punni & Ors.",
+        "citation": "(2008) 11 SCC 153",
+        "principle": "The Supreme Court, while dealing with an order of acquittal from the High Court, would not ordinarily interfere with the findings unless it is satisfied that such finding is vitiated by some glaring infirmity in the appraisement of evidence or such finding was perverse or arbitrary.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Punjab v. Ajaib Singh",
+        "citation": "(1995) 2 SCC 486",
+        "principle": "If the order of acquittal was not perverse or palpably erroneous, the Supreme Court would not interfere with such finding of the High Court acquitting the accused.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The Supreme Court will not ordinarily interfere with a High Court's order of acquittal unless the finding is vitiated by a glaring infirmity in the appraisement of evidence, or is perverse or arbitrary.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "In light of the established legal principle that the Supreme Court should not ordinarily interfere with a High Court's order of acquittal, the Court found no merit in the appeal because the appellant failed to demonstrate that the High Court's findings were perverse, arbitrary, or vitiated by any glaring infirmity in the appraisement of the evidence.",
+    "legal_tests_applied": [
+      "The Supreme Court, while dealing with an order of acquittal from the High Court, will not ordinarily interfere with the findings unless it is satisfied that such finding is vitiated by some glaring infirmity in the appraisement of evidence or such finding was perverse or arbitrary.",
+      "If the order of acquittal was not perverse or palpably erroneous, the Supreme Court would not interfere with such finding of the High Court acquitting the accused.",
+      "In a case of acquittal by the High Court, the State has to make out a strong case to interfere with the impugned order."
+    ],
+    "why_appellant_lost": [
+      "The appellant (State) failed to make out a strong case to interfere with the order of acquittal, as required by precedent.",
+      "The appellant did not demonstrate that there was any perversity or non-consideration of material facts in the High Court's decision.",
+      "The prosecution's case was weak, as there was no material or medical evidence to support or substantiate the case beyond the testimony of PW-3 and PW-4."
+    ],
+    "why_respondent_won": [
+      "The respondent succeeded because the Supreme Court adhered to its established principle of limited interference with High Court acquittals.",
+      "The High Court's order of acquittal was not shown to be perverse, palpably erroneous, or based on a glaring infirmity in the evidence, which is the required standard for the Supreme Court to intervene."
+    ],
+    "policy_considerations": [
+      "There is a strong judicial policy of finality and deference towards an order of acquittal passed by a High Court, which should not be disturbed unless it meets a very high threshold of being perverse, arbitrary, or based on a glaring evidentiary infirmity."
+    ]
+  },
+  "evidence_map": {}
+}

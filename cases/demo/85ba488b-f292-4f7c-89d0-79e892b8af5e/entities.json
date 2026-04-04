@@ -1,0 +1,76 @@
+{
+  "case_id": "85ba488b-f292-4f7c-89d0-79e892b8af5e",
+  "tenant_id": "demo",
+  "agent": "agent_4a_entity_extractor",
+  "input_refs": [
+    "role_tagged_graph.json"
+  ],
+  "created_at": "2026-03-19T11:24:58.209175+00:00",
+  "entities": [
+    {
+      "entity_id": "ent_001",
+      "type": "actor",
+      "value": "victim",
+      "source_node_ids": [
+        "n_001",
+        "n_002"
+      ]
+    },
+    {
+      "entity_id": "ent_002",
+      "type": "actor",
+      "value": "accused",
+      "source_node_ids": [
+        "n_001"
+      ]
+    },
+    {
+      "entity_id": "ent_003",
+      "type": "object",
+      "value": "a knife",
+      "source_node_ids": [
+        "n_001"
+      ]
+    },
+    {
+      "entity_id": "ent_004",
+      "type": "time",
+      "value": "On the night",
+      "source_node_ids": [
+        "n_001"
+      ]
+    },
+    {
+      "entity_id": "ent_005",
+      "type": "time",
+      "value": "12th June",
+      "source_node_ids": [
+        "n_001"
+      ]
+    },
+    {
+      "entity_id": "ent_006",
+      "type": "time",
+      "value": "night of",
+      "source_node_ids": [
+        "n_001"
+      ]
+    },
+    {
+      "entity_id": "ent_007",
+      "type": "object",
+      "value": "blood-stained knife",
+      "source_node_ids": [
+        "n_003"
+      ]
+    },
+    {
+      "entity_id": "ent_008",
+      "type": "object",
+      "value": "a blood",
+      "source_node_ids": [
+        "n_003"
+      ]
+    }
+  ]
+}

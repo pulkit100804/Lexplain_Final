@@ -1,0 +1,106 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (learned trial Court)",
+    "impugned_order": "Order dated 25th October, 2023 passed by the High Court of Gujarat rejecting the Criminal Misc. Application No. 17933 of 2023",
+    "high_court_proceedings": "The appellant filed Criminal Misc. Application No. 17933 of 2023 in the High Court of Gujarat under Section 482 read with Section 391 of the Code of Criminal Procedure, 1973, challenging the order dated 25th July, 2023, of the Principal Sessions Judge, Gandhinagar, which had rejected the appellant's application under Section 391 CrPC for taking additional evidence at the appellate stage. The High Court dismissed this application on 25th October, 2023.",
+    "supreme_court_posture": "The appellant, being the accused, filed a special leave petition to appeal the High Court's order to the Supreme Court. The Supreme Court is hearing Criminal Appeal No. 478 of 2024 to determine whether the High Court was justified in dismissing the application filed by the appellant u/s.391, CrPC for taking additional evidence at appellate stage and seeking a direction to obtain the opinion of the handwriting expert."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in dismissing an application filed under Section 391, CrPC for taking additional evidence at the appellate stage, specifically to obtain the opinion of a handwriting expert on the signature on a cheque, especially when a similar application had already been rejected by the trial court and that order was not challenged.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted for an offence under Section 138 of the Negotiable Instruments Act.",
+          "During the trial, the appellant claimed his signature on the cheque was forged and filed an application to have it examined by a handwriting expert.",
+          "The trial court rejected this application, noting it was a delaying tactic and that the appellant could lead other evidence to prove his claim.",
+          "Crucially, the appellant did not challenge the trial court's order rejecting his application, and it thus attained finality.",
+          "On appeal, the appellant filed a new application under Section 391, CrPC, again asking for the opinion of a handwriting expert.",
+          "The appellant had an opportunity during the trial to prove the signature mismatch, as he had examined a bank official in his defense but failed to ask any questions about the signature's genuineness."
+        ],
+        "law": [
+          "The power to record additional evidence at the appellate stage under Section 391, CrPC is discretionary and should be exercised sparingly.",
+          "This power is typically used only when a party was prevented from presenting evidence at trial despite exercising due diligence, or when new facts emerge during the appeal.",
+          "Allowing additional evidence must be necessary to prevent a failure of justice.",
+          "A court order that is not challenged attains finality and cannot be re-agitated at a later stage in the proceedings."
+        ],
+        "application": [
+          "The Supreme Court found that the appellant had not exercised due diligence during the trial. He had the opportunity to question the bank official about the signature but failed to do so.",
+          "The Court emphasized that the appellant's original application for a handwriting expert was rejected by the trial court. By not challenging that order, the appellant allowed it to become final.",
+          "Allowing a similar application at the appellate stage would undermine the finality of the trial court's unchallenged order.",
+          "The Court reasoned that the appellate court is not required to assist an appellant in collecting defense evidence that they failed to present at trial despite having the opportunity.",
+          "Since the conditions for invoking Section 391, CrPC (lack of opportunity despite due diligence or emergence of new facts) were not met, refusing the application would not lead to a failure of justice."
+        ],
+        "conclusion": "The Supreme Court held that the High Court was justified in dismissing the application for additional evidence. The appellant had failed to exercise due diligence during the trial and, more importantly, had allowed the trial court's order rejecting the very same request to become final by not challenging it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in dismissing an application filed under Section 391, CrPC for taking additional evidence at the appellate stage, specifically to obtain the opinion of a handwriting expert on the signature on a cheque, especially when a similar application had already been rejected by the trial court and that order was not challenged.",
+      "appellant_arguments": [
+        "The appellant argued for the admission of additional evidence at the appellate stage, specifically a handwriting expert's opinion, to compare their admitted signature with the one on the disputed cheque.",
+        "The appellant also sought to summon a post office official to prove that the statutory notice under Section 138 of the NI Act was never received."
+      ],
+      "respondent_arguments": [
+        "The appellant failed to exercise due diligence during the trial, as they had the opportunity to question a bank official about the authenticity of the signature on the cheque but did not do so.",
+        "A similar application for a handwriting expert's opinion was already rejected by the trial court, and that order was never challenged, thus attaining finality.",
+        "The appellate court cannot be expected to assist the accused in collecting defense evidence to fill gaps left during the trial, especially when presumptions under the NI Act operate in favor of the complainant.",
+        "The conditions for invoking Section 391 CrPC are not met, as the appellant was not prevented from presenting this evidence during the trial, nor did new facts come to light during the appeal."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "118",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "118(e)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Negotiable Instruments Act, 1881",
+        "section": "138",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Under Section 118(e) of the Negotiable Instruments Act, there is a presumption that indorsements on a negotiable instrument are genuine and were made in the order in which they appear. This presumption operates in favor of the holder in due course, and the burden to rebut it by leading evidence lies upon the accused.",
+    "obiter": [
+      "Where a negotiable instrument has been obtained from its lawful owner or custodian by means of an offence or fraud, or from the maker or acceptor by means of an offence or fraud or for unlawful consideration, the burden of proving that the holder is a holder in due course lies upon him."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appellate court is not required to come to the aid and assistance of an appellant to collect defense evidence at the appellate stage under Section 391 CrPC, particularly when the appellant had an opportunity to present such evidence during the trial but failed to do so. The presumptions under the Negotiable Instruments Act operate in favor of the complainant, and the onus is on the accused to rebut them by leading appropriate evidence at trial, not to fill evidentiary gaps on appeal.",
+    "legal_tests_applied": [
+      "The power to record additional evidence under Section 391 CrPC should only be exercised when the party making such request was prevented from presenting the evidence in the trial despite due diligence being exercised or that the facts giving rise to such prayer came to light at a later stage during pendency of the appeal and that non-recording of such evidence may lead to failure of justice."
+    ],
+    "why_appellant_lost": [
+      "Despite having the opportunity, the appellant failed to exercise due diligence during the trial by not putting any question to the bank official, who was examined in defense, to establish the plea of a mismatched signature on the cheque.",
+      "The appellant failed to meet the established legal conditions for invoking Section 391 CrPC, as they were not prevented from presenting the evidence during the trial, and no new facts came to light during the appeal."
+    ],
+    "why_respondent_won": [
+      "The presumptions under the NI Act, although rebuttable, operate in favor of the complainant, placing the burden on the accused to lead appropriate defense evidence to rebut them.",
+      "The appellate court is not obligated to assist the accused in collecting defense evidence at their behest, as this would amount to filling gaps left during the trial."
+    ],
+    "policy_considerations": [
+      "The Court cannot be expected to assist the accused to collect evidence on his behalf, reinforcing the adversarial nature of the trial and the specific burden of proof established under the NI Act."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,139 @@
+{
+  "procedural_history": {
+    "originating_court": "Liquidation Judge (court of first instance, likely within the Pepsu state system)",
+    "impugned_order": "Order of the Division Bench of the Pepsu High Court pronounced on March 10, 1953, modifying the order of the Liquidation Judge.",
+    "high_court_proceedings": "The Liquidation Judge made an order. That order was appealed to the Division Bench of the Pepsu High Court. The High Court *modified* the order of the Liquidation Judge.",
+    "supreme_court_posture": "The appellant company, feeling aggrieved by the High Court's modification, appealed to the Supreme Court. The Supreme Court granted a certificate under Article 133(1)(c) of the Constitution, allowing the appeal to proceed before it."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The appeals are dismissed with costs.",
+      "As the appeals were heard together there will be one hearing fee to be shared by the respondents in the two appeals."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an agent, who has paid income tax on profits earned on behalf of a non-resident principal as required by the Income-tax Act, is entitled to recover that amount from the principal, irrespective of whether the principal's total world income is taxable.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          {
+            "fact": "An agent (the Hapur firm) in British India earned profits on behalf of a non-resident principal (the respondent)."
+          },
+          {
+            "fact": "As required by the Income-tax Act, the agent paid income tax on these specific profits."
+          },
+          {
+            "fact": "The agent sought to recover the amount of tax paid from the principal by deducting it from the profits."
+          },
+          {
+            "fact": "The principal argued that they should not have to bear this cost because their total world income was not high enough to be taxable, and therefore no tax was ultimately due."
+          }
+        ],
+        "law": [
+          {
+            "law_name": "Indian Income-tax Act, (XI of 1922), ss. 40(2) and 42(1)",
+            "description": "These sections of the Act make an agent of a non-resident principal liable for income tax on profits earned in British India on the principal's behalf. The agent is treated as the 'assessee' for these profits and the tax can be levied directly upon them."
+          },
+          {
+            "law_name": "Proviso to s. 42(1) of the Income-tax Act",
+            "description": "This provision explicitly allows an agent who is liable for tax on behalf of a non-resident to retain a sum equal to the estimated tax liability from any money payable to that non-resident."
+          },
+          {
+            "law_name": "Principle of Taxing Statutes",
+            "description": "The Court cited the principle that the object of the Income Tax Acts is to tax profits 'where they are found'. In this case, the profits were found in the hands of the agent in India."
+          },
+          {
+            "law_name": "Section 48 of the Income-tax Act",
+            "description": "This section provides a mechanism for refunds. If a non-resident believes they have overpaid tax (for instance, because their total world income is not taxable), they can apply to the tax authorities for a refund."
+          }
+        ],
+        "application": [
+          {
+            "reasoning": "The Court determined that under Sections 40(2) and 42(1), the Hapur firm (the agent) was legally obligated to pay the income tax on the profits it earned for the non-resident principal. The law treated the agent as the assessee for this specific income."
+          },
+          {
+            "reasoning": "Because the agent was legally required to pay the tax, it was also legally entitled, under the proviso to Section 42(1), to retain that amount from the profits owed to the principal. The payment was a lawful and proper action."
+          },
+          {
+            "reasoning": "The Court found the principal's argument about their total world income to be irrelevant to the dispute between the agent and the principal. The agent's duty is to comply with the tax law concerning the specific profits earned in India, not to determine the principal's global tax liability."
+          },
+          {
+            "reasoning": "The question of whether the principal's total world income was taxable was a separate matter to be resolved between the principal and the tax authorities. If the principal believed no tax was ultimately due, their proper remedy was to seek a refund from the Income Tax Officer under Section 48, not to challenge the agent's lawful payment."
+          }
+        ],
+        "conclusion": "The Supreme Court concluded that the agent was entitled to recover the income tax it had paid from the principal. The agent's legal obligation to pay the tax on the profits generated in India was independent of the principal's ultimate tax liability based on their total world income. Therefore, as between the agent and the principal, the tax paid by the agent had to be taken into account."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an agent, who has paid income tax on profits earned on behalf of a non-resident principal as required by the Income-tax Act, is entitled to recover that amount from the principal, irrespective of whether the principal's total world income is taxable.",
+      "appellant_arguments": [
+        "The agent (the Hapur firm) was legally required under the Income-tax Act (ss. 40(2) and 42(1)) to pay income tax on the profits earned from transactions conducted on behalf of the non-resident principal (the respondent).",
+        "The tax paid by the agent should be treated as a legitimate expense incurred on behalf of the principal, which the agent is entitled to recover.",
+        "The agent's right to recover the tax paid is a matter between the agent and the principal and is not dependent on the principal's final tax liability, which would be determined by their total world income."
+      ],
+      "respondent_arguments": [
+        "The principal (respondent) had no taxable income in the year in dispute and was therefore not ultimately liable to pay any income tax.",
+        "Consequently, the agent is not entitled to recover the tax paid on the principal's behalf.",
+        "The agent's right to recover the tax is conditional upon proving that the principal's total world income was actually taxable."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Art. 133(1)(c)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (Income Tax Act)",
+        "section": "17",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (Income Tax Act)",
+        "section": "18",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Williams v. Singer",
+        "citation": "(')",
+        "principle": "Cited for an observation regarding the statutory provisions for determining and securing the tax liability of a non-resident through an agent.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Under the Income Tax Act, an agent acting for a non-resident principal is considered the assessee for profits earned within the jurisdiction and is liable for the tax on that income. Consequently, the agent is entitled to retain from the profits an amount equal to the estimated tax liability, irrespective of the non-resident principal's total world income or ultimate tax status.",
+    "obiter": [
+      "The person charged with tax is the person in actual receipt and control of the income, as the objective of the tax acts is to tax profits where they are found.",
+      "A non-resident who believes they are not liable for the tax paid by their agent may apply to the Income Tax Officer for a refund.",
+      "The question of whether a decision by a single Judge of the Judicial Committee constitutes a decision of the full Committee was not decided."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "An agent who is statutorily required under the Income-tax Act (ss. 40(2) and 42(1)) to pay tax on profits earned for a non-resident principal is entitled to recover that amount from the principal. The agent's right to this recovery is a matter between the agent and principal and is not contingent on the principal's ultimate tax liability based on their total world income. The principal's contention that their total world income was not taxable is a matter to be resolved with the tax authorities, for instance through a refund claim under s. 48, and cannot be used as a defense to refuse reimbursement to the agent who lawfully paid the tax as required.",
+    "legal_tests_applied": [
+      "Under ss. 40(2) and 42(1) of the Income-tax Act, an agent can be held liable as an assessee for income-tax on the profits made on a non-resident principal's transactions.",
+      "The proviso to s. 42(1) of the Income-tax Act entitles the agent to retain the estimated amount of income-tax payable on the amount of the principal's profits.",
+      "The underlying principle of taxing statutes is that profits are \"taxed where they are found,\" meaning the person in actual receipt and control of the income is the person charged with the tax."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The object of the Income-tax Acts is to secure for the State a proportion of the profits chargeable, and this end is attained by the simple and effective expedient of taxing the profits where they are found."
+    ]
+  },
+  "evidence_map": {}
+}

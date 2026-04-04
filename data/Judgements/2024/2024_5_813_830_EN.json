@@ -1,0 +1,109 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly mentioned, but implied to be a lower criminal court where the FIR and charge sheet were filed.",
+    "impugned_order": "Judgment dated 23rd April, 2018 passed by learned Single Judge of the Madras High Court, Madurai Bench dismissing CRL.O.P.(MD) No. 3846 of 2013.",
+    "high_court_proceedings": "A-1, A-2, A-3, A-4, A-5, A-6, A-7, and A-8 (the appellants in the Supreme Court) approached the Madras High Court, Madurai Bench, by filing CRL.O.P.(MD) No. 3846 of 2013 to challenge the FIR and charge sheet. The Single Judge dismissed their petition on April 23, 2018.",
+    "supreme_court_posture": "The appellants (A-1 through A-8) filed a special leave petition to appeal the Madras High Court's judgment to the Supreme Court. The Supreme Court heard the arguments and allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Quashed",
+    "sentence_status": "",
+    "directions": [
+      "The impugned order dismissing the petition for quashing of the Criminal Case No. 250 of 2012 and FIR No. 305 of 2011 is quashed and set aside.",
+      "All proceedings sought to be taken against the appellants in pursuance of the charge sheet dated 10th August, 2011 are quashed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether criminal prosecution of the accused can be allowed for a civil wrong in relation to benami transactions for the same cause of action.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A complainant invested in land deals with the accused, but the properties were registered in the names of the accused, making them 'benami transactions'.",
+          "A dispute arose over profits and the delivery of plots, leading the complainant to file both a civil suit and a criminal FIR against the accused for fraud and criminal breach of trust based on the same events.",
+          "The accused sought to quash the criminal proceedings, arguing they were not permissible."
+        ],
+        "law": [
+          "The key legal provision is Section 4 of the Benami Transactions (Prohibition) Act, 1988.",
+          "Section 4(1) and 4(2) of this Act explicitly bar the 'real owner' of a property held benami from filing any suit, claim, or action to enforce their rights against the person in whose name the property is held (the benamidar)."
+        ],
+        "application": [
+          "The Court first established that the land deals were clearly benami transactions.",
+          "It then applied the absolute bar under Section 4 of the Benami Act, stating that the complainant was legally prohibited from instituting any civil proceedings to recover the property or enforce his rights against the accused.",
+          "The Court reasoned that if the law makes a particular set of facts a non-actionable civil wrong (by barring any lawsuit), then \"as a corollary,\" it would be impermissible to allow a criminal prosecution based on the \"self-same cause of action.\"",
+          "Allowing a criminal case to proceed on facts that cannot even sustain a civil claim would amount to an abuse of the process of law.",
+          "The Court also noted that the dispute was purely civil in nature (regarding quantification of profits) and had been improperly given the \"colour of criminal prosecution.\""
+        ],
+        "conclusion": "The Supreme Court concluded that since the complainant was legally barred by Section 4 of the Benami Act from suing the accused in a civil court for the benami transactions, the criminal prosecution based on the very same facts was also impermissible in law. Therefore, the Court quashed the criminal proceedings, finding them to be an abuse of the legal process."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether criminal prosecution of the accused can be allowed for a civil wrong in relation to benami transactions for the same cause of action.",
+      "appellant_arguments": [
+        "The dispute is fundamentally a civil matter concerning the disproportionate sharing of profits, and the criminal law is being misused to launch a frivolous prosecution.",
+        "There is no evidence to show that the accused had a fraudulent intention from the very beginning of the transactions.",
+        "The essential ingredients for the alleged criminal offences, such as criminal breach of trust, are not made out from the complainant's allegations.",
+        "The complainant, a government teacher, was not legally entitled to indulge in property transactions and made the investments at his own risk."
+      ],
+      "respondent_arguments": [
+        "The accused fraudulently induced the complainant to make huge investments by winning his trust with false promises.",
+        "The allegations constitute both a civil wrong and criminal offences, and therefore, parallel proceedings can continue.",
+        "The fact that the complainant has also sought a civil remedy does not prevent him from invoking the criminal court's jurisdiction to prosecute the accused for their fraudulent acts.",
+        "The accused resiled from their promises and defrauded the complainant by failing to give him his due share of plots and profits commensurate with his investment."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "",
+        "section": "2",
+        "used_by_court": true
+      },
+      {
+        "act_name": "",
+        "section": "Unspecified section containing subsection (3)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "",
+        "section": "Unspecified penal section providing for imprisonment up to three months or a fine",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Vijay Kumar Ghai v. State of W.B.",
+        "citation": "[2022] 1 SCR 884 : (2022) 7 SCC 124",
+        "principle": "For its observations tracing earlier decisions on the subject.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An exception to property transactions exists where the person in whose name the property is held is a trustee or stands in a fiduciary capacity, and the property is held for the benefit of another person for whom they act as a trustee or in such capacity.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "Allowing a criminal prosecution for a dispute concerning benami transactions is impermissible when a civil suit for the same cause of action would be barred by law. If the allegations do not constitute an actionable civil wrong, prosecuting the accused for the very same set of facts amounts to an abuse of the process of law.",
+    "legal_tests_applied": [
+      "The court examined whether the necessary ingredients of the offences punishable under Sections 406, 420, 294(b) and 506(ii) of the IPC were made out from the allegations in the complaint and charge sheet.",
+      "The court assessed whether there was any allegation to show that the intention of the accused was to defraud the complainant right from the inception of the transactions, a key requirement for the offence of cheating.",
+      "The court applied the principle that if a civil suit is barred by a statute (in this case, Section 4 of the relevant benami law), a criminal prosecution based on the same facts is impermissible."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court cautioned against the practice of converting purely civil disputes into criminal cases.",
+      "Giving a 'colour of criminal prosecution' to a dispute that is purely civil in nature by alleging fraud and breach of trust is a misuse of the tool of criminal law.",
+      "Instituting a criminal prosecution based on a frivolous FIR constitutes a sheer abuse of the process of law."
+    ]
+  },
+  "evidence_map": {}
+}

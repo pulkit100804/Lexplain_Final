@@ -1,0 +1,91 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Chief Metropolitan Magistrate, Patiala House Courts, New Delhi",
+    "impugned_order": "Judgment and Order dated 13.06.2016 of the High Court of Delhi at New Delhi in Criminal M. C. No. 2729 of 2014, which dismissed the appellant's petition challenging the Magistrate's order dated November 06, 2013.",
+    "high_court_proceedings": "1. The appellant initially moved an application seeking release of seized property in January 2008.\n2. The Court of Chief Metropolitan Magistrate rejected this application on March 03, 2008.\n3. The appellant challenged this order in the High Court of Delhi in Criminal Misc. Case No. 1518 of 2008.\n4. The High Court set aside the trial court's order on May 18, 2009, and restored the application for release, directing the Magistrate to deal with it afresh.\n5. The Magistrate rejected the application again on November 06, 2013.\n6. The appellant challenged this second rejection by filing Criminal Misc. Case No. 2729 of 2014 under Section 482 of the Code in the High Court.\n7. The High Court dismissed this petition on June 13, 2016.",
+    "supreme_court_posture": "The appellant approached the Supreme Court to challenge the High Court's judgment dated June 13, 2016, which dismissed his petition seeking copies of the hard disks (Q-2, 9, and 20) seized from his office."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the application seeking release of the seized property, specifically electronic hardware equipment, should be allowed.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Central Bureau of Investigation (CBI) seized several hard disks (marked Q-2, 9, and 20) from the appellant's premises.",
+          "These disks allegedly contained the source code for a data recovery software that the prosecution claimed was stolen from the complainant.",
+          "The appellant's defense was that he had exclusively created the source code himself and it was his property.",
+          "The appellant requested copies of the seized disks to prepare his defense, but the lower courts denied this request, primarily due to the prosecution's fear that the appellant would misuse the source code."
+        ],
+        "law": [
+          "The Court's decision was based on Section 207 of the Code of Criminal Procedure, 1973.",
+          "This law provides a statutory right for an accused person to be supplied with copies of all documents that the prosecution relies upon.",
+          "The Court described this right as a \"hallmark of a fair trial,\" essential for enabling the accused to prepare a defense and cross-examination strategy."
+        ],
+        "application": [
+          "The Court reasoned that it was \"but obvious\" that the appellant needed copies of the seized disks to prove his defense that the source code was his own creation and different from the complainant's.",
+          "To balance the appellant's right to a fair trial with the prosecution's concern about potential misuse, the Court decided to allow the release but with strict conditions.",
+          "The Court also noted a precedent where the CBI had accepted a similar order to supply a hard disk in another case, where the accused gave an undertaking not to misuse it."
+        ],
+        "conclusion": "The Supreme Court accepted the appeal and ordered that copies of the seized hard disks be supplied to the appellant. The Court's decision was based on the fair trial principles enshrined in Section 207 of the Code of Criminal Procedure. However, to prevent misuse, the release was made subject to several conditions: the contents of the disks had to be recorded and verified in court by both parties, and the appellant was required to submit a sworn affidavit promising not to use or misuse the source code."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the application seeking release of the seized property, specifically electronic hardware equipment, should be allowed.",
+      "appellant_arguments": [
+        "The seizure of all the electronic hardware equipment has affected the petitioner's entire business.",
+        "The incriminating evidence, if any, is likely only on some of the seized items, not all of them.",
+        "There has been a significant delay in the case, as the chargesheet was filed in June 2008, but the court had not yet taken cognizance of the offence."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain any arguments from the respondent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "207",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "173(5)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A binding legal rule cannot be extracted from the provided text, as it primarily contains case-specific directions, facts, and a general statement of principle.",
+    "obiter": [
+      "A fair trial by giving due opportunity to the accused to defend himself shall be fulfilled and the apprehension of the prosecution would also be taken care of."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court determined that the appellant must be supplied with copies of the seized hard disks to ensure a fair trial and provide an adequate opportunity for defense, as mandated by Section 207 of the Code. To balance this right with the prosecution's concerns about evidence tampering, the court imposed specific conditions: the contents of the disks must be officially recorded and attested to by both parties in court, and the appellant must provide an undertaking not to misuse the source code contained therein.",
+    "legal_tests_applied": [
+      "Section 207 of the Code of Criminal Procedure, which governs the supply of copies of police reports and other documents to the accused.",
+      "A balancing test weighing the accused's right to a fair trial and the opportunity to defend himself against the prosecution's apprehension of evidence tampering."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court's decision is rooted in the fundamental principle of ensuring a fair trial by providing the accused with a due opportunity to defend himself.",
+      "The court structured its order to address and mitigate the prosecution's apprehension of evidence tampering, thereby creating a procedural safeguard that serves both the interests of the accused and the integrity of the trial process.",
+      "The court addressed the significant delay in the proceedings by directing the lower court to promptly consider whether to take cognizance of the offence, highlighting the importance of timely justice."
+    ]
+  },
+  "evidence_map": {}
+}

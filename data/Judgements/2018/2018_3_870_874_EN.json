@@ -1,0 +1,84 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a Tribunal (likely a lower court or quasi-judicial body handling claims assessment).",
+    "impugned_order": "Judgment and Order dated 09.02.2015 of the High Court of Gujarat at Ahmedabad in First Appeal No. 3876 of 2007.",
+    "high_court_proceedings": "Both sides, aggrieved by the assessment of a claim by the Tribunal, filed appeals before the High Court. The High Court modified the award of the Tribunal in its judgment dated 9.2.2015.",
+    "supreme_court_posture": "The present appeal (Civil Appeal No. 5206 of 2016) is filed against the High Court's judgment dated 9.2.2015. It is implied that the Appellants are not satisfied with the High Court's modification of the Tribunal's award."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was correct in modifying the award of the Tribunal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A 25-year-old widow, who was a qualified engineer earning Rs. 6,273 per month, died in a motor accident.",
+          "The Motor Accident Claims Tribunal awarded compensation to her parents, calculating it by adding 100% for future income prospects, deducting 1/3rd for personal expenses, and applying a multiplier of 16.",
+          "Both parties appealed to the High Court, which modified the award.",
+          "The High Court reduced the future income prospects to 50%, increased the personal expense deduction to 50%, and increased the multiplier to 18, resulting in a lower total compensation amount.",
+          "The claimants (the deceased's parents) then appealed the High Court's decision to the Supreme Court."
+        ],
+        "law": [
+          "The standard addition for future prospects for a person with a permanent job under 40 is 50%, as established in *National Insurance Company Limited v. Pranay Sethi*.",
+          "However, this standardized percentage can be varied if specific evidence is presented to the court's satisfaction that future prospects were higher.",
+          "For a deceased person who was unmarried or widowed, the deduction for personal and living expenses should be 50%, as affirmed in *Sarla Verma*.",
+          "Compensation under 'conventional heads' (loss of estate, loss of consortium/love and affection, funeral expenses) has been standardized to a total of Rs. 70,000."
+        ],
+        "application": [
+          "The Supreme Court examined the issue of future income prospects. It noted that the claimants had presented evidence (two certificates) showing the deceased's salary could have reached Rs. 14,000-17,000 per month. Since this evidence was not rebutted by the insurance company, the Supreme Court held that the Tribunal was justified in deviating from the standard 50% and awarding a 100% increase. Therefore, the High Court was incorrect to reduce it.",
+          "The Supreme Court agreed with the High Court on the personal expense deduction. Since the deceased was a widow survived by her parents, the correct deduction was 50%, not the 1/3rd applied by the Tribunal.",
+          "The Supreme Court also agreed with the High Court that the correct multiplier for a 25-year-old was 18, not 16.",
+          "Finally, the Supreme Court applied the standardized amount of Rs. 70,000 for conventional heads, which was different from the amounts awarded by both the Tribunal and the High Court."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's modification of the award. While the High Court was correct to increase the personal expense deduction to 50% and use a multiplier of 18, it was incorrect to reduce the future income prospects from 100% to 50%. The Supreme Court found that the Tribunal's 100% increase was justified based on specific, unrebutted evidence. By combining the correct elements—the Tribunal's 100% future prospects, the High Court's 50% deduction and multiplier of 18, and the standardized conventional heads amount—the Supreme Court recalculated the compensation and awarded a higher amount than the High Court."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was correct in modifying the award of the Tribunal.",
+      "appellant_arguments": [
+        "The text states that the claimants alone were the appellants before the Supreme Court, indicating they were aggrieved by the High Court's modification of the award. Their argument, therefore, was that the High Court's modification was incorrect and the compensation awarded was insufficient."
+      ],
+      "respondent_arguments": [
+        "The text does not explicitly state the respondents' arguments. However, as the defending party against the claimants' appeal, their position would have been to support the High Court's judgment, arguing that its modification of the award was correct and the compensation granted was just and adequate."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Sarla Verma & Ors. v. Delhi Transport Corporation & Anr.",
+        "citation": "(2009) 6 SCC 121",
+        "principle": "For determining the percentage of future income rise in a motor accident claim; it was cited as the basis for taking the future income rise as 50 per cent.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The provided text does not contain the binding legal rule or reasoning of the Supreme Court. It only describes the High Court's prior decision and lists cases that were referred to.",
+    "obiter": [
+      "The High Court computed the award amount at Rs.10,72,360, with Rs.50,000 for loss of estate and loss of love and affection, and Rs.5,000 for funeral expenses."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The provided text does not contain the Supreme Court's reasoning for its decision. It outlines the factual background, the procedural history, and the High Court's modification of the award, but does not explain why the Supreme Court found this modification to be incorrect and allowed the appeal.",
+    "legal_tests_applied": [
+      "Sarla Verma & Ors. v. Delhi Transport Corporation & Anr. (2009) 6 SCC 121",
+      "National Insurance Company Limited v. Pranay Sethi & Ors. AIR 2017 SC 5157"
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

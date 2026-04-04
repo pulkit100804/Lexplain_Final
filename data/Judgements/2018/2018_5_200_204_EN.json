@@ -1,0 +1,100 @@
+{
+  "procedural_history": {
+    "originating_court": "National Company Law Tribunal (NCLT)",
+    "impugned_order": "Judgment and Order dated 29.08.2017 of National Company Law Appellate Tribunal at New Delhi in Company Appeal (AT) Nos.176 and 177 of 2017.",
+    "high_court_proceedings": "The National Company Law Appellate Tribunal (NCLAT) at New Delhi issued a Judgment and Order dated 29.08.2017 in Company Appeal (AT) Nos.176 and 177 of 2017, relegating the appellant to further proceedings.",
+    "supreme_court_posture": "The Supreme Court allowed the appeals, set aside the Appellate Tribunal’s order, and reinstated the order of the Tribunal (NCLT) dated 20.03.2017. The Supreme Court found that the Appellate Tribunal was incorrect in relegating the appellant to further proceedings, as it was a clear case of fraud."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "The appeals are allowed in the aforesaid terms."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Appellate Tribunal was correct in relegating the appellant to a civil court to prove her title in a case of fraud, instead of allowing the Tribunal to adjudicate the matter.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was the victim of fraud where an impersonator was issued duplicate shares for her original holdings.",
+          "These fraudulent duplicate shares were then transferred to a third party (respondent no. 8).",
+          "The appellant still possessed her original share certificates.",
+          "The company's agent (Respondent No. 2) issued the duplicate shares without following the proper procedure, such as informing stock exchanges or issuing a public advertisement.",
+          "The initial Tribunal (NCLT) ruled in favor of the appellant, finding the company liable.",
+          "The Appellate Tribunal overturned this decision, holding that because criminal and SEBI investigations were pending, the appellant should be relegated to a civil court to prove her title."
+        ],
+        "law": [
+          "Under Section 59 of the Companies Act, 2013, the National Company Law Tribunal has the power to rectify the register of members.",
+          "There is a specific procedure (RTI Circular) that must be followed when issuing duplicate shares.",
+          "Principals (the company) are liable for the fraudulent acts of their agents (the Share Transfer Agents)."
+        ],
+        "application": [
+          "The Supreme Court characterized the case as an \"open and shut case of fraud\" where the appellant was clearly the victim and the company's agent was the perpetrator.",
+          "The Court found that the company had failed to follow the mandatory procedure for issuing duplicate shares, which contributed to the fraud.",
+          "It reasoned that there was no need for the appellant to go to a civil court, as her possession of the original share certificates and her testimony were sufficient proof of title. The respondents' objections were deemed a \"frivolous attempt to escape liability.\"",
+          "The Court held that the pending criminal or SEBI investigations were not a valid reason to deny the appellant her civil remedy or force her to wait for their outcome.",
+          "Therefore, the Court concluded that the initial Tribunal was \"absolutely correct\" to exercise its jurisdiction under Section 59 and not relegate the appellant to any further proceedings."
+        ],
+        "conclusion": "The Supreme Court rejected the Appellate Tribunal's decision, holding that it was incorrect to relegate the appellant to a civil court. The Court found that this was a clear case of fraud where the Tribunal had the power and duty to rectify the share register, especially since the company had failed to follow proper procedures. The Supreme Court set aside the Appellate Tribunal's order and reinstated the original Tribunal's decision in favor of the appellant."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Appellate Tribunal was correct in relegating the appellant to a civil court to prove her title in a case of fraud, instead of allowing the Tribunal to adjudicate the matter.",
+      "appellant_arguments": [
+        "The Tribunal is the appropriate forum to adjudicate the case, and the suggestion to initiate a civil suit is merely an attempt by the respondent to evade liability and deny redress.",
+        "The case is straightforward as the appellant possesses the original share certificates, and there is little other evidence to be adduced, even in a civil suit.",
+        "The respondent company is aware of the fraud, has initiated criminal proceedings, and is liable for the acts of its agents under the law and its own guidelines."
+      ],
+      "respondent_arguments": [
+        "The case cannot be adjudicated by the Tribunal and should be relegated to a civil court to prove title.",
+        "The matter is not clear-cut, as it is uncertain whether the fraudulent party was, in fact, entered on the share register.",
+        "Since the shares are now in dematerialized (demated) form, the responsibility to restore the appellant to the register lies with the concerned depository, not the company."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Companies Act, 2013",
+        "section": "59",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Principals are liable for the acts of their agents.",
+    "obiter": [
+      "A vague denial to escape liability and suggesting the initiation of a Civil Suit is viewed as an attempt not to redress a grievance, especially when it arises from fraud by a company's employees or agents."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court held that the Tribunal was absolutely correct in not relegating the appellant to a civil court because this was an \"open and shut case of fraud\" in which the appellant was the victim. The Court reasoned that a civil suit was unnecessary as the appellant possessed her original share certificates, the respondents were aware of the fraud and had initiated criminal proceedings, and there was \"little else to be adduced in evidence even in a Civil Suit.\" Forcing the appellant into further proceedings was therefore seen as an improper attempt by the respondent to evade liability.",
+    "legal_tests_applied": [
+      "The principle of vicarious liability, under which principals are liable for the acts of their agents: \"the law on the point is clear that the Principals are liable for the acts of their agents.”",
+      "The procedural requirements of the RTI Circular for issuing duplicate shares, which were not followed: \"When the duplicate shares were issued, stock exchanges were not informed and neither was an advertisement in a widely circulated newspaper issued as the value of the shares were far...\""
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A party's suggestion that a victim of clear fraud initiate a civil suit can be viewed as \"an attempt not to redress the grievance which has primarily arisen out of the fraud played by the employees of the Respondent Company or their Agents.\"",
+      "A victim of fraud should not be deprived of their assets pending the outcome of a separate criminal investigation: \"There is no reason for the petitioner to be deprived of her assets for the outcome of the criminal investigation or wait for the criminal to be brought to book.\""
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p5_292bd4bc"
+    ],
+    "ratio_decidendi.ratio": [
+      "p4_7ac717ee"
+    ]
+  }
+}

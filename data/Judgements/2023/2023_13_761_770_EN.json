@@ -1,0 +1,165 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court that convicted the appellant.",
+    "impugned_order": "Judgment of the High Court affirming the appellant's conviction, delivered without hearing the appellant or his advocate.",
+    "high_court_proceedings": "The appellant filed an appeal against his conviction in the High Court. Initially, his advocate was present on October 26, 2004. However, when the appeal was heard on November 23, 2004, the appellant's advocate was absent. The High Court proceeded to hear the appeal and reserved judgment without hearing any submissions on behalf of the appellant. The High Court did not appoint a lawyer to represent the appellant in the absence of his original counsel.",
+    "supreme_court_posture": "The appellant approached the Supreme Court arguing that the High Court committed an illegality by hearing the appeal in the absence of his advocate. The Supreme Court agreed with the appellant, finding that the High Court should have appointed a lawyer to represent him when his original advocate was absent. The Supreme Court allowed the appeal and presumably remanded the case back to the High Court for a fresh hearing."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed",
+    "conviction_status": "The appellant’s conviction for the offence punishable under Section 302, read with Section 34 of IPC is set aside. The appellant’s conviction for the offence punishable under Section 201 of IPC is confirmed.",
+    "sentence_status": "The appellant has already undergone the sentence for the offence under Section 201 of IPC.",
+    "directions": [
+      "The bail bonds of the appellant stand cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justiﬁ ed in altering the charge u/s. 302 read with ss. 148 and/or 149 to a charge u/s. 302/34 IPC, and convicting and sentencing the appellant for the oﬀ ence punishable u/s 302/34 and u/s. 201 IPC.",
+        "court_answer": "partly"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was initially convicted by the Trial Court for an offence under Section 302 read with Sections 148 and/or 149 of the Indian Penal Code (IPC), along with an offence under Section 201 IPC.",
+          "The Trial Court had not framed a charge under Section 302 read with Section 34 IPC.",
+          "On appeal, the High Court acquitted several co-accused, reducing the number of convicted persons to four.",
+          "As the number of accused was less than five, the charge of unlawful assembly (Section 149 IPC) could not be sustained.",
+          "The High Court then altered the charge for the appellant and three others from Section 302/149 IPC to Section 302/34 IPC and convicted them accordingly, while upholding the conviction under Section 201 IPC.",
+          "The appellant's advocate was absent during the High Court hearing, so no notice was given about the proposed alteration of the charge."
+        ],
+        "law": [
+          "Section 149 IPC (unlawful assembly) requires the involvement of five or more persons.",
+          "Section 34 IPC requires a criminal act to be done in furtherance of a 'common intention', which necessitates evidence of a prior meeting of minds.",
+          "Under Section 216 of the Code of Criminal Procedure (Cr.PC), a court can alter a charge, but it must not cause prejudice to the accused in their defence.",
+          "Common object (under Section 149) and common intention (under Section 34) are distinct legal concepts and are not interchangeable."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court's alteration of the charge caused \"grave prejudice\" to the appellant. Since neither the appellant nor his advocate was notified of the change, they had no opportunity to argue against the new charge and specifically address the element of 'common intention' required by Section 34 IPC.",
+          "The Court noted that the High Court failed to provide any reasons or discussion in its judgment for applying Section 34. It simply substituted the charge in the final operative part without analyzing the evidence to establish a common intention.",
+          "The Supreme Court reviewed the evidence and found it was insufficient to prove a common intention to commit murder. It observed that no specific overt act in the assault was attributed to the appellant, and the mere act of stopping the deceased was not enough to infer a prior meeting of minds for murder.",
+          "Because the High Court's decision was procedurally flawed (causing prejudice) and substantively incorrect (lacked evidence for common intention), the Supreme Court set aside the conviction under Section 302/34 IPC."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was not justified in altering the charge and convicting the appellant under Section 302/34 IPC due to both procedural unfairness (lack of notice causing prejudice) and a lack of evidence to prove the essential ingredient of 'common intention'. Consequently, it set aside this conviction. However, the Court confirmed the appellant's separate conviction under Section 201 IPC (for causing disappearance of evidence). Therefore, the High Court's decision was only 'partly' justified."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether any prejudice was caused to the appellant, as his appeal was heard in the absence of his advocate.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Supreme Court confirmed from the High Court's judgment and order sheet that the appellant's advocate was absent on the day the appeal was heard and judgment was reserved.",
+          "The High Court's judgment did not contain any submissions that were made on behalf of the appellant."
+        ],
+        "law": [
+          "The Court established that it is an illegality for a High Court to decide an appeal against a conviction without hearing the appellant or their advocate.",
+          "If an appellant's advocate is absent, the High Court should appoint another lawyer to represent the appellant's cause rather than proceeding with the hearing."
+        ],
+        "application": [
+          "The Court found that the absence of the advocate led to grave prejudice for the appellant.",
+          "Specifically, the High Court altered the criminal charge against the appellant. Because the advocate was absent, the court could not give notice of this proposed alteration.",
+          "This lack of notice denied the appellant the opportunity to argue against the new charge, particularly that there was no evidence to prove the necessary ingredient of \"common intention\"."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court committed an illegality by hearing the appeal in the absence of the appellant's advocate. This failure caused grave prejudice to the appellant, as he was not heard and had the charge against him altered without notice or an opportunity to defend against it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justiﬁ ed in altering the charge u/s. 302 read with ss. 148 and/or 149 to a charge u/s. 302/34 IPC, and convicting and sentencing the appellant for the oﬀ ence punishable u/s 302/34 and u/s. 201 IPC.",
+      "appellant_arguments": [
+        "The appellant could not be convicted under Section 34 of IPC as there was no evidence of common intention.",
+        "The High Court should have given notice to the appellant that it intended to modify the charge to invoke Section 34.",
+        "Prejudice was caused to the appellant by the alteration of the charge, especially since the ingredients of Section 34 IPC were not proven."
+      ],
+      "respondent_arguments": [
+        "The Appellate Court has the power under the Code of Criminal Procedure (Cr.PC) to alter or add a charge when no prejudice is shown to the accused.",
+        "There was sufficient evidence on record to prove the ingredients of Section 34 of IPC.",
+        "The High Court had carefully perused the evidence of the prosecution witnesses.",
+        "Given the gravity of the offence, no interference is called for."
+      ],
+      "court_acceptance": "partly"
+    },
+    {
+      "issue_text": "Whether any prejudice was caused to the appellant, as his appeal was heard in the absence of his advocate.",
+      "appellant_arguments": [
+        "The appellant was not represented by his advocate when the appeal was heard in the High Court, as noted in the cause title of the judgment.",
+        "The judgment does not refer to any submission made on behalf of any accused, further proving the advocate's absence.",
+        "The High Court committed a gross illegality by proceeding with the hearing of the appeal without the appellant's advocate."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain any specific arguments from the respondent on this issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "201",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "216",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "386",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Chittarmal v. State of Rajasthan",
+        "citation": "(2003) 2 SCC 266",
+        "principle": "An appellate court has the power under Section 386 and Section 216 of the Cr.PC to alter or add a charge, such as converting a charge from Section 302 read with Section 149 of the IPC to Section 302 read with Section 34 of the IPC, provided that principles of natural justice are followed by giving the accused notice of the proposed alteration.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An Appellate Court, under the powers of Section 386 of the Criminal Procedure Code (Cr.PC), can alter or add a charge pursuant to Section 216 of the Cr.PC. However, principles of natural justice require that the court must notify the accused of the proposed alteration or addition, especially when prejudice is likely to be caused. This notice can be given orally to the accused or their advocate during the hearing, and the court can grant time for the advocates to prepare for the altered or added charge.",
+    "obiter": [
+      "In the ordinary course, an appeal would be remanded for a fresh hearing if the appellant was not heard before the confirmation of a conviction on a modified charge."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court committed a grave error by altering the charge from Section 302 read with Section 149 IPC to Section 302 read with Section 34 IPC without giving notice to the appellant, whose advocate was absent during the hearing. This procedural failure caused significant prejudice. Furthermore, upon an independent review of the evidence, the Court found a complete absence of proof for the necessary ingredient of Section 34 IPC—common intention—as there was no evidence of a prior meeting of minds or any overt act by the appellant in the assault itself, thus necessitating the acquittal on the murder charge while upholding the conviction for disposing of the body.",
+    "legal_tests_applied": [
+      "To sustain a conviction under Section 34 of the IPC, the prosecution must prove the existence of a common intention, which requires evidence of a prior meeting of minds.",
+      "An appellate court commits an illegality by deciding an appeal against conviction without hearing the appellant or their advocate; if the advocate is absent, the court ought to appoint a lawyer to espouse the appellant's cause.",
+      "Altering a charge without giving notice to the accused or their advocate causes grave prejudice, as it denies the accused an opportunity to argue that the evidence on record does not support the ingredients of the new charge.",
+      "When altering a charge, a court must record a finding under sub-section (4) of Section 216 of Cr.PC that the proposed alteration will not prejudice the accused in his defence."
+    ],
+    "why_appellant_lost": [
+      "The appellant's conviction under Section 201 IPC was confirmed because the evidence of eyewitnesses was very consistent on the role played by the appellant in dragging the dead body of the deceased and throwing the same into a well, which provided every justification for the conviction for causing the disappearance of the evidence of the crime."
+    ],
+    "why_respondent_won": [
+      "The respondent succeeded in upholding the conviction under Section 201 IPC because the eyewitness testimony consistently established the appellant's direct involvement in dragging and disposing of the deceased's body, which is the actus reus of the offence of causing the disappearance of evidence."
+    ],
+    "policy_considerations": [
+      "Given that the incident occurred in 1987 and the appeal was from 2011, the Court found it would be unjust to remand the case back to the High Court due to the extensive delay. To prevent further injustice, the Court chose to examine the evidence on record itself."
+    ]
+  },
+  "evidence_map": {}
+}

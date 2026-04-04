@@ -1,0 +1,116 @@
+{
+  "procedural_history": {
+    "originating_court": "Judicial Magistrate (passed order of interim compensation dated 27.04.2022)",
+    "impugned_order": "Judgment and order of the High Court dated 29.03.2023 as well as the relied upon judgment and order dated 08.03.2023.",
+    "high_court_proceedings": "Respondent Nos. 1 to 3 preferred Criminal Application No. 967 of 2022 before the High Court challenging the order of interim compensation dated 27.04.2022 passed by the Judicial Magistrate. The High Court issued the judgment and order dated 08.03.2023 and 29.03.2023 in CRLA No. 967 of 2022.",
+    "supreme_court_posture": "The appellant challenged the judgment and order of the High Court dated 29.03.2023 as well as the relied upon judgment and order dated 08.03.2023 in Criminal Appeal Nos. 3070-3071 of 2024, assailing the correctness of these orders vis-à-vis the larger question of law, as framed by the High Court. The Supreme Court dismissed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Pending application(s), if any, shall stand disposed of."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the term 'drawer' under Section 143-A of the Negotiable Instruments Act, 1881, can be interpreted to include authorized signatories of a company, thereby making them personally liable to pay interim compensation.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A company (C Ltd.) issued two cheques to an appellant to discharge a liability. The cheques were signed by the company's directors (respondents).",
+          "The cheques were dishonored due to insufficient funds.",
+          "The appellant filed a complaint and an application under Section 143-A of the Negotiable Instruments (NI) Act, seeking interim compensation from the individual directors who signed the cheques.",
+          "The Judicial Magistrate ordered the directors to pay interim compensation, but the High Court set aside this order, ruling that a signatory is not the 'drawer' under Section 143-A."
+        ],
+        "law": [
+          {
+            "principle": "Primary vs. Vicarious Liability",
+            "explanation": "Under Section 138 of the NI Act, the primary liability for a dishonored cheque lies with the 'drawer,' which is the company (the account holder). The liability of the company's officers, including authorized signatories, is vicarious and arises only under the specific conditions of Section 141."
+          },
+          {
+            "principle": "Strict Interpretation of 'Drawer'",
+            "explanation": "The term 'drawer' in Section 143-A must be interpreted strictly. It refers specifically to the issuer of the cheque (the principal entity) and does not extend to individuals who sign on behalf of that entity."
+          },
+          {
+            "principle": "Distinction between Legal Entities and Signatories",
+            "explanation": "Corporate law maintains a crucial distinction between a company as a legal entity and its authorized signatories. Signatories act on behalf of the company and can bind it, but they do not merge their legal status with the company or assume its primary liabilities."
+          },
+          {
+            "principle": "Scope of Section 141 vs. Section 143-A",
+            "explanation": "Section 141 extends vicarious criminal liability for the *offence* under Section 138 to company officers. However, this principle of vicarious liability cannot be extended to Section 143-A, which imposes a liability to pay interim compensation specifically on the 'drawer'."
+          }
+        ],
+        "application": [
+          "The Court determined that the legislature's choice of the word 'drawer' in Section 143-A was deliberate and specific.",
+          "It rejected the argument that because a signatory can be held vicariously liable for the criminal offence under Section 141, they should also be personally liable for interim compensation under Section 143-A.",
+          "The Court clarified that previous judgments, such as *Aneeta Hada*, only established that a company must be an accused for its directors to be prosecuted; they did not define an authorized signatory as the 'drawer' for the purposes of Section 143-A.",
+          "The Court reasoned that holding a signatory personally liable for interim compensation would conflate the distinct roles of the agent (signatory) and the principal (the company/drawer), which contradicts fundamental principles of corporate law and statutory interpretation.",
+          "It was concluded that the liability to pay interim compensation is imposed only on the company that is the drawer of the cheque, as the provision does not mention employees, management, or signatories."
+        ],
+        "conclusion": "The Supreme Court rejected the argument and held that the term 'drawer' in Section 143-A of the Negotiable Instruments Act, 1881, refers only to the principal offender, which is the company itself, and not its authorized signatories. Therefore, authorized signatories cannot be held personally liable to pay interim compensation under this section."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the term 'drawer' under Section 143-A of the Negotiable Instruments Act, 1881, can be interpreted to include authorized signatories of a company, thereby making them personally liable to pay interim compensation.",
+      "appellant_arguments": [
+        "A restrictive interpretation of the term 'drawer' would defeat the purpose of the provision, which is to provide interim compensation to the payee of a dishonoured cheque."
+      ],
+      "respondent_arguments": [
+        "It is a well-settled position of law that an authorized signatory of a company is not the drawer of the cheque.",
+        "Citing the judgment in N. Harihara Krishnan, it was argued that a person signing a cheque on behalf of a company does not become the drawer, but is merely a person duly authorized to sign on behalf of the company/drawer."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Based on a literal interpretation of clear and unambiguous statutory language, the term 'drawer' under Section 143A of the NI Act is confined to the issuer of the cheque and does not include authorized signatories, as holding them liable would be an unjust extension not supported by the text.",
+    "obiter": [
+      "When statutory language is clear and unambiguous, it should be given its natural and ordinary meaning unless the legal context necessitates a different interpretation to align with legislative intent or avoid absurd outcomes.",
+      "Legislative intent should guide the interpretation of statutes, with all parts of a statute considered together to discern the overall purpose.",
+      "Words and phrases within a statute must be construed in context, taking into account the legislative objectives and the broader framework of the law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The term 'drawer' under Section 143-A of the Negotiable Instruments Act refers specifically to the principal issuer of the cheque, which is the company as a legal entity, and not the individual authorized signatory who signs on the company's behalf. The distinction between a company's legal identity and that of its agent is crucial; while an authorized signatory's actions bind the company, they do not merge their legal status with the company, and thus they cannot be held personally liable for interim compensation under this provision.",
+    "legal_tests_applied": [
+      "Strict/Literal Interpretation of Statutory Provisions",
+      "Principle of Separate Legal Entity in Corporate Law",
+      "General Rule Against Vicarious Liability in Criminal Law"
+    ],
+    "why_appellant_lost": [
+      "The appellants’ argument that directors or other individuals should also be liable u/s. 143-A misinterprets the statutory language and intent.",
+      "The appellants’ attempt to extend the principle of vicarious liability from Section 141 of the NI Act to Section 143-A, to hold directors or other individuals personally liable for interim compensation, is unfounded.",
+      "The argument failed to appreciate the crucial distinction between legal entities (the company as drawer) and individuals acting as authorized signatories, who act on behalf of the company but do not assume its legal identity."
+    ],
+    "why_respondent_won": [
+      "The general rule against vicarious liability in criminal law underscores that individuals are not typically held criminally liable for acts committed by others unless specific statutory provisions, like Section 141, extend such liability, which Section 143-A does not.",
+      "The distinction between legal entities and individuals acting as authorized signatories is crucial; authorized signatories act on behalf of the company but do not assume the company’s legal identity or its primary liabilities.",
+      "The interpretation of 'drawer' to strictly mean the issuer of the cheque (the company) aligns with legislative intent, established legal precedents, and principles of statutory interpretation."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p5_649b7233"
+    ],
+    "judicial_reasoning.legal_tests_applied[2]": [
+      "p12_6a70ff5e"
+    ],
+    "judicial_reasoning.why_respondent_won[0]": [
+      "p12_6a70ff5e"
+    ],
+    "judicial_reasoning.why_respondent_won[1]": [
+      "p13_adaa5834"
+    ]
+  }
+}

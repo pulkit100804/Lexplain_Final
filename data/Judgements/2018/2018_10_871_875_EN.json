@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Motor Accident Claims Tribunal (inferred from the nature of the case)",
+    "impugned_order": "Judgment and Order dated 15.03.2017 of the High Court of Tripura, Agartala in MAC AP No. 25 of 2015.",
+    "high_court_proceedings": "The High Court of Tripura, Agartala, passed a judgment and order in MAC AP No. 25 of 2015 on 15.03.2017, directing the appellant to pay compensation.",
+    "supreme_court_posture": "The appellant challenged the High Court's order, arguing that the High Court was not justified in directing the appellant to pay the compensation. The Supreme Court granted leave to appeal and ultimately allowed the appeal, setting aside the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The appeal is allowed in the aforesaid terms without any order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a claim petition under Section 166 of the Motor Vehicles Act, 1988 is maintainable when the deceased, being the owner-driver of the vehicle, was himself negligent and responsible for the accident which did not involve any other motor vehicle.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The deceased was the owner and driver of the motor vehicle involved in the accident.",
+          "The accident occurred solely due to the rash and negligent driving of the deceased himself.",
+          "No other motor vehicle was involved in the accident.",
+          "The legal representatives (LRs) of the deceased filed a claim petition under Section 166 of the Motor Vehicles Act, 1988."
+        ],
+        "law": [
+          "A claim petition under Section 166 of the Motor Vehicles Act is based on the principle of fault, meaning it requires proof of negligence on the part of the driver of the offending vehicle.",
+          "The owner of the offending vehicle cannot be considered a 'third party' within the meaning of the Act.",
+          "An insurer's liability under the Act is to indemnify the insured (the owner) against claims made by a third party.",
+          "A claimant cannot maintain a claim based on their own fault or negligence."
+        ],
+        "application": [
+          "The Court reasoned that since the deceased was the owner of the vehicle, he was not a 'third party'.",
+          "The accident was caused by the deceased's own negligence, and a person cannot be compensated for a loss resulting from their own fault.",
+          "The legal representatives of the deceased stand in the same position as the deceased. Therefore, they cannot maintain a claim that the deceased himself could not have made.",
+          "The Court concluded that if the insured (the deceased owner) cannot be held liable under the Act, the insurer has no liability to indemnify, as there is no third-party claim to cover.",
+          "The Court cited its previous decision in *Oriental Insurance Co. Ltd. v. Jhuma Saha*, which held that a claim petition by the LRs of a deceased owner-driver who died due to his own negligence was not maintainable."
+        ],
+        "conclusion": "The Supreme Court concluded that a claim petition under Section 166 of the Motor Vehicles Act is not maintainable when the deceased owner-driver was himself solely responsible for the accident. However, the Court noted that the legal representatives were entitled to compensation under the 'personal accident' cover of the insurance policy, which is a separate contractual liability, and awarded them that limited amount (Rs. 2,00,000)."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a claim petition under Section 166 of the Motor Vehicles Act, 1988 is maintainable when the deceased, being the owner-driver of the vehicle, was himself negligent and responsible for the accident which did not involve any other motor vehicle.",
+      "appellant_arguments": [
+        "The deceased was the owner-cum-driver of the offending vehicle and was responsible for the accident due to his own negligence.",
+        "Since no other vehicle was involved, the deceased cannot be considered a 'third party' under the Motor Vehicles Act, 1988.",
+        "As the deceased was not a third party, the claim petition filed by the respondents under Section 166 of the Act was not maintainable.",
+        "The High Court was not justified in directing the insurer to pay compensation."
+      ],
+      "respondent_arguments": [
+        "The impugned order of the High Court directing the payment of compensation was justified.",
+        "The insurance company is liable to pay compensation as a premium was paid for personal accident cover."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Motor Vehicles Act, 1988",
+        "section": "166",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Oriental Insurance Co. Ltd. v. Jhuma Saha (Smt) and Ors.",
+        "citation": "(2007) 9 SCC 263 : [2007] 1 SCR 979",
+        "principle": "The liability of the insurer is to indemnify the insured. If the insured cannot be fastened with any liability under the provisions of the Motor Vehicles Act, the insurer is not liable to indemnify the insured.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The legal representatives of a deceased owner-cum-driver, who was solely responsible for an accident due to their own negligence, cannot maintain a claim for compensation under Section 166 of the Motor Vehicles Act. The owner of the offending vehicle is not a 'third party' within the meaning of the Act. An insurer's liability is to indemnify the insured against liability to a third party; if no liability can be fastened upon the insured, the insurer's duty to indemnify does not arise.",
+    "obiter": [
+      "Where a premium was paid for a personal accident policy, the insurance company is liable to pay compensation under that specific policy."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "A claim petition under Section 166 of the Motor Vehicles Act is not maintainable by the legal representatives of a deceased who was the owner-cum-driver of the vehicle and was solely responsible for the accident due to his own rash and negligent driving. The deceased, being the owner of the offending vehicle and the victim of his own actions, is not a 'third party' under the Act. The liability of an insurance company is to indemnify the insured against liability to a third party; if the insured cannot be fastened with any liability, the question of the insurer being liable to indemnify does not arise.",
+    "legal_tests_applied": [
+      "Whether the deceased owner-cum-driver of the vehicle can be considered a 'third party' within the meaning of the Motor Vehicles Act, 1988.",
+      "Whether an insurer's liability to indemnify the insured arises when the insured themselves is at fault and no third party is involved."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A Claimant, cannot maintain a claim on the basis of his own fault or negligence and argue that even when he himself may have caused the accident on account of his own rash and negligent driving, he can nevertheless make the insurance company to pay for the same."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p5_c48e5ab1"
+    ],
+    "citations.cases[0].case_name": [
+      "p2_73b660ed"
+    ]
+  }
+}

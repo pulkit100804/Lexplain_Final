@@ -1,0 +1,48 @@
+{
+  "case_id": "b3e46550-8d7e-4374-86e4-47918eed447b",
+  "tenant_id": "case2_tenant",
+  "agent": "agent_4b_event_builder",
+  "input_refs": [
+    "role_tagged_graph.json",
+    "entities.json"
+  ],
+  "created_at": "2026-03-19T11:57:33.091650+00:00",
+  "events": [
+    {
+      "event_id": "evt_001",
+      "event_type": "action",
+      "actor": "complainant",
+      "action": "promised",
+      "target": "accused",
+      "object": "receiving payment",
+      "time": null,
+      "location": null,
+      "description": "The complainant stated that the accused promised to supply electronic goods after receiving payment.",
+      "source_node_id": "n_001"
+    },
+    {
+      "event_id": "evt_002",
+      "event_type": "action",
+      "actor": null,
+      "action": "transferred",
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "The complainant transferred ₹50,000 to the accused's bank account.",
+      "source_node_id": "n_002"
+    },
+    {
+      "event_id": "evt_003",
+      "event_type": "state",
+      "actor": null,
+      "action": "stopped responding",
+      "target": null,
+      "object": "no goods",
+      "time": null,
+      "location": null,
+      "description": "However, no goods were delivered, and the accused stopped responding to calls and messages.",
+      "source_node_id": "n_003"
+    }
+  ]
+}

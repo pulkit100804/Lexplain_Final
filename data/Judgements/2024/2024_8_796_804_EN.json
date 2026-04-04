@@ -1,0 +1,150 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial court in West Bengal (inferred, as the High Court of Calcutta heard an appeal from it)",
+    "impugned_order": "Judgment and Order dated 29.06.2012 of the High Court of Calcutta in CRA No. 414 of 2009",
+    "high_court_proceedings": "The High Court of Calcutta issued a Judgment and Order in Criminal Appeal No. 414 of 2009 on 29.06.2012. The outcome of the High Court appeal is not explicitly stated, but it is implied that the High Court upheld (at least partially) the conviction/sentence from the trial court, as the appellants then appealed to the Supreme Court.",
+    "supreme_court_posture": "Chabi Karmakar & Ors. appealed to the Supreme Court against the High Court's Judgment and Order. The Supreme Court allowed the appeal in part, acquitting appellant no. 1 of all offenses. The appeal was otherwise disposed of, suggesting the convictions/sentences of the other appellants were likely upheld."
+  },
+  "decision": {
+    "appeal_result": "Appeal disposed of.",
+    "conviction_status": "The appeal is allowed with respect to appellant no. 1, acquitting her of all offences. The conviction of appellant no. 2 under Section 304B of IPC is set aside. Appellant no. 2 is convicted for the offences under Sections 306 and 498A of IPC.",
+    "sentence_status": "Appellant no. 2 is sentenced to undergo three years of rigorous imprisonment and a fine of Rs. 25,000/- on each count for offences under Sections 306 and 498A. Both sentences shall run concurrently. In default of fine, he shall undergo further imprisonment of 3 months.",
+    "directions": [
+      "Appellant no. 1 need not surrender as she is presently on bail.",
+      "The fine payable shall be paid to the nearest relative of the deceased within a period of 3 months from today.",
+      "The appellant no. 2 shall surrender before the concerned Court within four weeks from today and undergo the remaining sentence."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of appellant no. 1 (mother-in-law) for the alleged offences is sustainable.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The mother-in-law of the deceased (identified as appellant no. 3) was convicted by the Trial Court and the High Court.",
+          "During the pendency of the appeal before the Supreme Court, the mother-in-law passed away."
+        ],
+        "law": [
+          "When an appellant in a criminal case dies while their appeal is pending, the legal proceedings against them are terminated, and the case is considered abated."
+        ],
+        "application": [
+          "The Supreme Court noted the fact that the mother-in-law had died while the appeal was ongoing.",
+          "Applying the legal principle of abatement, the Court determined that the proceedings against her could not continue."
+        ],
+        "conclusion": "The Supreme Court decided that the conviction of the mother-in-law was no longer sustainable because the case against her was abated due to her death during the appeal."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether appellant no. 2 (husband) is guilty of the offences he was charged with.",
+        "court_answer": "partly"
+      },
+      "reasoning": {
+        "facts": [
+          "Appellant no. 2 (the husband) was initially convicted under sections 498A (cruelty), 304B (dowry death), and 306 (abetment of suicide) of the IPC.",
+          "Evidence from the deceased's relatives (PW-1, PW-3, PW-4, and P16) established that the deceased faced cruelty and harassment from her husband.",
+          "This harassment compelled the deceased to commit suicide in her matrimonial home within seven years of marriage."
+        ],
+        "law": [
+          "To sustain a conviction for dowry death under Section 304B of the IPC, the prosecution must prove that the cruelty or harassment was in connection with a demand for dowry and occurred \"soon before her death\".",
+          "If the prerequisites for Section 304B are not met, the presumption of dowry death under Section 113B of the Indian Evidence Act cannot be raised."
+        ],
+        "application": [
+          "The Court analyzed the evidence and found that the prosecution failed to prove that the cruelty and harassment inflicted by the husband were connected to any demand for dowry.",
+          "Because this essential element was missing, the Court determined that a conviction for dowry death under Section 304B was not justified and set it aside.",
+          "However, the Court found that the evidence of cruelty and harassment was sufficient to prove that the husband had abetted his wife's suicide and subjected her to cruelty.",
+          "Therefore, the Court upheld the husband's conviction for abetment of suicide under Section 306 and cruelty under Section 498A of the IPC."
+        ],
+        "conclusion": "The Supreme Court found the husband (appellant no. 2) partly guilty. It acquitted him of the charge of dowry death (Section 304B) because the prosecution failed to link the harassment to dowry demands. However, it convicted him for cruelty (Section 498A) and abetment of suicide (Section 306), as the evidence clearly showed his cruelty and harassment led to the deceased's suicide."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of appellant no. 1 (mother-in-law) for the alleged offences is sustainable.",
+      "appellant_arguments": [
+        "The evidence regarding the demand for a motorcycle and land pertained to a time much prior to the incident.",
+        "The evidence presented by the prosecution does not meet the pre-requisites to invoke the presumption of dowry death under Section 304B IPC or Section 113B of the Indian Evidence Act."
+      ],
+      "respondent_arguments": [
+        "The respondent's specific counterarguments are not detailed in the provided text, but it is mentioned that the prosecution placed evidence on record to prove the charges."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether appellant no. 2 (husband) is guilty of the offences he was charged with.",
+      "appellant_arguments": [
+        "A demand for property, to be considered 'dowry' under Section 2 of the Dowry Prohibition Act, must be made in connection with the marriage, which was not the case here.",
+        "The demand for a motorcycle and land was made much prior to the victim's death.",
+        "The prosecution failed to fully establish that there was a demand for dowry.",
+        "The evidence does not fulfil the pre-requisites to invoke the presumption of dowry death under Section 304B IPC or Section 113B of the Indian Evidence Act."
+      ],
+      "respondent_arguments": [
+        "The respondent's specific counterarguments are not detailed in the provided text, but it is mentioned that counterarguments were heard and that the prosecution had placed evidence on record to prove the charges."
+      ],
+      "court_acceptance": "partly"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "304B",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "306",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "498A",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "113B",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Rajinder Singh v. State of Punjab",
+        "citation": "[2015] 2 SCR 835 : (2015) 6 SCC 477",
+        "principle": "To discuss the ingredients of Section 304B of the IPC.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Oral averments regarding a demand for dowry made much prior to the incident are insufficient to fulfill the pre-requisites for invoking the presumption of dowry death under Section 304B of the Indian Penal Code and Section 113B of the Indian Evidence Act.",
+    "obiter": [
+      "The High Court did not go into the question of whether the trial court was right in relying upon section 113B of the Evidence Act."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The prosecution's evidence was insufficient to prove that the cruelty or harassment inflicted upon the deceased was specifically in connection with a demand for dowry. While the evidence clearly established that the deceased faced cruelty and harassment from her husband (appellant no. 2) which compelled her to commit suicide, the witnesses did not state that this was linked to a dowry demand. Consequently, the pre-requisite for a dowry death conviction under Section 304B IPC was not met, and the presumption under Section 113B of the Evidence Act could not be invoked. Furthermore, there was no specific evidence to connect the mother-in-law (appellant no. 1) to the commission of any crime.",
+    "legal_tests_applied": [
+      "The ingredients for dowry death under Section 304B of the IPC, specifically whether the evidence is sufficient to prove the ingredient of 'cruelty or harassment in connection with the demand for dowry'.",
+      "The pre-requisites for invoking the presumption of dowry death under Section 113B of the Evidence Act, which requires the prosecution to first prove that the deceased was subjected to cruelty soon before her death in connection with a demand for dowry.",
+      "The elements for establishing cruelty under Section 498A of the IPC.",
+      "The elements for establishing abetment of suicide under Section 306 of the IPC."
+    ],
+    "why_appellant_lost": [
+      "The evidence from the prosecution witnesses (PW-1, PW-3, PW-4, and P16) made it clear that the deceased faced cruelty and harassment at the hands of her husband (appellant no. 2), which compelled her to commit suicide, thereby making out a case for conviction under Sections 306 and 498A of the IPC."
+    ],
+    "why_respondent_won": [
+      "The prosecution successfully proved through the evidence of the deceased's relatives (PW-1, PW-3, PW-4, and P16) that the deceased faced cruelty and harassment at the hands of her husband (appellant no. 2), which was sufficient to establish the offences of abetment of suicide under Section 306 and cruelty under Section 498A of the IPC."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

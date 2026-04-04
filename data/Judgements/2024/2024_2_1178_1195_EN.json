@@ -1,0 +1,157 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (Gujarat)",
+    "impugned_order": "Judgment dated 11th December, 2015, of the Division Bench of the High Court of Gujarat in Criminal Appeal No. 949 of 1994.",
+    "high_court_proceedings": "The State filed Criminal Appeal No. 949 of 1994 challenging the acquittal of the accused by the trial court. The accused also filed an appeal. The High Court allowed the State's appeal, reversed the acquittal, convicted the accused under Sections 302 and 396 IPC, and sentenced them to life imprisonment, maintaining the fine and default sentence imposed by the trial court. The High Court dismissed the appeal preferred by the accused.",
+    "supreme_court_posture": "The accused appellants approached the Supreme Court to challenge the High Court's judgment dated 11th December, 2015."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "acquitted",
+    "sentence_status": "set aside",
+    "directions": [
+      "The appellants are directed to be set at liberty forthwith, if not required in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "The scope of interference by High Court in an appeal challenging acquittal of the accused by the trial Court;",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The trial court acquitted the accused of murder (Sections 302, 396, 397 IPC) but convicted them of robbery (Section 392 IPC).",
+          "The State appealed the acquittal to the High Court.",
+          "The High Court reversed the trial court's decision, convicting the accused of murder.",
+          "The case against the accused was based entirely on circumstantial evidence."
+        ],
+        "law": [
+          "The Supreme Court reiterated the principles governing a High Court's interference in an appeal against acquittal.",
+          "An appellate court can re-appreciate the evidence.",
+          "However, it can only interfere with an acquittal if it finds that the trial court's view was not a possible one based on the evidence.",
+          "Interference is only justified if the appellate court concludes that the only possible finding from the evidence is that the accused's guilt was proven beyond a reasonable doubt."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court failed to follow the established legal principles for reversing an acquittal.",
+          "The High Court did not record a finding that the trial court's view was perverse or that it was not a possible view based on the evidence.",
+          "The Supreme Court noted that the High Court's judgment was based on \"conjectures and surmises\" rather than reliable circumstantial evidence.",
+          "It also found that the prosecution had failed to establish a complete chain of incriminating circumstances to prove the charge of murder."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court's judgment fell short of the mandatory requirements for reversing an acquittal. Therefore, the Supreme Court accepted the appeal, set aside the High Court's conviction for murder, and acquitted the appellants of all charges."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "standard of proof required to bring home charges in a case based purely on circumstantial evidence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution's case against the accused was based entirely on circumstantial evidence, with no direct evidence presented.",
+          "The prosecution alleged that the accused hired the victim's jeep, murdered the victim, and then stole the vehicle.",
+          "The evidence relied upon by the prosecution consisted of disclosures, recoveries, and discoveries."
+        ],
+        "law": [
+          "The Court cited the precedent set in *Sharad Birdhichand Sarda v. State of Maharashtra*, which established five 'golden rules' for cases based on circumstantial evidence.",
+          "These rules require that:",
+          "1. The circumstances from which guilt is inferred must be fully established.",
+          "2. The established facts must be consistent only with the hypothesis of the accused's guilt and not explainable by any other hypothesis.",
+          "3. The circumstances must be of a conclusive nature.",
+          "4. There must be a complete chain of evidence that leaves no reasonable ground for a conclusion consistent with the accused's innocence.",
+          "5. The evidence must show that, in all human probability, the act was committed by the accused."
+        ],
+        "application": [
+          "The Court applied the five principles from the *Sharad Birdhichand Sarda* case to the evidence on record.",
+          "It found that the circumstantial evidence presented by the prosecution, which included disclosures and recoveries, was not reliable, tangible, or convincing.",
+          "The Court determined that the evidence failed to form a complete and unbroken chain of incriminating circumstances that would point exclusively to the guilt of the accused."
+        ],
+        "conclusion": "The Supreme Court held that the prosecution had miserably failed to meet the high standard of proof required in a case based on circumstantial evidence. The evidence did not form a complete chain that would conclusively prove the guilt of the accused beyond a reasonable doubt."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "The scope of interference by High Court in an appeal challenging acquittal of the accused by the trial Court;",
+      "appellant_arguments": [
+        "The High Court, in reversing the acquittal, did not record a finding that the trial court's view was perverse.",
+        "The High Court failed to establish that two views—one favouring the accused and the other favouring the prosecution—were not possible from the evidence on record."
+      ],
+      "respondent_arguments": [
+        "The High Court's interference was justified as it conducted a thorough and apropos appreciation of the evidence, leading to unimpeachable findings of guilt."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "standard of proof required to bring home charges in a case based purely on circumstantial evidence.",
+      "appellant_arguments": [
+        "There is no reliable and tangible evidence to establish the guilt of the accused beyond a reasonable doubt.",
+        "The findings of the High Court are not based on any tangible evidence but are drawn sheerly on conjectures and surmises."
+      ],
+      "respondent_arguments": [
+        "The prosecution presented substantial and convincing circumstantial evidence.",
+        "The High Court's findings holding the accused guilty are unimpeachable and based on a proper appreciation of the evidence."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "Section 25",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Haricharan Kurmi v. State of Bihar",
+        "citation": "[1964] 6 SCR 623 : AIR 1964 SC 1184",
+        "principle": "A judicial confession made by an accused cannot be treated as substantive evidence against other co-accused persons.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "An appellate court cannot overturn an order of acquittal if the view taken by the trial court is a possible one, as an acquittal strengthens the presumption of innocence. Reversal is not justified merely because another view is also possible, but only when the trial court's view is perverse or not supported by the evidence on record.",
+    "obiter": [
+      "For a conviction based on circumstantial evidence, the circumstances from which the conclusion of guilt is to be drawn must be fully established.",
+      "The facts established in a case based on circumstantial evidence must be consistent only with the hypothesis of the guilt of the accused and not explainable by any other hypothesis.",
+      "The circumstances in a case based on circumstantial evidence should be of a conclusive nature and tendency."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "While reversing the acquittal of the accused recorded by the trial Court for the charges under Sections 302 read with Section 34 and Sections 396 and 397 IPC, the High Court did not record any such finding that the view taken by the trial Court, based on appreciation of evidence was either perverse or it was not one of the permissible views favouring the acquittal of the accused. In this background, the impugned judgment rendered by the High Court falls short of the satisfaction mandatorily required to be recorded for reversing a judgment of acquittal and converting it to one of conviction.",
+    "legal_tests_applied": [
+      "The appellate Court can interfere with the order of acquittal only if it comes to a finding that the only conclusion which can be recorded on the basis of the evidence on record was that the guilt of the accused was proved beyond a reasonable doubt and no other conclusion was possible.",
+      "If the view taken is a possible view, the appellate Court cannot overturn the order of acquittal on the ground that another view was also possible;",
+      "The appellate Court, while deciding an appeal against acquittal, after re-appreciating the evidence, is required to consider whether the view taken by the Trial Court is a possible view which could have been taken on the basis of the evidence on record;",
+      "The acquittal of the accused further strengthens the presumption of innocence;",
+      "the circumstances should be of a conclusive nature and tendency,",
+      "there must be a chain of evidence so complete as not to leave any reasonable ground for the conclusion consistent with the innocence of the accused and must show that in all human probability the act must have been done by the accused."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "the High Court did not record any such finding that the view taken by the trial Court, based on appreciation of evidence was either perverse or it was not one of the permissible views favouring the acquittal of the accused.",
+      "the impugned judgment rendered by the High Court falls short of the satisfaction mandatorily required to be recorded for reversing a judgment of acquittal and converting it to one of conviction."
+    ],
+    "policy_considerations": [
+      "The acquittal of the accused further strengthens the presumption of innocence;"
+    ]
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p8_82865787"
+    ],
+    "arguments[0].issue_text": [
+      "p8_82865787"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p1_77dc125a",
+      "p17_355149b6"
+    ],
+    "judicial_reasoning.why_respondent_won[1]": [
+      "p17_355149b6"
+    ]
+  }
+}

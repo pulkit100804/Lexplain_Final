@@ -1,0 +1,265 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Subordinate Judge, Motihari",
+    "impugned_order": "Order dated the 11th July 1951 of the Court of Subordinate Judge, Motihari in Misc. Case No. 30 of 1951.",
+    "high_court_proceedings": "Appeal from the Original Order No. 284 of 1951 arising out of the order of the Subordinate Judge was taken to the Patna High Court. The Patna High Court's judgment and order is dated 5th May 1954.",
+    "supreme_court_posture": "Jai Narain Ram Lundia appealed the judgment and order of the Patna High Court to the Supreme Court."
+  },
+  "decision": {
+    "appeal_result": "The appeal fails and is dismissed with costs.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a court to which a decree is transferred for execution has the jurisdiction to decide objections relating to the execution, discharge, and satisfaction of the decree under Section 47 of the Code of Civil Procedure.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A decree was transferred from the court that passed it (the Calcutta High Court) to another court (the Subordinate Judge's Court at Motihari) for execution.",
+          "An objection was raised in the Motihari court regarding the defendant's ability to perform their obligations under the decree.",
+          "The Motihari court, as the transferee court, initially declined to hear the objection, holding that it lacked the jurisdiction to do so because it was not the court that had passed the decree."
+        ],
+        "law": [
+          "Section 47 of the Code of Civil Procedure states that all questions relating to the execution, discharge, or satisfaction of a decree shall be determined by the court executing the decree.",
+          "Section 42 of the Code of Civil Procedure expressly gives the court executing a transferred decree the same powers in executing that decree as if it had been passed by the court itself."
+        ],
+        "application": [
+          "The Supreme Court determined that the objection raised—whether the defendant was in a position to perform their part of the decree—was a matter \"distinctly relating to the execution, discharge and satisfaction of the decree.\"",
+          "According to Section 47, such a matter can only be determined by the court executing the decree.",
+          "The Court dismissed the argument that the transferee court lacked jurisdiction. It held that Section 42 of the Code was a \"complete answer\" to this contention, as it explicitly grants the transferee court the same powers as the original court for the purposes of execution."
+        ],
+        "conclusion": "The Supreme Court decided that a court to which a decree is transferred for execution has the jurisdiction to decide objections relating to the execution, discharge, and satisfaction of that decree. The Court's reasoning was that under Section 42 of the Code of Civil Procedure, the transferee court has the same powers as the court that passed the decree, and under Section 47, the executing court is the proper forum to decide all such matters."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the failure to raise an objection to the executability of a decree during the transfer proceedings precludes the party from raising it before the executing court.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A decree was passed by the Calcutta High Court.",
+          "The defendant (decree-holder) applied to the Calcutta High Court to transfer the decree to the court in Motihari for execution.",
+          "The plaintiff (judgment-debtor) did not raise any objection to the executability of the decree during these transfer proceedings.",
+          "Once the decree was transferred, the plaintiff raised an objection before the executing court in Motihari, arguing the decree could not be executed."
+        ],
+        "law": [
+          {
+            "name": "Civil Procedure Code, Section 47",
+            "description": "This section mandates that all questions relating to the execution, discharge, and satisfaction of a decree must be determined by the court executing the decree."
+          },
+          {
+            "name": "Civil Procedure Code, Section 42",
+            "description": "This section grants the court to which a decree is sent for execution (the transferee court) the same powers in executing that decree as if it had been passed by itself."
+          }
+        ],
+        "application": [
+          "The Court first established that the scope of a transfer proceeding is very narrow. The only question before the transferring court (the Calcutta High Court) was the procedural one of whether the decree should be transferred or not.",
+          "The merits of the decree's executability were not the issue being decided at that stage. Therefore, the plaintiff was not required to raise his objection during the transfer application.",
+          "The Court reasoned that under Section 47, the executing court is the proper and designated forum to decide all matters relating to the execution of a decree. The plaintiff's objection was precisely such a matter.",
+          "Furthermore, under Section 42, the executing court in Motihari had the same full powers to hear this objection as the original court in Calcutta would have had.",
+          "The Court rejected the appellant's argument by pointing out its illogical conclusion: if accepted, it would mean that all objections to execution would be barred unless the transferring court explicitly listed the issues the executing court could decide. This would improperly strip the executing court of its statutory powers."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the failure to raise an objection to a decree's executability during the transfer proceedings does not prevent a party from raising it before the executing court. The transfer proceeding is limited to the question of transfer, while the executing court is the proper forum, empowered by Sections 42 and 47 of the Civil Procedure Code, to decide all questions relating to the execution of the decree."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether an executing court can permit the substitution of the subject matter of a decree (a share in a firm) with something else (a share in the assets of the dissolved firm).",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A court decree ordered the transfer of a 'five annas share in the Marwari Brothers', which was a going partnership concern.",
+          "By the time of execution, the firm had been dissolved.",
+          "The defendant, who was obligated to transfer the share, attempted to substitute it with a 'five annas share in the assets of the dissolved firm'."
+        ],
+        "law": [
+          "The fundamental principle of execution is that an executing court must take the decree as it stands and cannot go behind it or alter its terms.",
+          "If a decree orders a specific and definite thing to be given, the executing court cannot allow something else to be substituted for it.",
+          "A decree must be executed as a whole as it stands, or not at all."
+        ],
+        "application": [
+          "The Court determined that a 'share in the assets of a dissolved firm' is a 'very different thing' from a 'share in a going partnership concern'.",
+          "Therefore, permitting this substitution would amount to a 'material alteration' of the decree.",
+          "The Court reasoned that while the court that originally passed the decree might have the power to vary it, the executing court certainly does not.",
+          "The executing court's duty is to ensure the defendant gives the plaintiff the very thing the decree directs, and it cannot allow a substitution."
+        ],
+        "conclusion": "The Supreme Court rejected the substitution, holding that an executing court is not competent to alter a decree. Since a share in the assets of a dissolved firm is fundamentally different from a share in a going concern, allowing the substitution would be a material alteration of the decree's terms, which is beyond the power of an executing court."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a party who is incapable of performing their part of a decree for specific performance can seek execution against the other party by attaching their property under Order XXI, rule 32(1) of the Code of Civil Procedure.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A decree for specific performance was passed with reciprocal obligations: the plaintiff was to pay a sum of money, and in return, the defendant was to transfer shares in a company and a five-annas share in a partnership firm named 'Marwari Brothers'.",
+          "The defendant sought to execute this decree by compelling the plaintiff to pay the money.",
+          "However, the defendant was unable to perform their part of the decree because the 'Marwari Brothers' partnership firm had been dissolved and had ceased to exist.",
+          "The defendant attempted to use the remedy under Order XXI, rule 32(1) of the Code of Civil Procedure to attach the plaintiff's property to enforce the decree."
+        ],
+        "law": [
+          "The remedy provided in Order XXI, rule 32(1) (such as attachment of property) for executing a decree for specific performance can only be used by a person who is entitled to execute the decree.",
+          "When a decree imposes reciprocal obligations that are interlinked and conditional upon each other, a party seeking execution must be ready and able to perform their own obligations.",
+          "An executing court cannot go behind a decree or vary its terms. It must execute the decree as a whole or not at all, especially when the obligations are inseverable.",
+          "Under Section 47 of the Code of Civil Procedure, the executing court has the power and duty to determine whether the party seeking execution is in a position to perform their part of the decree, as this is a matter relating to the execution and satisfaction of the decree."
+        ],
+        "application": [
+          "The Court determined that the obligations in the decree—the plaintiff's payment and the defendant's transfer of shares—were reciprocal and 'indissolubly linked together'.",
+          "Since the defendant's partnership firm had ceased to exist, the defendant was incapable of performing a material part of their obligation, namely, transferring the five-annas share in that firm.",
+          "The Court reasoned that a party who is incapable of performing their own part of a reciprocal decree is not entitled to seek execution from the other party.",
+          "To allow the defendant to force the plaintiff to pay without being able to provide what was promised in return would be to unilaterally enforce the decree and effectively vary its terms, which an executing court is forbidden from doing.",
+          "Because the defendant was not entitled to execute the decree due to their own incapacity, the remedy under Order XXI, rule 32(1) was not available to them."
+        ],
+        "conclusion": "The Supreme Court rejected the defendant's attempt to execute the decree, holding that a party who is incapable of performing their own reciprocal obligations under a decree for specific performance is not entitled to execute it. Consequently, such a party cannot use the remedy of attaching the other party's property under Order XXI, rule 32(1), as that remedy is only available to a person who is in a position to fulfill their side of the decree."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the executing court has the power to determine if a party is in a position to perform their part of the decree.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involves a decree for specific performance which imposes reciprocal and interlinked obligations on both parties.",
+          "The party seeking to execute the decree (the defendant) was himself unable to perform one of his key obligations under the decree.",
+          "An objection was raised during the execution proceedings regarding this party's inability to perform their part of the decree."
+        ],
+        "law": [
+          "An executing court cannot go behind a decree or vary its terms.",
+          "When a decree contains reciprocal and inseverable obligations, it must be executed as a whole or not at all.",
+          "Under Section 47 of the Civil Procedure Code, all questions relating to the execution, discharge, and satisfaction of a decree must be determined by the court executing the decree.",
+          "Under Section 42 of the Civil Procedure Code, a court to which a decree is transferred for execution has the same powers as the court that originally passed it."
+        ],
+        "application": [
+          "The Court reasoned that in decrees with reciprocal obligations, performance by one party is conditional on the other's ability to perform.",
+          "A party seeking execution must satisfy the executing court that they are in a position to perform their own obligations under the decree.",
+          "If an executing court were to enforce one side's obligations without ensuring the other side could also perform, it would be improperly varying the decree by splitting up what was intended to be an indivisible whole.",
+          "The Court stated that determining a party's ability to perform is a question directly related to the \"execution, discharge and satisfaction of the decree.\"",
+          "Therefore, under Section 47 of the Civil Procedure Code, it is not only within the power of the executing court to decide this issue, but it is the *only* court that can do so."
+        ],
+        "conclusion": "The Supreme Court decided that the executing court absolutely has the power to determine if a party is in a position to perform their part of the decree. The Court held that when a decree's obligations are reciprocal, the party seeking execution must satisfy the executing court of their ability to perform. This determination is an essential part of the execution process under Section 47 of the Civil Procedure Code, as failing to do so would amount to improperly altering the decree."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a court to which a decree is transferred for execution has the jurisdiction to decide objections relating to the execution, discharge, and satisfaction of the decree under Section 47 of the Code of Civil Procedure.",
+      "appellant_arguments": [
+        "The transferee court (the Subordinate Judge's Court at Motihari) does not have the jurisdiction to decide objections to the execution of the decree, as it is not the court that passed the decree."
+      ],
+      "respondent_arguments": [
+        "The transferee court has the jurisdiction to decide objections, as Section 42 of the Code of Civil Procedure gives it the same powers as the court that passed the decree, and the objection falls under Section 47."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the failure to raise an objection to the executability of a decree during the transfer proceedings precludes the party from raising it before the executing court.",
+      "appellant_arguments": [
+        "The objection to execution should have been raised in the Calcutta High Court when the transfer was requested.",
+        "Because the objection was not raised at that time, it is too late to raise it before the executing court."
+      ],
+      "respondent_arguments": [
+        "The party is not precluded from raising the objection before the executing court.",
+        "The only issue before the court during the transfer application was whether the decree should be transferred, not its executability."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether an executing court can permit the substitution of the subject matter of a decree (a share in a firm) with something else (a share in the assets of the dissolved firm).",
+      "appellant_arguments": [
+        "Even if the firm has been dissolved, the plaintiff is still entitled to a five-anna share in its assets.",
+        "The court should allow the substitution of a share in the assets of the dissolved firm for the share in the firm as specified in the decree."
+      ],
+      "respondent_arguments": [
+        "The executing court cannot alter the terms of the decree.",
+        "Substituting a share in the assets of a dissolved firm for a share in an existing firm would be an impermissible alteration of the decree."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a party who is incapable of performing their part of a decree for specific performance can seek execution against the other party by attaching their property under Order XXI, rule 32(1) of the Code of Civil Procedure.",
+      "appellant_arguments": [
+        "The defendant has the right to execute the decree by attaching the plaintiff's property under Order XXI, rule 32(1).",
+        "The plaintiff's failure to re-tender the money precludes them from contesting the defendant's right to attach their property."
+      ],
+      "respondent_arguments": [
+        "A party cannot seek execution if they are incapable of performing their own reciprocal obligations under the decree.",
+        "Since the defendant cannot transfer a share in the now-dissolved firm, they are not entitled to execute the decree against the plaintiff."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the executing court has the power to determine if a party is in a position to perform their part of the decree.",
+      "appellant_arguments": [
+        "The executing court cannot go behind the decree to inquire into a party's ability to perform its terms."
+      ],
+      "respondent_arguments": [
+        "The executing court must determine if the party seeking execution is in a position to perform their part of the decree, as this is a matter relating to the execution, discharge, and satisfaction of the decree under Section 47."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Civil Procedure (Act V of 1908)",
+        "section": "s. 42",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Civil Procedure (Act V of 1908)",
+        "section": "s. 47",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Civil Procedure (Act V of 1908)",
+        "section": "O. XXI, r. 32(1)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "When a decree imposes reciprocal obligations that are so interlinked that performance by one party is conditional on performance by the other, execution will not be ordered unless the party seeking execution satisfies the executing court that they are in a position to perform their specific obligation as decreed. The executing court has the jurisdiction to determine this ability but cannot alter the decree by permitting a substitute performance; the decree must be executed exactly as it stands or not at all.",
+    "obiter": [
+      "It may be as much the duty of a party who cannot perform their obligation under a decree to seek modification from the court which passed it as it is for the other party.",
+      "Potential remedies for rescission or modification of a contract after judgment, which may exist by application to the court that passed the decree, do not affect the principle that an executing court cannot go behind the decree."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When a decree for specific performance imposes reciprocal and interlinked obligations on both parties, such that performance by one is conditional on performance by the other, it must be executed as a whole or not at all. A party seeking execution must not only offer to perform their side but, when an objection is raised, must satisfy the executing court that they are in a position to do so. To permit a party who is incapable of performing their own obligation to execute the decree against the other party would be to vary the terms of the decree, a thing an executing court cannot do.",
+    "legal_tests_applied": [
+      "Whether the obligations imposed on each side by a decree are distinct and severable, or are reciprocal and interlinked such that they cannot be separated.",
+      "The principle that an executing court must take the decree as it stands and cannot go behind it or alter it in a material particular.",
+      "Whether an objection to execution falls under Section 47 of the Code of Civil Procedure as a question relating to the execution, discharge, or satisfaction of the decree."
+    ],
+    "why_appellant_lost": [
+      "The appellant was incapable of performing his part of the decree—transferring a five-anna share in the Marwari Brothers firm—because the firm had been dissolved prior to his application for execution.",
+      "The appellant's proposal to substitute a five-anna share in the assets of the dissolved firm for the decreed share in the going concern was rejected, as this would constitute an alteration of the decree in a material particular, which an executing court is not competent to make.",
+      "The argument that the transferee court lacked jurisdiction to hear the objection was incorrect, as Section 42 of the Civil Procedure Code grants the transferee court the same powers as the court that passed the decree.",
+      "The argument that the respondent was precluded from raising the objection because it was not raised during the transfer proceedings was rejected, as the only issue before the transferring court was whether the decree should be transferred, not its executability."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully argued that the decree's obligations were reciprocal and indissolubly linked, meaning the appellant could not seek performance from the respondent without being able to perform his own part.",
+      "The respondent's objection—that the appellant was not in a position to perform his obligations—was a valid question relating to the execution, discharge, and satisfaction of the decree under Section 47, which the executing court had the power to determine.",
+      "The respondent correctly contended that the transferee court had jurisdiction to decide the objection under Sections 42 and 47 of the Code of Civil Procedure.",
+      "The respondent was not barred from raising the objection before the executing court, as the prior transfer proceeding did not deal with the merits of the decree's executability."
+    ],
+    "policy_considerations": [
+      "An executing court's primary duty is to execute the decree as it stands and not to vary its terms. Allowing a party to execute their part of a decree with reciprocal obligations while being unable to perform their own would defeat the directions in the decree and amount to the court going behind it.",
+      "It is a matter of fundamental fairness that a party seeking to enforce a conditional decree must be ready and able to perform the conditions imposed upon them. To hold otherwise would allow a party to benefit from a decree whose core bargain can no longer be fulfilled."
+    ]
+  },
+  "evidence_map": {
+    "decision.appeal_result": [
+      "p10_1474ca46"
+    ]
+  }
+}

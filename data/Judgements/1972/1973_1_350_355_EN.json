@@ -1,0 +1,129 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate court (convicted the appellant)",
+    "impugned_order": "Judgment and Order dated April 12, 1968 of the Allahabad High Court in Criminal Govt. Appeal No. 13 of 196' and Criminal Govt. Appeal No. IO of 1966.",
+    "high_court_proceedings": "The Magistrate convicted the appellant under section 16 read with section 7 of the Prevention of Food Adulteration Act and sentenced him to imprisonment and a fine. The appellant appealed to the Sessions Judge, who acquitted him. The High Court of Allahabad reversed the Sessions Judge's order and restored the Magistrate's order convicting the appellant.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave, challenging the High Court's judgment. The Supreme Court dismissed the appeal, upholding the High Court's decision."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "upheld",
+    "sentence_status": "upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the intention to use an adulterated article of food for manufacturing another product, rather than for direct sale, is a valid defense against a charge under the Prevention of Food Adulteration Act, 1954.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A Food Inspector purchased a sample of 'Shakkar' from the appellant, which was later found to be adulterated.",
+          "The appellant was convicted under the Prevention of Food Adulteration Act, 1954.",
+          "The appellant's defense was that he was not storing the Shakkar for direct sale, but rather to use it as an ingredient to manufacture another product called 'Rab'."
+        ],
+        "law": [
+          "Section 7 of the Prevention of Food Adulteration Act, 1954, prohibits the sale of any adulterated article of food.",
+          "A sale of a sample to a Food Inspector for analysis is considered a \"sale\" for the purposes of the Act.",
+          "The Act applies to any person who sells an adulterated food item, regardless of whether they are a regular dealer or if the item was taken from a larger quantity intended for public sale."
+        ],
+        "application": [
+          "The Court first noted that the High Court had factually determined that the appellant was indeed keeping the Shakkar for sale, and it saw no reason to overturn this finding.",
+          "More importantly, the Court addressed the legal question by assuming, for the sake of argument, that the appellant's claim was true (that he intended the Shakkar for manufacturing).",
+          "Even under this assumption, the Court found the appellant guilty.",
+          "The Court's reasoning was that the appellant's intention for the bulk of the product was irrelevant because he had already committed the prohibited act: he *sold* an adulterated article of food.",
+          "The sale of the sample to the Food Inspector was sufficient to constitute a \"sale\" under the Act, thereby triggering the offense.",
+          "The Court cited a precedent establishing that the seller's intention for the rest of the stock does not matter once a sale of an adulterated sample has been made to an inspector."
+        ],
+        "conclusion": "The Supreme Court rejected the defense, ruling that the intention to use an adulterated food item for manufacturing another product is irrelevant. The moment the appellant sold the adulterated sample to the Food Inspector, he committed an offense under the Act, regardless of his purpose for the remaining stock."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a sale of a food sample to a Food Inspector for the purpose of analysis qualifies as a 'sale' under Section 16(1) of the Prevention of Food Adulteration Act, 1954, thereby attracting liability if the food is found to be adulterated.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A Food Inspector purchased a sample of a food item (sugar or Shakkar) from a seller for the purpose of analysis.",
+          "The sellers argued that this transaction was not a true 'sale' because the item was not being sold 'as such' to the public, but was instead stored for use in manufacturing other products (like tea or Rab)."
+        ],
+        "law": [
+          "The relevant law is Section 16(1) of the Prevention of Food Adulteration Act, 1954, which penalizes the sale of adulterated food.",
+          "The Court referenced its prior decision in *The Food Inspector, Calicut Corporation v. Charukanttil Gopalan and another* as a binding precedent."
+        ],
+        "application": [
+          "The Court explicitly held that a sale to a Food Inspector for the purpose of analysis qualifies as a 'sale' within the meaning of the Act.",
+          "It reasoned that the seller's liability is not dependent on their original intention for the food item. It does not matter whether the food was kept for direct sale to the public or for use in manufacturing another product.",
+          "The Court further clarified that the person selling the sample does not need to be a 'dealer' in that specific food item, nor does the sample need to be taken from a larger quantity that was being kept for sale.",
+          "The crucial element is the act of selling the adulterated food item itself, which triggers the provisions of the Act."
+        ],
+        "conclusion": "The Supreme Court decided that the sale of a food sample to a Food Inspector for analysis is indeed a 'sale' under Section 16(1) of the Prevention of Food Adulteration Act, 1954. Therefore, if the sample is found to be adulterated, the seller is liable, regardless of whether the item was intended for direct public sale or if the seller was a regular dealer of that item."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the intention to use an adulterated article of food for manufacturing another product, rather than for direct sale, is a valid defense against a charge under the Prevention of Food Adulteration Act, 1954.",
+      "appellant_arguments": [
+        "The appellant argued that the adulterated 'Shakkar' was not stored for sale in its current form, but was kept for the purpose of manufacturing 'Rab' (another food product).",
+        "Therefore, since the 'Shakkar' itself was not intended for direct sale, the conviction for storing an adulterated food for sale was invalid."
+      ],
+      "respondent_arguments": [
+        "The respondent's argument, as supported by the court, is that Section 7 of the Act prohibits the storage of any adulterated food for sale, which includes storing it as a raw material for manufacturing another food product intended for sale."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a sale of a food sample to a Food Inspector for the purpose of analysis qualifies as a 'sale' under Section 16(1) of the Prevention of Food Adulteration Act, 1954, thereby attracting liability if the food is found to be adulterated.",
+      "appellant_arguments": [
+        "The text does not explicitly state the appellant's argument on this issue. The inferred argument is that a compulsory acquisition of a sample by a Food Inspector is not a commercial sale in the ordinary sense and should not be treated as a 'sale' that attracts liability under the Act."
+      ],
+      "respondent_arguments": [
+        "The text does not explicitly state the respondent's argument. The inferred argument is that the transaction, where the Food Inspector purchased the sample after paying its price, falls within the definition of a 'sale' under the Act, and treating it as such is necessary for the enforcement of the law."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "Section 7, Section 16, Section 2(xiii)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "The Food Inspector, Calicut Corporation v. Charukanttil Gopalan and another",
+        "citation": "[1971] 2 S.C.R. 322",
+        "principle": "A sale of an adulterated food article to a Food Inspector is a sale for the purposes of Section 16 of the Act. The seller is liable for conviction even if they are not a dealer in that article and even if the article sold was not taken from a larger quantity kept for sale.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Storing an adulterated food item with the intention of using it to manufacture another food product is considered 'storing for sale' under the law.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court held that storing an adulterated food item, even if it is intended to be used as a raw material for manufacturing another food product for sale, constitutes an offense under Section 7 of the Prevention of Food Adulteration Act, 1954. The court also affirmed, by following established precedent, that a compulsory sale of a food sample to a Food Inspector for analysis is a 'sale' within the meaning of the Act, thus attracting liability if the food is found to be adulterated.",
+    "legal_tests_applied": [
+      "Direct interpretation of Section 7 of the Prevention of Food Adulteration Act, 1954, which states: 'No P'\"rson shall himself or by any person on his behalf manufacture for sale, or store. sell or distribute--( i) which is adulterated...'",
+      "Application of precedent by following and applying the ratio of The Food Inspector, Calicut Corp&ration v. Charukanttil Gopalan and another, [1971] 2 S.C.R. 322, on the issue of what constitutes a 'sale' to a Food Inspector."
+    ],
+    "why_appellant_lost": [
+      "The appellant's contention that the adulterated 'Shakkar' was kept for manufacturing 'Rab' and not for direct sale was found to have no substance, as Section 7 of the Act explicitly prohibits the 'storage' for sale of any adulterated food, which includes storing it as a raw material for a product intended for sale.",
+      "The challenge regarding the nature of the sale to the Food Inspector was dismissed because the court found no reason to doubt the correctness of the established precedent in 'The Food Inspector, Calicut Corp&ration v. Charukanttil Gopalan and another', which holds that such a transaction is a 'sale' under the Act."
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld based on a plain reading of Section 7 of the Act, which makes it an offense to 'store' any adulterated food for sale, regardless of whether it is a final product or a raw material for another product.",
+      "The respondent's case was affirmed by the court's decision to follow and apply the existing legal precedent that a compulsory purchase by a Food Inspector qualifies as a 'sale' for the purposes of the Act."
+    ],
+    "policy_considerations": [
+      "The court's reasoning implicitly supports the public health objective of the Act, as reflected in the quoted text of Section 7(i), which prohibits the sale of adulterated items 'in the interest of public health'."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,54 @@
+{
+  "case_id": "3b0807d2-93a0-4c2f-b21e-4377acd7334c",
+  "tenant_id": "test_cheating",
+  "agent": "agent_4a_entity_extractor",
+  "input_refs": [
+    "role_tagged_graph.json"
+  ],
+  "created_at": "2026-03-19T16:51:04.202941+00:00",
+  "entities": [
+    {
+      "type": "actor",
+      "value": "accused",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_001"
+    },
+    {
+      "type": "actor",
+      "value": "victim",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_002"
+    },
+    {
+      "type": "object",
+      "value": "the money",
+      "source_node_ids": [
+        "n_005"
+      ],
+      "entity_id": "ent_003"
+    },
+    {
+      "type": "object",
+      "value": "the car",
+      "source_node_ids": [
+        "n_007",
+        "n_002",
+        "n_006",
+        "n_008"
+      ],
+      "entity_id": "ent_004"
+    },
+    {
+      "type": "object",
+      "value": "a car",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_005"
+    }
+  ]
+}

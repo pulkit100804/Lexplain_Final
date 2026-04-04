@@ -1,0 +1,38 @@
+{
+  "case_id": "4fca3cbf-18ee-4a79-a220-462fd1af0a99",
+  "tenant_id": "demo",
+  "agent": "agent_5a_legal_fact_normalizer",
+  "input_refs": [
+    "event_graph.json"
+  ],
+  "created_at": "2026-03-19T11:24:46.846565+00:00",
+  "legal_facts": [
+    {
+      "fact_id": "lf_001",
+      "type": "use_of_force",
+      "original_action": "attacked",
+      "mapped_from": "base_map",
+      "source_event_id": "evt_001",
+      "actor": "victim",
+      "target": "accused"
+    },
+    {
+      "fact_id": "lf_002",
+      "type": "causing_death",
+      "original_action": "died",
+      "mapped_from": "base_map",
+      "source_event_id": "evt_002",
+      "actor": "victim",
+      "target": null
+    },
+    {
+      "fact_id": "lf_003",
+      "type": "evidence_recovery",
+      "original_action": "recovered",
+      "mapped_from": "base_map",
+      "source_event_id": "evt_003",
+      "actor": null,
+      "target": null
+    }
+  ]
+}

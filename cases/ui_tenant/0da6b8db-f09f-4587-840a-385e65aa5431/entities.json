@@ -1,0 +1,76 @@
+{
+  "case_id": "0da6b8db-f09f-4587-840a-385e65aa5431",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_4a_entity_extractor",
+  "input_refs": [
+    "role_tagged_graph.json"
+  ],
+  "created_at": "2026-03-22T19:49:49.496112+00:00",
+  "entities": [
+    {
+      "type": "actor",
+      "value": "accused",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_001"
+    },
+    {
+      "type": "actor",
+      "value": "victim",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_002"
+    },
+    {
+      "type": "actor",
+      "value": "witness",
+      "source_node_ids": [
+        "n_002"
+      ],
+      "entity_id": "ent_003"
+    },
+    {
+      "type": "object",
+      "value": "wooden stick",
+      "source_node_ids": [
+        "n_007",
+        "n_002"
+      ],
+      "entity_id": "ent_004"
+    },
+    {
+      "type": "object",
+      "value": "and blood",
+      "source_node_ids": [
+        "n_007"
+      ],
+      "entity_id": "ent_005"
+    },
+    {
+      "type": "location",
+      "value": "the hospital",
+      "source_node_ids": [
+        "n_003"
+      ],
+      "entity_id": "ent_006"
+    },
+    {
+      "type": "location",
+      "value": "local shop",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_007"
+    },
+    {
+      "type": "time",
+      "value": "On the night of 12th August",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_008"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "procedural_history": {
+    "originating_court": "Jammu & Kashmir Preventive Detention Act, 1964",
+    "impugned_order": "Second detention order passed on August 20, 1969, under s. 14(1) of the Jammu & Kashmir Preventive Detention Act, 1964.",
+    "high_court_proceedings": "Not mentioned in the text.",
+    "supreme_court_posture": "Original Jurisdiction: Writ Petition No. 168 of 1969 filed under Article 32 of the Constitution of India, seeking a writ in the nature of habeas corpus."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "He is, therefore, ordered to be released forthwith unless required in some other connection."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a second detention order could be validly made except on some fresh material, as contemplated by s.14(2) of the Detention Act.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A person (the detenu) was being held under a detention order.",
+          "On August 20, 1969, the authorities revoked this first detention order.",
+          "On the very same day, a fresh detention order was passed against the same person.",
+          "The detenu was in continuous custody throughout this process, meaning he was never released between the revocation of the first order and the issuance of the second."
+        ],
+        "law": [
+          "The key legal provision was Section 14(2) of the Jammu & Kashmir Preventive Detention Act.",
+          "This section explicitly states that after a detention order is revoked or expires, a fresh detention order can be made against the same person only \"where fresh facts have arisen after the date of revocation or expiry\".",
+          "The Court affirmed its previous rulings in cases like *Hadbandhu Das v. District Magistrate, Cuttack*, which interpreted a similar provision to mean that a second detention order is only valid if it is based on new or additional material."
+        ],
+        "application": [
+          "The Court applied the strict requirement of Section 14(2) to the facts of the case.",
+          "It reasoned that since the first order was revoked and the second order was issued on the same day while the detenu was continuously in custody, it was impossible for any \"fresh facts\" to have arisen.",
+          "The State's argument that a second order could be made to correct a technical defect in the first was rejected because the statute's language is clear.",
+          "The Court stated that the law creates a bar against re-detention on the same grounds, and a person cannot be put in \"a second jeopardy\" without new information justifying it."
+        ],
+        "conclusion": "The Supreme Court concluded that the second detention order was invalid because it was not based on any fresh or additional material, which is a mandatory condition under Section 14(2) of the Act. Therefore, the detenu was entitled to be released."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the non-service of the order of detention as well as the order under s.8 (2) upon the detenu is fatal to his continued detention.",
+        "court_answer": "not_decided"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner challenged his detention on two main grounds.",
+          "The second ground was that the failure to serve the detention order and a related order under s.8(2) upon him was fatal to his continued detention."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court first considered the petitioner's other argument: that a second detention order could not be validly made without fresh material, as required by s.14(2) of the Detention Act.",
+          "The Court agreed with this first argument and found it sufficient to rule in the petitioner's favor."
+        ],
+        "conclusion": "Because the Court decided that the detenu was entitled to release based on the first issue (the lack of fresh material for the second detention order), it explicitly stated that it was not necessary to examine or decide the second issue regarding the non-service of the orders."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a second detention order could be validly made except on some fresh material, as contemplated by s.14(2) of the Detention Act.",
+      "appellant_arguments": [
+        "The second detention order was invalid because it was not based on any fresh material, as required by s.14(2) of the Detention Act.",
+        "Precedent cases make it incumbent upon the Government to base a new detention on fresh facts, not the old facts on which a previously revoked detention order was based."
+      ],
+      "respondent_arguments": [
+        "A fresh detention order could be passed without new material, citing the decision in Jagdev Singh v. State of Jammu & Kashmir as precedent."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the non-service of the order of detention as well as the order under s.8 (2) upon the detenu is fatal to his continued detention.",
+      "appellant_arguments": [
+        "The non-service of the formal order of detention and the order under s.8(2) upon the detenu is fatal to the legality of his continued detention."
+      ],
+      "respondent_arguments": [
+        "The gist of the detention orders was orally communicated to the detenu, which was sufficient."
+      ],
+      "court_acceptance": "not_decided"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Jammu & Kashmir Preventive Detention Act, 1964",
+        "section": "14(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Preventive Detention Act, 1950",
+        "section": "13(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Unnamed case cited as A.I.R. 1969 S.C. 43",
+        "citation": "A.I.R. 1969 S.C. 43",
+        "principle": "The implication of Section 13(2) of the Preventive Detention Act is that after a detention order is revoked or expires, a fresh order cannot be issued on the same grounds; fresh facts must be found.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kshetra Gogoi v. State of Assam",
+        "citation": "[1970] 2 S.C.R. 517",
+        "principle": "To affirm the view that under the corresponding sections of the preventive detention acts, the government must base a new detention order on fresh facts, not the old facts on which a prior revoked order was based.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Mohd. Shafi and Mohd. Yaqub v. State of Jammu & Kashmir",
+        "citation": "Writ Petition 183 of 1969",
+        "principle": "To affirm the view that under the corresponding sections of the preventive detention acts, the government must base a new detention order on fresh facts, not the old facts on which a prior revoked order was based.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "After a detention order is revoked or expires, a fresh detention order cannot be issued based on the same grounds on which the original order was made; there must be additional or fresh material available to the detaining authority.",
+    "obiter": [
+      "Under a different statutory scheme that does not contain a provision equivalent to s.14(2) of the Jammu & Kashmir Preventive Detention Act, a fresh detention order can be made on the same grounds as a prior one, unless the action is mala fide."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The clearest implication of Section 14(2) of the Detention Act is that after the revocation or expiry of a previous detention order, no fresh order may be issued based on the same grounds on which the original order was made. The detenu is entitled to release because the second order of detention could not be passed without there being additional or fresh material in the hands of the detaining authority, as contemplated by the statute.",
+    "legal_tests_applied": [
+      "The court applied a statutory interpretation of s.14(2) of the Jammu & Kashmir Preventive Detention Act, which creates a requirement for a new detention order to be based on fresh facts. The test is whether, after a prior detention order has been revoked or has expired, the government has new or additional material to justify a subsequent detention. The court noted, 'the inference is very compulsive that fresh facts must be found for new orders otherwise once the old detention comes to an end eithet by the expiry of the period of detention or by the cancellation i>f the order of detention, a fresh detention cannot be ordered.'",
+      "The court distinguished the precedent case of Jagdev Singh v. State of Jammu & Kashmir, which allowed a fresh order on the same grounds, by noting that the law in that case (Defence of India Rules) did not contain a provision equivalent to s.14(2) of the Jammu & Kashmir Act. This reinforces that the existence of the specific statutory provision is the controlling factor."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The revocation or expiry of a previous order cannot lead ipso facto to a revival of the detention by the passing of a fresh order, because a person who is entitled to his liberty can only be put in a second jeopardy when there are additional or fresh facts against him. This prevents the government from circumventing the finality of a revoked or expired detention by simply reissuing the order on the same old material."
+    ]
+  },
+  "evidence_map": {}
+}

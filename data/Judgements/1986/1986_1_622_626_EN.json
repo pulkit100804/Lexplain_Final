@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Lower Appellate Court",
+    "impugned_order": "Judgment and Order dated 5.9.1985 of the Patna High Court in Decree No. 300 of 1983",
+    "high_court_proceedings": "The Patna High Court passed a decree (No. 300 of 1983) which was challenged in the Supreme Court. The High Court's judgment is not described in detail, but it is implied that it overturned the Lower Appellate Court's decision and favored the landlord (Misri Lal) by allowing the eviction suit.",
+    "supreme_court_posture": "The tenant (Mohd. Salimuddin) appealed to the Supreme Court after the High Court overturned the Lower Appellate Court's decision. The Supreme Court allowed the appeal, set aside the High Court's judgment, and restored the Lower Appellate Court's judgment, dismissing the eviction suit. The Supreme Court agreed with the Lower Appellate Court's finding that the tenant was not in arrears of rent."
+  },
+  "decision": {
+    "appeal_result": "succeeds",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The judgment actd decree passed by the High Court are set aside and the judgment and decree of the lower Appellate Court are restored.",
+      "The suit for evictioJ!.. stands dismissed.",
+      "No costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the tenant was in arrears of rent.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The tenant advanced a loan of Rs. 2,000 to the landlord to secure a tenancy.",
+          "An agreement stipulated that this loan amount was to be adjusted against future rent.",
+          "The landlord filed an eviction suit, claiming the tenant was in arrears of rent.",
+          "The advanced loan amount was sufficient to cover the landlord's claim of arrears."
+        ],
+        "law": [
+          "The High Court had ruled that the loan was illegal as it violated Section 3 of the Bihar Rent Act, which prohibits such advance payments.",
+          "The Supreme Court noted that the purpose of this provision in the Rent Act was specifically to protect tenants from exploitation by landlords, especially in the context of housing shortages."
+        ],
+        "application": [
+          "The Supreme Court found the High Court's reasoning to be \"unsustainable.\"",
+          "It emphasized that the parties had unequal bargaining power; the landlord was in a dominant position and exploited the acute housing shortage.",
+          "The tenant was compelled to make the illegal payment to secure a home and was the party the law was designed to protect.",
+          "The Court reasoned that denying the tenant the right to adjust the loan against the rent would punish the victim (the tenant) and reward the oppressor (the landlord), which would defeat the entire purpose of the Rent Act's prohibition."
+        ],
+        "conclusion": "The Supreme Court concluded that the loan amount could be adjusted against the rent. Since the loan was sufficient to cover the alleged arrears, the tenant was not in arrears of rent. The Court therefore set aside the High Court's decision and restored the lower appellate court's judgment in favor of the tenant."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the tenant was in arrears of rent.",
+      "appellant_arguments": [
+        "The tenant was not in arrears of rent because they had previously advanced a sum of Rs. 2000 to the landlord.",
+        "There was an agreement stipulating that this loan amount was to be adjusted against any rent that accrued.",
+        "The advanced amount was sufficient to cover the landlord's claim of arrears."
+      ],
+      "respondent_arguments": [
+        "The tenant was in arrears of rent, justifying a suit for eviction."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Bihar Buildings (Lease, Rent & Eviction) Control Act",
+        "section": "3",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "V.S. Rabi and Anr. v. Smt. Ram Chambeli",
+        "citation": "[1984] 2 S.C.R. p. 290",
+        "principle": "The doctrine of pari delicto is not attracted when one of the parties is a victim of exploitation and the law was designed for their protection. The doctrine applies only when both parties have voluntarily and by their free will joined hands to flout the law for their mutual gain.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The doctrine of pari delicto is not attracted when one party is a victim of exploitation or acts under compulsion. The doctrine applies only when both parties have voluntarily and by their free will joined to flout the law for their mutual gain.",
+    "obiter": [
+      "The doctrine of pari-delicto is not designed to reward the 'wrong-doer', or to penalize the 'wronged', by denying the victim of exploitation access to justice.",
+      "Where a statute places the duty of observing the law on one party to protect the other, the protected person may recover what was illegally paid, even if the statute does not expressly provide this remedy."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The tenant was not in arrears of rent because the advance loan paid to the landlord had to be adjusted against the rent. The court rejected the application of the doctrine of 'pari delicto' (equal fault), which would prevent the tenant from claiming this adjustment due to the illegality of the loan under the Rent Act. The court found that the parties were not equally at fault; the tenant was an 'oppressed' party acting under the compulsion of an 'oppressor' landlord in a situation of acute housing shortage. The landlord was in a dominating position and the tenant had to yield to the unlawful demand to secure a tenancy.",
+    "legal_tests_applied": [
+      "The doctrine of pari delicto, which provides that a party to a transaction prohibited by law cannot enforce his claim in a court of law, is not attracted when the parties are not equally at fault.",
+      "An exception to the pari delicto doctrine exists where one party is a victim of oppression or exploitation by another who is in a dominating position. As stated, 'It can never be predicted as pari delicto where one holds the rod and the other bows to it'.",
+      "Where a contract is rendered illegal by a statute, the object of which is to protect one class of persons from another, the parties are not regarded as equally delictual, and the duty of observing the law is placed squarely upon the shoulders of the party from whom the other is protected."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It is a 'judicial sin' to treat the 'oppressor' and the 'oppressed' on a par, or to reward the oppressor and punish the oppressed whilst administering law designed to protect the oppressed.",
+      "The relevant provision prohibiting the payment of rent in advance embodied in the Rent Act was enacted precisely to protect the tenant from exploitation by landlords in the context of an acute housing shortage.",
+      "To deny access to justice to a tenant who is obliged to yield to the unlawful demands of the landlord by invoking the doctrine of pari delicto is to add insult to injury and to negate the very purpose of the provision designed for his protection.",
+      "The doctrine of pari-delicto is not designed to reward the 'wrong-doer', or to penalize the 'wronged', by denying to the victim of exploitation access to justice."
+    ]
+  },
+  "evidence_map": {
+    "citations.statutes[0].act_name": [
+      "p1_d242fc25",
+      "p1_95dc7fa6"
+    ]
+  }
+}

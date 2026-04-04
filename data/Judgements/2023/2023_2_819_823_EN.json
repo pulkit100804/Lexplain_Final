@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment and Order dated 04.05.2022 of the High Court of Punjab & Haryana at Chandigarh in CRM-M Nos. 54107 of 2021 and 8233 of 2022.",
+    "high_court_proceedings": "The accused, Aryan Singh and Gautam Cheema, filed discharge applications before the Trial Court, which were dismissed. Subsequently, the High Court, in exercise of powers under Section 482 Cr.P.C., quashed the entire criminal proceedings against the accused.",
+    "supreme_court_posture": "The Appellant (presumably the prosecution/state) approached the Supreme Court because they believed the High Court exceeded its jurisdiction by quashing the criminal proceedings and conducting a 'mini trial'."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The impugned common judgment and order passed by the High Court quashing and setting aside the criminal proceedings against the accused Aryan Singh and Gautam Cheema is/are quashed and set aside.",
+      "The accused to face the trial for which they are chargesheeted.",
+      "All the contentions and defences, which are available to the respective parties are kept open, to be considered by the learned Trial Court during the trial."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court exceeded its jurisdiction under Section 482 of the Code of Criminal Procedure, 1973, by conducting a 'mini trial' and quashing criminal proceedings on the grounds that the charges were not proved, at a pre-trial stage.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Central Bureau of Investigation (CBI) filed a chargesheet against two accused individuals after an investigation.",
+          "The accused filed discharge applications before the trial court, which were dismissed.",
+          "The accused then approached the High Court, which, exercising its powers under Section 482 of the Code of Criminal Procedure (Cr.P.C.), quashed the entire criminal proceedings.",
+          "The CBI appealed the High Court's decision to the Supreme Court."
+        ],
+        "law": [
+          "The inherent power of the High Court under Section 482 Cr.P.C. is very limited, especially at the pre-trial stage of discharge or quashing of proceedings.",
+          "At this stage, the court is not required to conduct a 'mini trial' or delve deeply into the evidence.",
+          "The court's role is only to determine if there is sufficient material to proceed against the accused for trial.",
+          "The prosecution is not required to prove the charges at the pre-trial stage; charges must be proved during the trial based on evidence.",
+          "The question of whether proceedings are malicious is to be considered at the conclusion of the trial, not at the stage of a Section 482 petition."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court had treated the matter as if it were conducting a full trial, which is impermissible under Section 482 Cr.P.C.",
+          "The High Court erred by observing that the charges against the accused were 'not proved.' The Supreme Court clarified that this is the incorrect standard, as proof is a matter for the trial stage.",
+          "The High Court also erred in concluding that the proceedings were malicious. The Supreme Court noted that since the investigation was handed over to the CBI by the High Court itself and a chargesheet was subsequently filed, it was improper to deem the proceedings malicious at this stage.",
+          "By going into the details of the allegations and the evidence, the High Court conducted a 'mini trial', thereby exceeding its limited jurisdiction."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court had exceeded its jurisdiction under Section 482 Cr.P.C. by conducting a 'mini trial' and quashing the proceedings on grounds that should be considered during a full trial. Therefore, the Supreme Court found the High Court's judgment to be unsustainable, quashed and set it aside, and directed the trial to proceed against the accused."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court exceeded its jurisdiction under Section 482 of the Code of Criminal Procedure, 1973, by conducting a 'mini trial' and quashing criminal proceedings on the grounds that the charges were not proved, at a pre-trial stage.",
+      "appellant_arguments": [
+        "The High Court exceeded its jurisdiction when it quashed the entire criminal proceedings against the accused."
+      ],
+      "respondent_arguments": [
+        "The respondents argued on the merits of the allegations, presenting defences that they contended were sufficient to justify the quashing of the proceedings."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "Section 482",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 226",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "At the stage of discharge or quashing of criminal proceedings under Section 482 of the Code of Criminal Procedure, a court has very limited jurisdiction and is not required to conduct a mini-trial. The court's role is only to consider whether sufficient material exists to proceed to trial, not to determine if the charges are proved, as proof is a matter to be established with evidence during the trial.",
+    "obiter": [
+      "While exercising power under Section 482 of the Code of Criminal Procedure, the High Court is not required to consider whether the proceedings are malicious or not."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court exceeded its limited jurisdiction under Section 482 of the Code of Criminal Procedure by delving into the merits of the case, as if it were conducting a 'mini trial', and quashing the criminal proceedings on the basis that the charges were not proved. This is an error because the question of proof is reserved for the trial stage, and at the pre-trial stage, the court's only role is to determine if there is sufficient material to proceed against the accused.",
+    "legal_tests_applied": [
+      "At the stage of discharge and/or while exercising the powers under Section 482 Cr.P.C., the Court has a very limited jurisdiction and is required to consider 'whether any sufficient material is available to proceed further against the accused for which the accused is required to be tried or not'."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The High Court improperly conducted a 'mini trial' by going into detail on the allegations and material collected during the investigation, which is beyond the scope of a Section 482 Cr.P.C. inquiry.",
+      "The High Court erred by concluding that the charges against the accused were 'not proved'. The stage for proving charges is during the trial, based on evidence, not at the pre-trial/quashing stage.",
+      "The High Court incorrectly determined that the initiation of criminal proceedings was malicious. This is a question to be considered at the conclusion of the trial, not at the preliminary stage, especially when the investigation was conducted by the CBI pursuant to a High Court order."
+    ],
+    "policy_considerations": [
+      "The distinct roles of the High Court at the quashing stage and the Trial Court must be maintained. The High Court's function is not to adjudicate on the ultimate truth or falsity of the allegations but to see if a prima facie case exists, leaving the detailed examination of evidence and the determination of proof to the trial process."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[1]": [
+      "p5_c2445900"
+    ]
+  }
+}

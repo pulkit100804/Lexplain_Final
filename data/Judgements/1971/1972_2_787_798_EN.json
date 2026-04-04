@@ -1,0 +1,216 @@
+{
+  "procedural_history": {
+    "originating_court": "The case originated as a Writ Petition (No. 218 of 1971) directly in the Supreme Court of India under Article 32 of the Constitution, seeking a writ in the nature of habeas corpus.",
+    "impugned_order": "The petitioner challenged the detention order dated January 16, 1971, issued under the West Bengal (Prevention of Violent Activities) Act 1970, and the subsequent order of the State Government under Section 12 of the Act confirming the report of the Advisory Board recommending detention for more than three months, which was passed on April 4, 1971, and communicated on August 26, 1971.",
+    "high_court_proceedings": "There were no High Court proceedings mentioned in the text. The case went directly to the Supreme Court.",
+    "supreme_court_posture": "The Supreme Court dismissed the petition, finding no illegality in the petitioner's detention."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the State Government is required to make an order confirming the detention within three months from the date of detention.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was detained under the Preventive Detention Act.",
+          "The petitioner contended that the State Government must not only receive the Advisory Board's report but also issue its own order confirming the detention within three months from the initial date of detention.",
+          "The State argued that neither the Constitution nor the Act specifies a three-month deadline for the government's confirmation order, only for the Advisory Board's report. They contended that confirmation could be done within a reasonable time after receiving the report."
+        ],
+        "law": [
+          {
+            "law_name": "Article 22(4) of the Constitution",
+            "description": "This article prohibits any law from authorizing the detention of a person for more than three months unless an Advisory Board has reported, within those three months, that there is sufficient cause for such detention."
+          },
+          {
+            "law_name": "Preventive Detention Act (Sections 11, 12, 13)",
+            "description": "The Act requires the Advisory Board to submit its report within ten weeks. If the Board finds sufficient cause, the State Government may confirm the detention order and continue the detention. The maximum period of detention (12 months) runs from the date of detention, following such confirmation."
+          }
+        ],
+        "application": [
+          "The Court interpreted Article 22(4) of the Constitution as establishing that any initial detention is tentative and limited to a maximum of three months.",
+          "To extend the detention beyond this three-month period, a positive action by the State Government is required. The mere receipt of a favorable report from the Advisory Board is not sufficient to automatically continue the detention.",
+          "The Court reasoned that this positive action—the confirmation of the detention order—must be taken within the initial three-month period. It held that it would be \"meaningless\" to confirm a detention after the three-month period has already expired, as the detention would have become illegal at that point.",
+          "The Court noted that the Act's timeline, which requires the Board to report within 10 weeks, was deliberately designed to give the government a two-week window to make its confirmation decision before the three-month constitutional deadline expires.",
+          "The Court concluded that the failure to confirm the detention within three months results in the detention becoming illegal the moment the three-month period has elapsed, and any subsequent confirmation cannot legalize it."
+        ],
+        "conclusion": "The Supreme Court accepted the petitioner's argument, holding that the State Government is required to make an order confirming the detention within three months from the date of detention. This confirmation is a mandatory requirement to legally extend the detention beyond the initial three-month period."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether an order confirming a detention must be communicated to the detenu.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          "The Court acknowledged that the specific Preventive Detention Act under consideration does not explicitly state that an order of confirmation must be communicated to the detenu."
+        ],
+        "application": [
+          "The Court reasoned that an order confirming detention, which has the significant effect of extending the period of detention beyond the initial mandatory three months, cannot simply be a subjective or mental act by the government.",
+          "It must be an objective action, recorded in writing. The Court found \"no warrant or justification\" for such an order to remain in government files without being communicated to the person most affected—the detenu.",
+          "The Court emphasized that the detenu is entitled to know that the Advisory Board has considered their representation and that the State Government has agreed with the Board's opinion that there is sufficient cause for their detention.",
+          "While the Court held that the communication is mandatory, it clarified that it does not need to happen within the first three months of detention. However, it must be communicated within a reasonable time.",
+          "The Court cited a previous decision in *Biren Dutta & Ors.*, which held that it is \"fair and just\" that such a decision be communicated to the detenu."
+        ],
+        "conclusion": "The Supreme Court concluded that although the Act does not explicitly require it, an order confirming a detenu's detention must be communicated to them. This is a matter of fairness and justice, as the person whose liberty is being curtailed is entitled to know the outcome of the review process."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a delay in communicating the confirmation order beyond the three-month period from the date of detention automatically renders the detention illegal.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The State Government's order confirming the detention was made within three months of the initial detention.",
+          "However, this confirmation order was communicated to the detainee (detenu) after the three-month period had expired.",
+          "The detainee did not allege or show that they had suffered any prejudice because of the delay in communication."
+        ],
+        "law": [
+          "The Court draws a clear distinction between the act of making the confirmation order and the act of communicating it.",
+          "The confirmation order itself must be made within three months from the date of detention.",
+          "There is no strict rule that the communication of the confirmation order must also occur within the same three-month period.",
+          "Communication of the order must be done within a \"reasonable time,\" which depends on the circumstances of each case.",
+          "A delay in communication is considered an \"irregularity\" but does not, by itself, make an otherwise legal detention illegal."
+        ],
+        "application": [
+          "The Court applied its distinction, noting that while the confirmation itself must be timely (within three months), the communication has a more flexible standard of \"reasonable time.\"",
+          "The Court found \"no justification\" for the argument that communication must also be within the three-month window.",
+          "Crucially, the Court considered the effect of the delay on the detainee. Since the detainee could not demonstrate any prejudice caused by the late communication, the Court did not find the detention to be illegal on this ground."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that a delay in communicating the confirmation order beyond the three-month period does not automatically render the detention illegal. The Court reasoned that while the confirmation itself must be made within three months, the subsequent communication only needs to be within a reasonable time, and a delay is treated as a mere irregularity unless the detainee can show they were prejudiced by it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the State Government is required to make an order confirming the detention within three months from the date of detention.",
+      "appellant_arguments": [
+        "The State Government must confirm the opinion of the Advisory Board and the detention order within three months from the date of the detention."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not detailed in the provided text."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether an order confirming a detention must be communicated to the detenu.",
+      "appellant_arguments": [
+        "The order confirming the detention must be communicated to the detenu."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not detailed in the provided text."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether a delay in communicating the confirmation order beyond the three-month period from the date of detention automatically renders the detention illegal.",
+      "appellant_arguments": [
+        "The confirmation order must be communicated to the detenu within the period of three months from the date of detention."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not detailed in the provided text, but their position would be that there is no such time limit for communication."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 22(4)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Preventive Detention Act",
+        "section": "Sections 11 and 12",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Preventive Detention Act",
+        "section": "Section 3(2)(c)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Cr. App. Nos. 217 to 233 of 1971",
+        "citation": "decided on 19-11-71",
+        "principle": "Where a specified time is provided for in Article 22(4) of the Constitution, the concept of reasonable time cannot be introduced in interpreting the provisions of Sections 11 and 12 of the Preventive Detention Act.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Aswini Kumar Banerjee v. The State & Ors.",
+        "citation": "1970-71 (Col. LXXV) Calcutta Weekly Notes 666",
+        "principle": "The confirmation of a detention order under Section 12(1) of the Preventive Detention Act must be made within three months from the date of detention.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Kaur Singh v. The State",
+        "citation": "A.I.R. 1952, Pepsu 134",
+        "principle": "The confirmation of a detention order under Section 12(1) of the Preventive Detention Act must be made within three months from the date of detention.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Dhadhal Jadav Valeg v. Saurashtra State",
+        "citation": "A.I.R. 1953 Sau.",
+        "principle": "The confirmation of a detention order under Section 12(1) of the Preventive Detention Act must be made within three months from the date of detention.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Umad Singh Narubha v. State",
+        "citation": "A.I.R. 1953, Sau. 51",
+        "principle": "The confirmation of a detention order under Section 12(1) of the Preventive Detention Act must be made within three months from the date of detention.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sangappa Mallappa Kadi & Ors. v. The State of Mysore & Ors.",
+        "citation": "A.I.R. 1959, Mysore 7",
+        "principle": "The confirmation of a detention order under Section 12(1) of the Preventive Detention Act must be made within three months from the date of detention.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In conformity with Article 22(4) of the Constitution, the confirmation of an Advisory Board's opinion to continue a detention beyond three months must be made within three months from the date of detention. This confirmation cannot be a subjective mental act but must be an objective action recorded in a written order, which must be communicated to the detenue.",
+    "obiter": [
+      "Where a specific time is provided for in Article 22(4) of the Constitution, the concept of reasonable time cannot be introduced in interpreting related statutory provisions.",
+      "The absence of an express time limit in the body of Section 12(1) of the Preventive Detention Act does not render the section invalid.",
+      "The liberty of the citizen is in question, and if the detention is intended to be continued, the appropriate authority should state so in clear and unambiguous terms."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "While the State Government is constitutionally required to make a written order confirming a detention within three months from the date of detention, and while that order must be communicated to the detenu as a matter of fairness, a delay in the communication of that order beyond the three-month period does not, by itself, render the detention illegal. The critical legal requirement is the timely making of the confirmation order, not its immediate communication.",
+    "legal_tests_applied": [
+      "Interpretation of Article 22(4) of the Constitution: The court interprets this clause as a strict mandate that any confirmation to continue detention beyond three months must be made within three months from the initial date of detention.",
+      "Interpretation of Section 11(1) of the Preventive Detention Act: The court reads this section in light of Article 22(4) to mean that the government's order of confirmation must be made within the three-month constitutional timeframe.",
+      "Principle of Natural Justice: The court holds that even without an express statutory provision, an order confirming detention must be communicated to the detenu because the person whose liberty is at stake is entitled to know the decision and the reasons for it."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the communication of the confirmation order must also happen within the three-month period was rejected. The court distinguished between the act of making the confirmation order, which is subject to the constitutional time limit, and the subsequent act of communicating it.",
+      "The court explicitly found that a 'delay in communication of the confirmation order under Section 11 ( 1 ) of the Preventive Detention Act could not render the detention illegal.'"
+    ],
+    "why_respondent_won": [
+      "The respondent's position prevailed because the court did not equate a delay in communicating the confirmation order with a violation of the constitutional mandate under Article 22(4).",
+      "The court's reasoning separates the legality of the detention, which hinges on the timely making of the confirmation order, from the procedural requirement of communication, a delay in which was found not to be fatal to the detention itself."
+    ],
+    "policy_considerations": [
+      "Liberty of the Citizen: The court emphasized that because a citizen's liberty is in question, any decision to continue a detention must be made in 'clear and unambiguous terms'.",
+      "Rights of the Detenu: The court established that a detenu has a right to be informed of the government's decision, stating, 'He is entitled to know that the Board had considered his representation as well as his personal submissions... and that it had been found that there was sufficient cause for his detention and that the State Government had ag!'tled with it.'",
+      "Preventing Secret Executive Action: The court rejected the notion that a confirmation could be a 'purely a mental act, a subjective one,' insisting it 'must result in an objective action namely that it should be recorded in writing.' It found 'no warrant or justification for an order confirming the detention... remaining in the files of the executive without the same being communicated to the person most concerned.'"
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[1].case_name": [
+      "p7_8f85633b"
+    ]
+  }
+}

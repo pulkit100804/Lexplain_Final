@@ -1,0 +1,134 @@
+{
+  "procedural_history": {
+    "originating_court": "Allahabad High Court",
+    "impugned_order": "Judgment and decree dated December 23, 1960 of the Allahabad High Court in Income-tax Misc. Case No. 475 of 1954.",
+    "high_court_proceedings": "The Allahabad High Court issued a judgment and decree on December 23, 1960, in Income-tax Misc. Case No. 475 of 1954.",
+    "supreme_court_posture": "The appellant appealed the Allahabad High Court's judgment and decree to the Supreme Court. The Supreme Court dismissed the appeal with costs, meaning the High Court's decision was upheld."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "with costs"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the loss computed for the assessment year 1950-51 could be carried forward to the next year under Section 24(2) of the Income-tax Act, 1922.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "In the assessment year 1950-51, the assessee suffered a loss.",
+          "The Income-tax Officer (ITO) who computed this loss declared that it could not be carried forward to the next year under Section 24(2) because it was not a business loss.",
+          "The assessee did not appeal this specific declaration at that time.",
+          "In the following year, 1951-52, the assessee had profits and sought to set off the loss from the previous year against them."
+        ],
+        "law": [
+          "Under Section 24(2) of the Income-tax Act, 1922, an assessee has a statutory right to carry forward a loss from a business, profession, or vocation to the following year and set it off against profits from the same business, profession, or vocation.",
+          "The authority to determine whether a loss from a previous year can be set off against the profits of a subsequent year rests with the Income-tax Officer who is dealing with the assessment of that subsequent year."
+        ],
+        "application": [
+          "The Supreme Court reasoned that the decision made by the ITO for the 1950-51 assessment (the year of the loss) was not binding on the assessee.",
+          "It is the responsibility of the ITO handling the assessment for the subsequent year (1951-52) to decide if the prior year's loss can be set off against that year's profits.",
+          "Therefore, the assessee's failure to appeal the initial ITO's declaration did not prevent them from claiming the set-off in the following year."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the loss could not be carried forward. It held that the decision by the Income-tax Officer in the year the loss occurred was not final; the determination of whether to allow the set-off must be made by the officer assessing the subsequent year in which the profits were earned."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "What is the requisite nature or extent of control to establish the relationship of employer and employee?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The Court examined and contrasted two different agreements between banks and their Treasurers.",
+          "In one prior case (Piyare Lal), the bank had direct control and supervision over the Treasurer and his staff. The bank had to approve staff appointments, could require dismissals, and could terminate the agreement for any breach. This Treasurer was found to be an employee.",
+          "In the case under consideration, the agreement gave the Treasurer control over his own staff (hiring, suspension, dismissal). The bank had no covenant authorizing it to control or supervise the Treasurer in the performance of his duties. The Treasurer was responsible for any losses caused by his staff but was independent in how he managed them."
+        ],
+        "law": [
+          "The primary test to determine an employer-employee relationship is the existence of a 'right of control' by the employer regarding the manner in which the work is to be done.",
+          "A distinction is made between a 'contract of service' (employee) and a 'contract for service' (independent contractor). In a 'contract of service', the employer can order not only what is to be done, but also how it shall be done.",
+          "This determination is a question of fact based on all the circumstances of the case; no precise rule can be laid down.",
+          "The greater the direct control exercised over the person performing the services, the stronger the grounds for finding an employer-employee relationship. Conversely, greater independence suggests a contract for professional services."
+        ],
+        "application": [
+          "The Court applied the 'right of control' test to the facts of the case being decided.",
+          "It found that the bank did not have the right to control or supervise the Treasurer in the execution of his duties. The Treasurer, not the bank, had control over the cash department staff.",
+          "The Treasurer's responsibility to make good any financial losses was seen as a feature of his contractual obligations, not as evidence of the bank's control over his methods.",
+          "By contrasting this with the prior case where the bank had significant control over staffing and could summarily dismiss the Treasurer, the Court highlighted the absence of such control in the present case."
+        ],
+        "conclusion": "The Court decided that the requisite control to establish an employer-employee relationship is the right to direct not only what work is to be done, but also the manner in which it is done. Because the bank in this case lacked the contractual right to control or supervise the Treasurer's performance and management of his staff, the relationship was a 'contract for service,' and the Treasurer was not an employee of the bank."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the loss computed for the assessment year 1950-51 could be carried forward to the next year under Section 24(2) of the Income-tax Act, 1922.",
+      "appellant_arguments": [
+        "The appellant (Revenue) implicitly argued that the loss could not be carried forward because the assessee's income was from salary as an employee, not from a profession against which such a loss could be set off."
+      ],
+      "respondent_arguments": [
+        "The respondent (assessee) argued that the remuneration received as Treasurer was income from a profession or vocation under Section 10 of the Act, and therefore the loss from the preceding year could be set off against it."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "What is the requisite nature or extent of control to establish the relationship of employer and employee?",
+      "appellant_arguments": [
+        "The appellant (Revenue) contended that the Treasurer was merely a servant (employee) of the Bank, citing previous cases where individuals in similar roles were held to be servants."
+      ],
+      "respondent_arguments": [
+        "The respondent (assessee) argued that he was not a servant of the bank but an independent contractor pursuing a profession or vocation."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "the Act",
+        "section": "s. 10",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Dharangadhara Chemical Works Ltd. v. State of Saurashtra",
+        "citation": "[1955] I S.C.R. 1427",
+        "principle": "The provided text does not state the specific legal principle, only that the Court 'observed' a point from this case before the text cuts off.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Unless the terms of two contracts and the circumstances in which they are made are identical, the interpretation of one contract cannot be regarded as a guide for determining the intention of parties to another contract.",
+    "obiter": [
+      "The liability imposed under that covenant was not one of universal application and that there were many contracts in which the master could not control the manner in which the work was done."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the assessee, in his role as Treasurer for the Bank, was not an employee but an independent contractor engaged in a profession or vocation. This determination was based on the interpretation of the agreement between the parties, which lacked the requisite control and supervision by the Bank over the Treasurer's work. Consequently, the remuneration received was not a salary, and the business loss from the preceding year could be carried forward and set off against it.",
+    "legal_tests_applied": [
+      "The primary test to distinguish between a contract of service (employee) and a contract for services (independent contractor) is the nature and extent of control the employer has over the person's work. This was established in Dharangadhara Chemical Works Ltd. v. State of Saurashtra."
+    ],
+    "why_appellant_lost": [
+      "The court found no covenant in the agreement which either expressly or impliedly conferred upon the Bank the kind of control and supervision over the Treasurer's work that would establish an employer-employee relationship.",
+      "The court determined that expressions in the agreement such as \"serve the Bank\" and \"in the service of the Bank\" were not decisive on their own and had to be interpreted within the broader context of the other covenants, which pointed away from an employment relationship."
+    ],
+    "why_respondent_won": [
+      "The agreement was not liable to summary determination; termination required a three-month notice from either side, which is inconsistent with a typical master-servant relationship.",
+      "The agreement did not terminate upon the death of the assessee. The continuation of obligations and the right to remuneration for future transactions indicated that the arrangement was for the 'office of the Treasurer' as an ongoing concern, not a contract for personal service.",
+      "The Treasurer's duties, liabilities, and responsibilities were defined as those that \"either by custom or contract usually devolve on a Treasurer,\" rather than being subject to the direct, day-to-day control of the Bank."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p2_41a61cc3"
+    ]
+  }
+}

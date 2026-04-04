@@ -1,0 +1,60 @@
+{
+  "case_id": "d10130e5-38f0-4d53-8cde-1e23e06ab3f6",
+  "tenant_id": "test_run_2",
+  "agent": "agent_2_segmentation",
+  "input_refs": [
+    "normalized_text.txt"
+  ],
+  "created_at": "2026-03-20T05:37:37.633909+00:00",
+  "nodes": [
+    {
+      "node_id": "n_001",
+      "text": "During a heated argument, the accused picked up a wooden stick and hit the victim on the head.",
+      "span": {
+        "start": 0,
+        "end": 94
+      }
+    },
+    {
+      "node_id": "n_002",
+      "text": "The victim collapsed and later died in the hospital.",
+      "span": {
+        "start": 95,
+        "end": 147
+      }
+    },
+    {
+      "node_id": "n_003",
+      "text": "No prior enmity was reported.",
+      "span": {
+        "start": 148,
+        "end": 177
+      }
+    },
+    {
+      "node_id": "n_004",
+      "text": "A witness stated the accused acted in anger.",
+      "span": {
+        "start": 178,
+        "end": 222
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_001",
+      "target": "n_002",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_002",
+      "target": "n_003",
+      "relation": "sequential"
+    },
+    {
+      "source": "n_003",
+      "target": "n_004",
+      "relation": "sequential"
+    }
+  ]
+}

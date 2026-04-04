@@ -1,0 +1,143 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a lower court within the jurisdiction of the Bombay High Court.",
+    "impugned_order": "Judgment and order dated August 31, 1965, of the Bombay High Court in Civil Revision Application No. 1263 of 1961.",
+    "high_court_proceedings": "The Bombay High Court made a judgment in exercise of its revisional jurisdiction.",
+    "supreme_court_posture": "The Union of India appealed to the Supreme Court by special leave after the High Court's decision. The Supreme Court ultimately dismissed the appeal with costs."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The appeal is dismissed with costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the burden of proving that the market value of an insured article on the date of posting was different from the declared value lies on the insurer.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A parcel of gold coins was insured for Rs. 2500 but was lost in transit.",
+          "The insurer (the postal department) denied the claim, arguing the declared value was not the actual market value.",
+          "The insured (the respondent) had stated in their plaint that the value was slightly less than Rs. 2500."
+        ],
+        "law": [
+          "The Supreme Court, agreeing with the High Court, held that on general principles, the burden of proof lies with the insurer."
+        ],
+        "application": [
+          "It was the insurer's responsibility to provide evidence showing that the market value of the gold on the date of posting was not the declared value of Rs. 2500.",
+          "The Court found that the insurer had failed to present any evidence regarding the prevailing market rate of gold on that date.",
+          "The fact that the insured person had stated a slightly lower value in their plaint was not considered sufficient to absolve the insurer from its duty to prove the declared value was incorrect."
+        ],
+        "conclusion": "The Supreme Court decided that the burden of proving that the market value of an insured article on the date of posting was different from the declared value lies on the insurer."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a slight discrepancy between the declared value of an insured article and its actual market value is sufficient to absolve the insurer from liability.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A firm purchased gold coins for Rs. 2465-14-0.",
+          "After adding costs and a 1% profit, the total value came to Rs. 2499-11-6.",
+          "The firm insured the parcel containing the gold for a round figure of Rs. 2500.",
+          "The parcel was lost in transit, and the firm filed a suit for compensation.",
+          "The insurer (Union of India) denied liability, arguing that the declared value (Rs. 2500) was not the 'actual value' of the contents, thus voiding the insurance contract."
+        ],
+        "law": [
+          "The purpose of the rule requiring a declaration of value is to prevent fraud and ensure the insured does not receive more compensation than the market value.",
+          "This rule is not intended to void a policy due to an innocent and insignificant misstatement of the actual value.",
+          "The burden of proof is on the insurer to show that the declared value was not the market value on the date of posting."
+        ],
+        "application": [
+          "The Court reasoned that accepting the insurer's argument would lead to the absurd result that a discrepancy of even one paise would deprive the insured of all compensation, which could not have been the legislature's intent.",
+          "It acknowledged the practical difficulty of ascertaining the exact market value of a commodity like gold, whose price fluctuates constantly.",
+          "The Court held that as long as the declared value is 'approximately the same as the market value,' an insurer cannot deny a claim based on an 'insignificant difference.'",
+          "In this case, the insurer failed to provide any evidence that the declared value of Rs. 2500 was not the actual market rate on the day the parcel was posted. The mere fact that the insured claimed a slightly lower amount in the suit was not sufficient proof."
+        ],
+        "conclusion": "The Supreme Court concluded that a slight and innocent discrepancy between the declared value and the actual market value is not sufficient to absolve the insurer from liability. The insurer must prove that the declared value was not the market value, and an insignificant difference will not invalidate the insurance."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the burden of proving that the market value of an insured article on the date of posting was different from the declared value lies on the insurer.",
+      "appellant_arguments": [
+        "The appellant (Union of India) implicitly argued that the burden was not on them, as the respondent's own admissions in the plaint regarding the purchase price and the value of the gold were sufficient to prove a discrepancy and absolve the insurer of liability."
+      ],
+      "respondent_arguments": [
+        "The burden of proving that the declared value was not the actual market value on the date of posting lies strictly with the insurer. The insurer must lead evidence to prove it has been discharged from liability due to misrepresentation or incorrect statements."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a slight discrepancy between the declared value of an insured article and its actual market value is sufficient to absolve the insurer from liability.",
+      "appellant_arguments": [
+        "The appellant (Union of India) argued that since there was a discrepancy between the declared value (Rs. 2500) and the actual value, as evidenced by the purchase price (Rs. 2465-14-0) and the amount claimed in the plaint (Rs. 2474-15-6), the respondent firm was not entitled to any compensation."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the mere fact that they were under the impression or had stated in the plaint that the value was less than the declared Rs. 2500 was not sufficient to absolve the insurer from its responsibility."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Act (unnamed in text)",
+        "section": "Section 6",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (unnamed in text)",
+        "section": "Section 30",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act (unnamed in text)",
+        "section": "Section 33",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Halsbury's Laws of England",
+        "citation": "III Edition, Vol. 22, Article 429, at page 227",
+        "principle": "The burden is on the insurer to show that the policy is no longer subsisting or that there has been a breach of a condition which relieves the insurer from liability.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Statutory provisions and rules regarding insurance declarations must be interpreted reasonably, such that an innocent and insignificant misstatement by the insured of an article's market value does not result in the insured being wholly disentitled to compensation. The burden is on the insurer to prove a breach of condition that relieves it from liability.",
+    "obiter": [
+      "The purpose of rules requiring a declaration of market value is to prevent the insured from making a declaration in excess of the market value for fraudulent purposes.",
+      "It is well known that the market for certain articles fluctuates from day to day and hour to hour, making it sometimes impossible for an insured person to know the exact market value at the time of posting."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The statutory provisions and rules governing postal insurance must be construed in a reasonable manner. The burden of proving that the declared value of an insured article differs from its actual market value on the date of posting lies with the insurer. Furthermore, an interpretation that would deprive an insured of all compensation due to an innocent and insignificant discrepancy between the declared and market value is unreasonable and could not have been the intent of the legislature, as it would lead to a startling and absurd result.",
+    "legal_tests_applied": [
+      "Reasonable Construction of Statutes: 'The statutory provisions of the Act and the rules have to be construed and read in a reasonable manne.r.'",
+      "Burden of Proof in Insurance Law: The court applied the general principle that 'the burden is on the insurer of showing that the policy is no longer subsisting or that there had been a breach of such a condition which relieves the insurer from liability.'"
+    ],
+    "why_appellant_lost": [
+      "The appellant (insurer) failed to discharge its burden of proof, as 'no evidence df a_ny kinJ regarding the market rate of gold preva1hng on the date of posting was on record.'",
+      "The appellant's interpretation of the rules was rejected as unreasonable because it 'would mean that where a person dec\\ares a value which varies even by one paise from the market value on the date and at the place of posting the insured would be deprived of the compensation for the Joss of the article. That could never have been in the contemplation of the legislature and the rule making authority.'"
+    ],
+    "why_respondent_won": [
+      "The court accepted the general principle of insurance law that 'it was for the insurer to prove that it had been discharged from the liability because of fraud, misrepresentation, mistake or incorrect statements made by the insured and the burden had to be strictly discharged by the insurer.'",
+      "The court held that the rules cannot mean that 'any innocent and insignificant mis-statement by the insured of the actual value which has to be the market value on a particular date and at the place of posting can lead to the startling result that he becomes wholly disentitled to receive any compensation.'"
+    ],
+    "policy_considerations": [
+      "The purpose of the valuation rules is 'to ensure that the insured should not make a declaration in excess of the market value so as to avoid fraudulent dealings,' not to punish innocent and insignificant errors.",
+      "The court recognized the practical difficulty of determining the precise market value of a fluctuating commodity, stating, 'It is well known that the market in articles like gold and bullion exists only in large :towns and the values fluctuates from day to day and from hour. to hour. It may be sometimes impossible for...'"
+    ]
+  },
+  "evidence_map": {}
+}

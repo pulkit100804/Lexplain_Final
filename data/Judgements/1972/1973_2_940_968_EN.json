@@ -1,0 +1,161 @@
+{
+  "procedural_history": {
+    "originating_court": "The case originated directly in the Supreme Court of India under Article 32 of the Constitution, which grants the Supreme Court original jurisdiction to enforce fundamental rights.",
+    "impugned_order": "The petitioners challenged the order dated 13 May 1971 made under Section 4(1) of the General Insurance (Emergency Provisions) Ordinance 1971 and the directions dated 13 May 1971 given under Section 4(3) of the same Ordinance.",
+    "high_court_proceedings": "There were no High Court proceedings mentioned in the text. The case went directly to the Supreme Court.",
+    "supreme_court_posture": "The Supreme Court initially dismissed the writ petition with costs, implying a ruling in favor of the respondent. However, the text also indicates that the petitioners succeeded, and the court quashed the orders dated 13 May 1971 and issued a mandamus. This suggests a split decision or a subsequent review where the petitioners' arguments were ultimately accepted by a majority."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Quashing the orders dated 13 May 1971 being Exhibits 'K' and 'L' to the petition.",
+      "A mandamus will also go requiring the respondents to forbear from acting on and giving effect to the two orders.",
+      "Parties will pay and bear their own costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the petitioners, as shareholders, have the locus standi to challenge the state action.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioners in the case include a company and two of its shareholders and directors.",
+          "The government challenged the locus standi (the right to bring a case) of the shareholders, arguing that the state action was against the company, not them directly.",
+          "This situation was similar to a precedent case, R. C. Cooper v. Union of India, also known as the Bank Nationalisation case, where the petitioner was also a shareholder and director."
+        ],
+        "law": [
+          "The Court relied on the ruling from the Bank Nationalisation case.",
+          "The key principle from that case is that a court should not deny relief to shareholders based on a 'technical objection' when a state action impairs the rights of both the company and its shareholders.",
+          "A shareholder does not lose their individual fundamental rights simply by being a shareholder.",
+          "The test for determining if a shareholder's right is impaired is 'qualitative,' not formal. It assesses whether the state action directly affects the company in which the petitioner is a shareholder."
+        ],
+        "application": [
+          "The Court reasoned that shareholders own property and conduct business through the medium of the company.",
+          "Therefore, when a state action or legislative measure impairs the rights of the company, it also impairs the fundamental rights of the shareholders by affecting their investment.",
+          "The Court applies a 'qualitative test' which equates the shareholders' rights with the company's rights in this context.",
+          "Because the state action in this case directly touched the company, it consequently affected the shareholders, giving them the right to challenge it."
+        ],
+        "conclusion": "The Supreme Court concluded that the petitioners, as shareholders, have the locus standi to challenge the state action. It held that when a state action impairs the rights of a company, it also impairs the fundamental rights of its shareholders, and the court will not deny jurisdiction to grant them relief."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the challenge to sections 2(e) and 15(a) of the Act, based on Article 14 of the Constitution, is valid.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner, Neptune Assurance, challenged sections 2(e) and 15(a) of the Act, arguing they violated Article 14 of the Constitution.",
+          "The petitioner argued that section 2(e) created two arbitrary classes of insurance companies: those whose registration was cancelled for more than six months before the appointed day, and those (like the petitioner) whose registration was cancelled for less than six months.",
+          "The petitioner contended that this temporal difference was not a valid reason for treating the two classes differently.",
+          "The respondents (the government) argued that the Act was protected from an Article 14 challenge by Article 31A(b) and (d) of the Constitution."
+        ],
+        "law": [
+          "Article 14 of the Constitution guarantees the right to equality before the law.",
+          "Article 31A of the Constitution provides protection to certain laws from challenges based on fundamental rights, including Article 14."
+        ],
+        "application": [
+          "The Supreme Court directly addressed the petitioner's challenge based on Article 14.",
+          "The Court concluded that the \"attack based on Art. 14 cannot succeed\" and that the challenge \"must fail.\"",
+          "Because the Court rejected the Article 14 challenge on its own merits, it found it unnecessary to consider the respondents' alternative argument that the Act was protected by Article 31A."
+        ],
+        "conclusion": "The Supreme Court rejected the challenge to sections 2(e) and 15(a) of the Act. It held that the challenge based on Article 14 of the Constitution failed on its merits, making it unnecessary to decide whether the Act was also protected by Article 31A."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the respondents' contention based on Article 31A(b) and (d) of the Constitution should be considered.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioners challenged certain provisions of an Act, arguing they violated Article 14 of the Constitution.",
+          "The respondents countered this argument by contending that the Act was protected from such a challenge by Article 31A(b) and (d) of the Constitution."
+        ],
+        "law": [],
+        "application": [
+          "The Court first addressed the petitioners' primary challenge, which was based on Article 14.",
+          "The Court concluded that this \"attack\" based on Article 14 could not succeed on its own merits."
+        ],
+        "conclusion": "Since the petitioners' challenge under Article 14 failed, the Court found it unnecessary to deal with the respondents' defensive contention regarding the protection offered by Article 31A(b) and (d)."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the petitioners, as shareholders, have the locus standi to challenge the state action.",
+      "appellant_arguments": [
+        "The petitioners, as shareholders, have the standing to challenge the state action and invoke fundamental rights."
+      ],
+      "respondent_arguments": [
+        "The petitioner company could not invoke fundamental rights."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the challenge to sections 2(e) and 15(a) of the Act, based on Article 14 of the Constitution, is valid.",
+      "appellant_arguments": [
+        "The Act offended Article 14 of the Constitution."
+      ],
+      "respondent_arguments": [
+        "The petitioner company could not invoke fundamental rights."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the respondents' contention based on Article 31A(b) and (d) of the Constitution should be considered.",
+      "appellant_arguments": [],
+      "respondent_arguments": [
+        "Article 31A(1)(d) applied because the legislative measures modified the rights of the managing agents."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Act",
+        "section": "2(e)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Act",
+        "section": "15(a)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 14",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A shareholder has the legal standing to seek protection of their fundamental rights when a legislative measure directly impairs the rights of the company. When interpreting such a measure, courts must give full effect to the precise words used by the legislature and cannot substitute those words with different terms from other statutes, as the legislature is presumed to know and intend the distinction.",
+    "obiter": [
+      "Opinions on whether the legislative measures violated Article 14 or were protected by Article 31A of the Constitution are not binding, as the court found it unnecessary to rule on these contentions to reach its decision."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The petitioners succeeded because the court concluded that the challenged Ordinance and Act did not apply to the petitioner company. The court accepted the petitioners' argument that because the company's business was being voluntarily wound up at all material times, it fell outside the scope of the legislative measures. This finding on statutory applicability was the basis for the decision, making it unnecessary for the majority to express an opinion on the constitutional challenges based on Article 14 and Article 31A.",
+    "legal_tests_applied": [
+      "For determining shareholder locus standi, the court applied the principle from the Bank Nationalisation case: the court will not, 'concentrating merely upon the technical objection of the action, deny itself jurisdiction to grant relief to the shareholders when the rights of shareholders as well as of the company are impaired.'",
+      "For evaluating the challenge under Article 14, the court assessed whether the legislative classification was based on a 'meaningful and intelligible differentia' that has a 'rational relation' to the object of the statute and is not 'arbitrary, whimsical or illusory.'"
+    ],
+    "why_appellant_lost": [
+      "Although the appellants (petitioners) ultimately won the case, their specific challenge based on Article 14 of the Constitution was rejected. The reasoning was that the classification made by the Act was not arbitrary as it was based on a 'meaningful and intelligible differentia' which had a 'rational relation' to the legislative objective."
+    ],
+    "why_respondent_won": [
+      "Although the respondents ultimately lost the case, they succeeded in defending the constitutionality of the Act against the challenge under Article 14. The court found that the legislative classification was valid because the 'differentia has got rational relation' to the object of the Act and was not 'arbitrary, whimsical or illusory.'"
+    ],
+    "policy_considerations": [
+      "The court prioritized substantive justice for shareholders over procedural technicalities, affirming that 'a shareholder is entitled to protection of fundamental rights. That individual right of a shareholder is not lost by reason of the fact that he is a shareholder.' The court will look past the corporate veil to grant relief when a state action impairs the rights of both the company and its shareholders."
+    ]
+  },
+  "evidence_map": {}
+}

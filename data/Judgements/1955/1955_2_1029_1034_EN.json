@@ -1,0 +1,109 @@
+{
+  "procedural_history": {
+    "originating_court": "Civil Judge (inferred from the text: \"The order of the High Court is set aside and that of the Civil Judge restored.\")",
+    "impugned_order": "Judgment and Order dated the 7th September, 1955, of the Nagpur High Court, in Civil Revision No. 833 of 1954.",
+    "high_court_proceedings": "The Nagpur High Court heard Civil Revision No. 833 of 1954 and issued an order on September 7, 1955. The Supreme Court overturned this order, implying the High Court ruled against the eventual appellant.",
+    "supreme_court_posture": "The case reached the Supreme Court via a special leave appeal. The Supreme Court allowed the appeal, set aside the High Court's order, and restored the order of the Civil Judge. This indicates the Supreme Court sided with the appellant."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The appeal is allowed with costs here and in the High Court.",
+      "The order of the High Court is set aside.",
+      "The order of the Civil Judge is restored."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the rule requiring a candidate to state their occupation in the nomination paper is mandatory in character, such that a failure to comply is a substantial defect that invalidates the nomination.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, a candidate for President of a Municipal Committee, used an old nomination form provided by the committee.",
+          "This old form required the candidate to state their caste, which the appellant did.",
+          "However, a new rule had been enacted requiring candidates to state their occupation instead of their caste.",
+          "An objection was raised that the appellant's failure to state their occupation was a fatal defect that invalidated the nomination.",
+          "The High Court agreed with this objection, holding that failure to comply with the rule was fatal."
+        ],
+        "law": [
+          "The Court's decision was guided by Section 23 of the Central Provinces and Berar Municipalities Act, which states that an election should not be invalidated for any \"defect or irregularity not affecting the merits of the case\".",
+          "The Court established the principle that rules can be either \"vital\" (mandatory) or \"directory\" (a formality).",
+          "A breach of a directory rule can be overlooked if there is substantial compliance and no prejudice, whereas a breach of a vital rule is fatal."
+        ],
+        "application": [
+          "The Court applied the test from Section 23, asking whether the omission to state an occupation affects \"the merits of the case.\"",
+          "It reasoned that a candidate's occupation is not a qualification for the office of President and is merely part of the candidate's description for identification purposes.",
+          "The Court concluded that as long as the candidate could be identified beyond doubt, the failure to state an occupation did not go to the \"root of the matter.\"",
+          "It rejected the argument that the occupation was needed to check for disqualifications (like holding an office of profit), noting that a general description like \"service\" would not necessarily reveal such a disqualification anyway.",
+          "Therefore, the Court classified the rule as directory, meaning a failure to comply was a technicality that could be overlooked."
+        ],
+        "conclusion": "The Supreme Court concluded that the rule requiring a candidate to state their occupation in the nomination paper is directory, not mandatory. The failure to comply was not a substantial defect affecting the merits of the case, and therefore, it did not invalidate the nomination."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the rule requiring a candidate to state their occupation in the nomination paper is mandatory in character, such that a failure to comply is a substantial defect that invalidates the nomination.",
+      "appellant_arguments": [
+        "The word 'may' in the relevant rule should be interpreted as having the force of 'shall', making the provision mandatory."
+      ],
+      "respondent_arguments": [
+        "The failure to comply with the rule is an unsubstantial technicality and not a defect of a substantial character that would invalidate the nomination."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Central Provinces and Berar Municipalities Act (II) of 1922",
+        "section": "18",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Central Provinces and Berar Municipalities Act (II) of 1922",
+        "section": "23",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Punjab Co-operative Bank Ltd., Amritsar v. Income-Tax Officer, Lahore",
+        "citation": "[1940] L.R. 67 I.A. 464",
+        "principle": "Some rules are vital (mandatory) and must be obeyed exactly, while others are merely directory, and a breach can be overlooked provided there is substantial compliance and no prejudice ensues. When the legislature does not make a clear distinction, it is the duty of the court to sort one class from the other.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Some rules are vital and mandatory, while others are merely directory. When a statute does not specify, it is the duty of the court to determine whether a rule is mandatory or directory by prioritizing substance over form. A breach of a directory rule may be overlooked, provided there is substantial compliance with the rules as a whole and no prejudice ensues, especially when the governing Act provides that a defect not affecting the merits of the case shall not invalidate the proceedings.",
+    "obiter": [
+      "It is the substance that counts and must take precedence over mere form.",
+      "It is a well settled general rule that an absolute enactment must be obeyed or fulfilled exactly, but it is sufficient if a directory enactment be obeyed or fulfilled substantially.",
+      "Courts can derive no assistance from decisions that deal with other laws made in other countries to deal with situations that do not necessarily arise in India."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The rule requiring a candidate to state their occupation on a nomination form is merely directory, not mandatory. An omission to state one's occupation is not a defect that affects the merits of the case, as the requirement is only part of the candidate's description and does not go to the root of the matter, provided the candidate can be identified beyond doubt from the rest of the information.",
+    "legal_tests_applied": [
+      "Whether an omission or defect affects 'the merits of the case' as per section 23 of the Central Provinces and Berar Municipalities Act.",
+      "Whether a rule is 'vital and go[es] to the root of the matter' (mandatory) or 'only directory' where a breach can be overlooked if there is substantial compliance and no prejudice ensues."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The court determined that the failure to state an occupation does not affect 'the merits of the case' under section 23 of the Act, using the example that a person with no occupation could leave the field blank without any substantive difference.",
+      "The requirement to state an occupation is considered 'only directory and is part of the description of the candidate; it does not go to the root of the matter so long as there is enough material in the paper to enable him to be identified beyond doubt.'",
+      "The court rejected the argument that the occupation was needed to check for disqualification (e.g., holding an office of profit), reasoning that a candidate could state their occupation in general terms like 'service' which would not reveal such a disqualification, and that the form does not require disclosure of other potential disqualifications anyway.",
+      "The court held that the rules cannot travel beyond the Act, and therefore the controlling test is section 23's 'merits of the case' standard, not a strict interpretation of the word 'may' in the rules."
+    ],
+    "policy_considerations": [
+      "The court deprecates a 'tendency towards technicality; it is the substance that counts · and must take precedence over mere form.'",
+      "When the legislature does not specify whether a rule is mandatory or directory, 'judges must determine the matter and, exercising a nice discrimination, sort out one class from the other along broad based, commonsense lines.'"
+    ]
+  },
+  "evidence_map": {}
+}

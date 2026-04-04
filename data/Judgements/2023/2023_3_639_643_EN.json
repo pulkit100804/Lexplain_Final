@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Order dated 08.07.1997 passed by the Trial Court",
+    "high_court_proceedings": "The order passed by the trial court was upheld in appeal by the High Court in Criminal Appeal No. 562-SB of 1997 dated January 15, 2010.",
+    "supreme_court_posture": "The Appellants challenged the judgment of the High Court of Punjab & Haryana in Criminal Appeal No. 562-SB of 1997 dated January 15, 2010 in the Supreme Court. The Supreme Court allowed the appeal and set aside the judgments of both the High Court and the Trial Court."
+  },
+  "decision": {
+    "appeal_result": "The appeal is allowed.",
+    "conviction_status": "The conviction of the appellants under Section 7 of the Act is set aside.",
+    "sentence_status": "The sentence of the appellants under Section 7 of the Act is set aside.",
+    "directions": [
+      "The judgment by the High Court of Punjab & Haryana in Criminal Appeal No. 562-SB of 1997 dated January 15, 2010 and the order dated 08.07.1997 passed by the Trial Court are set aside.",
+      "The bail bond stands discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the action taken by a Sub-Inspector of Police, who was not authorised as per the Government Order, vitiates the entire prosecution case.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A Sub-Inspector of Police received information that the appellants were selling gas cylinders in black and subsequently seized the cylinders.",
+          "The appellants were prosecuted and convicted by the trial court for unauthorized possession of gas cylinders under the Essential Commodities Act, 1955.",
+          "The High Court upheld the conviction.",
+          "The appellants appealed to the Supreme Court, arguing that the seizure was illegal because the Sub-Inspector was not an officer authorized to take such action under the relevant government order."
+        ],
+        "law": [
+          "Clause 7 of the Liquefied Petroleum Gas (Regulation of Supply and Distribution) Order, 1988, specifies the officers who are authorized to conduct searches and seizures.",
+          "The list of authorized officers does not include a Sub-Inspector of Police.",
+          "The settled legal principle is that \"where a power is given to do a certain thing in a certain way, the thing must be done in that way or not at all. Other methods are necessarily forbidden.\""
+        ],
+        "application": [
+          "The Court found that the action of seizing the gas cylinders was taken by a Sub-Inspector of Police.",
+          "The prosecution failed to produce any evidence or record to show that the Sub-Inspector had been specifically authorized by the State or Central Government to take action under the Order.",
+          "Since the Sub-Inspector was not an officer specified in Clause 7 of the Order and was not otherwise shown to be authorized, his actions did not follow the prescribed legal procedure.",
+          "Applying the legal principle that a power must be exercised strictly as prescribed, the Court determined that the proceedings initiated by the unauthorized Sub-Inspector were invalid from the start."
+        ],
+        "conclusion": "The Supreme Court concluded that in the absence of the authority and power with the Sub-Inspector to take action as per the Order, the proceedings initiated by him were totally unauthorized. This fundamental flaw vitiated the entire prosecution case, leading the Court to strike down the proceedings and set aside the conviction."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the action taken by a Sub-Inspector of Police, who was not authorised as per the Government Order, vitiates the entire prosecution case.",
+      "appellant_arguments": [
+        "The entry and seizure should have been conducted in exercise of the powers under clause 7 of the Liquefied Petroleum Gas (Regulation of Supply and Distribution) Order, 1988.",
+        "The action in this case was taken by a Sub-Inspector of Police who was not authorised as per the Government Order.",
+        "This lack of authorisation by the seizing officer invalidates and vitiates the entire prosecution case."
+      ],
+      "respondent_arguments": [
+        "The appellants were found in unauthorized possession of gas cylinders and were rightly convicted.",
+        "The lack of authorization for the officer is merely a technical default and should not be a reason for the appellants to go scot-free.",
+        "The Order was issued to check black marketing and unauthorized possession during a time of huge shortage of gas cylinders."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Essential Commodities Act, 1955",
+        "section": "7",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Liquefied Petroleum Gas (Regulation of Supply and Distribution) Order, 1988",
+        "section": "Clause 7",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Dharani Sugars and Chemicals Ltd. v. Union of India and Ors.",
+        "citation": "(2019) 5 SCC 480",
+        "principle": "Where a power is given to do a certain thing in a certain way, the thing must be done in that way or not at all. Other methods are necessarily forbidden.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Where a law or order grants a specific power to designated officials, any action taken under that power by an individual not so designated is unauthorized, rendering the entire subsequent legal proceeding based on that action invalid.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The entire prosecution case fails because the seizure action was taken by a Sub-Inspector of Police who was not authorised to do so under the governing Government Order. The court applied the settled legal principle that where a power is given to do a certain thing in a certain way, the thing must be done in that way or not at all, and other methods are necessarily forbidden.",
+    "legal_tests_applied": [
+      "Where a power is given to do a certain thing in a certain way, the thing must be done in that way or not at all. Other methods are necessarily forbidden."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "procedural_history.high_court_proceedings": [
+      "p2_49d2d8f3"
+    ]
+  }
+}

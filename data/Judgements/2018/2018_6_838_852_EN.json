@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Motor Accident Claims Tribunal (Tribunal)",
+    "impugned_order": "Judgment and Order dated 10.08.2016 of the High Court of Punjab and Haryana at Chandigarh in FAO No.1702/2016.",
+    "high_court_proceedings": "The award dated 20.11.2014 passed by the tribunal was challenged in FAO No. 1702 of 2016 before the High Court of Punjab and Haryana at Chandigarh. The appellant No. 2, the owner of the offending vehicle, contended that they had deposited the necessary fees along with application on 19.02.2013 for issue of route permit and the same was issued on 27.02.2013. They argued that the tribunal erred in holding that the vehicle was being plied without a valid permit, relying on several cases.",
+    "supreme_court_posture": "The Appellants, likely the original claimants or the insurance company, appealed the High Court's decision to the Supreme Court. The Supreme Court dismissed the appeal, finding no merit in it."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "No order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an insurer is entitled to avoid liability when the owner of the vehicle has consciously allowed a person without a valid driving licence to drive.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The text does not provide specific facts for a case but discusses the legal principles governing an insurer's liability.",
+          "The issue revolves around a scenario where a vehicle owner knowingly permits a person who does not have a valid driving license to drive their vehicle."
+        ],
+        "law": [
+          "Under Section 149(2)(a)(ii) of the Motor Vehicles Act, an insurer can raise a defence against a claim if there has been a breach of a policy condition, such as the vehicle being driven by a person who is not duly licensed.",
+          "The burden of proof is on the insurance company to establish that the insured (the vehicle owner) has committed a breach of the policy conditions.",
+          "To avoid liability, the insurer must prove that the insured was guilty of negligence and failed to exercise reasonable care in fulfilling the policy condition regarding the use of the vehicle by a duly licensed driver.",
+          "The mere fact that a driver has a fake or invalid license is not, in itself, a sufficient defence for the insurer. The insurer must prove the owner's negligence or failure to exercise reasonable care."
+        ],
+        "application": [
+          "The Court directly addressed the scenario where an owner consciously allows an unlicensed person to drive.",
+          "It affirmed that in such situations, where the owner knowingly permits the breach, the insurer is entitled to succeed in its defence and avoid liability.",
+          "This act of \"consciously allowing\" an unlicensed person to drive is considered a clear breach of the policy terms and a failure by the owner to exercise reasonable care.",
+          "The Court distinguished this from cases where there is a genuine factual dispute about the license's validity or where the owner took reasonable steps to verify the license but was deceived (e.g., by a fake license). In those other situations, the insurer might not be able to avoid liability."
+        ],
+        "conclusion": "The Supreme Court decided that an insurer is entitled to avoid liability when it can prove that the owner of the vehicle breached the insurance policy by consciously and knowingly allowing a person without a valid driving license to drive. This conscious act constitutes the negligence and failure of reasonable care on the part of the insured that the insurer must establish to successfully defend the claim."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an insurer is entitled to avoid liability when the owner of the vehicle has consciously allowed a person without a valid driving licence to drive.",
+      "appellant_arguments": [
+        "The appellant's argument, inferred from the context of the appeal, is that the insurer should not be completely absolved of liability, even if the driver lacked a valid license. The appeal challenges the insurer's right to avoid liability, suggesting that the breach of the policy condition was not wilful or fundamental enough to warrant complete repudiation of the claim."
+      ],
+      "respondent_arguments": [
+        "The respondent-insurer argued that it is entitled to avoid liability because the insured owner committed a \"wilful breach\" of the insurance policy conditions. This breach occurred when the owner consciously permitted a person without a valid driving licence to operate the vehicle. The insurer has the right to raise this defence and is not liable when such a wilful breach is established."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Motor Vehicles Act",
+        "section": "149",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "National Insurance Co. Ltd v. Swaran Singh and Others",
+        "citation": "(2004) 3 SCC 297 : [2004] 1 SCR 180",
+        "principle": "For the interpretation of Section 149(2)(a)(ii) vis-à-vis the proviso appended to sub-sections (4) and (5) of the Motor Vehicles Act, concerning the insurer's liability to a third party even in case of a breach of policy condition (like the driver not having a valid license), in light of the beneficial nature of the legislation.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When an insurer raises the defense that a vehicle lacked a permit at the time of an accident, the onus is on the insured to prove the existence of a permit, as it is a matter of documentary evidence. The use of a vehicle in a public place without a permit constitutes a fundamental statutory infraction, and any claimed exceptions to the permit requirement must be specifically pleaded and proven by the insured.",
+    "obiter": [
+      "The situations of an absent, fake, or different class of driving licence, or carrying excess passengers, are not to be equated with the absence of a permit.",
+      "The insurer is to establish wilful breach on the part of the insured and not for the purpose of its disentitlement from raising any defence or for the owners to be absolved from any liability whatsoever."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Where the owner of a vehicle has consciously allowed a person who does not have a valid driving licence to drive, the insurer is entitled to succeed in its defence and avoid liability. This constitutes a breach of the terms of the contract of insurance as well as the provisions of the Act.",
+    "legal_tests_applied": [
+      "The insurer must establish a 'wilful breach' on the part of the insured to be disentitled from liability.",
+      "Whether the owner of the vehicle committed a breach of the terms of the contract of insurance and the provisions of the Act by 'consciously allowing' any person to drive a vehicle who did not have a valid driving licence."
+    ],
+    "why_appellant_lost": [
+      "The appellant's position that the insurer should not be absolved of liability was rejected because the court affirmed that an owner consciously permitting an unlicensed person to drive is a breach that allows the insurer to avoid liability."
+    ],
+    "why_respondent_won": [
+      "The respondent-insurer's argument was accepted because the court affirmed the principle that where a driver does not have a licence and the owner has consciously allowed them to drive, 'the insurer would be entitled to succeed in defence and avoid liability'.",
+      "The court's reasoning aligns with the insurer's need to establish a 'wilful breach on the part of the insured' to be absolved from liability."
+    ],
+    "policy_considerations": [
+      "The reasoning holds the insured owner responsible for their conscious breach of the insurance policy and statutory law, thereby preventing them from benefiting from their own wrongdoing."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p8_f4f6a58d"
+    ]
+  }
+}

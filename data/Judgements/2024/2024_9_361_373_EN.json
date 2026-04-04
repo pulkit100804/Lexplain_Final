@@ -1,0 +1,211 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Court MP/MLA) Gwalior",
+    "impugned_order": "Order dated 09.11.2023 passed by the High Court of Madhya Pradesh in Criminal Revision No. 1925 of 2023",
+    "high_court_proceedings": "The appellant challenged the trial court’s order dated 17.04.2023 before the High Court. The High Court dismissed the criminal revision petition preferred by the appellant, affirming the order passed by the Special Court MP/MLA) Gwalior on 17.04.2023.",
+    "supreme_court_posture": "The appellant approached the Supreme Court to challenge the High Court's judgment and order dated 09.11.2023. The Supreme Court dismissed the appeal and disposed of the contempt petition."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "The criminal appeal is dismissed.",
+      "The proceedings in this Contempt Petition stand closed and the interim order passed therein is vacated.",
+      "The Contempt Petition is disposed of."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether in the facts and circumstances of the case, the appellant is entitled for protection under Section 132 of the Act, as his statement was recorded earlier at the pre-summoning stage as a witness for the complainant/respondent bank.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant had previously given a statement as a witness for the complainant bank at a pre-summoning stage.",
+          "During the trial, another witness (PW-1) gave a statement that provided prima facie evidence against the appellant, specifically stating that interpolations on a document were made under the appellant's initials and signatures.",
+          "Based on this new evidence from PW-1, and not on the appellant's own prior statement, the appellant was summoned to face trial as an accused under Section 319 Cr.P.C.",
+          "The appellant argued that he was entitled to protection from prosecution under Section 132 of the Evidence Act because he had previously testified as a witness."
+        ],
+        "law": [
+          "The Supreme Court analyzed the proviso to Section 132 of the Evidence Act, which provides a \"qualified privilege\" against self-incrimination for a witness.",
+          "This privilege means that any incriminating answer a witness is compelled to give cannot be used to arrest or prosecute them, or be proved against them in a criminal proceeding.",
+          "The Court clarified that this protection is not a complete or blanket immunity from prosecution.",
+          "The immunity is limited: it only protects a witness from being prosecuted *on the basis of their own statement*. It does not provide immunity if there is other, independent, and substantial evidence of their involvement in the crime."
+        ],
+        "application": [
+          "The Court found that the appellant was being summoned as an accused based on the independent testimony of another witness, PW-1, which constituted new prima facie material against him.",
+          "The prosecution was not relying on the appellant's own earlier statement given at the pre-summoning stage.",
+          "Because the basis for summoning the appellant was this other, independent evidence, the limited protection of Section 132 did not apply.",
+          "The Court reasoned that interpreting Section 132 as providing blanket immunity would allow a complicit witness to escape justice, which is not the provision's intent."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's claim for protection. It held that the qualified privilege under Section 132 of the Evidence Act does not grant complete immunity from prosecution. It only prevents a witness from being prosecuted based on their own incriminating testimony. Since the appellant was summoned based on independent evidence from another witness, he was not entitled to this protection."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a Court while trying an offence, is barred from initiating process under Section 319 of the Cr.P.C, against a witness in the said proceeding on the basis of other material on record?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a person who had deposed as a witness in a trial.",
+          "During the trial, evidence emerged, separate from the witness's own testimony, that suggested the witness was complicit in the offence.",
+          "Specifically, another witness (PW-1) testified that interpolations in a document were made under the initials and signature of the appellant (the witness in question).",
+          "The Trial Court then used its power under Section 319 of the Code of Criminal Procedure (Cr.P.C.) to summon this witness as an additional accused in the case."
+        ],
+        "law": [
+          "Section 319 of the Code of Criminal Procedure (Cr.P.C.) grants a court the power to proceed against any person not being the accused if it appears from the evidence that they have committed any offence for which they could be tried together with the accused.",
+          "Section 132 of the Indian Evidence Act, 1872, states that a witness cannot be excused from answering a question on the ground that the answer will incriminate them. However, the proviso to this section offers statutory immunity, stipulating that no such compelled answer shall be used to arrest or prosecute the witness, or be proved against them in any criminal proceeding."
+        ],
+        "application": [
+          "The Court clarified that the immunity granted under Section 132 of the Evidence Act is not a complete or blanket immunity from prosecution. It only protects a witness from being prosecuted on the basis of their *own* self-incriminating statements.",
+          "This immunity does not bar the court from prosecuting the witness if there is other substantial evidence or material on record that points to their prima facie involvement in the offence.",
+          "The Court held that there is no \"absolute embargo\" on a Trial Court initiating proceedings under Section 319 Cr.P.C. against a person just because they have deposed as a witness.",
+          "The Court established a clear test: The decision to invoke Section 319 against a witness must be based on \"additional, cogent material\" that has emerged during the trial, separate from the witness's own testimony.",
+          "An order under Section 319 would be invalid only if it was based *solely* on the witness's self-incriminating statement. A mere reference to their statement does not vitiate the order.",
+          "The ultimate test is whether the court could have proceeded under Section 319 based on the other incriminating material, even if the witness's own statement was completely removed from consideration.",
+          "In this instance, the testimony of PW-1 regarding the interpolations under the appellant's signature was considered sufficient \"other material\" to justify invoking Section 319."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that a court is barred from initiating proceedings under Section 319 Cr.P.C. against a witness. It held that a court can summon a witness as an accused, provided the decision is based on other incriminating evidence on record and not solely on the witness's own self-incriminating testimony."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the qualified privilege under the proviso to Section 132 of the Act, grants complete immunity to a person who has deposed as a witness (and made statements incriminating himself), notwithstanding the availability of other material with the prosecution?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involves a person who, after deposing as a witness and making statements that incriminated themselves, was later summoned to be tried as an accused in the same case.",
+          "The prosecution had other material and evidence against this person, separate from their own testimony."
+        ],
+        "law": [
+          {
+            "principle": "Purpose of Section 132 of the Evidence Act",
+            "explanation": "The primary purpose of Section 132 is to compel witnesses to provide all relevant evidence to the court to ensure a just conclusion, even if the answers are self-incriminating."
+          },
+          {
+            "principle": "Qualified Privilege vs. Absolute Privilege",
+            "explanation": "Unlike an absolute privilege where a witness can refuse to answer an incriminating question, Section 132 provides a 'qualified privilege'. It compels the witness to answer but protects them by stating that their compelled answer cannot be used against them in any criminal proceeding (except for perjury)."
+          },
+          {
+            "principle": "Constitutional Protection",
+            "explanation": "The proviso to Section 132 is an extension of the fundamental right against self-incrimination under Article 20(3) of the Constitution, which states that no person accused of an offence shall be compelled to be a witness against himself."
+          },
+          {
+            "principle": "Legal Maxim",
+            "explanation": "The law is based on the maxim 'nemo tenetur prodere seipsum', meaning no one is bound to incriminate himself."
+          }
+        ],
+        "application": [
+          {
+            "step": "Interpretation of the Proviso's Scope",
+            "reasoning": "The Court interpreted the protection offered by the proviso narrowly. It concluded that the immunity is limited to the witness's own statement. The law only prevents the prosecution from using the witness's compelled testimony as evidence against them."
+          },
+          {
+            "step": "Rejection of Blanket Immunity",
+            "reasoning": "The Court found it 'unfathomable' and 'unsustainable' that a provision designed to bring all evidence to light would grant a 'blanket immunity' from prosecution. Such an interpretation would defeat the ends of justice."
+          },
+          {
+            "step": "Consideration of Potential for Abuse",
+            "reasoning": "The Court reasoned that interpreting the privilege as complete immunity would create a loophole for abuse. For example, a dishonest investigating officer could deliberately call a guilty person as a witness to shield them from prosecution, even when other incriminating evidence exists."
+          },
+          {
+            "step": "Distinction between Sources of Evidence",
+            "reasoning": "The Court drew a clear line: the witness cannot be prosecuted *on the basis of their own statement*. However, this does not prevent prosecution if there is other substantial evidence or material that proves their involvement in the crime."
+          }
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the qualified privilege under the proviso to Section 132 of the Evidence Act does not grant complete immunity from prosecution. The immunity is limited to ensuring that the witness's own self-incriminating testimony cannot be used against them. A person can still be prosecuted if the case against them is based on other available evidence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether in the facts and circumstances of the case, the appellant is entitled for protection under Section 132 of the Act, as his statement was recorded earlier at the pre-summoning stage as a witness for the complainant/respondent bank.",
+      "appellant_arguments": [
+        "The appellant argued that he was entitled to protection under Section 132 of the Evidence Act because he had previously given a statement as a witness for the bank at the pre-summoning stage."
+      ],
+      "respondent_arguments": [
+        "The respondent bank argued that the appellant was made an accused based on the trial statement of another witness (PW-1), not on the basis of the appellant's own pre-summoning statement. Therefore, the protection under Section 132 does not apply."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a Court while trying an offence, is barred from initiating process under Section 319 of the Cr.P.C, against a witness in the said proceeding on the basis of other material on record?",
+      "appellant_arguments": [
+        "The appellant's position was that the court is barred from using Section 319 Cr.P.C. to make a witness an accused in the same proceeding."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that a court is not barred from initiating the process under Section 319 Cr.P.C. against a witness, especially when the decision is based on other material that has come on record during the trial, such as the testimony of another witness."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the qualified privilege under the proviso to Section 132 of the Act, grants complete immunity to a person who has deposed as a witness (and made statements incriminating himself), notwithstanding the availability of other material with the prosecution?",
+      "appellant_arguments": [
+        "The appellant contended that the privilege under Section 132 of the Evidence Act provides complete immunity from prosecution to a person who has deposed as a witness, regardless of any other available material."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the privilege is not a complete or absolute immunity and does not prevent prosecution when it is based on other, independent evidence that emerges during the trial, not the witness's own self-incriminating statement."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "132",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The prosecution's liberty to examine any person as a witness in a criminal prosecution, notwithstanding that there is material available to the prosecuting agency indicating that such a person is also involved in the commission of the crime for which the other accused are being tried, is a proposition that requires examination.",
+    "obiter": [
+      "The object of the law is to secure evidence which could not have been obtained.",
+      "The purpose for granting statutory immunity is to enable the court to reach a just conclusion and assist the process of law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The qualified privilege under the proviso to Section 132 of the Evidence Act does not grant complete immunity from prosecution to a person who has deposed as a witness and made self-incriminating statements. This protection is limited to barring the use of the witness's own compelled statement against them; it does not prevent their prosecution based on other, independent evidence, nor does it create an absolute embargo on the court's power to initiate process against them under Section 319 of the Cr.P.C.",
+    "legal_tests_applied": [
+      "The court analyzed the scope of the qualified privilege under the proviso to Section 132 of the Evidence Act, which modifies the common law maxim 'nemo tenetur prodere seipsum' (no one is bound to criminate himself). The test is whether a prosecution is based on the witness's own compelled testimony (which is prohibited) or on other independent material on record (which is permissible)."
+    ],
+    "why_appellant_lost": [
+      "The appellant's interpretation of Section 132 as granting blanket immunity was rejected as it would defeat the purpose of the law. The court found it 'not fathomable that a provision in the Evidence Act, the primary purpose of which was to ensure that all the material is before the Court and ensure that the ends of justice are met, could itself grant a blanket immunity to a witness (albeit complicit).'",
+      "The court held that there is no 'absolute embargo on the Trial Court to initiate process under Section 319 Cr.P.C., merely because a person' has been examined as a witness, especially when the action is based on other material evidence.",
+      "The appellant's claim for protection failed because the privilege is only qualified. The court clarified that Section 132 'withdrew this absolute privilege and affords only a qualified privilege,' meaning a witness is compelled to testify but their statement cannot be used against them, which is distinct from complete immunity from prosecution."
+    ],
+    "why_respondent_won": [
+      "The respondent's position that the privilege is qualified and not absolute was affirmed. The court explained that while a witness is subjected to compulsion to testify, 'the legislature, in order to remove any inducement to falsehood, declared that evidence so obtained should not be used against him.'",
+      "The respondent's argument that prosecution is permissible based on other evidence was upheld. The court's core finding is that the qualified privilege does not grant immunity 'notwithstanding the availability of other material with the prosecution.'",
+      "The respondent's view aligned with the legislative intent behind Section 132, which is 'to secure evidence which could not have been obtained' and 'to enable the court to reach a just conclusion.'"
+    ],
+    "policy_considerations": [
+      "The object of Section 132 is to secure evidence that might otherwise be unobtainable, thereby assisting the court in reaching a just conclusion.",
+      "The privilege is based on the principle of encouraging people to come forward with evidence by protecting them from injury or annoyance as a consequence of their testimony.",
+      "The law balances the need for evidence against witness protection. The absolute privilege against self-incrimination under English law 'tended to bring about a failure of justice' by depriving courts of essential information. Section 132 was enacted to avoid this inconvenience by compelling testimony while offering a qualified, not absolute, protection."
+    ]
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p1_ef8d8517"
+    ],
+    "issues[1].issue.issue_text": [
+      "p11_89f3b59d"
+    ],
+    "arguments[0].issue_text": [
+      "p1_ef8d8517"
+    ],
+    "arguments[1].issue_text": [
+      "p11_89f3b59d"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p3_3a4a6174"
+    ]
+  }
+}

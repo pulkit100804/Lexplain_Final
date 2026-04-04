@@ -1,0 +1,137 @@
+{
+  "procedural_history": {
+    "originating_court": "Ilaqa Magistrate, Dharamsala, District Kangra",
+    "impugned_order": "Judgment and order dated the 23rd July 1953 of the Punjab High Court in Criminal Revision No. 487 of 1953",
+    "high_court_proceedings": "The Magistrate convicted the respondent and sentenced him to 15 days' rigorous imprisonment. On appeal by the accused, the Sessions Judge affirmed the findings of the trial Magistrate and dismissed the appeal. The High Court acquitted the respondent.",
+    "supreme_court_posture": "The State of Punjab obtained special leave to appeal to the Supreme Court against the High Court's order of acquittal."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "acquitted",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution was maintainable on the ground that there was no proper complaint under section 7(3) of the East Punjab Essential Services Maintenance Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent's counsel raised a preliminary objection that the prosecution was not maintainable because the complaint was not properly made under section 7(3) of the Act.",
+          "The prosecution was initiated based on a complaint filed by the Superintendent of Police, Kangra District.",
+          "The State presented a government notification from January 20, 1948, which authorized all police officers of and above the rank of Deputy Superintendent of Police to file complaints in writing against persons in their departments for offenses under the Act."
+        ],
+        "law": [
+          "Section 7(3) of the East Punjab Essential Services (Maintenance) Act requires that for a court to take cognizance of an offense, there must be a complaint in writing made by a person authorized by the State Government."
+        ],
+        "application": [
+          "The Court interpreted the law to mean that the *person* filing the complaint must be authorized, not that each *specific complaint* needs individual authorization from the State Government.",
+          "The government notification provided a general authorization to a class of officials, including Superintendents of Police, to file such complaints.",
+          "Since the complaint was filed by a Superintendent of Police against a constable in his department, the person filing the complaint was duly authorized under the terms of the notification."
+        ],
+        "conclusion": "The Court concluded that the complaint was filed in compliance with the provisions of section 7(3) of the Act. Therefore, the Court overruled the preliminary objection and held that the prosecution was maintainable."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was correct in holding that the respondent's act of absenting himself from duty did not constitute an offence under the East Punjab Essential Services Maintenance Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent, a police constable, was assigned sentry duty but refused to perform it.",
+          "As a result, his name was struck off the Duty Roster, and another constable was assigned the post.",
+          "Later that night, the respondent was found to be absent from the Police Lines without permission.",
+          "He was convicted by the lower courts for the offence of 'absenting himself from duty' under Section 5(b) of the East Punjab Essential Services (Maintenance) Act.",
+          "The High Court acquitted him, stating that his actions did not fall under the Act."
+        ],
+        "law": [
+          "Section 5(b) of the East Punjab Essential Services (Maintenance) Act makes it an offence for a person to absent themselves from 'work' without reasonable cause.",
+          "Section 29 of the Police Act, 1861, deals with the separate offence of 'neglect of duty'."
+        ],
+        "application": [
+          "The Supreme Court first held that the High Court's reasoning for the acquittal was 'wholly wrong', as the High Court had incorrectly concluded that the Act did not apply to the respondent at all.",
+          "However, the Supreme Court then analyzed the specific charge. It drew a crucial distinction between 'neglect of duty' (under the Police Act) and 'absenting oneself from work' (the specific offence under the Essential Services Maintenance Act).",
+          "The Court found that because the respondent's initial duty assignment had been cancelled and his name was removed from the roster, he had not been assigned any 'work' within the meaning of Section 5(b) of the Act at the time he was absent.",
+          "While his absence from the Police Lines might have been a 'neglect of duty' punishable under the Police Act or through departmental action, it was not the same as being absent from 'work' as required by the charge against him."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court had reached the correct result (acquittal) but for the wrong reasons. Since the respondent had not been assigned any specific 'work' at the time of his absence, he could not be guilty of the offence of 'absenting himself from work' under Section 5(b) of the Act. Therefore, the Supreme Court upheld the acquittal and dismissed the state's appeal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the prosecution was maintainable on the ground that there was no proper complaint under section 7(3) of the East Punjab Essential Services Maintenance Act.",
+      "appellant_arguments": [
+        "The complaint was filed by a Superintendent of Police, who was a person authorized to do so by a Punjab Government notification.",
+        "The law does not require that the particular complaint should be authorized by the State Government, only that it is filed by a person who has been authorized by the State Government."
+      ],
+      "respondent_arguments": [
+        "There was nothing to show that the specific complaint on which the prosecution was initiated had been authorized by the State Government."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the High Court was correct in holding that the respondent's act of absenting himself from duty did not constitute an offence under the East Punjab Essential Services Maintenance Act.",
+      "appellant_arguments": [
+        "The High Court Judge erred by completely ignoring the opening words of section 3 of the Act, which would have shown that the respondent's act was an offence."
+      ],
+      "respondent_arguments": [
+        "The act of absenting oneself from duty did not constitute an offence under the Act."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The East Punjab Essential Services (Maintenance) Act",
+        "section": "3",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The East Punjab Essential Services (Maintenance) Act",
+        "section": "7(3)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Police Act, V of 1861",
+        "section": "22",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The law does not require that a particular complaint be specifically authorised by the State Government; it is sufficient if the complaint is filed by a person who has been generally authorised by the State Government to do so.",
+    "obiter": [
+      "Under section 22 of the Police Act, V of 1861, every police officer is to be considered to be always on duty and may at any time be employed as a police officer."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the High Court's judgment acquitting the respondent was based on an erroneous interpretation of the law, as it completely ignored the opening words of section 3 of the Act which made the respondent's conduct an offence, the Supreme Court must still consider whether it is appropriate to interfere with an order of acquittal.",
+    "legal_tests_applied": [
+      "Under section 7(3) of the Act, the law does not require that a particular complaint be specifically authorised by the State Government; it is sufficient that the complaint is filed by a person who has been generally authorised by the State Government to do so.",
+      "A statutory analysis of an offence under the Act must consider all relevant sections, including the opening words of section 3, which define the scope of employment to which the Act applies."
+    ],
+    "why_appellant_lost": [
+      "Although the appellant (the State) won on both points of law, demonstrating that the High Court's reasoning was flawed, the appeal was ultimately dismissed because the Supreme Court exercised its discretion not to interfere with the High Court's final order of acquittal."
+    ],
+    "why_respondent_won": [
+      "The respondent's acquittal was upheld not because his legal arguments were correct, but because the Supreme Court chose not to interfere with the High Court's order acquitting him, despite finding that the legal basis for that acquittal was unsustainable."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "citations.statutes[0].act_name": [
+      "p1_a4a36e04",
+      "p5_5a88f8a8"
+    ],
+    "citations.statutes[1].act_name": [
+      "p1_a4a36e04",
+      "p5_5a88f8a8"
+    ]
+  }
+}

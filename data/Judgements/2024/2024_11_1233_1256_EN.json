@@ -1,0 +1,174 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Session",
+    "impugned_order": "Judgment and Order dated 24.05.2012 of the High Court of Uttarakhand at Nainital in CRA No. 82 of 2003",
+    "high_court_proceedings": "The High Court of Uttarakhand at Nainital heard Criminal Appeal No. 82 of 2003. The outcome of the appeal in the High Court is implied to be an affirmation of the conviction by the Sessions Court, as the appellants then appealed to the Supreme Court.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court after being convicted by the Sessions Court and seemingly having that conviction upheld by the High Court. The Supreme Court allowed the appeal, set aside the High Court's order, acquitted the appellants of the charges, and discharged their bail bonds."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The appellants are acquitted of the charges for which they have been tried and convicted.",
+      "They need not surrender.",
+      "Their bail bonds stand discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the circumstances relied upon by the prosecution were proved beyond a reasonable doubt.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution's case against the accused was based entirely on circumstantial evidence."
+        ],
+        "law": [
+          "The Court reiterated the established legal principles for cases resting on circumstantial evidence.",
+          "These principles require that the circumstances from which guilt is inferred must be fully established and proved beyond a reasonable doubt.",
+          "Additionally, the circumstances must form a complete chain that unerringly points to the guilt of the accused and excludes all other possible hypotheses."
+        ],
+        "application": [
+          "The Supreme Court found that both the trial court and the High Court had failed to properly apply these legal principles.",
+          "The lower courts did not adequately test the evidence to determine if the incriminating circumstances relied upon by the prosecution were actually proved beyond a reasonable doubt."
+        ],
+        "conclusion": "The Supreme Court accepted the issue, concluding that the lower courts had erred by failing to scrutinize the evidence to ensure the circumstances were proved beyond a reasonable doubt, as required by law in a case based on circumstantial evidence."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court, in its jurisdiction under Article 136 of the Constitution, can correct a finding of guilt if the evidence was not properly evaluated by the lower courts.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were convicted by a trial court, and the High Court upheld a modified conviction.",
+          "The State argued that the Supreme Court should not interfere because the matter was concluded by concurrent findings of fact from the lower courts.",
+          "The appellants appealed to the Supreme Court, challenging the correctness of their conviction."
+        ],
+        "law": [
+          "The Supreme Court holds that under Article 136 of the Constitution of India, it has the power to correct a finding of guilt if that finding was reached without properly evaluating and testing the evidence according to the requisite legal principles."
+        ],
+        "application": [
+          "The Court found that both the trial court and the High Court had failed in their duty to properly evaluate the evidence in this case, which was based on circumstantial evidence.",
+          "Specifically, the lower courts failed to test whether the incriminating circumstances were proven beyond a reasonable doubt.",
+          "The lower courts also failed to determine if these circumstances formed a complete chain that unerringly pointed towards the guilt of the accused, ruling out all other possibilities.",
+          "Because the lower courts did not apply the correct legal principles for evaluating the evidence, the Supreme Court decided it was necessary to step in and test the correctness of their findings."
+        ],
+        "conclusion": "The Supreme Court concluded that it can and will exercise its jurisdiction under Article 136 to correct a finding of guilt when the lower courts have failed to properly evaluate the evidence against the established legal standards."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a case was made out to hold the appellants guilty based on the evidence on record.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The prosecution's case against the appellants was based entirely on circumstantial evidence.",
+          "The key circumstances presented by the prosecution were: (i) the appellants were 'last seen' with the deceased, (ii) a meat bag was recovered near the spot, (iii) the appellants were seen walking on a pathway near the crime scene at night, and (iv) the appellants had inquired about the deceased earlier in the evening."
+        ],
+        "law": [
+          "In a case based on circumstantial evidence, the prosecution must prove each incriminating circumstance beyond a reasonable doubt.",
+          "The proven circumstances must form a chain so complete that it unerringly points towards the guilt of the accused, ruling out any hypothesis consistent with their innocence."
+        ],
+        "application": [
+          "The Supreme Court found that both the trial court and the High Court had failed to properly apply this legal standard to the evidence on record.",
+          "The Court evaluated the circumstances presented by the prosecution and determined that they were not of a 'definite tendency unerringly pointing towards the guilt of the accused-appellants.'",
+          "Specifically, the Court found that the circumstance of the appellants walking on the pathway at night was not even proved beyond a reasonable doubt.",
+          "The Court concluded that the chain of circumstances was incomplete and did not successfully rule out all possibilities consistent with the appellants' innocence."
+        ],
+        "conclusion": "The Supreme Court concluded that the prosecution had failed to make out a case to hold the appellants guilty based on the evidence. Consequently, the Court allowed the appeal and acquitted the appellants of all charges."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the circumstances relied upon by the prosecution were proved beyond a reasonable doubt.",
+      "appellant_arguments": [
+        "The appellants argued that no case was made out to hold them guilty, which implies that the circumstances were not proven beyond a reasonable doubt."
+      ],
+      "respondent_arguments": [
+        "The State argued that each of the incriminating circumstances was proved beyond doubt.",
+        "The chain of circumstances was complete and pointed towards the guilt of the appellants, ruling out all hypotheses consistent with their innocence."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the Supreme Court, in its jurisdiction under Article 136 of the Constitution, can correct a finding of guilt if the evidence was not properly evaluated by the lower courts.",
+      "appellant_arguments": [
+        "By appealing their conviction and arguing that no case was made out against them, the appellants implicitly argued that the Supreme Court should exercise its jurisdiction to correct the lower courts' findings."
+      ],
+      "respondent_arguments": [
+        "The State argued that the matter was concluded by concurrent findings of fact and, therefore, there was no merit in the appeal, implying the Supreme Court should not interfere."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether a case was made out to hold the appellants guilty based on the evidence on record.",
+      "appellant_arguments": [
+        "The appellants submitted that no case was made out to hold them guilty and the appeal deserved to be allowed."
+      ],
+      "respondent_arguments": [
+        "The State argued that the chain of circumstances was complete and pointed towards the guilt of the appellants.",
+        "The State also argued that the matter was concluded by concurrent findings of fact from the lower courts."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 136",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "Section 313",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Geejaganda Somaiah v. State of Karnataka",
+        "citation": "[2007] 3 SCR 899 : (2007) 9 SCC 315",
+        "principle": "The provided text does not specify the legal principle for which this case was cited.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For a conviction to be based on circumstantial evidence, the following conditions must be met: (i) the circumstances from which the conclusion of guilt is to be drawn must be fully established; (ii) the circumstances should have a definite tendency that unerringly points towards the guilt of the accused; (iii) the circumstances, when taken cumulatively, must form a chain so complete that there is no escape from the conclusion that the crime was committed by the accused within all human probability; (iv) the circumstances must be consistent only with the hypothesis of the accused's guilt; and (v) they must exclude every possible hypothesis except the one to be proved.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The prosecution failed to establish the chain of incriminating circumstances because the circumstances it relied upon were not proved beyond a reasonable doubt. The Court found that the trial court and the High Court erred by failing to properly test the evidence on record to determine if the incriminating circumstances were proven beyond a reasonable doubt and if they unerringly pointed towards the guilt of the accused.",
+    "legal_tests_applied": [
+      "In a case based on circumstantial evidence, the following legal principles must be met for a conviction: (i) the circumstances from which the conclusion of guilt is to be drawn should be fully established; (ii) the circumstances should be of a definite tendency unerringly pointing towards the guilt of the accused; (iii) the circumstances taken cumulatively should form a chain so far complete that there is no escape from the conclusion that within all human probability the crime was committed by the accused; (iv) the circumstances should be consistent only with the hypothesis regarding the guilt of the accused; and (v) they must exclude every possible hypothesis except the one which is sought to be proved."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The trial court and the High Court failed to test the evidence on record to find out whether the incriminating circumstances were proved beyond reasonable doubt and whether they were of definite tendency unerringly pointing towards the guilt of the accused-appellants."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.policy_considerations[0]": [
+      "p1_18296cb1",
+      "p23_7e44e075"
+    ]
+  }
+}

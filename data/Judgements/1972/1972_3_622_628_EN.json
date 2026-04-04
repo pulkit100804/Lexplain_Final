@@ -1,0 +1,119 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge, Salem",
+    "impugned_order": "Judgment and order dated November 24, 1970 of the Madras High Court in Criminal Appeal No. 761 of 1970 and Referred Trial No. 50 of 1970.",
+    "high_court_proceedings": "The Sessions Judge, Salem convicted Thulia Kali under section 302 (murder) and section 379 (theft) of the Indian Penal Code. He was sentenced to death for the murder conviction. The High Court of Madras affirmed the conviction and sentence.",
+    "supreme_court_posture": "Thulia Kali appealed to the Supreme Court by special leave. The Supreme Court accepted the appeal, set aside the conviction, and acquitted Thulia Kali."
+  },
+  "decision": {
+    "appeal_result": "Accepted",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": [
+      "Acquit the accused-appellant"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court should interfere in an appeal under Article 136 of the Constitution if the evidence is afflicted with ex-facie infirmity.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant's conviction for murder was based primarily on the testimony of two key prosecution witnesses.",
+          "These witnesses, despite being present at or near the time of the murder, did not report the incident to the police for more than 20 hours.",
+          "The police station was only two miles away from the place of the occurrence."
+        ],
+        "law": [
+          "The Supreme Court does not normally reappraise evidence in an appeal under Article 136 of the Constitution.",
+          "However, the Court will interfere with a conviction if it finds that the vital prosecution evidence is afflicted with an 'ex-facie infirmity' (an obvious or apparent weakness)."
+        ],
+        "application": [
+          "The Court identified a 'broad feature' of the prosecution's story that created doubt: the significant and unexplained delay in lodging a police report.",
+          "The Court reasoned that the 20-hour delay in reporting the crime, especially given the proximity of the police station, raised 'considerable doubt' about the truthfulness (veracity) of the two main witnesses.",
+          "This doubt was considered an 'infirmity' in the evidence, making it unsafe to base a conviction upon it."
+        ],
+        "conclusion": "The Supreme Court concluded that the unexplained 20-hour delay constituted an ex-facie infirmity in the evidence of the key witnesses. This made their testimony unreliable and the conviction unsafe to sustain. Therefore, the Court interfered, accepted the appeal, and acquitted the appellant."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the delay in lodging the report would raise considerable doubt regarding the veracity of the evidence and render it unsafe to base the conviction of the appellant.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The conviction of the appellant was based primarily on the testimony of two eyewitnesses.",
+          "These witnesses, along with other villagers they allegedly informed, did not file a First Information Report (FIR) with the police for more than 20 hours after the murder.",
+          "The police station was only two miles away from the scene of the crime.",
+          "The prosecution's explanation for the delay was that the witnesses first sought out the village munsif, who was away and did not return until 10:30 p.m., and then decided to wait until the next morning to record the statement."
+        ],
+        "law": [
+          "The object of insisting on a prompt FIR is to obtain early and spontaneous information about the crime, the culprits, and the witnesses.",
+          "A delay in lodging an FIR can result in embellishment, exaggeration, or a concocted story created after deliberation and consultation.",
+          "Therefore, any delay in filing the FIR must be satisfactorily explained.",
+          "An FIR is a vital piece of evidence for corroborating the oral testimony presented at trial."
+        ],
+        "application": [
+          "The Court found the 20-hour delay to be significant and the explanation provided by the prosecution to be unbelievable.",
+          "It questioned why the witnesses or other villagers did not go directly to the police station, which was nearby, especially if the village munsif was unavailable.",
+          "The Court found it highly improbable that eyewitnesses to a murder would wait so long to report it.",
+          "The Court inferred from this failure to report promptly that the witnesses likely did not see the crime as it happened. It suggested an alternative possibility: that the villagers found the body, did not know who the assailant was, and later implicated the accused on suspicion."
+        ],
+        "conclusion": "The Supreme Court concluded that the long and unexplained delay in lodging the FIR raised considerable doubt about the truthfulness (veracity) of the eyewitness testimony. This doubt created a fundamental weakness or \"infirmity\" in the evidence, making it unsafe to base a conviction upon it. Therefore, the Court accepted the appeal and acquitted the appellant."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court should interfere in an appeal under Article 136 of the Constitution if the evidence is afflicted with ex-facie infirmity.",
+      "appellant_arguments": [
+        "The Supreme Court should interfere with the conviction because the vital prosecution evidence, upon which the conviction is based, is afflicted with ex-facie infirmity and creates considerable doubt about the prosecution's story."
+      ],
+      "respondent_arguments": [
+        "The Supreme Court should not interfere as it does not normally reappraise evidence in an appeal under Article 136. The conviction was correctly affirmed by the High Court, which relied on the evidence of an eyewitness (PW2), a threatened witness (PW1), and the recovery of the knife and ornaments."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the delay in lodging the report would raise considerable doubt regarding the veracity of the evidence and render it unsafe to base the conviction of the appellant.",
+      "appellant_arguments": [
+        "The significant and unexplained delay of more than 20 hours in lodging the First Information Report raises considerable doubt about the truthfulness of the evidence of the key witnesses (PW1 and PW2). Such a delay allows for embellishment, consultation, and the creation of a concocted story, making the evidence unsafe to rely upon for a conviction."
+      ],
+      "respondent_arguments": [
+        "The conviction should be upheld based on the evidence of the eyewitness (Kopia, PW2), the witness threatened by the accused (Valanjiaraju, PW1), and the recovery of the knife and ornaments, which is sufficient to prove the case despite any delay in filing the report."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India, 1950",
+        "section": "Article 136",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A delay in lodging a report can raise considerable doubt regarding the veracity of witness evidence, pointing to an infirmity that would render it unsafe to base a conviction on that evidence.",
+    "obiter": [
+      "The Supreme Court does not normally reappraise evidence in an appeal under article 136 of the Constitution, but that fact would not prevent interference with an order of conviction if on consideration of the vital prosecution evidence, the Court finds it to be afflicted with ex facie infirmity."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The delay of more than 20 hours in lodging the report, despite the police station being only two miles away, raises considerable doubt regarding the veracity of the evidence of the two key witnesses. This delay points to an infirmity in their evidence that renders it unsafe to base the conviction of the accused-appellant upon it.",
+    "legal_tests_applied": [
+      "While the Supreme Court does not normally reappraise evidence in an appeal under Article 136 of the Constitution, it will interfere with a conviction if, on consideration of the vital prosecution evidence, the Court finds it to be afflicted with ex-facie infirmity."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The object of insisting upon prompt lodging of the report to the police is to obtain early information regarding the circumstances in which the crime was committed, the names of the actual culprits, the part played by them, and the names of eyewitnesses.",
+      "Delay in lodging the first information report often results in embellishment, which is a creature of afterthought. Due to delay, the report loses the advantage of spontaneity, and the danger of introducing a coloured version or exaggerated account increases."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,99 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court that convicted the accused, leading to the initial appeal.",
+    "impugned_order": "Judgment and Order dated 07.07.2023 of the High Court of Judicature at Madras in CRLA No.203 of 2017, which cancelled the bail of the accused.",
+    "high_court_proceedings": "The accused appealed his conviction to the High Court (Judicature at Madras) in CRLA No. 203 of 2017. Initially, the High Court suspended the sentence and granted bail to the accused on January 12, 2018. However, on July 7, 2023, when the appeal was called for hearing, the accused's advocate sought a four-week adjournment. The High Court, solely based on the adjournment request and the fact that the accused was on bail, cancelled the bail without giving the accused a reasonable opportunity to be heard.",
+    "supreme_court_posture": "The accused appealed the High Court's order cancelling his bail to the Supreme Court. The Supreme Court allowed the appeal, quashed and set aside the High Court's order dated 07.07.2023, and restored the earlier order granting suspension of sentence and bail to the accused. The Supreme Court found that the High Court's approach of cancelling bail without a reasonable opportunity to be heard was not justified, especially when the sentence had been suspended and the accused was on bail. The Supreme Court emphasized that while an appellate court has discretion to refuse adjournment and appoint an advocate, cancelling bail without a hearing is unacceptable."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "Suspended",
+    "directions": [
+      "The impugned order is hereby quashed and set aside.",
+      "The earlier order dated 12th January, 2018 granting suspension of sentence and bail to the appellant is restored."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "When the sentence of accused is suspended on appeal and he is released on bail, whether the High Court can cancel the bail without giving a reasonable opportunity, to the accused of being heard.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An accused person, who had been convicted, had their sentence suspended and was released on bail by the High Court pending their appeal.",
+          "When the appeal was scheduled for a hearing, the accused's advocate requested a four-week adjournment.",
+          "Solely on the ground that the advocate sought an adjournment, the High Court cancelled the accused's bail without giving him an opportunity to be heard on the matter of the cancellation."
+        ],
+        "law": [
+          "The case revolves around Section 389(1) of the Code of Criminal Procedure (CrPC), which allows an appellate court to suspend a sentence and grant bail pending an appeal.",
+          "The Court emphasized the fundamental principle of natural justice, specifically the right to be heard (audi alteram partem), before a decision affecting a person's liberty is made."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court's approach was improper and could not be supported.",
+          "It reasoned that an accused person cannot be penalized for the actions of their advocate, such as seeking an adjournment. The default of the lawyer should not lead to the cancellation of the client's bail.",
+          "The Court stated that under no circumstances can bail granted under Section 389(1) be cancelled without providing the accused a reasonable opportunity to be heard. Even if the court wishes to cancel bail on its own initiative (suo motu), it must first issue a notice to the accused to show cause why the bail should not be cancelled.",
+          "The Court suggested that if the High Court found the adjournment request unreasonable, it had other options, such as refusing the adjournment or appointing another advocate to argue the appeal, rather than cancelling the bail."
+        ],
+        "conclusion": "The Supreme Court held that a High Court cannot cancel the bail of an accused (granted pending an appeal) without first giving the accused a reasonable opportunity to be heard. Cancelling bail simply because the accused's lawyer requested an adjournment is impermissible. Consequently, the Supreme Court quashed the High Court's order and restored the accused's bail."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "When the sentence of accused is suspended on appeal and he is released on bail, whether the High Court can cancel the bail without giving a reasonable opportunity, to the accused of being heard.",
+      "appellant_arguments": [
+        "The High Court erred by cancelling the appellant's bail without providing an opportunity to be heard on the issue.",
+        "The appellant should not be penalized for the default of their advocate, who sought an adjournment during the final hearing of the appeal."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments made by the respondent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure, 1973",
+        "section": "Section 389",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Bani Singh v. State of U.P.",
+        "citation": "(1996) 4 SCC 720",
+        "principle": "If an appellant applies for an adjournment on unreasonable or unwarranted grounds, the appellate court has the discretion to refuse the adjournment and proceed with the appeal by taking recourse to other options, such as appointing an advocate to argue the case for the appellant.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When an appellant seeks an adjournment on unreasonable grounds, the appellate court has the power to refuse the adjournment and the discretion to appoint an advocate to argue the case on behalf of the appellant.",
+    "obiter": [
+      "If the appellant applies for adjournment on any unreasonable or unwarranted ground, it will be always open for the High Court to proceed with the appeal by taking recourse to one of the options laid down in the case of Bani Singh."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court's approach of cancelling the appellant-accused's bail without providing an opportunity to be heard on the issue cannot be countenanced. For the default of the advocate appointed by the accused, the Appellate Court cannot penalize the accused by proceeding to cancel his bail only on the ground that his advocate has sought an adjournment.",
+    "legal_tests_applied": [
+      "Under no circumstances, the bail granted to an accused under Section 389(1) can be cancelled without giving a reasonable opportunity to the accused of being heard."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "An accused person should not be penalized for the default of their advocate, especially when the default is seeking an adjournment.",
+      "The appellate court has other remedies to deal with an advocate seeking an unreasonable adjournment, such as refusing the prayer for adjournment or appointing another advocate to espouse the cause of the appellant, rather than cancelling bail."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[1]": [
+      "p4_3fda5f10"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p4_9a77156d"
+    ]
+  }
+}

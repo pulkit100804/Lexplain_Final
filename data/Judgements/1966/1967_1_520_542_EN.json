@@ -1,0 +1,126 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional District Magistrate (Judicial), Saharanpur",
+    "impugned_order": "Two orders of the Additional District Magistrate (Judicial), Saharanpur, dated 6th August, 1963 and 5th October, 1963, dismissing two applications presented by the appellant for dismissing a complaint pending before him for commission of offences under sections 211, 204 and 385 of the Indian Penal Code.",
+    "high_court_proceedings": "The appellant, M. L. Sethi, filed a revision application in the High Court at Allahabad desiring the vacation of an order passed by the Sessions Judge of Saharanpur upholding the two orders of the Additional District Magistrate. The High Court dismissed the revision application.",
+    "supreme_court_posture": "M. L. Sethi appealed to the Supreme Court under a certificate granted by the High Court at Allahabad, seeking to quash the proceedings pending in the Court of the Additional District Magistrate."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the bar under Section 195(1)(b) of the Criminal Procedure Code, which prevents a court from taking cognizance of an offence under Section 211 of the Indian Penal Code, applies only when the offence is committed in relation to a proceeding that is pending or has concluded, or if it also extends to proceedings that are merely contemplated in the future.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "name": "Section 195(1)(b) of the Criminal Procedure Code (Cr.P.C.)",
+            "description": "This section bars a court from taking cognizance of certain offences, including an offence under Section 211 of the Indian Penal Code (IPC), when the offence is alleged to have been committed in, or in relation to, any proceeding in any court, except on the written complaint of that court."
+          },
+          {
+            "name": "Section 211 of the Indian Penal Code (IPC)",
+            "description": "This section pertains to the offence of making a false charge of an offence with the intent to cause injury."
+          }
+        ],
+        "application": [
+          {
+            "step": 1,
+            "description": "The Court first established that the applicability of the bar under Section 195(1)(b) must be determined at the time the Magistrate takes cognizance of the complaint."
+          },
+          {
+            "step": 2,
+            "description": "The Court analyzed three possible scenarios: (a) no court proceeding is pending or has concluded, (b) a court proceeding is currently pending, or (c) a court proceeding has already concluded. It clarified that the bar under Section 195(1)(b) clearly applies to the latter two scenarios (b and c)."
+          },
+          {
+            "step": 3,
+            "description": "The Court then directly addressed the appellant's argument that the bar should also apply to proceedings that are merely 'under contemplation' for the future."
+          },
+          {
+            "step": 4,
+            "description": "The Court rejected this argument based on the plain language of the statute. It found \"nothing in the language of the sub-section\" to suggest that the legislature intended to include future, contemplated proceedings. A 'proceeding in contemplation' is not the same as a 'proceeding in any court'."
+          },
+          {
+            "step": 5,
+            "description": "The Court reasoned that accepting this interpretation would introduce an \"element of uncertainty\" into the law. The applicability of the bar would depend on a future, uncertain decision by another person, which is an incorrect way to interpret the law."
+          },
+          {
+            "step": 6,
+            "description": "Furthermore, it would place an impossible burden on the Magistrate, who could not be expected to determine whether a proceeding was being contemplated and if the current offence would be related to that hypothetical future proceeding."
+          }
+        ],
+        "conclusion": "The Supreme Court concluded that the bar under Section 195(1)(b) of the Cr.P.C. applies only when an offence under Section 211 of the IPC is committed in relation to a court proceeding that is actually pending or has already concluded. The bar does not extend to proceedings that are merely contemplated in the future, as this interpretation is not supported by the statutory language and would create unacceptable uncertainty in the law."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the bar under Section 195(1)(b) of the Criminal Procedure Code, which prevents a court from taking cognizance of an offence under Section 211 of the Indian Penal Code, applies only when the offence is committed in relation to a proceeding that is pending or has concluded, or if it also extends to proceedings that are merely contemplated in the future.",
+      "appellant_arguments": [
+        "The appellant argued that the court was barred from taking cognizance of the complaint under Section 211 of the Indian Penal Code due to the provisions of Section 195(1)(b) of the Criminal Procedure Code.",
+        "Relying on case law (In Re Vasudeo Ramchandra Joshi), the appellant contended that the bar under Section 195(1)(b) applies even if the offence was committed when the court proceeding was merely in contemplation, and not yet pending.",
+        "Therefore, since the false report was made with the intention of initiating a criminal proceeding, the respondent's private complaint was not maintainable, and only the concerned court could initiate proceedings."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the bar under Section 195(1)(b) Cr.P.C. was inapplicable because the offence under Section 211 I.P.C. was not committed in, or in relation to, any proceeding pending in any court.",
+        "The false First Information Report lodged by the appellant only led to a police investigation, which does not constitute a 'proceeding in any Court'.",
+        "Since no court proceedings were pending when the respondent filed the complaint, the Magistrate was competent to take cognizance of it."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "195(1)(b)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "211",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "J. D. Boywalla v. Sorab Rustomji Engineer",
+        "citation": "",
+        "principle": "The case was cited to be distinguished from the facts of the present case. It was held to be inapplicable because in that case, a Magistrate had already passed orders on a police report, meaning a court proceeding had commenced, which was not the situation in the case at hand.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The bar on a court taking cognizance of an offense under Section 195(1)(b) of the Code of Criminal Procedure applies only when the offense is alleged to have been committed in, or in relation to, a proceeding that is actually pending in a court or has already been taken. The bar does not apply if a court proceeding is merely under contemplation at the time the court is asked to take cognizance of the offense.",
+    "obiter": [
+      "The limitation laid down by Section 195 of the Code of Criminal Procedure is a limitation only on the power of Courts to take cognizance of and try offenses, and does not have the effect of converting an act, which was an offense, into an innocent act."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The bar on a court taking cognizance of an offence under Section 195(1)(b) of the Criminal Procedure Code applies only when the offence is alleged to have been committed in, or in relation to, a proceeding that is actually pending in a court or a proceeding that has already concluded. The bar does not extend to situations where a court proceeding is merely contemplated in the future, as the language of the statute does not support such an interpretation and it would place an impossible predictive burden on the Magistrate at the cognizance stage.",
+    "legal_tests_applied": [
+      "To determine if the bar under Section 195(1)(b) Cr.P.C. applies, the court must assess the status of the related court proceeding at the time cognizance is sought. The bar operates if: (1) a proceeding in a court is actually pending at the point of time when cognizance is sought to be taken, or (2) a proceeding had already been initiated and concluded in a court, and the offence is alleged to have been committed in or in relation to that concluded proceeding. The bar does not apply if there is no proceeding in any court at all."
+    ],
+    "why_appellant_lost": [
+      "The appellant's interpretation that the bar applies to proceedings merely under contemplation is not supported by the statutory language. The Court found: 'There is nothing in the language to indicate that the Legislature also intended to lay down this bar if a proceeding in a Court was still under contemplation...'",
+      "Accepting the appellant's argument would introduce an unacceptable level of uncertainty into the law, which is an interpretation that must be avoided.",
+      "The appellant's position would place an impossible and unjudicial burden on the Magistrate, who would be required to determine in advance whether an offence would, at some future point, be found to have been committed in relation to a proceeding that has not yet been initiated. The Court stated a Magistrate 'could not be expected to discharge properly and judicially as no Magistrate could determine in advance of a proceeding in a Court whether the offence...will be an offence which will be found subsequently to have been committed in relation to the contemplated proceeding to be taken thereafter.'"
+    ],
+    "why_respondent_won": [
+      "The bar under Section 195(1)(b) is explicitly limited to offences committed 'in, or in relation to, any proceeding in any Court.' Since the respondent's complaint was filed when no such proceeding existed, the bar was inapplicable.",
+      "The Court affirmed that a private complaint is permissible if the offence was not committed in relation to any court proceeding. It held: 'If the offence was not committed in, or in relation to, any proceeding in any Court, a private complaint is clearly permissible.'",
+      "At the specific time the Magistrate took cognizance of the respondent's complaint, there was no proceeding pending or concluded in any court of law, which is the determinative factor. The Court noted, '...the cognizance of the complaint filed by the respondent against the appellant was taken at a stage when there was no proceeding in any Court of law...'"
+    ],
+    "policy_considerations": [
+      "The purpose of Section 195, which is to uphold the dignity and prestige of the courts, is only engaged once proceedings have actually been instituted. The Court reasoned: 'The question of upholding the dignity and prestig~ of courts of law only arises after there are proceedings in the Courts and not at the stage when no such proceedings have been instituted or have come into existence in any Court.'"
+    ]
+  },
+  "evidence_map": {}
+}

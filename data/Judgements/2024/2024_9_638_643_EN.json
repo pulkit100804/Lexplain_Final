@@ -1,0 +1,99 @@
+{
+  "procedural_history": {
+    "originating_court": "National Consumer Disputes Redressal Commission, New Delhi",
+    "impugned_order": "Order dated 19.07.2024 passed by the National Consumer Disputes Redressal Commission foreclosing the right of the appellant to file a written statement in a complaint filed by respondent Nos. 1 to 31.",
+    "high_court_proceedings": "Not applicable. The case originated in the National Consumer Disputes Redressal Commission, which is a national level commission, not a High Court.",
+    "supreme_court_posture": "The appellant approached the Supreme Court because the National Consumer Disputes Redressal Commission foreclosed their right to file a written statement. The appellant argued that they were not given sufficient time to file the written statement because they were not provided with a copy of the complaint, even though their counsel appeared on 06.02.2024 and accepted notice. The Supreme Court allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the right of the appellant to file a written statement was correctly foreclosed, despite the appellant's claim that they were not served with a copy of the complaint.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The National Consumer Disputes Redressal Commission foreclosed the appellant's right to file a written statement because it was not filed within the granted time.",
+          "The appellant's counsel had accepted notice in court on the first hearing date (06.02.2024).",
+          "The appellant's primary argument was that they could not file the statement because they were never served with a copy of the complaint.",
+          "The Commission's order from 06.02.2024 noted that notice was accepted and time was granted, but it did not record that a copy of the complaint was actually supplied to the appellant's counsel.",
+          "The Commission had placed the burden on the appellant to make an attempt to get a copy of the complaint."
+        ],
+        "law": [
+          "A party's fundamental right to file a written statement and defend themselves in a case should not be foreclosed based on \"conjectures and surmises.\"",
+          "There is a distinction between a case where a complaint is served along with a notice and a case where counsel merely accepts notice in court without receiving the complaint.",
+          "Denying the right to file a defense without clear proof that the party received the complaint is considered \"too harsh.\""
+        ],
+        "application": [
+          "The Supreme Court focused on the official record of the Commission's order from 06.02.2024.",
+          "It found that the order was silent on the crucial point of whether the complaint was physically supplied to the appellant's counsel. The Court noted that if the order had mentioned the complaint being supplied, it \"would have clinched the issue.\"",
+          "In the absence of any record confirming the complaint was served, the Court could not assume it had been. It rejected the Commission's view that the appellant was responsible for obtaining the complaint.",
+          "The Court reasoned that without receiving the complaint, it was impossible for the appellant to file a proper written statement. Therefore, foreclosing their right to do so was unjust."
+        ],
+        "conclusion": "The Supreme Court set aside the Commission's order that had foreclosed the appellant's right to file a written statement. It permitted the appellant to file the statement by a new deadline, but conditioned this on the payment of costs to the complainants to compensate for the delay."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the right of the appellant to file a written statement was correctly foreclosed, despite the appellant's claim that they were not served with a copy of the complaint.",
+      "appellant_arguments": [
+        "The appellant was not granted the legally provided time to file the written statement because a copy of the complaint was never supplied to their counsel.",
+        "It was impossible for the appellant to file a written statement without having a copy of the complaint.",
+        "The appellant's counsel appeared on the first date (06.02.2024) only after seeing the matter in the cause list and, while accepting notice, was not handed the complaint.",
+        "The Commission's order from 06.02.2024 does not record that a copy of the complaint was supplied to the appellant's counsel, which would have been a crucial fact.",
+        "The appellant has no intention to delay the proceedings, as demonstrated by their counsel accepting notice on the very first day of the hearing.",
+        "Granting an opportunity to file the written statement would not cause significant delay, as the next hearing was scheduled more than five months later (09.01.2025)."
+      ],
+      "respondent_arguments": [
+        "Citing the Constitution Bench judgment in New India Assurance Company Limited’s case, the maximum period to file a written statement is 45 days.",
+        "The Commission rightly foreclosed the appellant's right because more than 45 days had expired since their counsel accepted notice.",
+        "It was the duty of the appellant to ask for a copy of the complaint from the complainant's counsel if it was not received.",
+        "The appellant is merely trying to delay the proceedings."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Consumer Protection Act, 1986",
+        "section": "13",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "New India Assurance Company Limited v. Hilli Multipurpose Cold Storage Private Limited",
+        "citation": "[2020] 5 SCR 429 : (2020) 5 SCC 757",
+        "principle": "The commencing point of limitation of 30 days for filing a written statement is from the date of receipt of the notice accompanied with the complaint by the opposite party, and not on mere receipt of the notice of the complaint.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The statutory period for filing a written statement commences from the date of receipt of the notice accompanied with the complaint by the opposite party, and not from the mere receipt of the notice of the complaint.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court's reasoning is primarily pragmatic and procedural, focusing on the fact that allowing the appellant to file a written statement would cause no actual delay to the proceedings. It observed that the next hearing date was set by the Commission more than five months after it foreclosed the appellant's right, providing a sufficient window for the appellant to file their statement, the complainants to file a replication, and for evidence to be filed, all before the next scheduled date. This practical consideration outweighed a strict application of the procedural time limit, especially in light of the appellant's claim that they were never served with the complaint, which is essential for preparing a defense.",
+    "legal_tests_applied": [],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The court prioritized completing the pleadings to ensure a decision on the merits over strict procedural foreclosure, particularly when doing so would not prejudice the opposing party or delay the overall timeline of the case.",
+      "Granting an opportunity to file a defense is justified when the next scheduled hearing is far in the future, as this allows for the completion of pleadings without disrupting the court's calendar."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p2_09a43067"
+    ]
+  }
+}

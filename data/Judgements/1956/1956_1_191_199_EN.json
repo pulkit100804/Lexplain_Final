@@ -1,0 +1,138 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of the Sessions Judge at Bahraich in Criminal S.T. No. 9 of 1955",
+    "impugned_order": "Judgment and order dated the 26th September 1955 of the Allahabad High Court (Lucknow Bench) in Criminal Appeal No. 195 of 1955 and Capital Sentence No. 17 of 1955 arising out of the judgment and order dated the 11th April 1955 of the Court of the Sessions Judge at Babraich in Criminal S.T. No. 9 of 1955.",
+    "high_court_proceedings": "The Allahabad High Court (Lucknow Bench) heard Criminal Appeal No. 195 of 1955 and Capital Sentence No. 17 of 1955, arising from the Sessions Judge's judgment and order dated April 11, 1955.",
+    "supreme_court_posture": "The Supreme Court heard the case on appeal by special leave from the Allahabad High Court's judgment and order."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Affirmed",
+    "sentence_status": "Affirmed",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether there was any prejudice caused to the appellant on account of improper or insufficient recording of his statement by the Sessions Judge under section 342 of the Code of Criminal Procedure.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant argued that the Sessions Judge failed to ask him any specific questions about the act of murder or robbery during his examination under section 342 of the Code of Criminal Procedure.",
+          "At the beginning of the examination, the Sessions Judge read out the appellant's prior statement made to the Committing Magistrate and asked if it was correct.",
+          "The appellant replied that the prior statement was correct.",
+          "That prior statement before the Magistrate contained a specific question as to whether the appellant had murdered the victim and taken his property, which the appellant had denied."
+        ],
+        "law": [
+          "A statement made by an accused before a Committing Magistrate is admissible in the Sessions Court under section 287 of the Code of Criminal Procedure."
+        ],
+        "application": [
+          "The Court reasoned that since the appellant admitted his statement before the Committing Magistrate was correct, it was not necessary for the Sessions Judge to repeat the specific questions about murder and robbery that were already in that statement.",
+          "Furthermore, the Court found that the appellant's statement to the Sessions Judge, when read as a whole, clearly showed that he understood the accusations against him.",
+          "This was evidenced by the fact that the appellant offered his own explanation for the victim's disappearance and for why he was in possession of the deceased's goods."
+        ],
+        "conclusion": "The Supreme Court rejected the appellant's argument, concluding that there was no justification for supposing that any prejudice had been caused to him by an improper or insufficient recording of his statement by the Sessions Judge."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether recent and unexplained possession of stolen property can be considered presumptive evidence for a charge of murder, in addition to a charge of robbery.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was found in possession of goods belonging to a man who had recently been murdered and robbed.",
+          "The murder and the robbery were established to be parts of the same transaction.",
+          "The appellant's possession of the stolen goods was recent (found a few days after the murder) and he did not provide a credible explanation for it."
+        ],
+        "law": [
+          "The Court cited the established legal principle that the recent and unexplained possession of stolen goods is not only presumptive evidence of theft or robbery, but can also be indicative of a more aggravated crime connected with the theft, such as murder.",
+          "It referenced several prior cases (Queen-Empress v. Sami, Emperor v. Chintamoni Shahu, The EmperrJr v. Sheikh Neamatulla) and legal treatises (Wills on Circumstantial Evidence) that support this view.",
+          "The core rule applied is that when murder and robbery are shown to be parts of a single transaction, the presumption arising from the possession of the stolen property applies to both the charge of robbery and the charge of murder."
+        ],
+        "application": [
+          "The Court determined that the murder and robbery of the deceased formed parts of a single transaction.",
+          "Since the appellant was found in recent and unexplained possession of the property stolen during that transaction, the Court applied the legal presumption to him.",
+          "This presumption, combined with other facts like the appellant's conduct indicating a \"consciousness of guilt,\" pointed to his involvement in both the robbery and the murder."
+        ],
+        "conclusion": "The Supreme Court held that the recent and unexplained possession of the stolen property was presumptive evidence against the appellant not only on the charge of robbery but also on the charge of murder, as both crimes were part of the same transaction. Therefore, it upheld his conviction for both offenses."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether there was any prejudice caused to the appellant on account of improper or insufficient recording of his statement by the Sessions Judge under section 342 of the Code of Criminal Procedure.",
+      "appellant_arguments": [
+        "The Sessions Judge failed to put any specific question to the appellant concerning the act of murder or robbery when he was examined under section 342 of the Code of Criminal Procedure."
+      ],
+      "respondent_arguments": [
+        "The Sessions Judge read out the appellant's statement made before the Committing Magistrate (where he was pointedly asked about the murder and robbery) and the appellant affirmed it was correct, making it unnecessary for the Sessions Judge to repeat the questions.",
+        "The appellant's statement, when read as a whole, clearly shows he knew the accusation against him and offered an explanation, meaning no prejudice was caused."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether recent and unexplained possession of stolen property can be considered presumptive evidence for a charge of murder, in addition to a charge of robbery.",
+      "appellant_arguments": [
+        "The evidence presented was insufficient to establish the charge of murder.",
+        "The evidence, at most, establishes the minor offence of robbery or theft, not murder."
+      ],
+      "respondent_arguments": [
+        "Recent and unexplained possession of stolen property serves as presumptive evidence against the accused for the charge of murder, just as it does for the charge of robbery.",
+        "All the facts, especially the appellant's conduct indicating a consciousness of guilt, point to the conclusion that he was guilty of murder as well as robbery."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "106, Illustration (b)",
+        "used_by_court": true,
+        "principle": "To determine the scope of the burden of proof for facts 'especially within the knowledge' of the accused, in a situation where the prosecution relied on it to shift the burden onto the appellant."
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "287",
+        "used_by_court": true,
+        "principle": "The statement of an accused before the Committing Magistrate is admissible in the subsequent trial."
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "342",
+        "used_by_court": true,
+        "principle": "To assess whether any prejudice was caused to the accused on account of an improper or insufficient recording of their statement by the Sessions Judge."
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "In cases where murder and robbery are shown to be parts of the same transaction, the recent and unexplained possession of stolen property is presumptive evidence against a person not only on the charge of robbery but similarly on the charge of murder.",
+    "obiter": [
+      "The possession of stolen goods recently after their loss may be indicative not merely of larceny or receiving with guilty knowledge, but of any other more aggravated crime which has been connected with the theft."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the appellant was rightly convicted of both murder and robbery, establishing that the legal presumption arising from recent and unexplained possession of stolen property applies not only to the charge of robbery but also similarly to the charge of murder, especially when supported by other facts like conduct indicating a consciousness of guilt.",
+    "legal_tests_applied": [
+      "Recent and unexplained possession of stolen property serves as presumptive evidence against a prisoner not only on a charge of robbery but similarly as evidence against him on a charge of murder when the two offenses are connected.",
+      "An allegedly improper or insufficient recording of an accused's statement under section 342 of the Code of Criminal Procedure is not a fatal defect if, when the statement is read as a whole, it is clear the accused knew the accusation against him and no prejudice was caused."
+    ],
+    "why_appellant_lost": [
+      "The argument regarding the improper recording of his statement failed because the Sessions Judge had read out the appellant's earlier statement to the Committing Magistrate, where he was pointedly asked about the murder and robbery, and the appellant affirmed it was correct. The court found it was not necessary for the Sessions Judge to repeat the same questions.",
+      "The court determined that the appellant's statement, when read as a whole, clearly showed he knew the accusation against him and had offered an explanation, meaning there was no justification for supposing that any prejudice had been caused.",
+      "The argument that the evidence was insufficient for a murder conviction was rejected because the court held that the recent and unexplained possession of the victim's property was presumptive evidence for the charge of murder, not just robbery.",
+      "The court found that all the facts, especially the appellant's 'conduct indicating consciousness of guilt', pointed equally to the conclusion that he was guilty of murder as well as robbery."
+    ],
+    "why_respondent_won": [
+      "The respondent's position that the appellant's statement was properly handled was accepted because the appellant had affirmed his earlier, more detailed statement from the Committing Magistrate, which was admissible under section 287 of the Code of Criminal Procedure.",
+      "The respondent successfully argued that the presumption from possessing stolen goods extends to the more serious crime of murder. The court explicitly held that 'recent and unexplained possession of the stolen property while it would be presumptive evidence against a prisoner on the charge of robbery would similarly be evidence against him on the charge of murder.'"
+    ],
+    "policy_considerations": [
+      "The court's reasoning did not explicitly mention any public policy, fairness, or systemic justice considerations, focusing instead on the direct application of established evidentiary rules and procedural requirements."
+    ]
+  },
+  "evidence_map": {}
+}

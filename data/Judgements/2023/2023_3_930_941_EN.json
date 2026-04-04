@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred from mention of 'Original Record of the Trial Court')",
+    "impugned_order": "Judgment and Order dated 22.02.2012 of the High Court of Judicature at Allahabad in CRLA Nos.6293, 6294 and 6295 of 2009.",
+    "high_court_proceedings": "The High Court commuted death sentence into life sentence (inferred from the State's appeal for enhancement of sentence).",
+    "supreme_court_posture": "Accused Ajai alias Ajju, Braj Pal, Ravi, and Mukesh appealed the High Court's judgment via Criminal Appeals No.598-600 of 2013 and Criminal Appeal No.337 of 2014. The State of Uttar Pradesh also appealed via Criminal Appeals No.745-748 of 2015, seeking enhancement of the sentence. The Supreme Court dismissed all appeals."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Affirmed",
+    "sentence_status": "Affirmed",
+    "directions": [
+      "Criminal Appeal No.598 of 2013 stands abated.",
+      "Criminal Appeal Nos.598-600 of 2013 and Criminal Appeal No. 337 of 2014 are liable to be dismissed and are accordingly dismissed.",
+      "Criminal Appeal Nos.745-748 of 2015 also stand dismissed.",
+      "The appellants are in custody and they will serve out their sentence."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the non-examination of a witness's statement under Section 164 of the Code of Criminal Procedure (CrPC) has a significant bearing on the findings and conclusions of the lower courts.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The statement of the key prosecution witness, Smt Pinky (PW-1), was not recorded before a Magistrate under Section 164 of the Code of Criminal Procedure (CrPC).",
+          "The defense argued that this omission created doubt about the credibility of the prosecution's case."
+        ],
+        "law": [
+          "The decision to have a witness's statement recorded under Section 164 of the CrPC is at the discretion of the Investigating Officer."
+        ],
+        "application": [
+          "The Court reasoned that it was up to the Investigating Officer to decide if it was necessary to have the statement recorded under Section 164.",
+          "The officer's decision not to do so, for whatever reason, does not diminish the value or credibility of the witness's testimony given later in court during the trial.",
+          "The Court held that the absence of a Section 164 statement cannot have any bearing on the testimony of PW-1 or other material evidence presented during the trial."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, concluding that the non-recording of a witness's statement under Section 164 CrPC has no relevance or bearing on the findings of the lower courts, as it is a matter of discretion for the Investigating Officer and does not affect the evidentiary value of the witness's in-court testimony."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the non-examination of a witness's statement under Section 164 of the Code of Criminal Procedure (CrPC) has a significant bearing on the findings and conclusions of the lower courts.",
+      "appellant_arguments": [
+        "The non-examination of a witness's statement under Section 164 of the Code of Criminal Procedure (CrPC) has a significant bearing on the findings and conclusions of the lower courts."
+      ],
+      "respondent_arguments": [
+        "The witness (PW-1) is an injured witness, and there is no reason for her to make a false implication while allowing the real assailants to go free.",
+        "The witness's testimony in court fully supported the prosecution story as narrated in her statement under Section 161 CrPC.",
+        "Nothing was elicited during the cross-examination of the witness that could weaken or demolish her testimony, proving her to be a fully reliable witness who stated things in a natural course.",
+        "The appellants cannot gain anything from the submission regarding the non-recording of the statement under Section 164 CrPC as the witness's testimony was consistent and reliable."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The provided text does not contain a binding legal rule (ratio decidendi); it only includes the court's final decision and procedural details for a specific case.",
+    "obiter": [
+      "The text does not contain any non-binding judicial observations (obiter dicta)."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The non-examination of certain witnesses has no material bearing on the case's outcome. The prosecution has the discretion to present the evidence it deems necessary, and the determinative factor is the quality of the witnesses who do testify, not the quantity of witnesses presented.",
+    "legal_tests_applied": [
+      "It is the discretion of the prosecution to lead as much evidence as is necessary for proving the charge.",
+      "It is not the quantity of the witnesses but the quality of witnesses which matters."
+    ],
+    "why_appellant_lost": [
+      "The non-examination of other potential witnesses was found to have no material bearing on the case.",
+      "The appellants' submission regarding the non-examination of witnesses was rejected, with the court stating that the appellants cannot gain anything from it."
+    ],
+    "why_respondent_won": [
+      "The court affirmed the prosecution's discretion to decide which witnesses and how much evidence to present to prove the charge.",
+      "The court's decision rested on the principle that the quality of the evidence provided, particularly from the injured witness (PW-1), was sufficient, making the quantity of witnesses irrelevant."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p3_42f4cd91"
+    ],
+    "decision.directions[2]": [
+      "p12_ed909591"
+    ],
+    "judicial_reasoning.legal_tests_applied[1]": [
+      "p2_ca49c675",
+      "p11_f800571a"
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "procedural_history": {
+    "originating_court": "Magistrate's Court",
+    "impugned_order": "Order of acquittal by the Magistrate, accepting the respondent's contention that he could not be convicted after being denied his right to obtain the Director's certificate due to delay in launching the prosecution.",
+    "high_court_proceedings": "The appellant (Municipal Corporation) filed an appeal against the Magistrate's order of acquittal before the Delhi Bench of the Punjab High Court. The Punjab High Court upheld the order of the Magistrate.",
+    "supreme_court_posture": "The appellant (Municipal Corporation) appealed to the Supreme Court by special leave against the decision of the Punjab High Court."
+  },
+  "decision": {
+    "appeal_result": "dismissed",
+    "conviction_status": "acquitted",
+    "sentence_status": null,
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the report of the Public Analyst ceases to be effective evidence if a certificate from the Director of the Central Food Laboratory cannot be obtained for any reason.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Under the relevant Act (Prevention of Food Adulteration Act, 1954), an accused has the right to have their food sample analyzed by the Director of the Central Food Laboratory.",
+          "A certificate issued by the Director of the Central Food Laboratory supersedes the initial report from the Public Analyst and is considered final and conclusive evidence."
+        ],
+        "law": [
+          "Section 13(3) of the Act states that the certificate from the Director of the Central Food Laboratory supersedes the report of the Public Analyst.",
+          "The proviso to Section 13(5) of the Act states that the Director's certificate is final and conclusive evidence of the facts stated within it."
+        ],
+        "application": [
+          "The Court reasoned that the provisions for superseding the Public Analyst's report (Section 13(3)) and for the Director's certificate being final and conclusive (Section 13(5)) are only activated if the Director actually analyzes the sample and issues a certificate.",
+          "The Court determined that if, for any reason, the Director does not issue a certificate, the legal condition for supersession is never met.",
+          "Therefore, in the absence of a certificate from the Director, the original report from the Public Analyst is not nullified or rendered ineffective."
+        ],
+        "conclusion": "The Supreme Court decided that the report of the Public Analyst does not cease to be effective evidence simply because a certificate from the Director of the Central Food Laboratory cannot be obtained. The Court held that the Public Analyst's report only gets superseded if the Director actually issues a certificate; if no certificate is issued for any reason, the Analyst's report remains valid evidence of the facts it contains."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether an accused can be convicted on the basis of the Public Analyst's report when they are denied the right under Section 13(2) of the Prevention of Food Adulteration Act, 1954, to have their sample analyzed, due to the prosecution's inordinate delay which caused the sample to decompose.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A food inspector took a sample of curd from the respondent's shop, divided it into three parts, and gave one to the respondent.",
+          "A complaint was filed against the respondent seven months after the Public Analyst's report was received.",
+          "The respondent exercised their right under Section 13(2) of the Act to have their sample analyzed by the Director of the Central Food Laboratory.",
+          "The Director reported that the sample was too decomposed to be analyzed.",
+          "The trial court acquitted the respondent, finding they had been denied their right due to the prosecution's delay."
+        ],
+        "law": [
+          "Section 13(2) of the Prevention of Food Adulteration Act, 1954, confers a valuable right on an accused to have their sample analyzed by the Director of the Central Food Laboratory.",
+          "A certificate from the Director supersedes the report of the Public Analyst and is considered conclusive evidence.",
+          "If the Director cannot issue a certificate for any reason (such as decomposition), the Public Analyst's report does not automatically become invalid and can still be used as evidence.",
+          "However, a distinction is made between cases where the right is frustrated for reasons beyond the prosecution's control and cases where it is frustrated due to the prosecution's own conduct."
+        ],
+        "application": [
+          "The Court determined that the respondent was denied their valuable right under Section 13(2) directly because of the prosecution's actions.",
+          "The prosecution was faulted for an \"inordinate delay\" of seven months in filing the complaint after receiving the Public Analyst's report, with no explanation for the delay.",
+          "This delay was the reason the sample decomposed before the respondent had the opportunity to have it analyzed, as the right to request this analysis only arises after prosecution is initiated.",
+          "The Court also noted that the prosecution should have taken the \"elementary precaution\" of adding a preservative to the sample, which would have kept it viable for analysis for a much longer period, thus mitigating any potential delays.",
+          "Because the denial of the right was a result of the prosecution's own conduct (delay and failure to add a preservative), the accused was found to be \"seriously prejudiced\" in their defense."
+        ],
+        "conclusion": "The Supreme Court concluded that while the Public Analyst's report remains evidence, a conviction cannot be sustained when the accused is denied the valuable right to challenge that report under Section 13(2) due to the deliberate conduct and inordinate delay of the prosecution. This denial caused serious prejudice to the accused's defense, and therefore, the acquittal was justified."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the report of the Public Analyst ceases to be effective evidence if a certificate from the Director of the Central Food Laboratory cannot be obtained for any reason.",
+      "appellant_arguments": [
+        "The absence of a certificate from the Director of the Central Food Laboratory for any reason whatsoever does not affect the value and efficacy of the report given by the Public Analyst.",
+        "The Public Analyst's report only ceases to be effective if it is actually superseded by a certificate from the Director; if no such certificate is issued, the report remains valid evidence."
+      ],
+      "respondent_arguments": [
+        "The respondent's defense was based on the premise that he could not be convicted after being denied his right to obtain the Director's certificate, implying the Public Analyst's report alone was insufficient under these circumstances."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether an accused can be convicted on the basis of the Public Analyst's report when they are denied the right under Section 13(2) of the Prevention of Food Adulteration Act, 1954, to have their sample analyzed, due to the prosecution's inordinate delay which caused the sample to decompose.",
+      "appellant_arguments": [
+        "The appellant's primary argument was that the Public Analyst's report remains effective evidence, implying that a conviction could still be based on it despite the delay and decomposition of the second sample."
+      ],
+      "respondent_arguments": [
+        "The respondent was denied his valuable right under Section 13(2) to have his sample analyzed by the Director of the Central Food Laboratory because of the inordinate delay by the appellant in launching the prosecution.",
+        "This delay caused the sample to decompose, making analysis impossible.",
+        "The denial of this right, which is crucial for a proper defense, was due to the prosecution's conduct and therefore, the respondent could not be validly convicted."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Food Adulteration Act, 1954",
+        "section": "s. 7, s. 13(2), s. 13(3), s. 13(5), s. 16",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A conviction cannot be sustained where the accused is denied the valuable statutory right to have their sample analyzed by the Director of the Central Food Laboratory due to the conduct of the prosecution, as this denial causes serious prejudice to the accused's defense.",
+    "obiter": [
+      "The report of the Public Analyst does not cease to be valid evidence merely because a certificate from the Director of the Central Food Laboratory cannot be obtained."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The report of the Public Analyst does not cease to be good evidence merely because a certificate from the Director of the Central Food Laboratory cannot be obtained. However, a conviction cannot be sustained on the basis of that report if the accused is denied the valuable right under Section 13(2) to get their sample analyzed, and that denial is solely due to the deliberate acts and inordinate delay of the prosecution which caused the sample to decompose. The prejudice to the accused's defense in such a circumstance is so serious that it vitiates the conviction.",
+    "legal_tests_applied": [
+      "Whether the accused was denied the valuable right conferred by Section 13(2) of the Prevention of Food Adulteration Act, 1954, to have their sample analyzed by the Director of the Central Food Laboratory.",
+      "Whether the denial of this right was a result of the deliberate conduct or inordinate delay of the prosecution.",
+      "Whether the denial of this right seriously prejudiced the accused in their defense."
+    ],
+    "why_appellant_lost": [
+      "The prosecution committed an inordinate and unexplained delay, filing the complaint about seven months after receiving the Public Analyst's report.",
+      "This delay directly resulted in the decomposition of the respondent's sample, making it impossible for the Director of the Central Food Laboratory to analyze it.",
+      "The prosecution's conduct deprived the respondent of the opportunity to exercise his valuable statutory right under Section 13(2) to challenge the Public Analyst's report with a potentially superseding certificate from a greater expert.",
+      "The Food Inspector failed to take the elementary precaution of adding a preservative to the sample, which would have prevented its decomposition and preserved the respondent's right despite the delay.",
+      "The denial of this right, solely due to the prosecution's conduct, caused serious prejudice to the respondent's defense, making it improper to uphold a conviction based on the Public Analyst's report alone."
+    ],
+    "why_respondent_won": [
+      "The respondent was denied the valuable right conferred by Section 13(2) of the Act to have his sample analyzed by the Director of the Central Food Laboratory for his proper defense.",
+      "This right is crucial because the Director's certificate supersedes the Public Analyst's report and is treated as conclusive evidence.",
+      "The denial of this right was not due to any fault of the respondent, but was a direct consequence of the prosecution's inordinate delay in filing the complaint, which allowed the sample to decompose.",
+      "Because the respondent was so seriously prejudiced in his trial by the denial of this right, which resulted from the deliberate conduct of the prosecution, his conviction could not be upheld."
+    ],
+    "policy_considerations": [
+      "When a valuable right is conferred by statute on an accused for their proper defense, it is expected that the prosecution will proceed in such a manner that the right will not be denied to them.",
+      "The conviction of an accused cannot be sustained when they are prejudiced in their defense and denied a valuable right of defending themselves solely due to the deliberate acts of the prosecution.",
+      "The court's principle applies specifically to cases where the prosecution's conduct results in the denial of the right; different considerations may arise if the right is frustrated for reasons for which the prosecution is not responsible."
+    ]
+  },
+  "evidence_map": {
+    "citations.statutes[0].act_name": [
+      "p1_cba7dcea",
+      "p2_e2f60a66"
+    ]
+  }
+}

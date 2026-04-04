@@ -1,0 +1,175 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Magistrate",
+    "impugned_order": "Order of acquittal of 31 persons accused on charges under ss. 147, 323 and 325 of the Indian Penal Code.",
+    "high_court_proceedings": "Jagabandhu Behera filed an appeal to the High Court under s. 417(3) of the Code of Criminal Procedure. The High Court set aside the acquittal of seven of the accused (the appellants to the Supreme Court) and passed sentences ranging from three to six months.",
+    "supreme_court_posture": "The appellants (the seven accused convicted by the High Court) appealed to the Supreme Court by special leave, arguing that the appeal to the High Court was incompetent. The Supreme Court agreed with the appellants, allowed the appeals, and directed the cancellation of their bail bonds."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Sentence set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an appeal against acquittal filed by a private complainant under s. 417(3) of the Code of Criminal Procedure is maintainable against accused persons in a case initiated on a police report, even if it was tried jointly with a complaint case.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Two separate cases were initiated concerning the same assault incident.",
+          "The first case was started based on a police report against ten accused persons (the appellants).",
+          "The second case was started based on a private complaint by the victim against twenty-one other accused persons.",
+          "For convenience, the Magistrate \"clubbed\" the two cases and held a joint trial, as permitted under s. 239 of the Code.",
+          "The trial Magistrate acquitted all the accused persons in both cases.",
+          "The private complainant filed a single appeal to the High Court under s. 417(3) against the acquittal of all the accused.",
+          "The appellants (from the police report case) argued that the appeal against them was not maintainable, as only the State could appeal their acquittal under s. 417(1)."
+        ],
+        "law": [
+          "Section 417(1) of the Code of Criminal Procedure (CrPC) allows the State Government to file an appeal against an acquittal in a case initiated on a police report.",
+          "Section 417(3) of the CrPC allows a private complainant to file an appeal against an acquittal in a case initiated on a complaint.",
+          "Section 239 of the CrPC permits cases to be tried together for convenience if the offenses were committed in the course of the same transaction."
+        ],
+        "application": [
+          "The Supreme Court reasoned that clubbing the two cases together for a joint trial under s. 239 was purely a matter of procedural convenience.",
+          "This act of clubbing did not merge the two cases or alter their fundamental nature and identity for the purpose of appealability.",
+          "The case against the appellants remained one that was initiated on a police report, while the other remained a complaint case.",
+          "The Court stated, \"The two cases retained their individuality except for the convenience of the trial.\"",
+          "Therefore, the specific rules for appeals based on the origin of each case still applied.",
+          "For the appellants, whose case was initiated on a police report, an appeal against their acquittal could only be filed by the State Government under s. 417(1).",
+          "The complainant's right to appeal under s. 417(3) was limited to the accused in the case that was initiated by his private complaint."
+        ],
+        "conclusion": "The Supreme Court concluded that the appeal filed by the private complainant under s. 417(3) was not maintainable (it was \"incompetent\") against the accused persons in the case initiated on the police report. The joint trial was a procedural convenience that did not change the legal character of the original cases, and thus the right to appeal the acquittal in the police report case rested exclusively with the State Government under s. 417(1)."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court, in exercising its revisional jurisdiction under s. 439 of the Code of Criminal Procedure against an order of acquittal, can re-appraise evidence and overturn the acquittal in the absence of exceptional circumstances like a glaring defect in procedure, a manifest error of law, or a flagrant miscarriage of justice.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A Magistrate acquitted several accused persons in an assault case.",
+          "The complainant appealed to the High Court, which treated the matter under its revisional jurisdiction (s. 439 Cr.P.C.).",
+          "The High Court re-appraised the evidence of the prosecution witnesses, disagreed with the Magistrate's assessment of their credibility, and overturned the acquittal, convicting the appellants.",
+          "The High Court justified its interference on the ground that the Magistrate \"had not taken the trouble of sifting the grain from the chaff\"."
+        ],
+        "law": [
+          "The Supreme Court, citing its previous decisions in *K. Chinnaswamy Reddy v. State of Andhra Pradesh*, *Logendranath Jha v. Polailal Biswas*, and *D. Stephens v. Nosibolla*, established the principles governing a High Court's revisional jurisdiction under s. 439 Cr.P.C. against an acquittal.",
+          "This jurisdiction is not to be exercised lightly and is reserved for \"exceptional cases\" where there is a need to correct a \"manifest illegality\" or prevent a \"gross miscarriage of justice.\"",
+          "Exceptional cases include situations where: the trial court lacked jurisdiction, wrongly excluded prosecution evidence, or overlooked material evidence.",
+          "The High Court is not authorized to re-appraise evidence and reverse findings of fact simply because it takes a different view of the evidence than the trial court. Characterizing a lower court's judgment as 'perverse' is not sufficient grounds to interfere with pure findings of fact."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court's actions in this case did not fall within the narrow scope of permissible revision.",
+          "The High Court had not identified any glaring procedural defect, manifest error of law, or overlooked material evidence. Instead, it had set aside the acquittal \"almost entirely on the ground that the Magistrate should not have disbelieved the three eye witnesses.\"",
+          "By simply re-examining the evidence and substituting its own judgment for the Magistrate's, the High Court was engaging in a mere re-appraisal of evidence.",
+          "The Court concluded that this course of action is not permissible under s. 439 of the Criminal Procedure Code."
+        ],
+        "conclusion": "The Supreme Court decided that the High Court cannot, under its revisional jurisdiction (s. 439 Cr.P.C.), re-appraise evidence and overturn an acquittal merely because it disagrees with the trial court's assessment of the evidence. Such interference is only permissible in exceptional cases involving a glaring defect in procedure, a manifest error of law, or a flagrant miscarriage of justice, none of which were present in this case."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an appeal against acquittal filed by a private complainant under s. 417(3) of the Code of Criminal Procedure is maintainable against accused persons in a case initiated on a police report, even if it was tried jointly with a complaint case.",
+      "appellant_arguments": [
+        "The appeal to the High Court was incompetent because the case against the appellants was initiated on a police report (G.R. Case).",
+        "An appeal against their acquittal could only be filed by the State Government under s. 417(1) of the Code of Criminal Procedure.",
+        "An appeal by a private complainant under s. 417(3) is not maintainable in a case instituted on a police report.",
+        "The mere clubbing of the police case with a private complaint case for a joint trial does not change the fundamental character of the police case or grant the complainant a right of appeal they did not otherwise have."
+      ],
+      "respondent_arguments": [
+        "The appeal was maintainable because the two cases (the police report case and the private complaint case) were clubbed together and tried jointly.",
+        "The joint trial, permitted under s. 239 of the Code of Criminal Procedure, effectively merged the two proceedings, allowing the complainant to appeal the acquittal of all accused persons involved in the single trial."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the High Court, in exercising its revisional jurisdiction under s. 439 of the Code of Criminal Procedure against an order of acquittal, can re-appraise evidence and overturn the acquittal in the absence of exceptional circumstances like a glaring defect in procedure, a manifest error of law, or a flagrant miscarriage of justice.",
+      "appellant_arguments": [
+        "The High Court is not permitted to re-appraise or re-examine the evidence under its revisional jurisdiction (s. 439) to overturn an acquittal.",
+        "The Magistrate's decision to acquit was based on a valid assessment of evidence, noting strong enmity between the parties, the key witnesses being interested parties, the lack of independent witnesses, and contradictions with medical evidence.",
+        "The High Court's action of setting aside the acquittal simply because it took a different view of the evidence ('sifting the grain from the chaff') is an impermissible exercise of revisional power."
+      ],
+      "respondent_arguments": [
+        "The High Court was justified in re-appraising the evidence because the Magistrate had discarded the testimony of credible eyewitnesses on extraneous or improper grounds.",
+        "The Magistrate's failure to properly appreciate the evidence and sift 'the grain from the chaff' amounted to a miscarriage of justice, warranting intervention by the High Court in its revisional capacity."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "s. 417(3)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "s. 439",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "s. 423",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Unnamed",
+        "citation": "[1951] S.C.R. 284",
+        "principle": "The revisional jurisdiction under s. 439 of the Code of Criminal Procedure should not be exercised lightly against an order of acquittal, especially when invoked by a private complainant. It is reserved for exceptional cases where there is a manifest illegality or a gross miscarriage of justice, and not merely because the lower court misappreciated evidence or took a wrong view of the law.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Logendranath Jha & Others v. Polailal Biswas",
+        "citation": "[1951] S.CR. 676",
+        "principle": "A High Court, in a revision against an acquittal, cannot re-appraise evidence and reverse findings of fact on which the acquittal was based, as this would circumvent the specific prohibition in s. 439(4) against converting an acquittal into a conviction.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "K. Chinnaswamy Reddy v. State of Andhra Pradesh",
+        "citation": "[1963] 3 SCR 412",
+        "principle": "The High Court's jurisdiction under s. 439 Cr.P.C. to interfere with an acquittal should only be exercised in exceptional cases involving a glaring defect in procedure, a manifest error on a point of law, or a flagrant miscarriage of justice. Such cases include where the trial court lacked jurisdiction, wrongly excluded or admitted evidence, overlooked material evidence, or where the acquittal was based on an invalid compounding of the offence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A High Court, exercising its revisional jurisdiction under Section 439 of the Code of Criminal Procedure against an order of acquittal, cannot re-appraise the evidence and reverse findings of fact on which the acquittal was based. This jurisdiction is to be exercised only in exceptional cases to correct a manifest illegality or prevent a gross miscarriage of justice, such as where the trial court lacked jurisdiction, wrongly excluded or admitted evidence, or overlooked material evidence.",
+    "obiter": [
+      "The specified categories of exceptional cases justifying interference with an acquittal in revision are not exhaustive, and other contingencies may arise."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "An appeal filed by a private complainant under s. 417(3) of the Code of Criminal Procedure against an acquittal is incompetent if the case against the accused was initiated on a police report, and the mere clubbing of such a case with a private complaint case for a joint trial does not alter its fundamental character or grant the complainant a right of appeal. Furthermore, a High Court cannot, in its revisional jurisdiction under s. 439, re-appraise evidence and set aside an acquittal merely because it takes a different view of the facts than the trial court, unless there are exceptional circumstances such as a glaring procedural defect, a manifest error of law, or a flagrant miscarriage of justice.",
+    "legal_tests_applied": [
+      "The test for the maintainability of a private complainant's appeal against acquittal under s. 417(3) is whether the case was instituted upon a complaint. A case initiated on a police report does not become a complaint case simply because it is tried jointly with one.",
+      "The test for exercising revisional jurisdiction under s. 439 against an acquittal is whether there are exceptional circumstances, such as: the trial court lacked jurisdiction; the trial court wrongly shut out evidence; the appeal court wrongly held admitted evidence to be inadmissible; material evidence was overlooked; or the acquittal is based on an invalid compounding of the offence. It is not to be used merely because the lower court took a wrong view of the law or misappreciated the evidence."
+    ],
+    "why_appellant_lost": [
+      "The High Court over-ruled this objection mainly on the ground that s. 239 Cr.P.C. allowed the trial of a number of persons whether accused of the same offence or of different offences if these were committed in the course of the same transaction.",
+      "Sifting the evidence for itself the' High Court held that seven of the accused i.e. the appellants to this Court were guilty of some of the charges framed against them and passed sentences ranging from three months to six months in different cases after setting aside the acquittal."
+    ],
+    "why_respondent_won": [
+      "There were two separate cases of which cognizance was taken separately. One was started on the basis of a police report while the other was on the complaint of Jagabandhu Behera. As the accused in both the cases were said to have committed the offences in the course of the same transaction, the cases were clubbed together for the purpose of trial... That did not however alter the nature of the cases so as to affect their appealability under s. 417. The two cases retained their individuality except for the convenience of the trial.",
+      "The High Court proceeded to re-appraise the evidence of the witnesses and upset the finding of the Magistrate thereon on the ground that he 'had not taken the trouble of sifting the grain from the chaff'. Clearly such a course is not permissible under' s. 439 of the Criminal Procedure Code.",
+      "This does not mean that in dealing with a revision petition by a private party against an order of acquittal, the High Court could in the absence of any error on a point of law re-appraise the evidence and reverse the findings of facts on which the acquittal was based, provided only it stopped short of finding the accused guilty and passing sentence on him.",
+      "The Magistrate was doubtful as to whether the accused persons had any hand in the commission of the crime and although the assault on Jagabandhu was a brutal one there was, according to the Magistrate, no proof beyond reasonable doubt that it was the accused persons who had committed it."
+    ],
+    "policy_considerations": [
+      "The revisional jurisdiction conferred on the High Court under section 439 of the Code of Criminal Procedure is not to be lightly exercised, when it is invoked by a private complainant against an order of acquittal against which the Government has a right of appeal under section 417.",
+      "It could be exercised only in exceptional cases where the interests of public justice require interference for the correction of a manifest illegality, or the prevention of a gross miscarriage of justice. This jurisdiction is not ordinarily invoked or used merely because the lower court has taken a wrong view of the law or misappreciated the evidence on record."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[2].case_name": [
+      "p5_dd568551"
+    ]
+  }
+}

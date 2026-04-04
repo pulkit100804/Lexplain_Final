@@ -1,0 +1,118 @@
+{
+  "procedural_history": {
+    "originating_court": "Second Labour Court, West Bengal",
+    "impugned_order": "Order of the Division Bench of the Calcutta High Court holding that the Second Labour Court had no jurisdiction to deal with the applications of the appellants.",
+    "high_court_proceedings": "1. Workmen applied to the Second Labour Court under s. 33C(2) of the Industrial Disputes Act, 1947.\n2. Companies challenged the jurisdiction of the Second Labour Court.\n3. Second Labour Court accepted the preliminary objection.\n4. Workmen filed a writ petition in the High Court.\n5. Single Judge of the High Court accepted the writ petition, vacating the order of the Second Labour Court and directing it to decide the applications on merits.\n6. Companies filed a Letters Patent Appeal before a Division Bench of the High Court.\n7. Division Bench set aside the decision of the single judge and restored the order of the Second Labour Court.",
+    "supreme_court_posture": "The workmen appealed to the Supreme Court by special leave against the order of the Division Bench of the Calcutta High Court."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "No order as to costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a Labour Court, constituted under Section 7(1) of the Industrial Disputes Act, 1947, has jurisdiction to entertain an application under Section 33C(2) of the Act, even if it has not been specifically designated by the appropriate government for this purpose.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Workmen (the appellants) filed applications under Section 33C(2) of the Industrial Disputes Act, 1947, before the Second Labour Court, West Bengal.",
+          "The companies challenged the court's jurisdiction, arguing that this specific Labour Court had not been designated by the state government to handle such applications as required by the Act.",
+          "It was conceded that there was no specific order from the state government designating the Second Labour Court for the purposes of Section 33C(2)."
+        ],
+        "law": [
+          "Section 7(1) of the Industrial Disputes Act allows the government to constitute Labour Courts for adjudicating industrial disputes and for \"performing such other functions as may be assigned to them under this Act.\"",
+          "Section 33C(2) of the Act states that the computation of money value of a benefit is to be done by \"such Labour Court as may be specified in this behalf by the appropriate Government.\"",
+          "The court interpreted the phrase \"specified in this behalf\" as a clear and mandatory requirement. It signifies that the government must make a specific designation of a particular court to handle Section 33C(2) matters.",
+          "The court held that Section 33C(2) itself is the provision that confers jurisdiction on a Labour Court for this specific function, much like the Code of Civil Procedure confers jurisdiction on Civil Courts. Therefore, the conditions within Section 33C(2), including the need for specification, must be met before a court can take cognizance of the matter."
+        ],
+        "application": [
+          "The Court rejected the argument that all Labour Courts automatically gain jurisdiction under Section 33C(2) simply by being constituted under Section 7(1). The function under Section 33C(2) is one of the \"other functions\" mentioned in Section 7(1) that must be explicitly assigned.",
+          "The Court dismissed an analogy to the Bengal, Agra and Assam Civil Courts Act, clarifying that while that Act constitutes Civil Courts, their power to hear suits comes from the Code of Civil Procedure. In contrast, for Labour Courts, the power to hear a Section 33C(2) application comes directly from that section, which includes the condition of being specified by the government.",
+          "The Court also declined to give a \"liberal construction\" to the provision that would ignore its plain language. It reasoned that the statute presumes the government will fulfill its duty to specify a court, and the potential failure of the government to do so is not a ground to misinterpret the clear statutory requirement.",
+          "Applying this interpretation, the Court found that since the Second Labour Court, West Bengal, had never been specified by the state government for the purpose of Section 33C(2), it did not have the jurisdiction to hear the workmen's applications."
+        ],
+        "conclusion": "The Supreme Court rejected the appeal, holding that a Labour Court does not have jurisdiction to entertain an application under Section 33C(2) of the Industrial Disputes Act merely by virtue of its constitution under Section 7(1). Jurisdiction for this specific function is only conferred upon a Labour Court that has been explicitly designated or \"specified in this behalf\" by the appropriate government."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a Labour Court, constituted under Section 7(1) of the Industrial Disputes Act, 1947, has jurisdiction to entertain an application under Section 33C(2) of the Act, even if it has not been specifically designated by the appropriate government for this purpose.",
+      "appellant_arguments": [
+        "Any Labour Court constituted under Section 7(1) of the Act is automatically competent to handle applications under Section 33C(2) by virtue of the wording of that sub-section itself.",
+        "An analogy should be drawn with Section 13 of the Bengal, Agra and Assam Civil Courts Act, 1887. Just as Section 13(1) of that Act confers general jurisdiction on Civil Courts, Section 7(1) of the Industrial Disputes Act should be interpreted as conferring general jurisdiction on Labour Courts. Therefore, the provision in Section 33C(2) for the government to specify a court is merely for assigning business, not for conferring the initial jurisdiction."
+      ],
+      "respondent_arguments": [
+        "A Labour Court does not have jurisdiction to entertain an application under Section 33C(2) unless it has been specifically designated for that purpose by the appropriate government."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Industrial Disputes Act, 1947",
+        "section": "7(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Industrial Disputes Act, 1947",
+        "section": "10(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Industrial Disputes Act, 1947",
+        "section": "33C",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Industrial Disputes Act, 1947",
+        "section": "33C(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "West Bengal Rules (made under the Industrial Disputes Act, 1947)",
+        "section": "Rule 74",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Central Bank of India Ltd. v. P.S. Rajagopalan etc.",
+        "citation": "(')",
+        "principle": "Proceedings under s. 33C of the Act are in the nature of execution proceedings and are not meant to include proceedings for adjudication of industrial disputes, which can only be decided by a Labour Court on a reference by the appropriate Government under s.10(1) of the Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A Labour Court can only exercise jurisdiction under Section 33C(2) of the Industrial Disputes Act, 1947, if it has been specifically designated by the appropriate government for that purpose. The general constitution of a Labour Court under Section 7(1) of the Act is insufficient to confer this specific jurisdiction.",
+    "obiter": [
+      "The language of sub-section (2) of section 33C is perfectly clear."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The language of Section 33C(2) of the Industrial Disputes Act, 1947, makes it clear that the appropriate Government must specify the particular Labour Court which is to discharge the functions under this sub-section. The use of the expression \"specified in this behalf\" is significant and indicates that there must be a specific designation by the government. The mere fact that a Labour Court has been constituted under Section 7(1) of the Act for general purposes does not mean that it is automatically specified as the Court for exercising jurisdiction under Section 33C(2). Jurisdiction under Section 33C(2) is conferred only on those Labour Courts which are specifically designated by the State Government for that purpose.",
+    "legal_tests_applied": [
+      "Statutory interpretation focusing on giving full import and effect to the specific words used in the legislation, particularly the phrase 'specified in this behalf'."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the interpretation that Section 33C(2) should be read as a general assignment of function to all Labour Courts, finding the statutory language required a specific designation.",
+      "The court held that a Labour Court's constitution under Section 7(1) for adjudicating industrial disputes and performing other assigned functions does not automatically confer jurisdiction under Section 33C(2); a specific assignment for that section is required.",
+      "The court dismissed the argument that the matter fell under the Second Schedule of the Act, clarifying that proceedings under Section 33C are in the nature of execution proceedings, not the adjudication of industrial disputes which require a government reference under Section 10(1)."
+    ],
+    "why_respondent_won": [
+      "The court agreed that jurisdiction under Section 33C(2) is not automatic and requires a specific designation by the government, based on a plain reading of the statute.",
+      "The court found the phrase 'specified in this behalf' in Section 33C(2) to be determinative, concluding it means that a particular court must be specifically chosen by the government to handle such applications, and only that court will have jurisdiction.",
+      "The court noted that West Bengal's Rule 74, which required applications to be sent to the government, supported this interpretation, as the government's role would be to then specify the appropriate Labour Court to handle the application."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,131 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (order dated 11.03.2007)",
+    "impugned_order": "Judgment and Order dated 31.05.2017 of the High Court of Punjab & Haryana at Chandigarh in CRA No. 650 of 2003.",
+    "high_court_proceedings": "The High Court of Punjab & Haryana at Chandigarh issued a Judgment and Order dated 31.05.2017 in CRA No. 650 of 2003.",
+    "supreme_court_posture": "Dinesh Kumar appealed to the Supreme Court, challenging the High Court's order. The Supreme Court allowed the appeal, setting aside the orders of the trial court and the High Court."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed",
+    "conviction_status": "Conviction set aside",
+    "sentence_status": "Sentence set aside",
+    "directions": [
+      "Appellant to be released forthwith unless his presence is required in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a trial judge has a duty under Section 165 of the Evidence Act, 1872, to actively ask questions to witnesses in order to discover the truth, even if the defense fails to ask a particular question.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved a criminal trial where the trial court judge noticed a weakness in the cross-examination conducted by the defense.",
+          "The trial judge acknowledged this weakness but did not intervene or ask any clarifying questions, reasoning that it was the defense's responsibility to have asked the relevant question."
+        ],
+        "law": [
+          {
+            "law_name": "Section 165 of the Evidence Act, 1872",
+            "description": "This section grants a judge extensive power to ask any question, in any form, at any time, of any witness or party, about any fact (relevant or irrelevant) in order to discover the truth or obtain proper proof of relevant facts."
+          },
+          {
+            "law_name": "Precedent: Ram Chander v. State of Haryana",
+            "description": "This judgment establishes that a criminal trial is a 'voyage of discovery in which truth is the quest.' It defines the judge's role not as a passive 'spectator or a recording machine,' but as an active participant who must evince 'intelligent active interest by putting questions to witnesses in order to ascertain the truth.'"
+          }
+        ],
+        "application": [
+          "The Supreme Court held that the vast power given to a judge under Section 165 is not merely a right but also a duty.",
+          "The Court reasoned that the ultimate goal of a criminal trial is to discover the truth and advance the cause of justice. To achieve this, the judge must actively explore all available avenues, which includes asking questions.",
+          "The Court directly criticized the trial judge's inaction. It stated that by pointing out the defense's failure, the trial judge was 'indirectly admitting to the weakness in the trial itself.'",
+          "The failure of the defense to ask a crucial question does not absolve the judge of their duty. Instead, it is precisely in such situations, where a point is 'overlooked or left obscure,' that the judge must step in and use their powers under Section 165 to clarify the matter and ascertain the truth."
+        ],
+        "conclusion": "The Supreme Court concluded that a trial judge has an affirmative duty under Section 165 of the Evidence Act to actively participate in the proceedings by asking questions to witnesses to discover the truth. This duty is paramount and requires the judge to intervene even when the defense counsel fails to ask an important question, as the judge's role is to seek truth and justice, not to be a passive umpire."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a trial judge has a duty under Section 165 of the Evidence Act, 1872, to actively ask questions to witnesses in order to discover the truth, even if the defense fails to ask a particular question.",
+      "appellant_arguments": [
+        "The appellant implicitly argued that the trial court erred by placing the entire burden on the defense to question the doctor about the discrepancy regarding the time of death (based on rigor mortis). The appellant's position is that the trial judge had an overriding duty to intervene and ask questions to clarify this crucial point and discover the truth, rather than dismissing the discrepancy simply because the defense counsel failed to raise it."
+      ],
+      "respondent_arguments": [
+        "The respondent (State) likely supported the trial court's reasoning, arguing that it was the duty of the defense counsel to challenge the doctor's statement during cross-examination. Since the defense failed to do so, the doctor's testimony about the time of death being more than forty-eight hours prior to the post-mortem should be accepted as unchallenged evidence."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Evidence Act",
+        "section": "101",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Evidence Act",
+        "section": "106",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Ram Chander v. State of Haryana",
+        "citation": "1981 AIR 1036 : [1981] 3 SCR 12",
+        "principle": "For the principle that Section 106 of the Evidence Act is an exception to the rule in Section 101, and it comes into play only in a limited sense where a fact is especially within the knowledge of a person, shifting the burden of proving that fact upon them.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Anjan Kumar Sarma & Ors. v. State of Assam",
+        "citation": "(2017) 14 SCC 359",
+        "principle": "For the principle that Section 106 of the Evidence Act is an exception to the rule in Section 101, and it comes into play only in a limited sense where a fact is especially within the knowledge of a person, shifting the burden of proving that fact upon them.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Malleshappa v. State of Karnataka",
+        "citation": "(2007) 13 SCC 399 : [2007] 10 SCR 153",
+        "principle": "For the principle that Section 106 of the Evidence Act is an exception to the rule in Section 101, and it comes into play only in a limited sense where a fact is especially within the knowledge of a person, shifting the burden of proving that fact upon them.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Nizam & Anr. v. State of Rajasthan",
+        "citation": "(2016) 1 SCC 550 : [2015] 10 SCR 786",
+        "principle": "For the principle that Section 106 of the Evidence Act is an exception to the rule in Section 101, and it comes into play only in a limited sense where a fact is especially within the knowledge of a person, shifting the burden of proving that fact upon them.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Goa v. Sanjay Thakran",
+        "citation": "(2007) 3 SCC 755 : [2007] 3 SCR 507",
+        "principle": "For the principle that Section 106 of the Evidence Act is an exception to the rule in Section 101, and it comes into play only in a limited sense where a fact is especially within the knowledge of a person, shifting the burden of proving that fact upon them.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Ajit Singh v. State of Maharashtra",
+        "citation": "(2011) 14 SCC 401 : [2011] 13 SCR 1000",
+        "principle": "For the principle that Section 106 of the Evidence Act is an exception to the rule in Section 101, and it comes into play only in a limited sense where a fact is especially within the knowledge of a person, shifting the burden of proving that fact upon them.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In cases based on circumstantial evidence, the circumstances from which the conclusion of guilt is to be drawn must be fully established, consistent only with the hypothesis of the guilt of the accused, and be of a conclusive nature and tendency.",
+    "obiter": [
+      "Section 106 of the Evidence Act, which places the burden of proving a fact on the person with special knowledge of it, is an exception to the general rule of burden of proof and applies only in a limited sense."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The trial court erred by failing to question a witness on a crucial discrepancy regarding the time of death, simply because the defense counsel did not raise the point. A presiding judge in a criminal trial has an active duty under Section 165 of the Evidence Act to participate in the proceedings by asking questions to witnesses in order to ascertain the truth, rather than acting as a mere spectator.",
+    "legal_tests_applied": [
+      "Under Section 165 of the Evidence Act, 1872, the duty of the presiding judge of a criminal trial is not to watch the proceedings as a spectator or a recording machine but he has to participate in the trial “by evincing intelligent active interest by putting questions to witnesses in order to ascertain the truth.”",
+      "It is the duty of the judge to ask questions to the witnesses when it becomes necessary to clear up any point that has been overlooked or left obscure."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The role of a judge in a criminal trial is not that of a passive 'spectator or a recording machine' but an active participant whose duty is to ensure the truth is discovered.",
+      "Judicial intervention through questioning is necessary to clarify points that have been 'overlooked or left obscure' by the parties, thereby upholding the integrity of the truth-finding process in a trial."
+    ]
+  },
+  "evidence_map": {}
+}

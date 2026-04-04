@@ -1,0 +1,117 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of Sub-Magistrate, Salem",
+    "impugned_order": "Judgment and order dated December 9, 1965 of the Madras High Court in Criminal Revision Case No. 1261 of 1964 and Criminal Revision Petition No. 1235 of 1964.",
+    "high_court_proceedings": "The respondent (M. S. P. Rajesh) filed Criminal R.C. No. 1261 of 1964 in the Madras High Court against the order of the District Magistrate (Judicial), Salem. Anantanarayanan, J. set aside the orders of the District Magistrate (Judicial) and directed that the case should be taken up by the District Magistrate and the trial proceeded with in accordance with law.",
+    "supreme_court_posture": "The petitioners (Kuppuswami and another) appealed to the Supreme Court by special leave from the order of the Madras High Court dated December 9, 1965, in Crl. R.C. No. 1261 of 1964."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the bar under Section 479-A(6) of the Criminal Procedure Code prevents a court from initiating a prosecution for perjury under Section 476 of the Code, when the perjury is detected based on material produced after the conclusion of the trial.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "After a trial had concluded and judgment was delivered, a petition was filed under Section 476 of the Criminal Procedure Code (CrPC) to prosecute the appellants for giving false evidence (perjury).",
+          "This petition was supported by new material and evidence that was not available to the court during the original trial.",
+          "Based on this new material, the Magistrate initiated a prosecution for perjury against the appellants."
+        ],
+        "law": [
+          "Section 479-A of the CrPC provides a special, expedited procedure for prosecuting perjury.",
+          "A necessary condition for applying Section 479-A is that the court must form an opinion that a witness has given false evidence and record a finding to that effect *at the time of delivering its judgment or final order*.",
+          "Section 479-A(6) states that if a court *could have* proceeded under Section 479-A but did not, then no subsequent proceedings can be taken under the general provision of Section 476 for the same offense. This is the \"bar\" in question."
+        ],
+        "application": [
+          "The Court reasoned that the applicability of the bar in Section 479-A(6) depends on whether the court *could have* acted under Section 479-A in the first place.",
+          "To act under Section 479-A, the court must have the material before it to form an opinion about the falsity of the evidence at the time of delivering the judgment.",
+          "In this case, the material proving the perjury was only produced *after* the trial had concluded. Therefore, at the time of judgment, the Magistrate had no basis to form the opinion required by Section 479-A.",
+          "Since the conditions for invoking Section 479-A were not met, the court could not have used that procedure. Consequently, the bar in Section 479-A(6) does not apply.",
+          "The Court held that the bar only applies to cases where the court had the necessary material at the time of judgment to detect the perjury but chose not to act under Section 479-A. It does not apply where the perjury is discovered later based on new evidence."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the bar under Section 479-A(6) of the CrPC does not prevent a court from initiating a prosecution for perjury under Section 476 when the evidence of perjury only comes to light after the trial has concluded. The prosecution was therefore legally valid."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the bar under Section 479-A(6) of the Criminal Procedure Code prevents a court from initiating a prosecution for perjury under Section 476 of the Code, when the perjury is detected based on material produced after the conclusion of the trial.",
+      "appellant_arguments": [
+        "The complaint for perjury was not maintainable in law because the trying Magistrate had not followed the specific procedure laid out in Section 479-A of the Criminal Procedure Code at the time of the original trial.",
+        "Since the procedure under Section 479-A was not invoked by the trial court, the subsequent recourse to Section 476 to prosecute for perjury was barred.",
+        "The appellants cited the decision in Shabir Hussein Bholu v. State of Maharashtra to support their contention."
+      ],
+      "respondent_arguments": [
+        "A prosecution for giving false evidence under Section 476 of the Criminal Procedure Code is permissible, even after the conclusion of the trial where the alleged perjury occurred.",
+        "The bar under Section 479-A(6) is not applicable in this case because the evidence supporting the perjury claim was adduced after the trial had already concluded. Therefore, the trial magistrate could not have formed an opinion on the falsity of the evidence at the time of delivering the judgment, which is a prerequisite for invoking Section 479-A."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "476",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "479-A",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "C.P. Kasi Thevar v. Chinnia'i Konar",
+        "citation": "A.LR. 1960 Mad. 77",
+        "principle": "For representing the correct law on the point regarding the applicability of s. 479-A of the Criminal Procedure Code and the bar it creates for proceedings under s. 476.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "In re Gnanamuthu",
+        "citation": "A.LR. 1964 Mad. 446",
+        "principle": "For representing the correct law on the point regarding the applicability of s. 479-A of the Criminal Procedure Code and the bar it creates for proceedings under s. 476.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When a court has not followed the procedure under Section 479-A of the Criminal Procedure Code for an offense of giving false evidence, it is not open for that court to subsequently take recourse to the provisions of Section 476 of the Code for the same offense.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The bar of cl. (6) will not apply to a case where perjury is detected not merely with reference to the evidence adduced at the trial but with reference to the evidence adduced in some other distinct proceeding, not then brought before the court or because there is some other material subsequently produced after the conclusion of the trial and delivery of judgment which renders the prosecution for perjury essential in the interests of justice.",
+    "legal_tests_applied": [
+      "There is, however. a necessary condition for the application of s. 479-A, Criminal Procedure Code. The condition is that the Court before it delivers its judg· ment or at any rate at the time of delivering the judgment must form an opinion that a particular witness or witnesses, is, or, are giving false evidence, if the court could not fom1 any opinion about the falsity of the evidence of the witness appearing before it, then certainly the court cannot at the time of delivering its judgment, record any finding about the same."
+    ],
+    "why_appellant_lost": [
+      "at the time when the judgment was delivered the magistrate had no material before him to form an opinion that the petitioners had given false evidence.",
+      "It is, therefore, clear that s. 479-A will not be applicable on the facts of this case, and if the provisions of s. 479-A will not apply on the facts of this case it follows that the bar contemplated by cl. (6) of that section will not be applicable.",
+      "The principle of that decision [Shabir Hussein Bholu v. State tJf Maharashtra] does not afford any assistance to the appellants in this case."
+    ],
+    "why_respondent_won": [
+      "In the present case, the respondent produced material before the trial court on December 23, 1963 after the conclusion of the trial that the petitioners had given false evidence... Till those documents were produced there was no opportunity or occasion for the magistrate to form an opinion about the falsity of the evidence adduced by the petitioners.",
+      "the bar of cl. (6) of s. 479-A was intended only to apply to cases of perjury and fabrication of false evidence in which the trying Magistrate could have acted under s. 479-A."
+    ],
+    "policy_considerations": [
+      "Take, for instance, the trial of 'A' for the murder of 'B' in the Sessions Court where 'C', 'D' and 'E' gave evidence that they actually saw 'A' committing the murder of 'B'. Suppose at the conclusion of the trial and after delivery of judgment by the Sessions Court 'B' is found alive and there is uncontestable evidence to show that 'A' was falsely charged for the murder of 'B'. Is it to be contemplated tha.t in such a case there is no remedy available to the Court to prosecute C, D, and E for perjury under the provisions of s. 476, Criminal Procedure Code, though action cannot be taken, in the circumstances of the case, under s. 479-A, Criminal Procedure Code?",
+      "In our opinion, such a startling consequence was not contemplated by Parliament..."
+    ]
+  },
+  "evidence_map": {
+    "judicial_reasoning.core_finding": [
+      "p1_aec1f528",
+      "p5_1f4a2895"
+    ],
+    "judicial_reasoning.why_appellant_lost[0]": [
+      "p4_68d7176e"
+    ]
+  }
+}

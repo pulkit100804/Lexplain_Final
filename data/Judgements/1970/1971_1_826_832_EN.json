@@ -1,0 +1,94 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (unspecified)",
+    "impugned_order": "Judgment and order dated October 14, 1966 of the Allahabad High Court, Lucknow Bench in Criminal Appeal No. 425 of 1964.",
+    "high_court_proceedings": "The Trial Court convicted six people and acquitted one. The convicted persons appealed to the High Court, which affirmed the convictions.",
+    "supreme_court_posture": "Subedar, one of the convicted individuals, appealed to the Supreme Court by special leave. The respondent State argued that the Supreme Court should not interfere with the conclusions of the two lower courts. The Supreme Court disagreed, stating that it can interfere under Article 136 if there has been a grave miscarriage of justice."
+  },
+  "decision": {
+    "appeal_result": "Succeeds",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court is justified in interfering with the concurrent findings of guilt by two lower courts under Article 136 of the Constitution.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was found guilty by two lower courts (the trial court and the High Court).",
+          "The case against the appellant depended entirely on circumstantial evidence.",
+          "The appellant appealed to the Supreme Court by special leave under Article 136 of the Constitution.",
+          "The respondent's counsel argued that the Supreme Court should not interfere with the concurrent findings of guilt from the lower courts."
+        ],
+        "law": [
+          "Under Article 136 of the Constitution, the Supreme Court has a very wide, overriding, and exceptional power to hear appeals.",
+          "As a general rule, the Supreme Court does not normally review or reappraise evidence in criminal cases where there are concurrent findings of guilt by lower courts.",
+          "However, an exception to this rule exists. The Court is not only empowered but is expected to interfere if the lower court's judgment has resulted in a 'grave miscarriage of justice'.",
+          "A grave miscarriage of justice can occur due to a misapprehension or mistake in reading evidence, or by ignoring material evidence.",
+          "This exceptional power is to be exercised sparingly and only to further the cause of justice."
+        ],
+        "application": [
+          "The Court disagreed with the respondent's contention that it should not interfere.",
+          "It found that this specific case, which relied only on circumstantial evidence, was an exception to the general rule.",
+          "The Court determined that the lower courts had 'completely ignored' the legal caution established in 'Hanumant v. The State of Madhya Pradesh', which warns against the danger of allowing conjectures and suspicions to take the place of proof.",
+          "This failure by the lower courts to apply the correct legal standard for circumstantial evidence was considered a mistake that resulted in a grave miscarriage of justice."
+        ],
+        "conclusion": "The Supreme Court concluded that it was justified in interfering with the concurrent findings of guilt because the lower courts' failure to apply the proper legal standard for circumstantial evidence resulted in a grave miscarriage of justice, which the Court is empowered and expected to correct under its exceptional powers in Article 136."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court is justified in interfering with the concurrent findings of guilt by two lower courts under Article 136 of the Constitution.",
+      "appellant_arguments": [
+        "The appellant's argument is implicit in their appeal. They argued that the Supreme Court should interfere because the lower courts' judgments resulted in a grave miscarriage of justice. This was caused by a misapprehension or mistake in reading the evidence, ignoring material evidence, and failing to adhere to the established legal principles for cases based on circumstantial evidence, allowing conjecture and suspicion to take the place of proof."
+      ],
+      "respondent_arguments": [
+        "The Supreme Court should not interfere with the concurrent conclusions of the two lower courts that found the appellant guilty, especially on a special leave appeal under Article 136."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Art. 136",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hanumant v. The State of Madhya Pradesh",
+        "citation": "(!)",
+        "principle": "In cases based on circumstantial evidence, there is a danger of conjectures and suspicions taking the place of proof. The evidence must necessarily point only to the guilt of the accused, excluding any reasonable possibility of his innocence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In cases based on circumstantial evidence, the circumstances must be fully established and form a complete chain of evidence that is consistent only with the guilt of the accused, excluding every reasonable hypothesis of innocence.",
+    "obiter": [
+      "While the Supreme Court does not normally review evidence in criminal appeals under Article 136, it is empowered and expected to interfere to prevent a grave miscarriage of justice when a lower court's judgment is based on a misreading of evidence or ignores material evidence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "While the Supreme Court does not normally review and reappraise evidence in criminal appeals under Article 136, it is not only empowered but expected to interfere when a judgment has resulted in a grave miscarriage of justice. Such a miscarriage occurred in this case because the lower courts, in a matter depending entirely on circumstantial evidence, completely ignored the established legal principles against allowing conjectures and suspicions to take the place of proof, and the evidence presented did not satisfy the required test to establish guilt.",
+    "legal_tests_applied": [
+      "For the Supreme Court to interfere with concurrent findings under Article 136, the judgment under appeal must have resulted in a \"grave miscarriage of justice by some misapprehension or mistake in the reading of evidence or by ignoring material evidence.\"",
+      "In cases based on circumstantial evidence, the following test must be met: \"the circumstances from which the conclusion of guilt is to be drawn should in the first instance be fully established, and all the facts so established should be consistent only with the hypothesis of the guilt of the accused. Again, the circumstances should be of a conclusive nature and tendency and they should be such as to exclude every hypothesis but the one proposed to be proved. In other words, there must be a chain of evidence so far complete as not to leave any reasonable ground for a conclusion consistent with the innocence of the accused and it must be such as to show that within all human probability the act must have been done by the accused.\""
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The power conferred by Article 136 is worded in very wide terms, is not hedged in by any technical hurdles, and is an over-riding and exceptional power.",
+      "This exceptional power is vested in the Supreme Court to be exercised sparingly and only in furtherance of the cause of justice.",
+      "When a grave miscarriage of justice has occurred, the Supreme Court is not only empowered but is expected to interfere to promote the cause of justice."
+    ]
+  },
+  "evidence_map": {}
+}

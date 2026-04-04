@@ -1,0 +1,127 @@
+{
+  "procedural_history": {
+    "originating_court": "Motor Accident Claims Tribunal (MACT)",
+    "impugned_order": "Order of the MACT",
+    "high_court_proceedings": "The Insurance Company appealed the MACT order to the High Court of Madhya Pradesh (Principal Seat at Jabalpur) in MA No. 68 of 2022. The High Court allowed the appeal and set aside the MACT award in a judgment and order dated 24.08.2023.",
+    "supreme_court_posture": "The Appellants, Girijesh Pandey, Ms. Alpana Pandey, Ajay Kumar Tiwari, Avanish Pandey, and Sohan Lal Adak, approached the Supreme Court challenging the High Court's order. The Supreme Court allowed the appeal, setting aside the High Court's order."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The appeal is allowed.",
+      "The impugned award is set aside."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was correct in setting aside the award passed by the MACT on the ground that the claimants had not adduced any evidence to prove the aspect of the accident taking place with the vehicle implicated in the case.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A victim died from injuries sustained after the car he was in was hit by a truck allegedly driven in a rash and negligent manner.",
+          "The Motor Accident Claims Tribunal (MACT) found that the specific truck was involved and awarded compensation to the victim's family (the claimants).",
+          "The insurance company appealed to the High Court.",
+          "The High Court set aside the MACT's award, stating in a brief, 'cryptic' order that the claimants had not provided any evidence to prove the specific truck was involved in the accident."
+        ],
+        "law": [
+          "An appeal to the High Court under Section 173 of the Motor Vehicles Act is a first appeal, which requires the court to re-appreciate all evidence and decide on both facts and law.",
+          "In motor accident claim cases, the claimant only needs to prove their case on a 'preponderance of probability,' not 'beyond a reasonable doubt' as required in criminal cases.",
+          "When an insurance company alleges collusion, the burden is on them to prove it after the claimant has established a basic case."
+        ],
+        "application": [
+          "The Supreme Court found that the High Court failed in its legal duty as a first appellate court. It passed a 'summary order' without properly re-appreciating the evidence that the MACT had relied upon.",
+          "The High Court ignored crucial evidence, including the First Information Report (FIR), the final police report, and the vehicle seizure memo, which all implicated the truck.",
+          "Applying the correct legal standard of 'preponderance of probability,' the Supreme Court found that the claimants had successfully established their case. The police investigation, which resulted in a charge sheet against the driver, supported the conclusion that the truck was involved.",
+          "The Supreme Court noted that the insurance company, which had alleged collusion, did nothing to prove its claim and failed to discharge its burden of proof."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's decision, finding it wholly untenable. The High Court failed in its duty to properly review the evidence and implicitly applied too high a standard of proof. The Supreme Court concluded that the claimants had proven the truck's involvement on a preponderance of probability, and therefore, it quashed the High Court's judgment and restored the original compensation award passed by the MACT."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was correct in setting aside the award passed by the MACT on the ground that the claimants had not adduced any evidence to prove the aspect of the accident taking place with the vehicle implicated in the case.",
+      "appellant_arguments": [
+        "The High Court erred in its application of the standard of proof; a standard of 'beyond reasonable doubt' should not have been applied in a motor accident claim.",
+        "The High Court should have considered the evidence on record, such as the notice issued under Section 133 of the Motor Vehicles Act, which was initiated after the claimant's application.",
+        "The High Court failed to properly weigh the respective stories presented by both parties before concluding there was no evidence."
+      ],
+      "respondent_arguments": [
+        "The claimants (appellants) did not provide sufficient evidence to prove that the specific vehicle implicated in the case was actually involved in the accident."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Motor Vehicles Act, 1988",
+        "section": "173",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Civil Procedure, 1908",
+        "section": "96",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "106",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sudarsan Puhan vs. Jayanta Ku. Mohanty and Others",
+        "citation": "(2018) 10 SCC 552",
+        "principle": "An appeal under Section 173 of the Motor Vehicles Act is in the nature of a first appeal, and the High Court is under a legal obligation to decide all issues on both facts and law after appreciating the entire evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Uttar Pradesh State Road Transport Corporation vs. Mamta and Others",
+        "citation": "(2016) 4 SCC 172",
+        "principle": "An appeal under Section 173 of the Motor Vehicles Act is in the nature of a first appeal, and the High Court is under a legal obligation to decide all issues on both facts and law after appreciating the entire evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "National Insurance Co. Ltd. vs. Naresh Kumar and Others",
+        "citation": "(2000) 10 SCC 158",
+        "principle": "An appeal under Section 173 of the Motor Vehicles Act is in the nature of a first appeal, and the High Court is under a legal obligation to decide all issues on both facts and law after appreciating the entire evidence.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sajeena Ikhbal and Others, v. Mini Babu George and Others",
+        "citation": "(2024) SCC OnLine SC 2883",
+        "principle": "The principle underlying the burden of proof as per Section 106 of the Evidence Act, 1872 should be applied to determine if a vehicle was involved in an accident.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Bimla Devi & Ors. v. Himachal Road Transport Corporation & Ors.",
+        "citation": "(2009) 13 SCC 530",
+        "principle": "The principle underlying the burden of proof as per Section 106 of the Evidence Act, 1872 should be applied to determine if a vehicle was involved in an accident.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In motor accident claim cases, the strict principles of proof required in a criminal case are not applicable; the standard to be followed is that of preponderance of probability. Once the claimants discharge the initial onus of proof, the burden shifts to the respondent to adduce evidence to prove any contrary assertion.",
+    "obiter": [
+      "Minor discrepancies in the evidence of a claimant's witnesses should not be fatal to the claim; the court must focus on the core question of whether the vehicle was involved in the accident."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court found that the High Court was not justified in setting aside the MACT's award. The High Court's judgment was based on conjectures and surmises, particularly the unsupported notion that the police might have falsely implicated the vehicle. The High Court erred by applying a standard of proof higher than the required 'preponderance of probability' and failed in its legal obligation as a first appellate court to appreciate the entire evidence on record before reversing a well-reasoned award.",
+    "legal_tests_applied": [
+      "In a motor accident claim, the standard of proof is 'preponderance of probability', and the standard of 'beyond reasonable doubt' cannot be applied.",
+      "An appeal under Section 173 of the Motor Vehicles Act is a first appeal where the High Court is under a legal obligation to decide all issues on both facts and law after appreciating the entire evidence, especially when it proposes to reverse a well-reasoned award."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

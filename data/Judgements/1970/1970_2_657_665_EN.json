@@ -1,0 +1,97 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court of Punjab",
+    "impugned_order": "Judgment and order dated May 29, 1963 of the Punjab High Court in Letters Patent Appeal No. 251 of 1962.",
+    "high_court_proceedings": "1. A Single Judge of the High Court initially heard the writ petition filed by the respondent challenging his dismissal. The Single Judge ruled in favor of the respondent, concluding that he had already retired from service when the order reverting his service to the Punjab Government was passed, rendering subsequent proceedings void.\n2. The State Government appealed the Single Judge's order via a Letters Patent Appeal to a Division Bench of the High Court.\n3. The Division Bench upheld the Single Judge's order, dismissing the State's appeal, following its earlier judgment in *Dr. Pratap Singh v. State of Punjab*.",
+    "supreme_court_posture": "The State of Punjab appealed to the Supreme Court under a certificate granted by the High Court of Punjab."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed and case remanded.",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "direction to give its decision thereon in accordance with law",
+      "The cost of this appeal will be costs before the High Court."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a suspension order, made before a government servant's retirement date but received by them after that date, is effective from the date it was made to prevent the servant's retirement and validate a subsequent disciplinary inquiry.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A government servant (the respondent) was due to retire on August 4, 1958.",
+          "The Punjab Government issued an order of suspension against him on July 31, 1958, before his retirement date.",
+          "The respondent did not receive the telegram informing him of the suspension until the middle of August 1958, after his scheduled retirement date.",
+          "The respondent argued that since he was not served with the suspension order before his retirement date, he had effectively retired, and the subsequent disciplinary inquiry and dismissal were void."
+        ],
+        "law": [
+          "The relevant rule was Rule 3.26(d) of the Punjab Civil Services Rules.",
+          "This rule states that a government servant under suspension for misconduct shall not be permitted to retire on reaching the date of compulsory retirement but should be retained in service until the inquiry is completed and a final order is passed."
+        ],
+        "application": [
+          "The Supreme Court rejected the argument that a suspension order only takes effect when it is served on or received by the employee.",
+          "The Court reasoned that if an order's effectiveness depended on its receipt, a government servant could deliberately avoid receiving the order until after their retirement date to thwart the disciplinary process.",
+          "The Court held that an order of suspension is effective from the moment it is issued by the competent authority.",
+          "In this case, the government validly passed the suspension order on July 31, 1958, which was before the respondent's retirement date of August 4, 1958."
+        ],
+        "conclusion": "The Supreme Court concluded that the suspension order was effective from the date it was made (July 31, 1958), not the date it was received. Therefore, the order validly prevented the government servant's retirement and the subsequent disciplinary inquiry and dismissal were not illegal."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a suspension order, made before a government servant's retirement date but received by them after that date, is effective from the date it was made to prevent the servant's retirement and validate a subsequent disciplinary inquiry.",
+      "appellant_arguments": [
+        "The State argued that the suspension order was validly passed and communicated to the respondent before his retirement date of August 4, 1958, and was therefore effective from the date it was made, July 31, 1958. This action effectively prevented the respondent's retirement and validated the subsequent disciplinary inquiry."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that a suspension order only takes effect when it is actually received by the government servant. Since he received the order in the middle of August 1958, well after his retirement date, he had already retired from service. Therefore, the suspension order and all subsequent proceedings, including his dismissal, were invalid and void."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Punjab Civil Service Rules",
+        "section": "r. 3.26(d)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "S. Pratap Singh v. The State of Punjab",
+        "citation": "A.I.R. 1966 S.C. 1313",
+        "principle": "For the legal principle concerning when an order passed under r. 3.26(d) of the Punjab Civil Service Rules takes effect, specifically whether it is effective from the date it is served on the concerned government servant.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A government order is legally effective and considered communicated to the concerned government servant once it is issued and sent out to them, as at that point the issuing authority can no longer change or modify it. The effectiveness of the order does not depend on its actual receipt by the servant.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court held that a government order, such as an order of suspension, becomes effective when it is issued and sent out to the concerned government servant. The court explicitly rejected the view that an order only becomes effective from the date of its actual receipt by the individual. Once the order is issued and dispatched, it must be held to have been communicated and is therefore valid and operative.",
+    "legal_tests_applied": [
+      "An order's effectiveness is determined not by the date of its actual receipt by the government servant, but by the date it is issued and sent out to them."
+    ],
+    "why_appellant_lost": [
+      "The appellant (the State) did not lose; its appeal was allowed. The court accepted the State's argument that the suspension order was effective from the date it was made, July 31, 1958, because it was issued and sent out before the respondent's retirement date. This action validly prevented the respondent's retirement under rule 3.26(d) and legitimized the subsequent disciplinary inquiry."
+    ],
+    "why_respondent_won": [
+      "The respondent did not win. The court rejected his central contention that an order of suspension takes effect only when it is physically received. Because the order was issued before his retirement date, his argument that he had already retired from service by the time he received the order was dismissed, thereby validating the suspension and the subsequent dismissal order."
+    ],
+    "policy_considerations": [
+      "The court reasoned that making an order's effectiveness contingent on the date of its actual receipt by the employee could not be accepted. Such a rule would create uncertainty and could potentially allow a government servant to evade or delay the consequences of an order by avoiding its receipt."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[1]": [
+      "p9_00d77172"
+    ]
+  }
+}

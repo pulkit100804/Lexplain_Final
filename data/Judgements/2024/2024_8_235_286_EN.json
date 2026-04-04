@@ -1,0 +1,98 @@
+{
+  "procedural_history": {
+    "originating_court": "Unknown (but implied to be a lower court/tribunal whose order led to the SLP)",
+    "impugned_order": "Order dated 8th December, 2023 passed by the Supreme Court in SLP(Crl.) No. 14489 of 2023.",
+    "high_court_proceedings": "Not mentioned in the provided text.",
+    "supreme_court_posture": "The Supreme Court initially heard Special Leave Petition (Criminal) No. 14489 of 2023 and passed an interim order on December 8, 2023. Subsequently, a Contempt Petition (C) D. No. 1106 of 2024 was filed alleging wilful disobedience of the Supreme Court's order in SLP(Crl.) No. 14489 of 2023. The Supreme Court disposed of SLP(Crl.) No. 14489 of 2023 along with Special Leave Petition(CRL.) Nos. 537 and 1116 of 2024. The Contempt Petition was listed for a future date."
+  },
+  "decision": {
+    "appeal_result": "SLPs disposed of.",
+    "conviction_status": "Not applicable",
+    "sentence_status": "Not applicable",
+    "directions": [
+      "Contempt petition listed for next date.",
+      "The orders dated 8th December, 2023, 11th January, 2024 and 23rd January, 2024 passed by this Court in SLP Nos. 14489 of 2023, 537 of 2024 and 1116 of 2024, respectively are made absolute.",
+      "The order is made to cancel the said complaint u/s. 203 of Cr. P.C."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Investigating Agency has power to get police custody under Section 167 of the Code of Criminal Procedure, 1973, when an accused is already granted bail under the provision of Section 438 of the Code of Criminal Procedure, 1973.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "An accused person (petitioner) was granted interim anticipatory bail by the Supreme Court.",
+          "While this anticipatory bail order was in effect, the Investigating Officer (IO) sought police custody of the petitioner from a Magistrate, alleging non-cooperation with the investigation.",
+          "The Magistrate granted the police custody remand.",
+          "The State of Gujarat defended this action, claiming it was based on a long-standing practice within the state."
+        ],
+        "law": [
+          "The power to grant anticipatory bail under Section 438 of the Code of Criminal Procedure (CrPC) is to be exercised with great circumspection and not in a routine manner.",
+          "Neither Section 438 CrPC nor its successor provision in the Bhartiya Nagarik Suraksha Sanhita, 2023, contemplates giving the IO the liberty to seek police custody after anticipatory bail has been granted.",
+          "The correct procedure for the investigating agency, if an accused on anticipatory bail violates conditions (such as non-cooperation), is to move the court that granted the bail to have it cancelled under Section 439(2) CrPC."
+        ],
+        "application": [
+          "The Court reasoned that once a court has carefully considered a matter and granted anticipatory bail, allowing an IO to subsequently seek police custody would \"virtually negate and frustrate the very purpose behind the order of anticipatory bail.\"",
+          "The Court rejected the argument that a condition to \"cooperate with the investigation\" implicitly allows the IO to seek police custody. Instead, if cooperation is lacking, the IO's remedy is to seek cancellation of the bail from the court that granted it.",
+          "The Court found that the Magistrate should not have granted the police remand, as the accused was already under the protection of a superior court's anticipatory bail order. The proper course for the IO was to approach the Supreme Court, which had granted the bail.",
+          "The Court dismissed the argument of a \"long-standing practice\" in Gujarat, holding that such a practice is impermissible if it is not supported by the law."
+        ],
+        "conclusion": "The Supreme Court held that an Investigating Agency does not have the power to get police custody of an accused under Section 167 CrPC when that accused has already been granted anticipatory bail under Section 438 CrPC. The correct legal remedy for the police in case of non-cooperation is to seek cancellation of the anticipatory bail from the court that originally granted it."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Investigating Agency has power to get police custody under Section 167 of the Code of Criminal Procedure, 1973, when an accused is already granted bail under the provision of Section 438 of the Code of Criminal Procedure, 1973.",
+      "appellant_arguments": [
+        "The petitioner's counsel took a strong exception to the remand application filed by the investigating agency, arguing that seeking police custody was improper when the petitioner had been granted interim protection by the court."
+      ],
+      "respondent_arguments": [
+        "The respondents did not argue that they had the legal power to seek custody. Instead, they tendered an unconditional apology for their actions, claiming they had no intention to disobey or disregard the court's order and that the infraction was purely unintentional, requesting a lenient view."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure (CrPC)",
+        "section": null,
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sushila Aggarwal v. State (NCT of Delhi)",
+        "citation": "[2020] 2 SCR 1 : (2020) 5 SCC 1",
+        "principle": "The text indicates this case was 'followed' in the context of determining whether an Investigating Officer could seek police custody remand of an accused who had been granted anticipatory bail.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "No binding legal rule can be extracted from the provided text, as it consists of procedural statements, factual observations specific to the case, and final directions rather than a generally applicable legal principle.",
+    "obiter": [
+      "An order from a higher court is subject to being overturned when the lower court has not considered the case on its merits.",
+      "An unambiguous court order, for which there is only one possible interpretation, must be followed without exception."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The application seeking police custody remand of the petitioner could not have been entertained by the lower court because the Supreme Court's prior order granting bail was unambiguous. The only possible interpretation of that order was that the petitioner should be released on bail in the event of his arrest, leaving no scope for the lower court to grant police custody.",
+    "legal_tests_applied": [
+      "The court applied a standard of clear and unambiguous interpretation to its own order, assessing whether it was open to multiple meanings. It concluded that the order had only one possible interpretation which was binding on the lower court and the investigating agency."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The reasoning upholds the principle of judicial hierarchy and discipline, ensuring that clear orders from a superior court are strictly followed by subordinate courts. Allowing a lower court to misinterpret a clear bail order would undermine the authority of the higher court and the efficacy of protective orders like anticipatory bail."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[1]": [
+      "p51_ec2ecaa5"
+    ]
+  }
+}

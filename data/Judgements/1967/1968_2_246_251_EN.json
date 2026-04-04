@@ -1,0 +1,109 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Judge (inferred from the text)",
+    "impugned_order": "Judgment and order dated May 19, 1964 of the Punjab High Court, Circuit Bench at Delhi in Criminal Appeal No. 7-D of 1963.",
+    "high_court_proceedings": "The High Court, on appeal, upheld the prosecution's case which had been accepted by the Sessions Judge. The High Court overruled a contention made by the appellant.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave. The appeal was limited to the question of whether the case falls under Section 302 of the Indian Penal Code. The Supreme Court allowed the appeal, altered the conviction from Section 302 to Section 304 Part I, and sentenced the appellant to seven years rigorous imprisonment."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "altered from one under s. 302 to s. 304 Part I",
+    "sentence_status": "sentenced to seven years rigorous imprisonment",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the offence committed by the appellant falls under Section 302 of the Indian Penal Code.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was trying to assault a person named D when D's brother, K (the deceased), intervened.",
+          "The appellant used a knife to stab K in the thigh, which cut an artery and resulted in K's death.",
+          "A key circumstance was that the deceased was in a \"crouching\" or \"bent position\" when the appellant struck him."
+        ],
+        "law": [
+          "The issue revolves around the distinction between murder under Section 302 of the Indian Penal Code (IPC) and culpable homicide not amounting to murder under Section 304 IPC.",
+          "To establish murder under clause 3 of Section 300 IPC (as per the precedent in *Virsa Singh v. State of Punjab*), the prosecution must prove that the accused had the intention to inflict the *particular injury* that was actually caused.",
+          "Section 304, Part I of the IPC applies when there is an intention to cause an injury that is \"likely to cause death,\" but not the specific intention required for murder."
+        ],
+        "application": [
+          "The Court found that because the deceased was in a crouching position, it could not be definitively proven that the appellant intended to inflict the specific injury on the thigh that ultimately proved fatal.",
+          "Since the intention to cause that *particular* injury could not be established, the requirements for murder under clause 3 of Section 300 were not met.",
+          "However, the Court reasoned that by striking a person in a bent position with a dangerous weapon (a knife), the appellant must have known the blow would land on a vulnerable part of the body and was likely to cause death.",
+          "This established that the appellant had the \"intention to cause an injury likely to cause death,\" which fits the definition of the offense under Section 304, Part I of the IPC."
+        ],
+        "conclusion": "The Supreme Court rejected the conviction under Section 302 (murder), concluding that the specific intent to cause the fatal thigh injury was not proven due to the victim's crouching position. Instead, it found the appellant guilty of the lesser offense under Section 304, Part I (culpable homicide not amounting to murder) and altered the conviction accordingly."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the offence committed by the appellant falls under Section 302 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The offence does not fall under Section 302 (murder), but should be considered under Section 326 (grievous hurt by dangerous weapons) or at most under Section 304, Part Two (culpable homicide not amounting to murder).",
+        "The weapon used was just a small knife.",
+        "The blow was not inflicted on a vital part of the body.",
+        "The facts established in the case do not prove an offence under Section 302."
+      ],
+      "respondent_arguments": [
+        "The conviction under Section 302 was correct because all the ingredients for murder laid down in the case of Virsa Singh v. State of Punjab were present.",
+        "It is futile to argue that the appellant did not intend to kill the deceased, as the nature of the injury and the weapon used are clear evidence of such intent.",
+        "The appellant had deliberately come armed with a knife and stabbed the deceased on a vulnerable part of the body."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "300",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "304 Part I",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Virsa Singh v. State of Punjab",
+        "citation": "(1958) S.C.R.1495",
+        "principle": "For clause 3 of Section 300 to apply, it must be established that: (1) an injury is caused; (2) the injury is objectively sufficient in the ordinary course of nature to cause death; and (3) there was an intention to inflict that specific injury, and it was not accidental or unintentional. The intention to cause the injury that is present will be presumed unless the evidence or circumstances suggest otherwise.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Rajwant Singh v. State of Kerala",
+        "citation": "A.I.R. 1966 S.C. 1874",
+        "principle": "It was cited for its explanation of the test laid down in Virsa Singh, specifically that it must be proved that there was an intention to inflict the very injury that is proved to be present, and not some other injury.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "To establish the offence of murder under clause 3 of Section 300, it must be proven that: first, an injury was caused; second, that the injury is objectively sufficient in the ordinary course of nature to cause death; and third, that there was an intention to inflict that specific injury and it was not accidental or unintentional. The intention to cause the injury that is proven to be present will be presumed unless the evidence or circumstances warrant an opposite conclusion. The question is not whether the offender intended to kill or knew of the injury's seriousness, but whether they intended to inflict the particular injury that was in fact caused.",
+    "obiter": [
+      "If the accused can show that he did not intend to inflict the injury that is proved to be present, or if the totality of the circumstances justify such an inference, then the intent that the section requires is not proved.",
+      "If there is nothing beyond the injury and the fact that the appellant inflicted it, the only possible inference is that he intended to inflict it."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that the prosecution failed to establish all the necessary ingredients for murder under Section 300, clause 3. Specifically, it was not proven that it was the intention of the appellant to inflict the particular injury on the particular place where it was inflicted. Therefore, it is not possible to apply clause 3 of Section 300 to the act of the accused.",
+    "legal_tests_applied": [
+      "The court applied the test laid down in Virsa Singh v. State of Punjab for a case to fall under Section 300, \"3rdly\":\n1. First, it must be established that an injury is caused.\n2. Next, it must be established objectively what the nature of that injury in the ordinary course of nature is.\n3. Then it must be proved that there was an intention to inflict that very injury and not some other injury and that it was not accidental or unintentional.\n4. Fourthly, it must be proved that the injury of the type just described is sufficient to cause death in the ordinary course of nature.",
+      "The intention to cause the specific injury will be presumed once the existence of the injury is proved, unless the evidence or the circumstances warrant an opposite conclusion."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,113 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge (A.C.D. Cases), Jaipur, Rajasthan",
+    "impugned_order": "Judgment and Order dated the 17th October, 1979 of the High Court of Rajasthan in S.B. Criminal Appeal No. 39",
+    "high_court_proceedings": "The appellant unsuccessfully appealed to the Rajasthan High Court. The High Court examined the evidence and agreed with the findings recorded by the trial Court and dismissed the appeal filed by the appellant.",
+    "supreme_court_posture": "The appellant, having unsuccessfully appealed to the Rajasthan High Court, filed an appeal to the Supreme Court by special leave. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": [
+      "The bail bond of the appellant is cancelled.",
+      "He must surrender to serve out the sentence."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction can be sustained when the name of the appellant, Kishan Chand Mangal, is not found in Ex. P-12.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant's name, Kishan Chand Mangal, was not present in the First Information Report (FIR), Exhibit P-12.",
+          "The complainant, Rajendra Dutt, knew the appellant by his official title, \"Factory Inspector.\"",
+          "The appellant's visit to the complainant's factory occurred after a long interval of a year and a half."
+        ],
+        "law": [],
+        "application": [
+          "The Court acknowledged that the appellant's name was indeed missing from Ex. P-12.",
+          "However, the Court reasoned that it was plausible that the complainant did not know the appellant's personal name, given the long time since his last visit.",
+          "The Court found it sufficient that the complainant knew the appellant by his official designation.",
+          "The Court turned the argument against the appellant, suggesting that if the complainant had wanted to falsely implicate him, he would have likely included the name in the complaint.",
+          "Therefore, the Court viewed the absence of the name as a factor that actually supported the credibility of the complaint rather than weakening it."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, concluding that the absence of the appellant's name in Ex. P-12 was \"hardly of any significance\" and did not invalidate the conviction."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction can be sustained when the name of the appellant, Kishan Chand Mangal, is not found in Ex. P-12.",
+      "appellant_arguments": [
+        "The conviction cannot be sustained because the appellant's name, Kishan Chand Mangal, is not mentioned in the document Ex. P-12."
+      ],
+      "respondent_arguments": [
+        "The case has been proven beyond a reasonable doubt based on the entire body of evidence, including the testimony of the two witnesses (motbirs Ram Babu and Keshar Mal), the evidence of DySP Mahavir Prasad, the FIR, the recovery of currency notes, and the presence of phenolphthalein powder on the appellant's hands, which sufficiently corroborates the case against the appellant."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "161",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "5(1)(d)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "5(2)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Factories Act",
+        "section": "Not specified",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A witness's testimony cannot be disbelieved or rejected as unworthy of belief solely on the ground of their humble origin or low position in society, as this is a wholly irrelevant consideration.",
+    "obiter": [
+      "Truth is neither the monopoly nor the preserve of the affluent or of highly placed persons.",
+      "In a country where renunciation is worshipped and the grandeur and wild display of wealth frowned upon, it would be the travesty of truth if persons coming from humble origin and belonging to lower strata of society are to be disbelieved.",
+      "The converse unfortunately appears to be true."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court, after reviewing the entire body of evidence, including the testimony of the two motbirs (Ram Babu and Keshar Mal), the evidence of DySP Mahavir Prasad, the FIR, and Ex. P-12 itself, concluded that the case against the appellant was proven beyond a shadow of a reasonable doubt, rendering the omission of the appellant's name in one document insufficient to overturn the conviction.",
+    "legal_tests_applied": [
+      "Proof beyond a shadow of reasonable doubt"
+    ],
+    "why_appellant_lost": [
+      "The appellant's focus on the single omission in Ex. P-12 was insufficient to overcome the cumulative weight of the other evidence presented by the prosecution.",
+      "The appellant's own evidence failed to raise a plausible defense and was rightly negated by the lower courts.",
+      "The attempt to discredit the key witnesses (motbirs) as 'petty clerks' and therefore unreliable was rejected as a 'wholly irrelevant consideration'."
+    ],
+    "why_respondent_won": [
+      "The prosecution's case was successfully proven through the combined and corroborative effect of multiple pieces of evidence, including witness testimony, police evidence, the FIR, and physical evidence.",
+      "The testimony of the two motbirs was accepted as 'wholly reliable' by the Court, in agreement with the Special Judge and the High Court.",
+      "The positive result of the phenolphthalein test, which showed the presence of the powder on the appellant's hands, served as affirmative evidence against him."
+    ],
+    "policy_considerations": [
+      "The court explicitly rejected the notion that a person's credibility as a witness is tied to their social or economic status, stating: 'Truth is neither the monopoly nor the preserve of the affluent or of highly placed persons... it would be the travesty of truth if persons coming from humble origin and belonging to officewise, wealthwise lower strata of society are to be disbelieved or rejected as unworthy of belief solely on the ground of their humble position in society.'"
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p2_ef11b3bb"
+    ],
+    "ratio_decidendi.obiter[0]": [
+      "p2_8679cd44"
+    ]
+  }
+}

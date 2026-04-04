@@ -1,0 +1,136 @@
+{
+  "procedural_history": {
+    "originating_court": "Andhra High Court (Ordinary Original Civil Jurisdiction)",
+    "impugned_order": "Judgment and order dated 19th October 1955 of the Andhra High Court at Guntur in 0. S. Appeal No. 1 of 1955, arising out of the Order dated the 26th day of September 1955 of the said High Court in its Ordinary Original Civil Jurisdiction in O.P. No. 3 of 1955.",
+    "high_court_proceedings": "An application came up for hearing before a Judge of the Andhra High Court, who held that the affairs of the Company justified action under section 153-C. The Chairman, Appanna Ranga Rao, acting in the name of the Company, appealed to a Bench of the Andhra High Court. The Bench agreed with the trial Judge and dismissed the appeal.",
+    "supreme_court_posture": "The Company preferred an appeal to the Supreme Court by special leave against the order of the Andhra High Court."
+  },
+  "decision": {
+    "appeal_result": "Partially Allowed",
+    "conviction_status": "",
+    "sentence_status": "Modified",
+    "directions": [
+      "the sentences imposed on each accused shall run concurrently and not consecutively"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a petition, validly presented under Section 153-C of the Companies Act, ceases to be maintainable if some of the consenting members subsequently withdraw their consent, bringing the number below the statutory minimum.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An application was filed under Section 153-C of the Companies Act, which required the consent of a minimum number of company members (in this case, at least one-tenth, which was 65 members).",
+          "The appellant argued that the application was no longer maintainable because 13 of the members who had initially given their consent subsequently withdrew it.",
+          "This withdrawal, if considered, would bring the number of consenting members below the statutory minimum required to file the petition."
+        ],
+        "law": [
+          "The Supreme Court established the legal principle that the validity of a petition must be judged based on the facts as they existed at the time of its presentation."
+        ],
+        "application": [
+          "The Court applied this principle by stating that a petition that was valid when it was filed cannot become invalid or unmaintainable because of events that happen afterward.",
+          "The Court noted that there was no provision in the statute that would allow for a validly filed petition to be dismissed due to a subsequent withdrawal of consent."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, holding that the subsequent withdrawal of consent by the 13 members did not affect the maintainability of the petition. The petition's validity was fixed at the moment it was presented to the court, and later events could not invalidate it."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the court must be satisfied that circumstances exist for a winding-up order under Section 162 before it can take action under Section 153-C of the Companies Act.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "An application was filed to wind up a company under Section 162 of the Indian Companies Act, citing mismanagement and misappropriation of funds.",
+          "As an alternative to winding up, the applicant requested that the court take action under Section 153-C.",
+          "The High Court found that there were sufficient grounds for a winding-up order under Section 162, but instead chose to act under Section 153-C and appointed administrators to manage the company.",
+          "The company appealed to the Supreme Court, arguing that action could not be taken under Section 153-C unless the grounds for a winding-up order under Section 162 were met."
+        ],
+        "law": [
+          "Section 153-C of the Companies Act provides the court with an alternative to ordering a company to be wound up.",
+          "Instead of dissolving the company, this section allows the court to make an order for its management with the goal of ultimately salvaging it.",
+          "This power is available when the conditions for winding up under Section 162 are satisfied."
+        ],
+        "application": [
+          "The Supreme Court agreed with the appellant's argument, stating that before taking action under Section 153-C, a court must first be satisfied that circumstances exist which would justify a winding-up order under Section 162.",
+          "The Court clarified that Section 153-C does not create an independent basis for intervention but rather provides a less drastic remedy for situations that are serious enough to warrant winding up.",
+          "Therefore, if the facts presented do not make out a case for winding up under Section 162, no order can be passed under Section 153-C.",
+          "The primary question for the court to determine is whether the facts justify a winding-up order; only then can it consider the alternative remedy under Section 153-C."
+        ],
+        "conclusion": "The Supreme Court decided that a court must be satisfied that the legal requirements for a winding-up order under Section 162 are met before it can take the alternative action of appointing administrators or passing other orders under Section 153-C."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a petition, validly presented under Section 153-C of the Companies Act, ceases to be maintainable if some of the consenting members subsequently withdraw their consent, bringing the number below the statutory minimum.",
+      "appellant_arguments": [
+        "The application was not maintainable because some members who had initially consented to its institution later withdrew their consent, bringing the number of consenting members below the statutory requirement."
+      ],
+      "respondent_arguments": [
+        "An application that is valid at the time of its presentation does not become unmaintainable due to subsequent events, such as the withdrawal of consent by some members."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the court must be satisfied that circumstances exist for a winding-up order under Section 162 before it can take action under Section 153-C of the Companies Act.",
+      "appellant_arguments": [
+        "The court cannot take action under Section 153-C unless it is first satisfied that the circumstances and allegations are sufficient to justify a winding-up order under Section 162."
+      ],
+      "respondent_arguments": [
+        "The provided text does not specify the respondent's arguments on this issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Companies Act, 1913",
+        "section": "153-C",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Companies Act, 1913",
+        "section": "162(vi)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Loch v. John Blackwood Ld.",
+        "citation": "",
+        "principle": "The words 'just and equitable' in the winding-up provision (s. 162(vi)) are not to be construed ejusdem generis (i.e., of the same kind) with the other specific grounds for winding up listed in the section.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The validity of a petition must be judged on the facts as they were at the time of its presentation and, in the absence of a statutory provision to the contrary, cannot cease to be maintainable by reason of subsequent events. Before a court can take action under s. 153-C, it must be satisfied that circumstances exist which would justify a winding-up order under s. 162. An order for winding up is not 'just and equitable' for mere misconduct of directors, but if, in addition to such misconduct, other circumstances exist that make it desirable in the interests of the shareholders, the court has jurisdiction to make such an order.",
+    "obiter": [
+      "The 'just and equitable' clause was initially construed ejusdem generis with other clauses in the section, but a different view was adopted in later decisions."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court held that the validity of a petition must be judged on the facts as they were at the time of its presentation, and a petition that was valid when presented cannot cease to be maintainable by reason of subsequent events, such as the withdrawal of consent by some members, in the absence of a specific statutory provision to that effect. Furthermore, the court affirmed that before taking action under Section 153-C, it must first be satisfied that the circumstances would justify a winding-up order under Section 162, which can be based on a justifiable lack of confidence in the management grounded in a lack of probity in the conduct of the company's affairs.",
+    "legal_tests_applied": [
+      "The validity of a petition must be judged on the facts as they were at the time of its presentation.",
+      "Before taking action under section 153-C, the court must be satisfied that circumstances exist which would warrant an order for the winding up of a Company.",
+      "For a winding-up order on 'just and equitable' grounds, there must be a justifiable lack of confidence in the conduct and management of the company's affairs, grounded on a lack of probity in the conduct of the company's business."
+    ],
+    "why_appellant_lost": [
+      "On the issue of maintainability, the appellant's argument failed because the court ruled that subsequent events cannot invalidate a petition that was valid at its inception. The court stated, 'The validity of a petition must be iudged on the facts as they were at the time of its presentation, and a petition which was valid when presented cannot, in the absence of a provision to that effect in the statute, cease to be maintainable by reason of events subsequent to its presentation.'",
+      "Although the appellant correctly argued that grounds for winding-up must exist before action under Section 153-C can be taken, this argument did not succeed in overturning the order because the court found that the facts of the case—gross mismanagement, misappropriation of funds, a directorate in disarray, and the powerlessness of shareholders—were sufficient to justify a winding-up order under Section 162(vi)."
+    ],
+    "why_respondent_won": [
+      "On the issue of maintainability, the respondent's position was upheld because the court determined that the withdrawal of consent by some members after the petition was filed could not affect the jurisdiction of the court to hear the case. The court reasoned, 'the withdrawal of consent by 13 of the members, even if true, canot affect either the right of the applicant to proceed with the application or the jurisdiction of the court to dispose of it on its own merits.'",
+      "On the issue of the grounds for the court's action, the respondent prevailed because the facts on record were found to meet the legal test for a winding-up order. The court agreed with the lower courts' findings that 'the Vice-Chairman grossly mismanaged the affairs of the Company,' that the Chairman had 'abdicated the entire management to him,' and that 'the affairs of the Company where in a state of confusion and embarrassment,' thus making it necessary to take action under Section 153-C."
+    ],
+    "policy_considerations": [
+      "The court's ruling on the first issue promotes legal certainty by ensuring that the maintainability of a validly filed petition is not vulnerable to subsequent changes of heart or pressure on the petitioners, which could otherwise undermine the statutory remedy.",
+      "The court's interpretation of the 'just and equitable' clause for winding up serves to protect shareholders from managerial misconduct and a lack of probity, even when the company is not insolvent, thereby upholding standards of corporate governance."
+    ]
+  },
+  "evidence_map": {}
+}

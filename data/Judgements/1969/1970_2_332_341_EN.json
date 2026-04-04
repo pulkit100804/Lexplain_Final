@@ -1,0 +1,100 @@
+{
+  "procedural_history": {
+    "originating_court": "Assistant Sessions Judge",
+    "impugned_order": "Judgment and order dated February 9, 12, 1968 of the Bombay High Court in Criminal Appeal No. 541 of 1966.",
+    "high_court_proceedings": "The appellant was convicted by the Assistant Sessions Judge under s. 411 I.P.C. On appeal the Sessions Judge held that the appellant had not been proved to be in possession of the 17 ornaments.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave from the judgment and order of the Bombay High Court."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "Conviction set aside",
+    "sentence_status": "Sentence set aside",
+    "directions": [
+      "appellant directed to be set at liberty"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a statement made by an accused is admissible under Section 27 of the Evidence Act if it leads to the discovery of a fact already known to the police.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was accused of stealing diamonds along with other co-accused persons.",
+          "Before the appellant made his statement, the police had visited a newspaper office and learned that a co-accused was in possession of the diamonds.",
+          "Subsequently, the appellant made a statement to the police which led them to the location of this co-accused, from whom the diamonds were then recovered."
+        ],
+        "law": [
+          "Section 27 of the Evidence Act allows for the admission of a statement made by an accused in police custody if it leads to the discovery of a fact.",
+          "For Section 27 to apply, the discovery must be of a fact that the police had not previously learned from other sources.",
+          "The knowledge of the fact discovered must be first derived from the information given by the accused."
+        ],
+        "application": [
+          "The Court determined that the crucial fact in this case was that the co-accused had possession of the diamonds.",
+          "However, the police already knew this fact from their investigation at the newspaper office before the appellant made his statement.",
+          "The information provided by the appellant did not lead to the discovery of the fact that the co-accused had the diamonds; it only led to the discovery of the co-accused's whereabouts.",
+          "The Court reasoned that since the core fact was already known, the appellant's statement did not lead to a 'discovery' as required by Section 27."
+        ],
+        "conclusion": "The Supreme Court rejected the admissibility of the statement, holding that under Section 27 of the Evidence Act, the information given by an accused must lead to the discovery of a fact previously unknown to the police. Because the police already knew that the co-accused possessed the diamonds, the appellant's statement only revealed the person's location and did not lead to the discovery of a new fact connecting him to the crime."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a statement made by an accused is admissible under Section 27 of the Evidence Act if it leads to the discovery of a fact already known to the police.",
+      "appellant_arguments": [
+        "The statement is not admissible because the police already knew the fact that was supposedly discovered—that the other accused had the diamonds.",
+        "For a statement to be admissible under Section 27, it must lead to the discovery of a fact that was previously unknown to the police.",
+        "The information provided only led to the discovery of the whereabouts of the other accused, not the discovery of the fact that they possessed the diamonds, and therefore does not fall within the meaning of Section 27."
+      ],
+      "respondent_arguments": [
+        "The statement is admissible because it led to the physical recovery of the stolen diamonds from another accused, which constitutes a 'discovery of a fact' under Section 27."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "27",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "26",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Pulukuri Kotayya v. King Emperor",
+        "citation": "(')",
+        "principle": "To determine what part of a statement made by an accused, which leads to the discovery of an object (in that case, a knife), was admissible in evidence under Section 27 of the Evidence Act.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For a statement to be admissible under Section 27 of the Evidence Act, the information given by an accused must lead to the discovery of a fact that was previously unknown to the police. If the police already possess the knowledge of the fact supposedly discovered, the information given by the accused does not constitute a discovery of a fact within the meaning of the section.",
+    "obiter": [
+      "If an accused states, 'I will show you the articles at the place where I have kept them,' and the articles are found there, the information leads to the discovery of the fact that the articles were kept by the accused at that location.",
+      "If the police did not know who had the stolen property, a statement from an accused leading to the person who had them would be admissible, as the discovery of the property with that person would be a fact deposed to by the accused."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "There was no discovery of a fact connecting the appellant with the receipt of the diamonds which were stolen within the meaning of s. 27 of the Evidence Act because the police already knew that the third and or the fourth accused had the diamonds.",
+    "legal_tests_applied": [
+      "For Section 27 of the Evidence Act to apply, the discovery must be of some fact which the police had not previously learnt from other sources, and the knowledge of the fact must be first derived from information given by the accused."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The police had already learned from other sources that the other accused had custody of the diamonds.",
+      "Consequently, the appellant's statement that the other accused had the diamonds was not something unknown to the police and did not constitute 'a fact deposed to as discovered in consequence of information received' from the appellant.",
+      "The information given by the appellant did not lead to the discovery of an incriminating fact, but at best led to the discovery of the whereabouts of the other accused, which does not fall within the meaning of Section 27."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

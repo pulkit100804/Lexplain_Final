@@ -1,0 +1,92 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Order of conviction and sentence passed by the trial Court",
+    "high_court_proceedings": "Accused-appellant appealed to the High Court. The High Court affirmed the trial court's order and dismissed the appeal.",
+    "supreme_court_posture": "Aggrieved by the decisions of the Trial Court and High Court, the appellant preferred an appeal before the Supreme Court. The Supreme Court allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction and sentence of the appellant, as confirmed by the High Court, are liable to be set aside.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant (mother-in-law of the deceased) was convicted for the murder of her son-in-law under Section 302/34 IPC by the trial court, and the conviction was upheld by the High Court.",
+          "The prosecution's case was that the deceased was strangled, relying on a postmortem report that indicated a ligature mark.",
+          "The defense argued that the deceased committed suicide by consuming poison, and the appellant was falsely implicated.",
+          "Evidence supporting the defense included: the presence of blisters all over the deceased's body and bluish nails (signs of poisoning), a prior complaint by the deceased's wife stating he told a Dr. Hiralal he had consumed poison, and corroborating statements from several prosecution witnesses and the Investigating Officer about what Dr. Hiralal had said.",
+          "Evidence weakening the prosecution's case included: the failure to preserve the deceased's viscera for chemical analysis, the non-examination of the crucial witness Dr. Hiralal, and the fact that the initial panchanama report (inquest report) made no mention of any ligature mark or injuries on the body, despite the complainant (PW5) being present."
+        ],
+        "law": [
+          "In cases based on circumstantial evidence, the prosecution must establish a complete chain of events that points exclusively to the guilt of the accused.",
+          "If two views are possible based on the evidence—one pointing to guilt and the other to innocence—the view that is favorable to the accused should be adopted.",
+          "The paramount duty of the court is to prevent a miscarriage of justice."
+        ],
+        "application": [
+          "The Supreme Court found that the prosecution had \"miserably failed to establish the chain of events\" required for a conviction based on circumstantial evidence.",
+          "The Court gave significant weight to the evidence suggesting suicide by poisoning, such as the blisters, bluish nails, and the statements from multiple witnesses about the deceased having consumed poison.",
+          "It noted serious flaws in the prosecution's case, calling the non-preservation of the viscera \"fatal\" and highlighting the failure to examine the key doctor who first saw the deceased.",
+          "The Court also found the prosecution's primary evidence of strangulation (the postmortem report) to be contradicted by the panchanama report, which was prepared earlier and did not note any ligature marks.",
+          "Applying the principle that the view more favorable to the accused should be taken when two possibilities exist, the Court concluded that the evidence strongly supported the defense's theory of suicide."
+        ],
+        "conclusion": "The Supreme Court concluded that it was not safe to convict the appellant, as the prosecution failed to prove guilt beyond a reasonable doubt. The evidence presented created a strong possibility that the deceased had committed suicide. Therefore, the Court gave the appellant the benefit of the doubt, allowed the appeal, and set aside the conviction and sentence."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction and sentence of the appellant, as confirmed by the High Court, are liable to be set aside.",
+      "appellant_arguments": [
+        "The conviction suffers from severe infirmities as the lower courts gave undue importance to the postmortem certificate which indicated death by strangulation.",
+        "Physical evidence such as congested organs, blisters all over the body, and bluish nails pointed towards a case of poisoning, suggesting the deceased committed suicide.",
+        "To falsely implicate the appellant, the possibility of suicide by poison was sidelined, and consequently, the doctors did not preserve the viscera.",
+        "The prosecution's case was not supported by any independent witnesses.",
+        "The panchanama report, prepared in the presence of the complainant (PW5), did not mention any ligature mark or injuries on the body, and PW5 raised no objection during its preparation.",
+        "The lower courts committed a serious error of law by ignoring these crucial facts."
+      ],
+      "respondent_arguments": [
+        "There is enough evidence on record to convict the accused.",
+        "The lower courts did not commit any mistake in their consideration of the medical evidence.",
+        "The deceased died in the house of the accused, where he was last seen in the company of the accused.",
+        "The chain of events has been completely proven by the prosecution."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Hanumant Govind Nargundkar Vs. State of Madhya Pradesh",
+        "citation": "1953 CriLJ 129",
+        "principle": "To set the mode of evaluating circumstantial evidence, establishing that in such cases, the chain of circumstances should lead to the irresistible conclusion that the accused participated in and committed the offence.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In cases based on circumstantial evidence, the circumstances from which guilt is inferred must be fully established and consistent only with the hypothesis of the accused's guilt. The chain of evidence must be complete, conclusive, and exclude every reasonable hypothesis of innocence, showing that within all human probability, the act must have been done by the accused.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The prosecution's case fails because the non-preservation of viscera by the doctor is fatal, especially when other evidence pointed to poisoning. The primary witness (PW5) never mentioned a ligature mark during the panchanama and was partially disbelieved by the trial court. Consequently, the prosecution miserably failed to establish a complete chain of events that points exclusively to the guilt of the accused, and the lower courts erred by not applying settled legal principles for circumstantial evidence.",
+    "legal_tests_applied": [
+      "In cases where the evidence is of a circumstantial nature, the circumstances from which the conclusion of guilt is to be drawn should be fully established, consistent only with the guilt of the accused, and exclude every other hypothesis. The chain of evidence must be so complete as not to leave any reasonable ground for a conclusion consistent with the innocence of the accused.",
+      "If two views are possible based on the evidence, one pointing to the guilt of the accused and the other to the innocence of the accused, the view which is favourable to the accused should normally be adopted."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The paramount consideration of the Court must be to ensure that miscarriage of justice is prevented."
+    ]
+  },
+  "evidence_map": {}
+}

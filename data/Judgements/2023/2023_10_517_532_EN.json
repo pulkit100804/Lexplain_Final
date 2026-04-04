@@ -1,0 +1,115 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge, Special Court NDPS, Jaora, District Ratlam, Madhya Pradesh",
+    "impugned_order": "Judgment and Order dated 14.03.2019 of the High Court of Madhya Pradesh at Indore in CRLA No.6163 of 2017, which confirmed the conviction and sentence rendered by the Additional Sessions Judge.",
+    "high_court_proceedings": "The High Court of Madhya Pradesh at Indore, in Criminal Appeal No. 6163 of 2017, confirmed the conviction and sentence imposed by the Additional Sessions Judge.",
+    "supreme_court_posture": "The appellant, aggrieved by the High Court's decision, appealed to the Supreme Court. The Supreme Court heard arguments, perused the records, allowed the appeal, set aside the conviction and sentence, and acquitted the appellant."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside",
+    "sentence_status": "set aside",
+    "directions": [
+      "The appellant is acquitted of all the charges.",
+      "Bond, if any, shall stand discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a statutory provision governing the procedure for taking samples will prevail over a conflicting Standing Order issued by the Central Government.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A conflict was identified between a Standing Order issued by the Central Government and a statutory provision (specifically, Section 52-A of the NDPS Act) regarding the procedure for taking samples of seized contraband."
+        ],
+        "law": [
+          "The Court relied on the \"first principles of interpretation,\" which dictate that a statutory provision must prevail over a conflicting administrative order or guideline.",
+          "Section 52-A of the NDPS Act mandates a specific procedure for drawing samples, which must be done in the presence of a Magistrate after an application is made to them.",
+          "Under Section 52-A(4), only samples drawn and certified by a Magistrate in accordance with this procedure are treated as primary evidence in a trial.",
+          "Guidelines or Standing Orders issued by a legal authority are considered mandatory, but only if they are in consonance with the parent statute."
+        ],
+        "application": [
+          "The Court placed the statutory provision and the Standing Order in juxtaposition and found a clear conflict.",
+          "Applying the principle of statutory supremacy, the Court held that the conflict must be resolved in favour of the statute (the NDPS Act).",
+          "The Court clarified that the procedure under Section 52-A is the correct and legally binding one. This means samples must be drawn in the presence of a Magistrate to be considered primary evidence, and any Standing Order suggesting otherwise (e.g., allowing sampling at the time of seizure without a Magistrate) is overridden.",
+          "The Court noted that while a conflicting Standing Order is invalid, any guideline that is *in consonance with* Section 52-A must be followed mandatorily."
+        ],
+        "conclusion": "The Supreme Court decided that the statutory provision will prevail. In a case of conflict, the procedure for taking samples laid out in the statute (Section 52-A of the NDPS Act) must be followed over any contradictory procedure mentioned in a Standing Order issued by the Central Government."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a statutory provision governing the procedure for taking samples will prevail over a conflicting Standing Order issued by the Central Government.",
+      "appellant_arguments": [
+        "The prosecution failed to follow the mandatory procedure for handling, sampling, and disposing of the seized contraband.",
+        "The bulk quantity of the seized contraband was not produced or exhibited to witnesses during the trial, which creates serious doubt about the prosecution's case.",
+        "The prosecution did not file an application for the disposal/destruction of the bulk contraband, no magisterial order was obtained for it, and no notice was given to the accused before its alleged destruction.",
+        "There was no substantial compliance with procedural guidelines, which compromises the sanctity of the physical evidence and should lead to an adverse inference against the prosecution.",
+        "The confessional statement was not voluntary as it was recorded while the accused was in custody of the Narcotics Officer.",
+        "Key witnesses to the seizure turned hostile, undermining the credibility of the seizure process."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments made by the respondent (the State). It focuses on the court's analysis of the prosecution's failures."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "NDPS Act",
+        "section": "52A",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of Kerala v. Kurian Abraham (P) Ltd.",
+        "citation": "(2008) 3 SCC 582",
+        "principle": "Statutory instructions are mandatory in nature.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Union of India v. Azadi Bachao Andolan",
+        "citation": "(2004) 10 SCC 1",
+        "principle": "Statutory instructions are mandatory in nature.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Guidelines and Standing Orders issued by a legally sanctioned authority are mandatory in nature and must be substantially complied with by subordinate authorities. In penal proceedings, failure by the investigating authority to substantially comply with these guidelines will lead to an adverse inference being drawn against the prosecution.",
+    "obiter": [
+      "Where a conflict exists between a statutory provision and a Standing Order, the conflict must be resolved in favour of the statute."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The prosecution's case is vitiated by too many material irregularities which create a serious doubt, warranting the appellant's acquittal. The courts below mechanically relied on the FSL report, ignoring the investigating authority's failure to substantially comply with mandatory procedural guidelines for handling evidence, the fact that key witnesses turned hostile, and that the appellant's confessional statement was not voluntary as it was recorded while he was in custody.",
+    "legal_tests_applied": [
+      "Where a conflict exists between a statutory provision and a Standing Order issued by the Central Government, the conflict must be resolved in favour of the statute on first principles of interpretation.",
+      "Procedural guidelines, such as those in a Standing Order, are mandatory in nature and cannot be blatantly flouted; substantial compliance therewith must be insisted upon.",
+      "An adverse inference must be drawn against the prosecution when it fails to produce crucial physical evidence, such as the bulk of the seized contraband, to the effect that had such evidence been produced, it would have gone against the prosecution.",
+      "A confessional statement recorded under Section 67 of the NDPS Act cannot be considered voluntary if it was recorded after arrest and while the accused was in the custody of the investigating officer."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The continuance of a statutory notification that conflicts with a Standing Order is bound to create confusion for authorities; therefore, the Central Government should re-examine the matter and take suitable steps to resolve the conflict.",
+      "Substantial compliance with procedural guidelines is necessary to ensure that the sanctity of physical evidence in narcotics cases remains intact."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p3_549c582d"
+    ],
+    "citations.cases[0].principle": [
+      "p8_20665949"
+    ],
+    "citations.cases[1].principle": [
+      "p8_20665949"
+    ]
+  }
+}

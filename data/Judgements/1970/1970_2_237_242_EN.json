@@ -1,0 +1,167 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court in Uttar Pradesh, given the Allahabad High Court's jurisdiction.",
+    "impugned_order": "Judgment and order dated October 6, 1967, of the Allahabad High Court, Lucknow Bench in Criminal Appeal No. 164 of 1966.",
+    "high_court_proceedings": "The Allahabad High Court set aside the conviction of Hori Lal and Bisram under Section 307 read with Section 34 of the Indian Penal Code (IPC) and instead convicted them under Section 326 read with Section 34 IPC, sentencing each to 5 years of rigorous imprisonment.",
+    "supreme_court_posture": "Hori Lal and Bisram appealed to the Supreme Court by special leave, challenging their conviction under Section 326 read with Section 34 IPC. The grounds for appeal included arguments about the nature of the injuries, the evidence of eye witnesses, and the admissibility of certain testimony."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellants under Section 326 for causing grievous hurt is justified.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants attacked a person (P.W. 2) with weapons called 'kantas', causing multiple injuries.",
+          "A doctor's examination revealed several incised wounds that were described as \"bone deep\" and as \"cutting the underlying bone.\"",
+          "Specifically, the humerus, radius, both bones of the left forearm, and the tibia bone shaft were cut.",
+          "The doctor testified that these injuries were grievous."
+        ],
+        "law": [
+          "A conviction under Section 326 of the Indian Penal Code requires the infliction of \"grievous hurt.\"",
+          "The definition of grievous hurt is found in Section 320, which includes \"a fracture or dislocation of a bone\" (clause 7).",
+          "The Court clarified that a \"fracture\" does not require a bone to be cut completely through. A break by cutting, splintering, or a fissure in the bone is sufficient to qualify as a fracture."
+        ],
+        "application": [
+          "The Court analyzed the medical evidence in light of the legal definition of a fracture.",
+          "It determined that the doctor's description of the injuries as \"cutting the underlying bone\" in several places met the criteria for a fracture.",
+          "The Court reasoned that since the humerus, radius, forearm bones, and tibia were cut, these injuries constituted fractures.",
+          "This finding was supported by the doctor's direct testimony that the injuries were grievous."
+        ],
+        "conclusion": "The Supreme Court concluded that the injuries were fractures and therefore qualified as \"grievous hurt\" under Section 320. Because the grievous hurt was inflicted with dangerous weapons ('kantas'), the conviction under Section 326 was fully justified."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the concurrent findings of the lower courts that the appellants had caused injuries to the witness should be overturned.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The Sessions Court and the High Court both found that the appellants had caused the injuries to the witness, P.W. 2.",
+          "The appellants argued that this finding was incorrect, specifically contending that the presence of contusions and abrasions contradicted the eyewitness testimony that the weapon used was a 'kanta' (a sharp-edged weapon)."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court determined that there was sufficient credible evidence from eyewitnesses to prove the appellants caused the injuries.",
+          "The Court noted that even if the testimony of the victim (P.W. 2) and his brother (P.W. 1) were set aside, the evidence of an independent eyewitness, P.W. 3 Maya Ram, was reliable and had been accepted by both lower courts.",
+          "The Court rejected the appellants' argument regarding the contusions, explaining that it is \"quite possible\" for a kanta, which also has a blunt side, to cause such injuries.",
+          "The Court pointed out that the defense had not challenged the doctor on whether these types of injuries were possible with a kanta."
+        ],
+        "conclusion": "Finding no valid reason to interfere, the Supreme Court accepted and upheld the concurrent findings of the lower courts that the appellants had caused the injuries to P.W. 2 as described by the witnesses."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the testimony of witnesses should be disbelieved merely on a submission that the injuries were not possible with the weapons used, when the doctor was not questioned on this point.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The victim (P.W. 2) suffered multiple injuries, including incised wounds, contusions, and abrasions.",
+          "Eyewitnesses testified that the appellants attacked the victim with 'kantas'.",
+          "The appellants' counsel argued that the presence of contusions (bruises) belied the testimony that a 'kanta' (a sharp weapon) was used."
+        ],
+        "law": [
+          "To discredit witness testimony based on an alleged inconsistency between the weapon used and the injuries sustained, the impossibility of such injuries must be established through evidence.",
+          "A mere submission or suggestion from a lawyer is not sufficient to prove such an impossibility."
+        ],
+        "application": [
+          "The Court noted that the defense counsel never questioned the doctor who examined the victim about whether the contusions were possible from a 'kanta' blow.",
+          "The Court reasoned that it is \"quite possible\" for a 'kanta' to cause contusions, as such a weapon could have blunt sides.",
+          "Because the defense failed to make definite suggestions to the doctor and elicit testimony proving the impossibility of the injuries, the Court found no justification to disbelieve the eyewitnesses based solely on the lawyer's argument."
+        ],
+        "conclusion": "The Supreme Court rejected the argument and refused to disbelieve the witnesses. It held that unless the doctor is specifically questioned and testifies that it was impossible for the stated weapon ('kanta') to cause the specific injuries (contusions), the court will not discredit eyewitness testimony on a mere submission from the lawyer."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellants under Section 326 for causing grievous hurt is justified.",
+      "appellant_arguments": [
+        "The injuries do not legally constitute 'grievous hurt' because there is no evidence that any bones were fractured or that the injured person was disabled for 20 days or more."
+      ],
+      "respondent_arguments": [
+        "The conviction under Section 326 was justified because the injuries were grievous as bones had been cut, and they were inflicted with dangerous weapons (kantas)."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the concurrent findings of the lower courts that the appellants had caused injuries to the witness should be overturned.",
+      "appellant_arguments": [
+        "The accused were falsely implicated.",
+        "The deposition of a deceased witness, Sri Pal, should not have been admitted into evidence because his death was not strictly proven."
+      ],
+      "respondent_arguments": [
+        "The concurrent findings of the lower courts, which were based on the evidence of multiple eyewitnesses, should be accepted."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the testimony of witnesses should be disbelieved merely on a submission that the injuries were not possible with the weapons used, when the doctor was not questioned on this point.",
+      "appellant_arguments": [
+        "The presence of contusions on the victim contradicts the eyewitnesses' claim that the injuries were inflicted by a 'kanta' (a sharp weapon), making their testimony unreliable."
+      ],
+      "respondent_arguments": [
+        "It is possible to cause contusions with a kanta, which can have blunt sides.",
+        "The defense cannot challenge the possibility of the injuries without having questioned the doctor on this specific point during the trial."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "326",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "320",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "To constitute a grievous hurt under the Penal Code, it is not necessary that a bone should be cut through and through, that a crack must extend from the outer to the inner surface, or that there should be displacement of any fragment of the bone. A break in a bone by cutting is sufficient to be considered a fracture.",
+    "obiter": [
+      "Whether the evidence of an investigating officer stating 'it has been learnt' that a person has died is sufficient to prove death in order to admit a deposition under s. 33 of the Evidence Act."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court upheld the conviction for grievous hurt under Section 326, finding that the concurrent factual conclusions of the lower courts, based on credible eyewitness testimony, were sound. Legally, the court clarified that an injury constitutes \"grievous hurt\" under Section 320 of the Penal Code if a bone is cut, and it is not necessary for the bone to be cut through and through, fractured, or for fragments to be displaced.",
+    "legal_tests_applied": [
+      "The definition of 'grievous hurt' under Section 320 of the Penal Code, specifically that a 'break by cutting' of a bone is sufficient to constitute a fracture.",
+      "A party cannot challenge the consistency of injuries with a particular weapon merely by submission; the question must be put to the expert medical witness (the doctor) during the trial to elicit an opinion on its impossibility.",
+      "Deference to the concurrent findings of fact by lower courts unless a valid reason is shown to overturn them."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the appellant's narrow interpretation of 'grievous hurt,' holding that it is not necessary for a bone to be cut through and through or for a crack to extend from the outer to the inner surface to qualify as a fracture under Section 320.",
+      "The challenge to the eyewitnesses' credibility, based on the argument that a sharp 'kanta' could not cause contusions, failed because the appellants never questioned the doctor on this point during the trial.",
+      "The court found no valid reason to overturn the concurrent findings of the lower courts, which had found the eyewitness testimony credible enough to establish that the appellants caused the injuries."
+    ],
+    "why_respondent_won": [
+      "The medical evidence showing that the victims' bones had been cut was sufficient to satisfy the legal definition of 'grievous hurt' under Section 320 of the Penal Code.",
+      "The testimony of multiple eyewitnesses was found credible by two lower courts, and the Supreme Court upheld these concurrent findings of fact.",
+      "The court accepted the possibility that the weapons used ('kantas') could have blunt sides capable of causing contusions, and it placed the burden on the defense to have challenged this possibility through expert testimony at trial."
+    ],
+    "policy_considerations": [
+      "To maintain the integrity of the trial process, a party cannot challenge expert evidence or scientific possibility for the first time on appeal through a 'submission from the bar'; such challenges must be made during the trial by cross-examining the relevant expert witness."
+    ]
+  },
+  "evidence_map": {}
+}

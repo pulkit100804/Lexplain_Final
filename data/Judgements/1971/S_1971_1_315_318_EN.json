@@ -1,0 +1,93 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge (Trial Court)",
+    "impugned_order": "Judgment and order dated December 24, 1965 of the Punjab High Court, Circuit Bench at Delhi in Criminal Appeal No. 16-D of 1964.",
+    "high_court_proceedings": "The High Court (Dulat, J.) acquitted the respondent. The High Court differed from the Special Judge and held that the credit sales were not illegal transactions.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave challenging the High Court's decision. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether an officer who obtains goods on credit, even without the intention to pay, is obtaining a valuable thing without consideration, thereby committing an offence under Section 5(1)(b) of the Prevention of Corruption Act.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An Income-tax Officer obtained goods on credit from several shops over a period of years.",
+          "The officer did not pay the bills for these goods.",
+          "The prosecution argued that this amounted to obtaining valuable things without consideration."
+        ],
+        "law": [
+          "Section 5(1)(b) of the Prevention of Corruption Act makes it an offence for a public servant to obtain a valuable thing without consideration."
+        ],
+        "application": [
+          "The Supreme Court agreed with the High Court's reasoning that a purchase on credit is not a transaction without consideration.",
+          "The Court determined that the 'consideration' in a credit transaction is the promise to pay for the goods.",
+          "Even if the officer secretly did not intend to pay, the transaction itself was structured with a clear promise to pay, which legally constitutes consideration.",
+          "The Court noted that the situation would be different if there was evidence of a secret agreement between the officer and the trader that payment would never be demanded. In that case, it would be a transaction without consideration, but no such evidence existed here."
+        ],
+        "conclusion": "The Supreme Court concluded that obtaining goods on credit involves consideration (the promise to pay). Therefore, an officer who obtains goods on credit, even if they do not intend to pay, is not obtaining a valuable thing 'without consideration' and does not commit an offence under Section 5(1)(b) of the Prevention of Corruption Act."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether an officer who obtains goods on credit, even without the intention to pay, is obtaining a valuable thing without consideration, thereby committing an offence under Section 5(1)(b) of the Prevention of Corruption Act.",
+      "appellant_arguments": [
+        "According to the prosecution (appellant), the respondent obtaining goods on credit from various shops and not paying for them amounted to obtaining valuable things without consideration, which is an offense under the Act."
+      ],
+      "respondent_arguments": [
+        "When a person obtains goods on credit, the promise to pay is the consideration for the transaction. Therefore, the goods are not obtained 'without consideration', even if the person did not intend to pay. While this might constitute cheating, it is not an offense under Section 5(1)(b) of the Prevention of Corruption Act."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "5(1)(b)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "5(1)(d)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1947",
+        "section": "5(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A public officer who obtains goods on credit, even with no intention to pay, does not obtain a valuable thing without consideration, as the promise to pay constitutes valid consideration. Such a transaction is not an offense under Section 5(1)(b) or Section 5(1)(d) of the Prevention of Corruption Act, 1947.",
+    "obiter": [
+      "The case may be different if it is proved that there was an agreement with the trader that the trader would not demand the money and the officer would not pay, and any bills sent would be merely a formality."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In a credit transaction, the promise to pay for the goods constitutes valid consideration. Therefore, an officer who obtains goods on credit does not obtain a valuable thing \"without consideration\" under Section 5(1)(b) of the Prevention of Corruption Act, even if they secretly do not intend to pay. Such an act might constitute cheating, but it does not fall under this specific provision of the Act.",
+    "legal_tests_applied": [
+      "To determine if a valuable thing was obtained without consideration in a credit transaction, the court must assess if there was a collusive agreement between the officer and the trader that the money would not be demanded and the officer would not pay. In the absence of evidence of such a sham agreement, the promise to pay is considered valid consideration."
+    ],
+    "why_appellant_lost": [
+      "The prosecution's argument that obtaining goods on credit and not paying for them is equivalent to obtaining them 'without consideration' was rejected. The court found that the promise to pay, inherent in a credit sale, is itself the consideration for the transaction."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully argued that a credit sale is not a transaction without consideration because the promise to pay for the goods serves as the consideration. The court agreed, stating, 'It seems to us tha( there was consideration for the obtaining of goods on credit and it cannot be said that an officer, if he obtains goods on credit, even if he does not intend to pay, is obtaining a valuable thing without consideration.'"
+    ],
+    "policy_considerations": [
+      "If the court were to hold that obtaining goods on credit and failing to pay was an offense under the Act, it would become impossible for any public officer to engage in normal commercial credit transactions, as a mere delay in payment could lead to a criminal charge. The court noted, 'If we were to hold otherwise it would be impossible for any officer to go to a shop and obtain credit for if he did not pay within a reasonable time a charge could_ be leVied :asam&t him und~ ~tion S. (l) (dl of the Act.'"
+    ]
+  },
+  "evidence_map": {}
+}

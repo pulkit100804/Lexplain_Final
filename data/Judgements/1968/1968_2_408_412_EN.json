@@ -1,0 +1,108 @@
+{
+  "procedural_history": {
+    "originating_court": "City Magistrate, 7th Court, Ahmedabad",
+    "impugned_order": "Judgment and order dated June 19, 1964 of the Gujarat High Court in Criminal Appeal No. 759 of 1963, which was an order of acquittal.",
+    "high_court_proceedings": "The respondent was convicted by the City Magistrate. The respondent appealed to the Gujarat High Court in Criminal Appeal No. 759 of 1963. The High Court allowed the appeal and acquitted the respondent.",
+    "supreme_court_posture": "The State of Gujarat appealed to the Supreme Court by special leave, challenging the High Court's order of acquittal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the sale of cement by the government to a contractor for a specific purpose constitutes an 'entrustment' of property under Section 409 IPC, over which the government retains dominion after delivery.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The government sold and delivered 100 bags of cement to a contractor, Bharat Sewak Samaj (BSS), for a specific government construction project.",
+          "The respondent, acting on behalf of the contractor, took delivery of the cement but allegedly diverted a portion of it.",
+          "The prosecution's case was not that the contractor (BSS) was complaining of misappropriation, but that the *government* had entrusted the cement to the respondent for a specific purpose, and the respondent had committed a breach of that trust."
+        ],
+        "law": [
+          "For an 'entrustment' to exist under the Indian Penal Code, the person handing over the property must continue to be its owner.",
+          "Entrustment implies a trust and a fiduciary relationship between the parties.",
+          "A mere transaction of sale, where ownership and property pass to the buyer, cannot amount to an entrustment."
+        ],
+        "application": [
+          "The Court characterized the transaction between the government and the contractor as a simple 'sale'.",
+          "It reasoned that the condition that the cement be used for a specific purpose did not change the fundamental nature of the transaction from a sale into an entrustment.",
+          "Crucially, the Court found that after the cement was delivered, the government \"had neither any right nor dominion over it.\" Ownership had completely passed to the contractor.",
+          "Since the government no longer owned the cement or had any control over it, there could be no 'entrustment' by the government to the respondent.",
+          "The Court also noted that the sale did not create any fiduciary relationship between the government and the contractor or the respondent."
+        ],
+        "conclusion": "The Supreme Court concluded that the transaction was a sale, not an entrustment. Because the government retained no ownership or dominion over the cement after its delivery, the essential element of 'entrustment' required for a criminal breach of trust under Section 409 IPC was not established. Therefore, the Court rejected the argument that the sale constituted an entrustment."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the sale of cement by the government to a contractor for a specific purpose constitutes an 'entrustment' of property under Section 409 IPC, over which the government retains dominion after delivery.",
+      "appellant_arguments": [
+        "The government entrusted 100 bags of cement to the respondent for the specific purpose of being used in the construction of a government building.",
+        "Because the cement was allotted for a specific purpose, the government retained dominion over it even after delivery.",
+        "The respondent's act of diverting 40 bags of this cement constituted a misappropriation and a criminal breach of trust."
+      ],
+      "respondent_arguments": [
+        "The transaction was a sale of cement, and once it was delivered, the dominion over the property passed to the contractor (BSS).",
+        "The condition to use the cement for a specific purpose was a contractual obligation, the breach of which does not amount to a criminal 'entrustment' under the IPC.",
+        "Factually, the 40 bags were sent to a godown to replace cement that his company had already used for the project from its own stock, so there was no misappropriation."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "409",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "405",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Satyendra Nath Mukherji v. Emperor",
+        "citation": "I.L.R. [1947] 1 Cal. 97",
+        "principle": "When goods are sold to a person under a permit that directs their specific use, the transaction is a sale, and property passes to the buyer. This does not constitute an 'entrustment' of the property or dominion over it within the meaning of s. 405 of the Indian Penal Code for the offense of criminal breach of trust.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When the government provides a controlled commodity to a contractor for a specific purpose, the transaction is considered a sale, and the property in the goods passes to the contractor. This transfer of ownership means there is no entrustment of the property or dominion over it, which is a necessary element for the offense of criminal breach of trust.",
+    "obiter": [
+      "In view of our conclusion that the prosecution has failed to prove the entrustment pleaded, it is unnecessary to consider whether on the material on record it can be concluded that the respondent had misappropriated 40 bags of cement referred to earlier."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the Government had sold the cement in question to the contractor solely for the purpose of being used in connection with the construction work, that circumstance did not make the transaction in question anything other than a sale. After the delivery of the cement, the Government had neither any right nor dominion over it. On the proved facts, it is difficult to accept the contention of the appellant that after the sale of the cement in question the government had any proprietary right over the same. Nor can it be said that the transaction in question resulted in any fiduciary relationship either between the government and BSS or between the government and the respondent.",
+    "legal_tests_applied": [
+      "Whether, after the delivery of property sold for a specific purpose, the seller retains any proprietary right or dominion over it.",
+      "Whether the transaction created a fiduciary relationship between the parties, which is a necessary component of entrustment."
+    ],
+    "why_appellant_lost": [
+      "The prosecution failed to prove the essential element of 'entrustment' because the transaction was a sale, not an entrustment.",
+      "The condition that the cement was to be used for a specific purpose did not prevent the transaction from being a sale or mean the government retained dominion.",
+      "After the delivery of the cement, the Government had neither any right nor dominion over it.",
+      "The transaction did not create any fiduciary relationship between the government and the contractor or the respondent."
+    ],
+    "why_respondent_won": [
+      "The transaction was a normal sale, and upon delivery of the cement, the government lost all proprietary rights and dominion over it.",
+      "The requirement to use the cement for a specific purpose was a contractual condition, the breach of which does not constitute a criminal breach of trust.",
+      "The government's case was based on an entrustment to the respondent, but the court found the transaction was a sale to the contractor (BSS), for whom the respondent merely took delivery."
+    ],
+    "policy_considerations": [
+      "A breach of a condition attached to a sale, or a violation of a control order, should be prosecuted under the relevant specific law, not conflated with the distinct criminal offense of breach of trust. The court noted: 'If the purchaser or its representative had failed to comply with the requirements of any law relating to the cement control, he should have been prosecuted for the same. It could not be held that there was any breach of trust.'"
+    ]
+  },
+  "evidence_map": {}
+}

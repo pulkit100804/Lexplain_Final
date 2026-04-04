@@ -1,0 +1,154 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court in Kerala since the High Court heard appeals from it.",
+    "impugned_order": "Judgment and orders dated October 12, 1964, of the Kerala High Court in Criminal Appeal No. 80 of 1964, and Criminal Appeal No. 70 and Referred Trial No. 13 of 1964.",
+    "high_court_proceedings": "The Kerala High Court dismissed the appeals of Unni and Rajwani Singh and confirmed the death sentence on Unni.",
+    "supreme_court_posture": "Unni and Rajwani Singh appealed to the Supreme Court by special leave."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Conviction upheld",
+    "sentence_status": "Sentence upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the case falls within clause thirdly of the definition of murder.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants laid their victim in a drain after closing his mouth with adhesive tape and plugging his nose with cotton wool soaked in chloroform.",
+          "These actions caused the victim's death by asphyxiation.",
+          "The appellants' acts were deliberate and part of a pre-discussed plan."
+        ],
+        "law": [
+          "The Court analyzed clause thirdly of Section 300 of the Indian Penal Code, which defines an act as murder if it is done with the intention of causing a bodily injury that is objectively 'sufficient in the ordinary course of nature to cause death.'",
+          "This test is objective; it does not require proof that the offender intended to cause death or had subjective knowledge of the likely consequences.",
+          "To apply this clause, it must be proven that: 1) an injury was caused, 2) there was an intention to inflict that specific injury, and 3) the injury was objectively sufficient to cause death in the ordinary course of nature."
+        ],
+        "application": [
+          "The appellants argued that the prosecution had not sufficiently proven that the injury was 'sufficient in the ordinary course of nature to cause death,' as no evidence was presented on the concentration of chloroform or the exact manner of plugging the nostrils.",
+          "The Court rejected this argument, distinguishing this case from one where a single blow might require separate evidence of its lethality.",
+          "The Court reasoned that where a victim is rendered helpless and the offender's acts directly lead to death with no other intervening cause, the acts themselves and their direct causal connection to the death are sufficient proof.",
+          "In this case, the acts of plugging the victim's nose and taping his mouth directly caused asphyxiation. The Court found that the 'sufficiency of the injury was objectively established by the nature and quality of the acts taken with the consequence.'",
+          "Since the appellants intentionally inflicted this specific injury (blocking the victim's airways), and that injury was objectively sufficient to cause death, all conditions of clause thirdly were met."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellants' acts were covered by clause thirdly of Section 300. Because they intentionally inflicted a bodily injury that was objectively sufficient in the ordinary course of nature to cause death, the offense was determined to be murder."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the sentence of death was appropriate in the circumstances of the case.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, Unni, was sentenced to death for murder.",
+          "The High Court of Kerala had previously confirmed this sentence."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court considered Unni's specific role in the crime.",
+          "The Court identified Unni as the 'master mind behind the whole affair'."
+        ],
+        "conclusion": "Based on Unni's role as the mastermind, the Court found that the sentence of death was appropriate and saw no reason to interfere with the lower courts' decisions."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the case falls within clause thirdly of the definition of murder.",
+      "appellant_arguments": [
+        "The offence was one of causing grievous hurt or at worst, culpable homicide not amounting to murder, punishable under s. 304 (second part) of the Indian Penal Code.",
+        "The appellants did not intend to cause the death of the victim, but only to keep him immobilised and silent while they robbed a safe.",
+        "The acts of tying the victim, closing his mouth, and plugging his nostrils with chloroform were intended to temporarily keep him out of the way, not to kill him.",
+        "The acts were not done with the intention of causing a bodily injury that was likely to kill.",
+        "At most, the death was caused with the knowledge that the acts were likely to cause death, which is an offence under s. 304 (second part)."
+      ],
+      "respondent_arguments": [
+        "The appellants shared a common intention to cause the bodily injury which was sufficient to cause death in the ordinary course of nature.",
+        "Under clause 3 of s. 300, the consequence of the act is viewed objectively, making all who shared the common intention responsible for the resulting offence of murder.",
+        "Even if the consequence was different from what was intended, the appellants are responsible under s. 113 of the Indian Penal Code because they knew the act they were abetting was likely to cause that effect.",
+        "The appellants' own argument that s. 304 II applies (knowledge of likelihood of death) attracts the provision of s. 113."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether the sentence of death was appropriate in the circumstances of the case.",
+      "appellant_arguments": [
+        "No arguments regarding this issue were found in the provided text."
+      ],
+      "respondent_arguments": [
+        "No arguments regarding this issue were found in the provided text."
+      ],
+      "court_acceptance": "undetermined"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "s. 300",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "s. 113",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "s. 302/34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "s. 304 II",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Anda v. State of Rajasthan",
+        "citation": "A.I.R. 1965 S.C. 148",
+        "principle": "To consider the acts of the appellants in relation to each of the clauses of s. 300.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Virsa Singh v. State of Punjab",
+        "citation": "[1958] S.C.R. 1495",
+        "principle": "To apply the subjective test (whether the bodily injury was deliberate and pre-planned) and the objective test (whether the injury was sufficient in the ordinary course of nature to cause death) to determine if a case falls under the third clause of s. 300.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "For an act to constitute murder under the third clause of Section 300 of the Indian Penal Code, the result of the intentionally caused injury must be viewed objectively. If the specific bodily injury that the offender intended to inflict is, in the ordinary course of nature, sufficient to cause death, the offense is murder, regardless of whether the offender intended to cause death or had subjective knowledge of the fatal consequences. All persons who share a common intention to inflict such an injury are responsible for the resulting murder.",
+    "obiter": [
+      "The fourth clause of Section 300 comprehends, generally, the commission of acts where there is no intention to kill any one in particular.",
+      "Even if the consequence was different from what was actually intended, those who abetted would be equally responsible under s. 113 of the Indian Penal Code, provided they knew that the act they were abetting was likely to cause that effect."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appellants were guilty of murder under clause thirdly of s. 300, read with s. 34 of the Indian Penal Code. The court found that there was a common intention to cause a specific bodily injury, and because that injury was objectively sufficient to cause death in the ordinary course of nature, all who shared the common intention were responsible for the resulting offence of murder, regardless of their subjective intent to kill.",
+    "legal_tests_applied": [
+      "For clause thirdly of s. 300, the result of the intentionally caused injury must be viewed objectively. If the injury that the offender intends to cause and does cause is sufficient to cause death in the ordinary way of nature, the offence is murder, whether the offender intended to cause death or had subjective knowledge of the consequences.",
+      "The test for applying clause thirdly of s. 300 requires: first, establishing that an injury was caused; second, establishing objectively that the nature of that injury is sufficient in the ordinary course of nature to cause death; and third, proving there was an intention to inflict that very injury and that it was not accidental or unintentional.",
+      "Under s. 113 of the Indian Penal Code, if an act is abetted with the knowledge that it is likely to cause a particular effect, and that effect is caused, the abettor is liable for the effect caused as if they had abetted it directly."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the offence was culpable homicide under s. 304 II (based on knowledge that the acts were likely to cause death) was rejected because the case squarely fell within the more serious definition of murder under clause thirdly of s. 300.",
+      "The court found that the appellants had a common intention to cause the specific bodily injury which was inflicted, and this injury was objectively sufficient to cause death in the ordinary course of nature, thus satisfying the test for murder under clause thirdly.",
+      "The court noted that even on the appellants' own argument that s. 304 II applied (which requires knowledge of the likelihood of death), s. 113 of the Indian Penal Code would be attracted, making them liable for the resulting murder because they abetted an act they knew was likely to cause that effect."
+    ],
+    "why_respondent_won": [
+      "The court accepted the respondent's argument that the consequence of the act under clause thirdly of s. 300 must be viewed objectively, making all who shared the common intention to cause the bodily injury responsible for the resulting murder.",
+      "The court agreed that there was a common intention among the appellants, which was demonstrated by the deliberated and jointly executed plan.",
+      "The court endorsed the respondent's alternative argument that even if the consequence was different from what was intended, the appellants' knowledge that their acts were likely to cause death made them liable for murder under s. 113 of the Indian Penal Code."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,130 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (implied, as there was an acquittal and confiscation order)",
+    "impugned_order": "Judgment and order dated January 8, 1965 of the Gujarat High Court in Criminal Appeal No. 345 of 1964.",
+    "high_court_proceedings": "Gopaldas (the accused) appealed to the Gujarat High Court against the order of confiscation. A Single Judge of the High Court ordered the return of the confiscated bottles, reasoning that it wasn't proven that all the bottles contained intoxicants.",
+    "supreme_court_posture": "The State of Gujarat appealed to the Supreme Court by special leave, contending that Section 98 of the relevant Act applied to the case. The Supreme Court allowed the appeal, set aside the High Court's order, and remanded the case with directions for random analysis of the bottles and confiscation of the entire stock if contraband was found."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The case is remanded as ordered."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether property can be confiscated under Section 98 of the Bombay Prohibition Act if the person accused of the offence in relation to that property has been acquitted.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A large stock of bottles, supposedly cosmetic preparations, was seized from the respondent.",
+          "Samples from the stock were analyzed and found to contain alcohol, for which the respondent did not have a license.",
+          "The respondent was prosecuted under the Bombay Prohibition Act but was acquitted by the Magistrate, who found he was merely an agent for the owner.",
+          "Despite the acquittal, the Magistrate ordered the confiscation of the remaining bottles under Section 98 of the Act.",
+          "The High Court overturned the confiscation order, reasoning that it was not proven that the rest of the bottles also contained intoxicants."
+        ],
+        "law": [
+          "The Supreme Court established that for confiscation under Section 98, the key question is not whether the accused person was successfully prosecuted, but whether an offence under the Prohibition Act was committed in respect of the property itself.",
+          "The Court drew a distinction between proving the guilt of a specific person and demonstrating that an offence has occurred concerning the property.",
+          "An offence can be shown to have been committed (e.g., the existence of a contraband article) even if the individual charged with the offence is acquitted."
+        ],
+        "application": [
+          "The Court applied this principle by stating that the respondent's acquittal was not the deciding factor for the confiscation order.",
+          "The central issue was whether the seized bottles were contraband articles. If they were, an offence had been committed in respect of them, regardless of the outcome of the personal prosecution.",
+          "The Court used an analogy: if a large quantity of contraband opium is found, it should be confiscated even if the householder is acquitted, because the opium itself is illegal. Returning it would be illogical.",
+          "Since the initial samples tested positive for alcohol and the bottles appeared to be a uniform stock from a manufacturer, the Court found it fair to assume the rest were similar."
+        ],
+        "conclusion": "The Supreme Court concluded that property can be confiscated under Section 98 of the Bombay Prohibition Act even if the person accused of the offence in relation to that property has been acquitted. The condition for confiscation is proof that the property itself is a contraband article in respect of which an offence has been committed. The Court set aside the High Court's order and directed that a few more bottles be tested at random; if they contained contraband, the entire stock was to be confiscated."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the High Court's order to return the seized bottles was correct on the ground that it was not proven that all the bottles contained intoxicants.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A large stock of over 1500 bottles, appearing to contain cosmetic preparations, was seized from the respondent.",
+          "Two sample bottles were sent for chemical analysis and were found to contain alcohol, an intoxicant under the Bombay Prohibition Act.",
+          "The respondent was prosecuted but ultimately acquitted by the Magistrate, not because the substance wasn't an intoxicant, but because it wasn't proven he possessed them on his own behalf.",
+          "Despite the acquittal, the Magistrate ordered the confiscation of the remaining 1500+ bottles.",
+          "The High Court overturned the confiscation, ordering the bottles to be returned because it had not been proven that all the other bottles also contained intoxicants."
+        ],
+        "law": [
+          "The Court established a key legal distinction: an offense can be committed *in respect of a property* (making it contraband and subject to confiscation) even if the person accused of the offense is not successfully prosecuted or is acquitted.",
+          "Under Section 98 of the Prohibition Act, the crucial question for confiscation is whether the property itself is contraband, not whether a specific person has been found guilty.",
+          "If it is proven that an article is contraband, the proper course of action is to confiscate it to the State."
+        ],
+        "application": [
+          "The Supreme Court rejected the High Court's reasoning that the contents of every single bottle had to be individually proven. The acquittal of the accused was deemed irrelevant to the status of the bottles themselves.",
+          "The Court found it was fair to assume that the remaining bottles were of the same kind as the two samples that tested positive for alcohol, especially since there was evidence they were a proprietary product in their original, uniform packaging.",
+          "The Court reasoned that if an offense was committed in respect of the property (i.e., the bottles contained illegal alcohol), they should be confiscated regardless of the outcome of the personal prosecution."
+        ],
+        "conclusion": "The Supreme Court rejected the High Court's reasoning and set aside its order to return the bottles. It concluded that it was not necessary to prove that every single bottle contained an intoxicant. Instead, it directed that a few more bottles be selected at random for analysis. If these samples were also found to contain contraband, the entire stock was to be confiscated."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether property can be confiscated under Section 98 of the Bombay Prohibition Act if the person accused of the offence in relation to that property has been acquitted.",
+      "appellant_arguments": [
+        "The State of Gujarat contended that Section 98 of the Bombay Prohibition Act applies to the case, allowing for the confiscation of property in respect of which an offence has been committed, even if the accused person is acquitted."
+      ],
+      "respondent_arguments": [
+        "The respondent argued, by appealing the confiscation order after his acquittal, that the property could not be confiscated because he had been found not guilty of the offence."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the High Court's order to return the seized bottles was correct on the ground that it was not proven that all the bottles contained intoxicants.",
+      "appellant_arguments": [
+        "The State of Gujarat implicitly argued that the High Court's reasoning was incorrect and that it was not necessary to prove that every single bottle contained an intoxicant for the entire stock to be confiscated under Section 98."
+      ],
+      "respondent_arguments": [
+        "The respondent argued that the confiscation of all the bottles was illegal because the prosecution had not proven that the 1500+ bottles, other than the samples, also contained intoxicants."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Bombay Prohibition Act",
+        "section": "98",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Bombay Prohibition Act",
+        "section": "66(b)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "For the purpose of confiscating property under Section 98 of the Prohibition Act, the determinative question is whether an offense has been committed in respect of that property. An offense can be demonstrated to have been committed in respect of the property, justifying its confiscation, even if the person charged with that offense is acquitted.",
+    "obiter": [
+      "Suppose in a house a vast quantity of contraband opium is found. The householder may get off because the opium was found from a place which was open and had access to strangers. He may get the benefit of doubt and be acquitted, but it is clear that in so far as the opium is concerned, an offence must be deemed to have been committed, and if it is proved that the contraband article was opium, it would be remarkable that the order should be that the opium be returned to the householder."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Under Section 98 of the Bombay Prohibition Act, the key question for confiscation is not whether the accused person has been successfully prosecuted, but whether an offence in respect of the property itself has been committed. An offence can be demonstrated to have been committed with respect to property even if the individual accused of committing it is acquitted.",
+    "legal_tests_applied": [
+      "To determine if property can be confiscated under Section 98, the court must assess whether an offence under the Prohibition Act has been committed in respect of that property, which is a separate inquiry from the guilt or innocence of the person prosecuted for that offence."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "It would be a 'remarkable' and illogical outcome if a large quantity of a proven contraband article, in respect of which an offence has clearly been committed, had to be returned to a person simply because their individual prosecution failed. The obvious public policy course is to confiscate such contraband to the State to prevent its circulation."
+    ]
+  },
+  "evidence_map": {
+    "ratio_decidendi.obiter[0]": [
+      "p3_5104f018"
+    ]
+  }
+}

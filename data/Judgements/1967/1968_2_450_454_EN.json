@@ -1,0 +1,141 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a lower court within the jurisdiction of the Allahabad High Court.",
+    "impugned_order": "Judgment and order dated August 31, 1964, of the Allahabad High Court in Criminal Appeal No. 397 of 1963.",
+    "high_court_proceedings": "The Allahabad High Court heard Criminal Appeal No. 397 of 1963 and rendered a judgment and order on August 31, 1964. The text indicates the High Court concurred with the lower court's conclusions.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court by special leave. The Supreme Court heard Criminal Appeal No. 47 of 1965. The Supreme Court allowed the appeal in part for one appellant (Sadhai) and dismissed it for the other (Baul)."
+  },
+  "decision": {
+    "appeal_result": "Allowed in part",
+    "conviction_status": "Altered",
+    "sentence_status": "Altered",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court erred by not considering the evidence of alibi.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused, Sadhai, pleaded an alibi, stating he had gone to a cremation and was arrested at 7:30 p.m. upon his return.",
+          "He presented one witness to support his alibi.",
+          "The High Court mentioned the alibi in its judgment but did not analyze or consider it, possibly because it had already accepted the eyewitness testimony.",
+          "The Sessions Judge had previously considered and disbelieved the alibi evidence."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court acknowledged that the High Court did not consider the alibi evidence.",
+          "The Supreme Court then proceeded to review the alibi evidence itself and compare it with the eyewitness testimony.",
+          "The Court found the alibi evidence to be unsatisfactory and unacceptable for several reasons:",
+          "1. The Sub Inspector's testimony contradicted the accused's claim about the time of his arrest (10 p.m. vs. 7:30 p.m.).",
+          "2. The accused relied on only a single, unimpressive witness, whereas if he had truly been at a cremation, numerous other people could have supported his alibi.",
+          "3. The Court found that this weak alibi evidence did not displace the credible evidence from the eyewitnesses."
+        ],
+        "conclusion": "The Supreme Court rejected the argument, concluding that after its own review, the alibi evidence was not satisfactory and could not be accepted. It agreed with the Sessions Judge's original finding that the alibi did not displace the eyewitness testimony."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether an accused could be convicted for an offence under s. 302 simpliciter without establishing that he had caused the fatal injuries, after the acquittal of the co-accused and the failure to prove common intention.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "Two accused were charged under s. 302 (murder) read with s. 34 (common intention) for an assault with lathis.",
+          "The victim suffered four head injuries, two of which were fatal.",
+          "The High Court acquitted one of the two accused.",
+          "Following the acquittal, the High Court convicted the remaining accused, Sadhai, under s. 302 simpliciter (for murder alone), holding him responsible for all the injuries."
+        ],
+        "law": [
+          "When a charge of common intention (s. 34) fails (e.g., due to the acquittal of a co-accused), the prosecution is required to prove the specific nature of the injury caused by the remaining accused.",
+          "In the absence of a proven common intention, an accused cannot be held vicariously liable for the acts of others."
+        ],
+        "application": [
+          "The Supreme Court noted that with the acquittal of the co-accused, the element of common intention was no longer proven.",
+          "Consequently, the prosecution had the burden to establish which of the four injuries were specifically caused by the remaining accused, Sadhai.",
+          "The Court found there was no evidence to prove that Sadhai had caused the two fatal injuries as opposed to the two minor ones.",
+          "It could not be assumed or postulated that Sadhai alone caused all the injuries.",
+          "This lack of specific evidence created a doubt as to whether Sadhai's actions met the criteria for murder under s. 302."
+        ],
+        "conclusion": "The Court gave the accused the benefit of the doubt regarding the murder charge. It held that without proof that he personally caused the fatal injuries, he could not be convicted for murder (s. 302). Instead, the Court convicted him for the lesser offence of causing grievous hurt under s. 325 of the Indian Penal Code."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court erred by not considering the evidence of alibi.",
+      "appellant_arguments": [
+        "The appellant argued that the High Court should have considered the evidence of alibi presented in their defense."
+      ],
+      "respondent_arguments": [
+        "The evidence of alibi was not satisfactory and did not displace the evidence of the eyewitnesses, as correctly found by the Sessions Judge."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether an accused could be convicted for an offence under s. 302 simpliciter without establishing that he had caused the fatal injuries, after the acquittal of the co-accused and the failure to prove common intention.",
+      "appellant_arguments": [
+        "The original charge was for murder in furtherance of a common intention (s. 34) with a co-accused, Ramdeo.",
+        "Since the High Court acquitted Ramdeo, the element of common intention was not proved.",
+        "The High Court erred by converting the conviction to s. 302 simpliciter, which holds the appellant (Sadhai) solely responsible for the fatal injuries.",
+        "In a case with two attackers and four head injuries (two fatal, two simple), it is impossible to determine who struck the fatal blows.",
+        "The prosecution must provide evidence to show that the appellant caused at least one of the fatal injuries, not just the minor ones.",
+        "In the absence of such evidence, there is reasonable doubt, and the appellant cannot be convicted for murder under s. 302 simpliciter."
+      ],
+      "respondent_arguments": [
+        "The High Court was correct in convicting the appellant under s. 302 simpliciter, holding him responsible for the death. (Inferred argument defending the High Court's judgment)."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "34",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "109",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "325",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "When a common intention charge is not proven due to the acquittal of one of the accused, the prosecution must establish the exact nature of the injury caused by the remaining accused. In the absence of such evidence, the remaining accused must be given the benefit of the doubt with respect to the more serious offence.",
+    "obiter": [
+      "In an appeal by special leave where two lower courts have concurred in their conclusions, the Supreme Court does not ordinarily reassess the evidence."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "When a conviction for murder is based on the common intention of two accused, and one is subsequently acquitted, the element of common intention is not proved. In such a scenario, the court cannot simply assume that the remaining accused caused all the injuries, including the fatal ones. The prosecution must then meet the higher burden of establishing the exact nature of the injury caused by the remaining accused. In the absence of evidence proving that this specific accused caused the fatal injuries, he must be given the benefit of the doubt with respect to the murder charge under s. 302.",
+    "legal_tests_applied": [
+      "When common intention is not proved in a case involving multiple assailants, the prosecution must establish the exact nature of the injury caused by the specific accused being convicted for a substantive offence.",
+      "If there were multiple injuries, some fatal and some minor, and it cannot be determined which accused caused which injury, the court cannot postulate that the convicted accused was responsible for the fatal ones without specific evidence."
+    ],
+    "why_appellant_lost": [
+      "Regarding the alibi, the Court agreed with the Sessions Judge that the evidence presented was 'not satisfactory and did not displace the evidence of the eye-witnesses.' The testimony of the sole alibi witness was deemed unimpressive and insufficient."
+    ],
+    "why_respondent_won": [
+      "The respondent prevailed on the issue of alibi because the Court affirmed the lower court's finding that the eyewitness testimony was credible, while the alibi evidence was 'not satisfactory' and therefore insufficient to create doubt about the appellant's presence at the scene."
+    ],
+    "policy_considerations": [
+      "The court applied the fundamental criminal law principle of the benefit of the doubt. Where the prosecution fails to prove a crucial element—specifically, that the appellant's actions directly caused the death after the theory of joint liability failed—any resulting ambiguity must be resolved in favor of the accused, precluding a conviction for the most serious offence."
+    ]
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,122 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial court: Special Judge",
+    "impugned_order": "Judgment and order dated April 16, 1969 of the Rajasthan High Court in S. B. Criminal Appeal No. 558 of 1966.",
+    "high_court_proceedings": "The Rajasthan High Court confirmed the conviction and sentence of the appellant of 18 months' rigorous imprisonment on each of the counts, namely, under section 409, I.P.C. and section 5(2) read with sections 5(1)(c) of the Act.",
+    "supreme_court_posture": "Appeal by special leave against the judgment of the Rajasthan High Court."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Confirmed",
+    "sentence_status": "Confirmed",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether there can be an entrustment of money for the purposes of criminal breach of trust when the money was obtained by the accused through fraudulent means, such as by demanding excess charges.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An employee of the Indian Airlines Corporation (the accused) demanded and collected money from passengers for trunk call charges.",
+          "These charges were in excess of the actual costs, and the accused obtained this money through fraudulent means.",
+          "The accused argued that because the money was obtained by cheating, it was not lawfully 'entrusted' to him, which is a necessary element for the offence of criminal breach of trust under Section 409 of the Indian Penal Code (I.P.C.)."
+        ],
+        "law": [
+          "The Supreme Court interpreted the term 'entrusted' in Section 409 I.P.C. in a very wide sense.",
+          "The Court held that 'entrustment' includes all cases where property is voluntarily handed over for a specific purpose and is later dishonestly disposed of contrary to the terms of that purpose.",
+          "The phrase 'in any manner' in the related Section 405 I.P.C. is significant, indicating that the method of entrustment is not restrictive.",
+          "When an agent is authorized to collect money on behalf of a principal (their employer), the agent is considered 'entrusted' with that money as soon as it is paid to them.",
+          "At the moment of collection by the agent, the ownership of the money transfers to the principal, even though the person who paid it no longer has a proprietary interest in it.",
+          "The Court also affirmed the principle that an initial act of cheating to obtain the property does not prevent a subsequent misappropriation of that same property from constituting a criminal breach of trust."
+        ],
+        "application": [
+          "The Court applied these principles to the facts of the case. It found that the evidence showed the accused demanded and collected the excess trunk call charges *on behalf of* the Indian Airlines Corporation.",
+          "The passengers paid the money to the Corporation, not to the accused in his personal capacity. The accused issued receipts on behalf of the Corporation.",
+          "Therefore, the moment the accused received the money from the passengers, the Corporation became its owner, and the accused, as its agent, was 'entrusted' with that money.",
+          "His subsequent actions of falsifying records (the counterfoils) and dishonestly misappropriating the excess amount constituted a violation of that entrustment.",
+          "The Court concluded that the fraudulent means used to obtain the money did not negate the existence of an entrustment between the accused and his employer, the Corporation."
+        ],
+        "conclusion": "The Supreme Court rejected the accused's argument. It held that an entrustment of money for the purposes of criminal breach of trust can occur even when the money was initially obtained by the accused through fraudulent means. The Court reasoned that because the accused collected the money in his capacity as an agent for the Corporation, the money became the Corporation's property upon collection, and he was thereby entrusted with it. His subsequent dishonest misappropriation of that money constituted a criminal breach of trust."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether there can be an entrustment of money for the purposes of criminal breach of trust when the money was obtained by the accused through fraudulent means, such as by demanding excess charges.",
+      "appellant_arguments": [
+        "The prosecution's case is that the appellant collected 'excess charges' from passengers, which were not lawfully due.",
+        "Since the money was not lawfully due to the Corporation, there could be no valid entrustment of that money to the appellant on behalf of the Corporation.",
+        "This case is distinguishable from precedents where a specific, lawful amount was directed to be collected, which would constitute a valid entrustment."
+      ],
+      "respondent_arguments": [
+        "The appellant demanded and collected the amounts on behalf of the Corporation and issued receipts on its behalf.",
+        "The money was paid by the passengers to the Corporation through the appellant as its agent. The moment the money was handed over, the Corporation became its owner.",
+        "The term 'entrusted' in the law is used in a wide sense ('in any manner') and does not require the amount to be lawfully due to the principal for an entrustment to occur.",
+        "A person authorized to collect money on behalf of another is entrusted with that money as soon as it is paid to them, and if they misappropriate it, they are guilty of criminal breach of trust."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "409",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "405",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Prevention of Corruption Act",
+        "section": "5(1)(c)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Prevention of Corruption Act",
+        "section": "5(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "The State v. Dahyalal Dalpatram",
+        "citation": "A.I.R. 1960 Bom. 53",
+        "principle": "It was relied on for the principle that a public servant collecting money claimed to be due to the State, even if the liability was not legally enforceable, could still be regarded as being 'entrusted' with that money for the purposes of criminal breach of trust under Section 405, I.P.C. The Supreme Court agreed with this view, which disapproved of the contrary position taken by the Allahabad High Court.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A person authorized to collect money on behalf of another is entrusted with that money as soon as the amounts are paid to them. The person on whose behalf the money was collected becomes the owner at the moment the money is handed over to the authorized collector, and a fraudulent misappropriation by that collector constitutes a criminal breach of trust.",
+    "obiter": [
+      "It would be the Corporation that would be liable directly to the person who had paid this amount if no trunk calls were made, or any excess over the actual amount of the trunk call charges was charged by it."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The expression 'entrusted' in the law of criminal breach of trust is used in a wide sense, signified by the statutory words 'in any manner'. It does not require that the money collected be lawfully due to the principal. As long as an agent is authorized to collect money on behalf of a principal, they are entrusted with that money as soon as it is paid to them. The ownership of the money passes to the principal at the moment of collection, and if the agent misappropriates it, they are guilty of criminal breach of trust, even if the money was obtained through fraudulent means like demanding excess charges.",
+    "legal_tests_applied": [
+      "The test for entrustment is whether the accused was given possession of property for a specific purpose or to deal with it in a particular manner, with ownership being in some person other than the accused.",
+      "The statutory words 'in any manner' in Section 405 are significant and indicate that the term 'entrusted' is to be interpreted in a wide sense, including all cases where property is voluntarily handed over for a specific purpose."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the argument that there could be no valid entrustment because the money was not lawfully due to the Corporation, stating that the law 'does not provide that the entrustment of property should be by someone or the amount recieved must be the property of the person on whose behalf it is received.'",
+      "The court found that the money was paid by the passengers to the Corporation through the appellant as its agent, and the moment the money was handed over, the Corporation became its owner, thus establishing entrustment.",
+      "The court's broad interpretation of 'entrusted' and 'in any manner' defeated the appellant's attempt to distinguish the case from precedents on the basis that the collected amount was not a specific, lawful sum."
+    ],
+    "why_respondent_won": [
+      "The court accepted that the appellant demanded and collected the amounts on behalf of the Corporation, and as soon as the money was handed over by the passengers, the Corporation became the owner.",
+      "The court explicitly endorsed the respondent's view that the expression 'entrusted' is used in a wide sense and includes all cases where property is voluntarily handed over for a specific purpose, regardless of whether the amount was lawfully due.",
+      "The court affirmed the principle that 'A person authorised to collect moneys on behalf of another is entrusted with the money when the amounts are paid to him,' and if he misappropriates it, he is guilty of criminal breach of trust."
+    ],
+    "policy_considerations": [
+      "The court's reasoning prevents a loophole where an agent could escape liability for misappropriation by arguing that the funds they collected on behalf of their principal were obtained illicitly or were not lawfully due.",
+      "By citing consistent decisions from various High Courts for 'nearly a century,' the court reinforces the stability and long-standing interpretation of the law regarding entrustment to hold agents and employees accountable."
+    ]
+  },
+  "evidence_map": {}
+}

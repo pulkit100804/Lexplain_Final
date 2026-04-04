@@ -1,0 +1,80 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (in October, 1999)",
+    "impugned_order": "Judgment and Order dated 05.10.2012 of the High Court of Uttarakhand at Nainital in Criminal Appeal No.358 of 2004.",
+    "high_court_proceedings": "The appellants were convicted by the Trial Court. They then filed Criminal Appeal No. 358/2004 in the High Court of Uttarakhand at Nainital. The High Court upheld the conviction in its judgment and order dated 05.10.2012.",
+    "supreme_court_posture": "The appellants, Jabir & Ors., appealed to the Supreme Court challenging the High Court's judgment and order dated 05.10.2012 in Criminal Appeal No. 358 of 2004. The Supreme Court allowed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Set aside",
+    "sentence_status": "Set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court should interfere with the concurrent findings of the lower courts.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The state's counsel argued that the Supreme Court should not disturb the concurrent findings of the trial court and the appellate court, which had convicted the appellants."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court examined the basis for the concurrent conviction and found that it rested entirely on the \"last seen\" theory.",
+          "This theory was supported solely by the testimonies of two witnesses, PW-4 and PW-5."
+        ],
+        "conclusion": "The Supreme Court rejected the state's argument and interfered with the concurrent findings. By allowing the appeals, the Court overturned the conviction, indicating that it found the evidence based on the \"last seen\" theory from two witnesses to be insufficient to uphold the lower courts' decisions."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court should interfere with the concurrent findings of the lower courts.",
+      "appellant_arguments": [
+        "The prosecution witnesses are untrustworthy and appear to have been added as afterthoughts.",
+        "The appellants were named much after the incident due to pre-existing enmity with the deceased."
+      ],
+      "respondent_arguments": [
+        "The Supreme Court should not disturb the concurrent findings of the trial court and the High Court.",
+        "The trial court and High Court correctly inferred the facts of the case.",
+        "The testimonies of witnesses (PWs 2, 3, 4, and 5) who saw the deceased with the appellants conclusively established their guilt."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Bodhraj v. State of",
+        "citation": "(2002) 8 SCC 45",
+        "principle": "The circumstances should be of a conclusive nature and tendency.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In cases based on circumstantial evidence, the facts established must be consistent only with the hypothesis of the guilt of the accused and not explainable by any other hypothesis. The circumstances should be of a conclusive nature and tendency, and they must be established to a standard of 'must be or should be proved,' not merely 'may be proved'.",
+    "obiter": [
+      "There is a legal distinction between 'may be proved' and 'must be or should be proved'."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "In a case resting on circumstantial evidence, the conviction cannot be sustained because the prosecution failed to meet the high standard of proof required. The court found that the circumstances were not of a conclusive nature and tendency, and the facts were not established to the standard of 'must be or should be proved,' as opposed to merely 'may be proved.' This failure to establish a complete and conclusive chain of evidence that is only consistent with the hypothesis of guilt justifies interference with the concurrent findings of the lower courts.",
+    "legal_tests_applied": [
+      "In a case based on circumstantial evidence, the following conditions must be met: (1) the circumstances from which the conclusion of guilt is to be drawn should be fully established.",
+      "The facts so established should be consistent only with the hypothesis of the guilt of the Accused, that is to say, they should not be explainable on any other hypothesis except that the Accused is guilty.",
+      "The circumstances should be of a conclusive nature and tendency.",
+      "The standard of proof required is that the circumstances 'must or should' be established, which is a higher legal standard than 'may be' established, as held in Shivaji Sahabrao Bobade v. State of Maharashtra."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "To sustain a conviction in a criminal case, especially one based on circumstantial evidence, the standard of proof must be rigorous to prevent wrongful convictions. There is a significant legal distinction between a potential possibility ('may be proved') and a required certainty ('must be or should be proved'), and courts must adhere to the higher standard before depriving an individual of their liberty."
+    ]
+  },
+  "evidence_map": {}
+}

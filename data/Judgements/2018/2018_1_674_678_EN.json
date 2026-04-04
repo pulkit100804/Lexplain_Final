@@ -1,0 +1,110 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment and Order dated 29.09.2015 by the High Court of Gujarat at Ahmedabad in Criminal Appeal No. 978 of 2011.",
+    "high_court_proceedings": "The High Court of Gujarat at Ahmedabad upheld the appellant's conviction and sentence under Section 302 of the Indian Penal Code (IPC).",
+    "supreme_court_posture": "The appellant approached the Supreme Court by filing a Special Leave Petition challenging the High Court's judgment. The Supreme Court granted leave (permission to appeal) and limited the scope of the appeal to whether the conviction under Section 302 IPC was justified or should be converted to one under Section 304 IPC. The Supreme Court partly allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "This is appeal is, thus, partly allowed.",
+    "conviction_status": "While maintaining the culpability of the appellant, his conviction is altered to Section 304 Part-II IPC instead of Section 302 IPC.",
+    "sentence_status": "The sentence of the appellant be reduced to the period already undergone.",
+    "directions": [
+      "The appellant shall be released forthwith, if not wanted in any other case."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellant should be altered from Section 302 IPC to Section 304 IPC.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant (husband) was convicted of murdering his wife under Section 302 of the Indian Penal Code (IPC) by the Trial Court, and this was upheld by the High Court.",
+          "The incident occurred following a 'sudden altercation' between the appellant and his wife (the deceased) because of a delay in her preparing lunch.",
+          "During the altercation, the appellant picked up a wooden object and struck the deceased with a single blow.",
+          "The Supreme Court's review was limited to the specific issue of whether the conviction should be under Section 302 IPC (murder) or altered to Section 304 IPC (culpable homicide not amounting to murder)."
+        ],
+        "law": [
+          "The Court outlined several parameters to be considered when deciding whether a case falls under Section 302 or Section 304 IPC.",
+          "These factors include: the circumstances of the incident, the nature of the weapon used, whether the assault was on a vital part of the body, the amount of force used, the existence of sudden provocation or a sudden fight, any previous enmity, and whether the person acted in the heat of passion or took undue advantage."
+        ],
+        "application": [
+          "The Court applied these legal parameters to the facts of the case and found several mitigating factors.",
+          "It determined that the incident took place in the 'spur of the moment' due to a 'sudden provocation' (the delay in lunch preparation) and that the appellant acted in a 'heat of passion'.",
+          "The Court noted that the prosecution's own case did not suggest any prior enmity or a non-cordial relationship between the couple.",
+          "Furthermore, the medical evidence showed that 'not much force was used' in inflicting the single blow, and the appellant did not take any 'undue advantage'."
+        ],
+        "conclusion": "Based on this analysis, the Supreme Court concluded that the appellant's act did not constitute murder under Section 302 IPC, but rather culpable homicide not amounting to murder. Therefore, the Court altered the conviction to Section 304 Part-II IPC and reduced the appellant's sentence to the period he had already served."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellant should be altered from Section 302 IPC to Section 304 IPC.",
+      "appellant_arguments": [
+        "The incident took place in the spur of the moment due to a sudden altercation over a delay in preparing lunch.",
+        "The act was a result of sudden provocation and occurred in a heat of passion, without the appellant taking any undue advantage.",
+        "Medical evidence shows that not much force was used in inflicting the blow on the deceased.",
+        "The prosecution had not established any prior non-cordial relationship between the husband and wife, which negates premeditation."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not mentioned in the provided text."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "304",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code, 1860",
+        "section": "304 Part-II",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Dhirendra Kumar v. State of Uttarakhand",
+        "citation": "(2015) 3 SCALE 30",
+        "principle": "It laid down the parameters to be taken into consideration while deciding the question as to whether a case falls under Section 302 IPC or 304 IPC.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The parameters laid down in Dhirendra Kumar v. State of Uttarakhand are to be taken into consideration when deciding whether a case falls under Section 302 IPC or Section 304 IPC.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the conviction should be altered from murder under Section 302 IPC to culpable homicide not amounting to murder under Section 304 IPC. This conclusion was based on the prosecution's own version of events, which established that the incident stemmed from a sudden altercation about a delay in cooking lunch. The appellant, acting in a \"rush of moment,\" picked up a nearby wooden object and inflicted only a single blow. These circumstances, including the lack of a pre-carried weapon and the singular nature of the attack, negated the element of premeditation required for a murder conviction.",
+    "legal_tests_applied": [
+      "The parameters laid down in the case of Dhirendra Kumar versus State of Uttarakhand [ 2015 )3) SCALE 30] which are to be taken into consideration while deciding the question as to whether a case falls under Section 302 IPC or 304 IPC."
+    ],
+    "why_appellant_lost": [
+      "The appellant's overall culpability for the death was maintained because the fundamental facts of the event and his involvement were proven. The court explicitly stated, \"As far as event/occurrence is concerned, that stands proved and to that extent judgments of the courts below are without any infirmity.\""
+    ],
+    "why_respondent_won": [
+      "The respondent secured a conviction, albeit for a lesser offense, because the appellant's act of inflicting the injury that led to the victim's death was established, thus ensuring he was held criminally responsible."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p5_2a9a9e37"
+    ],
+    "arguments[0].appellant_arguments[2]": [
+      "p2_522fba59"
+    ]
+  }
+}

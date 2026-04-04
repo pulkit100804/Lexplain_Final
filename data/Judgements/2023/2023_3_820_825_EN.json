@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Judicial Magistrate First Class (JMFC), Ramtek",
+    "impugned_order": "Order passed by the Revisional Court",
+    "high_court_proceedings": "The appellant challenged the Revisional Court's order in the High Court under Section 482 of the Cr.P.C., but the High Court rejected the application.",
+    "supreme_court_posture": "The appellant approached the Supreme Court after the High Court rejected their application challenging the Revisional Court's order."
+  },
+  "decision": {
+    "appeal_result": "Disposed of",
+    "conviction_status": "Set aside",
+    "sentence_status": "",
+    "directions": [
+      "The impugned judgment and order passed by the Revisional Court as well as the High Court are quashed and set aside."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the bar under Section 195(1)(b)(ii) of the Cr.P.C. is applicable when an offence concerning a document is alleged to have been committed before the document was produced in court.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The issue concerns a situation where a document, such as a will, is alleged to have been forged or fabricated.",
+          "This allegedly forged document was subsequently produced or filed as evidence in a court proceeding.",
+          "The key factual element is that the act of forgery is alleged to have occurred *before* the document was submitted to the court."
+        ],
+        "law": [
+          "The relevant law is Section 195(1)(b)(ii) of the Code of Criminal Procedure, 1973 (Cr.P.C.).",
+          "This section creates a bar, preventing a court from taking cognizance of certain offenses (like forgery under Section 463 IPC) related to a document produced in court, unless the court where it was produced files a complaint.",
+          "The Supreme Court identified two possible interpretations of this provision: one where the bar applies regardless of when the forgery occurred, and another where the bar applies only if the forgery occurred *after* the document was produced in court."
+        ],
+        "application": [
+          "The Court resolved the ambiguity by adopting the second, narrower interpretation.",
+          "It held that the bar under Section 195(1)(b)(ii) is attracted only when the offense is committed with respect to a document *after* it has been produced or given in evidence in a court proceeding.",
+          "The Court reasoned that the provision is meant to apply when the offense is committed while the document is \"custodia legis\" (in the custody of the law).",
+          "The purpose of the bar is to protect the purity of the administration of justice from offenses committed against documents that are already under the court's purview.",
+          "The Court affirmed that the decision in *Sachida Nand Singh*, which established this principle, was the correct view and was settled by a Constitution Bench."
+        ],
+        "conclusion": "The Supreme Court decided that the bar under Section 195(1)(b)(ii) of the Cr.P.C. does not apply when an offense concerning a document is committed before that document is produced in court. Therefore, a court can take cognizance of such an offense based on a private complaint without requiring a complaint from the court where the document was later filed."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the bar under Section 195(1)(b)(ii) of the Cr.P.C. is applicable when an offence concerning a document is alleged to have been committed before the document was produced in court.",
+      "appellant_arguments": [
+        "The bar under Section 195(1)(b)(ii) of the Cr.P.C. does not apply, and a private complaint is maintainable, because the alleged offences (such as forgery) were committed before the documents were produced in court."
+      ],
+      "respondent_arguments": [
+        "The bar under Section 195(1)(b)(ii) of the Cr.P.C. is applicable because the documents were eventually filed in a court proceeding. Therefore, a complaint could only be filed in writing by the court concerned, as per the procedure under Section 340 of the Cr.P.C."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "195(1)(b)(ii)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Iqbal Singh Marwa and Another v. Meenakshi Marwah and Another",
+        "citation": "(2005) 4 SCC 370 : [2005] 2 SCR 708",
+        "principle": "The bar under Section 195(1)(b)(ii) Cr.P.C. is attracted only when the offences enumerated in that provision have been committed with respect to a document after it has been produced or given in evidence in a court proceeding, i.e., during the time when the document was in custodia legis.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sachida Nand Singh and Another v. State of Bihar and Another",
+        "citation": "(1998) 2 SCC 493 : [1998] 1 SCR 492",
+        "principle": "The bar contained in Section 195(1)(b)(ii) of the Code is not applicable to a case where the forgery of the document was committed before the document was produced in a court.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A court is entitled to take cognizance of an offence only on the basis of a complaint made by the complainant.",
+    "obiter": [
+      "We may not be understood to have expressed any opinion on merits and nothing observed herein should be construed to have bearing on the merits of the matter."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The bar to taking cognizance of an offence under Section 195(1)(b)(ii) of the Cr.P.C. does not apply when the alleged offence concerning a document, such as forgery, was committed before the document was produced or given in evidence in a court proceeding. In such a scenario, a private complaint is maintainable, and there is no embargo on the power of the court to take cognizance of the offence based on that complaint.",
+    "legal_tests_applied": [
+      "The court addressed two possible interpretations of Section 195(1)(b)(ii) Cr.P.C.: 1) The bar applies if a document, in respect of which an offence was committed, is subsequently produced in court, regardless of when the offence occurred. 2) The bar applies only if the offence is committed after the document has already been produced or given in evidence in court. The court adopted the second interpretation, holding that if the offence is committed prior to the document's production in court, a complaint by that court is not necessary."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

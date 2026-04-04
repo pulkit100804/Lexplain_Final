@@ -1,0 +1,132 @@
+{
+  "procedural_history": {
+    "originating_court": "District Magistrate",
+    "impugned_order": "Order of a learned single Judge of the Allahabad High Court directing that a complaint be filed against the appellant for his prosecution for making a false statement in para 10 of his affidavit dated July 6, 1960.",
+    "high_court_proceedings": "A learned single Judge of the Allahabad High Court directed that a complaint be filed against the appellant. This order was affirmed by a Division Bench of the Allahabad High Court on March 13, 1968 in Criminal No. 175 of 1964.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave against the judgment and order of the Allahabad High Court."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Set aside the order directing complaint to be filed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether filing a sworn affidavit amounts to appearing as a witness, thereby making Section 479-A of the Cr. P. C. applicable and barring proceedings under Section 476 of the Cr. P. C.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant filed a sworn affidavit in the High Court which was alleged to contain a false statement.",
+          "Proceedings were initiated against the appellant under Section 476 of the Criminal Procedure Code (Cr. P. C.) for making a false statement in the affidavit.",
+          "The appellant argued that these proceedings were barred by Section 479-A of the Cr. P. C., contending that by filing the affidavit, he had effectively appeared as a witness."
+        ],
+        "law": [
+          "Section 479-A of the Cr. P. C. overrides Sections 476 to 479.",
+          "Sub-section (6) of Section 479-A states that no proceedings can be taken under Section 476 if proceedings could be taken under Section 479-A.",
+          "The crucial condition for Section 479-A to apply is that the person must have been \"appearing before [the court] as a witness.\""
+        ],
+        "application": [
+          "The Supreme Court analyzed the specific language of Section 479-A.",
+          "It found that the appellant had \"undoubtedly filed a sworn affidavit but it is not possible to hold that by doing so he could be said to have appeared as a witness.\"",
+          "The Court made a clear distinction between filing an affidavit and physically appearing before the court as a witness to give evidence."
+        ],
+        "conclusion": "The Supreme Court concluded that since the appellant did not appear as a witness before the High Court, Section 479-A was inapplicable to his case. Therefore, Section 479-A did not operate as a bar to the proceedings initiated against him under Section 476 of the Cr. P. C."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether it is expedient in the interests of justice to file a complaint for alleged perjury, considering factors such as the plausibility of the explanation, prior decisions on similar charges, a long delay of over ten years, and the suffering of the appellant.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, a Panch, filed an affidavit stating he had not acted as Sarpanch during a specific period.",
+          "A prior proceeding on substantially the same charge was brought before the District Magistrate, who, in an order confirmed by the Sessions Judge, found it inexpedient to initiate prosecution.",
+          "More than ten years had passed since the affidavit was filed.",
+          "The appellant had endured mental and financial suffering due to the prolonged legal proceedings."
+        ],
+        "law": [
+          "Prosecution for perjury should only be sanctioned when it is considered 'expedient in the interests of justice'.",
+          "This requires the perjury to be deliberate and conscious, the falsehood to be on a matter of substance, and for a conviction to be reasonably probable.",
+          "Courts should not initiate perjury prosecutions too readily or frequently, especially on inconclusive material or for minor inaccuracies.",
+          "Factors such as a long delay and the suffering of the accused are relevant when considering the expediency of prosecution."
+        ],
+        "application": [
+          "The Court found that the High Court's decision was 'mechanical and superficial' and did not give due weight to several critical factors.",
+          "First, the appellant's explanation that he was a Panch authorized to act was considered 'not implausible'.",
+          "Second, the High Court failed to properly consider the prior decision by the District Magistrate and Sessions Judge, who had already deemed it inexpedient to prosecute on a very similar charge.",
+          "Third, the Court held that the 'long lapse of time of more than 10 years' since the affidavit was filed militated against the expediency of prosecution.",
+          "Finally, the Court took into account the mental and financial suffering the appellant had already endured due to the lengthy proceedings."
+        ],
+        "conclusion": "The Supreme Court concluded that the material on record was not sufficiently adequate to justify the conclusion that it was expedient in the interests of justice to file a complaint. Based on the plausibility of the appellant's explanation, the prior court decisions, the long delay, and the suffering endured, the Court allowed the appeal and set aside the High Court's order directing a complaint to be filed."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether filing a sworn affidavit amounts to appearing as a witness, thereby making Section 479-A of the Cr. P. C. applicable and barring proceedings under Section 476 of the Cr. P. C.",
+      "appellant_arguments": [
+        "Filing a sworn affidavit is equivalent to appearing as a witness, which makes Section 479-A of the Cr. P. C. applicable and acts as a bar to proceedings under Section 476 of the Cr. P. C."
+      ],
+      "respondent_arguments": [
+        "Filing a sworn affidavit does not mean the person has appeared as a witness. Therefore, Section 479-A is inapplicable and does not bar proceedings under Section 476 of the Cr. P. C."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether it is expedient in the interests of justice to file a complaint for alleged perjury, considering factors such as the plausibility of the explanation, prior decisions on similar charges, a long delay of over ten years, and the suffering of the appellant.",
+      "appellant_arguments": [
+        "The provided text does not contain the specific arguments made by the appellant on this issue."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the specific arguments made by the respondent on this issue."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "479-A",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Criminal Procedure Code",
+        "section": "476",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Under section 479A(6), proceedings for the prosecution of a person for giving or fabricating false evidence under sections 476 to 479 are barred only if proceedings could be taken against that person under section 479-A. Section 479-A proceedings can only be initiated against a witness who has appeared before the court.",
+    "obiter": [
+      "There is nothing to show that the explanation given by the appellant that he did not act as Sarpanch at the relevant time, but only did his work as a panch, was false."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Although the procedural bar under Section 479-A of the Cr. P. C. did not apply, the court found it was not expedient in the interests of justice to file a complaint for perjury. The court's conclusion was based on the cumulative effect of several factors: the appellant's explanation for his conduct was not implausible, a lower court had already deemed it inexpedient to prosecute on substantially the same charge, a long delay of over ten years had passed since the affidavit was filed, and the appellant had already suffered mentally and financially from the protracted proceedings.",
+    "legal_tests_applied": [
+      "To determine the applicability of Section 479-A Cr. P. C., the court must assess if the person has 'appeared before it as a witness.'",
+      "To sanction a prosecution for perjury, the court must find it is 'expedient in the interests of justice,' which requires that the perjury appears to be 'deliberate and conscious,' a conviction is 'reasonably probable,' there is a 'prima facie case of deliberate falsehood on a matter of substance,' and the court is satisfied there is a 'reasonable foundation for the charge.'"
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that Section 479-A Cr. P. C. barred the proceedings was rejected because the court held that filing a sworn affidavit does not constitute appearing before the court as a witness. The court stated, 'the appellant quite clearly did not appear as a witness before the High Court. He undoubtedly filed sworn affidavit but· it is not possible to hold that by doing so he could be said to have appeared as a witness. Section 479-A, Cr. P. C. is, therefore, inapplicable and it cannot operate as a bar to thf\\ proceedings under s. 476, Cr .P.C.'"
+    ],
+    "why_respondent_won": [
+      "The respondent prevailed on the procedural issue because the court agreed that Section 479-A Cr. P. C. was inapplicable. The court's reasoning was that the section's crucial requirement is that it applies only to a 'witness who has appeared before the court,' and the appellant, by merely filing an affidavit, did not meet this criterion, thus the bar under Section 479-A could not prevent proceedings under Section 476."
+    ],
+    "policy_considerations": [
+      "The court articulated a policy of judicial restraint in initiating perjury prosecutions, stating that 'to start prosecution for perjury too readily and too frequently and without due care and caution defeats its very purpose.'",
+      "The court considered the long lapse of time (over ten years) and the consequential suffering of the appellant as relevant factors that militate against the expediency of prosecution, noting 'the appellant must have suffered both mentally and financially.'",
+      "Prosecution for perjury should be reserved for cases of 'deliberate and conscious' falsehood on a matter of substance, not for 'some inaccuracy in the statement which may be innocent or immaterial.'"
+    ]
+  },
+  "evidence_map": {}
+}

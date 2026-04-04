@@ -1,0 +1,106 @@
+{
+  "procedural_history": {
+    "originating_court": "Judicial Magistrate",
+    "impugned_order": "Order of the Judicial Magistrate directing the police to stop investigation and deciding to hold the enquiry himself.",
+    "high_court_proceedings": "An application was moved in the Allahabad High Court under section 561A, Cr. P.C., to quash the order passed by the Magistrate on 13th April, 1968, on the ground that he had no jurisdiction to pass such an order under s. 159, Cr. P.C. The High Court accepted the application and set aside the Magistrate's order.",
+    "supreme_court_posture": "The Additional District Magistrate (Judicial) appealed the High Court's decision by special leave. The Supreme Court upheld the decision of the High Court and dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a Magistrate is empowered under Section 159 of the Criminal Procedure Code to stop an investigation by the police.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "point": "The Criminal Procedure Code grants the police unfettered and uncontrolled power to investigate any suspected cognizable offense, independent of the Magistrate's control."
+          },
+          {
+            "point": "Section 159 of the Cr.P.C. is a limited power intended to ensure that the police investigate cognizable offenses and do not improperly refuse to do so."
+          },
+          {
+            "point": "A Magistrate's power to intervene under Section 159 is triggered only in cases where the police decide *not* to investigate a case. In such a situation, the Magistrate can either direct an investigation or conduct an inquiry himself."
+          },
+          {
+            "point": "Other related sections, such as Section 156(3), only empower a Magistrate to *order* an investigation, not to stop one."
+          }
+        ],
+        "application": [
+          {
+            "point": "The Court analyzed the overall scheme of Sections 156, 157, and 159 of the Code and concluded that the power of police investigation is meant to be independent of the judiciary's interference."
+          },
+          {
+            "point": "The Court rejected the argument that a power to stop investigations must be read into Section 159 to prevent police harassment. It found that the specific language of the section does not permit such a wide interpretation."
+          },
+          {
+            "point": "The Court noted that an alternative remedy exists for individuals facing a malicious investigation: they can invoke the power of the High Court under Article 226 of the Constitution to issue a writ of mandamus restraining the police from misusing their legal powers."
+          }
+        ],
+        "conclusion": "The Supreme Court held that Section 159 of the Criminal Procedure Code does not empower a Magistrate to stop an investigation being conducted by the police. The Magistrate's power under this section is limited to situations where the police have decided not to investigate."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a Magistrate is empowered under Section 159 of the Criminal Procedure Code to stop an investigation by the police.",
+      "appellant_arguments": [
+        "An interpretation of the law that gives police unfettered power to investigate is prejudicial, particularly to judicial officers who may have given decisions the police dislike.",
+        "To prevent harassment, such as the police engineering a false report and conducting a prolonged investigation against a judicial officer, a Magistrate must have the power under Section 159 to stop the investigation and conduct a preliminary inquiry themselves."
+      ],
+      "respondent_arguments": [
+        "A Magistrate has no jurisdiction under Section 159 of the Criminal Procedure Code to stop an ongoing police investigation.",
+        "Under Section 159, a Magistrate can only intervene to direct an investigation or conduct an inquiry themselves when the police have decided *not* to investigate the case."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "159",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "157",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Under Section 159 of the Criminal Procedure Code, a Magistrate's power to direct an investigation or, alternatively, to conduct a preliminary inquiry, can only be exercised in cases where the police have decided not to investigate a cognizable offense. The power to conduct a preliminary inquiry is not an independent power and cannot be used to interfere when a police investigation is already in progress.",
+    "obiter": [
+      "The functions of the judiciary and the police are complementary, not overlapping, and the judiciary should not interfere with the statutory right of the police to investigate cognizable crimes.",
+      "In appropriate cases of police harassment during an investigation, an aggrieved person can seek a remedy by invoking the power of the High Court."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Section 159 of the Criminal Procedure Code is primarily meant to give a Magistrate the power of directing an investigation in cases where the police decide not to investigate a case under the proviso to Section 157(1). It is only in those specific cases that the Magistrate, if they think fit, can choose the alternative of conducting a preliminary inquiry themselves. The section does not empower a Magistrate to stop a police investigation that is already in progress.",
+    "legal_tests_applied": [
+      "Statutory Interpretation: The court analyzed the structure and language of Section 159, focusing on the phrase 'if he thinks fit' to determine the relationship between the two powers granted to the Magistrate (directing an investigation vs. holding an inquiry). The court concluded the phrase makes the second power an alternative to the first, and thus applicable only under the same circumstances."
+    ],
+    "why_appellant_lost": [
+      "The appellant's interpretation of Section 159 is textually incorrect. The power for a Magistrate to hold a preliminary inquiry is presented as an alternative to directing an investigation. The power to direct an investigation cannot arise when the police are already investigating, therefore the alternative power to hold an inquiry is also unavailable in that situation.",
+      "While the appellant's concern about potential police harassment of judicial officers is acknowledged, the remedy for such a situation is not found in Section 159. The court stated that in appropriate cases, an aggrieved person can seek a remedy by invoking the power of the High Court."
+    ],
+    "why_respondent_won": [
+      "The Magistrate's power under Section 159 is triggered only upon receiving a police report under Section 157 indicating that the police have decided *not* to investigate. The court found that the first option in Section 159, 'directing an investigation', logically cannot apply when an investigation is already ongoing.",
+      "The court held that the phrase 'if he thinks fit' in Section 159 links the Magistrate's two options. This phrasing makes it plain that the power to hold an inquiry (the second clause) is only an alternative to the power to direct an investigation (the first clause) and can, therefore, be exercised only in those cases in which the first clause is applicable, i.e., when the police have decided not to investigate."
+    ],
+    "policy_considerations": [
+      "The court affirmed the principle that the functions of the judiciary and the police are complementary, not overlapping. Interfering with the statutory right of the police to investigate would be an 'unfortunate result'. The proper balance between individual liberty and law and order is achieved by leaving each branch to exercise its own function.",
+      "The court acknowledged the appellant's concern that police might engineer a false report and harass a judicial officer with a prolonged investigation. However, it concluded that the Code gives police 'unfettered power to investigate', and the appropriate check on this power is not a Magistrate stopping the investigation under Section 159, but rather an aggrieved person invoking the jurisdiction of the High Court."
+    ]
+  },
+  "evidence_map": {}
+}

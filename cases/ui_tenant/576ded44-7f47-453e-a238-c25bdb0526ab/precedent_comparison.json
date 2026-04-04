@@ -1,0 +1,132 @@
+{
+  "case_id": "576ded44-7f47-453e-a238-c25bdb0526ab",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_7_precedent_comparator",
+  "input_refs": [
+    "ingredient_report.json",
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-03-22T18:56:20.907735+00:00",
+  "query_used": "use of force causing death evidence present physical force used death occurred evidence found death following force weapon present mens_rea missing intention death bodily injury actus_reus missing force circumstance missing",
+  "cases_retrieved": 7,
+  "cases_after_filter": 5,
+  "similarity_score": 0.07,
+  "matched_patterns": [
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "knowledge that it is likely to cause death but without such intention"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "knowledge that it is likely to cause death but without such intention"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "knowledge that it is likely to cause death but without such intention"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "knowledge that it is likely to cause death but without such intention"
+    },
+    {
+      "pattern": "Legal test on mens_rea applied by court",
+      "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+      "why_matched": "knowledge that it is likely to cause death but without such intention"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "it could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "it could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "it could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death"
+    },
+    {
+      "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+      "precedent_reference": "Surain Singh v. State of Punjab",
+      "why_matched": "it could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death"
+    }
+  ],
+  "differences": [
+    {
+      "difference": "Precedent rule: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely ",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent rule: An act done with the 'intention' of causing death or bodily injury likely to cause death falls under Part I of Section 304 IPC, and an act done with the 'knowledge' that it is likely to cause death bu",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent rule: 101, I.P.C., and is subject to the limitations that in the exercise of the right death may not be caused, and that the force used should not exceed the minimum required to save the person in whose def",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent rule: Culpable homicide is murder if the person committing the act knows that it is so imminently dangerous that it must in all probability, cause death or such bodily injury as is likely to cause death, an",
+      "why_it_matters": "This rule may apply differently to current facts."
+    }
+  ],
+  "precedent_references": [
+    {
+      "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+      "citation": "Unknown",
+      "source": "2024_3_377_384_EN.json"
+    },
+    {
+      "case_name": "Surain Singh v. State of Punjab",
+      "citation": "Unknown",
+      "source": "2018_5_671_676_EN.json"
+    },
+    {
+      "case_name": "Judgment and order dated March 29, 1966",
+      "citation": "Unknown",
+      "source": "1971_1_943_948_EN.json"
+    },
+    {
+      "case_name": "Judgment and order dated October 20, 1964,",
+      "citation": "Unknown",
+      "source": "1968_2_522_527_EN.json"
+    },
+    {
+      "case_name": "Order of conviction passed by the trial Court for the offences under ss. 34, 302 and 506(11)",
+      "citation": "Unknown",
+      "source": "2017_7_238_250_EN.json"
+    }
+  ]
+}

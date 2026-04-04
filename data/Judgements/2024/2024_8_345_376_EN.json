@@ -1,0 +1,139 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgments dated 13th October, 2014 and 18th February, 2019 passed by the trial Court and the High Court, respectively.",
+    "high_court_proceedings": "The High Court passed a judgment on 18th February, 2019, which was challenged in the Supreme Court.",
+    "supreme_court_posture": "The Appellants, represented by Divyesh Pratap Singh, Ms. Shivangi Singh, Amit Sangwan, Rishi Malhotra, Utkarsh Singh, Praveen Chaturvedi, Advs., appealed to the Supreme Court challenging the judgments of the Trial Court and the High Court. The Supreme Court allowed the appeals and quashed the judgments of both the Trial Court and the High Court."
+  },
+  "decision": {
+    "appeal_result": "Appeals allowed",
+    "conviction_status": "The impugned judgments dated 13th October, 2014 and 18th February, 2019 passed by the trial Court and the High Court, respectively are hereby quashed and set aside.",
+    "sentence_status": "Set aside",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court, in its jurisdiction under Article 136 of the Constitution, can interfere with concurrent findings of fact when the evidence has not been properly appreciated, material aspects have been ignored, and the findings are perverse.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The case involved an appeal before the Supreme Court against concurrent findings of guilt recorded by both a trial court and a High Court.",
+          "The appellants challenged these findings, alleging there were inconsistencies and contradictions in the evidence presented by the prosecution."
+        ],
+        "law": [
+          "The Supreme Court's power to hear appeals is governed by Article 136 of the Constitution of India.",
+          "The general rule under this article is that the Supreme Court will not interfere with concurrent findings of fact recorded by lower courts.",
+          "However, there is a significant exception: the Court can and will interfere if it finds that the evidence was not properly appreciated, material aspects were ignored, or the findings are perverse."
+        ],
+        "application": [
+          "The Court acknowledged the general principle of non-interference with concurrent findings.",
+          "Despite this, the Court decided to conduct its own 'thoughtful consideration' and 'minutely scanned the record' to re-evaluate the evidence.",
+          "The Court found that the exception to the general rule was applicable in this case. It noted that the 'bona fides of the investigation' had been successfully challenged, making it unsafe to rely on the testimony of certain witnesses without strong corroborating evidence, which was lacking.",
+          "This re-evaluation led the Court to believe that the lower courts had not properly appreciated the evidence, rendering their findings perverse and justifying the Supreme Court's intervention."
+        ],
+        "conclusion": "The Supreme Court concluded that it has the jurisdiction under Article 136 to interfere with concurrent findings of fact from lower courts when those findings are perverse because the evidence has been improperly appreciated or material aspects have been ignored."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether disclosure statements that do not lead to the discovery of any new fact and the identification of a crime scene already known to the police are admissible in evidence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused made disclosure statements to the police.",
+          "These statements led to the identification of the place of the incident (the crime scene).",
+          "The police were already aware of the location of the crime scene before the accused made these statements.",
+          "No new fact was discovered as a result of the disclosure statements."
+        ],
+        "law": [
+          "The court considered the admissibility of such statements under Section 27 of the Indian Evidence Act, 1872.",
+          "Under Section 27, a statement from an accused in custody is admissible only if it leads to the discovery of a new fact that was previously unknown to the police."
+        ],
+        "application": [
+          "The court reasoned that since the police already knew the location of the crime scene, the accused's statements merely identifying that same location did not lead to the discovery of any \"new fact.\"",
+          "The act of pointing out a place already known to the investigators does not qualify as a discovery for the purposes of Section 27.",
+          "Because no new fact was discovered, the court found the disclosure to be irrelevant."
+        ],
+        "conclusion": "The Supreme Court held that the disclosure statements regarding the identification of the crime scene were inadmissible in evidence because the police already knew the location and no new fact was discovered as a result of the statements."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court, in its jurisdiction under Article 136 of the Constitution, can interfere with concurrent findings of fact when the evidence has not been properly appreciated, material aspects have been ignored, and the findings are perverse.",
+      "appellant_arguments": [
+        "The appellants implicitly argued for the Supreme Court's interference by challenging the lower courts' findings, suggesting that the evidence was not properly appreciated and material aspects were ignored, leading to perverse findings."
+      ],
+      "respondent_arguments": [
+        "The prosecution led clinching evidence to establish the guilt of the accused, and therefore, the trial court and the High Court were justified in their concurrent findings of conviction and did not commit any error."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether disclosure statements that do not lead to the discovery of any new fact and the identification of a crime scene already known to the police are admissible in evidence.",
+      "appellant_arguments": [
+        "The recoveries/discoveries made at the instance of the accused-appellants are fabricated and were not proved by convincing/tangible evidence."
+      ],
+      "respondent_arguments": [
+        "The prosecution's clinching evidence, which included these discoveries, was sufficient to establish the guilt of the accused, implying that the evidence was considered admissible and reliable."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 136",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "State of A.P. v. Punati Ramulu and Others",
+        "citation": "(1994) Supp 1 SCC 590",
+        "principle": "The Supreme Court can interfere with concurrent findings of lower courts under Article 136 of the Constitution when the evidence has not been properly appreciated, material aspects have been ignored, and the findings are perverse.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Babu Sahebagouda Rudragoudar and Others v. State of Karnataka",
+        "citation": "[2024] 5 SCR 174 : (2024) OnLine SC 561",
+        "principle": "The Supreme Court can interfere with concurrent findings of lower courts under Article 136 of the Constitution when the evidence has not been properly appreciated, material aspects have been ignored, and the findings are perverse.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Mustkeem alias Sirajudeen v. State of Rajasthan",
+        "citation": "[2011] 9 SCR 101 : (2011) 11 SCC 724",
+        "principle": "The Supreme Court can interfere with concurrent findings of lower courts under Article 136 of the Constitution when the evidence has not been properly appreciated, material aspects have been ignored, and the findings are perverse.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "While exercising jurisdiction under Article 136 of the Constitution, the Supreme Court will not interfere with concurrent findings recorded by lower courts, unless the evidence has not been properly appreciated, material aspects have been ignored, or the findings are perverse.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court concluded that while it ordinarily does not interfere with concurrent findings of fact from lower courts, it is obligated to do so in exceptional cases. In this instance, the Court found that the lower courts' findings were perverse, as the evidence had not been properly appreciated and material aspects had been ignored, thus justifying interference under Article 136 of the Constitution to set aside the conviction.",
+    "legal_tests_applied": [
+      "While exercising jurisdiction under Article 136 this Court will not interfere with the concurrent findings recorded by the courts below – However, where the evidence has not been properly appreciated, material aspects have been ignored and the findings are perverse, this Court would certainly interfere with the findings of the courts below though concurrent."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The Court's reasoning balances the policy of judicial finality and deference to the factual findings of trial and appellate courts with the overriding constitutional duty to prevent a miscarriage of justice. The intervention in cases of perverse findings, despite the concurrent nature of those findings, serves as a crucial safeguard to ensure that convictions are based on a proper and thorough appreciation of all material evidence."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p4_4a119b09",
+      "p23_67eb7bb2"
+    ],
+    "judicial_reasoning.legal_tests_applied[0]": [
+      "p4_e323c82a"
+    ]
+  }
+}

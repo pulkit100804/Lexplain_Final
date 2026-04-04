@@ -1,0 +1,113 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Order of the High Court rejecting the application for anticipatory bail rather not considering application on merits.",
+    "high_court_proceedings": "The High Court rejected the application for anticipatory bail filed by the petitioners. The Supreme Court noted that the High Court did not consider the application on its merits.",
+    "supreme_court_posture": "The Appellants approached the Supreme Court challenging the High Court's order. The Supreme Court dismissed the appeal, stating there was no ground for interfering with the High Court's order. The Supreme Court noted the appellants' actions were \"nothing short of defying the lawful orders of the Court and attempting to delay the proceedings.\""
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether there could be any bar on the Trial Court for proceeding u/s. 82 Cr.P.C., merely because an anticipatory application for bail has been filed or because such an application was adjourned without passing any interim order.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants filed an application for anticipatory bail in November 2022.",
+          "While this application was pending and without any interim protection order being granted, the appellants failed to appear before the Trial Court.",
+          "Consequently, the Trial Court issued non-bailable warrants and later initiated proclamation proceedings under Section 82 of the Criminal Procedure Code (Cr.P.C.) against them.",
+          "The appellants argued that the Trial Court should have been barred from initiating these proceedings because their anticipatory bail application was pending before a higher court."
+        ],
+        "law": [
+          "The Court analyzed Section 438(1) of the Cr.P.C., which governs anticipatory bail.",
+          "It specifically focused on the proviso to Section 438(1), which states that if a court does not pass an interim order or rejects the application, a police officer is free to arrest the person without a warrant.",
+          "The Court also referenced the established legal position that a person against whom proclamation proceedings under Sections 82/83 Cr.P.C. have been initiated is generally not entitled to the relief of anticipatory bail."
+        ],
+        "application": [
+          "The Court reasoned that if the law (proviso to Section 438(1)) explicitly allows a police officer to arrest an accused when an anticipatory bail application is pending without an interim order, then there is no logical basis to prevent a court from taking its own legal steps, like issuing a proclamation under Section 82, in the same situation.",
+          "The Court found no statutory prohibition that would bar the Trial Court from proceeding under Section 82 merely due to the pendency of a bail application.",
+          "It also made a policy argument, stating that accepting the appellants' contention would create a \"ruse\" for accused individuals to evade arrest and court proceedings by simply filing successive anticipatory bail applications."
+        ],
+        "conclusion": "The Supreme Court rejected the appellants' argument and held that the mere pendency of an anticipatory bail application, in the absence of any interim protective order from the court, does not act as a bar on the Trial Court from initiating or proceeding with proclamation steps under Section 82 Cr.P.C."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether there could be any bar on the Trial Court for proceeding u/s. 82 Cr.P.C., merely because an anticipatory application for bail has been filed or because such an application was adjourned without passing any interim order.",
+      "appellant_arguments": [
+        "The appellants argued that the proclamation under Section 82 Cr.P.C. should not have been issued against them because their application for anticipatory bail was already pending before the High Court. They filed their bail application in November 2022, whereas the proclamation was issued later in January 2023, implying that the pending application should have stayed the proceedings."
+      ],
+      "respondent_arguments": [
+        "The respondent (State) argued that there is no legal bar (trammel) for a court to issue a non-bailable warrant or initiate proceedings under Section 82 Cr.P.C. merely because an anticipatory bail application is pending, especially when no interim protection has been granted by the higher court."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Code (of Criminal Procedure)",
+        "section": "82",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Lavesh v. State (NCT of Delhi)",
+        "citation": "[2012] 7 SCR 469 : (2012) 8 SCC 730",
+        "principle": "A person who is an absconder or against whom a proclamation has been issued under Section 82 of the Code is not entitled to the relief of anticipatory bail.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "State of Madhya Pradesh v. Pradeep Sharma",
+        "citation": "[2013] 12 SCR 772 : (2014) 2 SCC 171",
+        "principle": "A person who is an absconder or against whom a proclamation has been issued under Section 82 of the Code is not entitled to the relief of anticipatory bail.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A person who has been subjected to an investigation for a serious offense and is subsequently included in a charge sheet or summoned by a court is legally bound to submit to the authority of the law. While this person retains the right to pursue available legal remedies, such remedies must be sought in accordance with the law and not in defiance of it.",
+    "obiter": [
+      "A 'Court' is a Judge or body of persons empowered by law to give a definitive judgment in a legal proceeding, or a judgment that would be definitive if not appealed or if confirmed by another authority."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that there is no legal bar or 'trammel' that prevents a Trial Court from issuing a non-bailable warrant or initiating proceedings under Section 82 Cr.P.C. simply because an application for anticipatory bail is pending, particularly when no interim protection has been granted. The court found the appellants' consistent disobedience of lawful court orders and their attempts to delay proceedings were sufficient grounds to dismiss their appeal.",
+    "legal_tests_applied": [
+      "The power to grant anticipatory bail under Section 438, Cr. PC is an exceptional power and should be exercised only in exceptional cases and not as a matter of course."
+    ],
+    "why_appellant_lost": [
+      "The court rejected the argument that a pending anticipatory bail application automatically stays other proceedings, stating that in the absence of an interim protection, there can be no legal trammel for issuing a non-bailable warrant or initiating proceedings under Section 82, Cr. PC.",
+      "The appellants demonstrated 'consistent disobedience' by failing to appear before the Trial Court after the receipt of summons and then after the issuance of bailable warrants.",
+      "The appellants' conduct was characterized as 'nothing short of defying the lawful orders of the Court and attempting to delay the proceedings,' which disentitled them to the relief of pre-arrest bail."
+    ],
+    "why_respondent_won": [
+      "The respondent correctly argued that 'in the absence of an interim protection, there can be no legal trammel for issuing non-bailable warrant or for initiating proceedings under Section 82, Cr. PC. merely because of the pendency of an application for anticipatory bail.'"
+    ],
+    "policy_considerations": [
+      "The object of anticipatory bail is 'to ensure that a person should not be harassed or humiliated in order to satisfy the grudge or personal vendetta of the complainant,' not to facilitate the defiance of court orders or delay of proceedings."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.impugned_order": [
+      "p17_1a21af64"
+    ],
+    "issues[0].issue.issue_text": [
+      "p1_63a2d297"
+    ],
+    "arguments[0].issue_text": [
+      "p1_63a2d297"
+    ],
+    "citations.cases[1].case_name": [
+      "p4_291087df"
+    ]
+  }
+}

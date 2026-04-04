@@ -1,0 +1,115 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a trial court in Assam since the Gauhati High Court heard an appeal (CRLA No. 205 of 2019) from it.",
+    "impugned_order": "Judgment and Order dated 13.09.2021 of the Gauhati High Court in CRLA No. 205 of 2019, which presumably upheld the conviction of the appellants.",
+    "high_court_proceedings": "The Gauhati High Court heard Criminal Appeal No. 205 of 2019 (CRLA No. 205 of 2019) and issued a Judgment and Order dated 13.09.2021.",
+    "supreme_court_posture": "The appellants approached the Supreme Court challenging the Gauhati High Court's order. The Supreme Court allowed the appeal (Criminal Appeal No. 1637 of 2021)."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "acquitted",
+    "sentence_status": "set aside",
+    "directions": [
+      "The appellants shall be set at liberty unless their custody is required concerning some other offence."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction of the appellants for the offence punishable under Section 302 with the aid of Section 149 of the IPC is sustainable when the High Court found only four accused to be guilty, thereby not meeting the requirement of an 'unlawful assembly' under Section 141 of the IPC.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were convicted by the Trial Court for murder under Section 302 with the aid of Section 149 of the Indian Penal Code (IPC).",
+          "On appeal, the High Court acquitted one of the accused, confirming the conviction for only four appellants.",
+          "The High Court did not hold that other, unidentified persons were part of the assembly along with the four convicted appellants."
+        ],
+        "law": [
+          "Section 149 of the IPC makes every member of an 'unlawful assembly' guilty of an offence committed in pursuit of the assembly's common object.",
+          "For Section 149 to apply, the existence of an 'unlawful assembly' is a prerequisite.",
+          "Section 141 of the IPC defines an 'unlawful assembly' as an assembly of five or more persons."
+        ],
+        "application": [
+          "The Supreme Court applied the law to the facts by noting that since the High Court found only four accused to be guilty, the legal requirement of five or more persons for an 'unlawful assembly' under Section 141 was not met.",
+          "As there was no 'unlawful assembly' in the legal sense, the charge under Section 149, which is entirely dependent on the existence of such an assembly, could not be sustained.",
+          "The Court also observed that the High Court had not modified the charge from Section 149 (unlawful assembly) to Section 34 (common intention), which does not require a minimum of five people."
+        ],
+        "conclusion": "The Supreme Court concluded that the conviction of the appellants under Section 302 with the aid of Section 149 was unsustainable because the number of guilty persons fell below the minimum requirement of five needed to constitute an 'unlawful assembly'. Therefore, the Court set aside the conviction and acquitted the appellants."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction of the appellants for the offence punishable under Section 302 with the aid of Section 149 of the IPC is sustainable when the High Court found only four accused to be guilty, thereby not meeting the requirement of an 'unlawful assembly' under Section 141 of the IPC.",
+      "appellant_arguments": [
+        "The statements of prosecution witnesses were full of material omissions and contradictions, making them unreliable.",
+        "The evidence for the 'last seen together' theory was not established, as the deceased was in the company of other people after being seen with the accused, ruling out the appellants' exclusive proximity to the crime.",
+        "The motive for the crime was not established by the prosecution.",
+        "The trial court failed to follow the correct procedure under Section 145 of the Evidence Act for recording contradictions in witness statements."
+      ],
+      "respondent_arguments": [
+        "Evidence from prosecution witnesses showed that the deceased was last seen together with the accused.",
+        "The motive for the commission of the offence had been established.",
+        "The evidence of 'last seen together', coupled with the established motive and other convincing evidence, was sufficient to prove the appellants' guilt.",
+        "The High Court's decision to convict was correct and should be upheld."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "145",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "162",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "155",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Tahsildar Singh & Anr. v. State of U.P.",
+        "citation": "[1959] Supp. 2 SCR 875",
+        "principle": "To explain that a witness's prior statement recorded by the police can be used under Section 162 of the Code of Criminal Procedure only for the purpose of contradiction, following the procedure in the second part of Section 145 of the Evidence Act. This requires drawing the witness's attention to the specific parts of the written statement that are to be used for contradiction, and not for general cross-examination about the statement.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "To contradict a witness with their prior statement made to a police officer under Section 162 of the Code of Criminal Procedure, the procedure under Section 145 of the Evidence Act must be strictly followed. The witness's attention must be specifically drawn to those parts of the written statement that are to be used for contradiction, providing the witness an opportunity to explain. The portion of the statement used for the contradiction must then be duly proved, either by the witness's admission or through the evidence of the officer who recorded it.",
+    "obiter": [
+      "A statement falling under Section 32(1) of the Evidence Act (a dying declaration) is an exception to the general bar on the use of statements made to a police officer during an investigation.",
+      "The prosecution may also use a witness's prior statement for contradiction, but only with the prior permission of the Court.",
+      "The theory of last seen together is only helpful to the prosecution if the deceased was seen with the accused in close proximity to the time the body was found and the possibility of the involvement of other persons is ruled out."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appellants could not have been convicted for the offence punishable under Section 302 with the aid of Section 149 of the IPC because the High Court, in finding only four accused guilty, negated the existence of an 'unlawful assembly' as defined by Section 141 of the IPC, which requires a minimum of five persons.",
+    "legal_tests_applied": [
+      "To sustain a conviction with the aid of Section 149 of the IPC, the prosecution must prove the existence of an 'unlawful assembly' as defined in Section 141 of the IPC, which requires the assembly to consist of five or more persons.",
+      "Under Section 145 of the Evidence Act, the proper procedure to contradict a witness with their prior written statement is to show the specific part of that statement to the witness, allowing them an opportunity to explain the contradiction."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The procedural requirement in Section 145 of the Evidence Act, which mandates showing a witness their prior statement before using it for contradiction, is a rule of fairness designed to give the witness a chance to explain any discrepancy."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p16_b9cd4b00"
+    ],
+    "judicial_reasoning.core_finding": [
+      "p5_ce1d28d4"
+    ]
+  }
+}

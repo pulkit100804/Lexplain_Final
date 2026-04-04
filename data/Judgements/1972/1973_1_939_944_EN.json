@@ -1,0 +1,130 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge",
+    "impugned_order": "Judgment and order dated April 15, 1969 of the Allahabad High Court (Lucknow Bench)",
+    "high_court_proceedings": "The Allahabad High Court (Lucknow Bench) issued a judgment and order on April 15, 1969, which was challenged in this appeal.",
+    "supreme_court_posture": "Arjun Singh, Sheoram Singh, and Jumman applied to the Supreme Court under Article 136 of the Constitution for special leave to appeal against the High Court's judgment. The Supreme Court initially declined to grant leave to Arjun Singh. Sheoram Singh and Jumman's appeals were heard. Sheoram Singh's appeal was partly accepted, setting aside his conviction and sentence under section 302 read with section 149 of the Indian Penal Code, but dismissed in other respects. Jumman's appeal was not pressed and was dismissed."
+  },
+  "decision": {
+    "appeal_result": "Partially allowed",
+    "conviction_status": "The conviction of Sheoram Singh for the offence under section 302 read with section 149 Indian Penal Code is set aside.",
+    "sentence_status": "The sentence of Sheoram Singh for the offence under section 302 read with section 149 Indian Penal Code is set aside.",
+    "directions": [
+      "In other respects the appeal of Sheoram Singh is dismissed.",
+      "The appeal regarding Jumman has not been pressed and is dismissed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the appellant could be found guilty under section 302 read with section 149 of the Indian Penal Code.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The High Court had previously acquitted five other accused individuals of the offense under section 302 read with section 149 of the Indian Penal Code.",
+          "The appellant, however, had been convicted by the High Court for the same offense."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court determined that the reasons for acquitting the other five accused of the offense under section 302 read with section 149 were equally applicable to the appellant's case."
+        ],
+        "conclusion": "The Court concluded that the appellant could not be found guilty of the offense under section 302 read with section 149. Consequently, it accepted the appeal to the extent of setting aside his conviction and sentence for that specific charge."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether an accused can be held vicariously liable for the act of the other accused by involving section 34 of the Indian Penal Code in the absence of evidence of common intention.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, Sheoram Singh, fired a shot at a prosecution witness, Ram Dularey Singh.",
+          "Another accused, Arjun Singh, fired a separate shot that killed the deceased, Har Narain Singh.",
+          "The State argued that Sheoram Singh should be held vicariously liable for the murder committed by Arjun Singh under Section 302 read with Section 34 of the Indian Penal Code, alleging they had a common intention."
+        ],
+        "law": [
+          "To hold an accused vicariously liable for the act of another by invoking Section 34 of the Indian Penal Code, there must be cogent material (strong evidence) to prove a common intention.",
+          "While a common intention can develop on the spot during an incident, a court cannot arrive at such a finding without sufficient evidence."
+        ],
+        "application": [
+          "The Court found that just because Sheoram Singh fired a shot at one person (Ram Dularey Singh), it does not automatically follow that the shot fired by Arjun Singh at another person (the deceased) was done in furtherance of a shared intention with Sheoram Singh.",
+          "The Court determined there was no cogent material on record to establish that a common intention existed between Sheoram Singh and Arjun Singh to kill the deceased."
+        ],
+        "conclusion": "The Supreme Court rejected the application of Section 34, holding that in the absence of evidence proving a common intention, the appellant (Sheoram Singh) could not be held vicariously liable for the murder committed by the other accused (Arjun Singh)."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the appellant could be found guilty under section 302 read with section 149 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The reasons that led to the acquittal of the other five accused for the offence under section 302 read with section 149 also apply to the appellant.",
+        "Since the High Court determined that the common object of the unlawful assembly was not to kill the deceased (which is why the other accused were acquitted of this charge), the appellant cannot be convicted for the same offence on the basis of vicarious liability."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not explicitly stated in the provided text, but it can be inferred that they argued in favor of upholding the High Court's conviction of the appellant under section 302 read with section 149."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether an accused can be held vicariously liable for the act of the other accused by involving section 34 of the Indian Penal Code in the absence of evidence of common intention.",
+      "appellant_arguments": [
+        "There is no evidence to establish a common intention, as the text notes there was nothing to show any exhortation by the other accused.",
+        "Without evidence of a pre-arranged plan or a meeting of minds, vicarious liability under Section 34 cannot be invoked."
+      ],
+      "respondent_arguments": [
+        "The respondent's arguments are not explicitly stated in the provided text, but it can be inferred that they argued that common intention could be deduced from the circumstances of the case, thus justifying the conviction."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "149",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "148",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "307",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A common intention can develop during the course of an occurrence, but there must be cogent material on the basis of which the Court can arrive at such a finding and hold one accused vicariously liable for the act of another accused by invoking section 34 of the Indian Penal Code.",
+    "obiter": [
+      "The reasons for acquitting some accused for an offence hold equally good in relation to another accused in the same case."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The reasons for acquitting the other five accused for the offence under section 302 read with section 149 of the Indian Penal Code must also apply to the appellant. Since the High Court found that the common object of the unlawful assembly was not to murder the deceased, but someone else, the appellant cannot be held vicariously liable for the murder under section 149, just as the other members were not.",
+    "legal_tests_applied": [
+      "To invoke vicarious liability under Section 149 IPC, the criminal act must be in furtherance of the common object of the unlawful assembly.",
+      "To invoke vicarious liability under Section 34 IPC for a common intention that develops during an occurrence, there must be cogent material to support such a finding."
+    ],
+    "why_appellant_lost": [
+      "The appeal was only partially allowed because the appellant's counsel did not challenge the convictions for offences under sections 307 and 148 of the Indian Penal Code."
+    ],
+    "why_respondent_won": [
+      "The respondent (the State) succeeded in upholding the appellant's convictions under sections 307 and 148 of the Indian Penal Code because the appellant's counsel explicitly chose not to challenge those parts of the High Court's judgment."
+    ],
+    "policy_considerations": [
+      "The legal reasoning for acquitting several members of an unlawful assembly of a specific charge must be applied equally and consistently to all other members of that same assembly. As the court stated: 'If the other five accused were acquitted and not found guilty of the offenre under section 302 read with section 1 49 Indian Penal Code in connection with the death of Har N arain Sin~, it is not clear as to how the conviction of Shoo-ram Singh for the said offence could be sustained.'"
+    ]
+  },
+  "evidence_map": {}
+}

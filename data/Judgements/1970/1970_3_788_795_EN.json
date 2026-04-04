@@ -1,0 +1,135 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of First Class Magistrate at Meerut",
+    "impugned_order": "Order of the High Court confirming the view taken by the Magistrate and upheld by the Sessions Judge, which rejected the appellant's contention that the Magistrate at Meerut lacked jurisdiction.",
+    "high_court_proceedings": "The Magistrate rejected the appellant's contention that the Magistrate at Meerut had no jurisdiction to try the complaints. The Sessions Judge upheld this view in appeal. The High Court upheld the Sessions Judge's decision in revision.",
+    "supreme_court_posture": "The Supreme Court was approached via an appeal founded on a certificate granted by the High Court of Allahabad. The appellant is challenging the High Court's order, arguing that the Magistrate at Meerut lacked jurisdiction to try the complaints."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The High Courts orders set aside."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the jurisdiction to try an offence under Section 207 of the Companies Act, 1956, for failure to pay a declared dividend, lies with the court within whose jurisdiction the company's registered office is situated, or the court where the shareholder resides and was supposed to receive the dividend.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "A shareholder residing in Meerut filed a complaint against a company director for failure to pay a declared dividend, an offence under Section 207 of the Companies Act, 1956.",
+          "The company's registered office was located in Delhi.",
+          "The director argued that the court in Meerut had no jurisdiction and that the case should be tried in Delhi, where the registered office was situated.",
+          "The lower courts (Magistrate, Sessions Judge, and High Court) all ruled that the Meerut court had jurisdiction because that is where the shareholder was supposed to receive the payment."
+        ],
+        "law": [
+          "Section 207 of the Companies Act, 1956, defines the offence as the failure to pay a declared dividend or the failure to post a cheque or warrant for it within 42 days of the declaration.",
+          "Section 205(5)(b) of the Act permits a company to pay dividends by sending a cheque or warrant through the post to the shareholder's registered address.",
+          "The Court cited a legal principle that when a creditor authorizes payment by post, the post office becomes the agent of the creditor (the shareholder).",
+          "Consequently, payment is legally considered made and the debt is discharged as soon as the cheque is posted."
+        ],
+        "application": [
+          "The Supreme Court focused on the specific act that constitutes the offence under Section 207: the failure to *pay* or the failure to *post* the dividend warrant.",
+          "The Court reasoned that the company's obligation is to post the cheque from its registered office. Therefore, the act of posting, or the failure to do so, occurs at the location of the registered office (Delhi).",
+          "The offence is the company's failure to perform its duty, not the shareholder's non-receipt of the payment. The company's duty is fulfilled once the warrant is posted.",
+          "Applying the principle of agency, the Court determined that when the company posts the cheque in Delhi, it is effectively delivering it to the shareholder's agent (the post office) in Delhi. Thus, the payment is legally completed in Delhi.",
+          "The Court also noted the practical implications, stating it would be illogical and contrary to legislative intent to allow directors to be prosecuted in hundreds of different locations based on where their shareholders reside."
+        ],
+        "conclusion": "The Supreme Court concluded that the offence of failing to pay a dividend under Section 207 occurs at the place where the company's registered office is located, as this is where the obligation to post the dividend warrant arises and where the failure to do so takes place. Therefore, the court having jurisdiction is the one where the company's registered office is situated (Delhi), not where the shareholder resides (Meerut)."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the jurisdiction to try an offence under Section 207 of the Companies Act, 1956, for failure to pay a declared dividend, lies with the court within whose jurisdiction the company's registered office is situated, or the court where the shareholder resides and was supposed to receive the dividend.",
+      "appellant_arguments": [
+        "The Magistrate at Meerut, where the shareholder (respondent) resides, had no jurisdiction to try the complaints.",
+        "Jurisdiction lies with the Magistrate at Delhi, where the company's registered office is situated."
+      ],
+      "respondent_arguments": [
+        "The court at Meerut had jurisdiction because the dividends were supposed to be paid at the registered address of the respondent, which was in Meerut."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Companies Act, 1956",
+        "section": "36",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Contract Act",
+        "section": "50",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Companies Act, 1956",
+        "section": "207",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Companies Act, 1956",
+        "section": "205",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Hickman v. Kent or Romney Marsh Sheep Breeders' Association",
+        "citation": "(')",
+        "principle": "The Articles of Association constitute a contract between a company and its members in respect of their ordinary rights as members.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Beattie v. Beattie",
+        "citation": "(\")",
+        "principle": "The Articles of Association constitute a contract between a company and its members in respect of their ordinary rights as members.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Thairlwall v. The Great Northern Railway Co.",
+        "citation": "(3)",
+        "principle": "Where the conduct of the company and shareholders implies an agreement for dividends to be paid by post, the company's obligation to pay is discharged once the dividend warrant has been posted.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Norman v. Ricketts",
+        "citation": "(')",
+        "principle": "A debtor and creditor can agree to make and accept payment in a specific form (such as by post), and if they do, the posting of the payment is equivalent to payment, and the risk of loss in transit falls on the creditor.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "Where a company's Articles of Association, which constitute a contract between the company and its members, authorize the payment of dividends by posting a cheque or warrant, the offence of failing to pay a dividend under Section 207 of the Companies Act, 1956, is committed at the place where the warrant is required to be posted. The act of posting is equivalent to payment and discharges the company's obligation, thereby establishing jurisdiction at the place of posting, not at the shareholder's residence.",
+    "obiter": [
+      "A dividend, once declared, becomes a debt payable by the company to its registered shareholders.",
+      "The common law rule that a debtor must seek out the creditor does not apply when a contract between the parties prescribes a specific manner of performance for discharging the debt."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The offence under s. 207 is the failure to pay dividend or to post a cheque or a warrant for the dividend amount. Since the obligation to post the warrant arose at the registered office of the company, failure to discharge that obligation also arose at the registered office of the company. Therefore, the alleged offence must be held to have taken place at the place where the company's registered office is situate and not where the dividend warrant, when posted, would be received.",
+    "legal_tests_applied": [
+      "The offence under Section 207 is the 'failure to post' the dividend warrant within the prescribed period, not the 'non-receipt' of the warrant by the shareholder.",
+      "The statutory obligation to pay a dividend is satisfied, and the company is deemed to have paid and discharged its obligation, once a dividend warrant is posted to the registered address of the shareholder.",
+      "The jurisdiction to try an offence of omission (a failure to act) lies at the place where the statutory obligation was required to be performed.",
+      "The obligation to post the dividend warrant, and therefore the failure to satisfy that obligation, occurs at the company's registered office, as that is where the duty is to be performed."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "If the High Court's view were correct, it would mean that directors of companies would be liable to be prosecuted at hundreds of places where the registered addresses of their shareholders are, on allegations that dividends are not paid to them. The court concluded that this could not have been the intention of the legislature."
+    ]
+  },
+  "evidence_map": {
+    "procedural_history.originating_court": [
+      "p2_e2947198"
+    ]
+  }
+}

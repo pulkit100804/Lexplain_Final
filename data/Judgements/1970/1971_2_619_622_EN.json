@@ -1,0 +1,89 @@
+{
+  "procedural_history": {
+    "originating_court": "Assistant Sessions Judge",
+    "impugned_order": "Judgment and order dated July 14, 1969, of the Patna High Court in Criminal Misc. No. 411 of 1969.",
+    "high_court_proceedings": "The appellant was initially sentenced to five years' rigorous imprisonment in Sessions Trial No. 90 of 1962. His appeal to the High Court was allowed on October 5, 1964. Subsequently, in the present case, the Assistant Sessions Judge's findings of fact were upheld by the High Court on appeal. The High Court also rejected the appellant's argument regarding issue-estoppel.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by way of a Special Leave Petition (Criminal) No. 1048 of 1969, challenging the High Court's decision. The Supreme Court partly allowed the appeal in the matter of sentence and dismissed the Special Leave Petition."
+  },
+  "decision": {
+    "appeal_result": "Partly Allowed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Modified",
+    "directions": [
+      "The appeal is partly allowed in the matter of sentence.",
+      "The sentence of six years is reduced to rigorous imprisonment for three years, and a fine of Rs. 25,000/-.",
+      "Special Leave Petition (Criminal) No. 1048 of 1969 is dismissed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the rule of issue-estoppel applies, where a finding in a previous trial that the accused was not in charge of cash for a certain period would bar the prosecution in a subsequent trial from asserting that he was in charge of cash during a different period.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The accused was tried in two separate cases for criminal breach of trust under s. 409, I.P.C.",
+          "The first trial concerned the period from December 8, 1960, to August 17, 1961. In that case, the High Court acquitted the accused, finding that he was not in charge of the cash during that specific period.",
+          "The second (present) trial concerned an earlier, different period from January 31, 1960, to November 30, 1960.",
+          "The accused was never formally appointed as a cashier but was a temporary senior accounts clerk who was alleged to be performing the duties of a cashier."
+        ],
+        "law": [
+          "The basic principle of issue-estoppel is that the same issue of fact and law must have been determined in the previous proceeding.",
+          "For issue-estoppel to apply, a finding in the later case must necessarily be in contradiction of the previous determination."
+        ],
+        "application": [
+          "The Court determined that the issue of fact in the two trials was not the same.",
+          "The issue in the first trial was whether the accused was in charge of cash from December 1960 to August 1961.",
+          "The issue in the present trial was whether he was in charge of cash during a different period, from January 1960 to November 1960.",
+          "The Court reasoned that a person's duties can change over time. Someone might act as a cashier during one period but not during another, especially since the accused was never formally appointed to the role.",
+          "Therefore, a finding that he was not in charge of cash during the later period does not necessarily contradict the assertion that he was in charge of cash during the earlier period. The facts and conditions could have been different."
+        ],
+        "conclusion": "The Supreme Court rejected the application of issue-estoppel because the two trials concerned two different time periods. The finding in the first trial (that the accused was not in charge of cash) was specific to that period and did not prevent the prosecution from trying to prove he was in charge of cash during the different, earlier period at issue in the second trial."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the rule of issue-estoppel applies, where a finding in a previous trial that the accused was not in charge of cash for a certain period would bar the prosecution in a subsequent trial from asserting that he was in charge of cash during a different period.",
+      "appellant_arguments": [
+        "The issue of whether the accused was the cashier was substantially the same in the current trial as it was in the earlier trial.",
+        "Since the High Court in a previous case found that the accused was not the cashier from December 8, 1960, to August 17, 1961, he could not be held to be the cashier in the current case for the period of January 31, 1960, to November 30, 1960.",
+        "The defense and the evidence in both cases were almost identical, which supports the application of issue-estoppel."
+      ],
+      "respondent_arguments": [
+        "The finding of the High Court in the previous case related to a different time period and therefore could not operate as res judicata or issue-estoppel in the current case.",
+        "The two trials concerned distinct periods, meaning the issue of whether the accused was in charge of cash was not the same issue in both proceedings."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "For the rule of issue-estoppel to apply, the same issue of fact and law must have been determined in a previous proceeding, such that a later finding would necessarily contradict the previous determination. The rule does not apply if the relevant time periods are different and the facts or conditions could have changed between those periods.",
+    "obiter": [
+      "A person may be acting as a cashier at one period and may not be acting as a cashier at another."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The rule of issue-estoppel does not apply because the two trials concerned different time periods. A person, particularly one who was never formally appointed as a cashier but was a temporary clerk alleged to be doing the work of one, may act as a cashier during one period and not during another. As the facts or conditions could have changed between the two periods, a finding related to one period is not determinative for the other, and a later finding for a different period would not necessarily be in contradiction of the previous determination.",
+    "legal_tests_applied": [
+      "The basic principle underlying the rule of issue-estoppel is that the same issue of fact and law must have been determined in the previous litigation.",
+      "For issue-estoppel to apply, the later finding must necessarily be in contradiction of the previous determination."
+    ],
+    "why_appellant_lost": [
+      "The issue of fact was not the same in both trials because the time periods were different.",
+      "A person may be acting as a cashier at one period and may not be acting as a cashier at another period, especially as the appellant had never been officially appointed as a cashier but was a temporary clerk alleged to be doing the work.",
+      "There is a likelihood of facts or conditions changing during the two different periods under consideration, which prevents the finding in the first trial from being binding on the second."
+    ],
+    "why_respondent_won": [
+      "The two trials concerned distinct periods, meaning the issue of whether the accused was in charge of cash was not the same issue in both proceedings.",
+      "Because the periods are different and the facts relating to the carrying on of the duties of a cashier are different, a finding in the subsequent trial that the accused was in charge of cash would not create a contradiction with the finding in the previous trial that he was not."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

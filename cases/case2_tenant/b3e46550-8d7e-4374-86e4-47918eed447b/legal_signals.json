@@ -1,0 +1,72 @@
+{
+  "case_id": "b3e46550-8d7e-4374-86e4-47918eed447b",
+  "tenant_id": "case2_tenant",
+  "agent": "agent_5b_legal_signal_extractor",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json"
+  ],
+  "created_at": "2026-03-19T11:57:33.095105+00:00",
+  "signals": [
+    {
+      "signal_id": "sig_001",
+      "signal": "deceptive_conduct_observed",
+      "categories": [
+        "cheating",
+        "fraud",
+        "forgery",
+        "property",
+        "property_offence"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_001"
+      ]
+    },
+    {
+      "signal_id": "sig_002",
+      "signal": "property_transferred",
+      "categories": [
+        "property",
+        "cheating",
+        "breach_of_trust",
+        "property_offence"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_002"
+      ]
+    },
+    {
+      "signal_id": "sig_003",
+      "signal": "absence_of_response",
+      "categories": [
+        "cheating",
+        "fraud"
+      ],
+      "confidence": 1.0,
+      "source": "deterministic",
+      "source_fact_ids": [
+        "lf_003"
+      ]
+    },
+    {
+      "signal_id": "sig_004",
+      "signal": "property_obtained_by_deception",
+      "categories": [
+        "cheating",
+        "fraud",
+        "property",
+        "property_offence"
+      ],
+      "confidence": 0.9,
+      "source": "co_occurrence",
+      "source_fact_ids": [
+        "lf_001",
+        "lf_002"
+      ]
+    }
+  ]
+}

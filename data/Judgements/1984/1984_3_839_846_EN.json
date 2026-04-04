@@ -1,0 +1,92 @@
+{
+  "procedural_history": {
+    "originating_court": "Chief Judicial Magistrate",
+    "impugned_order": "Order of the Additional Sessions Judge, Kapurthala, which had set aside the order of the Chief Judicial Magistrate.",
+    "high_court_proceedings": "The respondent preferred a revision petition (Cr!. Misc. No. 1473 M of 1981) before the Punjab and Haryana High Court challenging the order of the Additional Sessions Judge. The High Court allowed the revision petition and set aside the decision of the Additional Sessions Judge.",
+    "supreme_court_posture": "The State of Punjab appealed to the Supreme Court by special leave because the High Court set aside the Additional Sessions Judge's order. The Supreme Court allowed the appeal, quashed the High Court's judgment, and restored the judgment of the Additional Sessions Judge."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": null,
+    "sentence_status": null,
+    "directions": [
+      "The judgment of the High Court is quashed and set aside.",
+      "The judgment of the learned Additional Sessions Judge is restored."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Court of Chief Judicial Magistrate, Kapurthala, where the marketing agents of sub-standard fertiliser manufactured by the respondent marketed the same, will have jurisdiction to try the respondent, the manufacturer of the sub-standard fertiliser, along with the marketing agents.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The respondent manufactured fertiliser in Ludhiana.",
+          "The fertiliser was marketed in Kapurthala through his agents, M/s Sachdeva Enterprises.",
+          "A sample of the fertiliser taken from the agents in Kapurthala was found to be sub-standard.",
+          "A criminal complaint was filed against both the manufacturer and the marketing agents in the court at Kapurthala.",
+          "The manufacturer argued that the Kapurthala court lacked territorial jurisdiction over him because his business was in Ludhiana."
+        ],
+        "law": [
+          "The Court relied on Sections 179 and 180 of the Code of Criminal Procedure, 1973.",
+          "These sections establish jurisdiction for a criminal trial not only where an act is done but also where its consequence ensues."
+        ],
+        "application": [
+          "The Court viewed the manufacturing of sub-standard fertiliser and the marketing of it as interconnected offenses, related as 'cause and effect'.",
+          "The manufacturing of the sub-standard product in Ludhiana was the 'cause'.",
+          "The marketing and discovery of this product in Kapurthala was the 'consequence' or 'effect'.",
+          "Because the consequence of the manufacturing offense occurred in Kapurthala, the situation is covered by Sections 179 and 180 of the Code.",
+          "This allows the manufacturer to be tried along with the marketing agent in the court where the consequence (the marketing) took place."
+        ],
+        "conclusion": "The Supreme Court concluded that the court where the sub-standard fertiliser was marketed (Kapurthala) has the jurisdiction to try both the manufacturer and the marketing agents, even if the manufacturing activity took place in a different location (Ludhiana)."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Court of Chief Judicial Magistrate, Kapurthala, where the marketing agents of sub-standard fertiliser manufactured by the respondent marketed the same, will have jurisdiction to try the respondent, the manufacturer of the sub-standard fertiliser, along with the marketing agents.",
+      "appellant_arguments": [
+        "The manufacturer of a sub-standard product can be tried along with their marketing agent in the court where the product was marketed.",
+        "The court of the Chief Judicial Magistrate in Kapurthala, where the sub-standard fertiliser was marketed, has the jurisdiction to try both the marketing agent and the manufacturer."
+      ],
+      "respondent_arguments": [
+        "The court in Kapurthala lacks jurisdiction to try the manufacturer because the manufacturing did not take place there.",
+        "The manufacture, distribution, and sale of the product are not part of the same transaction in a way that confers jurisdiction over the manufacturer in the location of the sale.",
+        "A previous case concerning adulterated ghee supports the argument that there is no unity of purpose or common object that would link the manufacturer to the jurisdiction where the product was sold by an agent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "179",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "180",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A court where a sub-standard product was marketed has jurisdiction to try both the manufacturer and the marketing agent, even if the manufacturing occurred at an entirely different place, as the location of marketing is where the consequences of the offence ensued under Sections 179 and 180 of the Code of Criminal Procedure.",
+    "obiter": [
+      "If it is not established against anyone that the article of food manufactured, distributed or sold by him was adulterated, that person will be acquitted, not because the charge was not valid or was defective but because there was no proof to substantiate the charge."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court where a sub-standard product is marketed has jurisdiction to try the manufacturer of that product, even if the manufacturing occurred in a different jurisdiction. The manufacture of the sub-standard product and its subsequent marketing are considered related acts, and under Section 180 of the Code of Criminal Procedure, the trial for the first-mentioned offense (manufacturing) can be held in the court within whose local jurisdiction either act was done.",
+    "legal_tests_applied": [
+      "Section 180 provides that where an act is an offence by reason of its relation to any other act which is also an offence or which would be an offence if the doer were capable of committing an offence, the first-mentioned offence may be inquired into or tried by a court within whose local jurisdiction either act was done."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "b4d172b0-7504-4a2b-a1ce-a399d4b06eb6",
+  "tenant_id": "test_run",
+  "agent": "agent_4a_entity_extractor",
+  "input_refs": [
+    "role_tagged_graph.json"
+  ],
+  "created_at": "2026-03-22T19:33:06.923972+00:00",
+  "entities": [
+    {
+      "type": "actor",
+      "value": "victim",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_001"
+    },
+    {
+      "type": "actor",
+      "value": "accused",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_002"
+    },
+    {
+      "type": "actor",
+      "value": "witness",
+      "source_node_ids": [
+        "n_004"
+      ],
+      "entity_id": "ent_003"
+    },
+    {
+      "type": "object",
+      "value": "wooden stick",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_004"
+    },
+    {
+      "type": "location",
+      "value": "the hospital",
+      "source_node_ids": [
+        "n_002"
+      ],
+      "entity_id": "ent_005"
+    }
+  ]
+}

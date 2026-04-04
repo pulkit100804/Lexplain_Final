@@ -1,0 +1,95 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated in the provided text, but implied to be a trial court within the jurisdiction of the High Court of Judicature at Madras, since the High Court heard an appeal.",
+    "impugned_order": "Judgment dated 25.01.2019 passed by the High Court of Judicature at Madras in CRLA No. 667 of 2011.",
+    "high_court_proceedings": "The High Court of Judicature at Madras heard Criminal Appeal No. 667 of 2011 and issued a judgment on 25.01.2019.",
+    "supreme_court_posture": "The appellant, represented by G. Sivabalamurugan, Selvaraj Mahendran, C. Adhikesavan, S.B. Kamalanathan, P.V. Harikrishnan, Sunil Singh Rawat, and Kartik Sandal, appealed the High Court's judgment to the Supreme Court. The Supreme Court heard the learned counsel for the appellant and the learned Standing Counsel for the State of Tamil Nadu (respondent) and allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Appeal allowed.",
+    "conviction_status": "The appellant's conviction under Section 306, IPC is quashed and set aside, and he stands acquitted of the offence under Section 306, IPC.",
+    "sentence_status": "",
+    "directions": [
+      "His bail bonds are discharged."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether Section 106 of the Evidence Act, 1872, concerning the burden of proving a fact especially within a person's knowledge, was correctly applied to shift the onus onto the appellant.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted by the High Court for abetment of suicide under Section 306 of the Indian Penal Code.",
+          "In reaching its decision, the High Court applied Section 106 of the Evidence Act, which shifted the burden of proving certain facts onto the appellant."
+        ],
+        "law": [
+          "The Supreme Court clarified the legal principles governing Section 106 of the Evidence Act.",
+          "Section 106 is an exception to the general rule (under Section 101) that the burden of proof lies with the party asserting a fact, which in a criminal case is the prosecution.",
+          "This section is not meant to relieve the prosecution of its fundamental duty to prove the guilt of the accused.",
+          "It applies only when a fact is \"especially within the knowledge\" of a person, typically when an accused's defence relies on proving such a fact.",
+          "Crucially, Section 106 can only be invoked to shift the onus onto the accused *after* the prosecution has first presented sufficient evidence to establish a prima facie case that could sustain a conviction."
+        ],
+        "application": [
+          "The Court found that the prosecution had \"miserably failed\" to establish a prima facie case that the appellant had abetted the victim's suicide.",
+          "Since the prosecution did not meet its initial burden of proof, the necessary condition for applying Section 106 was not met.",
+          "The Court stated there was an \"absolute absence of any basis\" to apply Section 106 against the appellant based on the evidence on record.",
+          "Therefore, the High Court committed an error by incorrectly applying Section 106 to shift the burden of proof from the prosecution to the appellant."
+        ],
+        "conclusion": "The Supreme Court rejected the application of Section 106 of the Evidence Act, holding that the High Court had erred in shifting the burden of proof to the appellant because the prosecution had failed to establish a prima facie case. Consequently, the appellant's conviction was quashed, and he was acquitted."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether Section 106 of the Evidence Act, 1872, concerning the burden of proving a fact especially within a person's knowledge, was correctly applied to shift the onus onto the appellant.",
+      "appellant_arguments": [
+        "The High Court committed an error by applying Section 106 of the Evidence Act to shift the burden of proof onto the appellant, as there was no basis to make the section applicable in this case."
+      ],
+      "respondent_arguments": [
+        "The High Court's application of Section 106 of the Evidence Act was correct, and the burden of proof was rightly shifted to the appellant."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "106",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "101",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Sawal Das v. State of Bihar",
+        "citation": "[1974] 3 SCR 74 : AIR 1974 SC 778",
+        "principle": "Section 106 of the Evidence Act cannot be used to shift the burden of proving the offence from the prosecution to the accused. The question of shifting the onus to the accused would arise only when the prosecution has led evidence which, if believed, will sustain a conviction or makes out a prima facie case.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In criminal cases, Section 106 of the Evidence Act cannot be used to shift the primary burden of proving the offence from the prosecution to the accused. The onus shifts to the accused to prove a fact especially within their knowledge only after the prosecution has first established a prima facie case with evidence that, if believed, would be sufficient to sustain a conviction.",
+    "obiter": [
+      "Section 106 is an exception to the general rule laid down in Section 101, which casts the burden of proving a fact on the party who substantially asserts the affirmative of the issue.",
+      "Section 106 applies where the defence of the accused depends on proving a fact especially within their knowledge and nobody else's."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court was at a loss to understand how Section 106 of the Evidence Act could be applied against the appellant, holding that there was an absolute absence of any basis for its application in view of the evidence on record.",
+    "legal_tests_applied": [
+      "Section 106 of the Evidence Act is an exception to the general rule of evidence and can only be applied when a fact is especially within the knowledge of a person."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

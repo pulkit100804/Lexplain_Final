@@ -1,0 +1,118 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Order dated 25.07.2006 of the trial court convicting and sentencing the appellant under Section 302 of the IPC (Indian Penal Code).",
+    "high_court_proceedings": "The High Court affirmed the trial court's order via judgment and order dated 02.06.2008.",
+    "supreme_court_posture": "The appellant, convicted by the trial court and whose conviction was affirmed by the High Court, appealed to the Supreme Court. The Supreme Court allowed the appeal and set aside the orders of both the trial court and the High Court."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Acquitted",
+    "sentence_status": "Set aside",
+    "directions": [
+      "The bail bonds of the accused shall stand discharged.",
+      "Pending application(s), if any, shall stand disposed of."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the appellant should be acquitted of all the charges.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted of murder (Section 302 IPC) by the Trial Court, and this conviction was upheld by the High Court.",
+          "The appellant's defense was a plea of insanity under Section 84 of the Indian Penal Code (IPC).",
+          "The lower courts rejected the insanity plea, relying on testimony that the appellant did not seem abnormal and was mentally well after the incident.",
+          "The lower courts disregarded or \"brushed aside\" key evidence supporting the insanity plea, including the testimony of a Government doctor (DW1) and the appellant's uncle (DW2) who spoke of prior treatment."
+        ],
+        "law": [
+          "Under Section 84 of the IPC, an accused can be exonerated from criminal liability if, at the time of the act, they were of unsound mind and incapable of knowing the nature of the act.",
+          "The burden of proof on an accused raising an insanity defense is one of \"preponderance of probability,\" not proof beyond a reasonable doubt.",
+          "If the evidence presented creates a reasonable doubt in the court's mind about the accused's mental state at the time of the offense, the accused is entitled to the benefit of the doubt and acquittal."
+        ],
+        "application": [
+          "The Supreme Court found that the Trial Court and High Court had erred by being improperly influenced by the nature of the crime while ignoring the appellant's mental condition.",
+          "The Court held that the lower courts wrongly dismissed crucial evidence, particularly the testimony of the Government doctor (DW1) who had withstood cross-examination.",
+          "The Court noted that the fact the appellant later became fit for trial was indicative of his prior insanity.",
+          "Applying the standard of \"preponderance of probability,\" the Court determined that the evidence was sufficient to create a reasonable doubt about the appellant's mental state, thus entitling him to the benefit of the insanity defense under Section 84 of the IPC."
+        ],
+        "conclusion": "The Supreme Court concluded that the appellant was entitled to the benefit of the insanity defense under Section 84 of the IPC. Consequently, the Court set aside the prior judgments of the High Court and Trial Court and acquitted the appellant of all charges."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the appellant should be acquitted of all the charges.",
+      "appellant_arguments": [
+        "The appellant pleaded insanity, arguing he was suffering from schizophrenia.",
+        "Evidence was presented from two doctors (AW1 and AW2) and the appellant's uncle (DW2) confirming his mental illness and prior treatment.",
+        "The lower courts erred by ignoring or brushing aside the evidence of the doctors and the appellant's uncle, as well as the appellant's subsequent conduct.",
+        "The inability of the appellant to understand court proceedings was noted by the court itself during bail considerations and was the subject of an application under Section 329 of the Cr.P.C.",
+        "Even if insanity at the time of the offense was not conclusively proven, the evidence presented raises a reasonable doubt regarding the 'mens rea' (guilty mind), and therefore the prosecution has not met its burden of proof."
+      ],
+      "respondent_arguments": [
+        "The plea of insanity was rightly rejected by the lower courts.",
+        "A prosecution witness (PW6), who was a relative of the appellant, did not find any abnormality in his behavior.",
+        "The doctor (PW10) who examined the appellant immediately after the incident stated that he was mentally well.",
+        "The appellant's mother was not examined to support the plea of insanity.",
+        "A later report from the District and Sessions Judge could not confirm that the appellant was suffering from schizophrenia."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Indian Penal Code, 1860",
+        "section": "84",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Indian Evidence Act, 1872",
+        "section": "105",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Dahyabhai Chhaganbhai Thakkar v. State of Gujarat",
+        "citation": "AIR 1964 SC 1563",
+        "principle": "The benefit of Section 84 IPC is available only after it is proved that at the time of committing the act, the accused was labouring under such a defect of reason, from a disease of the mind, as not to know the nature and quality of the act he was doing, or that it was wrong or contrary to law. The crucial point of time for deciding this is when the offence takes place. The defense cannot be admitted based merely on the character of the crime, as only unsoundness of mind which impairs the cognitive faculties can form a ground for exemption from criminal responsibility.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The burden of proof to establish the defense of insanity under Section 84 of the IPC lies on the accused, but this burden is discharged by establishing a preponderance of probabilities, not proof beyond a reasonable doubt. The court must assess the accused's behavior and conduct before, during, and after the incident. The inquiry into insanity is a collective, non-adversarial responsibility of the accused, the court, and the prosecution.",
+    "obiter": [
+      "The fundamental maxim of criminal law is 'actus non reum facit nisi mens sit rea' (an act does not constitute guilt unless done with a guilty intention).",
+      "A person of unsound mind is like a child, not knowing either their action or its consequence, and stands as a victim in need of help.",
+      "An acquittal on the ground of unsoundness of mind requires a specific finding that the prohibited act was actually committed by the accused."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court found that the Trial Court and High Court were improperly influenced by the nature of the criminal act while ignoring the appellant's mental condition. The appellant had successfully discharged his burden of proving insanity by a preponderance of probability, particularly through the evidence of a government doctor (DW1). The Court concluded that the appellant's subsequent fitness to face trial was indicative of his prior insanity, and therefore, he was entitled to acquittal under Section 84 of the IPC.",
+    "legal_tests_applied": [
+      "The burden of proof lies on the accused to prove insanity, but the standard is one of preponderance of probability, not beyond a reasonable doubt. This burden is discharged based on a prima facie case and reasonable materials.",
+      "The fundamental principle of criminal law is 'actus non reum facit nisi mens sit rea' (an act does not constitute guilt unless done with a guilty intention). A person of unsound mind, incapable of knowing the nature of the act or that it is wrong, lacks the requisite 'mens rea'.",
+      "Even if an accused cannot conclusively establish insanity at the time of the offense, if the evidence presented raises a reasonable doubt regarding 'mens rea', the court must acquit on the ground that the prosecution's general burden of proof has not been discharged.",
+      "Once the accused establishes a defense of insanity on a preponderance of probability, the onus shifts to the prosecution to establish the inapplicability of the exception."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A person of unsound mind who commits an act without knowing its consequences is a 'victim in need of help' and cannot be charged and tried for an offence; their position is analogous to that of a child.",
+      "Deciphering the proof of insanity is a 'collective responsibility' of the person concerned, the Court, and the prosecution, and should not be treated as a purely adversarial process."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p18_1f396ebe"
+    ],
+    "citations.cases[0].case_name": [
+      "p9_0975a4b2"
+    ]
+  }
+}

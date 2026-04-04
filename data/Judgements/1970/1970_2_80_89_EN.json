@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court since the appellant was convicted under section 292 I.P.C.",
+    "impugned_order": "Judgment and order dated October 25, 1966 of the Bombay High Court in Criminal Appeal No. 805 of 1965.",
+    "high_court_proceedings": "The Bombay High Court heard Criminal Appeal No. 805 of 1965.",
+    "supreme_court_posture": "The Supreme Court heard an appeal by special leave against the Bombay High Court's judgment. The appellant was initially convicted under section 292 I.P.C. for obscenity, and the Supreme Court is now reviewing that conviction."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside",
+    "sentence_status": "set aside",
+    "directions": [
+      "The fine if paid is directed to be refunded."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the short story authored by the appellant is obscene and offends Section 292 of the Indian Penal Code.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant, an author, was convicted by the High Court under Section 292 of the Indian Penal Code (IPC) for writing a short story titled 'Shama'.",
+          "The story revolves around a poet, Nishikant, and his relationships with three women.",
+          "The prosecution alleged that certain passages in the story were obscene and likely to corrupt and deprave the minds of readers.",
+          "The author defended the story, stating it was a literary work depicting the frustration in a poet's life and was not intended to be obscene."
+        ],
+        "law": [
+          "The Court referenced the test for obscenity laid down in the English case of Hicklin, which had been previously adopted in India.",
+          "It also heavily relied on its own precedent in 'Udeshi's case', which established that for a work to be obscene, it must be judged as a whole, by contemporary national standards of public decency and morality.",
+          "According to this precedent, the work must be likely to pander to 'lascivious, prurient or sexually precocious minds'.",
+          "The law requires a balance between freedom of speech and public decency. Where art and obscenity are mixed, the art must preponderate to such an extent that it throws the obscenity into the shadow, or the obscenity must be trivial."
+        ],
+        "application": [
+          "The Court examined the story 'as a whole' rather than focusing only on isolated passages.",
+          "It found that the story was not pornography and did not pander to prurient interests. The protagonist's recollections of past affairs were presented as a 'repellant' to future involvement, providing a moral context.",
+          "The Court determined that the allegedly offensive passages, when read in context, were not likely to deprave or corrupt the morals of those who might read them, including adolescents.",
+          "It reasoned that a narration of such situations, when set in a context that emphasizes a moral lesson and condemns the wrongful conduct, cannot be considered obscene.",
+          "The Court concluded that the story did not treat sex in a manner that was offensive to public decency and morality by national standards."
+        ],
+        "conclusion": "The Supreme Court concluded that the short story authored by the appellant was not obscene and did not offend Section 292 of the Indian Penal Code. It therefore accepted the appeal and set aside the conviction."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the short story authored by the appellant is obscene and offends Section 292 of the Indian Penal Code.",
+      "appellant_arguments": [
+        "The appellant, having been convicted for obscenity under Section 292 of the Indian Penal Code, appealed the conviction, arguing that the short story was not obscene."
+      ],
+      "respondent_arguments": [
+        "The provided text does not contain the arguments for the respondent."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "292",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Ranjit D. Udeshi v. State of Maharashtra",
+        "citation": "[1965] I S.C.R., 65",
+        "principle": "The legal test for determining what constitutes obscenity under Section 292 of the Indian Penal Code.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "When determining if a work is obscene, it is the duty of the Court to consider the article, story, or book by taking an overall view of the entire work to determine whether the passages are so likely to deprave and corrupt those whose minds are open to such influences and in whose hands the work is likely to fall. In doing so, the influence of the work on the social morality of contemporary society cannot be overlooked.",
+    "obiter": [
+      "As the question of obscenity may have to be judged in the light of the claim that the work has a pre-dominant literary merit, it may be necessary if it is at all required, to rely to a certain extent on the evidence and views of leading litterateurs on that aspect."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "Applying the relevant legal tests for obscenity, the Court found that none of the impugned passages from the appellant's short story could be said to pervert the morals of an adolescent or be considered obscene. The Court noted that the author had not indulged in a description of the sex act itself, and when viewed in the context of the entire work, the passages did not treat sex in a way that was offensive to public decency and morality or likely to pander to lascivious or prurient minds.",
+    "legal_tests_applied": [
+      "The test of obscenity is whether the tendency of the matter charged as obscenity is to deprave and corrupt those whose minds are open to such immoral influences, and into whose hands a publication of this sort may fall.",
+      "It is the duty of the Court to consider the article, story or book by taking an overall view of the entire work and to determine whether the obscene passages are so likely to deprave and corrupt those whose minds are open to such influences and in whose hands the book is likely to fall.",
+      "The charge of obscenity must be judged from the aspect of whether a class, not an isolated case, into whose hands the book, article or story falls suffer in their moral outlook or become depraved by reading it or might have impure and lecherous thoughts aroused in their minds.",
+      "Where obscenity and art are mixed, art must so preponderate as to throw the obscenity into a shadow or the obscenity so trivial and insignificant that it can have no effect and may be overlooked.",
+      "The question of obscenity must be judged in the light of our national standards and by considering the influence of the book on the social morality of our contemporary society."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "A balance should be maintained between freedom of speech and expression and public decency and morality but when the latter is substantially transgressed the former must give way.",
+      "We need not attempt to bowdlerize all literature and thus rob speech and expression of freedom."
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p10_a9dba40c"
+    ],
+    "judicial_reasoning.legal_tests_applied[1]": [
+      "p1_06404e46"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "procedural_history": {
+    "originating_court": "Special Judge for CBI cases, Madurai",
+    "impugned_order": "Judgment and Order dated 18.08.2011 of the High Court of Madras at Madurai in CA No. 203 of 2008",
+    "high_court_proceedings": "Accused Nos.1, 2 and 5 preferred criminal appeals challenging their conviction and sentence and by impugned common judgment the High Court allowed the appeals filed by accused Nos.1 and 5 and acquitted them and said judgment has attained finality as it has not been challenged by the CBI. However, the appeal filed by accused No.2 came to be dismissed",
+    "supreme_court_posture": "Accused No. 2 approached the Supreme Court because the High Court dismissed her appeal against her conviction under Section 420 IPC and Section 12(1)(b) and Section 12(2) of Passports Act."
+  },
+  "decision": {
+    "appeal_result": "allowed",
+    "conviction_status": "set aside",
+    "sentence_status": "set aside",
+    "directions": [
+      "The bail bonds of the appellant stands cancelled."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the court can convict one accused and acquit the other when there is similar or identical evidence pitted against two accused persons.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant (Accused No. 2) was convicted for offences related to securing a passport by furnishing false information.",
+          "Other co-accused (specifically Accused Nos. 3 and 4) faced the same or similar allegations as the appellant.",
+          "The lower courts acquitted Accused Nos. 3 and 4 but convicted the appellant based on the same evidence.",
+          "The prosecution failed to provide any evidence that the appellant knowingly furnished false information, specifically that she knew the person she was helping (Accused No. 1) already possessed a passport."
+        ],
+        "law": [
+          "A court cannot convict one accused person and acquit another when there is similar or identical evidence against both.",
+          "This is governed by the \"principle of parity,\" which dictates that criminal courts must decide like cases alike and cannot create a distinction between two accused persons in such a situation, as it would amount to discrimination.",
+          "The Supreme Court cited its previous ruling in *Javed Shaukat Ali Qureshi v State of Gujarat (2023)* to support this principle."
+        ],
+        "application": [
+          "The Court found that the allegations against the appellant were the same as those made against Accused Nos. 3 and 4, who had been acquitted.",
+          "Given that the evidence was identical, the lower courts erred by convicting the appellant while acquitting the others.",
+          "The prosecution had the burden to prove that the appellant *knowingly* provided false information but failed to produce any evidence to that effect.",
+          "Since the co-accused were acquitted on the same set of facts and evidence, the conviction of the appellant alone could not be sustained under the principle of parity."
+        ],
+        "conclusion": "The Supreme Court accepted the issue, holding that a court cannot convict one accused and acquit another when the evidence against them is similar or identical. Because the allegations and evidence against the appellant were the same as for the acquitted co-accused, and the prosecution failed to prove her guilt, the Court set aside her conviction and acquitted her."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the prosecution had failed to prove the guilt of the appellant beyond reasonable doubt.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted, while other co-accused (Nos. 1, 3, 4, and 5) facing the same allegations were acquitted by the lower courts.",
+          "The prosecution relied on the testimony of a witness (PW-15) who claimed the appellant submitted an application and paid charges, but provided no documentary evidence to support this.",
+          "Handwriting evidence intended to link the appellant to the crime was not definitive."
+        ],
+        "law": [
+          "The prosecution in a criminal case bears the burden of proving the guilt of the accused beyond a reasonable doubt.",
+          "When the evidence against multiple accused persons is similar or identical, a court cannot convict one accused while acquitting the others on the same evidence."
+        ],
+        "application": [
+          "The Court found that the prosecution failed to present any evidence showing the appellant had prior knowledge that Accused No. 1 already possessed a passport. This knowledge was a crucial element of the alleged offense.",
+          "The Court reasoned that since the allegations against the appellant were the same as those against Accused Nos. 3 & 4, who were acquitted, the appellant's conviction on similar evidence was unsustainable.",
+          "The testimony of the key witness (PW-15) was deemed insufficient and did not inspire confidence, as it was uncorroborated by any documentary proof of payment or other evidence.",
+          "The combination of these factors—the acquittal of co-accused on similar grounds, the lack of proof of the appellant's knowledge, and the weakness of the witness testimony—created significant doubt about the appellant's guilt."
+        ],
+        "conclusion": "The Supreme Court concluded that the prosecution had failed to prove the appellant's guilt beyond a reasonable doubt. The Court found the evidence to be insufficient and inconsistent, especially in light of the acquittal of other co-accused. Consequently, the appeal was allowed, the conviction was set aside, and the appellant was acquitted."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the court can convict one accused and acquit the other when there is similar or identical evidence pitted against two accused persons.",
+      "appellant_arguments": [
+        "The appellant's conviction is unsustainable because accused Nos. 3 and 4, who were charged for similar offenses, were acquitted, and no appeal was filed against their acquittal.",
+        "The conviction is also unsustainable because accused No. 1, for whose benefit the passport was allegedly issued, was also acquitted after the court disbelieved the prosecution's story."
+      ],
+      "respondent_arguments": [
+        "The lower courts properly evaluated the evidence and correctly concluded that the appellant had committed the offence.",
+        "The conviction does not suffer from any infirmity in law or on facts and should be upheld."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the prosecution had failed to prove the guilt of the appellant beyond reasonable doubt.",
+      "appellant_arguments": [
+        "The handwriting expert (PW-16) did not express a definite opinion, and such evidence cannot be the sole basis for conviction without independent corroboration.",
+        "The testimony of PW-3 was unreliable as she turned hostile and did not depose that the appellant knowingly processed the application for a second passport.",
+        "There were 'gaping holes' in the prosecution's story, such as the lack of evidence from PW-15 about when the application was received or proof of payment of fees by the appellant.",
+        "The prosecution failed to provide any evidence that the appellant had prior knowledge that accused No. 1 already possessed a passport."
+      ],
+      "respondent_arguments": [
+        "The lower courts' conviction was based on a proper evaluation of the evidence and is sound in both law and facts, warranting no interference."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "The Passports Act, 1967",
+        "section": "Section 12(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "The Passports Act, 1967",
+        "section": "Section 12(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "Under the principle of parity, where the allegations and evidence against multiple accused persons are similar or identical, a court cannot convict one accused while acquitting the others, as doing so would amount to discrimination.",
+    "obiter": [
+      "This rule has been universally acted upon and it has almost become a rule of law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appellant's conviction cannot be sustained because the allegations against her were the same as those against other co-accused who were acquitted, and the prosecution fundamentally failed to prove its case. Specifically, the prosecution offered no evidence to show that the appellant had prior knowledge that accused No. 1 already possessed a passport, which was the essential element required to prove she knowingly abetted the offense. The acquittal of the other accused on the same facts underscores the lack of cogent evidence against the appellant.",
+    "legal_tests_applied": [
+      "The Principle of Parity: \"When there is similar or identical evidence of eyewitnesses against two accused by ascribing them the same or similar role, the Court cannot convict one accused and acquit the other.\"",
+      "Burden of Proof: \"Burden is cast on the prosecution to prove that the appellant had knowingly furnished false information or supressing known material information with the intent of securing a passport or travel document to a person and thereby had abetted in the commission of offence punishable under Section 12(1) and thereby punishable under Section 12(2) of the Passports Act.\"",
+      "Standard of Proof: The prosecution must prove the guilt of the accused \"beyond reasonable doubt.\""
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "The principle of parity dictates that a \"Criminal Court should decide like cases alike, and in such cases, the Court cannot make a distinction between the two accused, which will amount to discrimination.’’"
+    ]
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p13_854dcda1"
+    ]
+  }
+}

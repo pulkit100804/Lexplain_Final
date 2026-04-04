@@ -1,0 +1,92 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of the Judicial Magistrate",
+    "impugned_order": "Original order passed by the Magistrate issuing summons",
+    "high_court_proceedings": "1. Appellant initially challenged the order of issue of process before the High Court, but withdrew the petition.\n2. Eight years later, the appellant challenged the original order of issue of process before the High Court again. The High Court declined to entertain the petition due to delay, without considering the merits of the case.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court after the High Court declined to entertain his petition. The Supreme Court found merit in the appeal, set aside the High Court's order, and quashed the original order passed by the Magistrate issuing summons, thereby terminating the criminal proceedings."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "Quashed",
+    "sentence_status": "",
+    "directions": [
+      "The impugned order passed by the High Court is hereby set aside.",
+      "The original order passed by the Magistrate issuing summons, is also hereby quashed and set aside.",
+      "The criminal proceedings in the form of Criminal Case No.247 of 2002 pending in the Court of Judicial Magistrate First Class, Worora, Chandrapur, Maharashtra stand terminated."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the allegations made in a complaint in good faith addressed to a lawful authority (Sub Divisional Magistrate) make out an offence of defamation under Section 500 of the Indian Penal Code?",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant filed a written complaint with the Sub Divisional Magistrate (SDM), a lawful authority, against another individual (the complainant).",
+          "The complaint alleged that the individual had encroached upon land and was creating a nuisance.",
+          "Based on the statements made in that complaint, the individual filed a private case against the appellant for the offence of defamation under Section 500 of the Indian Penal Code (IPC).",
+          "A Magistrate issued a summons to the appellant, and the High Court declined to quash this order."
+        ],
+        "law": [
+          "Section 499 of the IPC defines the offence of defamation.",
+          "The Eighth Exception to Section 499 IPC states that it is not defamation to prefer an accusation in good faith against any person to someone who has lawful authority over that person with respect to the subject matter of the accusation."
+        ],
+        "application": [
+          "The Supreme Court analyzed whether the appellant's complaint to the SDM fell under the definition of defamation.",
+          "The Court directly applied the Eighth Exception to Section 499 of the IPC to the facts.",
+          "It determined that the appellant's complaint was an 'accusation preferred in good faith' because it was addressed to the SDM, who is a 'lawful authority' over the subject matter of the complaint (land encroachment and nuisance).",
+          "Since the complaint was made to a proper authority and not made public, the Court found that the act was protected by this exception."
+        ],
+        "conclusion": "The Supreme Court concluded that the allegations made in the complaint, having been addressed in good faith to a lawful authority (the SDM), did not constitute the offence of defamation. The Court held that the appellant's actions were clearly covered by the Eighth Exception to Section 499 of the IPC. Therefore, it set aside the High Court's order and quashed the summons issued by the Magistrate."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the allegations made in a complaint in good faith addressed to a lawful authority (Sub Divisional Magistrate) make out an offence of defamation under Section 500 of the Indian Penal Code?",
+      "appellant_arguments": [
+        "The criminal proceedings for defamation should be quashed as the complaint containing the alleged defamatory statements was made in good faith to a lawful authority, the Sub Divisional Magistrate (SDM), and therefore does not constitute an offence."
+      ],
+      "respondent_arguments": [
+        "The respondent (original complainant) did not appear before the Supreme Court to present any arguments in opposition to the appeal."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "499",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "Eighth Exception to Section 499",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with regard to the subject-matter of the accusation.",
+    "obiter": [
+      "State has hardly any role to play."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court concluded that no case of defamation was made out against the appellant, and therefore the criminal proceedings were not justified. The court's reasoning was that the act of making an accusation in a complaint to a lawful authority (the Sub Divisional Magistrate) in good faith is explicitly protected from being defamation by Exception 8 to Section 499 of the Indian Penal Code. Furthermore, the court independently reviewed the allegations in the complaint and found that they did not constitute defamation.",
+    "legal_tests_applied": [
+      "Exception 8 to Section 499, Indian Penal Code: It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with regard to the subject-matter of accusation."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "procedural_history.impugned_order": [
+      "p5_7341dbb6"
+    ]
+  }
+}

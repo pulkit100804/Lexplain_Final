@@ -1,0 +1,105 @@
+{
+  "procedural_history": {
+    "originating_court": "Sessions Court",
+    "impugned_order": "Order dated April 27, 1967 of the Bombay High Court, Nagpur Bench in Criminal Appeal No. 74 of 1967.",
+    "high_court_proceedings": "The appellant challenged his conviction and sentence passed against him in the Sessions Court before the High Court of Bombay, in Criminal Appeal No. 74 of 1967. A Division Bench of the High Court summarily dismissed the appeal in one word 'dismissed'.",
+    "supreme_court_posture": "The appellant approached the Supreme Court by special leave. The Supreme Court granted special leave limited to the question of whether the High Court was justified in dismissing the appeal summarily. The Supreme Court allowed the appeal and remanded the case to the High Court for fresh disposal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Remanded"
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in summarily dismissing a criminal appeal that raised arguable, substantial, and important questions for consideration.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "An appellant was convicted by a Sessions Judge.",
+          "The conviction relied heavily on two pieces of evidence: (1) the testimony of a co-accused (Dilawar) from a previous, separate case, and (2) the statement of that same co-accused made during the current trial.",
+          "The appellant challenged his conviction in the High Court, arguing that the Sessions Judge committed a gross illegality by relying on this evidence.",
+          "The High Court dismissed the appeal summarily with a one-word order: \"dismissed\"."
+        ],
+        "law": [
+          "Under Section 421 of the Criminal Procedure Code (Cr.P.C.), an appellate court has the power to dismiss an appeal summarily if it finds no sufficient ground for interference.",
+          "However, Supreme Court precedent holds that this power should only be used in cases that are not arguable. If an appeal raises substantial and important questions, a summary dismissal is not justified.",
+          "The evidence of a witness from a prior case cannot be used against an accused who had no opportunity to cross-examine that witness.",
+          "The statement of a co-accused (under s. 342 Cr.P.C.) cannot be used as evidence against another accused in the same trial."
+        ],
+        "application": [
+          "The Supreme Court found that the appellant's appeal to the High Court was clearly an \"arguable one\" that raised \"substantial and important questions.\"",
+          "The Court identified that the Sessions Judge had committed \"very serious illegalities\" by relying on the two pieces of inadmissible evidence concerning the co-accused, Dilawar.",
+          "The appellant's challenge to the use of this inadmissible evidence was a significant legal point that required proper consideration.",
+          "By dismissing the appeal summarily, the High Court failed to notice or address these serious illegalities in the trial court's judgment.",
+          "The question of whether there was other, sufficient evidence to uphold the conviction (after excluding the illegal evidence) was a matter that the High Court was required to investigate as the court of appeal, which it failed to do."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was not justified in summarily dismissing the criminal appeal. The appeal raised arguable and substantial legal questions regarding the trial court's reliance on inadmissible evidence, and therefore, it required a full hearing and consideration on its merits."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in summarily dismissing a criminal appeal that raised arguable, substantial, and important questions for consideration.",
+      "appellant_arguments": [
+        "The Sessions Judge improperly convicted the appellant by relying on evidence given by a witness (Dilawar) in a separate trial where the appellant had no opportunity to cross-examine.",
+        "The Sessions Judge also wrongly used statements made by a co-accused (Dilawar) under s. 342, Cr.P.C. as evidence against the appellant.",
+        "The complaint against the appellant was filed without complying with the procedural requirement of giving the appellant an opportunity to be heard, as mandated by s. 479A, Cr.P.C.",
+        "These issues constitute substantial and arguable points of law, and therefore the High Court was not justified in dismissing the appeal summarily."
+      ],
+      "respondent_arguments": [
+        "The Sessions Judge had already considered and rejected the appellant's contention regarding the non-compliance with s. 479A, Cr.P.C.",
+        "Apart from the contested evidence, there was other evidence on record that the Sessions Judge considered for the conviction.",
+        "When the High Court dismissed the appeal summarily, it must be presumed that it agreed with the views and judgment of the Sessions Judge.",
+        "Therefore, the High Court was justified in its summary dismissal."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [],
+    "cases": [
+      {
+        "case_name": "Mushtak Hussein v. State of Bombay",
+        "citation": "(1953) S.C.R. 809",
+        "principle": "Summary rejection of appeals, which raise issues of substance and importance, was not justified.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Shreekanthiah Ramayya Munipalli v. State of Bombay",
+        "citation": "(1955) I S.C.R. 1177",
+        "principle": "Summary rejection of appeals, which raise issues of substance and importance, was not justified.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Chittaranjan Das v. State of West Bengal",
+        "citation": "(1964) 3 S.C.R. 237",
+        "principle": "Laid down that in dealing with criminal appeals, the summary rejection of appeals which raise issues of substance and importance is not justified.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "High Courts are not justified in summarily dismissing criminal appeals which raise arguable issues of substance and importance.",
+    "obiter": [
+      "In dealing with criminal appeals, High Courts should not summarily dismiss them."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The appeal before the High Court was an arguable one, and it also raised substantial and important questions for consideration by the High Court. Therefore, the High Court was not justified in dismissing the appeal summarily.",
+    "legal_tests_applied": [
+      "Whether a criminal appeal filed before a High Court raises any arguable, substantial, or important points for consideration."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "In dealing with criminal appeals brought before them, High Courts should not summarily reject them if they raise arguable and substantial points, as this ensures that issues of substance and importance are properly considered."
+    ]
+  },
+  "evidence_map": {}
+}

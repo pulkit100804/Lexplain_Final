@@ -1,0 +1,108 @@
+{
+  "procedural_history": {
+    "originating_court": "Supreme Court of India (Original Jurisdiction)",
+    "impugned_order": "Detention orders issued under the Jammu & Kashmir Preventive Detention Act, 1964.",
+    "high_court_proceedings": "N/A (Original Jurisdiction in Supreme Court)",
+    "supreme_court_posture": "Two detenues, Arshad Ahmad and Fazal Hussain, filed a joint petition under Article 32 of the Constitution of India, seeking a writ of habeas corpus to challenge their detention. The Supreme Court found the detention of Arshad Ahmad illegal and ordered his release. The petition of Fazal Hussain was dismissed."
+  },
+  "decision": {
+    "appeal_result": "Partially allowed",
+    "conviction_status": "Detention quashed",
+    "sentence_status": "To be released",
+    "directions": [
+      "In the result we hold that the detention of the petitioner Arshad Ahmad is illegal and he should be released.",
+      "The petition filed by the second petitioner must be dismissed."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether a detention becomes illegal if the detaining authority fails to either communicate the grounds of detention or inform the detenu that it is against the public interest to disclose the grounds, within the 10-day period prescribed by section 8 of the Jammu and Kashmir Preventive Detention Act, 1964.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner, Arshad Ahmad, was detained under the Jammu & Kashmir Preventive Detention Act, 1964, with the detention order being served on him on September 27, 1967.",
+          "The grounds for his detention were not communicated to him.",
+          "On October 25, 1967, well after the 10-day period from the start of his detention, he was served with an order stating that it was against the public interest to disclose the grounds of his detention."
+        ],
+        "law": [
+          "Section 8 of the Jammu and Kashmir Preventive Detention Act, 1964, mandates that the detaining authority must communicate the grounds of detention to the detenu as soon as possible, but no later than 10 days from the date of detention.",
+          "A proviso to Section 8 allows the authority to bypass this requirement by issuing an order informing the detenu that it is against the public interest to disclose the grounds, specifically in cases related to the security of the State."
+        ],
+        "application": [
+          "The Court interpreted Section 8 and its proviso together, applying a principle of harmonious construction.",
+          "It reasoned that the primary obligation is to provide the grounds within 10 days. If this is not done, the detention becomes illegal because the detenu is deprived of their statutory right to make a representation.",
+          "The purpose of the proviso is to provide an alternative to communicating the grounds, thereby preventing the detention from becoming illegal in sensitive cases.",
+          "Therefore, the power under the proviso (to issue a non-disclosure order) must be exercised within the same 10-day time limit. It is a substitute for communicating the grounds, not a tool to cure a delay.",
+          "Once the 10-day period expires without either the grounds being served or a non-disclosure order being issued, the detention has already become illegal.",
+          "A non-disclosure order issued after the 10-day limit, as in this case, cannot retroactively legalize a detention that has already become unlawful.",
+          "The Court emphasized that this interpretation is crucial for protecting the liberty of the subject and that 10 days is an ample period for the government to decide which action to take."
+        ],
+        "conclusion": "The Supreme Court accepted the petitioner's argument, holding that a detention becomes illegal if the detaining authority fails to either communicate the grounds of detention or inform the detenu under the proviso that it is against the public interest to disclose them, within the 10-day period prescribed by Section 8. A subsequent order of non-disclosure cannot render the illegal detention valid."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether a detention becomes illegal if the detaining authority fails to either communicate the grounds of detention or inform the detenu that it is against the public interest to disclose the grounds, within the 10-day period prescribed by section 8 of the Jammu and Kashmir Preventive Detention Act, 1964.",
+      "appellant_arguments": [
+        "The detention of the petitioner became illegal when the time for serving the grounds of detention had expired, as the order was served too late."
+      ],
+      "respondent_arguments": [
+        "If an order has been made under the proviso (stating that it is against the public interest to disclose the grounds), it does not matter whether the order is served beyond the ten-day period specified in section 8."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Jammu and Kashmir Preventive Detention Act, 1964",
+        "section": "s. 8",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Jammu and Kashmir Preventive Detention Act (IV of Sambat 2011)",
+        "section": "Not specified, but noted as having similar provisions to the 1964 Act",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Art. 32",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Abdul Jabar Butt v. State of Jammu and Kashmir",
+        "citation": "[1957] S.C.R. 51, 59",
+        "principle": "If the grounds for detention are not communicated within the prescribed time, the detention becomes illegal. The power to issue a declaration under the proviso (withholding the grounds in public interest) must be exercised before the time limit for communicating the grounds expires, otherwise the detention becomes illegal.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "If a detaining authority neither communicates the grounds of detention nor informs the detenu under the proviso within the statutorily prescribed time, the detention becomes illegal, and a subsequent order under the proviso cannot retroactively validate that illegal detention.",
+    "obiter": [
+      "From a practical point of view, the Government would not experience any difficulty in deciding within ten days whether the grounds should be served or not in the public interest, as all the material is with the Government when it passes the order of detention."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "If the detaining authority neither communicates the grounds of detention nor informs the detenu under the proviso to section 8 within 10 days of the detention, the detention becomes illegal. A subsequent order issued under the proviso after the 10-day period has lapsed does not have the effect of rendering the illegal detention legal.",
+    "legal_tests_applied": [
+      "Under the principle of harmonious construction of statutes, the power to issue a declaration under the proviso (that it is against the public interest to disclose grounds) must be exercised before the detention becomes illegal due to the failure to provide grounds. The proviso is meant to prevent the illegality, so it must be invoked before the illegality occurs."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "When the liberty of a subject is concerned, the court must adopt a construction that does not enable the executive to make an order under the proviso at any time after the lapse of the statutorily specified ten days.",
+      "From a practical standpoint, ten days is an ample period for the government to decide whether to serve the grounds or to invoke the public interest proviso, as all the necessary material is already with the government when it initially passes the detention order."
+    ]
+  },
+  "evidence_map": {
+    "arguments[0].appellant_arguments[0]": [
+      "p2_063ad6eb"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment and Order dated 25.01.2017 of the High Court of Orissa, Cuttack in Criminal Appeal No. 311 of 1992.",
+    "high_court_proceedings": "The accused, aggrieved by the trial court's conviction under Section 304 Part II of the I.P.C. and sentence of five years rigorous imprisonment, filed an appeal in the High Court of Orissa, Cuttack. The High Court dismissed the appeal by the impugned judgment.",
+    "supreme_court_posture": "The accused, aggrieved by the High Court's dismissal of his appeal, approached the Supreme Court by filing Criminal Appeal No. 1192 of 2018. The Supreme Court dismissed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the trial court and the High Court committed an error in convicting the appellant.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was convicted by the trial court under Section 304 Part II of the I.P.C.",
+          "The High Court dismissed the appellant's appeal, upholding the conviction.",
+          "The appellant argued to the Supreme Court that the lower courts' findings were based on surmises and conjectures, citing contradictions in evidence and the unreliability of the victim's statement."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court stated that it had personally \"gone through the evidence on record.\"",
+          "Upon its review, the Court was \"fully satisfied that the trial court did not commit any error in convicting the appellant.\"",
+          "The Court also found that the High Court had properly \"analysed the evidence on record and has rightly dismissed the appeal.\""
+        ],
+        "conclusion": "The Supreme Court concluded that there was no merit in the appeal, as both the trial court and the High Court had correctly analyzed the evidence to convict the appellant. Therefore, the appeal was dismissed."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether a hyper-technical view of a doctor's certification, stating only that the patient is conscious, is the correct enunciation of law for accepting a dying declaration.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "A dying declaration was recorded by a Judicial Magistrate.",
+          "A doctor's certificate attached to the declaration stated only that the patient was 'conscious'.",
+          "The Magistrate testified that before recording the statement, he asked the patient questions and was satisfied that she was in a 'fit state of mind' to give a declaration.",
+          "The defense argued that the declaration was invalid because the doctor's certificate did not explicitly state the patient was in a 'fit state of mind', relying on the precedent set in *Paparambaka Rosamma v. State of A.P.*"
+        ],
+        "law": [
+          "The Supreme Court had two conflicting precedents from three-judge benches: *Paparambaka Rosamma*, which took a strict view requiring a medical certificate of 'fit state of mind', and *Koli Chunilal Savji v. State of Gujarat*, which held that a declaration can be accepted if other materials on record show the deceased was conscious and capable of making a statement, even without a specific doctor's endorsement.",
+          "Due to this conflict, the issue was referred to a larger Constitution Bench for a final ruling."
+        ],
+        "application": [
+          "The Constitution Bench found that insisting on a doctor's certificate to explicitly state 'fit state of mind' while ignoring the Magistrate's own satisfaction was a 'hyper-technical view'.",
+          "The Court gave weight to the Magistrate's testimony, where he categorically stated that he had put questions to the patient and, from the answers, was satisfied that she was in a fit state of mind before he recorded the declaration.",
+          "The Court held that the subjective satisfaction of a Magistrate, who confirms the patient's fitness before recording the statement, is sufficient and should not be dismissed simply because the doctor's certificate used the word 'conscious' instead of 'fit state of mind'."
+        ],
+        "conclusion": "The Supreme Court rejected the hyper-technical view. It held that the law laid down in *Paparambaka Rosamma*, which required a specific medical certification of a 'fit state of mind', was incorrect. The Court affirmed the law from *Koli Chunilal Savji*, ruling that a dying declaration can be accepted based on the Magistrate's satisfaction of the patient's mental fitness, even if the doctor's certificate only states that the patient is 'conscious'."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the trial court and the High Court committed an error in convicting the appellant.",
+      "appellant_arguments": [
+        "The statement recorded by the Investigating Officer (I.O.) from the victim cannot be treated as a dying declaration because the death occurred more than three months later.",
+        "There are contradictions in the evidence of prosecution witness PW1 compared to other witnesses, particularly regarding who transported the injured to the hospital.",
+        "The victim became unconscious, making it unbelievable that he could have informed PW1 that the accused was the attacker.",
+        "The lower courts' findings are based on surmises and conjectures, not on the evidence on record.",
+        "The statement recorded under Section 161 Cr.P.C. cannot be treated as a dying declaration, citing the precedent in Laxman Vs. State of Maharashtra."
+      ],
+      "respondent_arguments": [
+        "The trial court and High Court correctly found the charge proven against the accused based on the evidence on record.",
+        "The courts did not err in relying on the statement made by the injured and recorded by the I.O.",
+        "The evidence of PW1, who was told by the deceased that the accused had assaulted him with acid, is credible and admissible under Section 32 of the Evidence Act as it relates to the cause of death.",
+        "The evidence of PW3, who carried the deceased to the hospital, further supports the prosecution's case."
+      ],
+      "court_acceptance": "respondent"
+    },
+    {
+      "issue_text": "Whether a hyper-technical view of a doctor's certification, stating only that the patient is conscious, is the correct enunciation of law for accepting a dying declaration.",
+      "appellant_arguments": [
+        "The statement of the injured should not be treated as a dying declaration based on the legal principles established in the Constitution Bench judgment of Laxman Vs. State of Maharashtra, which sets requirements for the validity of such declarations (implying procedural safeguards like certification of fitness were not met)."
+      ],
+      "respondent_arguments": [
+        "The law permits the prosecution to rely on a statement recorded under Section 161 CrPC as a dying declaration if the victim subsequently dies.",
+        "The nature and content of the statement allow it to be deemed a dying declaration under Section 32(1) of the Evidence Act, giving it the same credibility as a formally recorded one."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "32(1)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Evidence Act, 1872",
+        "section": "27",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "162(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Koli Chunilal Savji and Another Vs. State of Gujarat",
+        "citation": "(1999) 9 SCC 562",
+        "principle": "The legal view taken in this judgment was approved by the Constitution Bench to resolve a conflict with another decision.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Mukeshbhai Gopalbhai Barot v. State of Gujarat",
+        "citation": "(2010) 8 SCALE 477",
+        "principle": "The provided text does not specify the legal principle for which this case was relied upon.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Sri Bhagwan v. State of Uttar Pradesh",
+        "citation": "(2013) 12 SCC 137 : [2012] 12 SCR 774",
+        "principle": "The provided text does not specify the legal principle for which this case was relied upon.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Najjam Faraghi @ Nijjam Faruqui v. State of West Bengal",
+        "citation": "(1998) 2 SCC 45 : [1997] 5 Suppl. SCR 148",
+        "principle": "The provided text does not specify the legal principle for which this case was relied upon.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A statement may be relied upon as a dying declaration under Section 32(1) of the Evidence Act, based on its nature and content, and be given the same credence as a formally recorded dying declaration.",
+    "obiter": [
+      "A hyper-technical view regarding the specific wording of a doctor's certification on a dying declaration is not the correct enunciation of the law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Court, after its own perusal of the records, found that the trial court and High Court did not err in convicting the appellant, and affirmed that a hyper-technical view regarding the certification for a dying declaration is an incorrect enunciation of the law, thereby upholding the lower courts' reliance on the victim's statement.",
+    "legal_tests_applied": [
+      "A statement can be relied upon as a dying declaration under Section 32(1) of the Evidence Act based on its nature and content, giving it the credence applicable to a formally recorded declaration.",
+      "A doctor's certification for a dying declaration stating only that the patient is 'conscious' is sufficient, and requiring more is a 'hyper technical view' that is not a correct enunciation of law."
+    ],
+    "why_appellant_lost": [
+      "The appellant's challenge to the conviction failed because the Court, having gone through the evidence on record, was 'fully satisfied that the trial court did not commit any error in convicting the appellant.'",
+      "The argument that the victim's statement could not be treated as a dying declaration was rejected, as the court found it permissible for an authority to rely upon such a statement based on its 'nature and content' under Section 32(1) of the Evidence Act.",
+      "The appellant's reliance on a strict, procedural standard for dying declarations was incorrect, as the Court held that taking a 'hyper technical view that the certification of the doctor was to the effect that the patient is conscious' has been 'too broadly stated and is not the correct enunciation of law.'"
+    ],
+    "why_respondent_won": [
+      "The respondent's position was upheld because the Supreme Court, after analyzing the evidence, concurred with the lower courts, stating the High Court 'has rightly dismissed the appeal.'",
+      "The prosecution's reliance on the victim's statement as a dying declaration was validated by the principle that its 'nature and content' allow it to be deemed as such under Section 32(1) of the Evidence Act, commending 'all the credence that would be applicable to a dying declaration recorded and claimed as such.'",
+      "The respondent's stance against a rigid interpretation of procedural requirements for a dying declaration was affirmed when the court endorsed the Constitution Bench's view that a hyper-technical approach to doctor's certification is incorrect."
+    ],
+    "policy_considerations": [
+      "The law should not adopt a 'hyper technical view' regarding the procedural formalities of a dying declaration, such as the specific wording of a doctor's certificate, as doing so would be an incorrect enunciation of the law and could improperly exclude vital evidence."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[1].case_name": [
+      "p2_66b68c99"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "procedural_history": {
+    "originating_court": "Additional Sessions Judge (FTC), Kawardha (CG) in S.T. No. 50 of 2003",
+    "impugned_order": "Judgment and order dated 4th October, 2010 passed by the Division Bench of the High Court of Chhattisgarh at Bilaspur in Criminal Appeal No. 15 of 2004",
+    "high_court_proceedings": "The appellants preferred a Criminal Appeal before the High Court. The High Court dismissed the Criminal Appeal and confirmed the order of conviction and sentence awarded by the trial court.",
+    "supreme_court_posture": "Being aggrieved by the High Court's judgment, the appellants filed a Criminal Appeal before the Supreme Court."
+  },
+  "decision": {
+    "appeal_result": "Partly allowed.",
+    "conviction_status": "The conviction of the appellants under Section 302 IPC is altered to the one under Part I of Section 304 IPC.",
+    "sentence_status": "The appellants are sentenced to the period already undergone.",
+    "directions": [
+      "The appeal is partly allowed.",
+      "The conviction of the appellants under Section 302 IPC is altered to the one under Part I of Section 304 IPC.",
+      "The appellants are sentenced to the period already undergone."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the conviction would fall for the offence punishable u/s.302 IPC or under a lesser offence.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were convicted for murder under Section 302 IPC by both the trial court and the High Court.",
+          "The defense argued that the crime was committed without premeditation, in a sudden fight and heat of passion, and should therefore be a lesser offense under Section 304 IPC."
+        ],
+        "law": [
+          "The issue revolves around the distinction between murder, punishable under Section 302 of the Indian Penal Code (IPC), and culpable homicide not amounting to murder, punishable under Section 304 Part I of the IPC.",
+          "The legal principle of \"benefit of doubt\" allows for a conviction to be altered to a lesser offense if the prosecution has not proven the elements of the more serious charge beyond a reasonable doubt."
+        ],
+        "application": [
+          "The Supreme Court considered the possibility that the incident occurred as a result of a sudden quarrel, without premeditation, and was not committed in a cruel or unusual manner.",
+          "Based on this consideration, the Court found that the appellants were entitled to the benefit of the doubt regarding the charge of murder under Section 302 IPC."
+        ],
+        "conclusion": "The Supreme Court concluded that the conviction for murder under Section 302 IPC was not appropriate and altered it to the lesser offense of culpable homicide not amounting to murder, under Part I of Section 304 IPC."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the conviction would fall for the offence punishable u/s.302 IPC or under a lesser offence.",
+      "appellant_arguments": [
+        "In the alternative, it was submitted that the possibility of the deceased trying to dispossess the appellants from the land in question and the appellants committing the crime without premeditation in a sudden fight in the heat of passion upon a sudden quarrel cannot be denied.",
+        "It is, therefore, submitted that the offence, at the most, would fall under Part I or Part II of Section 304 IPC."
+      ],
+      "respondent_arguments": [
+        "Both the trial court and the High Court correctly appreciated the evidence and convicted the appellants for offences punishable under Section 302 of the IPC.",
+        "The present case is one of direct evidence, with a number of eyewitnesses supporting the prosecution's version.",
+        "No interference with the conviction is warranted."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "302",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "304 Part I",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "307",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "34",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A conviction under Section 302 of the Indian Penal Code (IPC) is to be altered to one under Part I of Section 304 of the IPC when the accused is entitled to the benefit of the doubt.",
+    "obiter": [
+      "When the testimony of eyewitnesses is credible, appellate courts have no reason to interfere with the concurrent findings of fact by lower courts that the death was caused by the injuries inflicted by the appellants."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the appellants were entitled to the benefit of the doubt, and therefore, the conviction under Section 302 of the Indian Penal Code (IPC) for murder was not sustainable and needed to be altered to a conviction for culpable homicide not amounting to murder under Part I of Section 304 IPC.",
+    "legal_tests_applied": [
+      "The court applied the principle of 'benefit of doubt' to determine whether the offence constituted murder under Section 302 IPC or a lesser offence under Section 304 IPC.",
+      "The court implicitly considered the exceptions to Section 300 IPC, specifically whether the appellants had acted in a 'cruel or unusual manner', to distinguish between murder and culpable homicide."
+    ],
+    "why_appellant_lost": [
+      "The appellant did not fully lose, as the conviction was reduced. However, they were not acquitted because the direct evidence from a number of eyewitnesses, as argued by the respondent, established their involvement in the fatal assault."
+    ],
+    "why_respondent_won": [
+      "The respondent did not fully win, as the murder conviction was overturned. However, they succeeded in upholding a conviction for culpable homicide because the direct evidence from eyewitnesses was sufficient to prove that the appellants had committed the act that led to the victim's death."
+    ],
+    "policy_considerations": [
+      "In determining the sentence, the court considered that the appellants had already undergone a sentence of more than 12 years and found that this period of incarceration would 'subserve the ends of justice'."
+    ]
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p1_63bec283"
+    ],
+    "arguments[0].issue_text": [
+      "p1_63bec283"
+    ]
+  }
+}

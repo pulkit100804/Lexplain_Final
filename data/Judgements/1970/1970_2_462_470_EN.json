@@ -1,0 +1,168 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court",
+    "impugned_order": "Judgment and order dated September 6, 1965 of the Allahabad High Court, Lucknow Bench in First Civil Appeals Nos. 62 and 71 of 1957.",
+    "high_court_proceedings": "Two appeals were preferred to the High Court of Allahabad against the judgments in the suit. The High Court held that a scheme of composition between the Company and its creditors confirmed by the Court had statutory operation and was binding on all creditors regardless of the fact whether any of them agreed.",
+    "supreme_court_posture": "Appeal by special leave from the judgment and order of the Allahabad High Court. The Supreme Court set aside the decree passed by the High Court and remanded the suit to the Trial Court to be disposed of in the light of the observations made in the judgment."
+  },
+  "decision": {
+    "appeal_result": "Set aside",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The suit be remanded to the Trial Court to be disposed of in the light of the observations made in this judgment.",
+      "There will be no order as to costs in the High Court and in this Court."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the plaintiff (Bank) is not entitled to file this suit as against the defendant No. 1 (the Company) without obtaining the leave of the Company Judge as alleged?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The plaintiff Bank filed a suit against the defendant Company, which was operating under a court-sanctioned scheme of composition.",
+          "The Bank did not obtain leave from the Company Judge before filing this suit.",
+          "The Trial Court and the High Court both held that the suit was not maintainable against the Company without the leave of the Company Judge and dismissed the suit."
+        ],
+        "law": [
+          "Under the sanctioned scheme of composition, a Board of Trustees was established to scrutinize and determine the principal amount due to unsecured creditors like the Bank.",
+          "The High Court interpreted the scheme to mean that while a creditor could file a suit to establish a claim, it had to be done with the leave of the court."
+        ],
+        "application": [
+          "The Supreme Court disagreed with the lower courts' decision to dismiss the suit.",
+          "It reasoned that while the scheme was binding and the amount due from the company had to be determined by the Board of Trustees, this did not render the suit itself invalid or non-maintainable.",
+          "The Court found that the correct procedural step was not to dismiss the suit but to stay it pending the outcome of the scheme's process."
+        ],
+        "conclusion": "The Supreme Court held that the High Court erred in dismissing the suit. Instead, the suit should have been stayed until the 'ultimate balance' due to the Bank from the Company was determined by the Board of Trustees under the scheme. Consequently, the Supreme Court rejected the finding that the suit was not maintainable for lack of leave and remanded the case."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the Court has no jurisdiction to decide on the merits of the plaintiff's claim in view of the facts as alleged in para 12 (A) of the written statement?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The defendant company had a scheme of composition with its creditors, which was confirmed by the Company Court.",
+          "Under this scheme, a Board of Trustees was appointed to scrutinize claims against the company, and their decision was to be final.",
+          "The defendant argued that because of this scheme, the civil court had no jurisdiction to adjudicate the merits of the bank's (plaintiff's) claim.",
+          "The Trial Court accepted this argument, holding it had no jurisdiction, and dismissed the suit."
+        ],
+        "law": [
+          "A court's jurisdiction is not necessarily ousted by a scheme of composition that provides an alternative mechanism for determining the amount of a debt.",
+          "The proper judicial procedure in such a case is to stay the proceedings, not to dismiss the suit for lack of jurisdiction."
+        ],
+        "application": [
+          "The Supreme Court found that the lower courts were wrong to dismiss the suit entirely.",
+          "It reasoned that the court should have stayed the suit, effectively putting it on hold, while the Board of Trustees determined the \"ultimate balance\" owed by the company as per the scheme.",
+          "Once that amount was determined by the Board, the court would then resume the case and proceed to pass a decree for that determined amount."
+        ],
+        "conclusion": "The Supreme Court rejected the argument that the court had no jurisdiction. It held that the court should not have dismissed the suit but should have stayed it pending the determination of the amount due by the Board of Trustees under the company's scheme. The case was remanded to the trial court with instructions to follow this procedure."
+      }
+    },
+    {
+      "issue": {
+        "issue_text": "Whether the suit against defendant No. 2 (Ranjit Singh) is not maintainable as pleaded under Paras 7, 13 and 14 of the written statement?",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "Ranjit Singh signed an \"agreement of guarantee\" for a loan the Bank gave to a Company.",
+          "The agreement specified that the guarantee was for the \"ultimate balance\" that would remain due to the Bank.",
+          "The lower courts had dismissed the suit against Ranjit Singh, arguing it was not maintainable because his liability would only arise after the Company's liability was determined by a Board of Trustees under a separate scheme and the Company then defaulted on that amount."
+        ],
+        "law": [
+          "Section 128 of the Indian Contract Act states that the liability of a surety (guarantor) is co-extensive with that of the principal debtor, unless the contract specifies otherwise."
+        ],
+        "application": [
+          "The Supreme Court first established that Ranjit Singh was, in fact, a surety for the Company's debt.",
+          "The Court then applied the principle of co-extensive liability from Section 128. This means the Bank had the right to sue the surety (Ranjit Singh) directly, just as it could sue the principal debtor (the Company).",
+          "The Court reasoned that the clause in the agreement referring to the \"ultimate balance\" did not act as a bar to filing the suit. Instead, this clause defined the *amount* for which Ranjit Singh would be liable.",
+          "Therefore, the question was not whether the suit was maintainable, but rather what the extent of Ranjit Singh's liability was under the terms of the bond."
+        ],
+        "conclusion": "The Supreme Court rejected the lower courts' decisions and held that the suit against Ranjit Singh was maintainable. It remanded the case back to the trial court to determine the extent of his liability by calculating the \"ultimate balance\" due under the guarantee."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the plaintiff (Bank) is not entitled to file this suit as against the defendant No. 1 (the Company) without obtaining the leave of the Company Judge as alleged?",
+      "appellant_arguments": [
+        "The Bank implicitly argued that it was entitled to file the suit without leave, likely based on clause 16 of the scheme which permitted creditors to file suits to establish their claims."
+      ],
+      "respondent_arguments": [
+        "The suit was not maintainable without obtaining the leave of the Company Judge. The scheme of composition, confirmed by the Court, had statutory operation and required leave to be sought before filing a suit."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the Court has no jurisdiction to decide on the merits of the plaintiff's claim in view of the facts as alleged in para 12 (A) of the written statement?",
+      "appellant_arguments": [
+        "The civil court has jurisdiction to hear the suit and determine the amount due. By filing the suit, the Bank asserted the court's authority over the matter."
+      ],
+      "respondent_arguments": [
+        "The Court has no jurisdiction to determine the amount payable. Under clause 12 of the approved scheme of composition, it was for the Board of Trustees, not the court, to determine the principal amount due to unsecured creditors like the Bank."
+      ],
+      "court_acceptance": "appellant"
+    },
+    {
+      "issue_text": "Whether the suit against defendant No. 2 (Ranjit Singh) is not maintainable as pleaded under Paras 7, 13 and 14 of the written statement?",
+      "appellant_arguments": [
+        "The suit against Ranjit Singh is maintainable. As a guarantor for the 'ultimate balance' due on the account, his liability is co-extensive with the Company's, and the suit is not premature."
+      ],
+      "respondent_arguments": [
+        "The suit is not maintainable and is premature. Ranjit Singh was 'only a guarantor and not a co-debtor' and could only be held liable after the Company's liability was determined by the Board of Trustees and the Company subsequently defaulted on that determined amount. Since this had not happened, there was no default to trigger his liability."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Contract Act",
+        "section": "128",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Companies Act, 1956",
+        "section": "391",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Re. Garner's Motors Ltd.",
+        "citation": "(')",
+        "principle": "A scheme of composition, when sanctioned by the Court, has a statutory operation and does not release other persons not parties to the scheme from their obligations.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "A scheme of composition between a company and its creditors, when sanctioned by the Court, has statutory operation and is binding on all creditors of the relevant class, regardless of whether they individually agreed to it. However, such a scheme does not release persons who are not parties to the scheme, such as sureties, from their obligations.",
+    "obiter": [
+      "The Court has the power to supervise the carrying out of a compromise or arrangement and may give directions or make modifications as it considers necessary for the proper working of the arrangement."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The suit was maintainable against both the Company and the guarantor, and the court had jurisdiction without requiring leave from the Company Judge. However, the High Court erred in dismissing the suit. The correct procedure was to stay the suit because the guarantor's liability was expressly for 'the ultimate balance' remaining due to the Bank. Therefore, until that ultimate balance is determined by the Board of Trustees under the sanctioned scheme, no liability to pay arises for the guarantor, and a decree for a specific amount cannot be passed against him.",
+    "legal_tests_applied": [
+      "Interpretation of a contract of guarantee, specifically the condition precedent for the guarantor's liability to arise, which in this case was the determination of the 'ultimate balance'.",
+      "Analysis of the procedural interaction between a civil suit and a court-sanctioned scheme of composition, determining that a suit to establish a claim can be filed but its final adjudication may need to be stayed pending the outcome of the scheme's internal processes."
+    ],
+    "why_appellant_lost": [
+      "The appellant (Bank) failed to secure an immediate decree for the amount claimed because the guarantor's liability had not yet crystallized. The court found that 'unless and until the ultimate balance is determined no liability on Ranjit Singh to pay the amount arises, and it is common ground that the ultimate balance due is not determined.'",
+      "The Bank's specific claim for Rs. 2,56,877/12/6 was deemed premature for a decree, as 'the claim against Ranjit Singh could be decreed only for the amount remaining due as the ultimate balance under els. 4 and 5 of the bond.'"
+    ],
+    "why_respondent_won": [
+      "The respondent (Ranjit Singh) successfully argued that his liability was contingent and not immediate. The court agreed, reasoning that 'By clause 4 it is expressly stipulated that the bond secured \"the ultimate balance\" remaining due to the Bank.'",
+      "The respondent prevailed in establishing that while the suit itself was maintainable, a decree for payment could not be passed against him until the pre-condition—the determination of the ultimate balance by the Board of Trustees—was fulfilled."
+    ],
+    "policy_considerations": [
+      "The provided text does not contain any explicit policy considerations; the reasoning is based strictly on the interpretation of the guarantee bond and the procedural implications of the scheme of composition."
+    ]
+  },
+  "evidence_map": {}
+}

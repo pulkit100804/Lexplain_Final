@@ -1,0 +1,137 @@
+{
+  "procedural_history": {
+    "originating_court": "Not explicitly stated, but implied to be a trial court in Karnataka, likely under the jurisdiction of the Kakati Police Station.",
+    "impugned_order": "Judgment and Order dated 15.12.2011 of the High Court of Karnataka Circuit Bench at Dharwad in CRLA No.2806 of 2010.",
+    "high_court_proceedings": "The State of Karnataka appealed a decision (presumably an acquittal or lesser conviction) to the High Court. The High Court then convicted the accused-appellant (Kamaruddin Dastagir Sanadi) under Sections 417 and 306 IPC.",
+    "supreme_court_posture": "Kamaruddin Dastagir Sanadi appealed the High Court's decision to the Supreme Court. The Supreme Court allowed the appeal, set aside the High Court's judgment, and acquitted the appellant."
+  },
+  "decision": {
+    "appeal_result": "The appeal is allowed.",
+    "conviction_status": "The accused-appellant stands acquitted.",
+    "sentence_status": "The judgment and order of the High Court dated 15.12.2011 is set aside.",
+    "directions": [
+      "No order as to cost."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in reversing the acquittal of the appellant-accused and convicting him under Sections 417, 306 IPC.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellant was accused of promising to marry the deceased and then refusing to do so.",
+          "Following his refusal, the deceased committed suicide by consuming poison.",
+          "The trial court acquitted the appellant of all charges (Sections 417, 376, and 306 IPC), noting that the deceased's dying declaration did not allege that the appellant instigated her to commit suicide, only that she took poison because he refused to marry her.",
+          "On an appeal by the State, the High Court reversed the trial court's decision and convicted the appellant under Sections 417 (cheating) and 306 (abetment of suicide) IPC."
+        ],
+        "law": [
+          "To convict a person for abetment of suicide under Section 306 IPC, there must be a clear 'mens rea' (guilty intention) to commit the offence.",
+          "The law also requires an act of instigation or provocation that leads the deceased to commit suicide."
+        ],
+        "application": [
+          "The Supreme Court found there was \"no iota of evidence\" to prove that the appellant had instigated, aided, or provoked the deceased to commit suicide.",
+          "The Court determined that no guilty intention or 'mens rea' on the part of the appellant had been established.",
+          "It reasoned that even if the appellant had promised to marry the deceased and then broke that promise, it would be a simple case of a broken relationship, which does not, by itself, constitute an offence of abetment of suicide under the specific facts of the case."
+        ],
+        "conclusion": "The Supreme Court concluded that the High Court was not justified in reversing the acquittal. It found that the necessary legal elements for cheating and abetment of suicide, particularly the requirement of 'mens rea' and instigation, were not proven. Therefore, the Court set aside the High Court's judgment and acquitted the appellant, restoring the trial court's decision."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in reversing the acquittal of the appellant-accused and convicting him under Sections 417, 306 IPC.",
+      "appellant_arguments": [
+        "There is no iota of evidence on record to prove abetment of suicide or cheating on the part of the accused-appellant.",
+        "The High Court is not justified in reversing the decision of acquittal passed by the trial court."
+      ],
+      "respondent_arguments": [
+        "The accused-appellant had deceived the deceased by promising to marry her.",
+        "The appellant's subsequent refusal to marry the deceased led to her committing suicide in frustration.",
+        "The appellant's actions of promising and then refusing to marry the deceased constitute the offenses of cheating under Section 417 IPC and abetment of suicide under Section 306 IPC."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Indian Penal Code",
+        "section": "306",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "417",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Indian Penal Code",
+        "section": "107",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Ramesh Kumar v. State of Chhattisgarh",
+        "citation": "[2001] Supp. 4 SCR 247 : (2001) 9 SCC 618",
+        "principle": "For a person to be charged with abetment, 'instigation' to do a particular thing is a necessary ingredient.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "M. Mohan v. State represented by the Deputy Superintendent of Police",
+        "citation": "[2011] 3 SCR 437 : (2011) 3 SCC 626",
+        "principle": "For a person to be charged with abetment, 'instigation' to do a particular thing is a necessary ingredient.",
+        "used_by_court": true
+      },
+      {
+        "case_name": "Amalendu Pal alias Jhantu v. State of West Bengal",
+        "citation": "[2009] 15 SCR 836 : (2010) 1 SCC 707",
+        "principle": "For a person to be charged with abetment, 'instigation' to do a particular thing is a necessary ingredient.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "To convict a person for abetment of suicide under Section 306 of the Indian Penal Code, there must be a clear mens rea to commit the offense. A refusal to marry, resulting in a broken relationship, does not by itself constitute the requisite instigation, incitement, or provocation to amount to abetment of suicide.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "When the accused-appellant simply refused to marry the deceased, it is considered only a case of a broken relationship which by itself would not amount to abetment to suicide, especially when the appellant had not provoked the deceased in any manner and the deceased had a predetermined mind to commit suicide if her proposal was rejected.",
+    "legal_tests_applied": [
+      "To convict a person under Section 306 IPC, there has to be a clear mens rea to commit the offence.",
+      "Abetment requires either instigating a person to do a thing, engaging in a conspiracy to do it, or intentionally aiding the doing of that thing by an act or illegal omission."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [
+      "The accused-appellant had simply refused to marry the deceased, and a broken relationship by itself does not amount to abetment to suicide.",
+      "The appellant had not provoked, instigated, or incited the deceased in any manner to kill herself.",
+      "The deceased demonstrated a predetermined mind to commit suicide by carrying poison with her, indicating that the appellant's refusal to marry was not the instigation for the act but a trigger for her pre-existing intention."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "issues[0].issue.issue_text": [
+      "p1_b535f7a6"
+    ],
+    "issues[0].reasoning.law[0]": [
+      "p8_0450ad42"
+    ],
+    "arguments[0].issue_text": [
+      "p1_b535f7a6"
+    ],
+    "arguments[0].appellant_arguments[0]": [
+      "p5_a3361e9e"
+    ],
+    "citations.cases[0].citation": [
+      "p8_9a702021"
+    ],
+    "citations.cases[2].case_name": [
+      "p2_af312d62"
+    ],
+    "ratio_decidendi.ratio": [
+      "p8_0450ad42"
+    ]
+  }
+}

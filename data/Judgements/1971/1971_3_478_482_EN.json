@@ -1,0 +1,101 @@
+{
+  "procedural_history": {
+    "originating_court": "Court of the Sessions Judge, Burdwan",
+    "impugned_order": "Judgment and order dated September 13, 1967 of the Calcutta High Court in Criminal Reference No. 36 of 1967.",
+    "high_court_proceedings": "The Additional Sessions Judge, Burdwan, made a reference to the High Court recommending the appellant's acquittal after the appellant challenged his conviction on revision. The High Court accepted the recommendation with respect to one section but sustained the conviction under another section.",
+    "supreme_court_posture": "The appellant appealed to the Supreme Court by special leave challenging the High Court's judgment and order."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Supreme Court should exercise its discretionary power under Article 136 of the Constitution to interfere in a case that does not involve a grave miscarriage of justice.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [],
+        "law": [
+          {
+            "fact_text": "Article 136 of the Constitution does not confer a right of appeal on a party.",
+            "law_text": "Article 136 of the Constitution does not confer a right of appeal on a party."
+          },
+          {
+            "fact_text": "It only confers a discretionary power on this Court to be exercised sparingly to interfere in suitable cases where grave miscarriage of justice has resulted from 'illegality or from misapprehension or mistake in reading evidence or from ignoring, excluding or illegally admitting material evidence.",
+            "law_text": "The Supreme Court's discretionary power under Article 136 is to be exercised sparingly and only in cases where a grave miscarriage of justice has occurred due to illegality or errors in handling evidence."
+          }
+        ],
+        "application": [
+          {
+            "fact_text": "The present case suffers from no such infirmity.",
+            "application_text": "The Court found that the current case did not involve a grave miscarriage of justice or any of the other legal or evidentiary errors that would justify its interference."
+          }
+        ],
+        "conclusion": "Because the case did not suffer from any infirmity amounting to a grave miscarriage of justice, the Supreme Court decided not to exercise its discretionary power under Article 136 to interfere."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Supreme Court should exercise its discretionary power under Article 136 of the Constitution to interfere in a case that does not involve a grave miscarriage of justice.",
+      "appellant_arguments": [
+        "The appellant implicitly argued that the court should exercise its discretionary power under Article 136, as their counsel attempted to demonstrate that there was a misapprehension or mistake in the reading of the evidence by the lower courts, which would constitute a miscarriage of justice warranting the Supreme Court's intervention."
+      ],
+      "respondent_arguments": [
+        "The respondent did not appear and therefore presented no arguments."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Bengal Ferries Act, 1885",
+        "section": "23",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Bengal Ferries Act, 1885",
+        "section": "24",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 136",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "A person who demands or receives payment under the pretext that it is a lawful toll, when it is not legally due, commits an offense under Section 24 of the Act. This applies regardless of whether the person from whom the payment is demanded is legally obligated to pay a lesser toll or no toll at all.",
+    "obiter": [
+      "Article 136 of the Constitution does not confer a right of appeal on a party; it confers a discretionary power on the Supreme Court to be exercised sparingly in cases of grave miscarriage of justice.",
+      "The court noted that the appellant had also delayed prosecution witnesses without due cause, which would also be a violation of the statute, but found it unnecessary to pursue this aspect."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The Supreme Court's power under Article 136 of the Constitution is not a right of appeal for a party but a discretionary power to be used sparingly. The Court will only interfere in suitable cases where a grave miscarriage of justice has resulted from specific errors like illegality, misapprehension of evidence, or the improper handling of material evidence. As the present case did not suffer from any such infirmity, the Court declined to exercise its power.",
+    "legal_tests_applied": [
+      "Under Article 136, the court will only interfere in cases where a 'grave miscarriage of justice has resulted from 'illegality or from misapprehension or mistake in reading evidence or frQm ignoring, excluding or illegally admitting material evidence.'"
+    ],
+    "why_appellant_lost": [
+      "The appellant failed to demonstrate that the case involved a grave miscarriage of justice or any of the specific legal or evidentiary errors required to trigger the Court's discretionary power, as the Court concluded, 'The present case suffers from no such infirmity.'"
+    ],
+    "why_respondent_won": [
+      "The respondent prevailed because the appellant did not meet the high threshold for the Supreme Court to exercise its discretionary power under Article 136, leading the Court to uphold the lower court's decision by refusing to interfere."
+    ],
+    "policy_considerations": [
+      "The discretionary power under Article 136 of the Constitution is to 'be exercised sparingly' to ensure the Supreme Court only intervenes in cases of grave injustice, rather than acting as a regular court of appeal."
+    ]
+  },
+  "evidence_map": {
+    "issues[0].reasoning.application[0].fact_text": [
+      "p5_c674bdff"
+    ]
+  }
+}

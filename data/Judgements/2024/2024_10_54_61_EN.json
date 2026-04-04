@@ -1,0 +1,110 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred, as the High Court heard appeals)",
+    "impugned_order": "Judgment and Order dated 16.03.2011 passed by the High Court of Himachal Pradesh at Shimla in Criminal Appeal No. 97 of 2000 and Criminal Appeal No. 325 of 2000.",
+    "high_court_proceedings": "The High Court of Himachal Pradesh at Shimla heard two criminal appeals: Criminal Appeal No. 97 of 2000 preferred by Parveen Kumar, and Criminal Appeal No. 325 of 2000 preferred by the State of Himachal Pradesh. The High Court issued a common Judgment and Order dated 16.03.2011 for both appeals.",
+    "supreme_court_posture": "Parveen Kumar appealed the High Court's decision to the Supreme Court. The Supreme Court dismissed the appeals, finding them devoid of merit."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Upheld",
+    "sentence_status": "Upheld",
+    "directions": []
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the High Court was justified in convicting and sentencing the husband under Sections 498A and 306 of the Indian Penal Code for subjecting the victim-wife to cruelty and forcing her to commit suicide.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The victim-wife committed suicide by consuming aluminum phosphide tablets within two years of her marriage to the appellant-husband.",
+          "During her lifetime, the wife had filed three separate legal cases against her husband: an FIR for cruelty (Section 498-A), a complaint under the CrPC, and a case for maintenance for herself and her child.",
+          "The husband argued that a suicide note stated the wife took her life due to intolerable pain and illness, not cruelty.",
+          "The husband did not immediately inform the wife's parents about her death."
+        ],
+        "law": [
+          "Section 498-A of the Indian Penal Code (IPC) defines 'cruelty' as any willful conduct likely to drive a woman to commit suicide or cause grave injury, or harassment for unlawful demands.",
+          "Section 306 of the IPC punishes the abetment of suicide.",
+          "Section 113A of the Evidence Act allows a court to presume that a husband abetted his wife's suicide if she commits suicide within seven years of marriage AND it is proven that he subjected her to cruelty."
+        ],
+        "application": [
+          "The Court found that the cruelty charge under Section 498-A was proven, relying on the undisputed fact that the deceased had filed three legal cases against her husband for harassment and cruelty during her lifetime.",
+          "The Court rejected the husband's defense based on the alleged suicide note, noting that the note was not properly admitted into evidence. Furthermore, the husband's failure to promptly inform his in-laws of the death was seen as evidence of his guilt.",
+          "The Court determined that the conditions for applying the presumption under Section 113A of the Evidence Act were met: the suicide occurred within seven years of marriage, and the husband's cruelty was established.",
+          "Given these established facts, the Court concluded that the High Court was justified in exercising its discretion to raise the presumption under Section 113A and hold that the husband's cruelty had abetted the wife's suicide."
+        ],
+        "conclusion": "The Supreme Court found no error in the High Court's judgment and upheld the husband's conviction under both Sections 498-A (cruelty) and 306 (abetment of suicide) of the IPC."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the High Court was justified in convicting and sentencing the husband under Sections 498A and 306 of the Indian Penal Code for subjecting the victim-wife to cruelty and forcing her to commit suicide.",
+      "appellant_arguments": [
+        "The suicide was committed by the deceased due to her intolerable pain and illness, as stated in the suicide note (Exhibit DF), and not because of any cruelty from the appellant.",
+        "The conviction could not be based on conjectures and surmises.",
+        "Two defense witnesses (neighbors) testified that the relationship between the appellant and his wife was cordial."
+      ],
+      "respondent_arguments": [
+        "The appellant attempted to mislead the investigation by claiming the deceased consumed poison by mistake.",
+        "The death occurred within two years of the marriage, and during that time, the deceased had filed three complaints against the appellant for harassment and cruelty.",
+        "Given the circumstances, the presumption under Section 113A of the Evidence Act was correctly raised by the High Court to convict the appellant for abetment of suicide under Section 306 IPC.",
+        "The testimony of the two defense witnesses did not inspire any confidence."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "498-A",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Penal Code, 1860",
+        "section": "306",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Evidence Act, 1872",
+        "section": "113A",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Naresh Kumar v. State of Haryana",
+        "citation": "[2024] 2 SCR 830 : 2024 (3) SCC 573",
+        "principle": "Conviction could not be based on conjectures and surmises.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "The provided text, which includes case citations, procedural outcomes, and references to legal provisions, does not contain the court's reasoning or judgment; therefore, no binding legal rule can be extracted.",
+    "obiter": []
+  },
+  "judicial_reasoning": {
+    "core_finding": "The High Court was justified in convicting the appellant for both cruelty under Section 498-A IPC and abetment of suicide under Section 306 IPC. The prosecution established that the deceased committed suicide within seven years of marriage and that the husband had subjected her to cruelty, which correctly triggered the presumption of abetment under Section 113A of the Indian Evidence Act.",
+    "legal_tests_applied": [
+      "Presumption of abetment of suicide by a married woman under Section 113A of the Indian Evidence Act, which applies if: (1) the suicide is committed within a period of seven years from the date of her marriage, and (2) her husband had subjected her to cruelty.",
+      "Definition of 'cruelty' under Section 498-A of the Indian Penal Code."
+    ],
+    "why_appellant_lost": [
+      "The appellant's claim that the suicide was due to illness, based on a suicide note (Exhibit DF), was rejected because the note did not appear to have been duly exhibited for being admitted into evidence.",
+      "The testimony of two defense witnesses who claimed the couple's relationship was cordial was found not to inspire any confidence, as it was contradicted by the undisputed and proven fact that the deceased had filed three separate legal cases against the appellant for harassment and cruelty during her lifetime.",
+      "The appellant's conduct of not bothering to inform the deceased's parents immediately after the incident \"smacked of his guilt.\"",
+      "The courts below had concurrently found the appellant guilty of subjecting the deceased to cruelty under Section 498-A IPC based on the evidence, including the three prior complaints filed by the victim."
+    ],
+    "why_respondent_won": [
+      "The prosecution successfully proved the foundational facts required to invoke the presumption under Section 113A of the Evidence Act: the deceased committed suicide within seven years of her marriage, and the husband had subjected her to cruelty as contemplated in Section 498-A.",
+      "The existence of three prior legal cases filed by the deceased against the appellant—an FIR under Sections 498-A and 506, a complaint under Section 107/151 CrPC, and a case for maintenance under Section 125 CrPC—served as undisputed and proven evidence of the cruelty she was subjected to.",
+      "With the element of cruelty established, the High Court was correct to raise the presumption under Section 113A to hold that the suicide was abetted by the appellant."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {}
+}

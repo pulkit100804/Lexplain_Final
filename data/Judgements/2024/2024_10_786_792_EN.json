@@ -1,0 +1,106 @@
+{
+  "procedural_history": {
+    "originating_court": "Motor Accident Claims Tribunal",
+    "impugned_order": "Judgment and order dated 23.07.2019 passed by the High Court of Kerala in MACA No. 3331 of 2016.",
+    "high_court_proceedings": "The appellants filed an appeal (MACA No. 3331 of 2016) in the High Court of Kerala challenging the Award passed by the Motor Accident Claims Tribunal. The High Court dismissed the appeal, affirming the Tribunal's decision.",
+    "supreme_court_posture": "The appellants appealed to the Supreme Court challenging the High Court's judgment. The Supreme Court allowed the appeal."
+  },
+  "decision": {
+    "appeal_result": "Allowed",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "The parties shall bear their own costs."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the Motor Accident Claims Tribunal was justified in dismissing the claim petition of the appellants on the ground that they failed to prove that the accident occurred due to the negligent driving of the respondent driver, and that the car was involved in the accident.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants (family of the deceased) filed a claim after the deceased died in a motorcycle accident.",
+          "They alleged the deceased was knocked down by a car driven by respondent no. 2.",
+          "The respondents denied the car's involvement, claiming the deceased hit a parked bus and fell.",
+          "The Motor Accident Claims Tribunal (MACT) calculated a potential compensation of Rs. 46,31,496 but dismissed the claim, finding the appellants failed to prove the car's involvement or the driver's negligence.",
+          "The High Court upheld the MACT's dismissal."
+        ],
+        "law": [
+          "In motor accident claim cases, the standard of proof is the \"preponderance of probability,\" not the stricter criminal standard of \"proof beyond a reasonable doubt.\"",
+          "An eyewitness who is otherwise found to be trustworthy cannot be disbelieved solely on the ground that the police did not record their statement during the investigation.",
+          "The Supreme Court can re-examine evidence if the findings of lower courts are perverse, manifestly wrong, or have an error apparent on the face of the record."
+        ],
+        "application": [
+          "The Supreme Court found the lower courts' decision to be perverse and re-examined the evidence.",
+          "It held that the lower courts were wrong to disbelieve the eyewitness (PW-6) simply because the police had not examined him.",
+          "The Court pointed to crucial physical evidence that the lower courts had overlooked: a police report (Mahazar) and a final police report, both of which documented specific damage to the front of the car (broken bumper, broken parking light, curved grill).",
+          "Applying the \"preponderance of probability\" standard, the Court reasoned that this damage to the front of the car made it impossible to conclude that the car was not involved in the accident. The evidence strongly suggested a collision had occurred."
+        ],
+        "conclusion": "The Supreme Court rejected the decisions of the lower courts. It concluded that, based on the principle of preponderance of probability and the physical evidence of damage to the car, the car was indeed involved in the accident. Therefore, the Court set aside the dismissal of the claim and awarded the appellants the compensation of Rs. 46,31,496/- plus interest."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the Motor Accident Claims Tribunal was justified in dismissing the claim petition of the appellants on the ground that they failed to prove that the accident occurred due to the negligent driving of the respondent driver, and that the car was involved in the accident.",
+      "appellant_arguments": [
+        "There is ample evidence demonstrating the car's involvement in the accident, and the findings to the contrary by the lower courts are perverse.",
+        "The MACT and the High Court based their adverse findings on conjectures, surmises, and a complete misreading of the evidence.",
+        "The lower courts failed to consider the witness statements in conjunction with the principle of res ipsa loquitur (the thing speaks for itself)."
+      ],
+      "respondent_arguments": [
+        "The lower courts correctly held that the car was not involved in the accident.",
+        "None of the witnesses actually saw the car hitting the motorcycle driven by the deceased.",
+        "The findings of the two lower courts were made after a careful examination of the evidence and do not warrant interference by the Supreme Court."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 136",
+        "used_by_court": true
+      }
+    ],
+    "cases": [
+      {
+        "case_name": "Mangla Ram v. Oriental Insurance Co. Ltd. & Ors.",
+        "citation": "[2018] 5 SCR 287 : (2018) 5 SCC 656",
+        "principle": "In an appeal under Article 136 of the Constitution of India, while the Supreme Court will not ordinarily engage in reappreciation of evidence, it can examine the evidence on record to consider a challenge to findings that are perverse, replete with error apparent on the face of the record, or manifestly wrong.",
+        "used_by_court": true
+      }
+    ]
+  },
+  "ratio_decidendi": {
+    "ratio": "In motor accident claim cases, the standard of proof is the preponderance of probability, not proof beyond a reasonable doubt. A witness who is otherwise found trustworthy cannot be disbelieved solely on the ground that the police did not record their statement during the investigation.",
+    "obiter": [
+      "While the Supreme Court ordinarily will not engage in the reappreciation of evidence, it can examine the evidence on record to consider a challenge to findings by a lower court or tribunal if those findings are perverse, replete with error apparent on the face of the record, or manifestly wrong."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The evidence available in the present case, when tested on the principles of preponderance of probability, can only lead to one finding: that the car was involved in the accident. The Mahazar clearly records damage to the front of the car—a broken bumper, a broken parking light, and a curved grill. With such damages, it is impossible to record a finding that the car was not involved in the accident. The lower courts' findings to the contrary are perverse and are set aside.",
+    "legal_tests_applied": [
+      "In claim cases arising out of a motor accident, the court must apply the principles of preponderance of probability and cannot apply the test of proof beyond a reasonable doubt.",
+      "Ordinarily, the Supreme Court will not engage in the reappreciation of evidence, but it can certainly examine the evidence on record to consider a challenge to findings that are perverse, replete with error apparent on the face of the record, or manifestly wrong."
+    ],
+    "why_appellant_lost": [
+      "The lower courts disbelieved the eyewitness, PW-6, for the sole reason that the police had not recorded his statement during the investigation.",
+      "The lower courts failed to consider the evidence in its true perspective and misguided themselves, leading to a perverse finding that the car was not involved in the accident."
+    ],
+    "why_respondent_won": [
+      "The respondent succeeded in the lower courts because those courts recorded a finding of non-involvement of the car by disbelieving the eyewitness on the grounds that he was not examined during the police investigation."
+    ],
+    "policy_considerations": [
+      "A witness who is otherwise found trustworthy cannot be disbelieved in a motor accident case only on the ground that the police have not recorded his statement during the investigation."
+    ]
+  },
+  "evidence_map": {
+    "citations.cases[0].case_name": [
+      "p2_e3ba8874"
+    ]
+  }
+}

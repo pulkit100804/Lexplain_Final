@@ -1,0 +1,41 @@
+{
+  "case_id": "10c4276a-98be-4d6a-b920-ced2e893089b",
+  "tenant_id": "case1_tenant",
+  "agent": "agent_5a_legal_fact_normalizer",
+  "input_refs": [
+    "event_graph.json"
+  ],
+  "created_at": "2026-03-19T11:49:21.824151+00:00",
+  "legal_facts": [
+    {
+      "fact_id": "lf_001",
+      "type": "use_of_force",
+      "original_action": "struck",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_001",
+      "actor": "accused",
+      "target": "victim",
+      "object": "iron rod"
+    },
+    {
+      "fact_id": "lf_002",
+      "type": "causing_death",
+      "original_action": "died",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_002",
+      "actor": null,
+      "target": null,
+      "object": null
+    },
+    {
+      "fact_id": "lf_003",
+      "type": "evidence_present",
+      "original_action": "recovered",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_003",
+      "actor": null,
+      "target": null,
+      "object": "iron rod"
+    }
+  ]
+}

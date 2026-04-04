@@ -1,0 +1,108 @@
+{
+  "procedural_history": {
+    "originating_court": "Trial Court (inferred, as the High Court decision is an appeal)",
+    "impugned_order": "Judgment and Order dated 14.08.2008 of the High Court of Madras at Madurai Bench in Criminal Appeal No. 875 of 2002",
+    "high_court_proceedings": "The High Court of Madras at Madurai Bench dismissed Criminal Appeal No. 875 of 2002.",
+    "supreme_court_posture": "The appellant(s) appealed the High Court's decision to the Supreme Court. The Supreme Court dismissed the appeals."
+  },
+  "decision": {
+    "appeal_result": "Dismissed",
+    "conviction_status": "Maintained",
+    "sentence_status": "Maintained",
+    "directions": [
+      "The appellants are to surrender to custody within a period of eight weeks to serve the remaining sentence failing which they shall be taken to custody.",
+      "A copy of this order be sent to the concerned trial court for necessary action."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the criminal appeals filed against the judgment of the High Court of Madras should be allowed.",
+        "court_answer": "rejected"
+      },
+      "reasoning": {
+        "facts": [
+          "The appellants were convicted under Sections 7 and 13(2) read with Section 13(1)(d) of the Prevention of Corruption Act, 1988, and sentenced to one year of rigorous imprisonment.",
+          "The appellants' counsel argued that the evidence of a key witness (PW-2) was uncorroborated, that one appellant (A-1) did not receive any money, and that there was no evidence of a demand by the other appellant (A-2)."
+        ],
+        "law": [],
+        "application": [
+          "The Supreme Court heard the arguments from the appellants' counsel.",
+          "The Court considered these submissions and reviewed the depositions of the witnesses, the lower court's judgment, and the other materials on record."
+        ],
+        "conclusion": "After reviewing the arguments and the case materials, the Court dismissed the appeals and ordered the appellants to surrender to custody to serve their sentences."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the criminal appeals filed against the judgment of the High Court of Madras should be allowed.",
+      "appellant_arguments": [
+        "The evidence of the key witness (PW-2) remains uncorroborated.",
+        "Accused 1 (A-1) was not in receipt of the money.",
+        "There was no evidence to show that there was any demand by Accused 2 (A-2), and therefore the conviction of A-2 is not sustainable."
+      ],
+      "respondent_arguments": [
+        "The evidence of the key witness (PW-2) is corroborated by the evidence of PW-6, the office assistant.",
+        "PW-6 stated that PW-2 went inside the room of A-1, and A-1 told A-2 that PW-2 would give money and that A-2 must take and keep it, which A-2 then did."
+      ],
+      "court_acceptance": "respondent"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Prevention of Corruption Act, 1988",
+        "section": "7",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1988",
+        "section": "13(1)(d)",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Prevention of Corruption Act, 1988",
+        "section": "13(2)",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "The Supreme Court will not interfere with concurrent findings of fact by lower courts that have resulted in a conviction, especially when those findings are based on evidence that has been duly corroborated.",
+    "obiter": [
+      "The testimony of a complainant in a bribery case can be corroborated by the evidence of another witness who observed the accused directing the transaction and the co-accused receiving the money.",
+      "Even the testimony of a witness who has turned hostile can serve as partial corroboration to the extent that their examination-in-chief supports the primary witness's account."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The court found that the testimony of the key witness (PW-2) regarding the demand and acceptance of the bribe was sufficiently corroborated by the evidence of two other witnesses (PW-3 and PW-6) and the positive result of a test conducted in a sodium carbonate solution. Given these corroborating factors, the court saw no reason to overturn the concurrent findings of guilt by the Trial Court and the High Court.",
+    "legal_tests_applied": [
+      "Deference to concurrent findings of fact by lower courts, where the appellate court will not interfere unless there is a compelling reason or a 'good ground to take a different view'."
+    ],
+    "why_appellant_lost": [
+      "The appellant's argument that the evidence of the key witness (PW-2) was uncorroborated was found to be incorrect.",
+      "The court determined that PW-2's evidence was corroborated by PW-3, who, in his Chief-Examination, stated that he accompanied PW-2 who met A-1 and paid money to A-2 on A-1's direction.",
+      "The court also found that PW-2's evidence was further corroborated by PW-6, the office assistant, who testified that A-1 told A-2 that PW-2 would give money and that A-2 must take and keep it.",
+      "The court found no good ground to take a different view from the concurrent findings of the Trial Court and the High Court, which had already found the appellants guilty based on the evidence."
+    ],
+    "why_respondent_won": [
+      "The respondent successfully demonstrated that the evidence of the key witness (PW-2) was corroborated by other evidence on record.",
+      "The evidence of PW-6, the office assistant, directly supported the prosecution's case by stating that PW-2 went inside A-1's room and that A-1 instructed A-2 to take the money from PW-2, which A-2 then did.",
+      "The prosecution's case was also supported by the test conducted in the sodium carbonate solution."
+    ],
+    "policy_considerations": []
+  },
+  "evidence_map": {
+    "decision.directions[0]": [
+      "p4_13ce9154"
+    ],
+    "decision.directions[1]": [
+      "p4_298c638e"
+    ],
+    "arguments[0].appellant_arguments[2]": [
+      "p3_42348c42"
+    ]
+  }
+}

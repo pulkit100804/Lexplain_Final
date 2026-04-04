@@ -1,0 +1,103 @@
+{
+  "procedural_history": {
+    "originating_court": "High Court, Gauhati",
+    "impugned_order": "Order of the High Court, Gauhati dated January 22, 1970, dismissing the habeas corpus petition filed by the accused petitioner.",
+    "high_court_proceedings": "The petitioner applied to the High Court for a writ of habeas corpus. On January 22, 1970, the High Court held that the petition was not maintainable because the petitioner was an undertrial prisoner awaiting his trial. The High Court dismissed the plea for a writ of habeas corpus but directed investigation against the petitioner to be completed within two months.",
+    "supreme_court_posture": "The petitioner did not file an appeal against the High Court's order but later filed a habeas corpus petition directly in the Supreme Court under Art. 32 of the Constitution."
+  },
+  "decision": {
+    "appeal_result": "",
+    "conviction_status": "",
+    "sentence_status": "",
+    "directions": [
+      "Directing the petitioner's release."
+    ]
+  },
+  "issues": [
+    {
+      "issue": {
+        "issue_text": "Whether the petitioner's detention in jail was in accordance with the procedure established by law, given the absence of a valid judicial order authorizing his continued custody.",
+        "court_answer": "accepted"
+      },
+      "reasoning": {
+        "facts": [
+          "The petitioner was an undertrial prisoner in Dibrugarh Jail.",
+          "The State, in response to a habeas corpus petition, failed to produce any valid judicial order authorizing the petitioner's detention.",
+          "The last remand order disclosed to the Court was dated February 2, 1970.",
+          "This order was deficient as it did not specify the period of remand, did not explicitly authorize the jail to hold the petitioner, and did not state the reasons for his custody."
+        ],
+        "law": [
+          "A person's detention must be in accordance with the \"procedure established by law.\"",
+          "Under the Code of Criminal Procedure, a remand order by a Magistrate during an investigation cannot extend beyond a term of 15 days.",
+          "The burden is on the state to demonstrate the legality of a person's custody when it is challenged."
+        ],
+        "application": [
+          "The Court found that the State failed to meet its burden of proving that the detention was lawful.",
+          "Even assuming the last known remand order of February 2, 1970, was valid, it would have expired long ago, as the maximum period for such a remand is 15 days.",
+          "The Court noted that a previous High Court order dismissing a similar petition did not, by itself, authorize the petitioner's continued custody.",
+          "The absence of any subsequent warrant or order meant there was no legal basis for the jail authorities to continue holding the petitioner."
+        ],
+        "conclusion": "The Supreme Court concluded that the petitioner's custody was not in accordance with the procedure established by law because the State failed to produce any valid judicial order authorizing his continued detention. Consequently, the Court ordered his release."
+      }
+    }
+  ],
+  "arguments": [
+    {
+      "issue_text": "Whether the petitioner's detention in jail was in accordance with the procedure established by law, given the absence of a valid judicial order authorizing his continued custody.",
+      "appellant_arguments": [
+        "The petitioner's detention is unlawful as no valid judicial order from a Magistrate authorizing his continued custody has been produced.",
+        "The State failed to take further action and complete the investigation within the two months previously directed by the High Court."
+      ],
+      "respondent_arguments": [
+        "The petitioner was duly committed to jail by a Magistrate who has jurisdiction over the case.",
+        "A mere irregularity in the remand order does not render the custody unlawful.",
+        "The petitioner has been charge-sheeted and a production warrant has been issued for his appearance at trial.",
+        "Any grievance should be addressed to the Magistrate's court or the High Court, not the Supreme Court."
+      ],
+      "court_acceptance": "appellant"
+    }
+  ],
+  "citations": {
+    "statutes": [
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 32",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Constitution of India",
+        "section": "Article 21",
+        "used_by_court": true
+      },
+      {
+        "act_name": "Code of Criminal Procedure",
+        "section": "Not specified",
+        "used_by_court": true
+      }
+    ],
+    "cases": []
+  },
+  "ratio_decidendi": {
+    "ratio": "If a person has been deprived of personal liberty in violation of the procedure established by law, and no cogent ground for declining relief in habeas corpus proceedings is made out, the Court has no option but to order their release. Executive expediency, even in matters concerning the security of the State, cannot prevail over the constitutional rule of law.",
+    "obiter": [
+      "An order of release in a habeas corpus case does not amount to an acquittal or discharge and does not prevent authorities from arresting and keeping the person in custody again in accordance with the law.",
+      "The writ of habeas corpus is not designed to interrupt the ordinary administration of criminal law."
+    ]
+  },
+  "judicial_reasoning": {
+    "core_finding": "The petitioner's custody in jail was not shown to be in accordance with the procedure established by law. The State failed to produce any order by a Magistrate authorizing the petitioner's detention in custody. The last known order of remand was defective as it neither contained the period of remand nor did it, in terms, authorize the jail authorities to keep the petitioner in their custody, and no reasons for the custody were stated.",
+    "legal_tests_applied": [
+      "The writ of habeas corpus is a prerogative writ by which the causes and validity of detention of a person are investigated by summary procedure and if the authority having his custody does not satisfy the court that the deprivation of his personal liberty is according to the procedure established by law, the person is entitled to his liberty.",
+      "If a person has been deprived of his personal liberty in violation of the procedure established by law and no cogent ground for declining relief in habeas corpus proceedings is made out, then this Court has no option except to order his release."
+    ],
+    "why_appellant_lost": [],
+    "why_respondent_won": [],
+    "policy_considerations": [
+      "Personal liberty of the individual is highly cherished in our set up giving priority only to the interest of the nation and the security of the State.",
+      "The fact that the charge against the petitioner pertains to security of the State and the fact that stringent measures may be necessary... does not afford sufficient justification for by-passing or violating the provisions of the Constitution.",
+      "Executive expediency should not prevail over the rule of law as envisaged therein.",
+      "The order of release in the case of a person suspected of or charged with the commission of an offence does not per se amount to his acquittal or discharge and the authorities are not, by virtue of the release only on habeas corpus, deprived of the power to arrest and keep him in custody in accordance with law, for this writ is not designed to interrupt the ordinary administration of criminal law."
+    ]
+  },
+  "evidence_map": {}
+}
