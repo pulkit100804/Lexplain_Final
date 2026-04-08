@@ -35,6 +35,19 @@ from config import (
     LLM_SAFETY_PROMPT,
 )
 
+from elasticsearch import Elasticsearch
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+es = Elasticsearch(
+    os.getenv("ELASTIC_HOST"),
+    api_key=os.getenv("ELASTIC_API_KEY")
+)
+
+INDEX_NAME = "judgments_chunks"
+
 logger = logging.getLogger("lexplain.agent7")
 
 
@@ -110,10 +123,26 @@ def _build_retrieval_query(
 # Step 2 — Retrieval
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-def _retrieve_precedents(query: str, top_k: int = 10) -> list[dict]:
-    """Retrieve top-K judgment chunks using BM25."""
-    from search import search_judgments_bm25
-    return search_judgments_bm25(query, top_k=top_k)
+def _retrieve_precedents(query: str, top_k: int = 10):
+    res = es.search(
+        index=INDEX_NAME,
+        size=top_k,
+        query={
+            "match": {
+                "text": query
+            }
+        }
+    )
+
+    results = []
+    for hit in res["hits"]["hits"]:
+        results.append({
+            "text": hit["_source"]["text"],
+            "case_name": hit["_source"].get("case_name", ""),
+            "source_file": hit["_source"].get("source_file", "")
+        })
+
+    return results
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

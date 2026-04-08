@@ -1,0 +1,14 @@
+{
+  "case_id": "4e2453c7-e065-4b4c-b237-353e3e631267",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_6_ingredient_evaluator",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json",
+    "legal_signals.json",
+    "statute_candidates.json"
+  ],
+  "created_at": "2026-04-08T05:26:22.906112+00:00",
+  "statute_evaluations": [],
+  "consistency_flags": []
+}

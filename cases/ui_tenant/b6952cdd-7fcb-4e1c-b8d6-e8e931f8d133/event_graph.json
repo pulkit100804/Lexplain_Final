@@ -1,0 +1,48 @@
+{
+  "case_id": "b6952cdd-7fcb-4e1c-b8d6-e8e931f8d133",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_4b_event_builder",
+  "input_refs": [
+    "role_tagged_graph.json",
+    "entities.json"
+  ],
+  "created_at": "2026-04-04T20:23:29.930895+00:00",
+  "events": [
+    {
+      "event_id": "evt_001",
+      "event_type": "action",
+      "actor": null,
+      "action": "threatened",
+      "target": null,
+      "object": "a jewelry",
+      "time": "at night",
+      "location": null,
+      "description": "A group of three individuals broke into a jewelry store at night, threatened the guard with a knife, and escaped with valuables worth ₹10 lakhs.",
+      "source_node_id": "n_001"
+    },
+    {
+      "event_id": "evt_002",
+      "event_type": "action",
+      "actor": null,
+      "action": "escaped",
+      "target": null,
+      "object": "a jewelry",
+      "time": "at night",
+      "location": null,
+      "description": "A group of three individuals broke into a jewelry store at night, threatened the guard with a knife, and escaped with valuables worth ₹10 lakhs.",
+      "source_node_id": "n_001"
+    },
+    {
+      "event_id": "evt_003",
+      "event_type": "context",
+      "actor": null,
+      "action": null,
+      "target": null,
+      "object": null,
+      "time": null,
+      "location": null,
+      "description": "One of them was later caught with the stolen items.",
+      "source_node_id": "n_002"
+    }
+  ]
+}

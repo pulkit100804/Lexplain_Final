@@ -1,0 +1,19 @@
+{
+  "case_id": "31a6abc6-0ed6-46e7-8a3c-8daccb20c843",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_4a_entity_extractor",
+  "input_refs": [
+    "role_tagged_graph.json"
+  ],
+  "created_at": "2026-04-07T19:56:21.173927+00:00",
+  "entities": [
+    {
+      "type": "object",
+      "value": "a knife",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_001"
+    }
+  ]
+}

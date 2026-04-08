@@ -3435,3 +3435,1073 @@
     }
   ]
 }
+
+--- SECTION 278 ---
+{
+  "statute_classification": "NOT SATISFIED",
+  "statute_reasoning": "The provided evidence details a robbery involving a break-in, a threat with a knife, and the theft of valuables. There is no information or context within the evidence, legal facts, or signals that pertains to 'vitiating the atmosphere' or making it 'noxious to health'. Therefore, none of the ingredients for Section 278 are met.",
+  "ingredients": [
+    {
+      "id": "278.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes a break-in, a threat with a knife, and the theft of valuables. There is no mention of any action taken by a person to 'vitiate the atmosphere'. The actions described are unrelated to environmental pollution or alteration of the atmosphere."
+    },
+    {
+      "id": "278.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not contain any information suggesting that the atmosphere was made noxious to the health of persons in the neighborhood. The events focus on a robbery, not environmental impact."
+    },
+    {
+      "id": "278.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence to indicate that the atmosphere was made noxious to the health of persons passing along a public way. The facts are entirely unrelated to this specific condition."
+    }
+  ]
+}
+
+--- SECTION 506 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "The core offence of criminal intimidation (506.1) is satisfied by the act of threatening the guard with a knife. Furthermore, the nature of this threat directly satisfies the aggravating circumstances outlined in 506.2 (threat to cause death or grievous hurt) and 506.4 (threat to cause an offence punishable with severe imprisonment), as a knife is a weapon capable of inflicting such harm, and causing grievous hurt is an offence. Ingredients 506.3 and 506.5 are not applicable based on the evidence.",
+  "ingredients": [
+    {
+      "id": "506.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states that a group of individuals 'threatened the guard with a knife'. This action clearly constitutes criminal intimidation, as it involves a threat of injury to the person (the guard) with the likely intent to cause alarm or compel the guard to not resist, thereby facilitating the robbery. The signal 'threat_made' further supports this."
+    },
+    {
+      "id": "506.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states the guard was 'threatened... with a knife'. A knife is a weapon capable of causing death or grievous hurt. The act of threatening with such a weapon during a robbery inherently implies a threat to cause death or grievous hurt to ensure compliance. The intention to convey this serious threat is logically inferred from the use of a deadly weapon in a coercive situation."
+    },
+    {
+      "id": "506.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence provided that suggests a threat to cause the destruction of any property by fire. The threat mentioned was 'with a knife' to the guard."
+    },
+    {
+      "id": "506.4",
+      "llm_status": "satisfied",
+      "reasoning": "The threat 'with a knife' implies a threat to cause physical injury, specifically grievous hurt, if the guard resisted. Causing grievous hurt is an offence punishable with imprisonment for a term which may extend to seven years (or more, depending on the specific section). Therefore, the threat was to cause an offence punishable with imprisonment for a term which may extend to seven years."
+    },
+    {
+      "id": "506.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence provided that suggests any imputation of unchastity to a woman. The events describe a robbery and a threat to a guard."
+    }
+  ]
+}
+
+--- SECTION 71 ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "All ingredients of Section 71 relate to the legal classification, definition, and punishment of offences, or the relationship between different offences. The provided evidence, however, only describes factual events and actions (breaking in, threatening, escaping with valuables) without any legal interpretation, classification of these actions as 'offences,' or discussion of 'punishment' or 'courts.' Consequently, none of the ingredients can be satisfied based strictly on the given facts.",
+  "ingredients": [
+    {
+      "id": "71.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes a series of actions (breaking in, threatening, taking valuables). While these actions could potentially be considered parts of a larger offence, the evidence does not provide any legal definitions or classifications to confirm that 'any of which parts is itself an offence.' It only describes the factual events."
+    },
+    {
+      "id": "71.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient pertains to the punishment of offenders for multiple offences. The provided evidence describes factual events but does not identify any specific 'offences' in a legal sense, nor does it discuss 'punishment' or legal provisions for it. Therefore, it cannot be evaluated."
+    },
+    {
+      "id": "71.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient requires an offence to fall under 'two or more separate definitions of any law.' The evidence describes actions but does not provide any legal definitions or classifications of these actions as 'offences' under any law. Thus, it is impossible to determine if they fall under multiple definitions."
+    },
+    {
+      "id": "71.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes 'several acts' (breaking in, threatening, escaping with valuables). While these acts could potentially be individual offences that combine to form a different offence (e.g., robbery), the evidence itself does not legally classify these individual acts as 'offences' nor does it state that their combination constitutes 'a different offence' in legal terms. It only provides the factual description of the actions."
+    },
+    {
+      "id": "71.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient concerns the severity of punishment awarded by a court. The evidence describes factual events but does not identify any 'offences,' discuss 'punishment,' or refer to a 'Court.' Therefore, it cannot be evaluated."
+    }
+  ]
+}
+
+--- SECTION 40 ---
+{
+  "statute_classification": "PARTIALLY SATISFIED",
+  "statute_reasoning": "The statute provides definitions for the term 'offence' in different contexts. The evidence clearly describes actions that constitute an 'offence' as generally defined by the Code (Ingredient 40.1). Ingredient 40.2 is partially satisfied as the actions are punishable under the Code, though the specific contextual chapters/sections or special/local law are not confirmed by the evidence. Ingredient 40.3, which provides a highly specific definition for certain sections and special/local laws with specific punishment thresholds, is not satisfied due to a complete lack of supporting evidence for those specific conditions. Therefore, the statute is classified as PARTIALLY SATISFIED.",
+  "ingredients": [
+    {
+      "id": "40.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence describes actions (breaking into a jewelry store, threatening a guard with a knife, and escaping with valuables) that are clearly 'a thing made punishable by this Code' (e.g., robbery, theft). Therefore, the general definition of 'offence' as a punishable act is satisfied by the factual scenario."
+    },
+    {
+      "id": "40.2",
+      "llm_status": "partial",
+      "reasoning": "The evidence describes actions that are 'a thing punishable under this Code.' While the evidence does not specify if these actions fall within Chapter IV, Chapter VA, or the enumerated sections, nor does it mention any special or local law, the core aspect of the definition (a punishable thing under this Code) is present. The lack of specific contextual information for the chapters/sections or special/local law makes it partially satisfied."
+    },
+    {
+      "id": "40.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not provide any information to suggest that the described actions fall under sections 141, 176, 177, 201, 202, 212, 216, or 441. Furthermore, there is no mention of a 'special or local law' or a specific punishment term of 'six months or upwards.' Therefore, this specific definitional context is not satisfied by the evidence."
+    }
+  ]
+}
+
+--- SECTION 303 ---
+{
+  "statute_classification": "PARTIALLY SATISFIED",
+  "statute_reasoning": "Ingredient 303.2, 'commits murder,' is strongly satisfied by the evidence, which explicitly details an intentional, pre-planned attack causing death with intent to kill. However, ingredient 303.1, 'Whoever, being under sentence of imprisonment for life,' is not satisfied as there is no evidence provided regarding the actor's sentencing status.",
+  "ingredients": [
+    {
+      "id": "303.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence provided in the Events, Legal Facts, or Signals to indicate that the actor was under a sentence of imprisonment for life."
+    },
+    {
+      "id": "303.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states that 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002, lf_001, sig_001, sig_004). Furthermore, it is stated that 'The attack was pre-planned and done with the intention to kill' (evt_003, lf_003). This clearly establishes both the act of causing death and the specific intent to kill, satisfying the elements of committing murder."
+    }
+  ]
+}
+
+--- SECTION 308 ---
+{
+  "statute_classification": "NOT SATISFIED",
+  "statute_reasoning": "While an act was done with intention and caused hurt (and death), the critical ingredient 308.3, which specifies that the act, if it caused death, would amount to 'culpable homicide not amounting to murder,' is not met. The evidence explicitly states the attack was 'pre-planned' and done with 'intention to kill,' which, when causing death, typically constitutes murder, not the lesser offense of culpable homicide not amounting to murder. Therefore, the circumstances described do not align with the specific type of culpable homicide required by this ingredient.",
+  "ingredients": [
+    {
+      "id": "308.1",
+      "llm_status": "satisfied",
+      "reasoning": "EVIDENCE: 'A person intentionally attacked another individual with a knife multiple times' (evt_002, lf_002, sig_002). This clearly indicates an act was performed."
+    },
+    {
+      "id": "308.2",
+      "llm_status": "satisfied",
+      "reasoning": "INTENTION: The evidence states 'A person intentionally attacked another individual' (evt_002) and 'The attack was pre-planned and done with the intention to kill' (evt_003). This explicitly confirms the presence of intention."
+    },
+    {
+      "id": "308.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "CAUSATION: 'causing their death' (evt_001, lf_001, sig_001, sig_004). The act caused death. \nINTENTION/KNOWLEDGE: The evidence states 'intentionally attacked' and 'intention to kill' (evt_002, evt_003). It also states the attack was 'pre-planned' (evt_003). These facts (pre-planned attack with intention to kill, causing death) align with the definition of murder, not 'culpable homicide not amounting to murder'. Culpable homicide not amounting to murder typically involves mitigating circumstances (e.g., sudden provocation, exceeding self-defense, sudden fight) which are not present in the evidence. Therefore, the condition that the act would amount to culpable homicide not amounting to murder is not met; it points to murder."
+    },
+    {
+      "id": "308.4",
+      "llm_status": "satisfied",
+      "reasoning": "CAUSATION: The evidence states 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002, lf_001, lf_002, sig_001, sig_002, sig_004). Causing death inherently implies that hurt was caused to the person."
+    }
+  ]
+}
+
+--- SECTION 302 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "All essential ingredients for committing murder, including the unlawful act, the specific intent to kill, and direct causation of death, are explicitly and strongly supported by the provided evidence. The evidence states an intentional, pre-planned attack with a knife caused the victim's death.",
+  "ingredients": [
+    {
+      "id": "unlawful_act_causing_death",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states 'A person intentionally attacked another individual with a knife multiple times, causing their death.' (evt_001, evt_002) and confirms 'physical_force_used' (sig_002) and 'death_occurred' (sig_001). This establishes the unlawful act leading to death."
+    },
+    {
+      "id": "intention_to_kill",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states 'A person intentionally attacked another individual...' (evt_001, evt_002) and 'The attack was pre-planned and done with the intention to kill.' (evt_003). This directly establishes the specific intent to kill."
+    },
+    {
+      "id": "causation_of_death",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence clearly states the attack 'causing their death.' (evt_001, evt_002) and is supported by 'death_following_force' (sig_004), establishing a direct causal link between the act and the death."
+    }
+  ]
+}
+
+--- SECTION 300 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "All four ingredients of Section 300 are strongly satisfied by the provided evidence. The evidence explicitly states that an individual intentionally attacked another with a knife multiple times, causing their death, and that this attack was pre-planned with the intention to kill. This directly addresses the elements of intention, knowledge, and causation required by each ingredient.",
+  "ingredients": [
+    {
+      "id": "300.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states that 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002) and that 'The attack was pre-planned and done with the intention to kill' (evt_003). This directly satisfies the requirement that the act causing death was done with the intention of causing death. \n- Intention: Explicitly stated as 'intention to kill' (evt_003).\n- Causation: Explicitly stated as 'causing their death' (evt_001)."
+    },
+    {
+      "id": "300.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence indicates an intentional attack with a knife multiple times (evt_002), which constitutes causing bodily injury. The explicit 'intention to kill' (evt_003) logically infers that the offender knew the bodily injury inflicted (multiple knife attacks) was likely to cause death. \n- Intention: 'intentionally attacked' (evt_002) implies intention to cause bodily injury. The 'intention to kill' (evt_003) further supports the nature of the intended injury.\n- Knowledge: The 'intention to kill' (evt_003) directly implies the offender knew the bodily injury would be likely to cause death.\n- Causation: Death was caused by the attack (evt_001)."
+    },
+    {
+      "id": "300.3",
+      "llm_status": "satisfied",
+      "reasoning": "The act of intentionally attacking with a knife multiple times (evt_002) demonstrates an intention to cause bodily injury. The fact that this act 'causing their death' (evt_001) confirms that the bodily injury inflicted was sufficient in the ordinary course of nature to cause death. The 'intention to kill' (evt_003) reinforces that the intended injury was of a lethal nature. \n- Intention: 'intentionally attacked' (evt_002) implies intention to cause bodily injury. The 'intention to kill' (evt_003) indicates the intended injury was lethal.\n- Causation: The attack 'causing their death' (evt_001) demonstrates the sufficiency of the injury."
+    },
+    {
+      "id": "300.4",
+      "llm_status": "satisfied",
+      "reasoning": "Attacking someone multiple times with a knife (evt_002) is an imminently dangerous act. The explicit 'intention to kill' (evt_003) confirms the person committing the act knew it was so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death. No excuse for incurring this risk is mentioned in the evidence; rather, the 'pre-planned' nature (evt_003) suggests the absence of any excuse. \n- Knowledge: The 'intention to kill' (evt_003) and the nature of the 'attacked... with a knife multiple times' (evt_002) demonstrate knowledge of imminent danger and probable death.\n- Act without excuse: No excuse is provided in the evidence; the 'pre-planned' nature (evt_003) suggests the act was committed without excuse."
+    }
+  ]
+}
+
+--- SECTION 94 ---
+{
+  "statute_classification": "NOT SATISFIED",
+  "statute_reasoning": "The evidence describes an intentional, pre-planned attack with the intent to kill, resulting in death. This directly contradicts the core premise of Section 94, which appears to be a defense related to acts done under compulsion or threat. There is no evidence of the actor being compelled by threats, facing apprehension of instant death, or being subject to any form of constraint. Furthermore, the act described is murder, which explicitly fails to satisfy ingredient 94.5.",
+  "ingredients": [
+    {
+      "id": "94.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states the act was 'intentionally attacked' and 'pre-planned and done with the intention to kill.' There is no mention of the person being compelled by threats to do the act. (Intention: Actor intended to kill. Knowledge: Actor knew they were attacking. Causation: Actor's attack caused death.)"
+    },
+    {
+      "id": "94.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence of any threats compelling the actor, and therefore no apprehension of instant death due to such threats can be established. The act was intentional and pre-planned by the actor. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of threats. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "id": "94.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence that the person was subject to any constraint or compulsion. The act was intentional and pre-planned, indicating the actor was not in a situation of constraint. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of constraint. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "id": "94.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence of any constraint or apprehension of harm compelling the actor. The act was intentional and pre-planned, indicating the actor was not in a situation of constraint due to apprehension of harm. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of apprehension of harm. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "id": "94.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence states 'A person intentionally attacked another individual with a knife multiple times, causing their death' and 'The attack was pre-planned and done with the intention to kill.' This description strongly aligns with the definition of murder, thus the ingredient 'The act is not murder' is not satisfied. (Intention: Actor intended to kill. Knowledge: Actor knew their actions would cause death. Causation: Actor's attack caused death.)"
+    },
+    {
+      "id": "94.6",
+      "llm_status": "satisfied",
+      "reasoning": "The act described is the intentional killing of an individual (murder). While a serious crime, murder of an individual is generally considered an offense against a person, not typically classified as an 'offence against the State punishable with death' (e.g., treason or sedition). (Intention: Actor intended to kill. Knowledge: Actor knew their actions would cause death. Causation: Actor's attack caused death.)"
+    },
+    {
+      "id": "94.7",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence provided regarding gangs, dacoits, or the actor joining such a group, nor any compulsion by associates. (Intention: Not applicable to this ingredient. Knowledge: Not applicable to this ingredient. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "id": "94.8",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence provided regarding the actor being seized by a gang of dacoits or forced by threats of instant death. (Intention: Not applicable to this ingredient. Knowledge: Not applicable to this ingredient. Causation: Not applicable to this ingredient.)"
+    }
+  ]
+}
+
+--- SECTION 304B ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "The evidence provided is insufficient to satisfy the majority of the ingredients for Section 304B. While the death was caused by bodily injury under abnormal circumstances due to a cruel act, crucial elements such as the gender of the deceased ('woman'), her marital status, the relationship of the perpetrator (husband or husband's relative), and any connection to dowry demands are entirely absent from the facts.",
+  "ingredients": [
+    {
+      "id": "304B.1",
+      "llm_status": "partial",
+      "reasoning": "Causation: The evidence explicitly states 'causing their death' by 'attacked another individual with a knife multiple times' (evt_001, evt_002), which constitutes death by bodily injury. Intent/Knowledge: The attack was 'intentionally' carried out and 'with the intention to kill' (evt_001, evt_002, evt_003). Missing: The gender of the deceased is not specified as 'woman'; the evidence refers to 'another individual'."
+    },
+    {
+      "id": "304B.2",
+      "llm_status": "partial",
+      "reasoning": "Causation: The death was caused by an intentional, pre-planned knife attack (evt_001, evt_002, evt_003). Intent/Knowledge: The attack was 'intentional' and 'pre-planned' with 'intention to kill' (evt_001, evt_002, evt_003), indicating circumstances far from normal. Missing: The gender of the deceased is not specified as 'woman'; the evidence refers to 'another individual'."
+    },
+    {
+      "id": "304B.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence provides no information regarding the marital status of the deceased or the timeframe of death relative to any marriage."
+    },
+    {
+      "id": "304B.4",
+      "llm_status": "partial",
+      "reasoning": "Causation: The evidence describes an 'intentional attack... with a knife multiple times, causing their death' (evt_001, evt_002). This act itself is a severe form of cruelty and occurred immediately before death. Intent/Knowledge: The attack was 'intentional' and 'pre-planned' with 'intention to kill' (evt_001, evt_002, evt_003), demonstrating intent for the cruel act. Missing: The gender of the deceased is not specified as 'woman'. While the act is cruel, the specific context of 'cruelty or harassment' as typically defined in Section 304B (e.g., domestic abuse, dowry-related harassment over time) is not explicitly detailed beyond the fatal attack itself."
+    },
+    {
+      "id": "304B.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not identify the actor, the target's marital status, or any relationship between them as husband and wife."
+    },
+    {
+      "id": "304B.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not identify the actor, the target's marital status, or any relationship between them as relatives of a husband."
+    },
+    {
+      "id": "304B.7",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no mention of dowry or any demand for it in the provided facts."
+    },
+    {
+      "id": "304B.8",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient is definitional and depends on the existence of dowry-related cruelty, which is not established by the evidence."
+    }
+  ]
+}
+
+--- SECTION 70 ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "The provided evidence describes a violent crime involving an attack, death, and pre-planning to kill. However, none of the facts or signals relate to the specific conditions outlined in Section 70, which pertain to the levying of fines, imprisonment periods, or the liability of an offender's property after their death. There is no mention of fines, sentences, or the death of an offender in the evidence.",
+  "ingredients": [
+    {
+      "id": "70.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence details an attack causing death and pre-planning. It does not contain any information regarding a fine, a sentence being passed, or any timeframes for levying a fine. Therefore, this ingredient is not satisfied."
+    },
+    {
+      "id": "70.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes a violent incident but provides no information about an offender being liable to imprisonment, the duration of such imprisonment, or the levying of a fine in relation to it. Therefore, this ingredient is not satisfied."
+    },
+    {
+      "id": "70.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence states that 'A person intentionally attacked another individual with a knife multiple times, causing their death.' This refers to the death of the victim, not the death of an offender. There is no information provided about the death of an offender or the liability of their property for debts. Therefore, this ingredient is not satisfied."
+    }
+  ]
+}
+
+--- SECTION 307 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "The core elements of the statute, including the performance of an act, the requisite intention to kill, and circumstances that would constitute murder if death occurred, are all clearly satisfied by the evidence. Furthermore, the evidence confirms that hurt (death) was indeed caused by the act, satisfying the first level of aggravation. The only ingredients not satisfied relate to a specific, higher-tier aggravating circumstance (the offender being a life-convict) for which no evidence was provided, and which is not essential for the primary offense.",
+  "ingredients": [
+    {
+      "id": "307.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states 'A person intentionally attacked another individual with a knife multiple times,' which constitutes a clear 'act'."
+    },
+    {
+      "id": "307.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states the attack was 'intentionally attacked' (evt_001) and 'pre-planned and done with the intention to kill' (evt_003). This directly establishes the required intention.\n- Intention: Explicitly stated as 'intentionally attacked' and 'intention to kill'.\n- Knowledge: Not explicitly stated as knowledge, but intention implies knowledge of the likely outcome.\n- Causation: Not relevant for this ingredient."
+    },
+    {
+      "id": "307.3",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence indicates the act was 'pre-planned' and executed 'with the intention to kill,' and it *did* cause death. These circumstances (pre-planning and intent to kill) are precisely what would constitute murder if death resulted.\n- Intention: 'intention to kill' (from evt_003).\n- Knowledge: Implied knowledge of the lethality of a knife attack, but not explicitly stated as 'knowledge'.\n- Causation: The ingredient is hypothetical ('if he by that act caused death'), but the evidence confirms death *was* caused by the act ('causing their death' from evt_001, 'causing_death' from lf_001, 'death_following_force' from sig_004)."
+    },
+    {
+      "id": "307.4",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence clearly states the act caused the individual's death ('causing their death' from evt_001, 'death_occurred' from sig_001). Death is considered the most severe form of hurt, therefore hurt was caused.\n- Intention: Not directly relevant to *if* hurt is caused, but the act causing hurt was intentional.\n- Knowledge: Not directly relevant.\n- Causation: The act of attacking with a knife multiple times *caused* death, which is a form of hurt ('causing_death' from lf_001, 'death_following_force' from sig_004)."
+    },
+    {
+      "id": "307.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no information provided in the evidence (Events, Legal Facts, or Signals) to indicate whether the actor is currently under a sentence of imprisonment for life."
+    },
+    {
+      "id": "307.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "While hurt (death) was indeed caused by the act, the condition that the act was committed 'by a life-convict' is not satisfied, as there is no evidence the actor is a life-convict (referencing reasoning for 307.5).\n- Intention: Not directly relevant to the status of the actor.\n- Knowledge: Not directly relevant to the status of the actor.\n- Causation: Hurt (death) was caused by the act, but the actor's status as a life-convict is not established."
+    }
+  ]
+}
+
+--- SECTION 87 ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "All ingredients of Section 87 are either directly contradicted by the evidence or lack any supporting information. The evidence explicitly states an intention to kill, which directly negates ingredients 87.1 and 87.2. There is no evidence regarding the victim's age or consent, leading to ingredients 87.3, 87.4, and 87.5 not being satisfied.",
+  "ingredients": [
+    {
+      "id": "87.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "Intention: The evidence explicitly states, 'The attack was pre-planned and done with the intention to kill.' This directly contradicts the ingredient's requirement that the act is not intended to cause death."
+    },
+    {
+      "id": "87.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "Intention: The evidence indicates an 'intention to kill' and an 'intentional attack multiple times.' An intention to kill inherently includes an intention to cause grievous hurt. Therefore, the act was intended to cause grievous hurt, contradicting this ingredient."
+    },
+    {
+      "id": "87.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "Knowledge: The provided evidence contains no information regarding the age of the person harmed. Therefore, this ingredient cannot be satisfied based on the given facts."
+    },
+    {
+      "id": "87.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "Knowledge: The evidence describes an 'attack,' which by its nature implies a lack of consent from the victim. There is no information provided to suggest any form of consent, express or implied."
+    },
+    {
+      "id": "87.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "Knowledge: Similar to consent to suffer harm, an 'attack' does not suggest the victim consented to take the risk of harm. No evidence supports this ingredient."
+    }
+  ]
+}
+
+--- SECTION 46 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "Ingredient 46.1 is satisfied as the evidence explicitly refers to the death of 'another individual,' implying a human being. Ingredient 46.2 is not satisfied in the sense that no contrary context appears, thus reinforcing the interpretation of death as that of a human being. Together, the ingredients are fully met by the evidence.",
+  "ingredients": [
+    {
+      "id": "46.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states, 'A person intentionally attacked another individual... causing their death.' The term 'another individual' clearly denotes a human being, satisfying this ingredient."
+    },
+    {
+      "id": "46.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no information or context provided in the evidence that suggests the death was of anything other than a human being. Therefore, the condition 'unless the contrary appears' is not met, meaning no contrary context exists."
+    }
+  ]
+}
+
+--- SECTION 304 ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "The evidence explicitly states that the act was 'pre-planned and done with the intention to kill'. This indicates a higher degree of culpability (murder) than what Section 304, which typically covers culpable homicide not amounting to murder, addresses. Consequently, the primary ingredient 'Whoever commits culpable homicide not amounting to murder' (304.1) is not satisfied because the act, as described, appears to amount to murder.",
+  "ingredients": [
+    {
+      "id": "304.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states 'intentionally attacked another individual... causing their death' and 'The attack was pre-planned and done with the intention to kill.' The presence of pre-planning and direct intention to kill strongly suggests the act amounts to murder, not merely culpable homicide not amounting to murder."
+    },
+    {
+      "id": "304.2",
+      "llm_status": "satisfied",
+      "reasoning": "Causation: The evidence states 'causing their death' (evt_001, sig_001, sig_004). Intention: The evidence explicitly states 'done with the intention to kill' (evt_003)."
+    },
+    {
+      "id": "304.3",
+      "llm_status": "satisfied",
+      "reasoning": "Causation: The evidence states 'causing their death' (evt_001, sig_001, sig_004). Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). An intention to kill logically subsumes the intention to cause bodily injury that is likely to cause death."
+    },
+    {
+      "id": "304.4",
+      "llm_status": "satisfied",
+      "reasoning": "Knowledge: The evidence explicitly states 'done with the intention to kill' (evt_003). If an individual intends to kill, they necessarily possess the knowledge that their act is likely to cause death."
+    },
+    {
+      "id": "304.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). This directly contradicts the requirement of 'without any intention to cause death'."
+    },
+    {
+      "id": "304.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). An intention to kill logically implies an intention to cause bodily injury that is likely to cause death. Therefore, the act was not done without such intention."
+    }
+  ]
+}
+
+--- SECTION 101 ---
+{
+  "statute_classification": "PARTIALLY SATISFIED",
+  "statute_reasoning": "Ingredient 101.1 is not satisfied because the evidence describes an intentional, pre-planned attack causing death, which strongly suggests a severe offence likely to be enumerated in a preceding section, thus failing the negative condition. Ingredients 101.2 and 101.3 are satisfied as they state legal principles regarding the limitations and scope of private defence, which are consistent with the facts that involve an intentional killing without any claim of private defence.",
+  "ingredients": [
+    {
+      "id": "101.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states an intentional, pre-planned attack causing death (Events evt_001, evt_002, evt_003). This act, involving clear intention to kill and causation of death, strongly suggests a severe offence (e.g., murder or a high degree of culpable homicide). Without knowing the specific descriptions enumerated in 'the last preceding section,' it is highly probable that such a grave act *would* be included among them. Therefore, the condition that the offence is *not* of any of those descriptions is likely not met by the facts."
+    },
+    {
+      "id": "101.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence clearly indicates that an individual intentionally attacked another with a knife multiple times, causing their death (Events evt_001, evt_002). The attack was pre-planned and done with the intention to kill (Event evt_003). There is no mention or indication in the evidence that this act was committed in private defence. This ingredient states a legal principle that the right of private defence *does not extend* to the voluntary causing of death. Since the facts describe a voluntary causing of death (by an attacker, not a defender), this legal principle is consistent with the facts, meaning private defence would not be a valid claim here. Intention to kill is explicitly stated. Causation of death by the attack is explicit."
+    },
+    {
+      "id": "101.3",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence describes an act where death was caused (Event evt_001). This ingredient describes a scenario where private defence *can* extend to causing harm *other than death*. The facts do not present a situation where harm *other than death* was caused in private defence; rather, death was caused. However, this ingredient is a statement of the general scope of private defence. The facts, by describing a death, do not contradict the general legal principle that private defence *can* extend to non-fatal harm. The facts simply fall outside the specific scenario described by this extension, but the principle itself is not disproven by the evidence."
+    }
+  ]
+}
+
+--- SECTION 100 ---
+{
+  "statute_classification": "PARTIALLY SATISFIED",
+  "statute_reasoning": "The evidence describes a severe, pre-planned, intentional knife attack that resulted in death. This aligns with the type of offence that could trigger the right of private defence extending to causing death or grievous hurt (ingredients 100.3 and 100.4), and the act itself involves the voluntary causing of death (ingredient 100.1). However, the evidence does not describe the exercise of private defence itself, nor does it provide information relevant to restrictions (100.2), wrongful confinement (100.5), or acid attacks (100.6). Therefore, only specific conditions related to the nature of the underlying offence are met, but not all aspects of the statute.",
+  "ingredients": [
+    {
+      "id": "100.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states that a person 'intentionally attacked another individual with a knife multiple times, causing their death' and that the attack was 'done with the intention to kill.' This directly describes the 'voluntary causing of death' as mentioned in the ingredient. The evidence describes the act of causing death, which is the scope the right of private defence extends to, if applicable. \n  → intention: The act was done with the intention to kill.\n  → knowledge: The actor knew their actions would cause death.\n  → causation: The attack directly caused death."
+    },
+    {
+      "id": "100.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not describe the exercise of a right of private defence, nor does it provide any information regarding 'restrictions mentioned in the last preceding section.'\n  → intention: Not applicable.\n  → knowledge: Not applicable.\n  → causation: Not applicable."
+    },
+    {
+      "id": "100.3",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence describes an 'intentional attack with a knife multiple times,' which was 'pre-planned and done with the intention to kill,' and 'causing their death.' This constitutes an assault that would reasonably cause the apprehension that death would be the consequence.\n  → intention: The assailant acted with the intention to kill.\n  → knowledge: The nature of the assault (multiple knife attacks, intent to kill) would reasonably cause the victim to apprehend death.\n  → causation: The assault directly caused the death of the individual."
+    },
+    {
+      "id": "100.4",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence describes an 'intentional attack with a knife multiple times, causing death.' This assault, being severe enough to cause death, would certainly reasonably cause the apprehension that grievous hurt would be the consequence.\n  → intention: The assailant acted with the intention to kill, which inherently includes the intention to cause grievous hurt.\n  → knowledge: The nature of the assault (multiple knife attacks) would reasonably cause the victim to apprehend grievous hurt.\n  → causation: The assault directly caused death, which is a form of grievous hurt."
+    },
+    {
+      "id": "100.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not describe an assault with the intention of wrongfully confining a person, nor any apprehension related to recourse to public authorities.\n  → intention: No evidence of intention to wrongfully confine.\n  → knowledge: No evidence of apprehension of inability to contact authorities.\n  → causation: Not applicable."
+    },
+    {
+      "id": "100.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly describes an attack with a knife ('object': 'a knife'), not an act of throwing or administering acid or an attempt to do so.\n  → intention: No evidence of an acid attack.\n  → knowledge: No evidence of apprehension from an acid attack.\n  → causation: Not applicable."
+    }
+  ]
+}
+
+--- SECTION 301 ---
+{
+  "statute_classification": "NOT SATISFIED",
+  "statute_reasoning": "While the evidence clearly establishes that a person intentionally caused the death of another (satisfying ingredients 301.1 and 301.2), the statute's specific conditions in 301.3 and 301.4, which describe a scenario of transferred malice where the victim is *not* the intended target, are not met. The evidence indicates the victim *was* the intended target, directly contradicting ingredient 301.3. As 301.3 is a necessary condition for this specific formulation of the statute, its failure means the statute as a whole is not satisfied.",
+  "ingredients": [
+    {
+      "id": "301.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states that 'A person intentionally attacked another individual' (evt_002) and 'The attack was pre-planned and done with the intention to kill' (evt_003). This directly satisfies the requirement of intending to cause death or knowing it to be likely."
+    },
+    {
+      "id": "301.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states that the attack 'causing their death' (evt_001, evt_002). Signals 'death_occurred' (sig_001) and 'death_following_force' (sig_004) confirm the causation of death. An intentional act causing death constitutes culpable homicide."
+    },
+    {
+      "id": "301.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient requires that 'The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.' However, the evidence states 'The attack was pre-planned and done with the intention to kill' (evt_003) and 'A person intentionally attacked another individual... causing their death' (evt_002). This implies the person who died *was* the intended target, directly contradicting the condition that the victim was *neither* the intended nor known target."
+    },
+    {
+      "id": "301.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient describes the nature of the culpable homicide in a scenario where the victim is *not* the intended target (as per ingredient 301.3). Since ingredient 301.3 is not satisfied (the victim was the intended target), the premise for this ingredient's application is not met. Therefore, this ingredient, in its intended context of transferred malice, is not satisfied by the facts."
+    }
+  ]
+}
+
+--- SECTION 115 ---
+{
+  "statute_classification": "NOT SATISFIED",
+  "statute_reasoning": "The fundamental requirements of Section 115, which revolve around the concept of abetment, are not met by the provided evidence. There is no indication of abetment (ingredients 115.1 and 115.5). Crucially, the evidence explicitly states that the principal offence (causing death) *was* committed, which directly contradicts ingredient 115.3, requiring the abetted offence to *not* be committed. Ingredient 115.4 cannot be evaluated due to a lack of information about the Code's provisions, and ingredient 115.6 is dependent on the unsatisfied ingredient 115.5. While the nature of the described offence (punishable by death or life imprisonment) aligns with ingredient 115.2, this single satisfied point is insufficient to meet the overall requirements of the statute.",
+  "ingredients": [
+    {
+      "id": "115.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes a direct commission of an offence by an actor ('A person intentionally attacked another individual'), not the abetment of an offence by one person of another. There is no mention of instigation, conspiracy, or aiding. The actor's intention was to attack and kill, not to abet.",
+      "intention": "The actor intended to attack and kill. No intention to abet is mentioned.",
+      "knowledge": "Not applicable.",
+      "causation": "Not applicable."
+    },
+    {
+      "id": "115.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence describes an intentional, pre-planned attack causing death ('A person intentionally attacked another individual with a knife multiple times, causing their death. The attack was pre-planned and done with the intention to kill.'). This act constitutes murder, which is an offence punishable with death or imprisonment for life.",
+      "intention": "The described offence involved an intention to kill.",
+      "knowledge": "Not applicable to the punishment of the offence itself.",
+      "causation": "The attack caused death."
+    },
+    {
+      "id": "115.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states that the individual died ('causing their death'), meaning the principal offence (murder) *was* committed. This directly contradicts the requirement that 'the abetted offence is not committed'. Furthermore, there is no evidence of abetment for the offence to be committed or not committed in consequence of.",
+      "intention": "Not applicable to this specific condition.",
+      "knowledge": "Not applicable to this specific condition.",
+      "causation": "The death *was* caused by the attack."
+    },
+    {
+      "id": "115.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "The provided evidence contains no information regarding the specific provisions of 'this Code' or whether express provision is made for the punishment of such abetment. Therefore, this ingredient cannot be confirmed as satisfied based on the given facts.",
+      "intention": "Not applicable.",
+      "knowledge": "Not applicable.",
+      "causation": "Not applicable."
+    },
+    {
+      "id": "115.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not describe any abetment, nor does it describe an act done by an abettor or an act for which an abettor is liable. The described act (the attack causing death) was committed directly by the principal actor. No intention to abet is mentioned.",
+      "intention": "No intention to abet is mentioned.",
+      "knowledge": "Not applicable.",
+      "causation": "Not applicable."
+    },
+    {
+      "id": "115.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient refers to 'This act' from ingredient 115.5. Since ingredient 115.5 (an act for which the abettor is liable in consequence of the abetment) is not satisfied due to the absence of abetment in the evidence, this ingredient cannot be satisfied in its intended context. While the principal act did cause death (a form of hurt), it is not 'this act' as defined by the preceding ingredient.",
+      "intention": "The principal act involved intention to kill.",
+      "knowledge": "Not applicable to this specific condition.",
+      "causation": "The principal act caused death."
+    }
+  ]
+}
+
+--- SECTION 303 ---
+{
+  "statute_classification": "PARTIALLY SATISFIED",
+  "statute_reasoning": "Ingredient 303.2, 'commits murder,' is strongly satisfied by the evidence, which explicitly details an intentional, pre-planned attack causing death with intent to kill. However, ingredient 303.1, 'Whoever, being under sentence of imprisonment for life,' is not satisfied as there is no evidence provided regarding the actor's sentencing status.",
+  "ingredients": [
+    {
+      "id": "303.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence provided in the Events, Legal Facts, or Signals to indicate that the actor was under a sentence of imprisonment for life."
+    },
+    {
+      "id": "303.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states that 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002, lf_001, sig_001, sig_004). Furthermore, it is stated that 'The attack was pre-planned and done with the intention to kill' (evt_003, lf_003). This clearly establishes both the act of causing death and the specific intent to kill, satisfying the elements of committing murder."
+    }
+  ]
+}
+
+--- SECTION 308 ---
+{
+  "statute_classification": "PARTIALLY SATISFIED",
+  "statute_reasoning": "Ingredients 308.1 (act done), 308.2 (intention), and 308.4 (hurt caused) are satisfied by the evidence of an intentional, pre-planned knife attack that caused death. However, ingredient 308.3 is not satisfied because the evidence explicitly states an 'intention to kill' and that the attack was 'pre-planned'. If death resulted from such an act, it would constitute murder, not culpable homicide not amounting to murder, which is a specific requirement of ingredient 308.3.",
+  "ingredients": [
+    {
+      "id": "308.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states 'A person intentionally attacked another individual with a knife multiple times' (evt_001, evt_002), clearly indicating an act was done. Signal 'physical_force_used' (sig_002) further confirms an act involving force."
+    },
+    {
+      "id": "308.2",
+      "llm_status": "satisfied",
+      "reasoning": "Intention: The evidence explicitly states 'A person intentionally attacked another individual' (evt_001, evt_002) and 'The attack was pre-planned and done with the intention to kill' (evt_003). This directly satisfies the requirement for intention. Knowledge: The intention to kill implies knowledge that death or severe harm would likely result from the act."
+    },
+    {
+      "id": "308.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "Intention: The evidence states 'done with the intention to kill' (evt_003). Causation: The evidence states 'causing their death' (evt_001, evt_002) and 'death_occurred' (sig_001), 'death_following_force' (sig_004). If an act is done with the intention to kill and causes death, it would typically be classified as murder, not culpable homicide not amounting to murder. Therefore, the condition that 'if he by that act caused death, he would be guilty of culpable homicide not amounting to murder' is not met, as the stated intention points to murder."
+    },
+    {
+      "id": "308.4",
+      "llm_status": "satisfied",
+      "reasoning": "Causation: The evidence states 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002). Since death was caused, it logically follows that 'hurt' (a lesser degree of injury) was also caused by the act. Signal 'death_following_force' (sig_004) supports the causal link between the act and the outcome."
+    }
+  ]
+}
+
+--- SECTION 302 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "All essential ingredients for committing murder, including the unlawful act, the specific intent to kill, and direct causation of death, are explicitly and strongly supported by the provided evidence. The evidence states an intentional, pre-planned attack with a knife caused the victim's death.",
+  "ingredients": [
+    {
+      "id": "unlawful_act_causing_death",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states 'A person intentionally attacked another individual with a knife multiple times, causing their death.' (evt_001, evt_002) and confirms 'physical_force_used' (sig_002) and 'death_occurred' (sig_001). This establishes the unlawful act leading to death."
+    },
+    {
+      "id": "intention_to_kill",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states 'A person intentionally attacked another individual...' (evt_001, evt_002) and 'The attack was pre-planned and done with the intention to kill.' (evt_003). This directly establishes the specific intent to kill."
+    },
+    {
+      "id": "causation_of_death",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence clearly states the attack 'causing their death.' (evt_001, evt_002) and is supported by 'death_following_force' (sig_004), establishing a direct causal link between the act and the death."
+    }
+  ]
+}
+
+--- SECTION 300 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "All four ingredients of Section 300 are strongly satisfied by the provided evidence. The evidence explicitly states that an individual intentionally attacked another with a knife multiple times, causing their death, and that this attack was pre-planned with the intention to kill. This directly addresses the elements of intention, knowledge, and causation required by each ingredient.",
+  "ingredients": [
+    {
+      "id": "300.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states that 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002) and that 'The attack was pre-planned and done with the intention to kill' (evt_003). This directly satisfies the requirement that the act causing death was done with the intention of causing death. \n- Intention: Explicitly stated as 'intention to kill' (evt_003).\n- Causation: Explicitly stated as 'causing their death' (evt_001)."
+    },
+    {
+      "id": "300.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence indicates an intentional attack with a knife multiple times (evt_002), which constitutes causing bodily injury. The explicit 'intention to kill' (evt_003) logically infers that the offender knew the bodily injury inflicted (multiple knife attacks) was likely to cause death. \n- Intention: 'intentionally attacked' (evt_002) implies intention to cause bodily injury. The 'intention to kill' (evt_003) further supports the nature of the intended injury.\n- Knowledge: The 'intention to kill' (evt_003) directly implies the offender knew the bodily injury would be likely to cause death.\n- Causation: Death was caused by the attack (evt_001)."
+    },
+    {
+      "id": "300.3",
+      "llm_status": "satisfied",
+      "reasoning": "The act of intentionally attacking with a knife multiple times (evt_002) demonstrates an intention to cause bodily injury. The fact that this act 'causing their death' (evt_001) confirms that the bodily injury inflicted was sufficient in the ordinary course of nature to cause death. The 'intention to kill' (evt_003) reinforces that the intended injury was of a lethal nature. \n- Intention: 'intentionally attacked' (evt_002) implies intention to cause bodily injury. The 'intention to kill' (evt_003) indicates the intended injury was lethal.\n- Causation: The attack 'causing their death' (evt_001) demonstrates the sufficiency of the injury."
+    },
+    {
+      "id": "300.4",
+      "llm_status": "satisfied",
+      "reasoning": "Attacking someone multiple times with a knife (evt_002) is an imminently dangerous act. The explicit 'intention to kill' (evt_003) confirms the person committing the act knew it was so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death. No excuse for incurring this risk is mentioned in the evidence; rather, the 'pre-planned' nature (evt_003) suggests the absence of any excuse. \n- Knowledge: The 'intention to kill' (evt_003) and the nature of the 'attacked... with a knife multiple times' (evt_002) demonstrate knowledge of imminent danger and probable death.\n- Act without excuse: No excuse is provided in the evidence; the 'pre-planned' nature (evt_003) suggests the act was committed without excuse."
+    }
+  ]
+}
+
+--- SECTION 94 ---
+{
+  "statute_classification": "NOT SATISFIED",
+  "statute_reasoning": "The evidence describes an intentional, pre-planned attack with the intent to kill, resulting in death. This directly contradicts the core premise of Section 94, which appears to be a defense related to acts done under compulsion or threat. There is no evidence of the actor being compelled by threats, facing apprehension of instant death, or being subject to any form of constraint. Furthermore, the act described is murder, which explicitly fails to satisfy ingredient 94.5.",
+  "ingredients": [
+    {
+      "id": "94.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states the act was 'intentionally attacked' and 'pre-planned and done with the intention to kill.' There is no mention of the person being compelled by threats to do the act. (Intention: Actor intended to kill. Knowledge: Actor knew they were attacking. Causation: Actor's attack caused death.)"
+    },
+    {
+      "id": "94.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence of any threats compelling the actor, and therefore no apprehension of instant death due to such threats can be established. The act was intentional and pre-planned by the actor. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of threats. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "id": "94.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence that the person was subject to any constraint or compulsion. The act was intentional and pre-planned, indicating the actor was not in a situation of constraint. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of constraint. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "id": "94.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence of any constraint or apprehension of harm compelling the actor. The act was intentional and pre-planned, indicating the actor was not in a situation of constraint due to apprehension of harm. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of apprehension of harm. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "id": "94.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence states 'A person intentionally attacked another individual with a knife multiple times, causing their death' and 'The attack was pre-planned and done with the intention to kill.' This description strongly aligns with the definition of murder, thus the ingredient 'The act is not murder' is not satisfied. (Intention: Actor intended to kill. Knowledge: Actor knew their actions would cause death. Causation: Actor's attack caused death.)"
+    },
+    {
+      "id": "94.6",
+      "llm_status": "satisfied",
+      "reasoning": "The act described is the intentional killing of an individual (murder). While a serious crime, murder of an individual is generally considered an offense against a person, not typically classified as an 'offence against the State punishable with death' (e.g., treason or sedition). (Intention: Actor intended to kill. Knowledge: Actor knew their actions would cause death. Causation: Actor's attack caused death.)"
+    },
+    {
+      "id": "94.7",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence provided regarding gangs, dacoits, or the actor joining such a group, nor any compulsion by associates. (Intention: Not applicable to this ingredient. Knowledge: Not applicable to this ingredient. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "id": "94.8",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no evidence provided regarding the actor being seized by a gang of dacoits or forced by threats of instant death. (Intention: Not applicable to this ingredient. Knowledge: Not applicable to this ingredient. Causation: Not applicable to this ingredient.)"
+    }
+  ]
+}
+
+--- SECTION 70 ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "The provided evidence details a violent act resulting in a victim's death, including intent and planning. However, the ingredients of Section 70 pertain to the levying of fines, imprisonment periods, and the liability of an offender's property after their death. The evidence contains no information regarding fines, sentences, imprisonment terms, or the death of an offender, which are all critical elements for evaluating these ingredients. Consequently, none of the ingredients can be satisfied.",
+  "ingredients": [
+    {
+      "id": "70.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes an attack causing death and pre-planning. There is no mention of a fine, a sentence being passed, or any timeframes related to levying a fine. Therefore, this ingredient is not satisfied."
+    },
+    {
+      "id": "70.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes an attack causing death and pre-planning. There is no mention of an offender being liable to imprisonment for a specific period, nor any information about a fine being levied in relation to such imprisonment. Therefore, this ingredient is not satisfied."
+    },
+    {
+      "id": "70.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence states that 'A person intentionally attacked another individual with a knife multiple times, causing their death.' This refers to the victim's death. The ingredient, however, refers to 'The death of an offender' and their property liability. There is no information in the evidence about the death of an offender or their property/debts. Therefore, this ingredient is not satisfied."
+    }
+  ]
+}
+
+--- SECTION 304B ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "The evidence provided is insufficient to satisfy the majority of the ingredients for Section 304B. While the death was caused by bodily injury under abnormal circumstances due to a cruel act, crucial elements such as the gender of the deceased ('woman'), her marital status, the relationship of the perpetrator (husband or husband's relative), and any connection to dowry demands are entirely absent from the facts.",
+  "ingredients": [
+    {
+      "id": "304B.1",
+      "llm_status": "partial",
+      "reasoning": "Causation: The evidence explicitly states 'causing their death' by 'attacked another individual with a knife multiple times' (evt_001, evt_002), which constitutes death by bodily injury. Intent/Knowledge: The attack was 'intentionally' carried out and 'with the intention to kill' (evt_001, evt_002, evt_003). Missing: The gender of the deceased is not specified as 'woman'; the evidence refers to 'another individual'."
+    },
+    {
+      "id": "304B.2",
+      "llm_status": "partial",
+      "reasoning": "Causation: The death was caused by an intentional, pre-planned knife attack (evt_001, evt_002, evt_003). Intent/Knowledge: The attack was 'intentional' and 'pre-planned' with 'intention to kill' (evt_001, evt_002, evt_003), indicating circumstances far from normal. Missing: The gender of the deceased is not specified as 'woman'; the evidence refers to 'another individual'."
+    },
+    {
+      "id": "304B.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence provides no information regarding the marital status of the deceased or the timeframe of death relative to any marriage."
+    },
+    {
+      "id": "304B.4",
+      "llm_status": "partial",
+      "reasoning": "Causation: The evidence describes an 'intentional attack... with a knife multiple times, causing their death' (evt_001, evt_002). This act itself is a severe form of cruelty and occurred immediately before death. Intent/Knowledge: The attack was 'intentional' and 'pre-planned' with 'intention to kill' (evt_001, evt_002, evt_003), demonstrating intent for the cruel act. Missing: The gender of the deceased is not specified as 'woman'. While the act is cruel, the specific context of 'cruelty or harassment' as typically defined in Section 304B (e.g., domestic abuse, dowry-related harassment over time) is not explicitly detailed beyond the fatal attack itself."
+    },
+    {
+      "id": "304B.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not identify the actor, the target's marital status, or any relationship between them as husband and wife."
+    },
+    {
+      "id": "304B.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not identify the actor, the target's marital status, or any relationship between them as relatives of a husband."
+    },
+    {
+      "id": "304B.7",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no mention of dowry or any demand for it in the provided facts."
+    },
+    {
+      "id": "304B.8",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient is definitional and depends on the existence of dowry-related cruelty, which is not established by the evidence."
+    }
+  ]
+}
+
+--- SECTION 87 ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "All evaluated ingredients for Section 87 are found to be 'not_satisfied' based on the provided evidence. The evidence explicitly states an intention to kill, directly contradicting ingredients 87.1 and 87.2. Furthermore, there is no information provided regarding the victim's age or consent, leading to 'not_satisfied' for ingredients 87.3, 87.4, and 87.5.",
+  "ingredients": [
+    {
+      "id": "87.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states that the attack was 'done with the intention to kill' (evt_003). This directly contradicts the ingredient's requirement that the act is not intended to cause death. (Intention: Intention to kill is present.)"
+    },
+    {
+      "id": "87.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence states the attack was 'done with the intention to kill' (evt_003). An intention to kill necessarily encompasses an intention to cause grievous hurt, as grievous hurt is a lesser but included harm within the intent to kill. Therefore, the act was intended to cause grievous hurt. (Intention: Intention to kill, which implies intention to cause grievous hurt, is present.)"
+    },
+    {
+      "id": "87.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "The provided evidence contains no information regarding the age of the person harmed. (Knowledge: Not specified. Causation: Not applicable.)"
+    },
+    {
+      "id": "87.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes an intentional attack causing death (evt_001, evt_002). There is no information provided to suggest that the person harmed gave any form of consent, express or implied, to suffer the harm or death. (Knowledge: Not specified. Causation: Not applicable.)"
+    },
+    {
+      "id": "87.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes a pre-planned, intentional attack with the intent to kill (evt_003). There is no information provided to indicate that the person harmed consented to take the risk of such harm. (Knowledge: Not specified. Causation: Not applicable.)"
+    }
+  ]
+}
+
+--- SECTION 307 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "The core elements of the statute, including the performance of an act, the requisite intention to kill, and circumstances that would constitute murder if death occurred, are all clearly satisfied by the evidence. Furthermore, the evidence confirms that hurt (death) was indeed caused by the act, satisfying the first level of aggravation. The only ingredients not satisfied relate to a specific, higher-tier aggravating circumstance (the offender being a life-convict) for which no evidence was provided, and which is not essential for the primary offense.",
+  "ingredients": [
+    {
+      "id": "307.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states 'A person intentionally attacked another individual with a knife multiple times,' which constitutes a clear 'act'."
+    },
+    {
+      "id": "307.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states the attack was 'intentionally attacked' (evt_001) and 'pre-planned and done with the intention to kill' (evt_003). This directly establishes the required intention.\n- Intention: Explicitly stated as 'intentionally attacked' and 'intention to kill'.\n- Knowledge: Not explicitly stated as knowledge, but intention implies knowledge of the likely outcome.\n- Causation: Not relevant for this ingredient."
+    },
+    {
+      "id": "307.3",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence indicates the act was 'pre-planned' and executed 'with the intention to kill,' and it *did* cause death. These circumstances (pre-planning and intent to kill) are precisely what would constitute murder if death resulted.\n- Intention: 'intention to kill' (from evt_003).\n- Knowledge: Implied knowledge of the lethality of a knife attack, but not explicitly stated as 'knowledge'.\n- Causation: The ingredient is hypothetical ('if he by that act caused death'), but the evidence confirms death *was* caused by the act ('causing their death' from evt_001, 'causing_death' from lf_001, 'death_following_force' from sig_004)."
+    },
+    {
+      "id": "307.4",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence clearly states the act caused the individual's death ('causing their death' from evt_001, 'death_occurred' from sig_001). Death is considered the most severe form of hurt, therefore hurt was caused.\n- Intention: Not directly relevant to *if* hurt is caused, but the act causing hurt was intentional.\n- Knowledge: Not directly relevant.\n- Causation: The act of attacking with a knife multiple times *caused* death, which is a form of hurt ('causing_death' from lf_001, 'death_following_force' from sig_004)."
+    },
+    {
+      "id": "307.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no information provided in the evidence (Events, Legal Facts, or Signals) to indicate whether the actor is currently under a sentence of imprisonment for life."
+    },
+    {
+      "id": "307.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "While hurt (death) was indeed caused by the act, the condition that the act was committed 'by a life-convict' is not satisfied, as there is no evidence the actor is a life-convict (referencing reasoning for 307.5).\n- Intention: Not directly relevant to the status of the actor.\n- Knowledge: Not directly relevant to the status of the actor.\n- Causation: Hurt (death) was caused by the act, but the actor's status as a life-convict is not established."
+    }
+  ]
+}
+
+--- SECTION 46 ---
+{
+  "statute_classification": "STRONGLY SATISFIED",
+  "statute_reasoning": "Ingredient 46.1 is satisfied as the evidence explicitly refers to the death of 'another individual,' implying a human being. Ingredient 46.2 is not satisfied in the sense that no contrary context appears, thus reinforcing the interpretation of death as that of a human being. Together, the ingredients are fully met by the evidence.",
+  "ingredients": [
+    {
+      "id": "46.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states, 'A person intentionally attacked another individual... causing their death.' The term 'another individual' clearly denotes a human being, satisfying this ingredient."
+    },
+    {
+      "id": "46.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "There is no information or context provided in the evidence that suggests the death was of anything other than a human being. Therefore, the condition 'unless the contrary appears' is not met, meaning no contrary context exists."
+    }
+  ]
+}
+
+--- SECTION 304 ---
+{
+  "statute_classification": "NOT_SATISFIED",
+  "statute_reasoning": "The evidence explicitly states that the act was 'pre-planned and done with the intention to kill'. This indicates a higher degree of culpability (murder) than what Section 304, which typically covers culpable homicide not amounting to murder, addresses. Consequently, the primary ingredient 'Whoever commits culpable homicide not amounting to murder' (304.1) is not satisfied because the act, as described, appears to amount to murder.",
+  "ingredients": [
+    {
+      "id": "304.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states 'intentionally attacked another individual... causing their death' and 'The attack was pre-planned and done with the intention to kill.' The presence of pre-planning and direct intention to kill strongly suggests the act amounts to murder, not merely culpable homicide not amounting to murder."
+    },
+    {
+      "id": "304.2",
+      "llm_status": "satisfied",
+      "reasoning": "Causation: The evidence states 'causing their death' (evt_001, sig_001, sig_004). Intention: The evidence explicitly states 'done with the intention to kill' (evt_003)."
+    },
+    {
+      "id": "304.3",
+      "llm_status": "satisfied",
+      "reasoning": "Causation: The evidence states 'causing their death' (evt_001, sig_001, sig_004). Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). An intention to kill logically subsumes the intention to cause bodily injury that is likely to cause death."
+    },
+    {
+      "id": "304.4",
+      "llm_status": "satisfied",
+      "reasoning": "Knowledge: The evidence explicitly states 'done with the intention to kill' (evt_003). If an individual intends to kill, they necessarily possess the knowledge that their act is likely to cause death."
+    },
+    {
+      "id": "304.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). This directly contradicts the requirement of 'without any intention to cause death'."
+    },
+    {
+      "id": "304.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). An intention to kill logically implies an intention to cause bodily injury that is likely to cause death. Therefore, the act was not done without such intention."
+    }
+  ]
+}
+
+--- SECTION 115 ---
+{
+  "statute_classification": "NOT SATISFIED",
+  "statute_reasoning": "The core ingredient of 'abetment' (115.1) is not satisfied as the evidence describes a single actor planning and executing an attack, with no indication of one individual abetting another. Consequently, ingredients contingent on abetment (115.5) cannot be met. Furthermore, ingredient 115.3 is directly contradicted by the facts, as the offence was indeed committed. Ingredient 115.4 cannot be evaluated due to a lack of information in the provided facts.",
+  "ingredients": [
+    {
+      "id": "115.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence describes a single actor planning and executing an attack ('A person intentionally attacked...', 'The attack was pre-planned'). There is no indication of one individual instigating, conspiring with, or aiding another to commit an offence, which is required for abetment. The term 'conspiracy' in legal facts is derived from 'planned' but does not imply multiple actors in the provided event descriptions."
+    },
+    {
+      "id": "115.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence clearly states that the attack caused the victim's death ('causing their death'). An offence resulting in death (e.g., murder) is typically punishable with death or imprisonment for life. (Knowledge: The act caused death. Intention: The attack was done with the intention to kill. Causation: The attack caused death.)"
+    },
+    {
+      "id": "115.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states that the attack occurred and caused death ('A person intentionally attacked another individual... causing their death'). Therefore, the offence *was* committed. This ingredient requires the abetted offence to *not* be committed, which contradicts the facts. (Knowledge: The offence was committed. Causation: The attack led to death.)"
+    },
+    {
+      "id": "115.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "The provided evidence, legal facts, and signals do not contain any information regarding the existence or absence of express provisions within a 'Code' for the punishment of abetment. Therefore, this ingredient cannot be confirmed as satisfied based on the given facts."
+    },
+    {
+      "id": "115.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "As ingredient 115.1 (abetment) is not satisfied, there is no identified abettor or act done in consequence of abetment. The facts describe an act by a single perpetrator, not an act for which an abettor would be liable."
+    },
+    {
+      "id": "115.6",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states that the attack caused the victim's death ('causing their death'). Death is a severe form of hurt. (Causation: The act caused death, which constitutes hurt.)"
+    }
+  ]
+}
+
+--- SECTION 101 ---
+{
+  "statute_classification": "PARTIALLY SATISFIED",
+  "statute_reasoning": "Ingredient 101.1 is not satisfied because the evidence describes an intentional, pre-planned attack causing death, which strongly suggests a severe offence likely to be enumerated in a preceding section, thus failing the negative condition. Ingredients 101.2 and 101.3 are satisfied as they state legal principles regarding the limitations and scope of private defence, which are consistent with the facts that involve an intentional killing without any claim of private defence.",
+  "ingredients": [
+    {
+      "id": "101.1",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly states an intentional, pre-planned attack causing death (Events evt_001, evt_002, evt_003). This act, involving clear intention to kill and causation of death, strongly suggests a severe offence (e.g., murder or a high degree of culpable homicide). Without knowing the specific descriptions enumerated in 'the last preceding section,' it is highly probable that such a grave act *would* be included among them. Therefore, the condition that the offence is *not* of any of those descriptions is likely not met by the facts."
+    },
+    {
+      "id": "101.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence clearly indicates that an individual intentionally attacked another with a knife multiple times, causing their death (Events evt_001, evt_002). The attack was pre-planned and done with the intention to kill (Event evt_003). There is no mention or indication in the evidence that this act was committed in private defence. This ingredient states a legal principle that the right of private defence *does not extend* to the voluntary causing of death. Since the facts describe a voluntary causing of death (by an attacker, not a defender), this legal principle is consistent with the facts, meaning private defence would not be a valid claim here. Intention to kill is explicitly stated. Causation of death by the attack is explicit."
+    },
+    {
+      "id": "101.3",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence describes an act where death was caused (Event evt_001). This ingredient describes a scenario where private defence *can* extend to causing harm *other than death*. The facts do not present a situation where harm *other than death* was caused in private defence; rather, death was caused. However, this ingredient is a statement of the general scope of private defence. The facts, by describing a death, do not contradict the general legal principle that private defence *can* extend to non-fatal harm. The facts simply fall outside the specific scenario described by this extension, but the principle itself is not disproven by the evidence."
+    }
+  ]
+}
+
+--- SECTION 301 ---
+{
+  "statute_classification": "NOT SATISFIED",
+  "statute_reasoning": "While the evidence clearly establishes that a person intentionally caused the death of another (satisfying ingredients 301.1 and 301.2), the statute's specific conditions in 301.3 and 301.4, which describe a scenario of transferred malice where the victim is *not* the intended target, are not met. The evidence indicates the victim *was* the intended target, directly contradicting ingredient 301.3. As 301.3 is a necessary condition for this specific formulation of the statute, its failure means the statute as a whole is not satisfied.",
+  "ingredients": [
+    {
+      "id": "301.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states that 'A person intentionally attacked another individual' (evt_002) and 'The attack was pre-planned and done with the intention to kill' (evt_003). This directly satisfies the requirement of intending to cause death or knowing it to be likely."
+    },
+    {
+      "id": "301.2",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence states that the attack 'causing their death' (evt_001, evt_002). Signals 'death_occurred' (sig_001) and 'death_following_force' (sig_004) confirm the causation of death. An intentional act causing death constitutes culpable homicide."
+    },
+    {
+      "id": "301.3",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient requires that 'The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.' However, the evidence states 'The attack was pre-planned and done with the intention to kill' (evt_003) and 'A person intentionally attacked another individual... causing their death' (evt_002). This implies the person who died *was* the intended target, directly contradicting the condition that the victim was *neither* the intended nor known target."
+    },
+    {
+      "id": "301.4",
+      "llm_status": "not_satisfied",
+      "reasoning": "This ingredient describes the nature of the culpable homicide in a scenario where the victim is *not* the intended target (as per ingredient 301.3). Since ingredient 301.3 is not satisfied (the victim was the intended target), the premise for this ingredient's application is not met. Therefore, this ingredient, in its intended context of transferred malice, is not satisfied by the facts."
+    }
+  ]
+}
+
+--- SECTION 100 ---
+{
+  "statute_classification": "PARTIALLY SATISFIED",
+  "statute_reasoning": "The evidence describes a severe, pre-planned, intentional knife attack that resulted in death. This aligns with the type of offence that could trigger the right of private defence extending to causing death or grievous hurt (ingredients 100.3 and 100.4), and the act itself involves the voluntary causing of death (ingredient 100.1). However, the evidence does not describe the exercise of private defence itself, nor does it provide information relevant to restrictions (100.2), wrongful confinement (100.5), or acid attacks (100.6). Therefore, only specific conditions related to the nature of the underlying offence are met, but not all aspects of the statute.",
+  "ingredients": [
+    {
+      "id": "100.1",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence explicitly states that a person 'intentionally attacked another individual with a knife multiple times, causing their death' and that the attack was 'done with the intention to kill.' This directly describes the 'voluntary causing of death' as mentioned in the ingredient. The evidence describes the act of causing death, which is the scope the right of private defence extends to, if applicable. \n  → intention: The act was done with the intention to kill.\n  → knowledge: The actor knew their actions would cause death.\n  → causation: The attack directly caused death."
+    },
+    {
+      "id": "100.2",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not describe the exercise of a right of private defence, nor does it provide any information regarding 'restrictions mentioned in the last preceding section.'\n  → intention: Not applicable.\n  → knowledge: Not applicable.\n  → causation: Not applicable."
+    },
+    {
+      "id": "100.3",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence describes an 'intentional attack with a knife multiple times,' which was 'pre-planned and done with the intention to kill,' and 'causing their death.' This constitutes an assault that would reasonably cause the apprehension that death would be the consequence.\n  → intention: The assailant acted with the intention to kill.\n  → knowledge: The nature of the assault (multiple knife attacks, intent to kill) would reasonably cause the victim to apprehend death.\n  → causation: The assault directly caused the death of the individual."
+    },
+    {
+      "id": "100.4",
+      "llm_status": "satisfied",
+      "reasoning": "The evidence describes an 'intentional attack with a knife multiple times, causing death.' This assault, being severe enough to cause death, would certainly reasonably cause the apprehension that grievous hurt would be the consequence.\n  → intention: The assailant acted with the intention to kill, which inherently includes the intention to cause grievous hurt.\n  → knowledge: The nature of the assault (multiple knife attacks) would reasonably cause the victim to apprehend grievous hurt.\n  → causation: The assault directly caused death, which is a form of grievous hurt."
+    },
+    {
+      "id": "100.5",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence does not describe an assault with the intention of wrongfully confining a person, nor any apprehension related to recourse to public authorities.\n  → intention: No evidence of intention to wrongfully confine.\n  → knowledge: No evidence of apprehension of inability to contact authorities.\n  → causation: Not applicable."
+    },
+    {
+      "id": "100.6",
+      "llm_status": "not_satisfied",
+      "reasoning": "The evidence explicitly describes an attack with a knife ('object': 'a knife'), not an act of throwing or administering acid or an attempt to do so.\n  → intention: No evidence of an acid attack.\n  → knowledge: No evidence of apprehension from an acid attack.\n  → causation: Not applicable."
+    }
+  ]
+}

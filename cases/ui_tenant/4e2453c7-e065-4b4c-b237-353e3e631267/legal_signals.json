@@ -1,0 +1,24 @@
+{
+  "case_id": "4e2453c7-e065-4b4c-b237-353e3e631267",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_5b_legal_signal_extractor",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json"
+  ],
+  "created_at": "2026-04-08T05:26:22.805305+00:00",
+  "signals": [
+    {
+      "signal_id": "sig_001",
+      "signal": "termination_of_pregnancy_occurred",
+      "categories": [
+        "violence"
+      ],
+      "confidence": 0.7,
+      "source": "llm",
+      "source_fact_ids": [
+        "lf_001"
+      ]
+    }
+  ]
+}

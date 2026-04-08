@@ -1,0 +1,41 @@
+{
+  "case_id": "31a6abc6-0ed6-46e7-8a3c-8daccb20c843",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_5a_legal_fact_normalizer",
+  "input_refs": [
+    "event_graph.json"
+  ],
+  "created_at": "2026-04-07T19:56:21.179330+00:00",
+  "legal_facts": [
+    {
+      "fact_id": "lf_001",
+      "type": "causing_death",
+      "original_action": "died",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_001",
+      "actor": null,
+      "target": null,
+      "object": "a knife"
+    },
+    {
+      "fact_id": "lf_002",
+      "type": "use_of_force",
+      "original_action": "attacked",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_002",
+      "actor": null,
+      "target": null,
+      "object": "a knife"
+    },
+    {
+      "fact_id": "lf_003",
+      "type": "conspiracy",
+      "original_action": "planned",
+      "mapped_from": "synonym_expansion",
+      "source_event_id": "evt_003",
+      "actor": null,
+      "target": null,
+      "object": null
+    }
+  ]
+}

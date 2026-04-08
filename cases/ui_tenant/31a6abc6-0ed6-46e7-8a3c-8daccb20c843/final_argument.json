@@ -1,0 +1,1212 @@
+{
+  "case_id": "31a6abc6-0ed6-46e7-8a3c-8daccb20c843",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_9_final_argument",
+  "input_refs": [
+    "ingredient_report.json",
+    "loopholes.json",
+    "precedent_comparison.json"
+  ],
+  "created_at": "2026-04-07T19:57:47.046492+00:00",
+  "role": "neutral",
+  "case_summary": "Case involves 15 statute evaluation(s). 4 statute(s) have VALID ingredient satisfaction: 300, 46, 302, 307. 2 statute(s) have WEAK ingredient satisfaction: 101, 303. 9 statute(s) are INVALID (core ingredient failure): 308, 94, 304B, 70, 87, 304, 100, 301, 115.",
+  "applicable_sections": [
+    {
+      "section": "300",
+      "heading": "Murder.",
+      "score": 1.0,
+      "status": "valid"
+    },
+    {
+      "section": "101",
+      "heading": "When such right extends to causing any harm other than death.",
+      "score": 0.6667,
+      "status": "weak"
+    },
+    {
+      "section": "303",
+      "heading": "Punishment for murder by life-convict.",
+      "score": 0.5,
+      "status": "weak"
+    },
+    {
+      "section": "46",
+      "heading": "“Death”.",
+      "score": 0.5,
+      "status": "valid"
+    },
+    {
+      "section": "308",
+      "heading": "Attempt to commit culpable homicide.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "302",
+      "heading": "Punishment for murder.",
+      "score": 0.0,
+      "status": "valid"
+    },
+    {
+      "section": "94",
+      "heading": "Act to which a person is compelled by threats.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "304B",
+      "heading": "Dowry death.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "70",
+      "heading": "Fine leviable within six years, of during imprisonment. Death not to discharge property from liability.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "307",
+      "heading": "Attempt to murder.",
+      "score": 0.0,
+      "status": "valid"
+    },
+    {
+      "section": "87",
+      "heading": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "304",
+      "heading": "Punishment for culpable homicide not amounting to murder.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "100",
+      "heading": "When the right of private defence of the body extends to causing death.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "301",
+      "heading": "Culpable homicide by causing death of person other than person whose death was intended.",
+      "score": 0.0,
+      "status": "invalid"
+    },
+    {
+      "section": "115",
+      "heading": "Abetment of offence punishable with death or imprisonment for life.—if offence not committed.",
+      "score": 0.0,
+      "status": "invalid"
+    }
+  ],
+  "ingredient_analysis": [
+    {
+      "section": "300",
+      "ingredient": "the act by which the death is caused is done with the intention of causing death",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "[LLM upgrade] The evidence explicitly states that 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002) and that 'The attack was pre-planned and done with the intention to kill' (evt_003). This directly satisfies the requirement that the act causing death was done with the intention of causing death. \n- Intention: Explicitly stated as 'intention to kill' (evt_003).\n- Causation: Explicitly stated as 'causing their death' (evt_001)."
+    },
+    {
+      "section": "300",
+      "ingredient": "the act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "[LLM upgrade] The evidence indicates an intentional attack with a knife multiple times (evt_002), which constitutes causing bodily injury. The explicit 'intention to kill' (evt_003) logically infers that the offender knew the bodily injury inflicted (multiple knife attacks) was likely to cause death. \n- Intention: 'intentionally attacked' (evt_002) implies intention to cause bodily injury. The 'intention to kill' (evt_003) further supports the nature of the intended injury.\n- Knowledge: The 'intention to kill' (evt_003) directly implies the offender knew the bodily injury would be likely to cause death.\n- Causation: Death was caused by the attack (evt_001)."
+    },
+    {
+      "section": "300",
+      "ingredient": "the act is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "[LLM upgrade] The act of intentionally attacking with a knife multiple times (evt_002) demonstrates an intention to cause bodily injury. The fact that this act 'causing their death' (evt_001) confirms that the bodily injury inflicted was sufficient in the ordinary course of nature to cause death. The 'intention to kill' (evt_003) reinforces that the intended injury was of a lethal nature. \n- Intention: 'intentionally attacked' (evt_002) implies intention to cause bodily injury. The 'intention to kill' (evt_003) indicates the intended injury was lethal.\n- Causation: The attack 'causing their death' (evt_001) demonstrates the sufficiency of the injury."
+    },
+    {
+      "section": "300",
+      "ingredient": "the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "[LLM upgrade] Attacking someone multiple times with a knife (evt_002) is an imminently dangerous act. The explicit 'intention to kill' (evt_003) confirms the person committing the act knew it was so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death. No excuse for incurring this risk is mentioned in the evidence; rather, the 'pre-planned' nature (evt_003) suggests the absence of any excuse. \n- Knowledge: The 'intention to kill' (evt_003) and the nature of the 'attacked... with a knife multiple times' (evt_002) demonstrate knowledge of imminent danger and probable death.\n- Act without excuse: No excuse is provided in the evidence; the 'pre-planned' nature (evt_003) suggests the act was committed without excuse."
+    },
+    {
+      "section": "101",
+      "ingredient": "The offence is not of any of the descriptions enumerated in the last preceding section.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "101",
+      "ingredient": "The right of private defence of the body does not extend to the voluntary causing of death to the assailant.",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "101",
+      "ingredient": "The right of private defence of the body extends to the voluntary causing to the assailant of any harm other than death.",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "303",
+      "ingredient": "Whoever, being under sentence of imprisonment for life",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "303",
+      "ingredient": "commits murder",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "none",
+      "reasoning": "[LLM upgrade] The evidence explicitly states that 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002, lf_001, sig_001, sig_004). Furthermore, it is stated that 'The attack was pre-planned and done with the intention to kill' (evt_003, lf_003). This clearly establishes both the act of causing death and the specific intent to kill, satisfying the elements of committing murder."
+    },
+    {
+      "section": "46",
+      "ingredient": "The word “death” denotes the death of a human being",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "46",
+      "ingredient": "unless the contrary appears from the context",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "308",
+      "ingredient": "Whoever does any act",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "none",
+      "reasoning": "[LLM upgrade] EVIDENCE: 'A person intentionally attacked another individual with a knife multiple times' (evt_002, lf_002, sig_002). This clearly indicates an act was performed."
+    },
+    {
+      "section": "308",
+      "ingredient": "with such intention or knowledge",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "none",
+      "reasoning": "[LLM upgrade] INTENTION: The evidence states 'A person intentionally attacked another individual' (evt_002) and 'The attack was pre-planned and done with the intention to kill' (evt_003). This explicitly confirms the presence of intention."
+    },
+    {
+      "section": "308",
+      "ingredient": "and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] CAUSATION: 'causing their death' (evt_001, lf_001, sig_001, sig_004). The act caused death. \nINTENTION/KNOWLEDGE: The evidence states 'intentionally attacked' and 'intention to kill' (evt_002, evt_003). It also states the attack was 'pre-planned' (evt_003). These facts (pre-planned attack with intention to kill, causing death) align with the definition of murder, not 'culpable homicide not amounting to murder'. Culpable homicide not amounting to murder typically involves mitigating circumstances (e.g., sudden provocation, exceeding self-defense, sudden fight) which are not present in the evidence. Therefore, the condition that the act would amount to culpable homicide not amounting to murder is not met; it points to murder."
+    },
+    {
+      "section": "308",
+      "ingredient": "if hurt is caused to any person by such act",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'died'."
+    },
+    {
+      "section": "302",
+      "ingredient": "This section prescribes the punishment for committing murder.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "An act is done by a person who is compelled to do it by threats.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "The threats, at the time of doing the act, reasonably cause the apprehension that instant death to that person will otherwise be the consequence.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] There is no evidence of any threats compelling the actor, and therefore no apprehension of instant death due to such threats can be established. The act was intentional and pre-planned by the actor. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of threats. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "section": "94",
+      "ingredient": "The person doing the act did not of his own accord place himself in the situation by which he became subject to such constraint.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "The person doing the act did not from a reasonable apprehension of harm to himself short of instant death place himself in the situation by which he became subject to such constraint.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] There is no evidence of any constraint or apprehension of harm compelling the actor. The act was intentional and pre-planned, indicating the actor was not in a situation of constraint due to apprehension of harm. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of apprehension of harm. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "section": "94",
+      "ingredient": "The act is not murder.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "The act is not an offence against the State punishable with death.",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "94",
+      "ingredient": "A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception if compelled by associates to do an offence.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "A person seized by a gang of dacoits, and forced, by threat of instant death, to do a thing which is an offence by law, is entitled to the benefit of this exception.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] There is no evidence provided regarding the actor being seized by a gang of dacoits or forced by threats of instant death. (Intention: Not applicable to this ingredient. Knowledge: Not applicable to this ingredient. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "section": "304B",
+      "ingredient": "the death of a woman is caused by any burns or bodily injury",
+      "category": "actus_reus",
+      "status": "partial",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] Causation: The evidence explicitly states 'causing their death' by 'attacked another individual with a knife multiple times' (evt_001, evt_002), which constitutes death by bodily injury. Intent/Knowledge: The attack was 'intentionally' carried out and 'with the intention to kill' (evt_001, evt_002, evt_003). Missing: The gender of the deceased is not specified as 'woman'; the evidence refers to 'another individual'."
+    },
+    {
+      "section": "304B",
+      "ingredient": "the death of a woman occurs otherwise than under normal circumstances",
+      "category": "actus_reus",
+      "status": "partial",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] Causation: The death was caused by an intentional, pre-planned knife attack (evt_001, evt_002, evt_003). Intent/Knowledge: The attack was 'intentional' and 'pre-planned' with 'intention to kill' (evt_001, evt_002, evt_003), indicating circumstances far from normal. Missing: The gender of the deceased is not specified as 'woman'; the evidence refers to 'another individual'."
+    },
+    {
+      "section": "304B",
+      "ingredient": "the death occurs within seven years of her marriage",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] The evidence provides no information regarding the marital status of the deceased or the timeframe of death relative to any marriage."
+    },
+    {
+      "section": "304B",
+      "ingredient": "soon before her death she was subjected to cruelty or harassment",
+      "category": "actus_reus",
+      "status": "partial",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] Causation: The evidence describes an 'intentional attack... with a knife multiple times, causing their death' (evt_001, evt_002). This act itself is a severe form of cruelty and occurred immediately before death. Intent/Knowledge: The attack was 'intentional' and 'pre-planned' with 'intention to kill' (evt_001, evt_002, evt_003), demonstrating intent for the cruel act. Missing: The gender of the deceased is not specified as 'woman'. While the act is cruel, the specific context of 'cruelty or harassment' as typically defined in Section 304B (e.g., domestic abuse, dowry-related harassment over time) is not explicitly detailed beyond the fatal attack itself."
+    },
+    {
+      "section": "304B",
+      "ingredient": "cruelty or harassment by her husband",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304B",
+      "ingredient": "cruelty or harassment by any relative of her husband",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304B",
+      "ingredient": "cruelty or harassment for, or in connection with, any demand for dowry",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304B",
+      "ingredient": "dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "70",
+      "ingredient": "A fine, or any unpaid part thereof, may be levied within six years after the passing of the sentence.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "70",
+      "ingredient": "If the offender is liable to imprisonment for a period longer than six years, the fine may be levied at any time before that imprisonment period expires.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "70",
+      "ingredient": "The death of an offender does not discharge from liability any property that would, after their death, be legally liable for their debts.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] The evidence states that 'A person intentionally attacked another individual with a knife multiple times, causing their death.' This refers to the death of the victim, not the death of an offender. There is no information provided about the death of an offender or the liability of their property for debts. Therefore, this ingredient is not satisfied."
+    },
+    {
+      "section": "307",
+      "ingredient": "Whoever does any act",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "none",
+      "reasoning": "[LLM upgrade] The evidence explicitly states 'A person intentionally attacked another individual with a knife multiple times,' which constitutes a clear 'act'."
+    },
+    {
+      "section": "307",
+      "ingredient": "with such intention or knowledge",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "none",
+      "reasoning": "[LLM upgrade] The evidence states the attack was 'intentionally attacked' (evt_001) and 'pre-planned and done with the intention to kill' (evt_003). This directly establishes the required intention.\n- Intention: Explicitly stated as 'intentionally attacked' and 'intention to kill'.\n- Knowledge: Not explicitly stated as knowledge, but intention implies knowledge of the likely outcome.\n- Causation: Not relevant for this ingredient."
+    },
+    {
+      "section": "307",
+      "ingredient": "and under such circumstances that, if he by that act caused death, he would be guilty of murder",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "307",
+      "ingredient": "if hurt is caused to any person by such act",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'died'."
+    },
+    {
+      "section": "307",
+      "ingredient": "When any person offending under this section is under sentence of imprisonment for life",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "307",
+      "ingredient": "if hurt is caused (by a life-convict)",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] While hurt (death) was indeed caused by the act, the condition that the act was committed 'by a life-convict' is not satisfied, as there is no evidence the actor is a life-convict (referencing reasoning for 307.5).\n- Intention: Not directly relevant to the status of the actor.\n- Knowledge: Not directly relevant to the status of the actor.\n- Causation: Hurt (death) was caused by the act, but the actor's status as a life-convict is not established."
+    },
+    {
+      "section": "87",
+      "ingredient": "The act is not intended to cause death.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] Intention: The evidence explicitly states, 'The attack was pre-planned and done with the intention to kill.' This directly contradicts the ingredient's requirement that the act is not intended to cause death."
+    },
+    {
+      "section": "87",
+      "ingredient": "The act is not intended to cause grievous hurt.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] Intention: The evidence indicates an 'intention to kill' and an 'intentional attack multiple times.' An intention to kill inherently includes an intention to cause grievous hurt. Therefore, the act was intended to cause grievous hurt, contradicting this ingredient."
+    },
+    {
+      "section": "87",
+      "ingredient": "The person harmed is above eighteen years of age.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "87",
+      "ingredient": "The person has given consent, whether express or implied, to suffer that harm.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "87",
+      "ingredient": "The person has consented to take the risk of that harm.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304",
+      "ingredient": "Whoever commits culpable homicide not amounting to murder",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304",
+      "ingredient": "the act by which the death is caused is done with the intention of causing death",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "[LLM upgrade] Causation: The evidence states 'causing their death' (evt_001, sig_001, sig_004). Intention: The evidence explicitly states 'done with the intention to kill' (evt_003)."
+    },
+    {
+      "section": "304",
+      "ingredient": "the act by which the death is caused is done with the intention of causing such bodily injury as is likely to cause death",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "[LLM upgrade] Causation: The evidence states 'causing their death' (evt_001, sig_001, sig_004). Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). An intention to kill logically subsumes the intention to cause bodily injury that is likely to cause death."
+    },
+    {
+      "section": "304",
+      "ingredient": "the act is done with the knowledge that it is likely to cause death",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "[LLM upgrade] Knowledge: The evidence explicitly states 'done with the intention to kill' (evt_003). If an individual intends to kill, they necessarily possess the knowledge that their act is likely to cause death."
+    },
+    {
+      "section": "304",
+      "ingredient": "the act is done without any intention to cause death",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.2,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). This directly contradicts the requirement of 'without any intention to cause death'."
+    },
+    {
+      "section": "304",
+      "ingredient": "the act is done without any intention to cause such bodily injury as is likely to cause death",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.2,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). An intention to kill logically implies an intention to cause bodily injury that is likely to cause death. Therefore, the act was not done without such intention."
+    },
+    {
+      "section": "100",
+      "ingredient": "The right of private defence of the body extends to the voluntary causing of death or of any other harm to the assailant.",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "100",
+      "ingredient": "The right is exercised under the restrictions mentioned in the last preceding section.",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "100",
+      "ingredient": "The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that death will otherwise be the consequence of such assault.",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "100",
+      "ingredient": "The offence which occasions the exercise of the right is an assault that may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault.",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'hurt' via action 'died'."
+    },
+    {
+      "section": "100",
+      "ingredient": "The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "100",
+      "ingredient": "The offence which occasions the exercise of the right is an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] The evidence explicitly describes an attack with a knife ('object': 'a knife'), not an act of throwing or administering acid or an attempt to do so.\n  → intention: No evidence of an acid attack.\n  → knowledge: No evidence of apprehension from an acid attack.\n  → causation: Not applicable."
+    },
+    {
+      "section": "301",
+      "ingredient": "A person does something which he intends or knows to be likely to cause death.",
+      "category": "mens_rea",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "[LLM upgrade] The evidence explicitly states that 'A person intentionally attacked another individual' (evt_002) and 'The attack was pre-planned and done with the intention to kill' (evt_003). This directly satisfies the requirement of intending to cause death or knowing it to be likely."
+    },
+    {
+      "section": "301",
+      "ingredient": "The act commits culpable homicide by causing the death of any person.",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "301",
+      "ingredient": "The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.2,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] This ingredient requires that 'The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.' However, the evidence states 'The attack was pre-planned and done with the intention to kill' (evt_003) and 'A person intentionally attacked another individual... causing their death' (evt_002). This implies the person who died *was* the intended target, directly contradicting the condition that the victim was *neither* the intended nor known target."
+    },
+    {
+      "section": "301",
+      "ingredient": "The culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.",
+      "category": "mens_rea",
+      "status": "not_satisfied",
+      "confidence": 0.2,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] This ingredient describes the nature of the culpable homicide in a scenario where the victim is *not* the intended target (as per ingredient 301.3). Since ingredient 301.3 is not satisfied (the victim was the intended target), the premise for this ingredient's application is not met. Therefore, this ingredient, in its intended context of transferred malice, is not satisfied by the facts."
+    },
+    {
+      "section": "115",
+      "ingredient": "Whoever abets the commission of an offence",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.1,
+      "evidence_type": "none",
+      "reasoning": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "115",
+      "ingredient": "The abetted offence is punishable with death or imprisonment for life",
+      "category": "actus_reus",
+      "status": "satisfied",
+      "confidence": 0.8,
+      "evidence_type": "event",
+      "reasoning": "Event directly supports ingredient: matched on 'death' via action 'died'."
+    },
+    {
+      "section": "115",
+      "ingredient": "The abetted offence is not committed in consequence of the abetment",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.49999999999999994,
+      "evidence_type": "fact",
+      "reasoning": "[LLM downgrade] The evidence explicitly states that the individual died ('causing their death'), meaning the principal offence (murder) *was* committed. This directly contradicts the requirement that 'the abetted offence is not committed'. Furthermore, there is no evidence of abetment for the offence to be committed or not committed in consequence of."
+    },
+    {
+      "section": "115",
+      "ingredient": "No express provision is made by this Code for the punishment of such abetment",
+      "category": "circumstance",
+      "status": "not_satisfied",
+      "confidence": 0.49999999999999994,
+      "evidence_type": "fact",
+      "reasoning": "[LLM downgrade] The provided evidence contains no information regarding the specific provisions of 'this Code' or whether express provision is made for the punishment of such abetment. Therefore, this ingredient cannot be confirmed as satisfied based on the given facts."
+    },
+    {
+      "section": "115",
+      "ingredient": "An act for which the abettor is liable in consequence of the abetment is done",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.49999999999999994,
+      "evidence_type": "fact",
+      "reasoning": "[LLM downgrade] The evidence does not describe any abetment, nor does it describe an act done by an abettor or an act for which an abettor is liable. The described act (the attack causing death) was committed directly by the principal actor. No intention to abet is mentioned."
+    },
+    {
+      "section": "115",
+      "ingredient": "This act causes hurt to any person",
+      "category": "actus_reus",
+      "status": "not_satisfied",
+      "confidence": 0.6000000000000001,
+      "evidence_type": "event",
+      "reasoning": "[LLM downgrade] This ingredient refers to 'This act' from ingredient 115.5. Since ingredient 115.5 (an act for which the abettor is liable in consequence of the abetment) is not satisfied due to the absence of abetment in the evidence, this ingredient cannot be satisfied in its intended context. While the principal act did cause death (a form of hurt), it is not 'this act' as defined by the preceding ingredient."
+    }
+  ],
+  "missing_weak_elements": [
+    {
+      "section": "101",
+      "ingredient": "The offence is not of any of the descriptions enumerated in the last preceding section.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "303",
+      "ingredient": "Whoever, being under sentence of imprisonment for life",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "46",
+      "ingredient": "unless the contrary appears from the context",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "308",
+      "ingredient": "and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] CAUSATION: 'causing their death' (evt_001, lf_001, sig_001, sig_004). The act caused death. \nINTENTION/KNOWLEDGE: The evidence states 'intentionally attacked' and 'intention to kill' (evt_002, evt_003). It also states the attack was 'pre-planned' (evt_003). These facts (pre-planned attack with intention to kill, causing death) align with the definition of murder, not 'culpable homicide not amounting to murder'. Culpable homicide not amounting to murder typically involves mitigating circumstances (e.g., sudden provocation, exceeding self-defense, sudden fight) which are not present in the evidence. Therefore, the condition that the act would amount to culpable homicide not amounting to murder is not met; it points to murder."
+    },
+    {
+      "section": "302",
+      "ingredient": "This section prescribes the punishment for committing murder.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "An act is done by a person who is compelled to do it by threats.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "The threats, at the time of doing the act, reasonably cause the apprehension that instant death to that person will otherwise be the consequence.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] There is no evidence of any threats compelling the actor, and therefore no apprehension of instant death due to such threats can be established. The act was intentional and pre-planned by the actor. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of threats. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "section": "94",
+      "ingredient": "The person doing the act did not of his own accord place himself in the situation by which he became subject to such constraint.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "The person doing the act did not from a reasonable apprehension of harm to himself short of instant death place himself in the situation by which he became subject to such constraint.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] There is no evidence of any constraint or apprehension of harm compelling the actor. The act was intentional and pre-planned, indicating the actor was not in a situation of constraint due to apprehension of harm. (Intention: Actor intended to kill. Knowledge: No evidence of actor's knowledge of apprehension of harm. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "section": "94",
+      "ingredient": "The act is not murder.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception if compelled by associates to do an offence.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "94",
+      "ingredient": "A person seized by a gang of dacoits, and forced, by threat of instant death, to do a thing which is an offence by law, is entitled to the benefit of this exception.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] There is no evidence provided regarding the actor being seized by a gang of dacoits or forced by threats of instant death. (Intention: Not applicable to this ingredient. Knowledge: Not applicable to this ingredient. Causation: Not applicable to this ingredient.)"
+    },
+    {
+      "section": "304B",
+      "ingredient": "the death of a woman is caused by any burns or bodily injury",
+      "status": "partial",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] Causation: The evidence explicitly states 'causing their death' by 'attacked another individual with a knife multiple times' (evt_001, evt_002), which constitutes death by bodily injury. Intent/Knowledge: The attack was 'intentionally' carried out and 'with the intention to kill' (evt_001, evt_002, evt_003). Missing: The gender of the deceased is not specified as 'woman'; the evidence refers to 'another individual'."
+    },
+    {
+      "section": "304B",
+      "ingredient": "the death of a woman occurs otherwise than under normal circumstances",
+      "status": "partial",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] Causation: The death was caused by an intentional, pre-planned knife attack (evt_001, evt_002, evt_003). Intent/Knowledge: The attack was 'intentional' and 'pre-planned' with 'intention to kill' (evt_001, evt_002, evt_003), indicating circumstances far from normal. Missing: The gender of the deceased is not specified as 'woman'; the evidence refers to 'another individual'."
+    },
+    {
+      "section": "304B",
+      "ingredient": "the death occurs within seven years of her marriage",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] The evidence provides no information regarding the marital status of the deceased or the timeframe of death relative to any marriage."
+    },
+    {
+      "section": "304B",
+      "ingredient": "soon before her death she was subjected to cruelty or harassment",
+      "status": "partial",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] Causation: The evidence describes an 'intentional attack... with a knife multiple times, causing their death' (evt_001, evt_002). This act itself is a severe form of cruelty and occurred immediately before death. Intent/Knowledge: The attack was 'intentional' and 'pre-planned' with 'intention to kill' (evt_001, evt_002, evt_003), demonstrating intent for the cruel act. Missing: The gender of the deceased is not specified as 'woman'. While the act is cruel, the specific context of 'cruelty or harassment' as typically defined in Section 304B (e.g., domestic abuse, dowry-related harassment over time) is not explicitly detailed beyond the fatal attack itself."
+    },
+    {
+      "section": "304B",
+      "ingredient": "cruelty or harassment by her husband",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304B",
+      "ingredient": "cruelty or harassment by any relative of her husband",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304B",
+      "ingredient": "cruelty or harassment for, or in connection with, any demand for dowry",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304B",
+      "ingredient": "dowry shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961)",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "70",
+      "ingredient": "A fine, or any unpaid part thereof, may be levied within six years after the passing of the sentence.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "70",
+      "ingredient": "If the offender is liable to imprisonment for a period longer than six years, the fine may be levied at any time before that imprisonment period expires.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "70",
+      "ingredient": "The death of an offender does not discharge from liability any property that would, after their death, be legally liable for their debts.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] The evidence states that 'A person intentionally attacked another individual with a knife multiple times, causing their death.' This refers to the death of the victim, not the death of an offender. There is no information provided about the death of an offender or the liability of their property for debts. Therefore, this ingredient is not satisfied."
+    },
+    {
+      "section": "307",
+      "ingredient": "When any person offending under this section is under sentence of imprisonment for life",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "307",
+      "ingredient": "if hurt is caused (by a life-convict)",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] While hurt (death) was indeed caused by the act, the condition that the act was committed 'by a life-convict' is not satisfied, as there is no evidence the actor is a life-convict (referencing reasoning for 307.5).\n- Intention: Not directly relevant to the status of the actor.\n- Knowledge: Not directly relevant to the status of the actor.\n- Causation: Hurt (death) was caused by the act, but the actor's status as a life-convict is not established."
+    },
+    {
+      "section": "87",
+      "ingredient": "The act is not intended to cause death.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] Intention: The evidence explicitly states, 'The attack was pre-planned and done with the intention to kill.' This directly contradicts the ingredient's requirement that the act is not intended to cause death."
+    },
+    {
+      "section": "87",
+      "ingredient": "The act is not intended to cause grievous hurt.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] Intention: The evidence indicates an 'intention to kill' and an 'intentional attack multiple times.' An intention to kill inherently includes an intention to cause grievous hurt. Therefore, the act was intended to cause grievous hurt, contradicting this ingredient."
+    },
+    {
+      "section": "87",
+      "ingredient": "The person harmed is above eighteen years of age.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "87",
+      "ingredient": "The person has given consent, whether express or implied, to suffer that harm.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "87",
+      "ingredient": "The person has consented to take the risk of that harm.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304",
+      "ingredient": "Whoever commits culpable homicide not amounting to murder",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "304",
+      "ingredient": "the act is done without any intention to cause death",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "[LLM downgrade] Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). This directly contradicts the requirement of 'without any intention to cause death'."
+    },
+    {
+      "section": "304",
+      "ingredient": "the act is done without any intention to cause such bodily injury as is likely to cause death",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "[LLM downgrade] Intention: The evidence explicitly states 'done with the intention to kill' (evt_003). An intention to kill logically implies an intention to cause bodily injury that is likely to cause death. Therefore, the act was not done without such intention."
+    },
+    {
+      "section": "100",
+      "ingredient": "The right is exercised under the restrictions mentioned in the last preceding section.",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "100",
+      "ingredient": "The offence which occasions the exercise of the right is an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "100",
+      "ingredient": "The offence which occasions the exercise of the right is an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] The evidence explicitly describes an attack with a knife ('object': 'a knife'), not an act of throwing or administering acid or an attempt to do so.\n  → intention: No evidence of an acid attack.\n  → knowledge: No evidence of apprehension from an acid attack.\n  → causation: Not applicable."
+    },
+    {
+      "section": "301",
+      "ingredient": "The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "[LLM downgrade] This ingredient requires that 'The person whose death is caused is neither the person whose death the offender intended nor knew himself to be likely to cause.' However, the evidence states 'The attack was pre-planned and done with the intention to kill' (evt_003) and 'A person intentionally attacked another individual... causing their death' (evt_002). This implies the person who died *was* the intended target, directly contradicting the condition that the victim was *neither* the intended nor known target."
+    },
+    {
+      "section": "301",
+      "ingredient": "The culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.",
+      "status": "not_satisfied",
+      "category": "mens_rea",
+      "reason": "[LLM downgrade] This ingredient describes the nature of the culpable homicide in a scenario where the victim is *not* the intended target (as per ingredient 301.3). Since ingredient 301.3 is not satisfied (the victim was the intended target), the premise for this ingredient's application is not met. Therefore, this ingredient, in its intended context of transferred malice, is not satisfied by the facts."
+    },
+    {
+      "section": "115",
+      "ingredient": "Whoever abets the commission of an offence",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "No evidence found in events, facts, or signals to support this ingredient."
+    },
+    {
+      "section": "115",
+      "ingredient": "The abetted offence is not committed in consequence of the abetment",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "[LLM downgrade] The evidence explicitly states that the individual died ('causing their death'), meaning the principal offence (murder) *was* committed. This directly contradicts the requirement that 'the abetted offence is not committed'. Furthermore, there is no evidence of abetment for the offence to be committed or not committed in consequence of."
+    },
+    {
+      "section": "115",
+      "ingredient": "No express provision is made by this Code for the punishment of such abetment",
+      "status": "not_satisfied",
+      "category": "circumstance",
+      "reason": "[LLM downgrade] The provided evidence contains no information regarding the specific provisions of 'this Code' or whether express provision is made for the punishment of such abetment. Therefore, this ingredient cannot be confirmed as satisfied based on the given facts."
+    },
+    {
+      "section": "115",
+      "ingredient": "An act for which the abettor is liable in consequence of the abetment is done",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] The evidence does not describe any abetment, nor does it describe an act done by an abettor or an act for which an abettor is liable. The described act (the attack causing death) was committed directly by the principal actor. No intention to abet is mentioned."
+    },
+    {
+      "section": "115",
+      "ingredient": "This act causes hurt to any person",
+      "status": "not_satisfied",
+      "category": "actus_reus",
+      "reason": "[LLM downgrade] This ingredient refers to 'This act' from ingredient 115.5. Since ingredient 115.5 (an act for which the abettor is liable in consequence of the abetment) is not satisfied due to the absence of abetment in the evidence, this ingredient cannot be satisfied in its intended context. While the principal act did cause death (a form of hurt), it is not 'this act' as defined by the preceding ingredient."
+    },
+    {
+      "section": "Section 307",
+      "type": "mitigation_downgrade",
+      "reason": "This section pertains to 'Attempt to murder'. The legal facts clearly state that death was caused ('died' - lf_001), indicating a completed offence rather than an attempt. Therefore, this section is not applicable."
+    },
+    {
+      "section": "Section 304",
+      "type": "mitigation_downgrade",
+      "reason": "This section deals with 'Punishment for culpable homicide not amounting to murder'. The facts, specifically 'planned' (lf_003) and 'attacked' with 'a knife' (lf_002), strongly suggest a high degree of premeditation and intention to cause death or bodily injury sufficient to cause death. There are no mitigating factors present in the facts (such as sudden fight, heat of passion, or lack of premeditation) that would reduce the mental element from murder to culpable homicide not amounting to murder. The statute was also classified as 'NOT SATISFIED' with missing ingredients that would be necessary to downgrade the offence."
+    }
+  ],
+  "precedent_comparison": {
+    "similarity_score": 0.09,
+    "matched_patterns": [
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "intention of causing death or with the intention of causing such bodily injury as is likely to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "knowledge that it is likely to cause death but without such intention"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "knowledge that it is likely to cause death but without such intention"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "knowledge that it is likely to cause death but without such intention"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "knowledge that it is likely to cause death but without such intention"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Kunwar Pal Singh v. State of Uttarakhand",
+        "why_matched": "knowledge that it is likely to cause death but without such intention"
+      },
+      {
+        "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+        "precedent_reference": "Surain Singh v. State of Punjab",
+        "why_matched": "It could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death."
+      },
+      {
+        "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+        "precedent_reference": "Surain Singh v. State of Punjab",
+        "why_matched": "It could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death."
+      },
+      {
+        "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+        "precedent_reference": "Surain Singh v. State of Punjab",
+        "why_matched": "It could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death."
+      },
+      {
+        "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+        "precedent_reference": "Surain Singh v. State of Punjab",
+        "why_matched": "It could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death."
+      },
+      {
+        "pattern": "Missing mens_rea — precedent also found intention/knowledge issues",
+        "precedent_reference": "Surain Singh v. State of Punjab",
+        "why_matched": "It could not be held that the appellant had the intention to murder the deceased or cause a bodily injury likely to cause death."
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Judgment and Order dated 18.09.2018",
+        "why_matched": "intention to cause a bodily injury sufficient in the ordinary course of nature to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Judgment and Order dated 18.09.2018",
+        "why_matched": "intention to cause a bodily injury sufficient in the ordinary course of nature to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Judgment and Order dated 18.09.2018",
+        "why_matched": "intention to cause a bodily injury sufficient in the ordinary course of nature to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Judgment and Order dated 18.09.2018",
+        "why_matched": "intention to cause a bodily injury sufficient in the ordinary course of nature to cause death"
+      },
+      {
+        "pattern": "Legal test on mens_rea applied by court",
+        "precedent_reference": "Judgment and Order dated 18.09.2018",
+        "why_matched": "intention to cause a bodily injury sufficient in the ordinary course of nature to cause death"
+      }
+    ],
+    "differences": [
+      {
+        "difference": "Precedent rule: Section 304 Part I requires 'the intention of causing death or with the intention of causing such bodily injury as is likely to cause death,' whereas an act done with the 'knowledge that it is likely ",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent rule: The court distinguished between an act done with the 'intention' of causing death or bodily injury likely to cause death (Part I) and an act done with the 'knowledge' that it is likely to cause death ",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent rule: 101, I.P.C., and is subject to the limitations that in the exercise of the right death may not be caused, and that the force used should not exceed the minimum required to save the person in whose def",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent rule: Culpable homicide is murder if the person committing the act knows that it is so imminently dangerous that it must in all probability, cause death or such bodily injury as is likely to cause death, an",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent rule: The offence of murder is established even if the accused's intention was limited to inflicting a bodily injury that is sufficient to cause death in the ordinary course of nature.",
+        "why_it_matters": "This rule may apply differently to current facts."
+      },
+      {
+        "difference": "Precedent outcome: conviction",
+        "why_it_matters": "Compare with expected outcome of current case."
+      }
+    ],
+    "references": [
+      {
+        "case_name": "Kunwar Pal Singh v. State of Uttarakhand",
+        "citation": "Unknown",
+        "source": "2024_3_377_384_EN.json"
+      },
+      {
+        "case_name": "Surain Singh v. State of Punjab",
+        "citation": "Unknown",
+        "source": "2018_5_671_676_EN.json"
+      },
+      {
+        "case_name": "Judgment and order dated March 29, 1966",
+        "citation": "Unknown",
+        "source": "1971_1_943_948_EN.json"
+      },
+      {
+        "case_name": "Judgment and order dated October 20, 1964,",
+        "citation": "Unknown",
+        "source": "1968_2_522_527_EN.json"
+      },
+      {
+        "case_name": "Judgment and Order dated 18.09.2018",
+        "citation": "Unknown",
+        "source": "2024_12_392_417_EN.json"
+      }
+    ]
+  },
+  "loopholes_summary": {
+    "total": 2,
+    "by_type": {
+      "mitigation_downgrade": 2
+    }
+  },
+  "final_decision": {
+    "final_offence": "Unable to determine without LLM",
+    "why_it_fits_best": "Deterministic fallback used.",
+    "why_others_rejected": "Deterministic fallback used."
+  },
+  "final_argument": "============================================================\nLEGAL ARGUMENT — NEUTRAL PERSPECTIVE\n============================================================\n\n1. CASE SUMMARY\n----------------------------------------\nCase involves 15 statute evaluation(s). 4 statute(s) have VALID ingredient satisfaction: 300, 46, 302, 307. 2 statute(s) have WEAK ingredient satisfaction: 101, 303. 9 statute(s) are INVALID (core ingredient failure): 308, 94, 304B, 70, 87, 304, 100, 301, 115.\n\n2. APPLICABLE IPC SECTIONS\n----------------------------------------\n  Section 300 (Murder.): Score=1.0, Status=valid\n  Section 101 (When such right extends to causing any harm other than death.): Score=0.6667, Status=weak\n  Section 303 (Punishment for murder by life-convict.): Score=0.5, Status=weak\n  Section 46 (“Death”.): Score=0.5, Status=valid\n  Section 308 (Attempt to commit culpable homicide.): Score=0.0, Status=invalid\n  Section 302 (Punishment for murder.): Score=0.0, Status=valid\n  Section 94 (Act to which a person is compelled by threats.): Score=0.0, Status=invalid\n  Section 304B (Dowry death.): Score=0.0, Status=invalid\n  Section 70 (Fine leviable within six years, of during imprisonment. Death not to discharge property from liability.): Score=0.0, Status=invalid\n  Section 307 (Attempt to murder.): Score=0.0, Status=valid\n  Section 87 (Act not intended and not known to be likely to cause death or grievous hurt, done by consent.): Score=0.0, Status=invalid\n  Section 304 (Punishment for culpable homicide not amounting to murder.): Score=0.0, Status=invalid\n  Section 100 (When the right of private defence of the body extends to causing death.): Score=0.0, Status=invalid\n  Section 301 (Culpable homicide by causing death of person other than person whose death was intended.): Score=0.0, Status=invalid\n  Section 115 (Abetment of offence punishable with death or imprisonment for life.—if offence not committed.): Score=0.0, Status=invalid\n\n3. INGREDIENT ANALYSIS\n----------------------------------------\n  [300] the act by which the death is caused is done with the intention of causing death\n    Status: satisfied | Confidence: 0.80 | Evidence: event\n    Reasoning: [LLM upgrade] The evidence explicitly states that 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002) and that 'The attack was pre-planned and done with the intention to kill' (evt_003). This directly satisfies the requirement that the act causing death was done with the intention of causing death. \n- Intention: Explicitly stated as 'intention to kill' (evt_003).\n- Causation: Explicitly stated as 'causing their death' (evt_001).\n  [300] the act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused\n    Status: satisfied | Confidence: 0.80 | Evidence: event\n    Reasoning: [LLM upgrade] The evidence indicates an intentional attack with a knife multiple times (evt_002), which constitutes causing bodily injury. The explicit 'intention to kill' (evt_003) logically infers that the offender knew the bodily injury inflicted (multiple knife attacks) was likely to cause death. \n- Intention: 'intentionally attacked' (evt_002) implies intention to cause bodily injury. The 'intention to kill' (evt_003) further supports the nature of the intended injury.\n- Knowledge: The 'intention to kill' (evt_003) directly implies the offender knew the bodily injury would be likely to cause death.\n- Causation: Death was caused by the attack (evt_001).\n  [300] the act is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death\n    Status: satisfied | Confidence: 0.80 | Evidence: event\n    Reasoning: [LLM upgrade] The act of intentionally attacking with a knife multiple times (evt_002) demonstrates an intention to cause bodily injury. The fact that this act 'causing their death' (evt_001) confirms that the bodily injury inflicted was sufficient in the ordinary course of nature to cause death. The 'intention to kill' (evt_003) reinforces that the intended injury was of a lethal nature. \n- Intention: 'intentionally attacked' (evt_002) implies intention to cause bodily injury. The 'intention to kill' (evt_003) indicates the intended injury was lethal.\n- Causation: The attack 'causing their death' (evt_001) demonstrates the sufficiency of the injury.\n  [300] the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury\n    Status: satisfied | Confidence: 0.80 | Evidence: event\n    Reasoning: [LLM upgrade] Attacking someone multiple times with a knife (evt_002) is an imminently dangerous act. The explicit 'intention to kill' (evt_003) confirms the person committing the act knew it was so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death. No excuse for incurring this risk is mentioned in the evidence; rather, the 'pre-planned' nature (evt_003) suggests the absence of any excuse. \n- Knowledge: The 'intention to kill' (evt_003) and the nature of the 'attacked... with a knife multiple times' (evt_002) demonstrate knowledge of imminent danger and probable death.\n- Act without excuse: No excuse is provided in the evidence; the 'pre-planned' nature (evt_003) suggests the act was committed without excuse.\n  [101] The offence is not of any of the descriptions enumerated in the last preceding section.\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [101] The right of private defence of the body does not extend to the voluntary causing of death to the assailant.\n    Status: satisfied | Confidence: 0.80 | Evidence: event\n    Reasoning: Event directly supports ingredient: matched on 'death' via action 'died'.\n  [101] The right of private defence of the body extends to the voluntary causing to the assailant of any harm other than death.\n    Status: satisfied | Confidence: 0.80 | Evidence: event\n    Reasoning: Event directly supports ingredient: matched on 'death' via action 'died'.\n  [303] Whoever, being under sentence of imprisonment for life\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [303] commits murder\n    Status: satisfied | Confidence: 0.80 | Evidence: none\n    Reasoning: [LLM upgrade] The evidence explicitly states that 'A person intentionally attacked another individual with a knife multiple times, causing their death' (evt_001, evt_002, lf_001, sig_001, sig_004). Furthermore, it is stated that 'The attack was pre-planned and done with the intention to kill' (evt_003, lf_003). This clearly establishes both the act of causing death and the specific intent to kill, satisfying the elements of committing murder.\n  [46] The word “death” denotes the death of a human being\n    Status: satisfied | Confidence: 0.80 | Evidence: event\n    Reasoning: Event directly supports ingredient: matched on 'death' via action 'died'.\n  [46] unless the contrary appears from the context\n    Status: not_satisfied | Confidence: 0.10 | Evidence: none\n    Reasoning: No evidence found in events, facts, or signals to support this ingredient.\n  [308] Whoever does any act\n    Status: satisfied | Confidence: 0.80 | Evidence: none\n    Reasoning: [LLM upgrade] EVIDENCE: 'A person intentionally attacked another individual with a knife multiple times' (evt_002, lf_002, sig_002). This clearly indicates an act was performed.\n  [308] with such intention or knowledge\n    Status: satisfied | Confidence: 0.80 | Evidence: none\n    Reasoning: [LLM upgrade] INTENTION: The evidence states 'A person intentionally attacked another individual' (evt_002) and 'The attack was pre-planned and done with the intention to kill' (evt_003). This explicitly confirms the presence of intention.\n  [308] and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder\n    Status: not_satisfied | Confidence: 0.60 | Evidence: event\n    Reasoning: [LLM downgrade] CAUSATION: 'causing their death' (evt_001, lf_001, sig_001, sig_004). The act caused death. \nINTENTION/KNOWLEDGE: The evidence states 'intentionally attacked' and 'intention to kill' (evt_002, evt_003). It also states the attack was 'pre-planned' (evt_003). These facts (pre-planned attack with intention to kill, causing death) align with the definition of murder, not 'culpable homicide not amounting to murder'. Culpable homicide not amounting to murder typically involves mitigating circumstances (e.g., sudden provocation, exceeding self-defense, sudden fight) which are not present in the evidence. Therefore, the condition that the act would amount to culpable homicide not amounting to murder is not met; it points to murder.\n  [308] if hurt is caused to any person by such act\n    Status: satisfied | Confidence: 0.80 | Evidence: event\n    Reasoning: Event directly supports ingredient: matched on 'hurt' via action 'died'.\n\n4. MISSING / WEAK ELEMENTS\n----------------------------------------\n  [101] The offence is not of any of the descriptions enumerated in the last preceding section. — not_satisfied\n  [303] Whoever, being under sentence of imprisonment for life — not_satisfied\n  [46] unless the contrary appears from the context — not_satisfied\n  [308] and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder — not_satisfied\n  [302] This section prescribes the punishment for committing murder. — not_satisfied\n  [94] An act is done by a person who is compelled to do it by threats. — not_satisfied\n  [94] The threats, at the time of doing the act, reasonably cause the apprehension that instant death to that person will otherwise be the consequence. — not_satisfied\n  [94] The person doing the act did not of his own accord place himself in the situation by which he became subject to such constraint. — not_satisfied\n  [94] The person doing the act did not from a reasonable apprehension of harm to himself short of instant death place himself in the situation by which he became subject to such constraint. — not_satisfied\n  [94] The act is not murder. — not_satisfied\n\n5. PRECEDENT COMPARISON\n----------------------------------------\n  Similarity Score: 0.09\n  Pattern: Legal test on mens_rea applied by court\n    Reference: Kunwar Pal Singh v. State of Uttarakhand\n  Pattern: Legal test on mens_rea applied by court\n    Reference: Kunwar Pal Singh v. State of Uttarakhand\n  Pattern: Legal test on mens_rea applied by court\n    Reference: Kunwar Pal Singh v. State of Uttarakhand\n  Pattern: Legal test on mens_rea applied by court\n    Reference: Kunwar Pal Singh v. State of Uttarakhand\n  Pattern: Legal test on mens_rea applied by court\n    Reference: Kunwar Pal Singh v. State of Uttarakhand\n\n6. FINAL ARGUMENT\n----------------------------------------\n  This comprehensive analysis presents a detailed, balanced view of the case.\n  A strong, legally sound case exists for: 300, 46, 302, 307\n  However, there is a weak or invalid baseline for: 308, 94, 304B, 70, 87, 304, 100, 301, 115\n  Key uncertainties heavily exist around intent and causation elements, requiring further evidentiary review.",
+  "structured_loophole_arguments": [
+    {
+      "title": "Loophole: mitigation_downgrade",
+      "argument": "The ingredient/evidence is deficient: This section pertains to 'Attempt to murder'. The legal facts clearly state that death was caused ('died' - lf_001), indicating a completed offence rather than an attempt. Therefore, this section is not applicable."
+    },
+    {
+      "title": "Loophole: mitigation_downgrade",
+      "argument": "The ingredient/evidence is deficient: This section deals with 'Punishment for culpable homicide not amounting to murder'. The facts, specifically 'planned' (lf_003) and 'attacked' with 'a knife' (lf_002), strongly suggest a high degree of premeditation and intention to cause death or bodily injury sufficient to cause death. There are no mitigating factors present in the facts (such as sudden fight, heat of passion, or lack of premeditation) that would reduce the mental element from murder to culpable homicide not amounting to murder. The statute was also classified as 'NOT SATISFIED' with missing ingredients that would be necessary to downgrade the offence."
+    }
+  ]
+}

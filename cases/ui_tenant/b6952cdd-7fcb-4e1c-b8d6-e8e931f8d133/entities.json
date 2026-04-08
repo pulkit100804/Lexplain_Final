@@ -1,0 +1,35 @@
+{
+  "case_id": "b6952cdd-7fcb-4e1c-b8d6-e8e931f8d133",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_4a_entity_extractor",
+  "input_refs": [
+    "role_tagged_graph.json"
+  ],
+  "created_at": "2026-04-04T20:23:29.927150+00:00",
+  "entities": [
+    {
+      "type": "object",
+      "value": "a jewelry",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_001"
+    },
+    {
+      "type": "object",
+      "value": "a knife",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_002"
+    },
+    {
+      "type": "time",
+      "value": "at night",
+      "source_node_ids": [
+        "n_001"
+      ],
+      "entity_id": "ent_003"
+    }
+  ]
+}

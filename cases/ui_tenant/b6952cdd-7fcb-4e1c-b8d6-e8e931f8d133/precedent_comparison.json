@@ -1,0 +1,73 @@
+{
+  "case_id": "b6952cdd-7fcb-4e1c-b8d6-e8e931f8d133",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_7_precedent_comparator",
+  "input_refs": [
+    "ingredient_report.json",
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-04-04T20:24:24.680015+00:00",
+  "query_used": "threat flight threat made flight occurred circumstance missing actus_reus missing force",
+  "cases_retrieved": 5,
+  "cases_after_filter": 5,
+  "similarity_score": 0.05,
+  "matched_patterns": [
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Parmanand v. Emperor",
+      "why_matched": "it did not necessarily follow from the endorsement that it made their court evidence unreliable"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Parmanand v. Emperor",
+      "why_matched": "it did not necessarily follow from the endorsement that it made their court evidence unreliable"
+    },
+    {
+      "pattern": "Weak actus_reus — precedent also found evidential issues",
+      "precedent_reference": "Parmanand v. Emperor",
+      "why_matched": "it did not necessarily follow from the endorsement that it made their court evidence unreliable"
+    }
+  ],
+  "differences": [
+    {
+      "difference": "Precedent rule: As the flight was unauthorized, there could be no consent. The dishonest intention existed at the time the aircraft was moved if the entire flight was unauthorized from its inception for the purpose o",
+      "why_it_matters": "This rule may apply differently to current facts."
+    },
+    {
+      "difference": "Precedent outcome: upheld",
+      "why_it_matters": "Compare with expected outcome of current case."
+    },
+    {
+      "difference": "Precedent outcome: acquittal",
+      "why_it_matters": "Compare with expected outcome of current case."
+    }
+  ],
+  "precedent_references": [
+    {
+      "case_name": "Judgment and order dated May 18, 1953,",
+      "citation": "Unknown",
+      "source": "1957_1_623_634_EN.json"
+    },
+    {
+      "case_name": "Parmanand v. Emperor",
+      "citation": "Unknown",
+      "source": "1968_3_354_358_EN.json"
+    },
+    {
+      "case_name": "Bardvarl Lal v. ltamnll Singh",
+      "citation": "Unknown",
+      "source": "1986_2_782_822_EN.json"
+    },
+    {
+      "case_name": "Halsbury's Laws of England, Fourth Edition, Vol. 11",
+      "citation": "Unknown",
+      "source": "1984_3_544_549_EN.json"
+    },
+    {
+      "case_name": "Judgment and order dated December 14, 1964,",
+      "citation": "Unknown",
+      "source": "1968_3_189_197_EN.json"
+    }
+  ]
+}

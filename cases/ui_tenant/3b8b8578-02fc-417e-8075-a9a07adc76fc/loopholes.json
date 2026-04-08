@@ -1,0 +1,60 @@
+{
+  "case_id": "3b8b8578-02fc-417e-8075-a9a07adc76fc",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_8_conflict_resolution",
+  "input_refs": [
+    "ingredient_report.json",
+    "legal_facts.json"
+  ],
+  "created_at": "2026-04-08T07:02:45.640560+00:00",
+  "selected_offence": "Section 300",
+  "rejected_offences": [
+    {
+      "section": "Section 307",
+      "reason": "Rejected because the legal facts indicate that death was caused (lf_001), making it a completed offence rather than an attempt to murder."
+    },
+    {
+      "section": "Section 308",
+      "reason": "Rejected because death was caused (lf_001), and the 'planned' fact (lf_003) indicates a higher mental state (intention/premeditation) consistent with murder, not merely an attempt to commit culpable homicide."
+    },
+    {
+      "section": "Section 304",
+      "reason": "Rejected because the 'planned' fact (lf_003) strongly indicates premeditation and intention to cause death or bodily injury sufficient to cause death. This aligns with murder (Section 300) rather than culpable homicide not amounting to murder, which typically involves a lesser mental state or mitigating circumstances not present in the facts. The missing ingredients for Section 304 explicitly contradict the presence of such intention."
+    },
+    {
+      "section": "Section 302",
+      "reason": "Rejected as this section prescribes the punishment for murder, but Section 300 defines the offence of murder itself. The task is to classify the offence, not its punishment."
+    }
+  ],
+  "explanation": "STEP 1: The most severe offence whose ingredients are satisfied is 'Murder' (Section 300). All its ingredients are 'STRONGLY SATISFIED' according to the evaluation. The facts include 'causing_death' (lf_001) and 'use_of_force' with 'a knife' (lf_002), which directly align with the act of causing death. STEP 2 & 3: No mitigating conditions such as sudden fight or heat of passion are present. Crucially, the fact 'planned' (lf_003) indicates premeditation, which is an aggravating factor and strengthens the mental element required for murder, rather than weakening it. STEP 4: The higher offence of murder requires a strong mental state, such as 'intention of causing death' or 'knowledge that the act is likely to cause death'. The 'planned' fact (lf_003) strongly supports this higher mental state, aligning perfectly with the mens rea for murder. There is no basis to reject or downgrade the higher offence. STEP 5: The mental element ('planned' - lf_003) and the act ('causing_death' with 'a knife' - lf_001, lf_002) both align most precisely with the ingredients of 'Murder' (Section 300). The presence of premeditation elevates the act beyond culpable homicide and confirms the intent required for murder. Therefore, Section 300 is the most legally appropriate classification.",
+  "loopholes": [
+    {
+      "type": "mitigation_downgrade",
+      "related_section": "Section 307",
+      "reason": "Rejected because the legal facts indicate that death was caused (lf_001), making it a completed offence rather than an attempt to murder.",
+      "supporting_reference": []
+    },
+    {
+      "type": "mitigation_downgrade",
+      "related_section": "Section 308",
+      "reason": "Rejected because death was caused (lf_001), and the 'planned' fact (lf_003) indicates a higher mental state (intention/premeditation) consistent with murder, not merely an attempt to commit culpable homicide.",
+      "supporting_reference": []
+    },
+    {
+      "type": "mitigation_downgrade",
+      "related_section": "Section 304",
+      "reason": "Rejected because the 'planned' fact (lf_003) strongly indicates premeditation and intention to cause death or bodily injury sufficient to cause death. This aligns with murder (Section 300) rather than culpable homicide not amounting to murder, which typically involves a lesser mental state or mitigating circumstances not present in the facts. The missing ingredients for Section 304 explicitly contradict the presence of such intention.",
+      "supporting_reference": []
+    },
+    {
+      "type": "mitigation_downgrade",
+      "related_section": "Section 302",
+      "reason": "Rejected as this section prescribes the punishment for murder, but Section 300 defines the offence of murder itself. The task is to classify the offence, not its punishment.",
+      "supporting_reference": []
+    }
+  ],
+  "total_loopholes": 4,
+  "by_type": {
+    "mitigation_downgrade": 4
+  }
+}

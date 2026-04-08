@@ -1,0 +1,34 @@
+{
+  "case_id": "4e2453c7-e065-4b4c-b237-353e3e631267",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_7_precedent_comparator",
+  "input_refs": [
+    "ingredient_report.json",
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-04-08T05:26:36.266545+00:00",
+  "query_used": "termination of pregnancy occurred",
+  "cases_retrieved": 2,
+  "cases_after_filter": 2,
+  "similarity_score": 0.0,
+  "matched_patterns": [],
+  "differences": [
+    {
+      "difference": "Precedent rule: Where the opinion of a minor pregnant person differs from the guardian, the court must regard the view of the pregnant person as an important factor while deciding the termination of the pregnancy.",
+      "why_it_matters": "This rule may apply differently to current facts."
+    }
+  ],
+  "precedent_references": [
+    {
+      "case_name": "X v. State (NCT of Delhi)",
+      "citation": "Unknown",
+      "source": "2024_5_470_491_EN.json"
+    },
+    {
+      "case_name": "Van Den Berghs, Ltd. v. Clark (H. M. Inspector of Taxes)",
+      "citation": "Unknown",
+      "source": "1956_1_223_247_EN.json"
+    }
+  ]
+}
