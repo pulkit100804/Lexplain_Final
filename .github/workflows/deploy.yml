@@ -1,0 +1,40 @@
+name: Deploy Lexplain
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Deploy to EC2 via SSH
+      uses: appleboy/ssh-action@v0.1.6
+      with:
+        host: ${{ secrets.EC2_HOST }}
+        username: ${{ secrets.EC2_USER }}
+        key: ${{ secrets.EC2_SSH_KEY }}
+        script: |
+          cd ~/Lexplain_Final
+
+          echo "Pulling latest code..."
+          git pull origin main
+
+          echo "Activating virtual environment..."
+          source venv/bin/activate
+
+          echo "Installing dependencies..."
+          pip install -r requirements.txt
+
+          echo "Restarting backend..."
+          sudo systemctl restart lexplain
+
+          echo "Restarting nginx..."
+          sudo systemctl restart nginx
+
+          echo "Deployment complete"
