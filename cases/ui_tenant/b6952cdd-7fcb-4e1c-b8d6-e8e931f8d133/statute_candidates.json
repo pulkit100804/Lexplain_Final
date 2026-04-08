@@ -1,0 +1,87 @@
+{
+  "case_id": "b6952cdd-7fcb-4e1c-b8d6-e8e931f8d133",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_5c_statute_retriever",
+  "input_refs": [
+    "legal_facts.json",
+    "legal_signals.json"
+  ],
+  "created_at": "2026-04-04T20:23:45.107909+00:00",
+  "query_terms": [
+    "threat",
+    "threatened",
+    "flight",
+    "escaped",
+    "threat made",
+    "flight occurred"
+  ],
+  "total_sections_indexed": 541,
+  "candidates": [
+    {
+      "section": "506",
+      "heading": "Punishment for criminal intimidation.",
+      "score": 19.2452,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "506.2",
+          "text": "if the threat be to cause death or grievous hurt",
+          "element_type": "aggravating_circumstance"
+        }
+      ],
+      "offence_category": [
+        "criminal_intimidation"
+      ]
+    },
+    {
+      "section": "71",
+      "heading": "Limit of punishment of offence made up of several offences.",
+      "score": 16.2113,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "71.1",
+          "text": "Anything which is an offence is made up of parts, any of which parts is itself an offence.",
+          "element_type": "condition"
+        }
+      ],
+      "offence_category": [
+        "sentencing",
+        "criminal_procedure"
+      ]
+    },
+    {
+      "section": "278",
+      "heading": "Making atmosphere noxious to health.",
+      "score": 3.7696,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "278.2",
+          "text": "The atmosphere is made noxious to the health of persons in general dwelling or carrying on business in the neighbourhood",
+          "element_type": "effect"
+        },
+        {
+          "ingredient_id": "278.3",
+          "text": "The atmosphere is made noxious to the health of persons passing along a public way",
+          "element_type": "effect"
+        }
+      ],
+      "offence_category": [
+        "public_health_offence"
+      ]
+    },
+    {
+      "section": "40",
+      "heading": "“Offence”.",
+      "score": 2.7716,
+      "matched_ingredients": [
+        {
+          "ingredient_id": "40.1",
+          "text": "The word “offence” denotes a thing made punishable by this Code, except in the Chapters and sections mentioned in clauses 2 and 3 of this section.",
+          "element_type": "definition"
+        }
+      ],
+      "offence_category": [
+        "definitional"
+      ]
+    }
+  ]
+}

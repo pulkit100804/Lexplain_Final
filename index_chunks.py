@@ -1,16 +1,17 @@
 import json
 from elasticsearch import Elasticsearch, helpers
+from dotenv import load_dotenv
+import os
 
-# 🔐 PUT YOUR NEW PASSWORD HERE
+load_dotenv()
+
 es = Elasticsearch(
-    "https://localhost:9200",
-    basic_auth=("elastic", "qwmA7r5qvDiYiOghRIaT"),
-    verify_certs=False,
-    request_timeout=60
+    os.getenv("ELASTIC_HOST"),
+    api_key=os.getenv("ELASTIC_API_KEY")
 )
 
 INDEX_NAME = "judgments_chunks"
-FILE_PATH = "paragraph_chunks.jsonl"
+FILE_PATH = "data/paragraph_chunks.jsonl"
 
 
 def create_index():

@@ -1,0 +1,49 @@
+{
+  "case_id": "4e2453c7-e065-4b4c-b237-353e3e631267",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_9_final_argument",
+  "input_refs": [
+    "ingredient_report.json",
+    "loopholes.json",
+    "precedent_comparison.json"
+  ],
+  "created_at": "2026-04-08T05:26:36.361051+00:00",
+  "role": "neutral",
+  "case_summary": "Case involves 0 statute evaluation(s).",
+  "applicable_sections": [],
+  "ingredient_analysis": [],
+  "missing_weak_elements": [],
+  "precedent_comparison": {
+    "similarity_score": 0.0,
+    "matched_patterns": [],
+    "differences": [
+      {
+        "difference": "Precedent rule: Where the opinion of a minor pregnant person differs from the guardian, the court must regard the view of the pregnant person as an important factor while deciding the termination of the pregnancy.",
+        "why_it_matters": "This rule may apply differently to current facts."
+      }
+    ],
+    "references": [
+      {
+        "case_name": "X v. State (NCT of Delhi)",
+        "citation": "Unknown",
+        "source": "2024_5_470_491_EN.json"
+      },
+      {
+        "case_name": "Van Den Berghs, Ltd. v. Clark (H. M. Inspector of Taxes)",
+        "citation": "Unknown",
+        "source": "1956_1_223_247_EN.json"
+      }
+    ]
+  },
+  "loopholes_summary": {
+    "total": 0,
+    "by_type": {}
+  },
+  "final_decision": {
+    "final_offence": "Unable to determine without LLM",
+    "why_it_fits_best": "Deterministic fallback used.",
+    "why_others_rejected": "Deterministic fallback used."
+  },
+  "final_argument": "============================================================\nLEGAL ARGUMENT — NEUTRAL PERSPECTIVE\n============================================================\n\n1. CASE SUMMARY\n----------------------------------------\nCase involves 0 statute evaluation(s).\n\n2. APPLICABLE IPC SECTIONS\n----------------------------------------\n\n3. INGREDIENT ANALYSIS\n----------------------------------------\n\n4. MISSING / WEAK ELEMENTS\n----------------------------------------\n\n5. PRECEDENT COMPARISON\n----------------------------------------\n  Similarity Score: 0.0\n\n6. FINAL ARGUMENT\n----------------------------------------\n  This comprehensive analysis presents a detailed, balanced view of the case.\n  Key uncertainties heavily exist around intent and causation elements, requiring further evidentiary review.",
+  "structured_loophole_arguments": []
+}

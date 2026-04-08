@@ -1,0 +1,21 @@
+{
+  "case_id": "4e2453c7-e065-4b4c-b237-353e3e631267",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_5a_legal_fact_normalizer",
+  "input_refs": [
+    "event_graph.json"
+  ],
+  "created_at": "2026-04-08T05:26:16.261358+00:00",
+  "legal_facts": [
+    {
+      "fact_id": "lf_001",
+      "type": "no_action",
+      "original_action": null,
+      "mapped_from": "none",
+      "source_event_id": "evt_001",
+      "actor": null,
+      "target": null,
+      "object": null
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "case_id": "b6952cdd-7fcb-4e1c-b8d6-e8e931f8d133",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_5d_feedback_memory",
+  "input_refs": [
+    "ingredient_report.json",
+    "final_argument.json"
+  ],
+  "created_at": "2026-04-04T20:24:34.506778+00:00",
+  "timestamp": "2026-04-04T20:24:34.506664+00:00",
+  "role": "neutral",
+  "patterns": [
+    {
+      "statute_id": "40",
+      "overall_status": "weak",
+      "overall_score": 0.5,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "partial",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    },
+    {
+      "statute_id": "278",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    },
+    {
+      "statute_id": "506",
+      "overall_status": "valid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "event"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    },
+    {
+      "statute_id": "71",
+      "overall_status": "invalid",
+      "overall_score": 0.0,
+      "failure_patterns": [
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "actus_reus",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        },
+        {
+          "category": "circumstance",
+          "status": "not_satisfied",
+          "evidence_type": "none"
+        }
+      ]
+    }
+  ],
+  "loopholes_count": 3
+}

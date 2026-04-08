@@ -1,0 +1,34 @@
+{
+  "case_id": "b6952cdd-7fcb-4e1c-b8d6-e8e931f8d133",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_2_segmentation",
+  "input_refs": [
+    "normalized_text.txt"
+  ],
+  "created_at": "2026-04-04T20:23:26.124812+00:00",
+  "nodes": [
+    {
+      "node_id": "n_001",
+      "text": "A group of three individuals broke into a jewelry store at night, threatened the guard with a knife, and escaped with valuables worth ₹10 lakhs.",
+      "span": {
+        "start": 0,
+        "end": 144
+      }
+    },
+    {
+      "node_id": "n_002",
+      "text": "One of them was later caught with the stolen items.",
+      "span": {
+        "start": 145,
+        "end": 196
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_001",
+      "target": "n_002",
+      "relation": "sequential"
+    }
+  ]
+}

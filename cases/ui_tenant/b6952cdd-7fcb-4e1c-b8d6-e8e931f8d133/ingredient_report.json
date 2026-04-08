@@ -1,0 +1,271 @@
+{
+  "case_id": "b6952cdd-7fcb-4e1c-b8d6-e8e931f8d133",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_6_ingredient_evaluator",
+  "input_refs": [
+    "event_graph.json",
+    "legal_facts.json",
+    "legal_signals.json",
+    "statute_candidates.json"
+  ],
+  "created_at": "2026-04-04T20:23:58.864732+00:00",
+  "statute_evaluations": [
+    {
+      "statute_id": "40",
+      "heading": "“Offence”.",
+      "overall_score": 0.5,
+      "status": "weak",
+      "llm_classification": "PARTIALLY SATISFIED",
+      "llm_classification_reasoning": "The statute provides definitions for the term 'offence' in different contexts. The evidence clearly describes actions that constitute an 'offence' as generally defined by the Code (Ingredient 40.1). Ingredient 40.2 is partially satisfied as the actions are punishable under the Code, though the specific contextual chapters/sections or special/local law are not confirmed by the evidence. Ingredient 40.3, which provides a highly specific definition for certain sections and special/local laws with specific punishment thresholds, is not satisfied due to a complete lack of supporting evidence for those specific conditions. Therefore, the statute is classified as PARTIALLY SATISFIED.",
+      "ingredients": [
+        {
+          "ingredient_id": "40.1",
+          "ingredient_text": "The word “offence” denotes a thing made punishable by this Code, except in the Chapters and sections mentioned in clauses 2 and 3 of this section.",
+          "element_type": "definition",
+          "ingredient_category": "circumstance",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "[LLM upgrade] The evidence describes actions (breaking into a jewelry store, threatening a guard with a knife, and escaping with valuables) that are clearly 'a thing made punishable by this Code' (e.g., robbery, theft). Therefore, the general definition of 'offence' as a punishable act is satisfied by the factual scenario.",
+          "llm_validated": true,
+          "llm_status": "satisfied"
+        },
+        {
+          "ingredient_id": "40.2",
+          "ingredient_text": "In Chapter IV, Chapter VA and in sections 64, 65, 66, 67, 71, 109, 110, 112, 114, 115, 116, 117, 118, 119, 120, 187, 194, 195, 203, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388, 389 and 445, the word “offence” denotes a thing punishable under this Code, or under any special or local law as hereinafter defined.",
+          "element_type": "definition",
+          "ingredient_category": "circumstance",
+          "status": "partial",
+          "confidence": 0.5,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "[LLM upgrade] The evidence describes actions that are 'a thing punishable under this Code.' While the evidence does not specify if these actions fall within Chapter IV, Chapter VA, or the enumerated sections, nor does it mention any special or local law, the core aspect of the definition (a punishable thing under this Code) is present. The lack of specific contextual information for the chapters/sections or special/local law makes it partially satisfied.",
+          "llm_validated": true,
+          "llm_status": "partial"
+        },
+        {
+          "ingredient_id": "40.3",
+          "ingredient_text": "In sections 141, 176, 177, 201, 202, 212, 216 and 441, the word “offence” has the same meaning when the thing punishable under the special or local law is punishable under such law with imprisonment for a term of six months or upwards, whether with or without fine.",
+          "element_type": "definition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "278",
+      "heading": "Making atmosphere noxious to health.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "llm_classification": "NOT SATISFIED",
+      "llm_classification_reasoning": "The provided evidence details a robbery involving a break-in, a threat with a knife, and the theft of valuables. There is no information or context within the evidence, legal facts, or signals that pertains to 'vitiating the atmosphere' or making it 'noxious to health'. Therefore, none of the ingredients for Section 278 are met.",
+      "ingredients": [
+        {
+          "ingredient_id": "278.1",
+          "ingredient_text": "A person voluntarily vitiates the atmosphere",
+          "element_type": "act",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        },
+        {
+          "ingredient_id": "278.2",
+          "ingredient_text": "The atmosphere is made noxious to the health of persons in general dwelling or carrying on business in the neighbourhood",
+          "element_type": "effect",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        },
+        {
+          "ingredient_id": "278.3",
+          "ingredient_text": "The atmosphere is made noxious to the health of persons passing along a public way",
+          "element_type": "effect",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "506",
+      "heading": "Punishment for criminal intimidation.",
+      "overall_score": 0.0,
+      "status": "valid",
+      "llm_classification": "STRONGLY SATISFIED",
+      "llm_classification_reasoning": "The core offence of criminal intimidation (506.1) is satisfied by the act of threatening the guard with a knife. Furthermore, the nature of this threat directly satisfies the aggravating circumstances outlined in 506.2 (threat to cause death or grievous hurt) and 506.4 (threat to cause an offence punishable with severe imprisonment), as a knife is a weapon capable of inflicting such harm, and causing grievous hurt is an offence. Ingredients 506.3 and 506.5 are not applicable based on the evidence.",
+      "ingredients": [
+        {
+          "ingredient_id": "506.1",
+          "ingredient_text": "Whoever commits the offence of criminal intimidation",
+          "element_type": "offence_definition",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "[LLM upgrade] The evidence states that a group of individuals 'threatened the guard with a knife'. This action clearly constitutes criminal intimidation, as it involves a threat of injury to the person (the guard) with the likely intent to cause alarm or compel the guard to not resist, thereby facilitating the robbery. The signal 'threat_made' further supports this.",
+          "llm_validated": true,
+          "llm_status": "satisfied"
+        },
+        {
+          "ingredient_id": "506.2",
+          "ingredient_text": "if the threat be to cause death or grievous hurt",
+          "element_type": "aggravating_circumstance",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [
+            "sig_001"
+          ],
+          "evidence_type": "signal",
+          "reasoning": "[LLM upgrade] The evidence explicitly states the guard was 'threatened... with a knife'. A knife is a weapon capable of causing death or grievous hurt. The act of threatening with such a weapon during a robbery inherently implies a threat to cause death or grievous hurt to ensure compliance. The intention to convey this serious threat is logically inferred from the use of a deadly weapon in a coercive situation.",
+          "llm_validated": true,
+          "llm_status": "satisfied"
+        },
+        {
+          "ingredient_id": "506.3",
+          "ingredient_text": "or to cause the destruction of any property by fire",
+          "element_type": "aggravating_circumstance",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.6000000000000001,
+          "supporting_nodes": [
+            "evt_003"
+          ],
+          "evidence_type": "event",
+          "reasoning": "[LLM downgrade] There is no evidence provided that suggests a threat to cause the destruction of any property by fire. The threat mentioned was 'with a knife' to the guard.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        },
+        {
+          "ingredient_id": "506.4",
+          "ingredient_text": "or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years",
+          "element_type": "aggravating_circumstance",
+          "ingredient_category": "actus_reus",
+          "status": "satisfied",
+          "confidence": 0.8,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "[LLM upgrade] The threat 'with a knife' implies a threat to cause physical injury, specifically grievous hurt, if the guard resisted. Causing grievous hurt is an offence punishable with imprisonment for a term which may extend to seven years (or more, depending on the specific section). Therefore, the threat was to cause an offence punishable with imprisonment for a term which may extend to seven years.",
+          "llm_validated": true,
+          "llm_status": "satisfied"
+        },
+        {
+          "ingredient_id": "506.5",
+          "ingredient_text": "or to impute unchastity to a woman",
+          "element_type": "aggravating_circumstance",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        }
+      ],
+      "consistency_flags": []
+    },
+    {
+      "statute_id": "71",
+      "heading": "Limit of punishment of offence made up of several offences.",
+      "overall_score": 0.0,
+      "status": "invalid",
+      "llm_classification": "NOT_SATISFIED",
+      "llm_classification_reasoning": "All ingredients of Section 71 relate to the legal classification, definition, and punishment of offences, or the relationship between different offences. The provided evidence, however, only describes factual events and actions (breaking in, threatening, escaping with valuables) without any legal interpretation, classification of these actions as 'offences,' or discussion of 'punishment' or 'courts.' Consequently, none of the ingredients can be satisfied based strictly on the given facts.",
+      "ingredients": [
+        {
+          "ingredient_id": "71.1",
+          "ingredient_text": "Anything which is an offence is made up of parts, any of which parts is itself an offence.",
+          "element_type": "condition",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        },
+        {
+          "ingredient_id": "71.2",
+          "ingredient_text": "The offender shall not be punished with the punishment of more than one of such his offences, unless it be so expressly provided.",
+          "element_type": "limitation",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        },
+        {
+          "ingredient_id": "71.3",
+          "ingredient_text": "Anything is an offence falling within two or more separate definitions of any law in force for the time being by which offences are defined or punished.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        },
+        {
+          "ingredient_id": "71.4",
+          "ingredient_text": "Several acts, of which one or more than one would by itself or themselves constitute an offence, constitute, when combined, a different offence.",
+          "element_type": "condition",
+          "ingredient_category": "actus_reus",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        },
+        {
+          "ingredient_id": "71.5",
+          "ingredient_text": "The offender shall not be punished with a more severe punishment than the Court which tries him could award for any one of such offences.",
+          "element_type": "limitation",
+          "ingredient_category": "circumstance",
+          "status": "not_satisfied",
+          "confidence": 0.1,
+          "supporting_nodes": [],
+          "evidence_type": "none",
+          "reasoning": "No evidence found in events, facts, or signals to support this ingredient.",
+          "llm_validated": true,
+          "llm_status": "not_satisfied"
+        }
+      ],
+      "consistency_flags": []
+    }
+  ],
+  "consistency_flags": []
+}

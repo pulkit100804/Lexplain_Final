@@ -1,0 +1,16 @@
+{
+  "case_id": "4e2453c7-e065-4b4c-b237-353e3e631267",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_8_conflict_resolution",
+  "input_refs": [
+    "ingredient_report.json",
+    "legal_facts.json"
+  ],
+  "created_at": "2026-04-08T05:26:36.267629+00:00",
+  "selected_offence": "Unknown",
+  "rejected_offences": [],
+  "explanation": "Agent 8 LLM missing or skipped.",
+  "loopholes": [],
+  "total_loopholes": 0,
+  "by_type": {}
+}

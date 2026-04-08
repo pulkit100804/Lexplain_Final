@@ -5,22 +5,22 @@ from elasticsearch import Elasticsearch
 import google.generativeai as genai
 
 # ---------------- CONFIG ----------------
-ES_URL = "https://localhost:9200"
-ES_USER = "elastic"
-ES_PASS = "qwmA7r5qvDiYiOghRIaT"
+from dotenv import load_dotenv
+import os
 
-GEMINI_API_KEY = "AIzaSyDLJDTuv6hUV72m3v2UOc4wB08qkKkAj34"
+load_dotenv()
+
+es = Elasticsearch(
+    os.getenv("ELASTIC_HOST"),
+    api_key=os.getenv("ELASTIC_API_KEY")
+)
+
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 INDEX_NAME = "judgments_chunks"
 
 # ---------------- INIT ----------------
-es = Elasticsearch(
-    ES_URL,
-    basic_auth=(ES_USER, ES_PASS),
-    verify_certs=False
-)
 
-genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 # ---------------- SEARCH ----------------

@@ -1,0 +1,36 @@
+{
+  "case_id": "3b8b8578-02fc-417e-8075-a9a07adc76fc",
+  "tenant_id": "ui_tenant",
+  "agent": "agent_3_role_tagger",
+  "input_refs": [
+    "document_graph.json"
+  ],
+  "created_at": "2026-04-08T07:01:31.038274+00:00",
+  "nodes": [
+    {
+      "node_id": "n_001",
+      "text": "A person intentionally attacked another individual with a knife multiple times, causing their death.",
+      "span": {
+        "start": 0,
+        "end": 100
+      },
+      "role": "allegation"
+    },
+    {
+      "node_id": "n_002",
+      "text": "The attack was pre-planned and done with the intention to kill.",
+      "span": {
+        "start": 101,
+        "end": 164
+      },
+      "role": "allegation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_001",
+      "target": "n_002",
+      "relation": "sequential"
+    }
+  ]
+}
