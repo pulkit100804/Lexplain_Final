@@ -31,6 +31,9 @@ Create a `.env` file in the root directory and add your Google API key:
 
 ```env
 GOOGLE_API_KEY=your_api_key_here
+
+ELASTIC_HOST=...
+ELASTIC_API_KEY-...
 ```
 
 ### 4. Initialize Data (RAG Setup)
